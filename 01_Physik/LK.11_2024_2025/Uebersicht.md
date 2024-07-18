@@ -80,5 +80,3 @@ Definition: Die kinetische Energie beschreibt die in einem Körper gespeicherte 
 Formel: 
 
 > $ E_{kin} = \dfrac{1}{2} \cdot m \cdot v^2 $
-
-
