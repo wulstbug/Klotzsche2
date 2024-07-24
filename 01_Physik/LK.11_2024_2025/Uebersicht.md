@@ -75,8 +75,10 @@ __Aufgabe:__ _Ergänze hier eine Übersicht (z.B. Tabelle, Stichpunkte..) mit de
 
 ## Kinetische Energie
 
-Definition: Die kinetische Energie beschreibt die in einem Körper gespeicherte Bewegungsenergie. Sie ist abhängig von der Bewegungsgeschwindigkeit $v$ in $\big[ \dfrac{m}{s} \big]$ und dessen Masse $m$ in $[ kg ]$.
+Definition: Die kinetische Energie beschreibt, die in einem Körper gespeicherte Bewegungsenergie. Sie ist abhängig von der Bewegungsgeschwindigkeit $v$ in $\big[ \dfrac{m}{s} \big]$ und dessen Masse $m$ in $[ kg ]$.
 
 Formel: 
 
 > $ E_{kin} = \dfrac{1}{2} \cdot m \cdot v^2 $
+
+## Test github.dev -> PC / Cloud
