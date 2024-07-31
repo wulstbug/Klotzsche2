@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Astronomic Picture of the Week</title>
+    <style>
+        body, html {
+            margin: 0;
+            padding: 0;
+            height: 100%;
+            overflow: hidden;
+            background-color: black;
+        }
+        .fullscreen-bg {
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            background: url('https://apod.nasa.gov/apod/image/2406/heic1006a_M66.jpg') no-repeat center center;
+            background-size: cover;
+        }
+        .text-overlay {
+            position: absolute;
+            bottom: 5%;
+            left: 5%;
+            color: white;
+            font-size: 20px;
+        }
+    </style>
+</head>
+<body>
+    <div class="fullscreen-bg"></div>
+    <div class="text-overlay">
+		<p>Nawi Profil 8</p>
+        <p>Astronomisches Bild der Woche</p>
+        <p>> Messier 66, Hubble (NASA, ESA)</p>
+    </div>
+</body>
+</html>
+
