@@ -25,7 +25,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 @end
 
-mode: Presentation
+mode: textbook
 
 @onload
 window.LIA.settings.font_size = 2
@@ -35,7 +35,9 @@ window.LIA.settings.font_size = 2
 
 -->
 
-# Grundkurs Physik 11 2024-2025 [11phy3]
+# Grundkurs Physik 11 2024-2025 
+
+- Kursname: 11ph3
 
 - Kurslehrer: Hr. Golnik
 
@@ -47,9 +49,9 @@ window.LIA.settings.font_size = 2
 
 - Noten: mind. 2 sonstige, 1 Klausur
 
-- 1. LK (sonstige): 16.09.2024 (LB1: Mechanische Grundlagen)
+- LK (sonstige): 16.09.2024 (Lernbereich[LB] 1: Mechanische Grundlagen)
 
-- Klausurtermin: Montag 11.11.2024
+- Klausur: Montag 11.11.2024 (LB1 [s.o.] & LB2 [elektrisches Feld])
 
 </span>
 ***********
