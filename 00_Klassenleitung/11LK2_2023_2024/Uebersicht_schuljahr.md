@@ -25,17 +25,17 @@ h1, h2, h3, h4, h5, h6 {
 }
 @end
 
-mode: Presentation
+mode: textbook
 
 @onload
 window.LIA.settings.font_size = 2
 @end
 
-@@@ ogy.de/11ph3 deaktivieren: https://ogy.de/del.cvv2y5l7old0u7gamlc1
+@@@ ogy.de/11Ph2 deaktivieren: https://ogy.de/del.jy60luhd3jlvdqltlmar
 
 -->
 
-# Grundkurs Physik 11 2024-2025 [11phy3]
+# Leistungskurs Physik 11 2024-2025 [11Phy2]
 
 - Kurslehrer: Hr. Golnik
 
@@ -45,9 +45,9 @@ window.LIA.settings.font_size = 2
 ***********
 <span style="color:orange">
 
-- Noten: mind. 2 sonstige, 1 Klausur
+- Noten: mind. 2 sonstige, 2 Klausur
 
-- Klausurtermin: Montag 11.11.2024
+- Klausurtermine: Mittwoch 25.09.2024, Mittwoch 13.01.2025
 
 </span>
 ***********
@@ -55,6 +55,6 @@ window.LIA.settings.font_size = 2
 {{2}}
 ***********
 
-- Webseite: [ogy.de/11ph3](https://ogy.de/11ph3)
+- Webseite: [ogy.de/11Ph2](https://ogy.de/11Ph2)
 
 ***********
