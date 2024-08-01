@@ -47,6 +47,8 @@ window.LIA.settings.font_size = 2
 
 - Allgemeine Informationen
 
+- Belehrungen
+
 - IPads registrieren
 
 ## Allgemeine Informationen
@@ -75,3 +77,11 @@ window.LIA.settings.font_size = 2
 ***********
 - Bücher Dienstag 06.08. 8:30 Uhr -> R234
 ***********
+
+## Belehrungen
+
+[Dokument Belehrung GYKL](https://diversewolken.ddns.net/nextcloud/index.php/s/p3oTzRAz42zyycE)
+
+[Dokument Belehrung Fachraum Physik]()
+
+[Dokument Hausordnung](https://diversewolken.ddns.net/nextcloud/index.php/s/WDmBDNabf4nmZpC)
