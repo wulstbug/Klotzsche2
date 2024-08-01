@@ -47,6 +47,8 @@ window.LIA.settings.font_size = 2
 
 - Noten: mind. 2 sonstige, 2 Klausur
 
+- Leistungskontrolle: Donnerstag 29.08.2024
+
 - Klausurtermine: Mittwoch 25.09.2024, Mittwoch 13.01.2025
 
 </span>
