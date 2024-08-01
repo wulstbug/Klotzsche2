@@ -47,6 +47,8 @@ window.LIA.settings.font_size = 2
 
 - Noten: mind. 2 sonstige, 1 Klausur
 
+- 1. LK (sonstige): 16.09.2024 (LB1: Mechanische Grundlagen)
+
 - Klausurtermin: Montag 11.11.2024
 
 </span>
