@@ -95,12 +95,12 @@ window.LIA.settings.font_size = 2
 - telefonische Entschuldigung bis 8.00 Uhr unter Tel.: 0351/2078840
 - schriftliche Entschuldigung (über LernSax-Formular oder E-Mail an __info@gymnasium-klotzsche.de__ oder in Papierform) binnen <span style="color:red"> drei Werktagen </span> von Eltern bzw. volljährigen Schülerinnen und Schülern (sonst unentschuldigtes Fehlen) an Tutor 
 
-    __Beachte: LernSax-Formular wird bei Schülern unter 18 Jahren nur akzeptiert, wenn es vom Eltern-account gesendet wurde__
+    __Beachte: LernSax-Formular wird bei Schülern unter 18 Jahren nur akzeptiert, wenn es vom Eltern-Account gesendet wurde__
 
 {{1}}
 ***********
 - Unterschrift der Tutorin bzw. des Tutors auf Laufzettel (LernSax Dateien OS 11 Oberstufenberatung oder [hier](https://diversewolken.ddns.net/nextcloud/index.php/s/CDcprA3bDneDDCQ)),	wenn Schülerinnen und Schüler wieder gesund sind 
-- dann Unterschriften von Fachlehrerinnen und Fachlehrern einholen
+- danach Unterschriften von Fachlehrerinnen und Fachlehrern einholen
 - sollte während der Fehlzeit eine Leistungsermittlung erfolgt sein, so wird eine Nachholemöglichkeit nur bei fristgemäßer Entschuldigung gewährt, andernfalls werden 00 Punkte erteilt
 ***********
 
@@ -112,3 +112,11 @@ window.LIA.settings.font_size = 2
  - 	selbständiges beschaffen von Nachschreibeterminen
  - 	Freistellungsanträge müssen im Vorfeld gestellt und genehmigt/abgelehnt werden
  ***********
+
+## Handynutzung in der Schule
+
+- Handynutzung während des Unterrichts verboten (Ausnahme: bei ausdrücklicher Erlaubnis durch den Fachlehrer)
+
+- Handynutzung in der Pause für Jahrgänge 10 bis 12 im 3. OG gestattet
+
+- bei Verstoß wird Handy eingezogen und eine Woche im Sekretariat aufbewahrt, im Wiederholungsfall zwei Wochen 
