@@ -25,7 +25,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 @end
 
-mode: textbook
+mode: presentation
 
 @onload
 window.LIA.settings.font_size = 2
@@ -48,6 +48,10 @@ window.LIA.settings.font_size = 2
 - Allgemeine Informationen
 
 - Belehrungen
+
+- Fehlzeiten
+
+- Kurssprecher
 
 - IPads registrieren
 
@@ -85,3 +89,26 @@ window.LIA.settings.font_size = 2
 [Dokument Belehrung Fachraum Physik]()
 
 [Dokument Hausordnung](https://diversewolken.ddns.net/nextcloud/index.php/s/WDmBDNabf4nmZpC)
+
+## Fehlzeiten
+
+- telefonische Entschuldigung bis 8.00 Uhr unter Tel.: 0351/2078840
+- schriftliche Entschuldigung (über LernSax-Formular oder E-Mail an __info@gymnasium-klotzsche.de__ oder in Papierform) binnen <span style="color:red"> drei Werktagen </span> von Eltern bzw. volljährigen Schülerinnen und Schülern (sonst unentschuldigtes Fehlen) an Tutor 
+
+    __Beachte: LernSax-Formular wird bei Schülern unter 18 Jahren nur akzeptiert, wenn es vom Eltern-account gesendet wurde__
+
+{{1}}
+***********
+- Unterschrift der Tutorin bzw. des Tutors auf Laufzettel (LernSax Dateien OS 11 Oberstufenberatung oder [hier](https://diversewolken.ddns.net/nextcloud/index.php/s/CDcprA3bDneDDCQ)),	wenn Schülerinnen und Schüler wieder gesund sind 
+- dann Unterschriften von Fachlehrerinnen und Fachlehrern einholen
+- sollte während der Fehlzeit eine Leistungsermittlung erfolgt sein, so wird eine Nachholemöglichkeit nur bei fristgemäßer Entschuldigung gewährt, andernfalls werden 00 Punkte erteilt
+***********
+
+{{2}}
+***********
+- keine Arzttermine in der Unterrichtszeit
+ - 	keine Freistellung für Fahrschule (nur Prüfung)
+ - 	selbständiges Nacharbeiten des Unterrichtsstoffes
+ - 	selbständiges beschaffen von Nachschreibeterminen
+ - 	Freistellungsanträge müssen im Vorfeld gestellt und genehmigt/abgelehnt werden
+ ***********
