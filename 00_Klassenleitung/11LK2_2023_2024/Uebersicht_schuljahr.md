@@ -41,6 +41,16 @@ window.LIA.settings.font_size = 2
 
 - E-Mail: golnik.ch@gykl.lernsax.de
 
+
+
+## Tutorstunde 05.08.24
+
+- Allgemeine Informationen
+
+- IPads registrieren
+
+## Allgemeine Informationen
+
 {{1}}
 ***********
 <span style="color:orange">
@@ -59,4 +69,9 @@ window.LIA.settings.font_size = 2
 
 - Webseite: [ogy.de/11Ph2](https://ogy.de/11Ph2)
 
+***********
+
+{{3}}
+***********
+- Bücher Dienstag 06.08. 8:30 Uhr -> R234
 ***********
