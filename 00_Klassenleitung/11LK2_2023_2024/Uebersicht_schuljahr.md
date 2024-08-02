@@ -129,7 +129,7 @@ Wir brauchen eine(n) Kurssprecher/Kurssprecherin und einen Stellvertreter/Stellv
 
 ## IPads registrieren
 
-Auf jedem Lehrer-IPad ist ein Link auf dem Desktop. Hier können die SuS in der ersten Stunde ihr IPad zum Namen registrieren.
+Auf jedem IPad ist ein Link auf dem Desktop. Hier können die SuS in der ersten Stunde ihr IPad zum Namen registrieren.
 
 ![Logo](https://diversewolken.ddns.net/nextcloud/index.php/s/daeDQDtLp6k3BHT/download)
 
