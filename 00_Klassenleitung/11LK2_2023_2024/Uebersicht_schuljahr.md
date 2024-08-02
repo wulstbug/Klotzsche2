@@ -35,11 +35,13 @@ window.LIA.settings.font_size = 2
 
 -->
 
-# Leistungskurs Physik 11 2024-2025 [11Phy2]
+# [11Ph2] Leistungskurs Physik
 
 - Kurslehrer: Hr. Golnik
 
 - E-Mail: golnik.ch@gykl.lernsax.de
+
+- Webseite: [ogy.de/11Ph2](https://ogy.de/11Ph2)
 
 
 
@@ -90,7 +92,7 @@ window.LIA.settings.font_size = 2
 
 [Dokument Hausordnung](https://diversewolken.ddns.net/nextcloud/index.php/s/WDmBDNabf4nmZpC)
 
-## Fehlzeiten
+### Fehlzeiten
 
 - telefonische Entschuldigung bis 8.00 Uhr unter Tel.: 0351/2078840
 - schriftliche Entschuldigung (über LernSax-Formular oder E-Mail an __info@gymnasium-klotzsche.de__ oder in Papierform) binnen <span style="color:red"> drei Werktagen </span> von Eltern bzw. volljährigen Schülerinnen und Schülern (sonst unentschuldigtes Fehlen) an Tutor 
@@ -113,10 +115,27 @@ window.LIA.settings.font_size = 2
  - 	Freistellungsanträge müssen im Vorfeld gestellt und genehmigt/abgelehnt werden
  ***********
 
-## Handynutzung in der Schule
+### Handynutzung in der Schule
 
 - Handynutzung während des Unterrichts verboten (Ausnahme: bei ausdrücklicher Erlaubnis durch den Fachlehrer)
 
 - Handynutzung in der Pause für Jahrgänge 10 bis 12 im 3. OG gestattet
 
 - bei Verstoß wird Handy eingezogen und eine Woche im Sekretariat aufbewahrt, im Wiederholungsfall zwei Wochen 
+
+## Kurssprecher
+
+Wir brauchen eine(n) Kurssprecher/Kurssprecherin und einen Stellvertreter/Stellvertreterin.
+
+## IPads registrieren
+
+Auf jedem Lehrer-IPad ist ein Link auf dem Desktop. Hier können die SuS in der ersten Stunde ihr IPad zum Namen registrieren.
+
+![Logo](https://diversewolken.ddns.net/nextcloud/index.php/s/daeDQDtLp6k3BHT/download)
+
+{{1}}
+***************
+Öffnet man diesen Link so sieht das so aus:
+
+??[IPad-Reg](https://forms.microsoft.com/Pages/ResponsePage.aspx?id=OYkUKbuZEE6zqVVLeyuod-N98JNwJnhAr0ZoZo5y2cdUQlE5S05TRUdKSVJQVDJHM0w3UFdPMkdJSS4u)
+***************
