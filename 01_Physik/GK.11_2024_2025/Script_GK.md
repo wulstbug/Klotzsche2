@@ -26,7 +26,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 @end
 
-mode: textbook
+mode: presentation
 
 @onload
 window.LIA.settings.font_size = 2
@@ -149,7 +149,7 @@ __Defintion:__ Kinetische Energie ist die in der Bewegung eines Körpers gespeic
 
 {{8}}
 ***************
-> $\hspace{0.5cm}$ _Ergebnis:_
+> Ergebnis:
 >
 > $\hspace{1cm}$  $E_{kin} = 578796,3 J \approx 578,8 kJ $
 ***************
@@ -204,16 +204,16 @@ __Defintion:__ Potentielle Energie eines Körpers ist die in seiner der Lage (d.
 
 {{6}}
 ***************
-> $\hspace{0.5cm}$ _2. Berechnung_
+> Lsg.:
 >
 > $\hspace{1cm}$  $E_{pot} = E_{pot} = m \cdot g \cdot h $
 >
 > $\hspace{1cm}$  $E_{pot} = 1500 kg \cdot 9,81\frac{m}{s^2} \cdot 50m $
 ***************
 
-{{8}}
+{{7}}
 ***************
-> $\hspace{0.5cm}$ _Ergebnis:_
+> Ergebnis:
 >
 > $\hspace{1cm}$  $E_{pot} = 735750 J \approx 735,8 kJ $
 ***************
