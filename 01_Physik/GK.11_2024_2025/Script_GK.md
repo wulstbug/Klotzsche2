@@ -230,5 +230,3 @@ __Defintion:__ Potentielle Energie eines Körpers ist die in seiner der Lage (d.
 
 > ![EnergieformenA](https://diversewolken.ddns.net/nextcloud/index.php/s/3JrTCX9NRJegMnP/download)
 
-Optional: $\textcircled{A}$ kannst du mit Hilfe des Tafelwerks einfügen_
-
