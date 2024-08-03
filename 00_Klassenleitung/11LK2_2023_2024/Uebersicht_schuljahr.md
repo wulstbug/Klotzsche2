@@ -45,17 +45,21 @@ window.LIA.settings.font_size = 2
 
 
 
-## Tutorstunde 05.08.24
+## Tutorstunde 05.08.24 - Übersicht
 
-- Allgemeine Informationen
+- [ ] Allgemeine Informationen
 
-- Belehrungen
+- [ ] Belehrungen
 
-- Fehlzeiten
+- [ ] Fehlzeiten
 
-- Kurssprecher
+- [ ] Kurssprecher
 
-- IPads registrieren
+- [ ] IPads registrieren
+
+- [ ] Kleine Umfrage zum LK
+
+- [ ] Frühstücken
 
 ## Allgemeine Informationen
 
@@ -139,3 +143,8 @@ Auf jedem IPad ist ein Link auf dem Desktop. Hier können die SuS in der ersten 
 
 ??[IPad-Reg](https://forms.microsoft.com/Pages/ResponsePage.aspx?id=OYkUKbuZEE6zqVVLeyuod-N98JNwJnhAr0ZoZo5y2cdUQlE5S05TRUdKSVJQVDJHM0w3UFdPMkdJSS4u)
 ***************
+
+## Kleine Umfrage zum LK-Physik
+
+[qr-code](https://forms.office.com/Pages/ResponsePage.aspx?id=OYkUKbuZEE6zqVVLeyuod-N98JNwJnhAr0ZoZo5y2cdUQVJSSUlWVzlMRFpLNkpUWVM4NklWUDY1Si4u)
+??[LK-Umfrage](https://forms.office.com/Pages/ResponsePage.aspx?id=OYkUKbuZEE6zqVVLeyuod-N98JNwJnhAr0ZoZo5y2cdUQVJSSUlWVzlMRFpLNkpUWVM4NklWUDY1Si4u)
