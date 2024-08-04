@@ -43,25 +43,34 @@ window.LIA.settings.font_size = 2
 
 - E-Mail: golnik.ch@gykl.lernsax.de
 
+- Webseite: [ogy.de/11ph3](https://ogy.de/11ph3)
+
 {{1}}
 ***********
 <span style="color:orange">
 
 - Noten: mind. 2 sonstige, 1 Klausur
 
-- LK (sonstige): 16.09.2024 (Lernbereich[LB] 1: Mechanische Grundlagen)
-
-- Klausur: Montag 11.11.2024 (LB1 [s.o.] & LB2 [elektrisches Feld])
+| | |
+| Was? | Wann? | Thema |
+| LK (sonstige) | Montag 16.09.2024 | Lernbereich[LB] 1: Mechanische Grundlagen |
+| Klausur | Montag 11.11.2024 | LB1 [s.o.] & LB2 [elektrisches Feld] |
 
 </span>
 ***********
 
-{{2}}
-***********
+## IPads registrieren
 
-- Webseite: [ogy.de/11ph3](https://ogy.de/11ph3)
+Auf jedem IPad ist ein Link auf dem Desktop. Hier können die SuS in der ersten Stunde ihr IPad zum Namen registrieren.
 
-***********
+![Logo](https://diversewolken.ddns.net/nextcloud/index.php/s/daeDQDtLp6k3BHT/download)
+
+{{1}}
+***************
+Öffnet man diesen Link so sieht das so aus:
+
+??[IPad-Reg](https://forms.microsoft.com/Pages/ResponsePage.aspx?id=OYkUKbuZEE6zqVVLeyuod-N98JNwJnhAr0ZoZo5y2cdUQlE5S05TRUdKSVJQVDJHM0w3UFdPMkdJSS4u)
+***************
 
 # LB 1 - Mechanische Grundlagen
 
