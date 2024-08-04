@@ -53,6 +53,8 @@ window.LIA.settings.font_size = 2
 
 - [ ] Fehlzeiten
 
+- [ ] Aktualisierungsbögen
+
 - [ ] Kurssprecher
 
 - [ ] IPads registrieren
