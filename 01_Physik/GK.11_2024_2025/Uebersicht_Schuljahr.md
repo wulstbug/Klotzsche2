@@ -61,7 +61,7 @@ window.LIA.settings.font_size = 2
 
 ## IPads registrieren
 
-Auf jedem IPad ist ein Link auf dem Desktop. Hier können die SuS in der ersten Stunde ihr IPad zum Namen registrieren.
+Ihr erhaltet einen Link. Bitte annehmen.
 
 ![Logo](https://diversewolken.ddns.net/nextcloud/index.php/s/daeDQDtLp6k3BHT/download)
 
