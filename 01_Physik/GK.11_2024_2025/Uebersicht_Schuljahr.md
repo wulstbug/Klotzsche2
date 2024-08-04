@@ -49,7 +49,7 @@ window.LIA.settings.font_size = 2
 ***********
 <span style="color:orange">
 
-- Noten: mind. 2 sonstige, 1 Klausur
+-  Noten: mind. 2 sonstige, 1 Klausur
 
 | | |
 | Was? | Wann? | Thema |
