@@ -43,7 +43,7 @@ window.LIA.settings.font_size = 2
 
 - Webseite: [ogy.de/11Ph2](https://ogy.de/11Ph2)
 
-- Unterrichts Plan: [Herr Golnik](https://diversewolken.ddns.net/nextcloud/index.php/s/9BRb5nkXicbS854)
+- Unterrichts Plan: [Herr Golnik](https://diversewolken.ddns.net/nextcloud/index.php/s/9BRb5nkXicbS854/download)
 
 ## Tutorstunde 05.08.24 - Übersicht
 
