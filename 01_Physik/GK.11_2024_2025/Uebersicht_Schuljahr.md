@@ -193,7 +193,7 @@ __Defintion:__ Kinetische Energie ist die in der Bewegung eines Körpers gespeic
 
 {{1}}
 ************
-__Defintion:__ Potentielle Energie eines Körpers ist die in seiner der Lage (d.h. Höhe) über einem Bezugspunkt (z.B. Erdboden) gespeicherte Energie. Sie hängt von der Höhe h und der Masse m des Körpers ab.
+__Defintion:__ Potentielle Energie eines Körpers ist die in seiner Lage (d.h. Höhe) über einem Bezugspunkt (z.B. Erdboden) gespeicherte Energie. Sie hängt von der Höhe h und der Masse m des Körpers ab.
 ************
 
 {{2}}
