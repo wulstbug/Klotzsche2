@@ -135,16 +135,10 @@ Wir brauchen eine(n) Kurssprecher/Kurssprecherin und einen Stellvertreter/Stellv
 
 ## IPads registrieren
 
-Auf jedem IPad ist ein Link auf dem Desktop. Hier können die SuS in der ersten Stunde ihr IPad zum Namen registrieren.
-
-![Logo](https://diversewolken.ddns.net/nextcloud/index.php/s/daeDQDtLp6k3BHT/download)
-
-{{1}}
-***************
-Öffnet man diesen Link so sieht das so aus:
+Registriere deinen Namen auf das I-Pad, das du bekommen hast.
 
 ??[IPad-Reg](https://forms.microsoft.com/Pages/ResponsePage.aspx?id=OYkUKbuZEE6zqVVLeyuod-N98JNwJnhAr0ZoZo5y2cdUQlE5S05TRUdKSVJQVDJHM0w3UFdPMkdJSS4u)
-***************
+
 
 ## Kleine Umfrage zum LK-Physik 2024/25
 

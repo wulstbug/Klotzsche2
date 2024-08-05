@@ -63,6 +63,7 @@ __Energie__
 >- __Kinetische Energie (Bewegungsenergie)__
 >- __Potentielle Energie (Lageenergie)__
 >- Rotationsenergie (Drehungen)
+>- Spannenergie
 
 >- __Thermische Energie (Wärmeenergie)__
 >- __Elektrische Energie__

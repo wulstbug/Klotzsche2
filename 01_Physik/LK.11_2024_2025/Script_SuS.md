@@ -36,3 +36,49 @@ window.LIA.settings.font_size = 2
 -->
 
 # Physik LK Script und Aufgaben für Lernende
+
+
+# LB 1 - Erhaltungssätze und ihre Anwendungen
+
+## 1.1 - Wiederholung Energieformen
+
+__Energie__
+
+{{1}}
+*****************
+> Defition: Energie beschreibt die Fähigkeit eines Körpers:
+*****************
+{{2}}
+*****************
+>- mechanische Arbeit zu verrichten (z.B. Beschleunigen, Verformen)
+>- Licht auszusenden
+>- Wärme abzugeben
+*****************
+
+{4}{__Energieformen__}
+
+{{5}}
+*****************
+>__Mechanische Energieformen:__
+>
+>- __Kinetische Energie (Bewegungsenergie)__
+>- __Potentielle Energie (Lageenergie)__
+>- Rotationsenergie (Drehungen)
+>- Spannenergie
+
+>- __Thermische Energie (Wärmeenergie)__
+>- __Elektrische Energie__
+>- Magnetische Energie
+>- Strahlungsenergie (Lichtenergie)
+>- Chemische Energie
+>- Kernenergie (Atomenergie)
+*****************
+
+## Übung: Zuordnung Energieformen
+
+Übungs 1: _Zuordnung Energieformen_
+
+<iframe src="https://learningapps.org/watch?app=23986132" style="border:0px;width:100%;height:500px" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"></iframe>
+
+Übung 2: _Zuordnung Energieformen_
+<iframe src="https://learningapps.org/watch?app=28854190" style="border:0px;width:100%;height:500px" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"></iframe>
