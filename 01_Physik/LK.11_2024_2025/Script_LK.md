@@ -87,6 +87,15 @@ __Energie__
 {{1}}
 ************
 > Ist eine physikalische Größe eine __Erhaltungsgröße__, so {2}{ändert sich der Wert dieser physikalischen Größe nicht. In einem __abgeschlossenen System__ ändern sich Erhaltungsgrößen nicht.}
+
+__Beispiele für Erhaltungsgrößen (in einem abgeschlossenen System):__
+************
+
+{{2}}
+************
+- Gesamtenergie
+- elektrische Ladung
+- Impuls (Drehimpuls)
 ************
 
 
