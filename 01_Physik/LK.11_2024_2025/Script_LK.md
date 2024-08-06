@@ -95,7 +95,7 @@ __Beispiele für Erhaltungsgrößen (in einem abgeschlossenen System):__
 ************
 - Gesamtenergie
 - elektrische Ladung
-- Impuls (Drehimpuls)
+- __Impuls__ (bzw. Drehimpuls)
 ************
 
 
