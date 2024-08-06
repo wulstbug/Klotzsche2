@@ -45,8 +45,6 @@ window.LIA.settings.font_size = 2
 
 - Unterrichts Plan: [Herr Golnik](https://diversewolken.ddns.net/nextcloud/index.php/s/9BRb5nkXicbS854)
 
-??[Herr Golnik](https://diversewolken.ddns.net/nextcloud/index.php/s/9BRb5nkXicbS854/download)
-
 ## Tutorstunde 05.08.24 - Übersicht
 
 - [ ] Allgemeine Informationen
