@@ -25,8 +25,6 @@ h1, h2, h3, h4, h5, h6 {
 }
 @end
 
-mode: presentation
-
 @onload
 window.LIA.settings.font_size = 2
 @end
@@ -93,8 +91,8 @@ __Beispiele für Erhaltungsgrößen (in einem abgeschlossenen System):__
 
 {{2}}
 ************
-- Gesamtenergie
-- elektrische Ladung
+- __Gesamtenergie__
+- __elektrische Ladung__
 - __Impuls__ (bzw. Drehimpuls)
 ************
 
@@ -103,15 +101,58 @@ __Beispiele für Erhaltungsgrößen (in einem abgeschlossenen System):__
 
 {{1}}
 ************
-> In einem geschlossenen System ist __Gesamtenergie__ eine Erhaltungsgröße, d.h. die Summe aller Energien ist eine konstant.
+> In einem geschlossenen System ist __Gesamtenergie__ eine Erhaltungsgröße, d.h. die Summe aller Energien ist konstant.
 ************
 
 {{2}}
 ************
-> Schlussfolgerung: Energie kann weder erzeugt noch vernichtet werden, sondern nur von einer Form in eine andere umgewandelt werden.
+> __Schlussfolgerung:__ Energie kann weder erzeugt noch vernichtet werden, sondern nur von einer Form in eine andere umgewandelt werden.
 ************
 
-## 1.2 Berechnung der kinetischen Energie
+## Beispiel
+
+Schräger Wurf einer Kugel, welche durch eine gespannte Feder beschleunigt wird.
+
+{{1}}
+*************
+__Versuchsskizze:__
+
+![Tafelbild_SchrägerWurf](https://diversewolken.ddns.net/nextcloud/index.php/s/jGeEEkxHXj9m8RC/download)
+*************
+
+{{2}}
+*********************
+__Energieumwandlungen:__
+
+![Tafelbild_SchrägerWurf_Energie](https://diversewolken.ddns.net/nextcloud/index.php/s/EXzBa85WQYZQCeD/download)
+*********************
+
+## 1.4 Berechnung der Spannenergie
+
+{{1}}
+************
+__Defintion:__ Spannenergie ($E_{sp}$) ist die in einer gespannten mechanischen Feder gespeicherte Energie. Sie hängt von der Federkonstante $D$ der Feder und dem Spannweg $s$ ab.
+************
+
+{{2}}
+***************
+> __Formel:__ $$E_{sp} = \dfrac{1}{2} \cdot D \cdot s^2$$
+>
+>  D .. Federkonstante in $\Big[ \dfrac{N}{m} \Big]$ 
+>
+>  s .. Spannweg gegenüber Ruhelage in $\Big[ m \Big]$
+
+***************
+
+{{3}}
+***************
+> __Einheit: 1 J [Joule]__
+>
+> _Hinweis: Rechne die Geschwindigkeit immer in **$\frac{m}{s}$** und die Masse immer in **kg** um, dann erhälst du als Ergebnis die Einheit Joule_
+***************
+
+
+## 1.5 Berechnung der kinetischen Energie
 
 {{1}}
 ************
@@ -184,7 +225,7 @@ __Defintion:__ Kinetische Energie ist die in der Bewegung eines Körpers gespeic
 > $\hspace{1cm}$  $E_{kin} = 578796,3 J \approx 578,8 kJ $
 ***************
 
-## 1.3 Berechnung der potentiellen Energie
+## 1.6 Berechnung der potentiellen Energie
 
 {{1}}
 ************
