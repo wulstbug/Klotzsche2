@@ -392,20 +392,30 @@ __Berechnungen aus Messwerten:__
 
 </details> |
 
-__Weitere Aufgaben:__ Metzler LB S. 67 Aufgabe 2, 3
+__Weitere Aufgaben:__ Metzler LB S. 67 Aufgabe 2, 3, 11*
+
 <details>
 
   <summary>Lösungen 2</summary>
 
-    $\hspace{1cm}$ 2a) $E_{kin} \approx 111111 J $  
+    $\hspace{1cm}$ 2a) $E_{kin} \approx 111`111 J $  
     $\hspace{1cm}$ 2b) $h \approx 14,16 m$
 
 </details>
 
 <details>
 
-<summary>Lösungen 3</summary>
+<summary>Lösung 3</summary>
 
 ![Lsg_Metz67_3](https://diversewolken.ddns.net/nextcloud/index.php/s/AawA8akxi3W9TDR/download)
+
+</details>
+
+
+<details>
+
+<summary>Lösung 11*</summary>
+
+![Lsg_Metz67_11](https://diversewolken.ddns.net/nextcloud/index.php/s/EH9Q3z2DkEEJ7tP/download)
 
 </details>
