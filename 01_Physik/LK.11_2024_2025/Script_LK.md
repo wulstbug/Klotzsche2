@@ -379,3 +379,33 @@ __Berechnungen aus Messwerten:__
 ![SchrägerWurf_Berechnungen_2](https://diversewolken.ddns.net/nextcloud/index.php/s/DzHEmS5fHtX8bdC/download)
 
 ![SchrägerWurf_Berechnungen_3](https://diversewolken.ddns.net/nextcloud/index.php/s/DzHEmS5fHtX8bdC/download)
+
+
+## Aufgabe Bungeespringerin
+
+| | |
+| ![Bungee_Mtz67_Bsp2](https://diversewolken.ddns.net/nextcloud/index.php/s/XbQpeLEaPG88bZk/download) | Eine Bungeespringerin (60 kg) beabsichtigt, von einer Brücke herabzuspringen. Das Bungeeseil hat im ungedehnten Zustand eine Länge von $l=25m$ und der Abstand des Sprungpunktes zur Erdoberfläche beträgt 45m. <br> Nimm an, dass für die Seildehnung das Hook'sche Gesetz gilt und die Federkonstante $D = 160 \frac{N}{m}$ beträgt. <br> <br> Ermittle den tiefsten Punkt des an den Füßen befestigten Seils (über der Wasseroberfläche). <details>
+
+  <summary>Hinweise zur Lösung</summary>
+
+  <p>siehe Metzler LB. S 67 Bsp. 2</p>
+
+</details> |
+
+__Weitere Aufgaben:__ Metzler LB S. 67 Aufgabe 2, 3
+<details>
+
+  <summary>Lösungen 2</summary>
+
+    $\hspace{1cm}$ 2a) $E_{kin} \approx 111111 J $  
+    $\hspace{1cm}$ 2b) $h \approx 14,16 m$
+
+</details>
+
+<details>
+
+<summary>Lösungen 3</summary>
+
+![Lsg_Metz67_3](https://diversewolken.ddns.net/nextcloud/index.php/s/AawA8akxi3W9TDR/download)
+
+</details>
