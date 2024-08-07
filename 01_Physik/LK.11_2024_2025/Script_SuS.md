@@ -123,13 +123,6 @@ __Versuchsskizze:__
 ![Tafelbild_SchrägerWurf](https://diversewolken.ddns.net/nextcloud/index.php/s/jGeEEkxHXj9m8RC/download)
 *************
 
-{{2}}
-*********************
-__Energieumwandlungen:__
-
-![Tafelbild_SchrägerWurf_Energie](https://diversewolken.ddns.net/nextcloud/index.php/s/EXzBa85WQYZQCeD/download)
-*********************
-
 ## 1.5 Berechnung der kinetischen Energie
 
 {{1}}
@@ -367,3 +360,18 @@ __Defintion:__ Spannenergie ($E_{sp}$) ist die in einer gespannten mechanischen 
 >
 > $\hspace{1cm}$  $E_{sp} = 0,225\,J \approx 225\,mJ $
 ***************
+
+## 1.8 Analyse des schrägen Wurfs (siehe 1.4)
+
+__Energierelationen:__
+
+![Tafelbild_SchrägerWurf_Energie](https://diversewolken.ddns.net/nextcloud/index.php/s/EXzBa85WQYZQCeD/download)
+
+__Messwerte aus Experiment:__
+
+![SchrägerWurf_Messwerte_1](https://diversewolken.ddns.net/nextcloud/index.php/s/pkj48Zo77dGA36G/download)
+
+__Berechnungen aus Messwerten:__
+![SchrägerWurf_Berechnungen_2](https://diversewolken.ddns.net/nextcloud/index.php/s/DzHEmS5fHtX8bdC/download)
+
+![SchrägerWurf_Berechnungen_3](https://diversewolken.ddns.net/nextcloud/index.php/s/DzHEmS5fHtX8bdC/download)

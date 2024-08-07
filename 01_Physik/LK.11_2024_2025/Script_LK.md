@@ -367,9 +367,13 @@ __Defintion:__ Spannenergie ($E_{sp}$) ist die in einer gespannten mechanischen 
 
 ## 1.8 Analyse des schrägen Wurfs (siehe 1.4)
 
+__Energierelationen:__
+
+![Tafelbild_SchrägerWurf_Energie](https://diversewolken.ddns.net/nextcloud/index.php/s/EXzBa85WQYZQCeD/download)
+
 __Messwerte aus Experiment:__
 
-![SchrägerWurf_Berechnungen_1](https://diversewolken.ddns.net/nextcloud/index.php/s/pkj48Zo77dGA36G/download)
+![SchrägerWurf_Messwerte_1](https://diversewolken.ddns.net/nextcloud/index.php/s/pkj48Zo77dGA36G/download)
 
 __Berechnungen aus Messwerten:__
 ![SchrägerWurf_Berechnungen_2](https://diversewolken.ddns.net/nextcloud/index.php/s/DzHEmS5fHtX8bdC/download)
