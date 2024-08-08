@@ -382,13 +382,35 @@ __Berechnungen aus Messwerten:__
 | | |
 | ![Bungee_Mtz67_Bsp2](https://diversewolken.ddns.net/nextcloud/index.php/s/XbQpeLEaPG88bZk/download) | Eine Bungeespringerin (60 kg) beabsichtigt, von einer Brücke herabzuspringen. Das Bungeeseil hat im ungedehnten Zustand eine Länge von $l=25m$ und der Abstand des Sprungpunktes zur Erdoberfläche beträgt 45m. <br> Nimm an, dass für die Seildehnung das Hook'sche Gesetz gilt und die Federkonstante $D = 160 \frac{N}{m}$ beträgt. <br> <br> Ermittle den tiefsten Punkt des an den Füßen befestigten Seils (über der Wasseroberfläche). <details>
 
+<br>
+
   <summary>Hinweise zur Lösung</summary>
 
-  <p>siehe Metzler LB. S 67 Bsp. 2</p>
+<p>Hat die Springerin den tiefsten Punkt erreicht, so hat sich die potentielle Energie, komplett in Spannenergie des Seils umgewandelt.
+<br>
+Die potentielle Energie am Ort (l+s) unterhalb des Absprungs berechnet sich mit
+
+$$ E_{pot} = m \cdot g \cdot (l+s). $$
+
+Hier ist l die Länge des Seils und s die zusätzliche Dehnung des Seils über die Ruhelage hinaus. Die Spannenergie die Seils berechnet sich mit
+
+$$ E_{sp} = \frac{1}{2} \cdot D \cdot s^2.$$
+
+Wie oben beschrieben setzen wir nun für den untersten Punkt $E_{pot} = E_{sp}$, d.h.
+
+$$m \cdot g \cdot (l+s) = \frac{1}{2} \cdot D \cdot s^2 $$
+
+Diese Gleichung enthält als Unbekannt nur s. Mit Hilfe des Taschenrechners erhält man die Lösungsmenge $$L = \{-10,37 ; 17,73\}.$$
+
+Die negative Lösung ist unphysikalisch, somit bleibt für $s = 17,73 m$ übrig. Die gesuchte Höhe über der Wasseroberfläche ergibt
+
+$$ 45 - (l + s) = 45 - (25+17,73) = 2,27 m$$</p>
 
 </details> |
 
 __Weitere Aufgaben:__ Metzler LB S. 67 Aufgabe 2, 3, 11*
+
+
 
 <details>
 
