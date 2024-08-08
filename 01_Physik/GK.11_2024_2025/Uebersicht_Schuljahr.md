@@ -242,7 +242,7 @@ __Defintion:__ Potentielle Energie eines Körpers ist die in seiner Lage (d.h. H
 ***************
 > Lsg.:
 >
-> $\hspace{1cm}$  $E_{pot} = E_{pot} = m \cdot g \cdot h $
+> $\hspace{1cm}$  $E_{pot} = m \cdot g \cdot h $
 >
 > $\hspace{1cm}$  $E_{pot} = 1500 kg \cdot 9,81\frac{m}{s^2} \cdot 50m $
 ***************
