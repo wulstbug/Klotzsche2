@@ -386,7 +386,8 @@ __Berechnungen aus Messwerten:__
 
   <summary>Hinweise zur Lösung</summary>
 
-<p>Hat die Springerin den tiefsten Punkt erreicht, so hat sich die potentielle Energie, komplett in Spannenergie des Seils umgewandelt.
+<p>
+Hat die Springerin den tiefsten Punkt erreicht, so hat sich die potentielle Energie, komplett in Spannenergie des Seils umgewandelt.
 <br>
 Die potentielle Energie am Ort (l+s) unterhalb des Absprungs berechnet sich mit
 
@@ -404,7 +405,8 @@ Diese Gleichung enthält als Unbekannt nur s. Mit Hilfe des Taschenrechners erh�
 
 Die negative Lösung ist unphysikalisch, somit bleibt für $s = 17,73 m$ übrig. Die gesuchte Höhe über der Wasseroberfläche ergibt
 
-$$ 45 - (l + s) = 45 - (25+17,73) = 2,27 m$$</p>
+$$ 45 - (l + s) = 45 - (25+17,73) = 2,27 m$$
+</p>
 
 </details> |
 
