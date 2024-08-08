@@ -384,7 +384,7 @@ __Berechnungen aus Messwerten:__
 ## Aufgabe Bungeespringerin
 
 | | |
-| ![Bungee_Mtz67_Bsp2](https://diversewolken.ddns.net/nextcloud/index.php/s/XbQpeLEaPG88bZk/download) | Eine Bungeespringerin (60 kg) beabsichtigt, von einer Brücke herabzuspringen. Das Bungeeseil hat im ungedehnten Zustand eine Länge von $l=25m$ und der Abstand des Sprungpunktes zur Erdoberfläche beträgt 45m. <br> Nimm an, dass für die Seildehnung das Hook'sche Gesetz gilt und die Federkonstante $D = 160 \frac{N}{m}$ beträgt. <br> <br> Ermittle den tiefsten Punkt des an den Füßen befestigten Seils (über der Wasseroberfläche). <details>
+| ![Bungee_Mtz67_Bsp2](https://diversewolken.ddns.net/nextcloud/index.php/s/XbQpeLEaPG88bZk/download) | Eine Bungeespringerin (60 kg) beabsichtigt, von einer Brücke herabzuspringen. Das Bungeeseil hat im ungedehnten Zustand eine Länge von $l=25m$ und der Abstand des Sprungpunktes zur Wasseroberfläche beträgt 45m. <br> Nimm an, dass für die Seildehnung das Hook'sche Gesetz gilt und die Federkonstante $D = 160 \frac{N}{m}$ beträgt. <br> <br> Ermittle den tiefsten Punkt des an den Füßen befestigten Seils (über der Wasseroberfläche). <details>
 
   <summary>Hinweise zur Lösung</summary>
 
