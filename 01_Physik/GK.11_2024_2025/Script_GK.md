@@ -63,7 +63,7 @@ __Energie__
 >- __Kinetische Energie (Bewegungsenergie)__
 >- __Potentielle Energie (Lageenergie)__
 >- Rotationsenergie (Drehungen)
->- Spannenergie
+>- Spannenergie (z.B. Feder, Bungeeseil)
 
 >- __Thermische Energie (Wärmeenergie)__
 >- __Elektrische Energie__
@@ -231,3 +231,56 @@ __Defintion:__ Potentielle Energie eines Körpers ist die in seiner der Lage (d.
 
 > ![EnergieformenA](https://diversewolken.ddns.net/nextcloud/index.php/s/3JrTCX9NRJegMnP/download)
 
+## Lösung Arbeitsblatt Energieformen
+
+Überprüfe die Lösung mit deinen Aufzeichnungen.
+
+> ![EnergieformenLösung](https://diversewolken.ddns.net/nextcloud/index.php/s/yLXRoPQ8iWkni4b/download)
+
+
+## 1.4. Demonstrationsexperiment Senkrechter Wurf 
+
+__Beispiel zu Energieumwandlungen__
+
+Beschreibung: Eine Stahlkugel wird mit Hilfe eine gespannten Feder senkrecht nach oben geschossen. Wir beschreiben diesen Versuch an drei spezifischen Punkten.
+
+{{1}}
+*************
+__Versuchsaufbau:__
+
+![Tafelbild_SenkrechterWurf](https://diversewolken.ddns.net/nextcloud/index.php/s/ac7aBYYk5sDojLN/download)
+*************
+
+{{2}}
+*************
+__Qualitative Analyse der Energieerhaltung:__
+
+_Hinweis: Qualitativ bedeutet ohne Berechnung_
+
+![Tafelbild_AnalyseEnergieerhaltung](https://diversewolken.ddns.net/nextcloud/index.php/s/y5X8EFstJe6AdwB/download)
+*************
+
+## 1.5 Messwerte und Berechnungen Senkrechter Wurf
+
+{{1}}
+*************
+__Messwerte:__
+
+![Tafelbild_MesswerteSenkrechterWurf](https://diversewolken.ddns.net/nextcloud/index.php/s/bxW7ffp28WKc8Gp/download)
+*************
+
+{{2}}
+*************
+__Berechnungen:__
+
+> Berechne für die Zustände 1,2 & 3 die Spannenergie der Feder, die potentielle Energie der Kugel und die kinetische Energie der Kugel.
+
+Ergänze dazu die Tabelle:
+
+| | | | |
+| Nr. | $E_{sp}$ in J | $E_{pot}$ in J | $E_{kin}$ in J |
+| 1 | | | |
+| 2 | | | |
+| 3 | | | |
+
+*************

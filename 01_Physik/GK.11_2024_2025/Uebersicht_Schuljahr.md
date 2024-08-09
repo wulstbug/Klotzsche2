@@ -98,6 +98,7 @@ __Energie__
 >- __Kinetische Energie (Bewegungsenergie)__
 >- __Potentielle Energie (Lageenergie)__
 >- Rotationsenergie (Drehungen)
+>- Spannenergie (z.B. Feder, Bungeeseil)
 
 >- __Thermische Energie (Wärmeenergie)__
 >- __Elektrische Energie__
@@ -265,5 +266,14 @@ __Defintion:__ Potentielle Energie eines Körpers ist die in seiner Lage (d.h. H
 3. Ergänze die physikalischen Größen mit Name und Einheit
 
 > ![EnergieformenA](https://diversewolken.ddns.net/nextcloud/index.php/s/3JrTCX9NRJegMnP/download)
+
+
+## Lösung Arbeitsblatt Energieformen
+
+Überprüfe die Lösung mit deinen Aufzeichnungen.
+
+> ![EnergieformenLösung](https://diversewolken.ddns.net/nextcloud/index.php/s/yLXRoPQ8iWkni4b/download)
+
+
 
 
