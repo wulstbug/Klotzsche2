@@ -358,7 +358,7 @@ __Defintion:__ Spannenergie ($E_{sp}$) ist die in einer gespannten mechanischen 
 > $\hspace{1cm}$ => $E_{sp} = 0,225 N\cdot m = 0,225 J$
 ***************
 
-{{8}}
+{{11}}
 ***************
 > Ergebnis:
 >
@@ -403,7 +403,7 @@ Wie oben beschrieben setzen wir nun für den untersten Punkt $E_{pot} = E_{sp}$,
 
 $$m \cdot g \cdot (l+s) = \frac{1}{2} \cdot D \cdot s^2 $$
 
-Diese Gleichung enthält als Unbekannt nur s. Mit Hilfe des Taschenrechners erhält man die Lösungsmenge $$L = \{-10,37 ; 17,73\}.$$
+Diese Gleichung enthält als Unbekannt nur s. Mit Hilfe des Taschenrechners erhält man die Lösungsmenge $$\mathbb{L} = \{-10,37 ; 17,73\}.$$
 
 Die negative Lösung ist unphysikalisch, somit bleibt für $s = 17,73 m$ übrig. Die gesuchte Höhe über der Wasseroberfläche ergibt
 
@@ -439,3 +439,74 @@ __Weitere Aufgaben:__ Metzler LB S. 67 Aufgabe 2, 3, 11*
 ![Lsg_Metz67_11](https://diversewolken.ddns.net/nextcloud/index.php/s/EH9Q3z2DkEEJ7tP/download)
 
 </details>
+
+## 1.9 Fehlerrechnung zur Aufgabe: Bungeespringerin
+
+> __Annahme zur Fehlerrechnung:__ Für die Federkonstante des Seils wird vom Hersteller eine Tolleranz (d.h. Ungenauigkeit oder Messfehler) von 5% angegeben. Die Masse eines Menschen ist ebenfalls natürlichen Schwankungen unterworfen. Nimm hier eine Toleranz von $\pm\,1\,kg$ an.
+
+> __Aufgabenstellung:__ Überprüfe, ob der Spung für die Bungeespringerin sicher ist.
+
+{{1}}
+***************
+> __Analyse:__
+>
+> geg.: 
+>
+> $\hspace{1cm}$ $D = 160\frac{N}{m}$ "$\pm5\%$" = $160 \frac{N}{m} \pm 8 \frac{N}{m}$
+> 
+> $\hspace{1cm}$ $m = 61 kg \pm 1 kg$
+>
+> $\hspace{1cm}$ $l = 25 m$
+>
+> $\hspace{1cm}$ $h_{max} = 45\,m$
+>
+> ges.: 
+>
+> $\hspace{1cm}$ $s$...maximale Seildehnung im __ungünstigsten Fall__
+***************
+
+{{2}}
+***************
+> Lsg.:
+>
+> $\hspace{1cm}$  Die maximale Seildehnung $s$ wird größer, wenn 
+***************
+
+{{3}}
+***************
+> $\hspace{1cm}$  die Masse steigt und die Federkonstante des Seils kleiner wird.
+***************
+
+{{4}}
+***************
+> $\hspace{1cm}$ d.h. um die maximal mögliche Seildehnung zu ermitteln, setzen wir in unseren Lösungsansatz: 
+>
+> $\hspace{1cm}$ 1. die maximale Masse ($m=60+1kg=61kg$) und 
+>
+> $\hspace{1cm}$ 2. die minimale Federkonstante ($160-8\frac{N}{m}= 152\frac{N}{m}$) ein.
+***************
+
+{{5}}
+***************
+> $\hspace{1cm}$ Löse die Gleichung: 
+>
+> $$m \cdot g \cdot (l+s) = \frac{1}{2} \cdot D \cdot s^2 $$
+>
+> $$61\,kg \cdot 9,81 \frac{m}{s^2} \cdot (25 m+s) = \frac{1}{2} \cdot 152\frac{N}{m} \cdot s^2 $$
+***************
+
+{{6}}
+***************
+??[Loesung_Bungee_Fehlerrechnung](https://www.geogebra.org/classic/sfkffrzq)
+***************
+
+
+{{7}}
+***************
+> $$\mathbb{L} = \{-10,64 ; 18,51\}$$
+> 
+> Maximal Höhe über dem Boden beträgt $45m-(25m+18,51m)=1,49m$
+***************
+
+
+
