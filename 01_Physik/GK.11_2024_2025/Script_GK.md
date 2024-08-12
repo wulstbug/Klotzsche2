@@ -260,7 +260,10 @@ _Hinweis: Qualitativ bedeutet ohne Berechnung_
 ![Tafelbild_AnalyseEnergieerhaltung](https://diversewolken.ddns.net/nextcloud/index.php/s/y5X8EFstJe6AdwB/download)
 *************
 
+
 ## 1.5 Messwerte und Berechnungen Senkrechter Wurf
+
+
 
 {{1}}
 *************
@@ -269,11 +272,20 @@ __Messwerte:__
 ![Tafelbild_MesswerteSenkrechterWurf](https://diversewolken.ddns.net/nextcloud/index.php/s/bxW7ffp28WKc8Gp/download)
 *************
 
-{{2}}
-*************
-__Berechnungen:__
+{{2-3}}
+*******************
+!?[SenkrechterWurf_Videoanalys](https://diversewolken.ddns.net/nextcloud/index.php/s/3WfTq36zcZHZHRP)
+*******************
 
-> Berechne für die Zustände 1,2 & 3 die Spannenergie der Feder, die potentielle Energie der Kugel und die kinetische Energie der Kugel.
+{{3}}
+*************
+__Aufgabenstellung und Berechnungen:__
+
+> 1. Bestimme die Masse der Kugel
+
+> 2. Filme mit einem Smartphone den Flug der Kugel und bestimme die maximale Höhe $h_2$
+
+> 3. Berechne für die Zustände 1,2 & 3 die Spannenergie der Feder, die potentielle Energie der Kugel und die kinetische Energie der Kugel.
 
 Ergänze dazu die Tabelle:
 
@@ -282,5 +294,7 @@ Ergänze dazu die Tabelle:
 | 1 | | | |
 | 2 | | | |
 | 3 | | | |
+
+> 4. Bestimme $v_3$, die Geschwindigkeit der Kugel am Punkt 3.
 
 *************

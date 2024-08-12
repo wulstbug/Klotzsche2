@@ -299,6 +299,8 @@ _Hinweis: Qualitativ bedeutet ohne Berechnung_
 
 ## 1.5 Messwerte und Berechnungen Senkrechter Wurf
 
+
+
 {{1}}
 *************
 __Messwerte:__
@@ -308,9 +310,13 @@ __Messwerte:__
 
 {{2}}
 *************
-__Berechnungen:__
+__Aufgabenstellung und Berechnungen:__
 
-> Berechne für die Zustände 1,2 & 3 die Spannenergie der Feder, die potentielle Energie der Kugel und die kinetische Energie der Kugel.
+> 1. Bestimme die Masse der Kugel
+
+> 2. Filme mit einem Smartphone den Flug der Kugel und bestimme die maximale Höhe $h_2$
+
+> 3. Berechne für die Zustände 1,2 & 3 die Spannenergie der Feder, die potentielle Energie der Kugel und die kinetische Energie der Kugel.
 
 Ergänze dazu die Tabelle:
 
@@ -319,5 +325,7 @@ Ergänze dazu die Tabelle:
 | 1 | | | |
 | 2 | | | |
 | 3 | | | |
+
+> 4. Bestimme $v_3$, die Geschwindigkeit der Kugel am Punkt 3.
 
 *************
