@@ -13,6 +13,10 @@ Führe ein Gespräch mit einer KI. Z.B. Olympia, Hobbies, die Wahlen, Krieg, Fre
 
 [ogy.de/gykl-ki](https://go.fobizz.com/?token=d29d855d3e33da30)
 
+Speichere dein Gespräch als Word-Datei oder PDF. Lege es hier mit deinem Vornamen ab:
+
+https://diversewolken.ddns.net/nextcloud/index.php/s/bTY3iNb6xjpZk6Q
+
 # Aufbau des Internets
 
 Schau dir folgendes Video an und notiere die wesentlichen Meilensteine, welche zum Erfolg des Internets geführt haben.
