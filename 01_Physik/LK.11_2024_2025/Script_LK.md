@@ -497,7 +497,7 @@ __Weitere Aufgaben:__ Metzler LB S. 67 Aufgabe 2, 3, 11*
 
 {{6}}
 ***************
-??[Loesung_Bungee_Fehlerrechnung](https://www.geogebra.org/classic/sfkffrzq)
+<iframe src="https://www.geogebra.org/classic/sfkffrzq?embed" width="100%" height="200" allowfullscreen style="border: 1px solid #e4e4e4;border-radius: 4px;" frameborder="0"></iframe>
 ***************
 
 
