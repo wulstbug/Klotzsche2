@@ -403,6 +403,8 @@ Wie oben beschrieben setzen wir nun für den untersten Punkt $E_{pot} = E_{sp}$,
 
 $$m \cdot g \cdot (l+s) = \frac{1}{2} \cdot D \cdot s^2 $$
 
+<iframe scrolling="no" title="Loesung_Bungee_Fehlerrechnung" src="https://www.geogebra.org/material/iframe/id/sfkffrzq/width/800/height/200/border/888888/sfsb/true/smb/false/stb/false/stbh/false/ai/false/asb/false/sri/false/rc/false/ld/false/sdz/true/ctl/false" width="100%" height="200px" style="border:0px;"> </iframe>
+
 Diese Gleichung enthält als Unbekannt nur s. Mit Hilfe des Taschenrechners erhält man die Lösungsmenge $$\mathbb{L} = \{-10,37 ; 17,73\}.$$
 
 Die negative Lösung ist unphysikalisch, somit bleibt für $s = 17,73 m$ übrig. Die gesuchte Höhe über der Wasseroberfläche ergibt
@@ -497,8 +499,9 @@ __Weitere Aufgaben:__ Metzler LB S. 67 Aufgabe 2, 3, 11*
 
 {{6}}
 ***************
-<iframe src="https://www.geogebra.org/classic/sfkffrzq?embed" width="100%" height="200" allowfullscreen style="border: 1px solid #e4e4e4;border-radius: 4px;" frameborder="0"></iframe>
+<iframe scrolling="no" title="Loesung_Bungee_Fehlerrechnung" src="https://www.geogebra.org/material/iframe/id/sfkffrzq/width/800/height/200/border/888888/sfsb/true/smb/false/stb/false/stbh/false/ai/false/asb/false/sri/false/rc/false/ld/false/sdz/true/ctl/false" width="100%" height="200px" style="border:0px;"> </iframe>
 ***************
+
 
 
 {{7}}
