@@ -7,6 +7,12 @@ Schau dir folgendes Video an. Notiere in Stichpunkten die Inhalte des _Vier-Ohre
 
 !?[4OhremModellAlphaLErnen](https://www.youtube.com/watch?v=9VJn1cPbf1A)
 
+# KI-Gespräch
+
+Führe ein Gespräch mit einer KI. Z.B. Olympia, Hobbies, die Wahlen, Krieg, Freunschaft oder etwas deiner Wahl.
+
+[ogy.de/gykl-ki](https://go.fobizz.com/?token=d29d855d3e33da30)
+
 # Aufbau des Internets
 
 Schau dir folgendes Video an und notiere die wesentlichen Meilensteine, welche zum Erfolg des Internets geführt haben.
