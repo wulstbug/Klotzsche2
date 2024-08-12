@@ -274,7 +274,7 @@ __Messwerte:__
 
 {{2-3}}
 *******************
-!?[SenkrechterWurf_Videoanalys](https://diversewolken.ddns.net/nextcloud/index.php/s/3WfTq36zcZHZHRP)
+!?[SenkrechterWurf_Videoanalys](https://youtu.be/XVEjzYdc3rk)
 *******************
 
 {{3}}
