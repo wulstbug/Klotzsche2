@@ -298,3 +298,10 @@ Ergänze dazu die Tabelle:
 > 4. Bestimme $v_3$, die Geschwindigkeit der Kugel am Punkt 3.
 
 *************
+
+{{4}}
+***********
+__Lösungsvorschlag:__
+
+![Berechnung_Geschwindigkeitv3](https://diversewolken.ddns.net/nextcloud/index.php/s/A76awi56xDgSFmP/download)
+***********
