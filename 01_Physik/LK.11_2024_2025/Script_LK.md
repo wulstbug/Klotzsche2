@@ -540,8 +540,10 @@ __Weitere Aufgaben:__ Metzler LB S. 67 Aufgabe 2, 3, 11*
 
 <p class="cb">
 
+{{2}}
+*******
 ![Arbeit_Skizze](https://diversewolken.ddns.net/nextcloud/index.php/s/K9JzW2EaRmayMQN/download)
-
+*******
 </p>
 
 </p>
@@ -573,5 +575,35 @@ $$W_B = \Delta E_{kin}$$
 
 ## 1.11 Hubarbeit $W_H$ und potentielle Energie $E_{pot}$
 
-Ein Körper der Masse $m$ (z.B. Bungeespringerin) fällt die Höhe $h$ senkrecht nach unten. 
+<p class="newspaper">
 
+{0-1}{![HubArbeit_Skizze](https://diversewolken.ddns.net/nextcloud/index.php/s/f7KCX6MpoLz4P5w/download)}
+
+{1}{![HubArbeit_Skizze](https://diversewolken.ddns.net/nextcloud/index.php/s/PXmtZ73HgaM2PQx/download)}
+
+<p class="cb">
+
+Ein Körper der Masse $m$ wird die Höhe $h$ senkrecht nach oben angehoben. 
+<br>
+Berechne die Hubarbeit <br>
+$ W_H = \Delta E_{pot} $
+<br>
+<br>
+{1}{Die zu überwindende Kraft $F$ ist die Gewichtskraft}
+{1}{$ F_g = m \cdot g. $} 
+{1}{Diese Kraft wirkt parallel zur Höhe $h$.}
+<br>
+<br>
+{2}{Die Hubarbeit $W_H$ und somit der Zugewinn an potentieller Energie lässt sich berechnen mit}
+<br>
+{2}{$W_H = F_g \cdot h$}
+<br>
+{2}{$W_H = m \cdot g \cdot h = \Delta E_{pot}$}
+<br>
+<br>
+{3}{Anders ausgedrückt: Der Körper gewinnt durch das Anheben die potentielle Energie $m \cdot g \cdot h$ dazu.}
+
+</p>
+
+
+</p>
