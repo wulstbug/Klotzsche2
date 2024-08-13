@@ -620,7 +620,7 @@ $ W_H = \Delta E_{pot} $
 
 </p>
 
-# 1.12 Beschleunigungsarbeit $W_B$ und kinetische Energie $E_{kin}$
+## 1.12 Beschleunigungsarbeit $W_B$ und kinetische Energie $E_{kin}$
 
 Es gilt:
 
