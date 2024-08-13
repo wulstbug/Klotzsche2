@@ -376,9 +376,22 @@ __Messwerte aus Experiment:__
 ![SchrägerWurf_Messwerte_1](https://diversewolken.ddns.net/nextcloud/index.php/s/pkj48Zo77dGA36G/download)
 
 __Berechnungen aus Messwerten:__
-![SchrägerWurf_Berechnungen_2](https://diversewolken.ddns.net/nextcloud/index.php/s/DzHEmS5fHtX8bdC/download)
 
-![SchrägerWurf_Berechnungen_3](https://diversewolken.ddns.net/nextcloud/index.php/s/DzHEmS5fHtX8bdC/download)
+Die Spannenergie $E_{sp1}$ entspricht der potentiellen Energie $E_{pot}$ beim senkrechten Schuss und maximaler Höhe $h_{max}$.
+
+$$E_{sp1} = E_{pot} = m \cdot g \cdot h = 0,017kg \cdot 9,81\frac{N}{kg} \cdot 0,41m \approx 0,068 J $$
+
+Die Federkonstante $D$ erhält man durch umstellen der Gleichung für $E_{sp1}=\frac{1}{2}\cdot D \cdot s^2$ als
+
+$$ D = \dfrac{2\cdot E_{sp1}}{s^2} = \dfrac{2\cdot 0,068 J}{0,04^2 m^2} = 85 \frac{N}{m}$$
+
+Setzt man Energieerhaltung voraus und vernachlässigt Energieverluste durch Reibung so entspricht die kinetische Energie im Punkt 4 genau $E_{sp1}$
+
+$$ E_{kin4} = E_{sp1} = 0,068 J.$$
+
+Die Geschwindigkeit der Kugel im Punkt 4 erhält man durch umstellen der Gleichung für $E_{kin4} = \frac{1}{2} \cdot m \cdot v^2$.
+
+$$ v_4 = \sqrt{\dfrac{2\cdot E_{kin4}}{m}} = \sqrt{\dfrac{2\cdot 0,068 J}{0,017 kg}} \approx 2,84 \frac{m}{s}$$
 
 
 ## Aufgabe Bungeespringerin
