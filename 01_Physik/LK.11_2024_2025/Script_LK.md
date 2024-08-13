@@ -589,7 +589,7 @@ Berechne die Hubarbeit <br>
 $ W_H = \Delta E_{pot} $
 <br>
 <br>
-{1}{Die zu überwindende Kraft $F$ ist die Gewichtskraft}
+{1}{Die aufzuwindende Kraft $F$ ist die Gewichtskraft}
 {1}{$ F_g = m \cdot g. $} 
 {1}{Diese Kraft wirkt parallel zur Höhe $h$.}
 <br>
@@ -601,9 +601,30 @@ $ W_H = \Delta E_{pot} $
 {2}{$W_H = m \cdot g \cdot h = \Delta E_{pot}$}
 <br>
 <br>
-{3}{Anders ausgedrückt: Der Körper gewinnt durch das Anheben die potentielle Energie $m \cdot g \cdot h$ dazu.}
+{3}{Anders ausgedrückt: Am Körper wird die Hubarbeit $W_H$ und er gewinnt die potentielle Energie $m \cdot g \cdot h$ dazu.}
 
 </p>
 
-
 </p>
+
+# 1.12 Beschleunigungsarbeit $W_B$ und kinetische Energie $E_{kin}$
+
+Es gilt:
+
+> $$ W_B = \Delta E_{kin} $$
+
+_Untersuche für die gleichmäßige Beschleunigung eines Körpers der Masse $m$ entlang der Wegstrecke $s$ mit der beschleuinigenden Kraft $F$ den durch Beschleunigungsarbeit $W_B$ verrichteten Zugewinn an kinetischer Energie $\Delta E_{kin}$._
+
+![BeschlArbeit_Skizze](https://diversewolken.ddns.net/nextcloud/index.php/s/TESsTwEAHB9xHew/download)
+
+_Nutze dafür:_
+
+> 2. Newton'sche Axiom
+>
+> $$ F = m \cdot a $$
+
+_sowie die Gleichungen für die gleichmäßig beschleunigte Bewegung_
+
+> $$s = \frac{1}{2} \cdot a \cdot t^2$$
+> 
+> $$v = a \cdot t $$
