@@ -403,7 +403,7 @@ Wie oben beschrieben setzen wir nun für den untersten Punkt $E_{pot} = E_{sp}$,
 
 $$m \cdot g \cdot (l+s) = \frac{1}{2} \cdot D \cdot s^2 $$
 
-<iframe scrolling="no" title="Loesung_Bungee_Fehlerrechnung" src="https://www.geogebra.org/material/iframe/id/sfkffrzq/width/800/height/200/border/888888/sfsb/true/smb/false/stb/false/stbh/false/ai/false/asb/false/sri/false/rc/false/ld/false/sdz/true/ctl/false" width="100%" height="200px" style="border:0px;"> </iframe>
+<iframe scrolling="no" title="Loesung_Bungee_Fehlerrechnung" src="https://www.geogebra.org/material/iframe/id/rjvn7mcv/width/800/height/200/border/888888/sfsb/true/smb/false/stb/false/stbh/false/ai/false/asb/false/sri/false/rc/false/ld/false/sdz/true/ctl/false" width="100%" height="200px" style="border:0px;"> </iframe>
 
 Diese Gleichung enthält als Unbekannt nur s. Mit Hilfe des Taschenrechners erhält man die Lösungsmenge $$\mathbb{L} = \{-10,37 ; 17,73\}.$$
 
@@ -456,7 +456,7 @@ __Weitere Aufgaben:__ Metzler LB S. 67 Aufgabe 2, 3, 11*
 >
 > $\hspace{1cm}$ $D = 160\frac{N}{m}$ "$\pm5\%$" = $160 \frac{N}{m} \pm 8 \frac{N}{m}$
 > 
-> $\hspace{1cm}$ $m = 61 kg \pm 1 kg$
+> $\hspace{1cm}$ $m = 60 kg \pm 1 kg$
 >
 > $\hspace{1cm}$ $l = 25 m$
 >
