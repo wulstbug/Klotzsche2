@@ -511,5 +511,67 @@ __Weitere Aufgaben:__ Metzler LB S. 67 Aufgabe 2, 3, 11*
 > Maximal Höhe über dem Boden beträgt $45m-(25m+18,51m)=1,49m$
 ***************
 
+## 1.10 Mechanische Arbeit
 
+{{1}}
+*******
+> __Definition:__ Mechanische Arbeit wird verrichtet, wenn ein Körper durch eine Kraft bewegt oder verformt wird.<br>
+>
+> _Anders ausgedrückt: Arbeit ist die mit Kraft über eine Systemgrenze übertragene Energie_
+*******
+
+<p class="newspaper">
+{{2}}
+*******
+> Formelzeichen: $W$
+>
+> Formeln:
+>
+> $\hspace{1cm}$ $ W = \Delta E $ (_Arbeit ist Energieänderung_)
+>
+> $\hspace{1cm}$ $ W = F \cdot s \cdot \cos\alpha$
+>
+> $F$ .. wirkende Kraft in $[N]$
+>
+> $s$ .. zurückgelegter Weg in $[m]$
+>
+> $\alpha$ .. Winkel zwischen Kraft $F$ und Weg $s$
+*******
+
+<p class="cb">
+
+![Arbeit_Skizze](https://diversewolken.ddns.net/nextcloud/index.php/s/K9JzW2EaRmayMQN/download)
+
+</p>
+
+</p>
+
+{{3}}
+*******
+>_Hinweis 1: Im Gegensatz zur Energie (Zustandsgröße) ist die Arbeit eine Prozessgröße._
+>
+> _Hinweis 2: Wenn die Kraft parallel zum zurückgelegten Weg wirkt, gilt_
+>
+> $\hspace{1cm}$ $ W = F \cdot s$
+>
+> _denn für  $\alpha=0$ ist $\cos\alpha=1$_
+*******
+
+{{4}}
+*******
+__Spezielle mechanische Arbeiten:__
+
+$\hspace{1cm}$ __Hubarbeit $W_H$:__ Ein Kran hebt einen Körper nach oben. 
+$$ W_H = \Delta E_{pot}$$
+*******
+
+{{5}}
+*******
+$\hspace{1cm}$ __Beschleunigungsarbeit $W_B$:__ Ein Auto wird vom Motor auf gerader Strecke beschleunigt 
+$$W_B = \Delta E_{kin}$$
+*******
+
+## 1.11 Hubarbeit $W_H$ und potentielle Energie $E_{pot}$
+
+Ein Körper der Masse $m$ (z.B. Bungeespringerin) fällt die Höhe $h$ senkrecht nach unten. 
 
