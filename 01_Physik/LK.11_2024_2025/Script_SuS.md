@@ -689,3 +689,90 @@ Die mechanische Beschleunigungsarbeit und somit auch die Änderung der kinetisch
 
 $$ W_B = \Delta E_{kin} = \frac{1}{2} \cdot m \cdot v^2 $$
 ****************
+
+
+## 1.13 Grafische Interpretitation der mechanischen Arbeit
+
+> In einem Kraft-Weg-Diagram ($F-s-Diagramm$) entspricht die mechanische Arbeit der Fläche unter dem $F-s-Graphen$.
+
+__Beispiele:__
+
+| 1 | 2 | 3 | 4 |
+| ![Konstante-Kraft](https://www.leifiphysik.de/sites/default/files/2019/10/image/Arbeit_einfach_0.svg) | {1}{![ZUsammengesetzte-Kräfte](https://www.leifiphysik.de/sites/default/files/2019/10/image/Arbeit_doppelt_0.svg)} | {2}{![LinearerKraftanstieg-Kräfte](https://www.leifiphysik.de/sites/default/files/2019/10/image/Arbeit_doppelt_0.svg)} | {3}{![Nicht_Konstante-Kraft2](https://diversewolken.ddns.net/nextcloud/index.php/s/PW5ZfpqBGGFcWJx/download)} |
+
+{{4}}
+**************
+_Hinweis 1: Lässt sich die Fläche unter dem Graphen geometrisch bestimmen (z.B. Dreieck), so kann die mechanische Arbeit darüber berechnet werden._
+
+_Hinweis 2: In allgemeinen Fällen (siehe Beispiel 5) kann die Fläche in kleine Abschnitte ("Streifen") unterteilt werden, deren Fläche dann addiert wird._
+
+**************
+
+## Beispiel: Bogenschießen
+
+_Arbeitsauftrag: Bearbeite die Aufgabe a) zum Bogenspannen bei Leifi-Physik. Die Lösungen sind ebenfalls gegeben._
+
+??[Leifi-Bogenschießen](https://www.leifiphysik.de/mechanik/energieerhaltung-und-umwandlung/aufgabe/spannarbeit-beim-bogenschiessen)
+
+## 1.14 Herleitung Federspannarbeit -> Spannenergie
+
+> $$ W_{sp} = \Delta E_{sp} $$
+
+| Kraft $F$ | $F-s-Diagramm$ |
+| {1}{![FederSpannarbeit](https://diversewolken.ddns.net/nextcloud/index.php/s/Q5nf7D3WYQCxNSW/download)} | {2}{![F-s-Diagramm](https://diversewolken.ddns.net/nextcloud/index.php/s/ijzAksKEza8XDKP/download)} |
+| {1}{Annahme: Hook'sche Gesetz <br> => Kraft ~ Dehnung}| {3}{$W_{sp} = \frac{1}{2} \cdot F_{max} \cdot s $} <br> <br> {4}{$W_{sp} = \frac{1}{2} \cdot D \cdot s \cdot s $} <br> <br> {5}{$W_{sp} = \frac{1}{2} \cdot D \cdot s^2 = \Delta E_{sp} $}|
+
+## Übungsaufgaben
+
+Duden S. 169: Aufgaben 58, 60, 62 (a,b, c*)
+
+<details>
+
+<summary>Lösung 58</summary>
+
+![Lsg_Duden168_58](https://diversewolken.ddns.net/nextcloud/index.php/s/Wp7CnW3wB6kL7kp/download)
+
+</details>
+
+
+<details>
+
+<summary>Lösung 60a</summary>
+
+![Lsg_Duden168_60a](https://diversewolken.ddns.net/nextcloud/index.php/s/qMH7fNBPnS9wPKa/download)
+
+</details>
+
+<details>
+
+<summary>Lösung 60b</summary>
+
+![Lsg_Duden168_60b](https://diversewolken.ddns.net/nextcloud/index.php/s/jXGnXQTinNxB8Y2/download)
+
+</details>
+
+<details>
+
+<summary>Lösung 62ab</summary>
+
+![Lsg_Duden168_60ab](https://diversewolken.ddns.net/nextcloud/index.php/s/NNzfYC5dcqc8joz/download)
+
+</details>
+
+<details>
+
+<summary>Lösung 62c*</summary>
+
+![Lsg_Duden168_60c](https://diversewolken.ddns.net/nextcloud/index.php/s/6r2B7rMkmeLWfYj/download)
+
+</details>
+
+Metzler S. 67, 8
+
+<details>
+
+<summary>Lösung 8</summary>
+
+![Lsg_Metzler_67_8](https://diversewolken.ddns.net/nextcloud/index.php/s/yXL4GaHJjpi9HCw/download)
+
+</details>

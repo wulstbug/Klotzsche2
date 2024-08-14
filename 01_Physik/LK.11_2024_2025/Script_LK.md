@@ -717,3 +717,57 @@ _Arbeitsauftrag: Bearbeite die Aufgabe a) zum Bogenspannen bei Leifi-Physik. Die
 | {1}{![FederSpannarbeit](https://diversewolken.ddns.net/nextcloud/index.php/s/Q5nf7D3WYQCxNSW/download)} | {2}{![F-s-Diagramm](https://diversewolken.ddns.net/nextcloud/index.php/s/ijzAksKEza8XDKP/download)} |
 | {1}{Annahme: Hook'sche Gesetz <br> => Kraft ~ Dehnung}| {3}{$W_{sp} = \frac{1}{2} \cdot F_{max} \cdot s $} <br> <br> {4}{$W_{sp} = \frac{1}{2} \cdot D \cdot s \cdot s $} <br> <br> {5}{$W_{sp} = \frac{1}{2} \cdot D \cdot s^2 = \Delta E_{sp} $}|
 
+## Übungsaufgaben
+
+Duden S. 169: Aufgaben 58, 60, 62 (a,b, c*)
+
+<details>
+
+<summary>Lösung 58</summary>
+
+![Lsg_Duden168_58](https://diversewolken.ddns.net/nextcloud/index.php/s/Wp7CnW3wB6kL7kp/download)
+
+</details>
+
+
+<details>
+
+<summary>Lösung 60a</summary>
+
+![Lsg_Duden168_60a](https://diversewolken.ddns.net/nextcloud/index.php/s/qMH7fNBPnS9wPKa/download)
+
+</details>
+
+<details>
+
+<summary>Lösung 60b</summary>
+
+![Lsg_Duden168_60b](https://diversewolken.ddns.net/nextcloud/index.php/s/jXGnXQTinNxB8Y2/download)
+
+</details>
+
+<details>
+
+<summary>Lösung 62ab</summary>
+
+![Lsg_Duden168_60ab](https://diversewolken.ddns.net/nextcloud/index.php/s/NNzfYC5dcqc8joz/download)
+
+</details>
+
+<details>
+
+<summary>Lösung 62c*</summary>
+
+![Lsg_Duden168_60c](https://diversewolken.ddns.net/nextcloud/index.php/s/6r2B7rMkmeLWfYj/download)
+
+</details>
+
+Metzler S. 67, 8
+
+<details>
+
+<summary>Lösung 8</summary>
+
+![Lsg_Metzler_67_8](https://diversewolken.ddns.net/nextcloud/index.php/s/yXL4GaHJjpi9HCw/download)
+
+</details>
