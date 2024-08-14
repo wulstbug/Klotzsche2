@@ -705,4 +705,7 @@ _Hinweis 2: In allgemeinen Fällen (siehe Beispiel 5) kann die Fläche in kleine
 
 ## Beispiel: Bogenschießen
 
+_Arbeitsauftrag: Bearbeite die Aufgabe zum Bogenspannen bei Leifi-Physik. Die Lösungen sind ebenfalls gegeben._
+
 ??[Leifi-Bogenschießen](https://www.leifiphysik.de/mechanik/energieerhaltung-und-umwandlung/aufgabe/spannarbeit-beim-bogenschiessen)
+
