@@ -618,7 +618,7 @@ $ W_H = \Delta E_{pot} $
 {2}{$W_H = m \cdot g \cdot h = \Delta E_{pot}$}
 <br>
 <br>
-{3}{Anders ausgedrückt: Am Körper wird die Hubarbeit $W_H$ und er gewinnt die potentielle Energie $m \cdot g \cdot h$ dazu.}
+{3}{Anders ausgedrückt: Am Körper wird die Hubarbeit $W_H$ verrichtet und er gewinnt die potentielle Energie $m \cdot g \cdot h$ dazu.}
 
 </p>
 
