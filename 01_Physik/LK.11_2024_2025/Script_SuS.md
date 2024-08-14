@@ -634,6 +634,8 @@ _Untersuche für die gleichmäßige Beschleunigung eines Körpers der Masse $m$ 
 
 ![BeschlArbeit_Skizze](https://diversewolken.ddns.net/nextcloud/index.php/s/TESsTwEAHB9xHew/download)
 
+{{1}}
+*********
 _Nutze dafür:_
 
 > 2. Newton'sche Axiom
@@ -645,3 +647,45 @@ _sowie die Gleichungen für die gleichmäßig beschleunigte Bewegung_
 > $$s = \frac{1}{2} \cdot a \cdot t^2$$
 > 
 > $$v = a \cdot t $$
+*********
+
+{{2}}
+****************
+__Lösung:__
+
+Beschleunigungsarbeit $W_B$ ist definiert als
+
+$$ W_H = F \cdot s $$
+
+Wir nutzen für die Beschreibung der Kraft F das zweite Newton'sche Axiom
+
+$$ F = m \cdot a $$
+
+und setzen bei $W_B$ ein
+
+$$  W_B = F \cdot s = m \cdot a \cdot s$$.
+
+Mit der Formel für die gleichmäßig beschleunigte Bewegung für den zurückgelegten Weg s gilt
+
+$$s = \frac{1}{2} \cdot a \cdot t^2$$
+
+kann man für $W_B$ notieren
+
+$$W_B = m \cdot a \cdot s =  m \cdot a \cdot \frac{1}{2} \cdot a \cdot t^2 $$
+
+und zusammengefasst
+
+$$ W_B = \frac{1}{2} \cdot m \cdot a^2 \cdot t^2. $$
+
+Nutzt man nun noch $ a = \frac{v}{t}$ so ergibt sich
+
+$$ W_B = \frac{1}{2} \cdot m \cdot a^2 \cdot t^2 = \frac{1}{2} \cdot m \cdot \frac{v^2}{t^2} \cdot t^2 $$
+
+und es bleibt
+
+$$ W_B = \frac{1}{2} \cdot m \cdot v^2 $$
+
+Die mechanische Beschleunigungsarbeit und somit auch die Änderung der kinetischen Energie lässt sich ausdrücken mittels
+
+$$ W_B = \Delta E_{kin} = \frac{1}{2} \cdot m \cdot v^2 $$
+****************
