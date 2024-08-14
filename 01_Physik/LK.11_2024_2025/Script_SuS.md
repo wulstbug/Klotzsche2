@@ -526,3 +526,122 @@ __Weitere Aufgaben:__ Metzler LB S. 67 Aufgabe 2, 3, 11*
 
 
 
+
+
+## 1.10 Mechanische Arbeit
+
+{{1}}
+*******
+> __Definition:__ Mechanische Arbeit wird verrichtet, wenn ein Körper durch eine Kraft bewegt oder verformt wird.<br>
+>
+> _Anders ausgedrückt: Arbeit ist die mit Kraft über eine Systemgrenze übertragene Energie_
+*******
+
+<p class="newspaper">
+{{2}}
+*******
+> Formelzeichen: $W$
+>
+> Formeln:
+>
+> $\hspace{1cm}$ $ W = \Delta E $ (_Arbeit ist Energieänderung_)
+>
+> $\hspace{1cm}$ $ W = F \cdot s \cdot \cos\alpha$
+>
+> $F$ .. wirkende Kraft in $[N]$
+>
+> $s$ .. zurückgelegter Weg in $[m]$
+>
+> $\alpha$ .. Winkel zwischen Kraft $F$ und Weg $s$
+*******
+
+<p class="cb">
+
+{{2}}
+*******
+![Arbeit_Skizze](https://diversewolken.ddns.net/nextcloud/index.php/s/K9JzW2EaRmayMQN/download)
+*******
+</p>
+
+</p>
+
+{{3}}
+*******
+>_Hinweis 1: Im Gegensatz zur Energie (Zustandsgröße) ist die Arbeit eine Prozessgröße._
+>
+> _Hinweis 2: Wenn die Kraft parallel zum zurückgelegten Weg wirkt, gilt_
+>
+> $\hspace{1cm}$ $ W = F \cdot s$
+>
+> _denn für  $\alpha=0$ ist $\cos\alpha=1$_
+*******
+
+{{4}}
+*******
+__Spezielle mechanische Arbeiten:__
+
+$\hspace{1cm}$ __Hubarbeit $W_H$:__ Ein Kran hebt einen Körper nach oben. 
+$$ W_H = \Delta E_{pot}$$
+*******
+
+{{5}}
+*******
+$\hspace{1cm}$ __Beschleunigungsarbeit $W_B$:__ Ein Auto wird vom Motor auf gerader Strecke beschleunigt 
+$$W_B = \Delta E_{kin}$$
+*******
+
+## 1.11 Hubarbeit $W_H$ und potentielle Energie $E_{pot}$
+
+<p class="newspaper">
+
+{0-1}{![HubArbeit_Skizze](https://diversewolken.ddns.net/nextcloud/index.php/s/f7KCX6MpoLz4P5w/download)}
+
+{1}{![HubArbeit_Skizze](https://diversewolken.ddns.net/nextcloud/index.php/s/PXmtZ73HgaM2PQx/download)}
+
+<p class="cb">
+
+Ein Körper der Masse $m$ wird die Höhe $h$ senkrecht nach oben angehoben. 
+<br>
+Berechne die Hubarbeit <br>
+$ W_H = \Delta E_{pot} $
+<br>
+<br>
+{1}{Die aufzuwindende Kraft $F$ ist die Gewichtskraft}
+{1}{$ F_g = m \cdot g. $} 
+{1}{Diese Kraft wirkt parallel zur Höhe $h$.}
+<br>
+<br>
+{2}{Die Hubarbeit $W_H$ und somit der Zugewinn an potentieller Energie lässt sich berechnen mit}
+<br>
+{2}{$W_H = F_g \cdot h$}
+<br>
+{2}{$W_H = m \cdot g \cdot h = \Delta E_{pot}$}
+<br>
+<br>
+{3}{Anders ausgedrückt: Am Körper wird die Hubarbeit $W_H$ und er gewinnt die potentielle Energie $m \cdot g \cdot h$ dazu.}
+
+</p>
+
+</p>
+
+## 1.12 Beschleunigungsarbeit $W_B$ und kinetische Energie $E_{kin}$
+
+Es gilt:
+
+> $$ W_B = \Delta E_{kin} $$
+
+_Untersuche für die gleichmäßige Beschleunigung eines Körpers der Masse $m$ entlang der Wegstrecke $s$ mit der beschleuinigenden Kraft $F$ den durch Beschleunigungsarbeit $W_B$ verrichteten Zugewinn an kinetischer Energie $\Delta E_{kin}$._
+
+![BeschlArbeit_Skizze](https://diversewolken.ddns.net/nextcloud/index.php/s/TESsTwEAHB9xHew/download)
+
+_Nutze dafür:_
+
+> 2. Newton'sche Axiom
+>
+> $$ F = m \cdot a $$
+
+_sowie die Gleichungen für die gleichmäßig beschleunigte Bewegung_
+
+> $$s = \frac{1}{2} \cdot a \cdot t^2$$
+> 
+> $$v = a \cdot t $$

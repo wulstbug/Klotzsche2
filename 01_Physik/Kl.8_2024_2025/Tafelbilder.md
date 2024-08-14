@@ -133,7 +133,7 @@ __Defintion:__ Potentielle Energie eines Körpers ist die in seiner der Lage (d.
 
 {{2}}
 ***************
-> __Formel:__ $$E_{pot} = m \cdot g \cdot h. $$
+> __Formel:__ $$E_{pot} = m \cdot g \cdot h $$
 >
 >  $m$ .. Masse in $[kg]$
 >
@@ -165,7 +165,7 @@ __Defintion:__ Potentielle Energie eines Körpers ist die in seiner der Lage (d.
 > 
 > $\hspace{1cm}$ $h = 50 m$
 >
-> $\hspace{1cm}$ $g = 10 \frac{m}{s^2}$
+> $\hspace{1cm}$ $g = 10 \frac{N}{kg}$
 >
 > ges.: 
 >
