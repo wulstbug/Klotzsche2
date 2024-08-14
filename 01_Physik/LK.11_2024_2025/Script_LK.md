@@ -688,7 +688,9 @@ $$ W_B = \Delta E_{kin} = \frac{1}{2} \cdot m \cdot v^2 $$
 
 ## 1.13 Grafische Interpretitation der mechanische Arbeit
 
-> In einem Kraft-Weg-Diagram ($F-s-Diagramm$) entspricht die mechanische Arbeit der Fläche unter dem $F-s-Graphen$
+> In einem Kraft-Weg-Diagram ($F-s-Diagramm$) entspricht die mec
 
-| | | |
-| ![Konstante-Kraft](https://www.leifiphysik.de/sites/default/files/2019/10/image/Arbeit_einfach_0.svg) | ![Nichtkonstant-Kräfte](https://www.leifiphysik.de/sites/default/files/2019/10/image/Arbeit_doppelt_0.svg) | |
+Beispiele
+| | | | |
+| ![Konstante-Kraft](https://www.leifiphysik.de/sites/default/files/2019/10/image/Arbeit_einfach_0.svg) | {1}{![Nichtkonstant-Kräfte](https://www.leifiphysik.de/sites/default/files/2019/10/image/Arbeit_doppelt_0.svg)} | {2}{![ZUsammengesetzte-Kräfte](https://www.leifiphysik.de/sites/default/files/2019/10/image/Arbeit_doppelt_0.svg)} | {3}{![Nicht_Konstante-Kraft1](https://www.leifiphysik.de/sites/default/files/2019/10/image/Arbeit_Feder_0.svg)} | {4}{![Nicht_Konstante-Kraft2](https://diversewolken.ddns.net/nextcloud/index.php/s/PW5ZfpqBGGFcWJx/download)} |
+| | | | |
