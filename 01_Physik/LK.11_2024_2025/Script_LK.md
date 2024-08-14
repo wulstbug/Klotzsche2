@@ -705,7 +705,15 @@ _Hinweis 2: In allgemeinen Fällen (siehe Beispiel 5) kann die Fläche in kleine
 
 ## Beispiel: Bogenschießen
 
-_Arbeitsauftrag: Bearbeite die Aufgabe zum Bogenspannen bei Leifi-Physik. Die Lösungen sind ebenfalls gegeben._
+_Arbeitsauftrag: Bearbeite die Aufgabe a) zum Bogenspannen bei Leifi-Physik. Die Lösungen sind ebenfalls gegeben._
 
 ??[Leifi-Bogenschießen](https://www.leifiphysik.de/mechanik/energieerhaltung-und-umwandlung/aufgabe/spannarbeit-beim-bogenschiessen)
+
+## 1.14 Herleitung Federspannarbeit -> Spannenergie
+
+> $$ W_{sp} = \Delta E_{sp} $$
+
+| Kraft $F$ | $F-s-Diagramm$ |
+| {1}{![FederSpannarbeit](https://diversewolken.ddns.net/nextcloud/index.php/s/Q5nf7D3WYQCxNSW/download)} | {2}{![F-s-Diagramm](https://diversewolken.ddns.net/nextcloud/index.php/s/ijzAksKEza8XDKP/download)} |
+| {1}{Annahme: Hook'sche Gesetz <br> => Kraft ~ Dehnung}| {3}{$W_{sp} = \frac{1}{2} \cdot F_{max} \cdot s $} <br> <br> {4}{$W_{sp} = \frac{1}{2} \cdot D \cdot s \cdot s $} <br> <br> {5}{$W_{sp} = \frac{1}{2} \cdot D \cdot s^2 = \Delta E_{sp} $}|
 
