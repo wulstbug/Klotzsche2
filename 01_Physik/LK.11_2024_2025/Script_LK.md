@@ -693,7 +693,7 @@ $$ W_B = \Delta E_{kin} = \frac{1}{2} \cdot m \cdot v^2 $$
 __Beispiele:__
 
 | 1 | 2 | 3 | 4 |
-| ![Konstante-Kraft](https://www.leifiphysik.de/sites/default/files/2019/10/image/Arbeit_einfach_0.svg) | {1}{![ZUsammengesetzte-Kräfte](https://www.leifiphysik.de/sites/default/files/2019/10/image/Arbeit_doppelt_0.svg)} | {2}{![LinearerKraftanstieg-Kräfte](https://www.leifiphysik.de/sites/default/files/2019/10/image/Arbeit_doppelt_0.svg)} | {3}{![Nicht_Konstante-Kraft2](https://diversewolken.ddns.net/nextcloud/index.php/s/PW5ZfpqBGGFcWJx/download)} |
+| ![Konstante-Kraft](https://www.leifiphysik.de/sites/default/files/2019/10/image/Arbeit_einfach_0.svg) | {1}{![ZUsammengesetzte-Kräfte](https://www.leifiphysik.de/sites/default/files/2019/10/image/Arbeit_doppelt_0.svg)} | {2}{![LinearerKraftanstieg-Kräfte](https://diversewolken.ddns.net/nextcloud/index.php/s/ijzAksKEza8XDKP/download)} | {3}{![Nicht_Konstante-Kraft2](https://diversewolken.ddns.net/nextcloud/index.php/s/PW5ZfpqBGGFcWJx/download)} |
 
 {{4}}
 **************
