@@ -713,7 +713,7 @@ _Hinweis 2: In allgemeinen Fällen (siehe Beispiel 5) kann die Fläche in kleine
 
 _Arbeitsauftrag: Bearbeite die Aufgabe a) zum Bogenspannen bei Leifi-Physik. Die Lösungen sind ebenfalls gegeben._
 
-??[Leifi-Bogenschießen](https://www.leifiphysik.de/mechanik/energieerhaltung-und-umwandlung/aufgabe/spannarbeit-beim-bogenschiessen)
+[Leifi-Aufgabe-Bogenschießen-Bitte-Anklicken](https://www.leifiphysik.de/mechanik/energieerhaltung-und-umwandlung/aufgabe/spannarbeit-beim-bogenschiessen)
 
 ## 1.14 Herleitung Federspannarbeit -> Spannenergie
 
