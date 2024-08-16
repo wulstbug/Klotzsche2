@@ -74,40 +74,6 @@ Ihr erhaltet einen Link. Bitte annehmen.
 
 # LB 1 - Mechanische Grundlagen
 
-## 1.1 - Wiederholung Energieformen
-
-__Energie__
-
-{{1}}
-*****************
-> Defition: Energie beschreibt die Fähigkeit eines Körpers:
-*****************
-{{2}}
-*****************
->- mechanische Arbeit zu verrichten (z.B. Beschleunigen, Verformen)
->- Licht auszusenden
->- Wärme abzugeben
-*****************
-
-{4}{__Energieformen__}
-
-{{5}}
-*****************
->__Mechanische Energieformen:__
->
->- __Kinetische Energie (Bewegungsenergie)__
->- __Potentielle Energie (Lageenergie)__
->- Rotationsenergie (Drehungen)
->- Spannenergie (z.B. Feder, Bungeeseil)
-
->- __Thermische Energie (Wärmeenergie)__
->- __Elektrische Energie__
->- Magnetische Energie
->- Strahlungsenergie (Lichtenergie)
->- Chemische Energie
->- Kernenergie (Atomenergie)
-*****************
-
 ## Übung Zuordnung Energieformen
 
 Übungs 1: _Zuordnung Energieformen_
@@ -118,28 +84,6 @@ __Energie__
 <iframe src="https://learningapps.org/watch?app=28854190" style="border:0px;width:100%;height:500px" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"></iframe>
 
 ## 1.2 Berechnung der kinetischen Energie
-
-{{1}}
-************
-__Defintion:__ Kinetische Energie ist die in der Bewegung eines Körpers gespeicherte Energie. Sie hängt von der Geschwindigkeit $v$ des Körpers und seiner Masse $m$ ab.
-************
-
-{{2}}
-***************
-> __Formel:__ $$E_{kin} = \dfrac{1}{2} \cdot m \cdot v^2$$
->
->  v .. Geschwindigkeit in $\Big[ \dfrac{m}{s} \Big]$ 
->
->  m .. Masse in $\Big[ kg \Big]$
-
-***************
-
-{{3}}
-***************
-> __Einheit: 1 J [Joule]__
->
-> _Hinweis: Rechne die Geschwindigkeit immer in **$\frac{m}{s}$** und die Masse immer in **kg** um, dann erhälst du als Ergebnis die Einheit Joule_
-***************
 
 {{4}}
 ***************
@@ -192,28 +136,6 @@ __Defintion:__ Kinetische Energie ist die in der Bewegung eines Körpers gespeic
 
 ## 1.3 Berechnung der potentiellen Energie
 
-{{1}}
-************
-__Defintion:__ Potentielle Energie eines Körpers ist die in seiner Lage (d.h. Höhe) über einem Bezugspunkt (z.B. Erdboden) gespeicherte Energie. Sie hängt von der Höhe h und der Masse m des Körpers ab.
-************
-
-{{2}}
-***************
-> __Formel:__ $$E_{pot} = m \cdot g \cdot h. $$
->
->  $m$ .. Masse in $[kg]$
->
-> $h$ .. Höhe in $[m]$
->
-> $g$ .. Ortsfaktor: $g = 9,81 \frac{m}{s^2}$ (Konstante)
-
-***************
-
-{{3}}
-***************
-> __Einheit: 1 J [Joule]__
-***************
-
 {{4}}
 ***************
 > __Beispielaufgabe:__
@@ -254,26 +176,6 @@ __Defintion:__ Potentielle Energie eines Körpers ist die in seiner Lage (d.h. H
 >
 > $\hspace{1cm}$  $E_{pot} = 735750 J \approx 735,8 kJ $
 ***************
-
-## Arbeitsblatt: Energieformen
-
-Übung 3: _Ergänze mit Hilfe des Tafelbildes folgendes Arbeitsblatt
-
-1. Ergänze die Energieumwandlung der Achterbahn von $\textcircled{A}$ bis $\textcircled{D}$
-
-2. Notiere die Berechnungsformeln der Energiformen $\textcircled{B}$ und  $\textcircled{C}$ ( $\textcircled{A}$ optional mit TW)
-
-3. Ergänze die physikalischen Größen mit Name und Einheit
-
-> ![EnergieformenA](https://diversewolken.ddns.net/nextcloud/index.php/s/3JrTCX9NRJegMnP/download)
-
-
-## Lösung Arbeitsblatt Energieformen
-
-Überprüfe die Lösung mit deinen Aufzeichnungen.
-
-> ![EnergieformenLösung](https://diversewolken.ddns.net/nextcloud/index.php/s/yLXRoPQ8iWkni4b/download)
-
 
 ## 1.4. Demonstrationsexperiment Senkrechter Wurf 
 

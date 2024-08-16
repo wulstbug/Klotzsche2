@@ -337,11 +337,16 @@ __Es gibt drei Hauptarten der Reibung (von zwei Körpern):__
 4. [ **Luftreibung** ($F_{Luft}$) ]
 *****
 
+{{2}}
+*****
 | | | | |
 | ![Reibung1](https://diversewolken.ddns.net/nextcloud/index.php/s/Mck6oNwSa46L2Qx/download) | ![Reibung2](https://diversewolken.ddns.net/nextcloud/index.php/s/asZf57L4XxwawnT/download) | ![Reibung3](https://diversewolken.ddns.net/nextcloud/index.php/s/SG9GxsxxpbT6m8Z/download) | ![Reibung4](https://diversewolken.ddns.net/nextcloud/index.php/s/5kJ3R7npPtCGb5p/download) |
-| {2}{$F_{Gleit}$} | {3}{$F_{Roll}$} | {4}{$F_{Gleit}$} | {5}{$F_{Haft}$} |
+| {3}{$F_{Gleit}$} | {4}{$F_{Roll}$} | {5}{$F_{Gleit}$} | {6}{$F_{Haft}$} |
 
-{{6}}
+{6}{_Aufgabe: Zuordnung von Reibungsarten_}
+*****
+
+{{7}}
 *********
 ---
 
@@ -353,7 +358,7 @@ Haftreibung tritt auf, wenn zwei Oberflächen aufeinander haften, ohne sich zu b
 *********
 
 
-{{7}}
+{{8}}
 *******
 ---
 
@@ -368,7 +373,7 @@ Gleitreibung tritt auf, wenn zwei Oberflächen aneinander entlang gleiten. Diese
 
 
 
-{{8}}
+{{9}}
 ********
 ---
 
@@ -380,7 +385,9 @@ Rollreibung tritt auf, wenn ein Objekt über eine Oberfläche rollt. Sie ist in 
 
 ********
 
-## Übung: Zuordnung von Reibungsarten
+
+
+### Übung: Zuordnung von Reibungsarten
 
 __Erwünschte und unerwünschte Reibung:__
 <iframe src="https://learningapps.org/watch?app=21913985" style="border:0px;width:100%;height:500px" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"></iframe>
@@ -389,7 +396,7 @@ __Erkenne Reibungsarten:__
 <iframe src="https://learningapps.org/watch?app=374843" style="border:0px;width:100%;height:500px" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"></iframe>
 
 
-## Video: Reibung
+### Video: Reibung
 
 ??[MussteWissenReibung](https://www.zdf.de/funk/musstewissen-1066/funk-reibung---physik-musstewissen-100.html)
 
@@ -399,28 +406,64 @@ Quelle: ZDF.de
 
 Die Reibungszahl, auch Reibungskoeffizient genannt, ist eine dimensionslose Größe, die angibt, wie stark die Reibung zwischen zwei Oberflächen ist. Sie hängt von den Materialien der Oberflächen und ihrer Beschaffenheit ab.
 
-Die allgemeine Formel zur Berechnung der Reibungskraft $F_R$ ist:
+{{1}}
+********
 
-$$
-\boxed{F_R = \mu \cdot F_N}
-$$
+Auf einer horizontalen Unterlage (waagerecht), gilt für die Berechnung der Reibung:
 
-Ist die Unterlage horizontal (waagerecht), so ist $F_N = F_g$ und es gilt:
+<p class="newspaper">
 
 $$
 \boxed{F_R = \mu \cdot F_g}
 $$
 
-{{1}}
+<p class="cb">
+
+![Horizontal](https://physikunterricht-online.de/wp-content/uploads/2022/03/Reibung.png)
+
+</p>
+
+</p>
+
+_Aufgaben 1.8.5_
+
+----
+
+********
+
+{{2}}
+********
+Auf einer schiefen Ebene (Neigungswinkel $\alpha$) gilt für die Reibung:
+
+<p class="newspaper">
+
+$$
+\boxed{F_R = \mu \cdot F_N = \mu \cdot F_g \cdot cos\alpha}
+$$
+
+<p class="cb">
+
+![HSchiefeEbene](https://technikermathe.de/wp-content/uploads/2020/03/tk-statik-schiefe-ebene-2-768x432.jpg)
+
+</p>
+
+</p>
+
+---
+
+********
+
+
+{{3}}
 ********
 Dabei ist:
 
 - $F_R$ die Reibungskraft,
-- $F_N$ die Normalkraft, Kraft die senkrecht auf die Kontaktfläche wirkt (bei horizontaler Ebene $F_N = F_g$)
 - $F_g$ Gewichtskraft (_Hinweis: $\boxed{F_g = m \cdot g}$_ )
+- $F_N$ die Normalkraft, Kraft die senkrecht auf die Kontaktfläche wirkt 
 ********
 
-{{2}}
+{{4}}
 ********
 - $\mu$ der Reibungskoeffizient (Haft-, Gleit- oder Rollreibung)
 
@@ -434,23 +477,34 @@ Dabei ist:
 
 ---
 
-{{3}}
+{{4}}
 ********
 >> __Merke:__ Bei identischen Oberflächen ist der Rollreibungskoeffizient  ($\mu_{Roll}$) deutlich am kleinsten. 
 >>
 >> Haftreibungskoeffizient($\mu_{Haft}$) ist immer größer, als Gleitreibungskoeffizient ($\mu_{Gleit}$)
 >>
 >> $$\mu_{Roll} \ll \mu_{Gleit} < \mu_{Haft}$$
+
+_Aufgabe: siehe 1.8.4_
+
 ********
 
-## 1.8.3 Zusammenfassung
+### 1.8.3 Zusammenfassung
 
 Reibung ist eine fundamentale Kraft in der Physik, die der Bewegung zwischen zwei Oberflächen entgegenwirkt. Sie kann in Haft-, Gleit- und Rollreibung unterteilt werden. Die Berechnung der Reibungskraft erfolgt durch die Multiplikation des Reibungskoeffizienten mit der Normalkraft.
 
-## 1.8.4 Übung zur Reibung
+### 1.8.4 Qualitative Übung zur Reibung (ohne Berechnungen)
 
 Diskutiere mit einem Partner. Stellt euch Wechselseitig die Fragen und überprüft die Antworten.
 
-Empfehlung: 113-117 
+__Empfehlung: Aufgaben 113-117__
 
 ??[PittysPhysik](https://physikaufgaben.de/aufgaben_zeige_an.php?thid=1&tab=6&auswahl_t1=13&auswahl_n1=4)
+
+### 1.8.5 Quantitative Übung zur Reibung (mit Berechnungen)
+
+_Quantitative Aufgaben zur Reibung auf horizontalen Ebene. Bitte anklicken und allein oder in Gruppenarbeit berechnen und Lösung vergleichen._
+
+[Leifi-Physik-Aufgabe-Reibung-1](https://www.leifiphysik.de/mechanik/reibung-und-fortbewegung/aufgabe/wohnanhaenger)
+
+[Leifi-Physik-Aufgabe-Reibung-2](https://www.leifiphysik.de/mechanik/reibung-und-fortbewegung/aufgabe/die-verrueckte-kiste)
