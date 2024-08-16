@@ -26,8 +26,6 @@ h1, h2, h3, h4, h5, h6 {
 }
 @end
 
-mode: presentation
-
 @onload
 window.LIA.settings.font_size = 2
 @end
@@ -314,3 +312,103 @@ Ein Pkw fährt mit der Geschwindigkeit $72 \frac{km}{h}. Zum Zeitpunkt t=0, am O
 
 - 1. Im Fall 1 bewegt sich das Fahrzeug eine Straße mit dem Neigungswinkel 5,0° gegenüber der Horizontalen bis zum Stillstand aufwärts. Berechnen Sie den zurückgelegten Weg. Nutzen Sie den Energieerhaltungssatz. <br> _Hinweis: Die Reibung bleibt unberücksichtigt._
 - 2. Im Fall 2 bewegt sich das Fahrzeug auf einer horizontalen Straße unter dem Einfluss der Reibung bis zum Stillstand. Berechnen Sie den zurückgelegten Weg. <br> _Hinweis: Die konstante Reibungszahl beträgt 0,12_ .
+
+Hier ist eine Einführung zum Thema Reibung im Fach Physik für einen Grundkurs der Klasse 11 im Liascript-Format:
+
+
+## 1.8 Einführung in das Thema Reibung
+
+### 1.8.1 Definition Reibung
+
+Reibung ist eine Kraft, die der Bewegung zweier Oberflächen entgegenwirkt, die miteinander in Kontakt stehen. Sie tritt auf, wenn zwei Oberflächen aneinander __haften, gleiten oder rollen__.
+
+Reibung kann im Alltag nützlich oder hinderlich sein.
+
+{{1}}
+*****
+__Es gibt drei Hauptarten der Reibung (von zwei Körpern):__
+
+1. **Haftreibung** ($F_{Haft}$)
+2. **Gleitreibung** ($F_{Gleit}$)
+3. **Rollreibung** ($F_{Roll}$)
+
+<br>
+
+4. [ **Luftreibung** ($F_{Luft}$) ]
+*****
+
+| | | | |
+| ![Reibung1](https://diversewolken.ddns.net/nextcloud/index.php/s/Mck6oNwSa46L2Qx/download) | ![Reibung2](https://diversewolken.ddns.net/nextcloud/index.php/s/asZf57L4XxwawnT/download) | ![Reibung3](https://diversewolken.ddns.net/nextcloud/index.php/s/SG9GxsxxpbT6m8Z/download) | ![Reibung4](https://diversewolken.ddns.net/nextcloud/index.php/s/5kJ3R7npPtCGb5p/download) |
+| {2}{$F_{Gleit}$} | {3}{$F_{Roll}$} | {4}{$F_{Gleit}$} | {5}{$F_{Haft}$} |
+
+{{6}}
+*********
+---
+
+__Haftreibung__
+
+Haftreibung tritt auf, wenn zwei Oberflächen aufeinander haften, ohne sich zu bewegen. Diese Art der Reibung muss überwunden werden, um ein Objekt in Bewegung zu setzen.
+
+- **Beispiel**: Ein Buch liegt auf einem Tisch. Es bleibt in Ruhe, bis eine ausreichend große Kraft aufgebracht wird, um es in Bewegung zu versetzen.
+*********
+
+
+{{7}}
+*******
+---
+
+
+__Gleitreibung__
+
+Gleitreibung tritt auf, wenn zwei Oberflächen aneinander entlang gleiten. Diese Art der Reibung wirkt der Bewegung entgegen und ist in der Regel geringer als die Haftreibung.
+
+- **Beispiel**: Ein Schlitten gleitet über Schnee. Die Reibungskraft, die der Bewegung entgegenwirkt, ist die Gleitreibung.
+
+*******
+
+
+
+{{8}}
+********
+---
+
+__Rollreibung__
+
+Rollreibung tritt auf, wenn ein Objekt über eine Oberfläche rollt. Sie ist in der Regel geringer als die Gleitreibung, da der Kontaktpunkt sich ständig ändert.
+
+- **Beispiel**: Ein Rad rollt über eine Straße. Die Reibungskraft, die der Rollbewegung entgegenwirkt, ist die Rollreibung.
+
+********
+
+## Video: Reibung
+
+??[MussteWissenReibung](https://www.zdf.de/funk/musstewissen-1066/funk-reibung---physik-musstewissen-100.html)
+
+Quelle: ZDF.de
+
+## 1.8.6 Die Reibungszahl
+
+Die Reibungszahl, auch Reibungskoeffizient genannt, ist eine dimensionslose Größe, die angibt, wie stark die Reibung zwischen zwei Oberflächen ist. Sie hängt von den Materialien der Oberflächen und ihrer Beschaffenheit ab.
+
+Die allgemeine Formel zur Berechnung der Reibungskraft $F_R$ ist:
+
+$$
+F_R = \mu \cdot N
+$$
+
+Dabei ist:
+- $F_R$ die Reibungskraft,
+- $\mu$ der Reibungskoeffizient (Haft-, Gleit- oder Rollreibung),
+- $N$ die Normalkraft, also die Kraft, die senkrecht auf die Kontaktfläche wirkt.
+
+### 1.8.9 Reibungskoeffizienten
+
+- **Haftreibungskoeffizient** ($\mu_h$): Charakterisiert die Haftreibung.
+- **Gleitreibungskoeffizient** ($\mu_g$): Charakterisiert die Gleitreibung.
+- **Rollreibungskoeffizient** ($\mu_r$): Charakterisiert die Rollreibung.
+
+---
+
+## 1.8.10. Zusammenfassung
+
+Reibung ist eine fundamentale Kraft in der Physik, die der Bewegung zwischen zwei Oberflächen entgegenwirkt. Sie kann in Haft-, Gleit- und Rollreibung unterteilt werden, wobei jede Art spezifische Eigenschaften und Reibungskoeffizienten aufweist. Die Berechnung der Reibungskraft erfolgt durch die Multiplikation des Reibungskoeffizienten mit der Normalkraft.
