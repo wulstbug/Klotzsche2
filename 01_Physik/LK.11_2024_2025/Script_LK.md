@@ -771,3 +771,10 @@ Metzler S. 67, 8
 ![Lsg_Metzler_67_8](https://diversewolken.ddns.net/nextcloud/index.php/s/yXL4GaHJjpi9HCw/download)
 
 </details>
+
+## Aufgaben Pitty-Physik
+
+Reibung:
+
+739, 1335
+

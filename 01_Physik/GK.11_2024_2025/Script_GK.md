@@ -380,35 +380,77 @@ Rollreibung tritt auf, wenn ein Objekt über eine Oberfläche rollt. Sie ist in 
 
 ********
 
+## Übung: Zuordnung von Reibungsarten
+
+__Erwünschte und unerwünschte Reibung:__
+<iframe src="https://learningapps.org/watch?app=21913985" style="border:0px;width:100%;height:500px" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"></iframe>
+
+__Erkenne Reibungsarten:__
+<iframe src="https://learningapps.org/watch?app=374843" style="border:0px;width:100%;height:500px" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"></iframe>
+
+
 ## Video: Reibung
 
 ??[MussteWissenReibung](https://www.zdf.de/funk/musstewissen-1066/funk-reibung---physik-musstewissen-100.html)
 
 Quelle: ZDF.de
 
-## 1.8.6 Die Reibungszahl
+## 1.8.2 Die Reibungszahl $\mu$ - Berechnung der Reibungskraft
 
 Die Reibungszahl, auch Reibungskoeffizient genannt, ist eine dimensionslose Größe, die angibt, wie stark die Reibung zwischen zwei Oberflächen ist. Sie hängt von den Materialien der Oberflächen und ihrer Beschaffenheit ab.
 
 Die allgemeine Formel zur Berechnung der Reibungskraft $F_R$ ist:
 
 $$
-F_R = \mu \cdot N
+\boxed{F_R = \mu \cdot F_N}
 $$
 
+Ist die Unterlage horizontal (waagerecht), so ist $F_N = F_g$ und es gilt:
+
+$$
+\boxed{F_R = \mu \cdot F_g}
+$$
+
+{{1}}
+********
 Dabei ist:
+
 - $F_R$ die Reibungskraft,
-- $\mu$ der Reibungskoeffizient (Haft-, Gleit- oder Rollreibung),
-- $N$ die Normalkraft, also die Kraft, die senkrecht auf die Kontaktfläche wirkt.
+- $F_N$ die Normalkraft, Kraft die senkrecht auf die Kontaktfläche wirkt (bei horizontaler Ebene $F_N = F_g$)
+- $F_g$ Gewichtskraft (_Hinweis: $\boxed{F_g = m \cdot g}$_ )
+********
 
-### 1.8.9 Reibungskoeffizienten
+{{2}}
+********
+- $\mu$ der Reibungskoeffizient (Haft-, Gleit- oder Rollreibung)
 
-- **Haftreibungskoeffizient** ($\mu_h$): Charakterisiert die Haftreibung.
-- **Gleitreibungskoeffizient** ($\mu_g$): Charakterisiert die Gleitreibung.
-- **Rollreibungskoeffizient** ($\mu_r$): Charakterisiert die Rollreibung.
+  - **Haftreibungskoeffizient** ($\mu_{Haft}$)
+
+  - **Gleitreibungskoeffizient** ($\mu_{Gleit}$)
+
+  - **Rollreibungskoeffizient** ($\mu_{Roll}$)
+
+********
 
 ---
 
-## 1.8.10. Zusammenfassung
+{{3}}
+********
+>> __Merke:__ Bei identischen Oberflächen ist der Rollreibungskoeffizient  ($\mu_{Roll}$) deutlich am kleinsten. 
+>>
+>> Haftreibungskoeffizient($\mu_{Haft}$) ist immer größer, als Gleitreibungskoeffizient ($\mu_{Gleit}$)
+>>
+>> $$\mu_{Roll} \ll \mu_{Gleit} < \mu_{Haft}$$
+********
 
-Reibung ist eine fundamentale Kraft in der Physik, die der Bewegung zwischen zwei Oberflächen entgegenwirkt. Sie kann in Haft-, Gleit- und Rollreibung unterteilt werden, wobei jede Art spezifische Eigenschaften und Reibungskoeffizienten aufweist. Die Berechnung der Reibungskraft erfolgt durch die Multiplikation des Reibungskoeffizienten mit der Normalkraft.
+## 1.8.3 Zusammenfassung
+
+Reibung ist eine fundamentale Kraft in der Physik, die der Bewegung zwischen zwei Oberflächen entgegenwirkt. Sie kann in Haft-, Gleit- und Rollreibung unterteilt werden. Die Berechnung der Reibungskraft erfolgt durch die Multiplikation des Reibungskoeffizienten mit der Normalkraft.
+
+## 1.8.4 Übung zur Reibung
+
+Diskutiere mit einem Partner. Stellt euch Wechselseitig die Fragen und überprüft die Antworten.
+
+Empfehlung: 113-117 
+
+??[PittysPhysik](https://physikaufgaben.de/aufgaben_zeige_an.php?thid=1&tab=6&auswahl_t1=13&auswahl_n1=4)
