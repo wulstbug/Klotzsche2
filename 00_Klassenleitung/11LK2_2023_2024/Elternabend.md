@@ -37,15 +37,15 @@ window.LIA.settings.font_size = 2
 
 # Elternabend 11Ph2 - 20.08.24 18:30 Uhr
 
-<H4> Herzlich Willkommen </H4>
-
-- [ ] Allgemeine Informationen (Termin 24/25, Notengebung)
-
-- [ ] Fehlzeiten
+<H4> Herzlich Willkommen - Bitte unterschreiben Sie die Anwesenheit</H4>
 
 - [ ] Elternsprecher/Elternsprecherin + Stellvertretung
 
-- [ ] Elternspende
+- [ ] Allgemeine Informationen (Termine 24/25, Notengebung)
+
+- [ ] Fehlzeiten/Abmeldung
+
+- [ ] Sonstiges/Elternspende
 
 ## Termine zum Schuljahr 2024/2025
 
@@ -61,14 +61,14 @@ window.LIA.settings.font_size = 2
 | 05.05.-09.05. | FVU / Kursfahrt |
 | 27.06. | Zeugniss 11/II |
 
-__Wie geht's weiter?__
+__Wie geht's nach dem Abitur weiter?__
 
 | | |
-| 20.09. | Berufkarussel |
-| 09.01. | [Hochschulinformationstag TUD](https://tu-dresden.de/studium/vor-dem-studium/uni-testen/uni-live#:~:text=Besuchen%20Sie%20uns%20am%209,unserem%20n%C3%A4chsten%20UNI%20LIVE%20%2D%20Hochschulinformationstag.) |
-| 15.01. | Elternabend "Was wird nach dem Abitur" |
-| 24.01.-26.01. | [KarriereStart 2025](https://www.dresden.de/de/wirtschaft/wirtschaftsstandort/projekte-kooperationen/KarriereStart.php#:~:text=Von%2024.,sowie%20zu%20Existenzgr%C3%BCndung%20und%20Unternehmensentwicklung.)|
-| 03./04.06. | [Vocatiummesse Dresden](https://www.vocatium.de/fachmessen/vocatium-dresden-2025) ) |
+| 20.09.24 | Berufkarussel |
+| 09.01.25 | [Hochschulinformationstag TUD](https://tu-dresden.de/studium/vor-dem-studium/uni-testen/uni-live#:~:text=Besuchen%20Sie%20uns%20am%209,unserem%20n%C3%A4chsten%20UNI%20LIVE%20%2D%20Hochschulinformationstag.) |
+| 15.01.25 | Elternabend "Was wird nach dem Abitur" |
+| 24.-26.01.25 | [KarriereStart 2025](https://www.dresden.de/de/wirtschaft/wirtschaftsstandort/projekte-kooperationen/KarriereStart.php#:~:text=Von%2024.,sowie%20zu%20Existenzgr%C3%BCndung%20und%20Unternehmensentwicklung.)|
+| 03./04.06.25 | [Vocatiummesse Dresden](https://www.vocatium.de/fachmessen/vocatium-dresden-2025)  |
 
 
 
@@ -104,19 +104,19 @@ __Wie geht's weiter?__
 - telefonische Entschuldigung bis 8.00 Uhr unter Tel.: 0351/2078840
 - schriftliche Entschuldigung (über LernSax-Formular oder E-Mail an __info@gymnasium-klotzsche.de__ oder in Papierform) binnen <span style="color:red"> drei Werktagen </span> von Eltern bzw. volljährigen Schülerinnen und Schülern (sonst unentschuldigtes Fehlen) an Tutor 
 
-    __Beachte: LernSax-Formular wird bei Schülern unter 18 Jahren nur akzeptiert, wenn es vom Eltern-Account gesendet wurde__
+    __Zu beachten: LernSax-Formular wird bei Schülern unter 18 Jahren nur akzeptiert, wenn es vom Eltern-Account gesendet wurde__
 
 
 {{1}}
 ***********
-> Unentschuldigtes Fehlen bei Leistungsermittlungen => 0 Punkte
+> Unentschuldigtes Fehlen bei Leistungsermittlungen -> 0 Punkte
 
 > Anträge auf Freistellungen bitte im Vorfeld einreichen
 ***********
 
 ## Sonstiges
 
-- Elternspende (10€)
+- Bitte um Elternspende (10€)
 
 {{1}}
 ***********
