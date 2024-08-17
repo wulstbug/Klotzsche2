@@ -45,7 +45,7 @@ window.LIA.settings.font_size = 2
 
 - [ ] Fehlzeiten/Abmeldung
 
-- [ ] Sonstiges/Elternspende
+- [ ] Sonstiges/Elternspende 
 
 ## Termine zum Schuljahr 2024/2025
 
