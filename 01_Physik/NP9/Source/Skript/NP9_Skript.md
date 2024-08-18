@@ -23,3 +23,42 @@ Schau dir folgendes Video an und notiere die wesentlichen Meilensteine, welche z
 
 !?[EntwicklungDesInternets](https://www.youtube.com/watch?v=EKm6pJSI-aQ)
 
+# Grundlagen Verschlüsselung
+
+Schau dir folgende Videos an zum Thema Verschlüsselung. Das Tafelbild mit den Grundlagen wird später eingefügt.
+
+!?[Verschüsselung](https://www.youtube.com/watch?v=WaPwvaQQZjU)
+
+!?[VerschüsselungEMail](https://www.youtube.com/watch?v=inxNRA4xK1Q)
+
+Tafelbild verschlüsselte Kommunikation
+
+![Tafelbild_Verschlüsselung](https://diversewolken.ddns.net/nextcloud/index.php/s/MsxAqHnd7iwMCZs/download)
+
+# Einführung Verschlüsselung
+
+<H4>1. Caesar Verschlüsselung</H4>
+
+{{1}}
+*************
+Nimm jeden Buchstaben des Wortes und verschiebe ihn um eine feste Anzahl an Stellen im Alphabet (klassisch +3).
+
+![CaesarErklärt](https://assets.serlo.org/dc09c860-3828-11ee-b962-1fa7d97ba81a/CaesarVerschlsselung.svg)
+*************
+
+{{2}}
+************
+> Aus dem Wort __BESEN__ wird das Wort [[EHVHQ]].
+************
+
+
+{{3}}
+********
+
+__Übung:__
+
+Verschüssele __FEUER__: Lösung: [[JIYIV]]
+
+Entschlüssele: __DMVOYW__: Lösung: [[ZIRKUS]]
+
+************
