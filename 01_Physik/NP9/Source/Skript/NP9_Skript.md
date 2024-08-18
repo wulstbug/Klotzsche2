@@ -23,6 +23,10 @@ Schau dir folgendes Video an und notiere die wesentlichen Meilensteine, welche z
 
 !?[EntwicklungDesInternets](https://www.youtube.com/watch?v=EKm6pJSI-aQ)
 
+# MUZ GAT NETUG 
+
+<H3> THCIRRETNUEIHPARGOTPYRK </H3>
+
 # Grundlagen Verschlüsselung
 
 Schau dir folgende Videos an zum Thema Verschlüsselung. Das Tafelbild mit den Grundlagen wird später eingefügt.
@@ -37,7 +41,7 @@ Tafelbild verschlüsselte Kommunikation
 
 # Einführung Verschlüsselung
 
-<H4>1. Caesar Verschlüsselung</H4>
+## 1. Caesar Verschlüsselung
 
 {{1}}
 *************
@@ -61,4 +65,14 @@ Verschüssele __FEUER__: Lösung: [[JIYIV]]
 
 Entschlüssele: __DMVOYW__: Lösung: [[ZIRKUS]]
 
+Verschlüssle das Wort __GLADIATOREN__ mit Schlüssel 7: Lösung [[NSHKPHAVYLU]].
+
 ************
+
+
+
+## 2. Gartenzaunmethode
+
+![Tafelbild_Gartenzaun](https://diversewolken.ddns.net/nextcloud/index.php/s/oJj2xDnRGEwSLpp/download)
+
+## 3. Vignere Verschlüsselung
