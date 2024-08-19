@@ -239,7 +239,14 @@ __Lösungsvorschlag:__
 ![Berechnung_Geschwindigkeitv3](https://diversewolken.ddns.net/nextcloud/index.php/s/A76awi56xDgSFmP/download)
 ***********
 
+## 1.6 Energiebetrachtung unter Berücksichtigung von Reibung
 
+## 1.7 Aufgabe
+
+Ein Pkw fährt mit der Geschwindigkeit $72 \frac{km}{h}$. Zum Zeitpunkt t=0, am Ort s=0 betätigt der Fahrer die Kupplung, dadurch wirkt die Antriebskraft nicht mehr auf das Fahrzeug, ab diesem Moment wird die Bewegung für zwei verschiedene Fälle untersucht:
+
+- 1. Im Fall 1 bewegt sich das Fahrzeug eine Straße mit dem Neigungswinkel 5,0° gegenüber der Horizontalen bis zum Stillstand aufwärts. Berechnen Sie den zurückgelegten Weg. Nutzen Sie den Energieerhaltungssatz. <br> _Hinweis: Die Reibung bleibt unberücksichtigt._
+- 2. Im Fall 2 bewegt sich das Fahrzeug auf einer horizontalen Straße unter dem Einfluss der Reibung bis zum Stillstand. Berechnen Sie den zurückgelegten Weg. <br> _Hinweis: Die konstante Reibungszahl beträgt 0,12_ .
 
 ## 1.8 Einführung in das Thema Reibung
 
