@@ -37,7 +37,7 @@ window.LIA.settings.font_size = 2
 
 {{0-1}}
 **********
-![p-n-Übergang](https://www.youtube.com/watch?v=5wIRJN3DN_8)
+!?[p-n-Übergang](https://www.youtube.com/watch?v=5wIRJN3DN_8)
 **********
 
 
