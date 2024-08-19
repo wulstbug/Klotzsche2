@@ -97,9 +97,9 @@ Nimm jeden Buchstaben des Wortes und verschiebe ihn um eine feste Anzahl an Stel
 
 __Übung:__
 
-Verschüssele __FEUER__: Lösung: [[JIYIV]]
+Verschüssele mit (Schlüssel +4) __FEUER__: Lösung : [[JIYIV]]
 
-Entschlüssele: __DMVOYW__: Lösung: [[ZIRKUS]]
+Entschlüssele mit (Schlüssel +4) __DMVOYW__: Lösung: [[ZIRKUS]]
 
 Verschlüssle das Wort __GLADIATOREN__ mit Schlüssel 7: Lösung [[NSHKPHAVYLU]].
 
@@ -110,5 +110,15 @@ Verschlüssle das Wort __GLADIATOREN__ mit Schlüssel 7: Lösung [[NSHKPHAVYLU]]
 ## 2. Gartenzaunmethode
 
 ![Tafelbild_Gartenzaun](https://diversewolken.ddns.net/nextcloud/index.php/s/oJj2xDnRGEwSLpp/download)
+
+Entschlüssele mit dem Gartenzaun: __MINM ITAE ENAE SHS__
+
+Lösung (Großbuchstaben, ohne Leerzeichen): [[MEINNAMEISTHASE]]
+
+Entschlüssele mit dem doppelten Gartenzaun: __SONT NEND RIHS IIEC C__
+
+Lösung (Großbuchstaben, ohne Leerzeichen): [[SEINODERNICHTSEIN]]
+
+
 
 ## 3. Vignere Verschlüsselung
