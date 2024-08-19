@@ -402,7 +402,7 @@ __Erkenne Reibungsarten:__
 
 Quelle: ZDF.de
 
-## 1.8.2 Die Reibungszahl $\mu$ - Berechnung der Reibungskraft
+### 1.8.2 Die Reibungszahl $\mu$ - Berechnung der Reibungskraft
 
 Die Reibungszahl, auch Reibungskoeffizient genannt, ist eine dimensionslose Größe, die angibt, wie stark die Reibung zwischen zwei Oberflächen ist. Sie hängt von den Materialien der Oberflächen und ihrer Beschaffenheit ab.
 

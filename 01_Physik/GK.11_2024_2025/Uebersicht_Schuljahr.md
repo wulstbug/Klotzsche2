@@ -238,3 +238,198 @@ __Lösungsvorschlag:__
 
 ![Berechnung_Geschwindigkeitv3](https://diversewolken.ddns.net/nextcloud/index.php/s/A76awi56xDgSFmP/download)
 ***********
+
+
+
+## 1.8 Einführung in das Thema Reibung
+
+### 1.8.1 Definition Reibung
+
+Reibung ist eine Kraft, die der Bewegung zweier Oberflächen entgegenwirkt, die miteinander in Kontakt stehen. Sie tritt auf, wenn zwei Oberflächen aneinander __haften, gleiten oder rollen__.
+
+Reibung kann im Alltag nützlich oder hinderlich sein.
+
+{{1}}
+*****
+__Es gibt drei Hauptarten der Reibung (von zwei Körpern):__
+
+1. **Haftreibung** ($F_{Haft}$)
+2. **Gleitreibung** ($F_{Gleit}$)
+3. **Rollreibung** ($F_{Roll}$)
+
+<br>
+
+4. [ **Luftreibung** ($F_{Luft}$) ]
+*****
+
+{{2}}
+*****
+| | | | |
+| ![Reibung1](https://diversewolken.ddns.net/nextcloud/index.php/s/Mck6oNwSa46L2Qx/download) | ![Reibung2](https://diversewolken.ddns.net/nextcloud/index.php/s/asZf57L4XxwawnT/download) | ![Reibung3](https://diversewolken.ddns.net/nextcloud/index.php/s/SG9GxsxxpbT6m8Z/download) | ![Reibung4](https://diversewolken.ddns.net/nextcloud/index.php/s/5kJ3R7npPtCGb5p/download) |
+| {3}{$F_{Gleit}$} | {4}{$F_{Roll}$} | {5}{$F_{Gleit}$} | {6}{$F_{Haft}$} |
+
+{6}{_Aufgabe: Zuordnung von Reibungsarten_}
+*****
+
+{{7}}
+*********
+---
+
+__Haftreibung__
+
+Haftreibung tritt auf, wenn zwei Oberflächen aufeinander haften, ohne sich zu bewegen. Diese Art der Reibung muss überwunden werden, um ein Objekt in Bewegung zu setzen.
+
+- **Beispiel**: Ein Buch liegt auf einem Tisch. Es bleibt in Ruhe, bis eine ausreichend große Kraft aufgebracht wird, um es in Bewegung zu versetzen.
+*********
+
+
+{{8}}
+*******
+---
+
+
+__Gleitreibung__
+
+Gleitreibung tritt auf, wenn zwei Oberflächen aneinander entlang gleiten. Diese Art der Reibung wirkt der Bewegung entgegen und ist in der Regel geringer als die Haftreibung.
+
+- **Beispiel**: Ein Schlitten gleitet über Schnee. Die Reibungskraft, die der Bewegung entgegenwirkt, ist die Gleitreibung.
+
+*******
+
+
+
+{{9}}
+********
+---
+
+__Rollreibung__
+
+Rollreibung tritt auf, wenn ein Objekt über eine Oberfläche rollt. Sie ist in der Regel geringer als die Gleitreibung, da der Kontaktpunkt sich ständig ändert.
+
+- **Beispiel**: Ein Rad rollt über eine Straße. Die Reibungskraft, die der Rollbewegung entgegenwirkt, ist die Rollreibung.
+
+********
+
+
+
+### Übung: Zuordnung von Reibungsarten
+
+__Erwünschte und unerwünschte Reibung:__
+<iframe src="https://learningapps.org/watch?app=21913985" style="border:0px;width:100%;height:500px" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"></iframe>
+
+__Erkenne Reibungsarten:__
+<iframe src="https://learningapps.org/watch?app=374843" style="border:0px;width:100%;height:500px" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"></iframe>
+
+
+### Video: Reibung
+
+??[MussteWissenReibung](https://www.zdf.de/funk/musstewissen-1066/funk-reibung---physik-musstewissen-100.html)
+
+Quelle: ZDF.de
+
+### 1.8.2 Die Reibungszahl $\mu$ - Berechnung der Reibungskraft
+
+Die Reibungszahl, auch Reibungskoeffizient genannt, ist eine dimensionslose Größe, die angibt, wie stark die Reibung zwischen zwei Oberflächen ist. Sie hängt von den Materialien der Oberflächen und ihrer Beschaffenheit ab.
+
+{{1}}
+********
+
+Auf einer horizontalen Unterlage (waagerecht), gilt für die Berechnung der Reibung:
+
+<p class="newspaper">
+
+$$
+\boxed{F_R = \mu \cdot F_g}
+$$
+
+<p class="cb">
+
+![Horizontal](https://physikunterricht-online.de/wp-content/uploads/2022/03/Reibung.png)
+
+</p>
+
+</p>
+
+_Aufgaben 1.8.5_
+
+----
+
+********
+
+{{2}}
+********
+Auf einer schiefen Ebene (Neigungswinkel $\alpha$) gilt für die Reibung:
+
+<p class="newspaper">
+
+$$
+\boxed{F_R = \mu \cdot F_N = \mu \cdot F_g \cdot cos\alpha}
+$$
+
+<p class="cb">
+
+![HSchiefeEbene](https://technikermathe.de/wp-content/uploads/2020/03/tk-statik-schiefe-ebene-2-768x432.jpg)
+
+</p>
+
+</p>
+
+---
+
+********
+
+
+{{3}}
+********
+Dabei ist:
+
+- $F_R$ die Reibungskraft,
+- $F_g$ Gewichtskraft (_Hinweis: $\boxed{F_g = m \cdot g}$_ )
+- $F_N$ die Normalkraft, Kraft die senkrecht auf die Kontaktfläche wirkt 
+********
+
+{{4}}
+********
+- $\mu$ der Reibungskoeffizient (Haft-, Gleit- oder Rollreibung)
+
+  - **Haftreibungskoeffizient** ($\mu_{Haft}$)
+
+  - **Gleitreibungskoeffizient** ($\mu_{Gleit}$)
+
+  - **Rollreibungskoeffizient** ($\mu_{Roll}$)
+
+********
+
+---
+
+{{4}}
+********
+>> __Merke:__ Bei identischen Oberflächen ist der Rollreibungskoeffizient  ($\mu_{Roll}$) deutlich am kleinsten. 
+>>
+>> Haftreibungskoeffizient($\mu_{Haft}$) ist immer größer, als Gleitreibungskoeffizient ($\mu_{Gleit}$)
+>>
+>> $$\mu_{Roll} \ll \mu_{Gleit} < \mu_{Haft}$$
+
+_Aufgabe: siehe 1.8.4_
+
+********
+
+### 1.8.3 Zusammenfassung
+
+Reibung ist eine fundamentale Kraft in der Physik, die der Bewegung zwischen zwei Oberflächen entgegenwirkt. Sie kann in Haft-, Gleit- und Rollreibung unterteilt werden. Die Berechnung der Reibungskraft erfolgt durch die Multiplikation des Reibungskoeffizienten mit der Normalkraft.
+
+### 1.8.4 Qualitative Übung zur Reibung (ohne Berechnungen)
+
+Diskutiere mit einem Partner. Stellt euch Wechselseitig die Fragen und überprüft die Antworten.
+
+__Empfehlung: Aufgaben 113-117__
+
+??[PittysPhysik](https://physikaufgaben.de/aufgaben_zeige_an.php?thid=1&tab=6&auswahl_t1=13&auswahl_n1=4)
+
+### 1.8.5 Quantitative Übung zur Reibung (mit Berechnungen)
+
+_Quantitative Aufgaben zur Reibung auf horizontalen Ebene. Bitte anklicken und allein oder in Gruppenarbeit berechnen und Lösung vergleichen._
+
+[Leifi-Physik-Aufgabe-Reibung-1](https://www.leifiphysik.de/mechanik/reibung-und-fortbewegung/aufgabe/wohnanhaenger)
+
+[Leifi-Physik-Aufgabe-Reibung-2](https://www.leifiphysik.de/mechanik/reibung-und-fortbewegung/aufgabe/die-verrueckte-kiste)
