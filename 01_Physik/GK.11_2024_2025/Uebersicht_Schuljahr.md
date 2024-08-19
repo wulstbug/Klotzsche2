@@ -328,9 +328,11 @@ __Erkenne Reibungsarten:__
 <iframe src="https://learningapps.org/watch?app=374843" style="border:0px;width:100%;height:500px" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"></iframe>
 
 
-### Video: Reibung
+### Video: Reibung 
 
-??[MussteWissenReibung](https://www.zdf.de/funk/musstewissen-1066/funk-reibung---physik-musstewissen-100.html)
+Zur Wiederholung:
+
+[MussteWissenReibung](https://www.zdf.de/funk/musstewissen-1066/funk-reibung---physik-musstewissen-100.html)
 
 Quelle: ZDF.de
 
