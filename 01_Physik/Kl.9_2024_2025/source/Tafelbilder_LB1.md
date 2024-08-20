@@ -109,7 +109,7 @@ __Elektrische Eigenschaftein einer Diode:__
 
 {{5}}
 ******************
-> Merke: Dioden wirken wir ein elektisches Ventil. Sie lassen den Strom in eine Richtung passieren (ab Schwellwert), in die Gegenrichtung blockieren sie
+> Merke: Dioden wirken wir ein elektisches Ventil. Sie lassen den Strom in eine Richtung passieren (ab Schwellwert), in die Gegenrichtung blockieren sie.
 ******************
 
 ## Interpretation der elektrischen Eigenschaften auf Ebene der Atome
