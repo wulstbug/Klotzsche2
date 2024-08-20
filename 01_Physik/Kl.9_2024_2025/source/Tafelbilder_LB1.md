@@ -103,7 +103,7 @@ __Elektrische Eigenschaftein einer Diode:__
 
 {{4}}
 ******************
-- sind Dioden in Sperrrichtung geschaltet, so ist der Widerstand sehr groß, sie wirken als Isolator
+- sind Dioden in __Sperrrichtung__ geschaltet, so ist der Widerstand sehr groß, sie wirken als Isolator
 ******************
 
 

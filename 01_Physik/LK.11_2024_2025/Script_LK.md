@@ -822,9 +822,10 @@ __Impulserhaltung:__
 > $$ p_1 + p_2 + .. + p_N = \text{const}$$
 **********
 
+## Beispielaufgabe
+
 {{4}}
 ***************
-__Beispielaufgabe:__
 
 Ein Körper (1) der Masse $m_1=1\,kg$ bewegt sich mit einer 
 Geschwindigkeit von $v_1=1\,\frac{m}{s}$ und stößt inelastisch gegen einen Körper (2) mit einer Masse $m_2=2\,kg$. <br> Bestimme die Geschwindigkeiten beider Körper nach dem Stoß.
@@ -844,7 +845,7 @@ $\hspace{1cm}$ $v_2=0\,\frac{m}{s}$
 
 ges.: 
 
-{6}{$\hspace{1cm}$ $v_1'$, $v_2'$ (_alle Größen nach dem Stoß werden mit einem ' gekennzeichnet_)}
+{6}{$\hspace{1cm}$ $v_1'$, $v_2'$ <br> $\hspace{1cm}$_Hinweis: alle Größen nach dem Stoß werden mit einem ' gekennzeichnet_)}
 
 ***************
 
@@ -854,21 +855,22 @@ Lsg.:
 
 $\hspace{0.5cm}$ _1. Energieerhaltung_
 
-$\hspace{1cm}$ $m = 1,5 t = 1500 kg$
-***************
-
-{{7}}
-***************
-> $\hspace{0.5cm}$ _2. Berechnung_
->
-> $\hspace{1cm}$  $E_{kin} = \dfrac{1}{2} \cdot m \cdot v^2 $
->
-> $\hspace{1cm}$  $E_{kin} = \dfrac{1}{2} \cdot 1500 kg \cdot (27,78 \frac{m}{s})^2 $
+$\hspace{1cm}$ $E_{kin1} + E_{kin2} = E'_{kin1} + E'_{kin2} $
 ***************
 
 {{8}}
 ***************
-> Ergebnis:
+$\hspace{1cm}$ $E_{kin1} + 0 = E'_{kin1} + E'_{kin2} $
+**************
+
+{{9}}
+***************
+$\hspace{1cm}$ $\dfrac{1}{2} \cdot m_1 \cdot v_1^2 = \dfrac{1}{2} \cdot m_1 \cdot v_1'^2 + \dfrac{1}{2} \cdot m_2 \cdot v_2'^2 $
+**************
+
+{{2.}}
+***************
+> Impulserhaltung:
 >
 > $\hspace{1cm}$  $E_{kin} = 578796,3 J \approx 578,8 kJ $
 ***************
