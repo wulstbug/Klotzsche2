@@ -47,6 +47,10 @@ window.LIA.settings.font_size = 2
 
 - [ ] Sonstiges/Elternspende 
 
+__Diese Präsentation finden Sie hier:__
+
+[qr-code](https://liascript.github.io/nightly/?https://raw.githubusercontent.com/wulstbug/Klotzsche2/2024_2025/00_Klassenleitung/11LK2_2023_2024/Elternabend.md#1)
+
 ## Termine zum Schuljahr 2024/2025
 
 | | |

@@ -508,6 +508,10 @@ _Löse die Aufgaben:_
 > $\hspace{2cm}$ $E_{pot} = 240 J$
 *************
 
+3. Gib für Aufgabe 1. die auftretenden Energieumwandlungen an.
+
+
+
 ## Video - Energieumwandlungen
 
 ??[Binogi-Mechanische-Energie](https://app.binogi.de/l/mechanische-energie)
