@@ -959,4 +959,3 @@ $\hspace{0.5cm}$ _Lösungen:_
 
 <iframe scrolling="no" title="Loesung_Bungee_Fehlerrechnung" src="https://www.geogebra.org/material/iframe/id/ypvnghec/width/800/height/400/border/888888/sfsb/true/smb/false/stb/false/stbh/false/ai/false/asb/false/sri/false/rc/false/ld/false/sdz/true/ctl/false" width="100%" height="400px" style="border:0px;"> </iframe>
 ***************
-************
