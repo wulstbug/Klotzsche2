@@ -67,7 +67,23 @@ Tägliche Übung:
 
 {{1}}
 ******************
-Diagramm
+__Diagramm:__
+
+| | |
+| U in V | I in mA |
+| -3 | 0 |
+| -2 | 0 |
+| -1.5 | 0 |
+| -1 | 0 |
+| -0.5 | 0 |
+| 0 | 0 |
+| 0.5 | 0 |
+| 1 | 0 |
+| 1.5 | 0 |
+| 1.7 | 0.4 |
+| 1.9 | 4.1 |
+| 2.1 | 24 |
+| 2,3 | 61 |
 ******************
 
 {{2}}
@@ -101,6 +117,11 @@ __Elektrische Eigenschaftein einer Diode:__
 > Durch das Anlegen einer Spannung vergrößert oder verkleinert sich die Verarmungszone. Die Leitfähigkeit der Diode verändert sich.
 
 {1}{![DurchlassSperr](https://diversewolken.ddns.net/nextcloud/index.php/s/ymKY9JmJAiRBwjF/download)}
+
+{{2}}
+**********
+> Exakter*: Durch das Anlegen der Spannung in Durchlassrichtung wird das Potential ausgeglichen, welches durch die Rekombination der Elektronen mit den Löchern an der Grenzfläche aufgebaut wird. Die Schwellwertspannung entspricht genau diesem natürlichen Potential.
+**********
 
 ## Aufgaben zur Übung
 
