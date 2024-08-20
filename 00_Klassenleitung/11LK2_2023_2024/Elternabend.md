@@ -92,6 +92,10 @@ __Wie geht's nach dem Abitur weiter?__
 >
 > $\hspace{1cm}$ mind. 2 sonstige Noten (50%)
 
+>> __Informationen rund um das Abitur:__
+>>
+>> [PDF: Das Abitur am allgemeinbildenden Gymasium in Sachsen](https://publikationen.sachsen.de/bdb/artikel/33022/documents/50303)
+
 {{1}}
 ***********
 > Abiturauswertung 2024
