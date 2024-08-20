@@ -512,6 +512,30 @@ _Löse die Aufgaben:_
 
 
 
-## Video - Energieumwandlungen
+## Video - Leistung und Energie
 
-??[Binogi-Mechanische-Energie](https://app.binogi.de/l/mechanische-energie)
+[Binogi-Mechanische-Energie](https://app.binogi.de/l/leistung-strom-und-spannung)
+
+[FahrradBerghoch](https://www.youtube.com/watch?v=8LriLNaQLFQ)
+
+## Leistung
+
+> Definition: Die Leistung gibt an, welche Energiemenge pro Sekunde umgewandelt wird.
+>
+> Formelzeichen: $P$
+>
+> Einheit: 1 W (1 Watt) = 1 $\dfrac{J}{s}$
+>
+> Formel: 
+>
+> $$\boxed{P = \dfrac{E}{t}}$$
+>
+> $\hspace{1cm}$
+{{2}}
+************
+> Beispielaufgabe: Ein Stein der Masse 5kg liegt im untersten Stockwerk des Gymnasiums Klotzsche auf dem Boden. Jedes Stockwerk hat eine Höhe von 4m. Zwei Schüler Hans und Ida bringen den Stein von unten nach oben. <br> Hans braucht dafür ... s. Ida braucht ... s.
+>
+> a) Berechne die potentielle Energie, die dem Stein von Hans und Ida zugeführt wird.
+> 
+> b) Berechne die Leistung, die Hans und Ida vollbringen.
+************
