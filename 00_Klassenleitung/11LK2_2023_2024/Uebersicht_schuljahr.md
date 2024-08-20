@@ -35,115 +35,101 @@ window.LIA.settings.font_size = 2
 
 -->
 
-# [11Ph2] Leistungskurs Physik
+# Elternabend 11Ph2 - 20.08.24 18:30 Uhr
 
-- Kurslehrer: Hr. Golnik
+<H4> Herzlich Willkommen - Bitte unterschreiben Sie die Anwesenheit und nehmen sich ein passendes Kärtchen.</H4>
 
-- E-Mail: golnik.ch@gykl.lernsax.de
+- [ ] Elternsprecher/Elternsprecherin + Stellvertretung
 
-- Webseite: [ogy.de/11Ph2](https://ogy.de/11Ph2)
+- [ ] Allgemeine Informationen (Termine 24/25, Notengebung)
 
-- Unterrichts Plan: [Herr Golnik](https://diversewolken.ddns.net/nextcloud/index.php/s/9BRb5nkXicbS854)
+- [ ] Fehlzeiten/Abmeldung
 
-??[Plan](https://diversewolken.ddns.net/nextcloud/index.php/s/9BRb5nkXicbS854/preview)
+- [ ] Sonstiges/Elternspende 
 
-## Tutorstunde 05.08.24 - Übersicht
+__Diese Präsentation finden Sie hier:__
 
-- [ ] Allgemeine Informationen
+[qr-code](https://liascript.github.io/nightly/?https://raw.githubusercontent.com/wulstbug/Klotzsche2/2024_2025/00_Klassenleitung/11LK2_2023_2024/Elternabend.md#1)
 
-- [ ] Belehrungen
+## Termine zum Schuljahr 2024/2025
 
-- [ ] Fehlzeiten
+| | |
+| 28.08. | Elternratssitzung (19:00) |
+| 19.09. | Schulkonferenz |
+| 03./04.10. | Feiertag / frei beweglicher Ferientag |
+| 27.11. | Lehrer-Eltern-Sprechtag |
+| 05./07.12. | Weihnachtskonzert |
+| 14.02. | Zeugnisse 11/I |
+| 13.03. | Lehrer-Eltern-Sprechtag |
+| 02.05. | Frühlingskonzert |
+| 05.05.-09.05. | FVU / Kursfahrt |
+| 27.06. | Zeugniss 11/II |
 
-- [ ] Aktualisierungsbögen
+__Wie geht's nach dem Abitur weiter?__
 
-- [ ] Kurssprecher
+| | |
+| 20.09.24 | Berufkarussel |
+| 09.01.25 | [Hochschulinformationstag TUD](https://tu-dresden.de/studium/vor-dem-studium/uni-testen/uni-live#:~:text=Besuchen%20Sie%20uns%20am%209,unserem%20n%C3%A4chsten%20UNI%20LIVE%20%2D%20Hochschulinformationstag.) |
+| 15.01.25 | Elternabend "Was wird nach dem Abitur" |
+| 24.-26.01.25 | [KarriereStart 2025](https://www.dresden.de/de/wirtschaft/wirtschaftsstandort/projekte-kooperationen/KarriereStart.php#:~:text=Von%2024.,sowie%20zu%20Existenzgr%C3%BCndung%20und%20Unternehmensentwicklung.)|
+| 03./04.06.25 | [Vocatiummesse Dresden](https://www.vocatium.de/fachmessen/vocatium-dresden-2025)  |
 
-- [ ] IPads registrieren
 
-- [ ] Kleine Umfrage zum LK
 
-- [ ] Frühstücken
+## Notengebung Sek II
 
-## Allgemeine Informationen
+>> Grundsätzlich [40% Modell](https://gykl.de/cms/wp-content/uploads/2020/09/bewertung.pdf)
+>>
+>> Leistungkurs: 
+>> 
+>> $\hspace{1cm}$ 2 Klausuren (50%)
+>>
+>> $\hspace{1cm}$ mind. 2 sonstige Noten (50%)
+
+> Grundkurs: 
+> 
+> $\hspace{1cm}$ 1 Klausur (50%)
+>
+> $\hspace{1cm}$ mind. 2 sonstige Noten (50%)
+
+>> __Informationen rund um das Abitur:__
+>>
+>> [PDF: Das Abitur am allgemeinbildenden Gymasium in Sachsen](https://publikationen.sachsen.de/bdb/artikel/33022/documents/50303)
 
 {{1}}
 ***********
-<span style="color:orange">
-
-- Noten: mind. 2 sonstige, 2 Klausur
-
-- Leistungskontrolle: Donnerstag 29.08.2024
-
-- Klausurtermine: Mittwoch 25.09.2024, Mittwoch 13.01.2025
-
-</span>
+> Abiturauswertung 2024
+>
+> ![Abitur24](https://diversewolken.ddns.net/nextcloud/index.php/s/LBnCPagJZ6RMmsy/download)
 ***********
 
 {{2}}
 ***********
-
-- Webseite: [ogy.de/11Ph2](https://ogy.de/11Ph2)
-
+> ![Physik](https://diversewolken.ddns.net/nextcloud/index.php/s/eH6W9AafEqmRCcq/download)
 ***********
-
-{{3}}
-***********
-- Bücher Dienstag 06.08. 8:30 Uhr -> R234
-***********
-
-## Belehrungen
-
-[Dokument Belehrung GYKL](https://diversewolken.ddns.net/nextcloud/index.php/s/p3oTzRAz42zyycE)
-
-[Dokument Belehrung Fachraum Physik]()
-
-[Dokument Hausordnung](https://diversewolken.ddns.net/nextcloud/index.php/s/WDmBDNabf4nmZpC)
 
 ### Fehlzeiten
 
 - telefonische Entschuldigung bis 8.00 Uhr unter Tel.: 0351/2078840
 - schriftliche Entschuldigung (über LernSax-Formular oder E-Mail an __info@gymnasium-klotzsche.de__ oder in Papierform) binnen <span style="color:red"> drei Werktagen </span> von Eltern bzw. volljährigen Schülerinnen und Schülern (sonst unentschuldigtes Fehlen) an Tutor 
 
-    __Beachte: LernSax-Formular wird bei Schülern unter 18 Jahren nur akzeptiert, wenn es vom Eltern-Account gesendet wurde__
+    __Zu beachten: LernSax-Formular wird bei Schülern unter 18 Jahren nur akzeptiert, wenn es vom Eltern-Account gesendet wurde__
+
 
 {{1}}
 ***********
-- Unterschrift der Tutorin bzw. des Tutors auf Laufzettel (LernSax Dateien OS 11 Oberstufenberatung oder [hier](https://diversewolken.ddns.net/nextcloud/index.php/s/CDcprA3bDneDDCQ)),	wenn Schülerinnen und Schüler wieder gesund sind 
-- danach Unterschriften von Fachlehrerinnen und Fachlehrern einholen
-- sollte während der Fehlzeit eine Leistungsermittlung erfolgt sein, so wird eine Nachholemöglichkeit nur bei fristgemäßer Entschuldigung gewährt, andernfalls werden 00 Punkte erteilt
+> Unentschuldigtes Fehlen bei Leistungsermittlungen -> 0 Punkte
+
+> Anträge auf Freistellungen bitte im Vorfeld einreichen
 ***********
 
-{{2}}
+## Sonstiges
+
+- Bitte um Elternspende (10€)
+
+{{1}}
 ***********
-- keine Arzttermine in der Unterrichtszeit
- - 	keine Freistellung für Fahrschule (nur Prüfung)
- - 	selbständiges Nacharbeiten des Unterrichtsstoffes
- - 	selbständiges beschaffen von Nachschreibeterminen
- - 	Freistellungsanträge müssen im Vorfeld gestellt und genehmigt/abgelehnt werden
- ***********
+__Vielen Dank für Ihre Aufmerksamkeit__
 
-### Handynutzung in der Schule
-
-- Handynutzung während des Unterrichts verboten (Ausnahme: bei ausdrücklicher Erlaubnis durch den Fachlehrer)
-
-- Handynutzung in der Pause für Jahrgänge 10 bis 12 im 3. OG gestattet
-
-- bei Verstoß wird Handy eingezogen und eine Woche im Sekretariat aufbewahrt, im Wiederholungsfall zwei Wochen 
-
-## Kurssprecher
-
-Wir brauchen eine(n) Kurssprecher/Kurssprecherin und einen Stellvertreter/Stellvertreterin.
-
-## IPads registrieren
-
-Registriere deinen Namen auf das I-Pad, das du bekommen hast.
-
-??[IPad-Reg](https://forms.microsoft.com/Pages/ResponsePage.aspx?id=OYkUKbuZEE6zqVVLeyuod-N98JNwJnhAr0ZoZo5y2cdUQlE5S05TRUdKSVJQVDJHM0w3UFdPMkdJSS4u)
-
-
-## Kleine Umfrage zum LK-Physik 2024/25
-
-[qr-code](https://forms.office.com/Pages/ResponsePage.aspx?id=OYkUKbuZEE6zqVVLeyuod-N98JNwJnhAr0ZoZo5y2cdUQVJSSUlWVzlMRFpLNkpUWVM4NklWUDY1Si4u)
-
-??[LK-Umfrage](https://forms.office.com/Pages/ResponsePage.aspx?id=OYkUKbuZEE6zqVVLeyuod-N98JNwJnhAr0ZoZo5y2cdUQVJSSUlWVzlMRFpLNkpUWVM4NklWUDY1Si4u)
+-> Fragen/Bemerkungen?
+***********
