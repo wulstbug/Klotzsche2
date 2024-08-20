@@ -778,3 +778,97 @@ Reibung:
 
 739, 1335
 
+## Eine neue Erhaltungsgröße
+
+!?[ThreeBallDrop](https://www.youtube.com/watch?v=2UHS883_P60)
+
+## Zwei-Körper-Stoß
+
+??[ImpulsPHET](https://phet.colorado.edu/sims/html/collision-lab/latest/collision-lab_all.html?locale=de)
+
+
+{{1}}
+************
+__Problem:__ Energieerhaltung
+
+![Impuls_Problem_Energieerhaltung](https://diversewolken.ddns.net/nextcloud/index.php/s/nRgSSi4AeppbBob/download)
+
+************
+
+
+## 1.15 Erhaltungsgröße Impuls
+
+> Der __Impuls__ $p$ eines Körpers beschreibt umgangssprachlich dessen _Wucht_ oder auch den _Schwung_. 
+>
+> Der Impuls ist definiert als das Produkt aus Masse und Geschwindigkeit.
+
+{{1}}
+**********
+> Formel:
+>
+> $$ \boxed{p = m \cdot v}$$
+>
+> $\hspace{1cm} m$ .. Masse des Körpers [$kg$]
+>
+> $\hspace{1cm} v$ .. Geschwindigkeit des Körpers in [$\frac{m}{s}$]
+**********
+
+{{2}}
+**********
+__Impulserhaltung:__
+
+> In einem abgeschlossenen System ist der Impuls eine Erhaltungsgröße. <br> D.h. die Summe aller Einzelimpulse ist zu allen Zeiten konstant.
+>
+> $$ p_1 + p_2 + .. + p_N = \text{const}$$
+**********
+
+{{4}}
+***************
+__Beispielaufgabe:__
+
+Ein Körper (1) der Masse $m_1=1\,kg$ bewegt sich mit einer 
+Geschwindigkeit von $v_1=1\,\frac{m}{s}$ und stößt inelastisch gegen einen Körper (2) mit einer Masse $m_2=2\,kg$. <br> Bestimme die Geschwindigkeiten beider Körper nach dem Stoß.
+***************
+
+{{5}}
+***************
+geg.: 
+
+$\hspace{1cm}$ $m_1=1\,kg$
+
+$\hspace{1cm}$ $m_2=2\,kg$
+
+$\hspace{1cm}$ $v_1=1\,\frac{m}{s}$
+
+$\hspace{1cm}$ $v_2=0\,\frac{m}{s}$
+
+ges.: 
+
+{6}{$\hspace{1cm}$ $v_1'$, $v_2'$ (_alle Größen nach dem Stoß werden mit einem ' gekennzeichnet_)}
+
+***************
+
+{{7}}
+***************
+Lsg.: 
+
+$\hspace{0.5cm}$ _1. Energieerhaltung_
+
+$\hspace{1cm}$ $m = 1,5 t = 1500 kg$
+***************
+
+{{7}}
+***************
+> $\hspace{0.5cm}$ _2. Berechnung_
+>
+> $\hspace{1cm}$  $E_{kin} = \dfrac{1}{2} \cdot m \cdot v^2 $
+>
+> $\hspace{1cm}$  $E_{kin} = \dfrac{1}{2} \cdot 1500 kg \cdot (27,78 \frac{m}{s})^2 $
+***************
+
+{{8}}
+***************
+> Ergebnis:
+>
+> $\hspace{1cm}$  $E_{kin} = 578796,3 J \approx 578,8 kJ $
+***************

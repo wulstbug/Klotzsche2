@@ -98,3 +98,20 @@ __Elektrische Eigenschaftein einer Diode:__
 
 ## Interpretation der elektrischen Eigenschaften auf Ebene der Atome
 
+> Durch das Anlegen einer Spannung vergrößert oder verkleinert sich die Verarmungszone. Die Leitfähigkeit der Diode verändert sich.
+
+{1}{![DurchlassSperr](https://diversewolken.ddns.net/nextcloud/index.php/s/ymKY9JmJAiRBwjF/download)}
+
+## Aufgaben zur Übung
+
+<p class="newspaper">
+
+![Aufgabe_6](https://diversewolken.ddns.net/nextcloud/index.php/s/J4pnnPwLygGz7my/download)
+
+![Aufgabe_9](https://diversewolken.ddns.net/nextcloud/index.php/s/dGqRj3L3EKYKzTk/download)
+
+</p>
+
+## Arbeitsblatt - Diode, ein elektrisches Ventil
+
+[Arbeitsblatt-Diode-Elektrisches-Ventil](https://diversewolken.ddns.net/nextcloud/index.php/s/CTMkeqe57DD7eGs)
