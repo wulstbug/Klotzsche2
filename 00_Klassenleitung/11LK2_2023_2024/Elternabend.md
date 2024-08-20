@@ -37,7 +37,7 @@ window.LIA.settings.font_size = 2
 
 # Elternabend 11Ph2 - 20.08.24 18:30 Uhr
 
-<H4> Herzlich Willkommen - Bitte unterschreiben Sie die Anwesenheit</H4>
+<H4> Herzlich Willkommen - Bitte unterschreiben Sie die Anwesenheit und nehmen sich ein passendes Kärtchen.</H4>
 
 - [ ] Elternsprecher/Elternsprecherin + Stellvertretung
 
@@ -91,12 +91,13 @@ __Wie geht's nach dem Abitur weiter?__
 {{1}}
 ***********
 > Abiturauswertung 2024
+>
 > ![Abitur24](https://diversewolken.ddns.net/nextcloud/index.php/s/LBnCPagJZ6RMmsy/download)
 ***********
 
 {{2}}
 ***********
-![Physik](https://diversewolken.ddns.net/nextcloud/index.php/s/eH6W9AafEqmRCcq/download)
+> ![Physik](https://diversewolken.ddns.net/nextcloud/index.php/s/eH6W9AafEqmRCcq/download)
 ***********
 
 ### Fehlzeiten
