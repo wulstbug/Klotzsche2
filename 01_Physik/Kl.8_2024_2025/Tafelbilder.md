@@ -531,11 +531,59 @@ _Löse die Aufgaben:_
 > $$\boxed{P = \dfrac{E}{t}}$$
 >
 > $\hspace{1cm}$
-{{2}}
-************
-> Beispielaufgabe: Ein Stein der Masse 5kg liegt im untersten Stockwerk des Gymnasiums Klotzsche auf dem Boden. Jedes Stockwerk hat eine Höhe von 4m. Zwei Schüler Hans und Ida bringen den Stein von unten nach oben. <br> Hans braucht dafür ... s. Ida braucht ... s.
+
+> Beispielaufgabe: Ein Stein der Masse 5kg liegt im untersten Stockwerk des Gymnasiums Klotzsche auf dem Boden. Jedes Stockwerk hat eine Höhe von 4m. Zwei Schüler Peter und Ida bringen den Stein von unten nach oben. <br> Peter braucht dafür ... s. Ida braucht ... s.
 >
 > a) Berechne die potentielle Energie, die dem Stein von Hans und Ida zugeführt wird.
+
+{{1}}
+**********
+> __Berechnung:__
+>
+> geg.: 
+>
+> $\hspace{1cm}$ $m = 2 kg$
 > 
+> $\hspace{1cm}$ $h = 12 m$
+>
+> $\hspace{1cm}$ $g = 10 \frac{N}{kg}$
+>
+> ges.: 
+>
+> $\hspace{1cm}$ $E_{pot}$
+***************
+
+{{2}}
+***************
+> Lsg.:
+>
+> $\hspace{1cm}$  $E_{pot} = m \cdot g \cdot h $
+>
+> $\hspace{1cm}$  $E_{pot} = 2 kg \cdot 10\frac{N}{kg} \cdot 12m $
+***************
+
+{{3}}
+***************
+> Ergebnis:
+>
+> $\hspace{1cm}$  $\underline{E_{pot} = 240 J}$
+***************
+
 > b) Berechne die Leistung, die Hans und Ida vollbringen.
-************
+
+{{1}}
+**********
+> __Berechnung:__
+>
+> geg.: 
+>
+> $\hspace{1cm}$ $m = 2 kg$
+> 
+> $\hspace{1cm}$ $h = 12 m$
+>
+> $\hspace{1cm}$ $g = 10 \frac{N}{kg}$
+>
+> ges.: 
+>
+> $\hspace{1cm}$ $E_{pot}$
+***************
