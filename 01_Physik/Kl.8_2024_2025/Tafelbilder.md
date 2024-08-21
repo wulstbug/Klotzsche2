@@ -592,7 +592,7 @@ _Löse die Aufgaben:_
 >
 > $P = \dfrac{E_{pot}}{t}$
 >
-> $P_{Ida} = \dfrac{240 J}{101 s} = 2,38 W$
+> $P_{Ida} = \dfrac{240 J}{101 s} = 2,4 W$
 >
 > $P_{Peter} = \dfrac{240 J}{18 s} = 13,3 W$
 

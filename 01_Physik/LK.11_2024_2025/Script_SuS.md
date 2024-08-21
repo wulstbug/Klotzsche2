@@ -777,3 +777,186 @@ Metzler S. 67, 8
 ![Lsg_Metzler_67_8](https://diversewolken.ddns.net/nextcloud/index.php/s/yXL4GaHJjpi9HCw/download)
 
 </details>
+
+
+## Eine neue Erhaltungsgröße
+
+!?[ThreeBallDrop](https://www.youtube.com/watch?v=2UHS883_P60)
+
+## Zwei-Körper-Stoß
+
+??[ImpulsPHET](https://phet.colorado.edu/sims/html/collision-lab/latest/collision-lab_all.html?locale=de)
+
+
+{{1}}
+************
+__Problem:__ Energieerhaltung
+
+![Impuls_Problem_Energieerhaltung](https://diversewolken.ddns.net/nextcloud/index.php/s/nRgSSi4AeppbBob/download)
+
+************
+
+
+## 1.15 Erhaltungsgröße Impuls
+
+> Der __Impuls__ $p$ eines Körpers beschreibt umgangssprachlich dessen _Wucht_ oder auch den _Schwung_. 
+>
+> Der Impuls ist __definiert__ als das Produkt aus Masse und Geschwindigkeit.
+
+{{1}}
+**********
+> Formel:
+>
+> $$ \boxed{p = m \cdot v}$$
+>
+> Einheit:
+>
+> $$ \Big[\dfrac{kg \cdot m}{s} \Big] $$
+>
+> $\hspace{1cm} m$ .. Masse des Körpers in [$kg$]
+>
+> $\hspace{1cm} v$ .. Geschwindigkeit des Körpers in [$\frac{m}{s}$]
+**********
+
+{{2}}
+**********
+__Impulserhaltung:__
+
+> In einem abgeschlossenen System ist der Impuls eine Erhaltungsgröße. <br> D.h. die Summe aller Einzelimpulse ist zu allen Zeiten konstant.
+>
+> $$ p_1 + p_2 + .. + p_N = \text{const}$$
+**********
+
+## Beispielaufgabe
+
+Ein Körper (1) der Masse $m_1=1\,kg$ bewegt sich mit einer 
+Geschwindigkeit von $v_1=1\,\frac{m}{s}$ und stößt inelastisch und zentral gegen einen Körper (2) mit einer Masse $m_2=2\,kg$. <br> Bestimme die Geschwindigkeiten beider Körper nach dem Stoß.
+
+{{1}}
+***************
+geg.: 
+
+$\hspace{1cm}$ $m_1=1\,kg$
+
+$\hspace{1cm}$ $m_2=2\,kg$
+
+$\hspace{1cm}$ $v_1=1\,\frac{m}{s}$
+
+$\hspace{1cm}$ $v_2=0\,\frac{m}{s}$
+
+ges.: 
+
+{2}{$\hspace{1cm}$ $v_1'$, $v_2'$ <br> $\hspace{1cm}$_Hinweis: alle Größen nach dem Stoß werden mit einem ' gekennzeichnet_)}
+
+***************
+
+{{3}}
+***************
+Lsg.: 
+
+$\hspace{0.5cm}$ _1. Energieerhaltung_
+
+$\hspace{1cm}$ $E_{kin1} + E_{kin2} = E'_{kin1} + E'_{kin2} $
+***************
+
+{{4}}
+***************
+$\hspace{1cm}$ $E_{kin1} + 0 = E'_{kin1} + E'_{kin2} $
+**************
+
+{{5}}
+***************
+$\hspace{1cm}$ $\dfrac{1}{2} \cdot m_1 \cdot v_1^2 = \dfrac{1}{2} \cdot m_1 \cdot v_1'^2 + \dfrac{1}{2} \cdot m_2 \cdot v_2'^2 $
+
+$\hspace{0.5cm}$ _Problem:_ {6}{ _1 Gleichung, zwei unbekannte Größen_ }
+**************
+
+{{6}}
+***************
+$\hspace{0.5cm}$ _Idee: Impulserhaltung_
+
+$\hspace{1cm}$ $p_{1} + p_{2} = p'_{1} + p'_{2} $
+***************
+
+{{7}}
+***************
+$\hspace{1cm}$ $m_1 \cdot v_1 + m_2 \cdot v_2 = m_1 \cdot v'_1 + m_2 \cdot v_2 $
+***************
+
+{{8}}
+***************
+$\hspace{1cm}$ $m_1 \cdot v_1 + 0 = m_1 \cdot v'_1 + m_2 \cdot v'_2 $
+***************
+
+{{9}}
+***************
+$\hspace{0.5cm}$ _Gleichungssystem: 2 Gleichungen, zwei Unbekannte $\checkmark$_
+***************
+
+{{10}}
+***************
+$\hspace{1cm}$ (I)$\hspace{0.5cm}$ $m_1 \cdot v_1^2 =  m_1 \cdot v_1'^2 + m_2 \cdot v_2'^2 $
+
+$\hspace{1cm}$ (II)$\hspace{0.5cm}$ $m_1 \cdot v_1 = m_1 \cdot v'_1 + m_2 \cdot v'_2 $
+***************
+
+{{11}}
+***************
+$\hspace{0.5cm}$ _Lösen mit CAS oder Umstellen_
+***************
+
+{{12}}
+***************
+$\hspace{0.5cm}$ _Lösungen:_
+
+<iframe scrolling="no" title="Loesung_Bungee_Fehlerrechnung" src="https://www.geogebra.org/material/iframe/id/q9zzyrf2/width/800/height/400/border/888888/sfsb/true/smb/false/stb/false/stbh/false/ai/false/asb/false/sri/false/rc/false/ld/false/sdz/true/ctl/false" width="100%" height="400px" style="border:0px;"> </iframe>
+***************
+
+{{13}}
+***************
+$\hspace{0.5cm}$ _Interpretation der Lösung:_
+
+
+$\hspace{1cm}$ 1. Lösung: $v'_1= 1\frac{m}{s}$ und $v'_2= 0\frac{m}{s}$
+
+$\hspace{1cm}$ => {14}{Körper 1 verfehlt Körper 2 und fliegt vorbei (Triviallösung)}
+***************
+
+{{15}}
+***************
+$\hspace{1cm}$ 2. Lösung: $v'_1= - \frac{1}{3}\frac{m}{s}$ und $v'_2= \frac{2}{3}\frac{m}{s}$
+***************
+
+{{15}}
+***************
+$\hspace{0.5cm}$ Probe: Energie
+
+$\hspace{1cm}$ (I) $\hspace{0.5cm}$ $1\,kg \cdot (1\frac{m}{s})^2 = 1\,kg \cdot (-\frac{1}{3}\frac{m}{s})^2 + 2\,kg \cdot (\frac{2}{3}\frac{m}{s})^2$
+
+$\hspace{1cm}$ (I) $\hspace{0.5cm}$ $1\,J = \frac{1}{9}\,J + \frac{8}{9}\,J$
+
+$\hspace{1cm}$ (I) $\hspace{0.5cm}$ $\checkmark$
+***************
+
+{{16}}
+***************
+$\hspace{0.5cm}$ Probe: Impuls
+
+$\hspace{1cm}$ (II) $\hspace{0.5cm}$ $1\,kg \cdot 1\frac{m}{s} = 1\,kg \cdot (-\frac{1}{3}\frac{m}{s}) + 2\,kg \cdot \frac{2}{3}\frac{m}{s}$
+
+$\hspace{1cm}$ (II) $\hspace{0.5cm}$ $1\,\frac{kg\cdot m}{s} = -\frac{1}{3}\,\frac{kg\cdot m}{s} + \frac{4}{3}\,\frac{kg\cdot m}{s}$
+
+$\hspace{1cm}$ (II) $\hspace{0.5cm}$ $\checkmark$
+***************
+
+## Beispielaufgabe 2
+
+Ein Körper (1) der Masse $m_1=1\,kg$ bewegt sich mit einer 
+Geschwindigkeit von $v_1=2\,\frac{m}{s}$ und stößt inelastisch und zentral gegen einen Körper (2) mit einer Masse $m_2=3\,kg$. <br> Bestimme die Geschwindigkeiten beider Körper nach dem Stoß mit Hilfe des CAS.
+
+{{1}}
+************
+_Lösungen:_
+
+<iframe scrolling="no" title="Loesung_Bungee_Fehlerrechnung" src="https://www.geogebra.org/material/iframe/id/ypvnghec/width/800/height/400/border/888888/sfsb/true/smb/false/stb/false/stbh/false/ai/false/asb/false/sri/false/rc/false/ld/false/sdz/true/ctl/false" width="100%" height="400px" style="border:0px;"> </iframe>
+***************
