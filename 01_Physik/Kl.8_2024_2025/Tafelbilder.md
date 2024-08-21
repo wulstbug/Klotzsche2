@@ -192,7 +192,7 @@ __Defintion:__ Potentielle Energie eines Körpers ist die in seiner der Lage (d.
 
 _Löse die Aufgaben:_
 
-1. Aus einem Jagdgewehr wird eine Gewehrkugel abgeschossen. Die Kugel hat eine Masse von 30g und eine Geschwindigkeit von $500\frac{m}{s}$.
+1. Aus einem Jagdgewehr wird eine Gewehrkugel abgeschossen. Die Kugel hat eine Masse von 30g und eine Geschwindigkeit von $500\frac{m}{s}$. Berechne die kinetische Energie.
 
 {{1-2}}
 *************
