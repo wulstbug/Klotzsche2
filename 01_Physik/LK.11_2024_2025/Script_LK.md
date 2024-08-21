@@ -967,3 +967,19 @@ _Lösungen:_
 ## Aufgaben 
 
 Metzler S. 41, 1,3
+
+<details>
+
+<summary>Lösung 1</summary>
+
+![Lsg_Metzler41_1](https://diversewolken.ddns.net/nextcloud/index.php/s/fb7GokCF2CMept6/download)
+
+</details>
+
+<details>
+
+<summary>Lösung 3</summary>
+
+![Lsg_Metzler41_3](https://diversewolken.ddns.net/nextcloud/index.php/s/6WBJFiy9gL3N7Pz/download)
+
+</details>

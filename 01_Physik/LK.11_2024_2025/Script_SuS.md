@@ -965,3 +965,23 @@ _Lösungen:_
 <iframe scrolling="no" title="Loesung_Bungee_Fehlerrechnung" src="https://www.geogebra.org/material/iframe/id/ypvnghec/width/800/height/400/border/888888/sfsb/true/smb/false/stb/false/stbh/false/ai/false/asb/false/sri/false/rc/false/ld/false/sdz/true/ctl/false" width="100%" height="400px" style="border:0px;"> </iframe>
 ***************
 
+
+## Aufgaben 
+
+Metzler S. 41, 1,3
+
+<details>
+
+<summary>Lösung 1</summary>
+
+![Lsg_Metzler41_1](https://diversewolken.ddns.net/nextcloud/index.php/s/fb7GokCF2CMept6/download)
+
+</details>
+
+<details>
+
+<summary>Lösung 3</summary>
+
+![Lsg_Metzler41_3](https://diversewolken.ddns.net/nextcloud/index.php/s/6WBJFiy9gL3N7Pz/download)
+
+</details>
