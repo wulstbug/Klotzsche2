@@ -26,8 +26,6 @@ h1, h2, h3, h4, h5, h6 {
 }
 @end
 
-mode: presentation
-
 @onload
 window.LIA.settings.font_size = 2
 @end
@@ -532,7 +530,7 @@ _Löse die Aufgaben:_
 >
 > $\hspace{1cm}$
 
-> Beispielaufgabe: Ein Stein der Masse 5kg liegt im untersten Stockwerk des Gymnasiums Klotzsche auf dem Boden. Jedes Stockwerk hat eine Höhe von 4m. Zwei Schüler Peter und Ida bringen den Stein von unten nach oben. <br> Peter braucht dafür ... s. Ida braucht ... s.
+> Beispielaufgabe: Ein Stein der Masse 5kg liegt im untersten Stockwerk des Gymnasiums Klotzsche auf dem Boden. Jedes Stockwerk hat eine Höhe von 4m. Zwei Schüler Peter und Ida bringen den Stein von unten nach oben. <br> Peter braucht dafür 18 s. Ida braucht 1 min 41 s.
 >
 > a) Berechne die potentielle Energie, die dem Stein von Peter und Ida zugeführt wird.
 
@@ -542,7 +540,7 @@ _Löse die Aufgaben:_
 >
 > geg.: 
 >
-> $\hspace{1cm}$ $m = 5 kg$
+> $\hspace{1cm}$ $m = 2 kg$
 > 
 > $\hspace{1cm}$ $h = 12 m$
 >
@@ -566,7 +564,7 @@ _Löse die Aufgaben:_
 ***************
 > Ergebnis:
 >
-> $\hspace{1cm}$  $\underline{E_{pot} = 600 J}$
+> $\hspace{1cm}$  $\underline{E_{pot} = 240 J}$
 ***************
 
 > b) Berechne die Leistung, die Peter und Ida vollbringen.
@@ -577,15 +575,25 @@ _Löse die Aufgaben:_
 >
 > geg.: 
 >
-> $\hspace{1cm}$ $m = 4 kg$
+> $\hspace{1cm}$ $m = 2 kg$
 > 
-> $\hspace{1cm}$ $E_{pot} = 600 J$
+> $\hspace{1cm}$ $E_{pot} = 240 J$
 >
-> $\hspace{1cm}$ $t_{Peter} = s$
+> $\hspace{1cm}$ $t_{Peter} = 18s$
 >
-> $\hspace{1cm}$ $t_{Ida} = s$
+> $\hspace{1cm}$ $t_{Ida} = 1 min\,41 s = 101s$
 >
 > ges.: 
 >
-> $\hspace{1cm}$ $E_{pot}$
+> $\hspace{1cm}$ $P$
 ***************
+
+> Lsg: 
+>
+> $P = \dfrac{E_{pot}}{t}$
+>
+> $P_{Ida} = \dfrac{240 J}{101 s} = 2,38 W$
+>
+> $P_{Peter} = \dfrac{240 J}{18 s} = 13,3 W$
+
+>> Die Leistung ist eine zeitabhängige Größe. Die potentielle Energie hängt nicht von Zeit ab.
