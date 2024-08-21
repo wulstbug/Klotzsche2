@@ -949,6 +949,10 @@ $\hspace{1cm}$ (II) $\hspace{0.5cm}$ $1\,\frac{kg\cdot m}{s} = -\frac{1}{3}\,\fr
 $\hspace{1cm}$ (II) $\hspace{0.5cm}$ $\checkmark$
 ***************
 
+## Gleichungssystem lösen mit dem ClassPad fx-CP400
+
+!?[GleichungssystemLösenMitClassPad](https://www.youtube.com/watch?v=HkCrY7X-g6Q)
+
 ## Beispielaufgabe 2
 
 Ein Körper (1) der Masse $m_1=1\,kg$ bewegt sich mit einer 
@@ -960,3 +964,4 @@ _Lösungen:_
 
 <iframe scrolling="no" title="Loesung_Bungee_Fehlerrechnung" src="https://www.geogebra.org/material/iframe/id/ypvnghec/width/800/height/400/border/888888/sfsb/true/smb/false/stb/false/stbh/false/ai/false/asb/false/sri/false/rc/false/ld/false/sdz/true/ctl/false" width="100%" height="400px" style="border:0px;"> </iframe>
 ***************
+

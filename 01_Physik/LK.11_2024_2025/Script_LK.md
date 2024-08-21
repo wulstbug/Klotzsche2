@@ -948,6 +948,10 @@ $\hspace{1cm}$ (II) $\hspace{0.5cm}$ $1\,\frac{kg\cdot m}{s} = -\frac{1}{3}\,\fr
 $\hspace{1cm}$ (II) $\hspace{0.5cm}$ $\checkmark$
 ***************
 
+## Gleichungssystem lösen mit dem ClassPad fx-CP400
+
+!?[GleichungssystemLösenMitClassPad](https://www.youtube.com/watch?v=HkCrY7X-g6Q)
+
 ## Beispielaufgabe 2
 
 Ein Körper (1) der Masse $m_1=1\,kg$ bewegt sich mit einer 
