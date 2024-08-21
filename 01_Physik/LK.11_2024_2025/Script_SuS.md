@@ -985,3 +985,11 @@ Metzler S. 41, 1,3
 ![Lsg_Metzler41_3](https://diversewolken.ddns.net/nextcloud/index.php/s/6WBJFiy9gL3N7Pz/download)
 
 </details>
+
+<details>
+
+<summary>Lösung 6</summary>
+
+![Lsg_Metzler41_6](https://diversewolken.ddns.net/nextcloud/index.php/s/PHPbTztDsFqLCFA/download)
+
+</details>
