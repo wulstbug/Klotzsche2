@@ -534,7 +534,7 @@ _Löse die Aufgaben:_
 
 > Beispielaufgabe: Ein Stein der Masse 5kg liegt im untersten Stockwerk des Gymnasiums Klotzsche auf dem Boden. Jedes Stockwerk hat eine Höhe von 4m. Zwei Schüler Peter und Ida bringen den Stein von unten nach oben. <br> Peter braucht dafür ... s. Ida braucht ... s.
 >
-> a) Berechne die potentielle Energie, die dem Stein von Hans und Ida zugeführt wird.
+> a) Berechne die potentielle Energie, die dem Stein von Peter und Ida zugeführt wird.
 
 {{1}}
 **********
@@ -542,7 +542,7 @@ _Löse die Aufgaben:_
 >
 > geg.: 
 >
-> $\hspace{1cm}$ $m = 2 kg$
+> $\hspace{1cm}$ $m = 5 kg$
 > 
 > $\hspace{1cm}$ $h = 12 m$
 >
@@ -566,10 +566,10 @@ _Löse die Aufgaben:_
 ***************
 > Ergebnis:
 >
-> $\hspace{1cm}$  $\underline{E_{pot} = 240 J}$
+> $\hspace{1cm}$  $\underline{E_{pot} = 600 J}$
 ***************
 
-> b) Berechne die Leistung, die Hans und Ida vollbringen.
+> b) Berechne die Leistung, die Peter und Ida vollbringen.
 
 {{1}}
 **********
@@ -577,11 +577,13 @@ _Löse die Aufgaben:_
 >
 > geg.: 
 >
-> $\hspace{1cm}$ $m = 2 kg$
+> $\hspace{1cm}$ $m = 4 kg$
 > 
-> $\hspace{1cm}$ $h = 12 m$
+> $\hspace{1cm}$ $E_{pot} = 600 J$
 >
-> $\hspace{1cm}$ $g = 10 \frac{N}{kg}$
+> $\hspace{1cm}$ $t_{Peter} = s$
+>
+> $\hspace{1cm}$ $t_{Ida} = s$
 >
 > ges.: 
 >
