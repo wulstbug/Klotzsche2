@@ -88,7 +88,7 @@ __Diagramm:__
 
 {{2}}
 ******************
-__Elektrische Eigenschaftein einer Diode:__
+__Elektrische Eigenschaften einer Diode:__
 ******************
 
 {{3}}
