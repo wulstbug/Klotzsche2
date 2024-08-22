@@ -965,10 +965,9 @@ _Lösungen:_
 <iframe scrolling="no" title="Loesung_Bungee_Fehlerrechnung" src="https://www.geogebra.org/material/iframe/id/ypvnghec/width/800/height/400/border/888888/sfsb/true/smb/false/stb/false/stbh/false/ai/false/asb/false/sri/false/rc/false/ld/false/sdz/true/ctl/false" width="100%" height="400px" style="border:0px;"> </iframe>
 ***************
 
+## Aufgaben - Impuls
 
-## Aufgaben 
-
-Metzler S. 41, 1,3
+Metzler S. 41, 1,3, 6
 
 <details>
 
@@ -993,3 +992,9 @@ Metzler S. 41, 1,3
 ![Lsg_Metzler41_6](https://diversewolken.ddns.net/nextcloud/index.php/s/PHPbTztDsFqLCFA/download)
 
 </details>
+
+## Aufgaben - Mechanische Energien und Reibung
+
+??[Aufgaben Mechanische Energien und Reibung](https://diversewolken.ddns.net/nextcloud/index.php/s/CWNBeDoq7WTTRtT/preview)
+
+[Aufgaben Mechanische Energien und Reibung](https://diversewolken.ddns.net/nextcloud/index.php/s/CWNBeDoq7WTTRtT/preview)
