@@ -616,13 +616,19 @@ __=> Gesamtkraft $F_{ges}$ kann mit Richtung und Wert geometrisch bestimmt werde
 
 <details>
 
-<summary>Lösung 1</summary>
+<summary>Lösung 1 _(Hinweise für 1b findest du in 1.9.5)_ </summary>
 
-![Lösung_1](https://diversewolken.ddns.net/nextcloud/index.php/s/6WBJFiy9gL3N7Pz/download)
+![Lösung_1](https://diversewolken.ddns.net/nextcloud/index.php/s/WBPp9mREz4zzdqS/download)
 
 </details>
 
+
+
 ### 1.9.5 Kraftzerlegung an der schiefen Ebene
+
+> __Hinweis Kräfte-Zerlegung__: Eine Gesamtkraft kann man gedanklich in Teilkräfte zerlegen, deren Addition wieder die Gesamtkraft ergibt. <br> Im Beispiel der schiefen Ebene zerlegt man die Gewichtskraft ($F_g$) in eine Teilkraft senkrecht zur Ebene ($F_N$) und eine Teilkraft parallel zur Ebene ($F_H$)
+
+<br>
 
 ![Aufgabe_Schiefe_Ebene](https://diversewolken.ddns.net/nextcloud/index.php/s/D8zbKHyyT7xJPBz/download) An einer schiefen Ebene mit dem Neigungswinkel $\alpha$ lässt sich die Gewichtskraft $F_g$ in eine Normalkraft $F_N$ (senkrecht zur Ebene) und eine Hangabtriebskraft $F_H$ (parallel zur Ebene) zerlegen.
 
@@ -630,14 +636,61 @@ _Aufgabe 2: Zeichne diese Kraftzerlegung in deinen Hefter. Konstruiere anschlie�
 
 1. _Bestimme grafisch oder durch Berechnung die Normalkraft $F_N$_ und die Hangabtriebskraft $F_H$.
 
-2. _Die Unterlage und Körper haben eine Haftreibungszahl $\mu_{Haft} = 0  ,4$ (s. 1.8.2). Bestimme die Haftreibungskraft auf der Unterlage._
+2. _Die Unterlage und Körper haben eine Haftreibungszahl $\mu_{Haft} = 0,4$ (s. 1.8.2). Bestimme die Haftreibungskraft auf der Unterlage._
 
 3. _Ist die Hangabtriebskraft größer als die Reibungskraft, so beginnt der Körper zu rutschen. Überprüfe, ob sich der Körper bewegt._
+
+4. _*Der Neigungswinkel $\alpha$ wird nun so verändert, sodass der Körper gerade noch ruht. Bestimme diesen Grenzwinkel $\alpha_G$, bei welchem der Körper gerade noch nicht zu rutschen beginnt._
 
 <details>
 
 <summary>Lösung 1</summary>
 
 ![Lösung_1](https://diversewolken.ddns.net/nextcloud/index.php/s/6WBJFiy9gL3N7Pz/download)
+
+</details>
+
+<details>
+
+<summary>Lösung 2</summary>
+
+![Lösung_1](https://diversewolken.ddns.net/nextcloud/index.php/s/6WBJFiy9gL3N7Pz/download)
+
+</details>
+
+<details>
+
+<summary>Lösung 3</summary>
+
+![Lösung_1](https://diversewolken.ddns.net/nextcloud/index.php/s/6WBJFiy9gL3N7Pz/download)
+
+</details>
+
+<details>
+
+<summary>Lösung 4</summary>
+
+Für den Grenzwinkel $\alpha_G$ gilt ( Haftreibungskraft gleich Hangabtriebskraft):
+$$ F_{Haft} = F_H $$ 
+
+Für die Haftreibungskraft gilt die Formel:
+$$ F_{Haft} = F_G \cdot \cos(\alpha_G) \cdot \mu_{Haft} $$
+
+Für die Hangabtriebskraft gilt die Formel:
+$$ F_H = F_G \cdot \sin(\alpha_G)$$
+
+Setzt man $F_{Haft} = F_H $, so ergibt sich:
+$$ F_G \cdot \cos(\alpha_G) \cdot \mu_{Haft} = F_G \cdot \sin(\alpha_G) $$
+
+also
+
+$$ \mu_{Haft} = \dfrac{\sin(\alpha_G)}{\cos(\alpha_G)} $$
+
+Mit der Trigonometrie $\tan(\alpha_G) = \frac{\sin(\alpha_G)}{\cos(\alpha_G)}$ ergibt sich:
+
+$$ \alpha_G = tan^{-1}(\mu_{Haft}) $$
+$$ \underline{\alpha_G = 21,8^\circ}$$ 
+
+Bei einem Winkel größer als 21.8° beginnt der Körper zu rutschen.
 
 </details>
