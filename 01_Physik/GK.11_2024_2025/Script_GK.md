@@ -626,7 +626,7 @@ __=> Gesamtkraft $F_{ges}$ kann mit Richtung und Wert geometrisch bestimmt werde
 
 ![Aufgabe_Schiefe_Ebene](https://diversewolken.ddns.net/nextcloud/index.php/s/D8zbKHyyT7xJPBz/download) An einer schiefen Ebene mit dem Neigungswinkel $\alpha$ lässt sich die Gewichtskraft $F_g$ in eine Normalkraft $F_N$ (senkrecht zur Ebene) und eine Hangabtriebskraft $F_H$ (parallel zur Ebene) zerlegen.
 
-_Aufgabe 2: Zeichne diese Kraftzerlegung in deinen Hefter. Konstruiere anschließen folgendes Beispiel: Auf einer schiefen Ebene (30°) ruht ein Körper mit der Gewichtkraft 3000 N._ 
+_Aufgabe 2: Zeichne diese Kraftzerlegung in deinen Hefter. Konstruiere anschließend folgendes Beispiel: Auf einer schiefen Ebene (30°) ruht ein Körper mit der Gewichtkraft 3000 N._ 
 
 1. _Bestimme grafisch oder durch Berechnung die Normalkraft $F_N$_ und die Hangabtriebskraft $F_H$.
 
