@@ -610,7 +610,7 @@ __Beispiel 3:__ Kräfteaddition allgmein
 __=> Gesamtkraft $F_{ges}$ kann mit Richtung und Wert geometrisch bestimmt werden.__
 **********
 
-## Aufgaben zum Thema Kräfte
+### Aufgaben zum Thema Kräfte
 
 ![Aufgabe1](https://diversewolken.ddns.net/nextcloud/index.php/s/eEqaeWXtm6GDc9i/download)
 
@@ -622,7 +622,7 @@ __=> Gesamtkraft $F_{ges}$ kann mit Richtung und Wert geometrisch bestimmt werde
 
 </details>
 
-## 1.9.5 Kraftzerlegung an der schiefen Ebene
+### 1.9.5 Kraftzerlegung an der schiefen Ebene
 
 ![Aufgabe_Schiefe_Ebene](https://diversewolken.ddns.net/nextcloud/index.php/s/D8zbKHyyT7xJPBz/download) An einer schiefen Ebene mit dem Neigungswinkel $\alpha$ lässt sich die Gewichtskraft $F_g$ in eine Normalkraft $F_N$ (senkrecht zur Ebene) und eine Hangabtriebskraft $F_H$ (parallel zur Ebene) zerlegen.
 
