@@ -507,3 +507,59 @@ _Quantitative Aufgaben zur Reibung auf horizontalen Ebene. Bitte anklicken und a
 [Leifi-Physik-Aufgabe-Reibung-1](https://www.leifiphysik.de/mechanik/reibung-und-fortbewegung/aufgabe/wohnanhaenger)
 
 [Leifi-Physik-Aufgabe-Reibung-2](https://www.leifiphysik.de/mechanik/reibung-und-fortbewegung/aufgabe/die-verrueckte-kiste)
+
+## 1.9 Kräfte
+
+### 1.9.1 Defintion Kraft
+
+Kräfte erkennt man an ihrer Wirkung. Die Wirkung von Kräften kann sein:
+
+{{1}}
+**************************
+1. Ein Körper ändert seine Bewegungsform (d.h. Geschwindigkeit oder Bewegungsrichtung).
+
+2. Ein Körper verformt sich.
+
+3. Beides gleichzeitig.
+**************************
+
+### 1.9.2 Newtonsche Gesetze
+
+<H3>Newton'sche Gesetze</H3>
+
+{{1}}
+**************
+1. Ein kräftefreier Körper bleibt in Ruhe oder bewegt sich geradlinig mit konstanter Geschwindigkeit. <br> 
+$\hspace{1cm}$ __Beispiel:__ {2}{![VoyagerSone](https://heise.cloudimg.io/width/1220/q70.png-lossy-70.webp-lossy-70.foil1/_www-heise-de_/imgs/18/3/5/4/6/9/3/7/Voyager-illustration-with-stars-16.jpg-e02f3b734d477d20.jpeg) Sonde ohne Antrieb im Weltall}
+**************
+
+<br>
+<br>
+
+{{3}}
+**************************
+2. Kraft gleich Masse mal Beschleunigung
+
+>    $$ F = m \cdot a $$
+**************************
+
+{{4}}
+********
+$\hspace{1cm}$ __Beispiel:__ [Freier Fall](https://youtu.be/-Fhc51_JbcQ) 
+ eines Körpers auf der Erde: $$\boxed{F_g = m \cdot g} $$ <br> 
+$\hspace{1cm}$mit Gewichtskraft $F_g$ und Erdbeschleunigung/Ortsfakor $g=9,81\frac{m}{s^2}$.
+********
+
+
+
+{{5}}
+**************************
+3. Kraft gleich Gegenkraft (Wechselwirkungsgesetz)
+
+> Eine Kraft von Körper A auf Körper B geht immer mit einer gleich großen, aber entgegen gerichteten Kraft von Körper B auf Körper A einher
+**************************
+{{6}}
+********
+$\hspace{1cm}$ __Beispiel:__ ![Gegenkraft](https://av.ph.nat.tum.de/Experiment/1000/Grafik/b1105.gif) 
+
+********
