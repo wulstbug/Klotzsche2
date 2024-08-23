@@ -593,7 +593,7 @@ __=> Resultierende Kraft $F_{ges}$ ist Null, der Körper ruht (3. Newton'sches G
 
 {{2}}
 ***********
-__Beispiel 2:__ 
+__Beispiel 2:__ Flugzeug mit Seitenwind
 
 {2-3}{![Kräfte_Senkrecht1](https://diversewolken.ddns.net/nextcloud/index.php/s/snYyLGyD4wKW7rF/download)} {3}{![Kräfte_Senkrecht2](https://diversewolken.ddns.net/nextcloud/index.php/s/6smmTrbPsk834Js/download)} Schubkraft $F_S$ und Windkraft $F_W$ wirken senkrecht zueinander.
 
@@ -603,11 +603,10 @@ _Gesamtkraft $F_{ges}$ kann geometrisch emittelt werden durch Addition der Pfeil
 
 {{4}}
 **********
-__Beispiel 3:__ (siehe 1.9.3): Ruhender Körper auf schiefe Ebene
+__Beispiel 3:__ Kräfteaddition allgmein
 
-![GewichtskraftGegenkraft](https://diversewolken.ddns.net/nextcloud/index.php/s/WDBCJmyZ7Q4jkrK/download)
-_Gewichtskraft $F_g$ und Gegenkraft $F_U$ haben den gleichen Wert (gleiche Länge) wirken aber in entgegen gesetzte Richtung und heben sich gegenseitig auf._ 
+{4-5}{![Kräfte_Allg_1](https://diversewolken.ddns.net/nextcloud/index.php/s/9f2c7SWt66wH2R7/download)}{5}{![Kräfte_Allg_2](https://diversewolken.ddns.net/nextcloud/index.php/s/ZwdPTzyYjoj2jaL/download)} _Wirken zwei Kräfte in beliebigen Richtungen auf denselben Körper, so addiere die Kraftpfeile durch **Parallelverschieben** des Ursprungs eines Pfeils in die Spitze des anderen Pfeils. Die Gesamtkraft entsprich der Diagonale des entstandenen Parallelogramms._
 
-__=> Resultierende Kraft $F_{ges}$ ist Null, der Körper ruht (3. Newton'sches Gesetz)__
+__=> Resultierende Kraft $F_{ges}$ kann mit Richtung und Wert geometrisch bestimmt werden.__
 **********
 
