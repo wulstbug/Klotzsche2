@@ -610,3 +610,34 @@ __Beispiel 3:__ Kräfteaddition allgmein
 __=> Gesamtkraft $F_{ges}$ kann mit Richtung und Wert geometrisch bestimmt werden.__
 **********
 
+## Aufgaben zum Thema Kräfte
+
+![Aufgabe1](https://diversewolken.ddns.net/nextcloud/index.php/s/eEqaeWXtm6GDc9i/download)
+
+<details>
+
+<summary>Lösung 1</summary>
+
+![Lösung_1](https://diversewolken.ddns.net/nextcloud/index.php/s/6WBJFiy9gL3N7Pz/download)
+
+</details>
+
+## 1.9.5 Kraftzerlegung an der schiefen Ebene
+
+![Aufgabe_Schiefe_Ebene](https://diversewolken.ddns.net/nextcloud/index.php/s/D8zbKHyyT7xJPBz/download) An einer schiefen Ebene mit dem Neigungswinkel $\alpha$ lässt sich die Gewichtskraft $F_g$ in eine Normalkraft $F_N$ (senkrecht zur Ebene) und eine Hangabtriebskraft $F_H$ (parallel zur Ebene) zerlegen.
+
+_Aufgabe 2: Zeichne diese Kraftzerlegung in deinen Hefter. Konstruiere anschließen folgendes Beispiel: Auf einer schiefen Ebene (30°) ruht ein Körper mit der Gewichtkraft 3000 N._ 
+
+1. _Bestimme grafisch oder durch Berechnung die Normalkraft $F_N$_ und die Hangabtriebskraft $F_H$.
+
+2. _Die Unterlage und Körper haben eine Haftreibungszahl $\mu_{Haft} = 0  ,4$ (s. 1.8.2). Bestimme die Haftreibungskraft auf der Unterlage._
+
+3. _Ist die Hangabtriebskraft größer als die Reibungskraft, so beginnt der Körper zu rutschen. Überprüfe, ob sich der Körper bewegt._
+
+<details>
+
+<summary>Lösung 1</summary>
+
+![Lösung_1](https://diversewolken.ddns.net/nextcloud/index.php/s/6WBJFiy9gL3N7Pz/download)
+
+</details>
