@@ -646,7 +646,7 @@ _Aufgabe 2: Zeichne diese Kraftzerlegung in deinen Hefter. Konstruiere anschlie�
 
 <summary>Lösung 1</summary>
 
-![Lösung_1](https://diversewolken.ddns.net/nextcloud/index.php/s/6WBJFiy9gL3N7Pz/download)
+![Lösung_1](https://diversewolken.ddns.net/nextcloud/index.php/s/wtm7y9772WdKNaS/download)
 
 </details>
 
@@ -654,7 +654,7 @@ _Aufgabe 2: Zeichne diese Kraftzerlegung in deinen Hefter. Konstruiere anschlie�
 
 <summary>Lösung 2</summary>
 
-![Lösung_1](https://diversewolken.ddns.net/nextcloud/index.php/s/6WBJFiy9gL3N7Pz/download)
+![Lösung_1](https://diversewolken.ddns.net/nextcloud/index.php/s/AD8EM2imFcfbFtS/download)
 
 </details>
 
@@ -662,7 +662,7 @@ _Aufgabe 2: Zeichne diese Kraftzerlegung in deinen Hefter. Konstruiere anschlie�
 
 <summary>Lösung 3</summary>
 
-![Lösung_1](https://diversewolken.ddns.net/nextcloud/index.php/s/6WBJFiy9gL3N7Pz/download)
+![Lösung_1](https://diversewolken.ddns.net/nextcloud/index.php/s/SaJ5yqyRBqLDToJ/download)
 
 </details>
 
