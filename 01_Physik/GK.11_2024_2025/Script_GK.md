@@ -597,7 +597,7 @@ __Beispiel 2:__ Flugzeug mit Seitenwind
 
 {2-3}{![Kräfte_Senkrecht1](https://diversewolken.ddns.net/nextcloud/index.php/s/snYyLGyD4wKW7rF/download)} {3}{![Kräfte_Senkrecht2](https://diversewolken.ddns.net/nextcloud/index.php/s/6smmTrbPsk834Js/download)} Schubkraft $F_S$ und Windkraft $F_W$ wirken senkrecht zueinander.
 
-_Gesamtkraft $F_{ges}$ kann geometrisch emittelt werden durch Addition der Pfeile._
+__=> Gesamtkraft $F_{ges}$ kann geometrisch emittelt werden durch Addition der Pfeile.__
 
 ***********
 
@@ -607,6 +607,6 @@ __Beispiel 3:__ Kräfteaddition allgmein
 
 {4-5}{![Kräfte_Allg_1](https://diversewolken.ddns.net/nextcloud/index.php/s/9f2c7SWt66wH2R7/download)}{5}{![Kräfte_Allg_2](https://diversewolken.ddns.net/nextcloud/index.php/s/ZwdPTzyYjoj2jaL/download)} _Wirken zwei Kräfte in beliebigen Richtungen auf denselben Körper, so addiere die Kraftpfeile durch $\textbf{Parallelverschieben}$ des Ursprungs eines Pfeils in die Spitze des anderen Pfeils. Die Gesamtkraft entsprich der Diagonale des entstandenen Parallelogramms._
 
-__=> Resultierende Kraft $F_{ges}$ kann mit Richtung und Wert geometrisch bestimmt werden.__
+__=> Gesamtkraft $F_{ges}$ kann mit Richtung und Wert geometrisch bestimmt werden.__
 **********
 
