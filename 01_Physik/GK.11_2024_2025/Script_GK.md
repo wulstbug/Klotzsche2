@@ -605,7 +605,7 @@ _Gesamtkraft $F_{ges}$ kann geometrisch emittelt werden durch Addition der Pfeil
 **********
 __Beispiel 3:__ Kräfteaddition allgmein
 
-{4-5}{![Kräfte_Allg_1](https://diversewolken.ddns.net/nextcloud/index.php/s/9f2c7SWt66wH2R7/download)}{5}{![Kräfte_Allg_2](https://diversewolken.ddns.net/nextcloud/index.php/s/ZwdPTzyYjoj2jaL/download)} _Wirken zwei Kräfte in beliebigen Richtungen auf denselben Körper, so addiere die Kraftpfeile durch **Parallelverschieben** des Ursprungs eines Pfeils in die Spitze des anderen Pfeils. Die Gesamtkraft entsprich der Diagonale des entstandenen Parallelogramms._
+{4-5}{![Kräfte_Allg_1](https://diversewolken.ddns.net/nextcloud/index.php/s/9f2c7SWt66wH2R7/download)}{5}{![Kräfte_Allg_2](https://diversewolken.ddns.net/nextcloud/index.php/s/ZwdPTzyYjoj2jaL/download)} _Wirken zwei Kräfte in beliebigen Richtungen auf denselben Körper, so addiere die Kraftpfeile durch $\textbf{Parallelverschieben}$ des Ursprungs eines Pfeils in die Spitze des anderen Pfeils. Die Gesamtkraft entsprich der Diagonale des entstandenen Parallelogramms._
 
 __=> Resultierende Kraft $F_{ges}$ kann mit Richtung und Wert geometrisch bestimmt werden.__
 **********
