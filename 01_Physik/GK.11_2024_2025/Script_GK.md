@@ -563,3 +563,52 @@ $\hspace{1cm}$mit Gewichtskraft $F_g$ und Erdbeschleunigung/Ortsfakor $g=9,81\fr
 $\hspace{1cm}$ __Beispiel:__ ![Gegenkraft](https://av.ph.nat.tum.de/Experiment/1000/Grafik/b1105.gif) 
 
 ********
+
+### 1.9.3 Darstellung von Kräften
+
+> Die Kraft ist eine __vektorielle physikalische Größe__, d.h. sie hat einen Wert (Betrag __und eine Richtung__).
+
+_Darstellung: Kräfte (i.a. Vektorgrößen) werden mit Pfeilen dargestellt. Die Länge des Pfeils entspricht dem Wert. Die Richtung des Pfeils gibt die Wirkrichtung der Kraft an._
+
+__Beispiel:__ Gewichtskraft $F_g$ mit Gegenkraft der Unterlage $F_U$ (3. Newton'sches Gesetz)
+
+![GewichtskraftGegenkraft](https://diversewolken.ddns.net/nextcloud/index.php/s/WDBCJmyZ7Q4jkrK/download)
+
+### 1.9.4 Superposition von Kräften
+
+> Unter der Superposition von Kräften versteht man das gleichzeitige Wirken mehrerer Kräfte. Durch Addition der Kraftpfeile kann die resultierende __Gesamtkraft $F_{ges}$__ ermittelt werden.
+
+{{1}}
+**********
+__Beispiel 1:__  Ruhender Körper auf horizontaler Ebene(siehe 1.9.3)
+
+![GewichtskraftGegenkraft](https://diversewolken.ddns.net/nextcloud/index.php/s/WDBCJmyZ7Q4jkrK/download)
+_Gewichtskraft $F_g$ und Gegenkraft $F_U$ haben den gleichen Wert (gleiche Länge) wirken aber in entgegen gesetzte Richtung und heben sich gegenseitig auf._ 
+
+__=> Resultierende Kraft $F_{ges}$ ist Null, der Körper ruht (3. Newton'sches Gesetz)__
+**********
+
+<br>
+<br>
+
+{{2}}
+***********
+__Beispiel 2:__ Schubkraft $F_S$ und Windkraft $F_W$ wirken senkrecht zueinander.
+
+{2-3}{![Kräfte_Senkrecht1](https://diversewolken.ddns.net/nextcloud/index.php/s/snYyLGyD4wKW7rF/download)}
+{3}{![Kräfte_Senkrecht2](https://diversewolken.ddns.net/nextcloud/index.php/s/6smmTrbPsk834Js/download)}
+
+_Gesamtkraft kann geometrisch emittelt werden durch Addition der Pfeile._
+
+***********
+
+{{3}}
+**********
+__Beispiel 3:__ (siehe 1.9.3): Ruhender Körper auf schiefe Ebene
+
+![GewichtskraftGegenkraft](https://diversewolken.ddns.net/nextcloud/index.php/s/WDBCJmyZ7Q4jkrK/download)
+_Gewichtskraft $F_g$ und Gegenkraft $F_U$ haben den gleichen Wert (gleiche Länge) wirken aber in entgegen gesetzte Richtung und heben sich gegenseitig auf._ 
+
+__=> Resultierende Kraft $F_{ges}$ ist Null, der Körper ruht (3. Newton'sches Gesetz)__
+**********
+
