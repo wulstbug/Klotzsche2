@@ -593,16 +593,15 @@ __=> Resultierende Kraft $F_{ges}$ ist Null, der Körper ruht (3. Newton'sches G
 
 {{2}}
 ***********
-__Beispiel 2:__ Schubkraft $F_S$ und Windkraft $F_W$ wirken senkrecht zueinander.
+__Beispiel 2:__ 
 
-{2-3}{![Kräfte_Senkrecht1](https://diversewolken.ddns.net/nextcloud/index.php/s/snYyLGyD4wKW7rF/download)}
-{3}{![Kräfte_Senkrecht2](https://diversewolken.ddns.net/nextcloud/index.php/s/6smmTrbPsk834Js/download)}
+{2-3}{![Kräfte_Senkrecht1](https://diversewolken.ddns.net/nextcloud/index.php/s/snYyLGyD4wKW7rF/download)} {3}{![Kräfte_Senkrecht2](https://diversewolken.ddns.net/nextcloud/index.php/s/6smmTrbPsk834Js/download)} Schubkraft $F_S$ und Windkraft $F_W$ wirken senkrecht zueinander.
 
-_Gesamtkraft kann geometrisch emittelt werden durch Addition der Pfeile._
+_Gesamtkraft $F_{ges}$ kann geometrisch emittelt werden durch Addition der Pfeile._
 
 ***********
 
-{{3}}
+{{4}}
 **********
 __Beispiel 3:__ (siehe 1.9.3): Ruhender Körper auf schiefe Ebene
 
