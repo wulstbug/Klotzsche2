@@ -26,6 +26,8 @@ h1, h2, h3, h4, h5, h6 {
 }
 @end
 
+mode: presentation
+
 @onload
 window.LIA.settings.font_size = 2
 @end
@@ -123,64 +125,82 @@ Lösung (Großbuchstaben, ohne Leerzeichen): [[SEINODERNICHTSEIN]]
 
 ## 3. Vignere Verschlüsselung
 
-![Tabelle](https://diversewolken.ddns.net/nextcloud/index.php/s/n3Cw3FTnD3aCkgs/download) Wähle einen Text und einen Schlüssel. <br> <br> {1}{z.B. Text: __MUSKULATUR__ <br> <br> Schlüssel: __TRINKEN__} <br> <br> {2-4}{1. Ordne jedem Buchstaben des Textes die entsprechende Zahl (Position) im Alphabet zu.}
+![Tabelle](https://diversewolken.ddns.net/nextcloud/index.php/s/9e6RB6rCAfd73nx/download)
+
+Wähle einen Text und einen Schlüssel. <br> {1}{z.B. Text: __HEXEN__ <br> Schlüssel: __ABC__}
+
+{{2-3}}
+**************
+1. Ordne jedem Buchstaben des Textes die entsprechende Zahl (Position) im Alphabet zu.
+
+| | | | | |
+| H | E | X | E | N |
+| 8 | 5 | 24 | 5 | 14 |
+*************
 
 {{3-4}}
-*************
-| | | | | | | | | | |
-| M | U | S | K | U | L | A | T | U | R |
-| 13 | 21 | 19 | 11 | 21 | 12 | 1 | 20 | 21 | 19 |
-*************
+***********
+1. Ordne jedem Buchstaben des Textes die entsprechende Zahl (Position) im Alphabet zu. <br>
+2. Ordne jedem Buchstaben des Schlüssels die entsprechende Zahl (Position) im Alphabet zu, wiederhole des Schlüssel von vorn, wenn er zu kurz ist.
 
-{4}{1. Ordne jedem Buchstaben des Textes die entsprechende Zahl (Position) im Alphabet zu. <br> 2. Ordne jedem Buchstaben des Schlüssels die entsprechende Zahl (Position) im Alphabet zu, wiederhole des Schlüssel von vorn, wenn er zu kurz ist.}
-
-{{4-6}}
-*************
-| | | | | | | | | | |
-| M | U | S | K | U | L | A | T | U | R |
-| 13 | 21 | 19 | 11 | 21 | 12 | 1 | 20 | 21 | 19 |
-| T | R | I | N | K | E | N | T | R | I |
-| 20 | 18 | 9 | 14 | 11 | 5 | 14 | 20 | 18 | 9 |
+| | | | | |
+| H | E | X | E | N |
+| 8 | 5 | 24 | 5 | 14 |
+| A | B | C | A | B |
+| 1 | 2 | 3 | 1 | 2 |
 *************
 
-{{6-7}}
+{{4-5}}
+*************
+1. Ordne jedem Buchstaben des Textes die entsprechende Zahl (Position) im Alphabet zu. <br>
+2. Ordne jedem Buchstaben des Schlüssels die entsprechende Zahl (Position) im Alphabet zu, wiederhole des Schlüssel von vorn, wenn er zu kurz ist.
+3. Addiere die aufgeschriebenen Zahlen.
+
+| | | | | |
+| H | E | X | E | N |
+| 8 | 5 | 24 | 5 | 14 |
+| A | B | C | A | B |
+| +1 | +2 | +3 | +1 | +2 |
+|---|---|---|---|---|
+| 9 | 7 | 27 | 6 | 16|
 *************
 
-Addiere die aufgeschriebenen Zahlen.
-
-| | | | | | | | | | | |
-| | 13 | 21 | 19 | 11 | 21 | 12 | 1 | 20 | 21 | 19 |
-| + | 20 | 18 | 9 | 14 | 11 | 5 | 14 | 20 | 18 | 9 |
-| = | 33 | 39 | 28 | 25 | 32 | 17 | 15 | 40 | 39 | 28 |
+{{5-6}}
 *************
+1. Ordne jedem Buchstaben des Textes die entsprechende Zahl (Position) im Alphabet zu. <br>
+2. Ordne jedem Buchstaben des Schlüssels die entsprechende Zahl (Position) im Alphabet zu, wiederhole des Schlüssel von vorn, wenn er zu kurz ist.
+3. Addiere die aufgeschriebenen Zahlen.
+4. Subtrahiere 26, wenn der Wert größer als 26 ist.
 
-{{7-8}}
-*************
-
-Addiere die aufgeschriebenen Zahlen. Subtrahiere 26, wenn der Wert größer als 26 ist.
-
-| | | | | | | | | | | |
-| | 13 | 21 | 19 | 11 | 21 | 12 | 1 | 20 | 21 | 19 |
-| + | 20 | 18 | 9 | 14 | 11 | 5 | 14 | 20 | 18 | 9 |
-| = | 33 | 39 | 28 | 25 | 32 | 17 | 15 | 40 | 39 | 28 |
-| -26 | 7 | 13 | 2 | 25 | 6 | 17 | 15 | 14 | 10 | 2 |
+| | | | | |
+| H | E | X | E | N |
+| 8 | 5 | 24 | 5 | 14 |
+| A | B | C | A | B |
+| +1 | +2 | +3 | +1 | +2 |
+|---|---|---|---|---|
+| 9 | 7 | 27-26=1 | 6 | 16|
 *************
 
 
-{{8}}
+{{6}}
+*************
+1. Ordne jedem Buchstaben des Textes die entsprechende Zahl (Position) im Alphabet zu. <br>
+2. Ordne jedem Buchstaben des Schlüssels die entsprechende Zahl (Position) im Alphabet zu, wiederhole des Schlüssel von vorn, wenn er zu kurz ist.
+3. Addiere die aufgeschriebenen Zahlen.
+4. Subtrahiere 26, wenn der Wert größer als 26 ist.
+5. Übersetze die berechneten Zahlen in den verschlüsselten Text.
+
+| | | | | |
+| H | E | X | E | N |
+| 8 | 5 | 24 | 5 | 14 |
+| A | B | C | A | B |
+| +1 | +2 | +3 | +1 | +2 |
+| __I__ | __G__ | __A__ | __F__ | __P__ |
+| 9 | 7 | 1 | 6 | 16 |
 *************
 
-Addiere die aufgeschriebenen Zahlen. Subtrahiere 26, wenn der Wert größer als 26 ist. Notiere die entstandenen Buchstaben als Verschlüsselung V.
-
-| | | | | | | | | | | |
-| | 13 | 21 | 19 | 11 | 21 | 12 | 1 | 20 | 21 | 19 |
-| + | 20 | 18 | 9 | 14 | 11 | 5 | 14 | 20 | 18 | 9 |
-| = | 33 | 39 | 28 | 25 | 32 | 17 | 15 | 40 | 39 | 28 |
-| '-26' | 7 | 13 | 2 | 25 | 6 | 17 | 15 | 14 | 10 | 2 |
-| __V:__ | G | M | B | Y | F | Q | O | N | J | B |
+{{7}}
+*************
+Verschlüsselter Text: __IGAFP__
 *************
 
-{{9}}
-*************
-Verschlüsselter Text: GMBY FQON JB 
-*************
