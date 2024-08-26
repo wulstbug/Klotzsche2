@@ -616,7 +616,7 @@ Ralf hat eine Masse von 55 kg. In seinem Schulhaus (GYKL) rennt er vom untersten
 
 {{2}}
 ***************
-> Die potentielle Energie ist von der Höhe und der Masse abhängig. Da beide die selbe Höhe erklommen haben entscheidet die Masse, welche bei Ralf größer ist.
+> Die potentielle Energie ist von der Höhe und der Masse abhängig. Da beide Personen die selbe Höhe erklommen haben entscheidet die Masse. Diese ist bei Ralf größer.
 
 > $$ \boxed{E_{pot} = m \cdot g \cdot h}$$
 ***************
@@ -723,10 +723,16 @@ Ralf hat eine Masse von 55 kg. In seinem Schulhaus (GYKL) rennt er vom untersten
 </p>
 </p>
 
-4. Erkläre den Unterschied zwischen Energie und Leistung. (2P)
-
-{{9}}
+{{10}}
 **********
-Leistung ist definiert als die Energie, die pro Sekunde umgewandelt wird. D.h. bei der Leistung spielt die Zeit eine Rolle.
+Obwohl Ralf seinem Körper die Energie zugefügt hat, hat Petra die größere Leistung vollbracht.
+**********
+
+
+4. Erkläre den Unterschied zwischen Energie und Leistung. (1P)
+
+{{10}}
+**********
+> Leistung ist definiert als die Energie, die pro Sekunde umgewandelt wird. Ist die Zeit sehr klein, so ist die Leistung groß.
 **********
 
