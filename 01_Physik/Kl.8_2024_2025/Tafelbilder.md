@@ -516,7 +516,7 @@ _Löse die Aufgaben:_
 
 [FahrradBerghoch](https://www.youtube.com/watch?v=8LriLNaQLFQ)
 
-## Leistung
+## 1.5 Leistung
 
 > Definition: Die Leistung gibt an, welche Energiemenge pro Sekunde umgewandelt wird.
 >
@@ -588,6 +588,8 @@ _Löse die Aufgaben:_
 > $\hspace{1cm}$ $P$
 ***************
 
+{{4}}
+**********
 > Lsg: 
 >
 > $P = \dfrac{E_{pot}}{t}$
@@ -597,3 +599,134 @@ _Löse die Aufgaben:_
 > $P_{Peter} = \dfrac{240 J}{18 s} = 13,3 W$
 
 >> Die Leistung ist eine zeitabhängige Größe. Die potentielle Energie hängt nicht von Zeit ab.
+**********
+
+## 1.6 Übungsaufgaben zum Thema Energie und Leistung
+
+_Löse die Aufgaben:_
+
+Ralf hat eine Masse von 55 kg. In seinem Schulhaus (GYKL) rennt er vom untersten in den obersten Stock, 3 Stockwerke jeweils mit einer Höhe von 4m und benötigt dafür 40s. Petra hingegen hat eine Masse von 50 kg und benötigt für das Schulhaus 30s.
+
+1. Erkläre ohne zu rechnen, welcher Mensch (Ralf oder Petra) seinem Körper die größere potentielle Energie zuführt. Begründe deine Aussage anhand einer Formel. (2P)
+
+{{1}}
+***************
+> Ralf hat die höhere potentielle Energie zugeführt.
+***************
+
+{{2}}
+***************
+> Die potentielle Energie ist von der Höhe und der Masse abhängig. Da beide die selbe Höhe erklommen haben entscheidet die Masse, welche bei Ralf größer ist.
+
+> $$ \boxed{E_{pot} = m \cdot g \cdot h}$$
+***************
+
+
+2. Berechne diese potentielle Energie jeweils. (3P)
+
+{{3}}
+**********
+> __Berechnung:__
+>
+> geg.: 
+>
+> $\hspace{1cm}$ $m_{Ralf} = 55 kg$ $\hspace{1cm}$ $m_{Petra} = 50 kg$
+> 
+> $\hspace{1cm}$ $ h = 12 m$
+>
+> ges.: 
+>
+> $\hspace{1cm}$ $E_{pot}$ (Ralf + Petra)
+>
+> Lsg.:
+>
+> $\hspace{1cm}$ $E_{pot} = m \cdot g \cdot h $
+**********
+
+<p class="newspaper">
+
+{{4}}
+**********
+> $\hspace{0.5cm}$ Ralf:
+>
+> $\hspace{1cm}$ $E_{pot} = 55\,kg \cdot 10 \frac{N}{kg} \cdot 12\,m$
+>
+> $\hspace{1cm}$ $E_{pot} = 6600 J$
+***************
+
+<p class="cb">
+
+{{5}}
+**********
+> $\hspace{0.5cm}$ Petra:
+>
+> $\hspace{1cm}$ $E_{pot} = 50\,kg \cdot 10 \frac{N}{kg} \cdot 12\,m$
+>
+> $\hspace{1cm}$ $E_{pot} = 6000 J$
+***************
+
+</p>
+</p>
+
+
+3. Berechne jeweils die Leistung, die beide Personen vollbracht haben.(3P)
+
+{{6}}
+**********
+> __Berechnung:__
+>
+> geg.: 
+>
+> $\hspace{1cm}$ $E_{pot} = 6600 J$ (Ralf) $\hspace{2cm}$ $E_{pot}  = 6000J$ (Petra)
+> 
+> $\hspace{1cm}$ $t_{Ralf} = 40s$ $\hspace{3cm}$ $t_{Petra} = 30s$
+
+> ges.: 
+>
+> $\hspace{1cm}$ $P$ (Ralf + Petra)
+**********
+
+
+{{7}}
+**********
+> Lsg.:
+>
+> $\hspace{1cm}$ $P = \dfrac{E}{t}$
+**********
+
+<p class="newspaper">
+
+{{8}}
+**********
+> $\hspace{0.5cm}$ Ralf:
+>
+> $\hspace{1cm}$ $P = \dfrac{E_{pot}}{t}$
+>
+> $\hspace{1cm}$ $P = \dfrac{6600 J}{40s}$
+>
+> $\hspace{1cm}$ $P = 165 W$
+***************
+
+<p class="cb">
+
+{{9}}
+**********
+> $\hspace{0.5cm}$ Petra:
+>
+> $\hspace{1cm}$ $P = \dfrac{E_{pot}}{t}$
+>
+> $\hspace{1cm}$ $P = \dfrac{6000 J}{30s}$
+>
+> $\hspace{1cm}$ $P = 200 W$
+***************
+
+</p>
+</p>
+
+4. Erkläre den Unterschied zwischen Energie und Leistung. (2P)
+
+{{9}}
+**********
+Leistung ist definiert als die Energie, die pro Sekunde umgewandelt wird. D.h. bei der Leistung spielt die Zeit eine Rolle.
+**********
+
