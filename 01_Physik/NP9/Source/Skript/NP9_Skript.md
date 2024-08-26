@@ -123,7 +123,7 @@ Lösung (Großbuchstaben, ohne Leerzeichen): [[SEINODERNICHTSEIN]]
 
 ## 3. Vignere Verschlüsselung
 
-![Tabelle](https://diversewolken.ddns.net/nextcloud/index.php/s/2B3MFD9KRCKgFiR/download) Wähle einen Text und einen Schlüssel. <br> <br> {1}{z.B. Text: __MUSKULATUR__ <br> <br> Schlüssel: __TRINKEN__} <br> <br> {2-4}{1. Ordne jedem Buchstaben des Textes die entsprechende Zahl (Position) im Alphabet zu.}
+![Tabelle](https://diversewolken.ddns.net/nextcloud/index.php/s/n3Cw3FTnD3aCkgs/download) Wähle einen Text und einen Schlüssel. <br> <br> {1}{z.B. Text: __MUSKULATUR__ <br> <br> Schlüssel: __TRINKEN__} <br> <br> {2-4}{1. Ordne jedem Buchstaben des Textes die entsprechende Zahl (Position) im Alphabet zu.}
 
 {{3-4}}
 *************
