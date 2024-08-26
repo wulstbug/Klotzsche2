@@ -122,3 +122,65 @@ Lösung (Großbuchstaben, ohne Leerzeichen): [[SEINODERNICHTSEIN]]
 
 
 ## 3. Vignere Verschlüsselung
+
+![Tabelle](http://www.geothilo.de/bilder/00_ABC.jpg) Wähle einen Text und einen Schlüssel. <br> <br> {1}{z.B. Text: __MUSKULATUR__ <br> <br> Schlüssel: __TRINKEN__} <br> <br> {2-4}{1. Ordne jedem Buchstaben des Textes die entsprechende Zahl (Position) im Alphabet zu.}
+
+{{3-4}}
+*************
+| | | | | | | | | | |
+| M | U | S | K | U | L | A | T | U | R |
+| 13 | 21 | 19 | 11 | 21 | 12 | 1 | 20 | 21 | 19 |
+*************
+
+{4}{1. Ordne jedem Buchstaben des Textes die entsprechende Zahl (Position) im Alphabet zu. <br> 2. Ordne jedem Buchstaben des Schlüssels die entsprechende Zahl (Position) im Alphabet zu, wiederhole des Schlüssel von vorn, wenn er zu kurz ist.}
+
+{{4-6}}
+*************
+| | | | | | | | | | |
+| M | U | S | K | U | L | A | T | U | R |
+| 13 | 21 | 19 | 11 | 21 | 12 | 1 | 20 | 21 | 19 |
+| T | R | I | N | K | E | N | T | R | I |
+| 20 | 18 | 9 | 14 | 11 | 5 | 14 | 20 | 18 | 9 |
+*************
+
+{{6-7}}
+*************
+
+Addiere die aufgeschriebenen Zahlen.
+
+| | | | | | | | | | | |
+| | 13 | 21 | 19 | 11 | 21 | 12 | 1 | 20 | 21 | 19 |
+| + | 20 | 18 | 9 | 14 | 11 | 5 | 14 | 20 | 18 | 9 |
+| = | 33 | 39 | 28 | 25 | 32 | 17 | 15 | 40 | 39 | 28 |
+*************
+
+{{7-8}}
+*************
+
+Addiere die aufgeschriebenen Zahlen. Subtrahiere 26, wenn der Wert größer als 26 ist.
+
+| | | | | | | | | | | |
+| | 13 | 21 | 19 | 11 | 21 | 12 | 1 | 20 | 21 | 19 |
+| + | 20 | 18 | 9 | 14 | 11 | 5 | 14 | 20 | 18 | 9 |
+| = | 33 | 39 | 28 | 25 | 32 | 17 | 15 | 40 | 39 | 28 |
+| -26 | 7 | 13 | 2 | 25 | 6 | 17 | 15 | 14 | 10 | 2 |
+*************
+
+
+{{8}}
+*************
+
+Addiere die aufgeschriebenen Zahlen. Subtrahiere 26, wenn der Wert größer als 26 ist. Notiere die entstandenen Buchstaben als Verschlüsselung V.
+
+| | | | | | | | | | | |
+| | 13 | 21 | 19 | 11 | 21 | 12 | 1 | 20 | 21 | 19 |
+| + | 20 | 18 | 9 | 14 | 11 | 5 | 14 | 20 | 18 | 9 |
+| = | 33 | 39 | 28 | 25 | 32 | 17 | 15 | 40 | 39 | 28 |
+| '-26' | 7 | 13 | 2 | 25 | 6 | 17 | 15 | 14 | 10 | 2 |
+| __V:__ | G | M | B | Y | F | Q | O | N | J | B |
+*************
+
+{{9}}
+*************
+Verschlüsselter Text: GMBY FQON JB 
+*************
