@@ -725,11 +725,11 @@ Ralf hat eine Masse von 55 kg. In seinem Schulhaus (GYKL) rennt er vom untersten
 
 {{10}}
 **********
-Obwohl Ralf seinem Körper die Energie zugefügt hat, hat Petra die größere Leistung vollbracht.
+Obwohl Ralf seinem Körper die Energie zugefügt hat (6600 J > 6000 J), hat Petra die größere Leistung vollbracht (165 W < 200W).
 **********
 
 
-4. Erkläre den Unterschied zwischen Energie und Leistung. (1P)
+4. Erkläre den Unterschied zwischen Energie und Leistung. (2P)
 
 {{10}}
 **********
