@@ -442,3 +442,191 @@ _Quantitative Aufgaben zur Reibung auf horizontalen Ebene. Bitte anklicken und a
 [Leifi-Physik-Aufgabe-Reibung-1](https://www.leifiphysik.de/mechanik/reibung-und-fortbewegung/aufgabe/wohnanhaenger)
 
 [Leifi-Physik-Aufgabe-Reibung-2](https://www.leifiphysik.de/mechanik/reibung-und-fortbewegung/aufgabe/die-verrueckte-kiste)
+
+
+## 1.9 Kräfte
+
+### 1.9.1 Defintion Kraft
+
+Kräfte erkennt man an ihrer Wirkung. Die Wirkung von Kräften kann sein:
+
+{{1}}
+**************************
+1. Ein Körper ändert seine Bewegungsform (d.h. Geschwindigkeit oder Bewegungsrichtung).
+
+2. Ein Körper verformt sich.
+
+3. Beides gleichzeitig.
+**************************
+
+### 1.9.2 Newtonsche Gesetze
+
+<H3>Newton'sche Gesetze</H3>
+
+{{1}}
+**************
+1. Ein kräftefreier Körper bleibt in Ruhe oder bewegt sich geradlinig mit konstanter Geschwindigkeit. <br> 
+$\hspace{1cm}$ __Beispiel:__ {2}{![VoyagerSone](https://heise.cloudimg.io/width/1220/q70.png-lossy-70.webp-lossy-70.foil1/_www-heise-de_/imgs/18/3/5/4/6/9/3/7/Voyager-illustration-with-stars-16.jpg-e02f3b734d477d20.jpeg) Sonde ohne Antrieb im Weltall}
+**************
+
+<br>
+<br>
+
+{{3}}
+**************************
+2. Kraft gleich Masse mal Beschleunigung
+
+>    $$ F = m \cdot a $$
+**************************
+
+{{4}}
+********
+$\hspace{1cm}$ __Beispiel:__ [Freier Fall](https://youtu.be/-Fhc51_JbcQ) 
+ eines Körpers auf der Erde: $$\boxed{F_g = m \cdot g} $$ <br> 
+$\hspace{1cm}$mit Gewichtskraft $F_g$ und Erdbeschleunigung/Ortsfakor $g=9,81\frac{m}{s^2}$.
+********
+
+
+
+{{5}}
+**************************
+3. Kraft gleich Gegenkraft (Wechselwirkungsgesetz)
+
+> Eine Kraft von Körper A auf Körper B geht immer mit einer gleich großen, aber entgegen gerichteten Kraft von Körper B auf Körper A einher
+**************************
+{{6}}
+********
+$\hspace{1cm}$ __Beispiel:__ ![Gegenkraft](https://av.ph.nat.tum.de/Experiment/1000/Grafik/b1105.gif) 
+
+********
+
+### 1.9.3 Darstellung von Kräften
+
+> Die Kraft ist eine __vektorielle physikalische Größe__, d.h. sie hat einen Wert (Betrag __und eine Richtung__).
+
+_Darstellung: Kräfte (i.a. Vektorgrößen) werden mit Pfeilen dargestellt. Die Länge des Pfeils entspricht dem Wert. Die Richtung des Pfeils gibt die Wirkrichtung der Kraft an._
+
+__Beispiel:__ Gewichtskraft $F_g$ mit Gegenkraft der Unterlage $F_U$ (3. Newton'sches Gesetz)
+
+![GewichtskraftGegenkraft](https://diversewolken.ddns.net/nextcloud/index.php/s/WDBCJmyZ7Q4jkrK/download)
+
+### 1.9.4 Superposition von Kräften
+
+> Unter der Superposition von Kräften versteht man das gleichzeitige Wirken mehrerer Kräfte. Durch Addition der Kraftpfeile kann die resultierende __Gesamtkraft $F_{ges}$__ ermittelt werden.
+
+{{1}}
+**********
+__Beispiel 1:__  Ruhender Körper auf horizontaler Ebene(siehe 1.9.3)
+
+![GewichtskraftGegenkraft](https://diversewolken.ddns.net/nextcloud/index.php/s/WDBCJmyZ7Q4jkrK/download)
+_Gewichtskraft $F_g$ und Gegenkraft $F_U$ haben den gleichen Wert (gleiche Länge) wirken aber in entgegen gesetzte Richtung und heben sich gegenseitig auf._ 
+
+__=> Resultierende Kraft $F_{ges}$ ist Null, der Körper ruht (3. Newton'sches Gesetz)__
+**********
+
+<br>
+<br>
+
+{{2}}
+***********
+__Beispiel 2:__ Flugzeug mit Seitenwind
+
+{2-3}{![Kräfte_Senkrecht1](https://diversewolken.ddns.net/nextcloud/index.php/s/snYyLGyD4wKW7rF/download)} {3}{![Kräfte_Senkrecht2](https://diversewolken.ddns.net/nextcloud/index.php/s/6smmTrbPsk834Js/download)} Schubkraft $F_S$ und Windkraft $F_W$ wirken senkrecht zueinander.
+
+__=> Gesamtkraft $F_{ges}$ kann geometrisch emittelt werden durch Addition der Pfeile.__
+
+***********
+
+{{4}}
+**********
+__Beispiel 3:__ Kräfteaddition allgmein
+
+{4-5}{![Kräfte_Allg_1](https://diversewolken.ddns.net/nextcloud/index.php/s/9f2c7SWt66wH2R7/download)}{5}{![Kräfte_Allg_2](https://diversewolken.ddns.net/nextcloud/index.php/s/ZwdPTzyYjoj2jaL/download)} _Wirken zwei Kräfte in beliebigen Richtungen auf denselben Körper, so addiere die Kraftpfeile durch $\textbf{Parallelverschieben}$ des Ursprungs eines Pfeils in die Spitze des anderen Pfeils. Die Gesamtkraft entsprich der Diagonale des entstandenen Parallelogramms._
+
+__=> Gesamtkraft $F_{ges}$ kann mit Richtung und Wert geometrisch bestimmt werden.__
+**********
+
+### Aufgaben zum Thema Kräfte
+
+![Aufgabe1](https://diversewolken.ddns.net/nextcloud/index.php/s/eEqaeWXtm6GDc9i/download)
+
+<details>
+
+<summary>Lösung 1 _(Hinweise für 1b findest du in 1.9.5)_ </summary>
+
+![Lösung_1](https://diversewolken.ddns.net/nextcloud/index.php/s/WBPp9mREz4zzdqS/download)
+
+</details>
+
+
+
+### 1.9.5 Kraftzerlegung an der schiefen Ebene
+
+> __Hinweis Kräfte-Zerlegung__: Eine Gesamtkraft kann man gedanklich in Teilkräfte zerlegen, deren Addition wieder die Gesamtkraft ergibt. <br> Im Beispiel der schiefen Ebene zerlegt man die Gewichtskraft ($F_g$) in eine Teilkraft senkrecht zur Ebene ($F_N$) und eine Teilkraft parallel zur Ebene ($F_H$)
+
+<br>
+
+![Aufgabe_Schiefe_Ebene](https://diversewolken.ddns.net/nextcloud/index.php/s/D8zbKHyyT7xJPBz/download) An einer schiefen Ebene mit dem Neigungswinkel $\alpha$ lässt sich die Gewichtskraft $F_g$ in eine Normalkraft $F_N$ (senkrecht zur Ebene) und eine Hangabtriebskraft $F_H$ (parallel zur Ebene) zerlegen.
+
+_Aufgabe 2: Zeichne diese Kraftzerlegung in deinen Hefter. Konstruiere anschließend folgendes Beispiel: Auf einer schiefen Ebene (30°) ruht ein Körper mit der Gewichtkraft 3000 N._ 
+
+1. _Bestimme grafisch oder durch Berechnung die Normalkraft $F_N$_ und die Hangabtriebskraft $F_H$.
+
+2. _Die Unterlage und Körper haben eine Haftreibungszahl $\mu_{Haft} = 0,4$ (s. 1.8.2). Bestimme die Haftreibungskraft auf der Unterlage._
+
+3. _Ist die Hangabtriebskraft größer als die Reibungskraft, so beginnt der Körper zu rutschen. Überprüfe, ob sich der Körper bewegt._
+
+4. _*Der Neigungswinkel $\alpha$ wird nun so verändert, sodass der Körper gerade noch ruht. Bestimme diesen Grenzwinkel $\alpha_G$, bei welchem der Körper gerade noch nicht zu rutschen beginnt._
+
+<details>
+
+<summary>Lösung 1</summary>
+
+![Lösung_1](https://diversewolken.ddns.net/nextcloud/index.php/s/wtm7y9772WdKNaS/download)
+
+</details>
+
+<details>
+
+<summary>Lösung 2</summary>
+
+![Lösung_1](https://diversewolken.ddns.net/nextcloud/index.php/s/AD8EM2imFcfbFtS/download)
+
+</details>
+
+<details>
+
+<summary>Lösung 3</summary>
+
+![Lösung_1](https://diversewolken.ddns.net/nextcloud/index.php/s/SaJ5yqyRBqLDToJ/download)
+
+</details>
+
+<details>
+
+<summary>Lösung 4</summary>
+
+Für den Grenzwinkel $\alpha_G$ gilt ( Haftreibungskraft gleich Hangabtriebskraft):
+$$ F_{Haft} = F_H $$ 
+
+Für die Haftreibungskraft gilt die Formel:
+$$ F_{Haft} = F_G \cdot \cos(\alpha_G) \cdot \mu_{Haft} $$
+
+Für die Hangabtriebskraft gilt die Formel:
+$$ F_H = F_G \cdot \sin(\alpha_G)$$
+
+Setzt man $F_{Haft} = F_H $, so ergibt sich:
+$$ F_G \cdot \cos(\alpha_G) \cdot \mu_{Haft} = F_G \cdot \sin(\alpha_G) $$
+
+also
+
+$$ \mu_{Haft} = \dfrac{\sin(\alpha_G)}{\cos(\alpha_G)} $$
+
+Mit der Trigonometrie $\tan(\alpha_G) = \frac{\sin(\alpha_G)}{\cos(\alpha_G)}$ ergibt sich:
+
+$$ \alpha_G = tan^{-1}(\mu_{Haft}) $$
+$$ \underline{\alpha_G = 21,8^\circ}$$ 
+
+Bei einem Winkel größer als 21.8° beginnt der Körper zu rutschen.
+
+</details>
