@@ -583,9 +583,9 @@ __Beispiel:__ Gewichtskraft $F_g$ mit Gegenkraft der Unterlage $F_U$ (3. Newton'
 __Beispiel 1:__  Ruhender Körper auf horizontaler Ebene(siehe 1.9.3)
 
 ![GewichtskraftGegenkraft](https://diversewolken.ddns.net/nextcloud/index.php/s/WDBCJmyZ7Q4jkrK/download)
-_Gewichtskraft $F_g$ und Gegenkraft $F_U$ haben den gleichen Wert (gleiche Länge) wirken aber in entgegen gesetzte Richtung und heben sich gegenseitig auf._ 
+_Gewichtskraft $F_g$ und Gegenkraft $F_U$ haben den gleichen Wert (3. Newton'sches Gesetz) wirken aber in entgegen gesetzte Richtung und heben sich gegenseitig auf._ 
 
-__=> Resultierende Kraft $F_{ges}$ ist Null, der Körper ruht (3. Newton'sches Gesetz)__
+__=> Resultierende Kraft $F_{ges}$ ist Null, der Körper ruht (1. Newton'sches Gesetz)__
 **********
 
 <br>
