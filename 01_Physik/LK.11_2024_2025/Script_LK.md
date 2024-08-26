@@ -991,12 +991,16 @@ Metzler S. 41, 1,3, 6
 ![Lsg_Metzler41_6](https://diversewolken.ddns.net/nextcloud/index.php/s/PHPbTztDsFqLCFA/download)
 
 </details>
-## Aufgaben - Mechanische Energien und Reibung
-
-??[Aufgaben Mechanische Energien und Reibung](https://diversewolken.ddns.net/nextcloud/index.php/s/CWNBeDoq7WTTRtT/preview)
-
-[Aufgaben Mechanische Energien und Reibung](https://diversewolken.ddns.net/nextcloud/index.php/s/CWNBeDoq7WTTRtT/preview)
 
 ## 1.16 Arten von Stößen
 
 ![Tafelbild_StossArten](https://diversewolken.ddns.net/nextcloud/index.php/s/GRmxkRPnqMe2qya/download)
+
+
+## Aufgaben - Mechanische Energien und Reibung
+
+??[Aufgaben Mechanische Energien und Reibung](https://diversewolken.ddns.net/nextcloud/index.php/s/i5KTPn8kwebfkxX/preview)
+
+[Aufgaben Mechanische Energien und Reibung](https://diversewolken.ddns.net/nextcloud/index.php/s/i5KTPn8kwebfkxX)
+
+[Lösung MechEnergie Und Reibung](https://diversewolken.ddns.net/nextcloud/index.php/s/EoxcWHzsLKd9AEy)
