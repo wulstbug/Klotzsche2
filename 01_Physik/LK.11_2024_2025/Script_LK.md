@@ -717,7 +717,7 @@ _Arbeitsauftrag: Bearbeite die Aufgabe a) zum Bogenspannen bei Leifi-Physik. Die
 | {1}{![FederSpannarbeit](https://diversewolken.ddns.net/nextcloud/index.php/s/Q5nf7D3WYQCxNSW/download)} | {2}{![F-s-Diagramm](https://diversewolken.ddns.net/nextcloud/index.php/s/ijzAksKEza8XDKP/download)} |
 | {1}{Annahme: Hook'sche Gesetz <br> => Kraft ~ Dehnung}| {3}{$W_{sp} = \frac{1}{2} \cdot F_{E} \cdot s $} <br> <br> {4}{$W_{sp} = \frac{1}{2} \cdot D \cdot s \cdot s $} <br> <br> {5}{$W_{sp} = \frac{1}{2} \cdot D \cdot s^2 = \Delta E_{sp} $}|
 
-## Übungsaufgaben
+## Übungsaufgaben - Energieerhaltung LB
 
 Duden S. 169: Aufgaben 58, 60, 62 (a,b, c*)
 
@@ -772,11 +772,21 @@ Metzler S. 67, 8
 
 </details>
 
-## Aufgaben Pitty-Physik
+Kommentar: CG
 
-Reibung:
+@@@ ## Aufgaben Pitty-Physik
 
-739, 1335
+@@@ Reibung:
+
+@@@ 739, 1335
+
+## Aufgaben - Mechanische Energien und Reibung
+
+??[Aufgaben Mechanische Energien und Reibung](https://diversewolken.ddns.net/nextcloud/index.php/s/i5KTPn8kwebfkxX/preview)
+
+[Aufgaben Mechanische Energien und Reibung](https://diversewolken.ddns.net/nextcloud/index.php/s/i5KTPn8kwebfkxX)
+
+[Lösung MechEnergie Und Reibung](https://diversewolken.ddns.net/nextcloud/index.php/s/EoxcWHzsLKd9AEy)
 
 ## Eine neue Erhaltungsgröße
 
@@ -996,11 +1006,63 @@ Metzler S. 41, 1,3, 6
 
 ![Tafelbild_StossArten](https://diversewolken.ddns.net/nextcloud/index.php/s/GRmxkRPnqMe2qya/download)
 
+## 1.17 Kraftstoß und Impulsänderung
 
-## Aufgaben - Mechanische Energien und Reibung
+Um den Impuls eines Körpers zu ändern, gibt es verschiedene Möglichkeiten:
 
-??[Aufgaben Mechanische Energien und Reibung](https://diversewolken.ddns.net/nextcloud/index.php/s/i5KTPn8kwebfkxX/preview)
+| | | |
+| Änderung der Masse des Körpers | Änderung des Betrags der Geschwindigkeit | Änderung der Richtung der Geschwindigkeit |
 
-[Aufgaben Mechanische Energien und Reibung](https://diversewolken.ddns.net/nextcloud/index.php/s/i5KTPn8kwebfkxX)
+> Der Kraftstoß kennzeichnet die Wirkung einer Kraft über eine bestimmte Zeit auf einen Körper. 
+> Dies resultiert in einer Änderung des Impulses:
+>
+> $$ \boxed{\Delta p = F \cdot \Delta t}$$
+>
+> mit:
+>
+> $\hspace{1cm}$ $\Delta p$ ... Impulsänderung
+>
+> $\hspace{1cm}$ $F$ ... wirkende Kraft
+>
+> $\hspace{1cm}$ $\Delta t$ ... Zeitdauer der Wirkung (Zeitspanne)
+>
+> Einheit: $[ N \cdot s ]$
 
-[Lösung MechEnergie Und Reibung](https://diversewolken.ddns.net/nextcloud/index.php/s/EoxcWHzsLKd9AEy)
+{{1}}
+************
+_Hinweis: Der griechische Buchstabe Delta $\Delta$ kennzeichnet in der Physik die ***Änderung*** einer physikalischen Größe._
+
+_Hier ist $\Delta p$ die Impulsänderung während der Zeitspanne $\Delta t$._
+************
+
+## Beispiel Impulsänderung - LEIFI Physik
+
+siehe [Kraftstoß bei LEIF-Physik](https://www.leifiphysik.de/mechanik/impulserhaltung-und-stoesse/grundwissen/kraftstoss)
+
+## Übungsaufgaben - Impuls und Impulserhaltung
+
+Duden S. 170, Aufgaben 74, 77, 79
+
+<details>
+
+<summary>Lösung 74</summary>
+
+![Lsg_Duden170_74](https://diversewolken.ddns.net/nextcloud/index.php/s/YY6XkGAzmqXkNKP/download)
+
+</details>
+
+<details>
+
+<summary>Lösung 77</summary>
+
+![Lsg_Duden170_77](https://diversewolken.ddns.net/nextcloud/index.php/s/so8Ya4d9aKkk7Lj/download)
+
+</details>
+
+<details>
+
+<summary>Lösung 79</summary>
+
+![Lsg_Duden170_79](https://diversewolken.ddns.net/nextcloud/index.php/s/tWfBagZiqY3rn7Y/download)
+
+</details>
