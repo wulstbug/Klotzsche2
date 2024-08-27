@@ -736,19 +736,28 @@ Obwohl Ralf seinem Körper die Energie zugefügt hat (6600 J > 6000 J), hat Petr
 > Leistung ist definiert als die Energie, die pro Sekunde umgewandelt wird. Je kürzer die Zeit ist, desto größer wird die Leistung.
 **********
 
-## 1.7 Der Wirkungsgrad oder Die Effizienz von Energiewandlern
+## 1.7 Der Wirkungsgrad oder "Die Effizienz von Energiewandlern"
 
+{{0-5}}
+**********
 > Häufig kann man bei einem Energiewandler nur eine Form der umgewandelten Energie nutzen. Die anderen Energieformen gehen verloren, man sagt, sie sind __entwertet__.
+**********
 
+{{5}}
+***********
 > Der Wirkungsgrad $\eta$
 >
-> $$ \eta = \dfrac{E_{nutz}}{E_{zu}} $$
+> $$ \eta = \boxed{\dfrac{E_{nutz}}{E_{zu}}} $$
 >
 > mit
 >
 > $\hspace{1cm}$ $E_{nutz}$ .. genutzte Energie 
 >
 > $\hspace{1cm}$ $E_{zu}$ .. zugeführte Energie
+
+>> Der Wirkungsgrad $\eta$ gibt an, wie effizient ein Energiewandler die zugeführte Energie in die genutzte Energie umwandelt.
+***********
+
 
 {1-2}{[LED-Binogi](https://app.binogi.de/l/leuchtdioden)}
 
@@ -813,11 +822,14 @@ __LED__
 *************
 
 
-{{5}}
+{{6}}
 ************
-Aufgabe: Bestimme den Wirkungsgrad von Glühlampe und LED.
+__Aufgabe:__ Bestimme den Wirkungsgrad von Glühlampe und LED.
 ************
 
+
+{{7}}
+************
 <p class="newspaper">
 
 __Glühlampe__
@@ -834,16 +846,20 @@ ges.: <br>
 
 $\hspace{0.5cm}$ $\eta$
 
+{{8}}
+**************
 Lsg.:
 
-$\hspace{0.5cm}$ $\eta = \dfrac{E_{nutz}}{E_{zu}} = \dfrac{E_{Licht}}{E_el}$
+$\hspace{0.5cm}$ $\eta = \dfrac{E_{nutz}}{E_{zu}} = \dfrac{E_{Licht}}{E_{el}}$
 
 $\hspace{0.5cm}$ $\eta = \dfrac{5 J}{100 J} = 0,05 = 5\%$ 
-
+**************
 <p class="cb">
 
 __LED__
 
+{{9}}
+*************
 geg.: <br>
  
 $\hspace{0.5cm}$ $E_{el}$ = 100 J
@@ -857,13 +873,33 @@ ges.: <br>
 $\hspace{0.5cm}$ $\eta$
 
 Lsg.:
+************
 
-$\hspace{0.5cm}$ $\eta = \dfrac{E_{nutz}}{E_{zu}} = \dfrac{E_{Licht}}{E_el}$
+{{10}}
+*************
+$\hspace{0.5cm}$ $\eta = \dfrac{E_{nutz}}{E_{zu}} = \dfrac{E_{Licht}}{E_{el}}$
 
 $\hspace{0.5cm}$ $\eta = \dfrac{40 J}{100 J} = 0,4 = 40\% $ 
-
+*************
 
 
 </p>
 
 </p>
+
+************
+
+{{11}}
+*************
+> __Merke:__ Die LED wandelt den elektrischen Strom viel effizienter in Licht um als die Glühlampe, denn sie hat einen höheren Wirkungsgrad (40% > 5%)
+*************
+
+{{12}}
+*************
+__Frage:__ Beschreibe was geschehen würde, wenn ein Energiewandler einen Wirkungsgrad größer als 100% hätte.
+*************
+
+{{13}}
+*************
+__Antwort:__ Dieser Energiewandler würde Energie erzeugen. Wir nennen das _Perpetuum Mobile_. Ein solches Gerät kann aufgrund der Energieerhaltung nicht existieren.
+*************
