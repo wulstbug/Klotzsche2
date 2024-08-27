@@ -740,6 +740,16 @@ Obwohl Ralf seinem Körper die Energie zugefügt hat (6600 J > 6000 J), hat Petr
 
 > Häufig kann man bei einem Energiewandler nur eine Form der umgewandelten Energie nutzen. Die anderen Energieformen gehen verloren, man sagt, sie sind __entwertet__.
 
+> Der Wirkungsgrad $\eta$
+>
+> $$ \eta = \dfrac{E_{nutz}}{E_{zu}} $$
+>
+> mit
+>
+> $\hspace{1cm}$ $E_{nutz}$ .. genutzte Energie 
+>
+> $\hspace{1cm}$ $E_{zu}$ .. zugeführte Energie
+
 {1-2}{[LED-Binogi](https://app.binogi.de/l/leuchtdioden)}
 
 {{2}}
@@ -758,14 +768,15 @@ __Glühlampe__
 *********
 ``` ascii
             '----------'
-           ^| Lichten. |
-'--------'/ |----------|
-| el. En.|  |  5 J     |
-|--------|  '----------'
+            | Lichten. |
+           ^|----------|
+'--------'/ |  5 J     |
+| el. En.|  '----------'
+|--------|  
 |  100 J |
 '--------'\ '----------'
            v| Wärmeen. |
-            '----------'
+            |----------|
             |  95 J    |
             '----------'
 ```
@@ -787,7 +798,7 @@ __LED__
 |  100 J |
 '--------'\ '----------'
            v| Wärmeen. |
-            '----------'
+            |----------|
             |  60 J    |
             '----------'
 ```
@@ -802,3 +813,57 @@ __LED__
 *************
 
 
+{{5}}
+************
+Aufgabe: Bestimme den Wirkungsgrad von Glühlampe und LED.
+************
+
+<p class="newspaper">
+
+__Glühlampe__
+
+geg.: <br>
+ 
+$\hspace{0.5cm}$ $E_{el}$ = 100 J
+
+$\hspace{0.5cm}$ $E_{Licht}$ = 5 J
+
+$\hspace{0.5cm}$ $E_{therm}$ = 95 J
+
+ges.: <br>
+
+$\hspace{0.5cm}$ $\eta$
+
+Lsg.:
+
+$\hspace{0.5cm}$ $\eta = \dfrac{E_{nutz}}{E_{zu}} = \dfrac{E_{Licht}}{E_el}$
+
+$\hspace{0.5cm}$ $\eta = \dfrac{5 J}{100 J} = 0,05 = 5\%$ 
+
+<p class="cb">
+
+__LED__
+
+geg.: <br>
+ 
+$\hspace{0.5cm}$ $E_{el}$ = 100 J
+
+$\hspace{0.5cm}$ $E_{Licht}$ = 40 J
+
+$\hspace{0.5cm}$ $E_{therm}$ = 60 J
+
+ges.: <br>
+
+$\hspace{0.5cm}$ $\eta$
+
+Lsg.:
+
+$\hspace{0.5cm}$ $\eta = \dfrac{E_{nutz}}{E_{zu}} = \dfrac{E_{Licht}}{E_el}$
+
+$\hspace{0.5cm}$ $\eta = \dfrac{40 J}{100 J} = 0,4 = 40\% $ 
+
+
+
+</p>
+
+</p>
