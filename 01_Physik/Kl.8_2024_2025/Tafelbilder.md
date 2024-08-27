@@ -729,10 +729,76 @@ Obwohl Ralf seinem Körper die Energie zugefügt hat (6600 J > 6000 J), hat Petr
 **********
 
 
-4. Erkläre den Unterschied zwischen Energie und Leistung. (2P)
+4. Erkläre den Unterschied zwischen Energie und Leistung. Formuliere eine je-desto-Aussage. (2P)
 
 {{10}}
 **********
-> Leistung ist definiert als die Energie, die pro Sekunde umgewandelt wird. Ist die Zeit sehr klein, so ist die Leistung groß.
+> Leistung ist definiert als die Energie, die pro Sekunde umgewandelt wird. Je kürzer die Zeit ist, desto größer wird die Leistung.
 **********
+
+## 1.7 Der Wirkungsgrad oder Die Effizienz von Energiewandlern
+
+> Häufig kann man bei einem Energiewandler nur eine Form der umgewandelten Energie nutzen. Die anderen Energieformen gehen verloren, man sagt, sie sind __entwertet__.
+
+{1-2}{[LED-Binogi](https://app.binogi.de/l/leuchtdioden)}
+
+{{2}}
+*************
+__Beispiel: Glühlampe und LED__
+
+Eine Glühlampe wandelt einen großen Teil der elektrischen Energie in Wärme und einen kleinen Teil in Licht um. Eine LED ist __effizienter__, sie wandelt mehr Energie in Licht um.
+
+Energieumwandlungen:
+
+<p class="newspaper">
+
+__Glühlampe__
+
+{{3}}
+*********
+``` ascii
+            '----------'
+           ^| Lichten. |
+'--------'/ |----------|
+| el. En.|  |  5 J     |
+|--------|  '----------'
+|  100 J |
+'--------'\ '----------'
+           v| Wärmeen. |
+            '----------'
+            |  95 J    |
+            '----------'
+```
+*********
+
+<p class="cb">
+
+__LED__
+
+{{4}}
+*********
+
+``` ascii
+            '----------'
+           ^| Lichten. |
+'--------'/ |----------|
+| el. En.|  |  40 J    |
+|--------|  '----------'
+|  100 J |
+'--------'\ '----------'
+           v| Wärmeen. |
+            '----------'
+            |  60 J    |
+            '----------'
+```
+
+*********
+
+</p>
+
+</p>
+
+
+*************
+
 
