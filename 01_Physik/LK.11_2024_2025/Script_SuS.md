@@ -1063,6 +1063,8 @@ Duden S. 170, Aufgaben 74, 77, 79
 
 ![Lsg_Duden170_77](https://diversewolken.ddns.net/nextcloud/index.php/s/so8Ya4d9aKkk7Lj/download)
 
+![Lsg_Duden170_77c](https://diversewolken.ddns.net/nextcloud/index.php/s/AZ4zndkY2Y3a6yL/download)
+
 </details>
 
 <details>
