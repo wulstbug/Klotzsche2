@@ -1010,9 +1010,14 @@ Metzler S. 41, 1,3, 6
 
 Um den Impuls eines Körpers zu ändern, gibt es verschiedene Möglichkeiten:
 
+{{1}}
+**************
 | | | |
 | Änderung der Masse des Körpers | Änderung des Betrags der Geschwindigkeit | Änderung der Richtung der Geschwindigkeit |
+**************
 
+{{2}}
+**************
 > Der Kraftstoß kennzeichnet die Wirkung einer Kraft über eine bestimmte Zeit auf einen Körper. 
 > Dies resultiert in einer Änderung des Impulses:
 >
@@ -1027,8 +1032,10 @@ Um den Impuls eines Körpers zu ändern, gibt es verschiedene Möglichkeiten:
 > $\hspace{1cm}$ $\Delta t$ ... Zeitdauer der Wirkung (Zeitspanne)
 >
 > Einheit: $[ N \cdot s ]$
+**************
 
-{{1}}
+
+{{3}}
 ************
 _Hinweis: Der griechische Buchstabe Delta $\Delta$ kennzeichnet in der Physik die ***Änderung*** einer physikalischen Größe._
 

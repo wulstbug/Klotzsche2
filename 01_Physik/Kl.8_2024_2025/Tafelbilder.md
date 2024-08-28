@@ -601,7 +601,7 @@ _Löse die Aufgaben:_
 >> Die Leistung ist eine zeitabhängige Größe. Die potentielle Energie hängt nicht von Zeit ab.
 **********
 
-## 1.6 Übungsaufgaben zum Thema Energie und Leistung
+## 1.6.1 Übungsaufgaben zum Thema Energie und Leistung
 
 _Löse die Aufgaben:_
 
@@ -620,7 +620,6 @@ Ralf hat eine Masse von 55 kg. In seinem Schulhaus (GYKL) rennt er vom untersten
 
 > $$ \boxed{E_{pot} = m \cdot g \cdot h}$$
 ***************
-
 
 2. Berechne diese potentielle Energie jeweils. (3P)
 
@@ -735,6 +734,15 @@ Obwohl Ralf seinem Körper die Energie zugefügt hat (6600 J > 6000 J), hat Petr
 **********
 > Leistung ist definiert als die Energie, die pro Sekunde umgewandelt wird. Je kürzer die Zeit ist, desto größer wird die Leistung.
 **********
+
+## 1.6.2 Übungsaufgabe zu Energie und Leistung
+
+| | | |
+| E | P | t |
+| 200 J | {1}{5W} | 40 s |
+| {2}{12.000 J} | 100 W | 2 min |
+| 3 kJ | 30 W | {3}{100 s} | 
+
 
 ## 1.7 Der Wirkungsgrad oder "Die Effizienz von Energiewandlern"
 
@@ -902,4 +910,9 @@ __Frage:__ Beschreibe was geschehen würde, wenn ein Energiewandler einen Wirkun
 {{13}}
 *************
 __Antwort:__ Dieser Energiewandler würde Energie erzeugen. Wir nennen das _Perpetuum Mobile_. Ein solches Gerät kann aufgrund der Energieerhaltung nicht existieren.
+*************
+
+{{14}}
+*************
+!?[Perpetuum Mobile](https://www.youtube.com/watch?v=MvetXbU4Sj8)
 *************
