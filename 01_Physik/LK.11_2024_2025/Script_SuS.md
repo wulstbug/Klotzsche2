@@ -1004,3 +1004,71 @@ Metzler S. 41, 1,3, 6
 [Aufgaben Mechanische Energien und Reibung](https://diversewolken.ddns.net/nextcloud/index.php/s/i5KTPn8kwebfkxX)
 
 [Lösung MechEnergie Und Reibung](https://diversewolken.ddns.net/nextcloud/index.php/s/EoxcWHzsLKd9AEy)
+
+## 1.17 Kraftstoß und Impulsänderung
+
+Um den Impuls eines Körpers zu ändern, gibt es verschiedene Möglichkeiten:
+
+{{1}}
+**************
+| | | |
+| Änderung der Masse des Körpers | Änderung des Betrags der Geschwindigkeit | Änderung der Richtung der Geschwindigkeit |
+**************
+
+{{2}}
+**************
+> Der Kraftstoß kennzeichnet die Wirkung einer Kraft über eine bestimmte Zeit auf einen Körper. 
+> Dies resultiert in einer Änderung des Impulses:
+>
+> $$ \boxed{\Delta p = F \cdot \Delta t}$$
+>
+> mit:
+>
+> $\hspace{1cm}$ $\Delta p$ ... Impulsänderung
+>
+> $\hspace{1cm}$ $F$ ... wirkende Kraft
+>
+> $\hspace{1cm}$ $\Delta t$ ... Zeitdauer der Wirkung (Zeitspanne)
+>
+> Einheit: $[ N \cdot s ]$
+**************
+
+
+{{3}}
+************
+_Hinweis: Der griechische Buchstabe Delta $\Delta$ kennzeichnet in der Physik die ***Änderung*** einer physikalischen Größe._
+
+_Hier ist $\Delta p$ die Impulsänderung während der Zeitspanne $\Delta t$._
+************
+
+## Beispiel Impulsänderung - LEIFI Physik
+
+siehe [Kraftstoß bei LEIF-Physik](https://www.leifiphysik.de/mechanik/impulserhaltung-und-stoesse/grundwissen/kraftstoss)
+
+## Übungsaufgaben - Impuls und Impulserhaltung
+
+Duden S. 170, Aufgaben 74, 77, 79
+
+<details>
+
+<summary>Lösung 74</summary>
+
+![Lsg_Duden170_74](https://diversewolken.ddns.net/nextcloud/index.php/s/YY6XkGAzmqXkNKP/download)
+
+</details>
+
+<details>
+
+<summary>Lösung 77</summary>
+
+![Lsg_Duden170_77](https://diversewolken.ddns.net/nextcloud/index.php/s/so8Ya4d9aKkk7Lj/download)
+
+</details>
+
+<details>
+
+<summary>Lösung 79</summary>
+
+![Lsg_Duden170_79](https://diversewolken.ddns.net/nextcloud/index.php/s/tWfBagZiqY3rn7Y/download)
+
+</details>
