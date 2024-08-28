@@ -830,7 +830,7 @@ __Impulserhaltung:__
 ## Beispielaufgabe
 
 Ein Körper (1) der Masse $m_1=1\,kg$ bewegt sich mit einer 
-Geschwindigkeit von $v_1=1\,\frac{m}{s}$ und stößt inelastisch und zentral gegen einen Körper (2) mit einer Masse $m_2=2\,kg$. <br> Bestimme die Geschwindigkeiten beider Körper nach dem Stoß.
+Geschwindigkeit von $v_1=1\,\frac{m}{s}$ und stößt elastisch und zentral gegen einen Körper (2) mit einer Masse $m_2=2\,kg$. <br> Bestimme die Geschwindigkeiten beider Körper nach dem Stoß.
 
 {{1}}
 ***************
@@ -880,7 +880,7 @@ $\hspace{1cm}$ $p_{1} + p_{2} = p'_{1} + p'_{2} $
 
 {{7}}
 ***************
-$\hspace{1cm}$ $m_1 \cdot v_1 + m_2 \cdot v_2 = m_1 \cdot v'_1 + m_2 \cdot v_2 $
+$\hspace{1cm}$ $m_1 \cdot v_1 + m_2 \cdot v_2 = m_1 \cdot v'_1 + m_2 \cdot v'_2 $
 ***************
 
 {{8}}
@@ -956,7 +956,7 @@ $\hspace{1cm}$ (II) $\hspace{0.5cm}$ $\checkmark$
 ## Beispielaufgabe 2
 
 Ein Körper (1) der Masse $m_1=1\,kg$ bewegt sich mit einer 
-Geschwindigkeit von $v_1=2\,\frac{m}{s}$ und stößt inelastisch und zentral gegen einen Körper (2) mit einer Masse $m_2=3\,kg$. <br> Bestimme die Geschwindigkeiten beider Körper nach dem Stoß mit Hilfe des CAS.
+Geschwindigkeit von $v_1=2\,\frac{m}{s}$ und stößt elastisch und zentral gegen einen Körper (2) mit einer Masse $m_2=3\,kg$. <br> Bestimme die Geschwindigkeiten beider Körper nach dem Stoß mit Hilfe des CAS.
 
 {{1}}
 ************
