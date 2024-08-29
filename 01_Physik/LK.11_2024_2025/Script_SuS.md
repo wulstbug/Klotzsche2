@@ -40,40 +40,6 @@ window.LIA.settings.font_size = 2
 
 # LB 1 - Erhaltungssätze und ihre Anwendungen
 
-## 1.1 - Wiederholung Energieformen
-
-__Energie__
-
-{{1}}
-*****************
-> Defition: Energie beschreibt die Fähigkeit eines Körpers:
-*****************
-{{2}}
-*****************
->- mechanische Arbeit zu verrichten (z.B. Beschleunigen, Verformen)
->- Licht auszusenden
->- Wärme abzugeben
-*****************
-
-{4}{__Energieformen__}
-
-{{5}}
-*****************
->__Mechanische Energieformen:__
->
->- __Kinetische Energie (Bewegungsenergie)__
->- __Potentielle Energie (Lageenergie)__
->- Rotationsenergie (Drehungen)
->- Spannenergie
-
->- __Thermische Energie (Wärmeenergie)__
->- __Elektrische Energie__
->- Magnetische Energie
->- Strahlungsenergie (Lichtenergie)
->- Chemische Energie
->- Kernenergie (Atomenergie)
-*****************
-
 ## Übung: Zuordnung Energieformen
 
 Übungs 1: _Zuordnung Energieformen_
@@ -83,69 +49,7 @@ __Energie__
 Übung 2: _Zuordnung Energieformen_
 <iframe src="https://learningapps.org/watch?app=28854190" style="border:0px;width:100%;height:500px" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"></iframe>
 
-## 1.2 Erhaltungsgrößen
-
-{{1}}
-************
-> Ist eine physikalische Größe eine __Erhaltungsgröße__, so {2}{ändert sich der Wert dieser physikalischen Größe nicht. <br> <br> In einem __abgeschlossenen System__ ändern sich Erhaltungsgrößen nicht.}
-
-__Beispiele für Erhaltungsgrößen (in einem abgeschlossenen System):__
-************
-
-{{2}}
-************
-- __Gesamtenergie__
-- __elektrische Ladung__
-- __Impuls__ (bzw. Drehimpuls)
-************
-
-
-## 1.3 Energieerhaltungssatz
-
-{{1}}
-************
-> In einem geschlossenen System ist __Gesamtenergie__ eine Erhaltungsgröße, d.h. die Summe aller Energien ist konstant.
-************
-
-{{2}}
-************
-> __Schlussfolgerung:__ Energie kann weder erzeugt noch vernichtet werden, sondern nur von einer Form in eine andere umgewandelt werden.
-************
-
-## 1.4 Beispiel - Schräger Wurf
-
-Schräger Wurf einer Kugel, welche durch eine gespannte Feder beschleunigt wird.
-
-{{1}}
-*************
-__Versuchsskizze:__
-
-![Tafelbild_SchrägerWurf](https://diversewolken.ddns.net/nextcloud/index.php/s/jGeEEkxHXj9m8RC/download)
-*************
-
 ## 1.5 Berechnung der kinetischen Energie
-
-{{1}}
-************
-__Defintion:__ Kinetische Energie ist die in der Bewegung eines Körpers gespeicherte Energie. Sie hängt von der Geschwindigkeit $v$ des Körpers und seiner Masse $m$ ab.
-************
-
-{{2}}
-***************
-> __Formel:__ $$E_{kin} = \dfrac{1}{2} \cdot m \cdot v^2$$
->
->  v .. Geschwindigkeit in $\Big[ \dfrac{m}{s} \Big]$ 
->
->  m .. Masse in $\Big[ kg \Big]$
-
-***************
-
-{{3}}
-***************
-> __Einheit: 1 J [Joule]__
->
-> _Hinweis: Rechne die Geschwindigkeit immer in **$\frac{m}{s}$** und die Masse immer in **kg** um, dann erhälst du als Ergebnis die Einheit Joule_
-***************
 
 {{4}}
 ***************
@@ -198,27 +102,6 @@ __Defintion:__ Kinetische Energie ist die in der Bewegung eines Körpers gespeic
 
 ## 1.6 Berechnung der potentiellen Energie
 
-{{1}}
-************
-__Defintion:__ Potentielle Energie eines Körpers ist die in seiner der Lage (d.h. Höhe) über einem Bezugspunkt (z.B. Erdboden) gespeicherte Energie. Sie hängt von der Höhe h und der Masse m des Körpers ab.
-************
-
-{{2}}
-***************
-> __Formel:__ $$E_{pot} = m \cdot g \cdot h. $$
->
->  $m$ .. Masse in $[kg]$
->
-> $h$ .. Höhe in $[m]$
->
-> $g$ .. Ortsfaktor: $g = 9,81 \frac{m}{s^2}$ (Konstante)
-
-***************
-
-{{3}}
-***************
-> __Einheit: 1 J [Joule]__
-***************
 
 {{4}}
 ***************
@@ -261,26 +144,6 @@ __Defintion:__ Potentielle Energie eines Körpers ist die in seiner der Lage (d.
 ***************
 
 ## 1.7 Berechnung der Spannenergie
-
-{{1}}
-************
-__Defintion:__ Spannenergie ($E_{sp}$) ist die in einer gespannten mechanischen Feder gespeicherte Energie. Sie hängt von der Federkonstante $D$ der Feder und dem Spannweg $s$ ab.
-************
-
-{{2}}
-***************
-> __Formel:__ $$E_{sp} = \dfrac{1}{2} \cdot D \cdot s^2$$
->
->  D .. Federkonstante in $\Big[ \dfrac{N}{m} \Big]$ 
->
->  s .. Spannweg gegenüber Ruhelage in $\Big[ m \Big]$
-
-***************
-
-{{3}}
-***************
-> __Einheit: 1 J [Joule]__
-***************
 
 {{4}}
 ***************
@@ -360,35 +223,6 @@ __Defintion:__ Spannenergie ($E_{sp}$) ist die in einer gespannten mechanischen 
 >
 > $\hspace{1cm}$  $E_{sp} = 0,225\,J \approx 225\,mJ $
 ***************
-
-## 1.8 Analyse des schrägen Wurfs (siehe 1.4)
-
-__Energierelationen:__
-
-![Tafelbild_SchrägerWurf_Energie](https://diversewolken.ddns.net/nextcloud/index.php/s/EXzBa85WQYZQCeD/download)
-
-__Messwerte aus Experiment:__
-
-![SchrägerWurf_Messwerte_1](https://diversewolken.ddns.net/nextcloud/index.php/s/pkj48Zo77dGA36G/download)
-
-__Berechnungen aus Messwerten:__
-
-Die Spannenergie $E_{sp1}$ entspricht der potentiellen Energie $E_{pot}$ beim senkrechten Schuss und maximaler Höhe $h_{max}$.
-
-$$E_{sp1} = E_{pot} = m \cdot g \cdot h = 0,017kg \cdot 9,81\frac{N}{kg} \cdot 0,41m \approx 0,068 J $$
-
-Die Federkonstante $D$ erhält man durch umstellen der Gleichung für $E_{sp1}=\frac{1}{2}\cdot D \cdot s^2$ als
-
-$$ D = \dfrac{2\cdot E_{sp1}}{s^2} = \dfrac{2\cdot 0,068 J}{0,04^2 m^2} = 85 \frac{N}{m}$$
-
-Setzt man Energieerhaltung voraus und vernachlässigt Energieverluste durch Reibung so entspricht die kinetische Energie im Punkt 4 genau $E_{sp1}$
-
-$$ E_{kin4} = E_{sp1} = 0,068 J.$$
-
-Die Geschwindigkeit der Kugel im Punkt 4 erhält man durch umstellen der Gleichung für $E_{kin4} = \frac{1}{2} \cdot m \cdot v^2$.
-
-$$ v_4 = \sqrt{\dfrac{2\cdot E_{kin4}}{m}} = \sqrt{\dfrac{2\cdot 0,068 J}{0,017 kg}} \approx 2,84 \frac{m}{s}$$
-
 
 ## Aufgabe Bungeespringerin
 
@@ -524,206 +358,13 @@ __Weitere Aufgaben:__ Metzler LB S. 67 Aufgabe 2, 3, 11*
 > Maximal Höhe über dem Boden beträgt $45m-(25m+18,51m)=1,49m$
 ***************
 
-
-
-
-
-## 1.10 Mechanische Arbeit
-
-{{1}}
-*******
-> __Definition:__ Mechanische Arbeit wird verrichtet, wenn ein Körper durch eine Kraft bewegt oder verformt wird.<br>
->
-> _Anders ausgedrückt: Arbeit ist die mit Kraft über eine Systemgrenze übertragene Energie_
-*******
-
-<p class="newspaper">
-{{2}}
-*******
-> Formelzeichen: $W$
->
-> Formeln:
->
-> $\hspace{1cm}$ $ W = \Delta E $ (_Arbeit ist Energieänderung_)
->
-> $\hspace{1cm}$ $ W = F \cdot s \cdot \cos\alpha$
->
-> $F$ .. wirkende Kraft in $[N]$
->
-> $s$ .. zurückgelegter Weg in $[m]$
->
-> $\alpha$ .. Winkel zwischen Kraft $F$ und Weg $s$
-*******
-
-<p class="cb">
-
-{{2}}
-*******
-![Arbeit_Skizze](https://diversewolken.ddns.net/nextcloud/index.php/s/K9JzW2EaRmayMQN/download)
-*******
-</p>
-
-</p>
-
-{{3}}
-*******
->_Hinweis 1: Im Gegensatz zur Energie (Zustandsgröße) ist die Arbeit eine Prozessgröße._
->
-> _Hinweis 2: Wenn die Kraft parallel zum zurückgelegten Weg wirkt, gilt_
->
-> $\hspace{1cm}$ $ W = F \cdot s$
->
-> _denn für  $\alpha=0$ ist $\cos\alpha=1$_
-*******
-
-{{4}}
-*******
-__Spezielle mechanische Arbeiten:__
-
-$\hspace{1cm}$ __Hubarbeit $W_H$:__ Ein Kran hebt einen Körper nach oben. 
-$$ W_H = \Delta E_{pot}$$
-*******
-
-{{5}}
-*******
-$\hspace{1cm}$ __Beschleunigungsarbeit $W_B$:__ Ein Auto wird vom Motor auf gerader Strecke beschleunigt 
-$$W_B = \Delta E_{kin}$$
-*******
-
-## 1.11 Hubarbeit $W_H$ und potentielle Energie $E_{pot}$
-
-<p class="newspaper">
-
-{0-1}{![HubArbeit_Skizze](https://diversewolken.ddns.net/nextcloud/index.php/s/f7KCX6MpoLz4P5w/download)}
-
-{1}{![HubArbeit_Skizze](https://diversewolken.ddns.net/nextcloud/index.php/s/PXmtZ73HgaM2PQx/download)}
-
-<p class="cb">
-
-Ein Körper der Masse $m$ wird die Höhe $h$ senkrecht nach oben angehoben. 
-<br>
-Berechne die Hubarbeit <br>
-$ W_H = \Delta E_{pot} $
-<br>
-<br>
-{1}{Die aufzuwindende Kraft $F$ ist die Gewichtskraft}
-{1}{$ F_g = m \cdot g. $} 
-{1}{Diese Kraft wirkt parallel zur Höhe $h$.}
-<br>
-<br>
-{2}{Die Hubarbeit $W_H$ und somit der Zugewinn an potentieller Energie lässt sich berechnen mit}
-<br>
-{2}{$W_H = F_g \cdot h$}
-<br>
-{2}{$W_H = m \cdot g \cdot h = \Delta E_{pot}$}
-<br>
-<br>
-{3}{Anders ausgedrückt: Am Körper wird die Hubarbeit $W_H$ verrichtet und er gewinnt die potentielle Energie $m \cdot g \cdot h$ dazu.}
-
-</p>
-
-</p>
-
-## 1.12 Beschleunigungsarbeit $W_B$ und kinetische Energie $E_{kin}$
-
-Es gilt:
-
-> $$ W_B = \Delta E_{kin} $$
-
-_Untersuche für die gleichmäßige Beschleunigung eines Körpers der Masse $m$ entlang der Wegstrecke $s$ mit der beschleuinigenden Kraft $F$ den durch Beschleunigungsarbeit $W_B$ verrichteten Zugewinn an kinetischer Energie $\Delta E_{kin}$._
-
-![BeschlArbeit_Skizze](https://diversewolken.ddns.net/nextcloud/index.php/s/TESsTwEAHB9xHew/download)
-
-{{1}}
-*********
-_Nutze dafür:_
-
-> 2. Newton'sche Axiom
->
-> $$ F = m \cdot a $$
-
-_sowie die Gleichungen für die gleichmäßig beschleunigte Bewegung_
-
-> $$s = \frac{1}{2} \cdot a \cdot t^2$$
-> 
-> $$v = a \cdot t $$
-*********
-
-{{2}}
-****************
-__Lösung:__
-
-Beschleunigungsarbeit $W_B$ ist definiert als
-
-$$ W_H = F \cdot s $$
-
-Wir nutzen für die Beschreibung der Kraft F das zweite Newton'sche Axiom
-
-$$ F = m \cdot a $$
-
-und setzen bei $W_B$ ein
-
-$$  W_B = F \cdot s = m \cdot a \cdot s$$.
-
-Mit der Formel für die gleichmäßig beschleunigte Bewegung für den zurückgelegten Weg s gilt
-
-$$s = \frac{1}{2} \cdot a \cdot t^2$$
-
-kann man für $W_B$ notieren
-
-$$W_B = m \cdot a \cdot s =  m \cdot a \cdot \frac{1}{2} \cdot a \cdot t^2 $$
-
-und zusammengefasst
-
-$$ W_B = \frac{1}{2} \cdot m \cdot a^2 \cdot t^2. $$
-
-Nutzt man nun noch $ a = \frac{v}{t}$ so ergibt sich
-
-$$ W_B = \frac{1}{2} \cdot m \cdot a^2 \cdot t^2 = \frac{1}{2} \cdot m \cdot \frac{v^2}{t^2} \cdot t^2 $$
-
-und es bleibt
-
-$$ W_B = \frac{1}{2} \cdot m \cdot v^2 $$
-
-Die mechanische Beschleunigungsarbeit und somit auch die Änderung der kinetischen Energie lässt sich ausdrücken mittels
-
-$$ W_B = \Delta E_{kin} = \frac{1}{2} \cdot m \cdot v^2 $$
-****************
-
-
-## 1.13 Grafische Interpretitation der mechanischen Arbeit
-
-> In einem Kraft-Weg-Diagram ($F-s-Diagramm$) entspricht die mechanische Arbeit der Fläche unter dem $F-s-Graphen$.
-
-__Beispiele:__
-
-| 1 | 2 | 3 | 4 |
-| ![Konstante-Kraft](https://www.leifiphysik.de/sites/default/files/2019/10/image/Arbeit_einfach_0.svg) | {1}{![ZUsammengesetzte-Kräfte](https://www.leifiphysik.de/sites/default/files/2019/10/image/Arbeit_doppelt_0.svg)} | {2}{![LinearerKraftanstieg-Kräfte](https://www.leifiphysik.de/sites/default/files/2019/10/image/Arbeit_Feder_0.svg)} | {3}{![Nicht_Konstante-Kraft2](https://diversewolken.ddns.net/nextcloud/index.php/s/PW5ZfpqBGGFcWJx/download)} |
-
-
-{{4}}
-**************
-_Hinweis 1: Lässt sich die Fläche unter dem Graphen geometrisch bestimmen (z.B. Dreieck), so kann die mechanische Arbeit darüber berechnet werden._
-
-_Hinweis 2: In allgemeinen Fällen (siehe Beispiel 5) kann die Fläche in kleine Abschnitte ("Streifen") unterteilt werden, deren Fläche dann addiert wird._
-
-**************
-
 ## Beispiel: Bogenschießen
 
 _Arbeitsauftrag: Bearbeite die Aufgabe a) zum Bogenspannen bei Leifi-Physik. Die Lösungen sind ebenfalls gegeben._
 
 [Leifi-Aufgabe-Bogenschießen-Bitte-Anklicken](https://www.leifiphysik.de/mechanik/energieerhaltung-und-umwandlung/aufgabe/spannarbeit-beim-bogenschiessen)
 
-## 1.14 Herleitung Federspannarbeit -> Spannenergie
-
-> $$ W_{sp} = \Delta E_{sp} $$
-
-| Kraft $F$ | $F-s-Diagramm$ |
-| {1}{![FederSpannarbeit](https://diversewolken.ddns.net/nextcloud/index.php/s/Q5nf7D3WYQCxNSW/download)} | {2}{![F-s-Diagramm](https://diversewolken.ddns.net/nextcloud/index.php/s/ijzAksKEza8XDKP/download)} |
-| {1}{Annahme: Hook'sche Gesetz <br> => Kraft ~ Dehnung}| {3}{$W_{sp} = \frac{1}{2} \cdot F_{max} \cdot s $} <br> <br> {4}{$W_{sp} = \frac{1}{2} \cdot D \cdot s \cdot s $} <br> <br> {5}{$W_{sp} = \frac{1}{2} \cdot D \cdot s^2 = \Delta E_{sp} $}|
-
-## Übungsaufgaben
+## Übungsaufgaben - Energieformen und Energieerhaltung
 
 Duden S. 169: Aufgaben 58, 60, 62 (a,b, c*)
 
@@ -788,46 +429,7 @@ Metzler S. 67, 8
 ??[ImpulsPHET](https://phet.colorado.edu/sims/html/collision-lab/latest/collision-lab_all.html?locale=de)
 
 
-{{1}}
-************
-__Problem:__ Energieerhaltung
-
-![Impuls_Problem_Energieerhaltung](https://diversewolken.ddns.net/nextcloud/index.php/s/nRgSSi4AeppbBob/download)
-
-************
-
-
-## 1.15 Erhaltungsgröße Impuls
-
-> Der __Impuls__ $p$ eines Körpers beschreibt umgangssprachlich dessen _Wucht_ oder auch den _Schwung_. 
->
-> Der Impuls ist __definiert__ als das Produkt aus Masse und Geschwindigkeit.
-
-{{1}}
-**********
-> Formel:
->
-> $$ \boxed{p = m \cdot v}$$
->
-> Einheit:
->
-> $$ \Big[\dfrac{kg \cdot m}{s} \Big] $$
->
-> $\hspace{1cm} m$ .. Masse des Körpers in [$kg$]
->
-> $\hspace{1cm} v$ .. Geschwindigkeit des Körpers in [$\frac{m}{s}$]
-**********
-
-{{2}}
-**********
-__Impulserhaltung:__
-
-> In einem abgeschlossenen System ist der Impuls eine Erhaltungsgröße. <br> D.h. die Summe aller Einzelimpulse ist zu allen Zeiten konstant.
->
-> $$ p_1 + p_2 + .. + p_N = \text{const}$$
-**********
-
-## Beispielaufgabe
+## Beispielaufgabe - Impulserhaltung
 
 Ein Körper (1) der Masse $m_1=1\,kg$ bewegt sich mit einer 
 Geschwindigkeit von $v_1=1\,\frac{m}{s}$ und stößt elastisch und zentral gegen einen Körper (2) mit einer Masse $m_2=2\,kg$. <br> Bestimme die Geschwindigkeiten beider Körper nach dem Stoß.
@@ -993,10 +595,6 @@ Metzler S. 41, 1,3, 6
 
 </details>
 
-## 1.16 Arten von Stößen
-
-![Tafelbild_StossArten](https://diversewolken.ddns.net/nextcloud/index.php/s/GRmxkRPnqMe2qya/download)
-
 ## Aufgaben - Mechanische Energien und Reibung
 
 ??[Aufgaben Mechanische Energien und Reibung](https://diversewolken.ddns.net/nextcloud/index.php/s/i5KTPn8kwebfkxX/preview)
@@ -1004,42 +602,6 @@ Metzler S. 41, 1,3, 6
 [Aufgaben Mechanische Energien und Reibung](https://diversewolken.ddns.net/nextcloud/index.php/s/i5KTPn8kwebfkxX)
 
 [Lösung MechEnergie Und Reibung](https://diversewolken.ddns.net/nextcloud/index.php/s/EoxcWHzsLKd9AEy)
-
-## 1.17 Kraftstoß und Impulsänderung
-
-Um den Impuls eines Körpers zu ändern, gibt es verschiedene Möglichkeiten:
-
-{{1}}
-**************
-| | | |
-| Änderung der Masse des Körpers | Änderung des Betrags der Geschwindigkeit | Änderung der Richtung der Geschwindigkeit |
-**************
-
-{{2}}
-**************
-> Der Kraftstoß kennzeichnet die Wirkung einer Kraft über eine bestimmte Zeit auf einen Körper. 
-> Dies resultiert in einer Änderung des Impulses:
->
-> $$ \boxed{\Delta p = F \cdot \Delta t}$$
->
-> mit:
->
-> $\hspace{1cm}$ $\Delta p$ ... Impulsänderung
->
-> $\hspace{1cm}$ $F$ ... wirkende Kraft
->
-> $\hspace{1cm}$ $\Delta t$ ... Zeitdauer der Wirkung (Zeitspanne)
->
-> Einheit: $[ N \cdot s ]$
-**************
-
-
-{{3}}
-************
-_Hinweis: Der griechische Buchstabe Delta $\Delta$ kennzeichnet in der Physik die ***Änderung*** einer physikalischen Größe._
-
-_Hier ist $\Delta p$ die Impulsänderung während der Zeitspanne $\Delta t$._
-************
 
 ## Beispiel Impulsänderung - LEIFI Physik
 

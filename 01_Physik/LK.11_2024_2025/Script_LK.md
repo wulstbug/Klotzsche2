@@ -1077,9 +1077,9 @@ Duden S. 170, Aufgaben 74, 77, 79
 
 </details>
 
-## 2 Kräfte
+# LB2 Kräfte
 
-### 2.1 Defintion Kraft
+## 2.1 Defintion Kraft
 
 Kräfte erkennt man an ihrer Wirkung. Die Wirkung von Kräften kann sein:
 
@@ -1092,7 +1092,7 @@ Kräfte erkennt man an ihrer Wirkung. Die Wirkung von Kräften kann sein:
 3. Beides gleichzeitig.
 **************************
 
-### 2.2 Newtonsche Gesetze
+## 2.2 Newtonsche Gesetze
 
 <H3>Newton'sche Gesetze</H3>
 
@@ -1133,7 +1133,7 @@ $\hspace{1cm}$ __Beispiel:__ ![Gegenkraft](https://av.ph.nat.tum.de/Experiment/1
 
 ********
 
-### 2.3 Darstellung von Kräften
+## 2.3 Darstellung von Kräften
 
 > Die Kraft ist eine __vektorielle physikalische Größe__, d.h. sie hat einen Wert (Betrag __und eine Richtung__).
 
@@ -1143,7 +1143,7 @@ __Beispiel:__ Gewichtskraft $F_g$ mit Gegenkraft der Unterlage $F_U$ (3. Newton'
 
 ![GewichtskraftGegenkraft](https://diversewolken.ddns.net/nextcloud/index.php/s/WDBCJmyZ7Q4jkrK/download)
 
-### 2.4 Superposition von Kräften
+## 2.4 Superposition von Kräften
 
 > Unter der Superposition von Kräften versteht man das gleichzeitige Wirken mehrerer Kräfte. Durch Addition der Kraftpfeile kann die resultierende __Gesamtkraft $F_{ges}$__ ermittelt werden.
 
@@ -1179,7 +1179,7 @@ __Beispiel 3:__ Kräfteaddition allgmein
 __=> Gesamtkraft $F_{ges}$ kann mit Richtung und Wert geometrisch bestimmt werden.__
 **********
 
-### Aufgaben zum Thema Kräfte
+## Aufgaben zum Thema Kräfte
 
 ![Aufgabe1](https://diversewolken.ddns.net/nextcloud/index.php/s/eEqaeWXtm6GDc9i/download)
 
@@ -1193,7 +1193,7 @@ __=> Gesamtkraft $F_{ges}$ kann mit Richtung und Wert geometrisch bestimmt werde
 
 
 
-### 2.5 Kraftzerlegung an der schiefen Ebene
+## 2.5 Kraftzerlegung an der schiefen Ebene
 
 > __Hinweis Kräfte-Zerlegung__: Eine Gesamtkraft kann man gedanklich in Teilkräfte zerlegen, deren Addition wieder die Gesamtkraft ergibt. <br> Im Beispiel der schiefen Ebene zerlegt man die Gewichtskraft ($F_g$) in eine Teilkraft senkrecht zur Ebene ($F_N$) und eine Teilkraft parallel zur Ebene ($F_H$)
 
