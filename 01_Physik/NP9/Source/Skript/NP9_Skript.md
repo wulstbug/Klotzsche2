@@ -225,7 +225,7 @@ _Hinweis: Wenn du alleine arbeiten musst, kannst du die erste Zeile entschlüsse
 </details>
 
 
-## Probetest bei Moodle
+# Probetest bei Moodle
 
 1. Bitte logge dich zur Probe bei Moodle ein. Dort wird auch der Test stattfinden.
 
