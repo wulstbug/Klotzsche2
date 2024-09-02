@@ -204,3 +204,40 @@ Wähle einen Text und einen Schlüssel. <br> {1}{z.B. Text: __HEXEN__ <br> Schl�
 Verschlüsselter Text: __IGAFP__
 *************
 
+## 4. Gruppenaufgaben Vignere-Verschlüsselung
+
+Für die folgende Aufgabe soll ein verschlüsselter Text mit unbekanntem Passwort entschlüsselt werden.
+
+Glücklicher Weise sind zwei Textschnipsel bekannt (siehe Abschnitt 17 und Abschnitt 24).
+
+Aufgabe: Entschlüssele folgenden Merksatz, indem du zunächst das Passwort ermittelst (mit Hilfe der bekannten Textschnipsel) und entschlüssele im Anschluss den Text.
+
+![VerschlüsselterText](https://diversewolken.ddns.net/nextcloud/index.php/s/GbgEQtPJXEetbXb/download)
+
+_Hinweis: Wenn du alleine arbeiten musst, kannst du die erste Zeile entschlüsseln und dann die Lösung nutzen (es ist ja als Gruppenarbeit gedacht)_
+
+<details>
+
+<summary> Lösung zur Kontrolle: </summary>
+
+![Loesung_Verschlüsselung](https://diversewolken.ddns.net/nextcloud/index.php/s/TxRDsgK7kzYGxJg/download)
+
+</details>
+
+
+## Probetest bei Moodle
+
+1. Bitte logge dich zur Probe bei Moodle ein. Dort wird auch der Test stattfinden.
+
+2. Du findest einen Probe-Test. Bitte probiere ihn aus.
+
+[MoodleKurs](https://diversewolken.ddns.net/moodle/course/view.php?id=39)
+
+> Hinweis: 
+>
+> Dein Login: **nachname.vorname@gykl.lernsax.de**
+>
+> Solltest du dein Passwort vergessen haben, kannst du dir unter _Passwort vergessen_ eine E-Mail an deinen Lernsax-Account schicken lassen, in welcher du dein Passwort setzen kannst.
+
+
+
