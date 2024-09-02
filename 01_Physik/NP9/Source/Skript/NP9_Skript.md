@@ -231,7 +231,7 @@ _Hinweis: Wenn du alleine arbeiten musst, kannst du die erste Zeile entschlüsse
 
 2. Du findest einen Probe-Test. Bitte probiere ihn aus.
 
-[MoodleKurs](https://diversewolken.ddns.net/moodle/course/view.php?id=39)
+$\hspace{1cm}$[==> MoodleKurs](https://diversewolken.ddns.net/moodle/course/view.php?id=39)
 
 > Hinweis: 
 >
