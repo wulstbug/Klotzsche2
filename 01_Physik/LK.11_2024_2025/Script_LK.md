@@ -16,6 +16,32 @@ language: de
     }
 }
 
+.kasten {
+    background-color:rgba(162,67,8,0.8);    
+    color:#FFFFFF;
+    padding: 1em;
+    margin: 1em 0em 1em 0em;
+    border-radius:10px;    
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 400;
+
+.kasten0 {
+    background-color:#399193;
+    border-radius:10px;
+    color:#FFFFFF;
+    padding: 1em;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight:400;
+}
+.kasten1 {
+    background-color:#A24308;
+    border-radius:10px;
+    color:#FFFFFF;
+    padding: 1em;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight:400;
+}
+
 h1, h2, h3, h4, h5, h6 {
   column-span: all;
 }
@@ -24,6 +50,16 @@ h1, h2, h3, h4, h5, h6 {
     break-before: column;
 }
 @end
+
+
+figurecaption {
+    font-size: 0.8em;
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: italic;
+    font-weight: 600;
+}
+
+
 
 @onload
 window.LIA.settings.font_size = 2
@@ -1201,7 +1237,7 @@ __=> Gesamtkraft $F_{ges}$ kann mit Richtung und Wert geometrisch bestimmt werde
 
 ![Aufgabe_Schiefe_Ebene](https://diversewolken.ddns.net/nextcloud/index.php/s/D8zbKHyyT7xJPBz/download) An einer schiefen Ebene mit dem Neigungswinkel $\alpha$ lässt sich die Gewichtskraft $F_g$ in eine Normalkraft $F_N$ (senkrecht zur Ebene) und eine Hangabtriebskraft $F_H$ (parallel zur Ebene) zerlegen.
 
-_Aufgabe 2: Zeichne diese Kraftzerlegung in deinen Hefter. Konstruiere anschließend folgendes Beispiel: Auf einer schiefen Ebene (30°) ruht ein Körper mit der Gewichtkraft 3000 N._ 
+_Aufgabe 2.5: Zeichne diese Kraftzerlegung in deinen Hefter. Konstruiere anschließend folgendes Beispiel: Auf einer schiefen Ebene (30°) ruht ein Körper mit der Gewichtkraft 3000 N._ 
 
 1. _Bestimme grafisch oder durch Berechnung die Normalkraft $F_N$_ und die Hangabtriebskraft $F_H$.
 
@@ -1264,3 +1300,56 @@ Bei einem Winkel größer als 21.8° beginnt der Körper zu rutschen.
 
 </details>
 
+<br>
+
+__LB Metzker S. 49 A 3__
+
+<details>
+
+<summary>Lösung Metzler 47/3</summary>
+
+Gewichtskraft $F_g = m \cdot g = 589 N$
+
+Hangabtriebskraft $F_H = m \cdot g \cdot \sin\alpha = 294 N$
+
+Normalkraft $F_N = m \cdot g \cdot \cos\alpha = 510 N$ 
+
+Der Normalkraft hält eine Gegenkraft der Unterlage $F_U = F_N$ entgegen. Der Hangabtriebskraft $F_H$ wirkt die in der Aufgabe genannte Haltekraft $F' = F_H$ entgegen.
+
+</details>
+
+<br>
+
+__Aufgabe 2.5.5 Konstruiere das Beispiel der Metzler-Aufgabe (47/3) mit dem Unterschied, dass die haltende Kraft $F'$ horizontal wirkt. Ermittle den Wert dieser haltenden Kraft $F'$ so, dass der Körper ruht. __
+
+<details>
+
+<summary>Lösung 2.5.5</summary>
+
+![Lsg_2.5.5](https://diversewolken.ddns.net/nextcloud/index.php/s/R35smRB9m8FdADi/download)
+
+</details>
+
+## 2.6 Reibungsarbeit
+
+> $W_R = F_R \cdot s$
+
+
+> mit:
+>
+> $\hspace{0.5cm}$ $W_R$ .. Reibungsarbeit in $[N]$
+>
+> $\hspace{0.5cm}$ $F_R$ .. Reibungskraft in $[N]$
+>
+> $\hspace{0.5cm}$ $s$ .. zurückgelegter Weg in $[m]$
+
+{{1}}
+*************
+
+<div class="kasten">
+
+>> Die durch Reibungsarbeit umgwandelte Energie wird in vielen Fällen in Innere Energie umgewandelt (z.B. Wärme).Man sagt sie wird dadurch _entwertet_ (d.h. schlecht nutzbar).
+
+</div>
+
+*************
