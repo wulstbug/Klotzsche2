@@ -16,32 +16,6 @@ language: de
     }
 }
 
-.kasten {
-    background-color:rgba(162,67,8,0.8);    
-    color:#FFFFFF;
-    padding: 1em;
-    margin: 1em 0em 1em 0em;
-    border-radius:10px;    
-    font-family: Arial, Helvetica, sans-serif;
-    font-weight: 400;
-
-.kasten0 {
-    background-color:#399193;
-    border-radius:10px;
-    color:#FFFFFF;
-    padding: 1em;
-    font-family: Arial, Helvetica, sans-serif;
-    font-weight:400;
-}
-.kasten1 {
-    background-color:#A24308;
-    border-radius:10px;
-    color:#FFFFFF;
-    padding: 1em;
-    font-family: Arial, Helvetica, sans-serif;
-    font-weight:400;
-}
-
 h1, h2, h3, h4, h5, h6 {
   column-span: all;
 }
@@ -50,16 +24,6 @@ h1, h2, h3, h4, h5, h6 {
     break-before: column;
 }
 @end
-
-
-figurecaption {
-    font-size: 0.8em;
-    font-family: Arial, Helvetica, sans-serif;
-    font-style: italic;
-    font-weight: 600;
-}
-
-
 
 @onload
 window.LIA.settings.font_size = 2
@@ -1113,9 +1077,21 @@ Duden S. 170, Aufgaben 74, 77, 79
 
 </details>
 
-# LB2 Kräfte
+# LB2
 
-## 2.1 Defintion Kraft
+<p class="newspaper">
+
+![KräfteDreieck](https://diversewolken.ddns.net/nextcloud/index.php/s/B9e6ZLDf9EGF3Nc/download)
+
+<p class="cb">
+
+![Brückenarten](https://diversewolken.ddns.net/nextcloud/index.php/s/E8XLkanmHRE2c6Y/download)
+
+</p>
+
+</p>
+
+## 2.1 Beschreibung Kraft
 
 Kräfte erkennt man an ihrer Wirkung. Die Wirkung von Kräften kann sein:
 
@@ -1127,6 +1103,29 @@ Kräfte erkennt man an ihrer Wirkung. Die Wirkung von Kräften kann sein:
 
 3. Beides gleichzeitig.
 **************************
+
+{{2}}
+**************************
+__Darstellung:__
+
+Kräfte werden grafisch als Pfeile dargestellt. Dabei beschreibt 
+
+1. die __Länge__ des Pfeils den Wert (Betrag, z.B. 3N)
+
+2. der __Ansatzpunkt__ des Pfeils den Wirkort
+
+3. die __Richtung__ des Pfeils die Wirkrichtung
+
+der Kraft
+
+Beispiel: 
+
+**************************
+
+Formelzeichen: $\vec{F}$
+
+![HorizontaleEbene](https://diversewolken.ddns.net/nextcloud/index.php/s/gtxDSYYLcJPSFQW/download)
+
 
 ## 2.2 Newtonsche Gesetze
 
@@ -1169,7 +1168,205 @@ $\hspace{1cm}$ __Beispiel:__ ![Gegenkraft](https://av.ph.nat.tum.de/Experiment/1
 
 ********
 
-## 2.3 Darstellung von Kräften
+## 2.3 Einführung in das Thema Reibung
+
+### 2.3.1 Definition Reibung
+
+Reibung ist eine Kraft, die der Bewegung zweier Oberflächen entgegenwirkt, die miteinander in Kontakt stehen. Sie tritt auf, wenn zwei Oberflächen aneinander __haften, gleiten oder rollen__.
+
+Reibung kann im Alltag nützlich oder hinderlich sein.
+
+{{1}}
+*****
+__Es gibt drei Hauptarten der Reibung (von zwei Körpern):__
+
+1. **Haftreibung** ($F_{Haft}$)
+2. **Gleitreibung** ($F_{Gleit}$)
+3. **Rollreibung** ($F_{Roll}$)
+
+<br>
+
+4. [ **Luftreibung** ($F_{Luft}$) ]
+*****
+
+{{2}}
+*****
+| | | | |
+| ![Reibung1](https://diversewolken.ddns.net/nextcloud/index.php/s/Mck6oNwSa46L2Qx/download) | ![Reibung2](https://diversewolken.ddns.net/nextcloud/index.php/s/asZf57L4XxwawnT/download) | ![Reibung3](https://diversewolken.ddns.net/nextcloud/index.php/s/SG9GxsxxpbT6m8Z/download) | ![Reibung4](https://diversewolken.ddns.net/nextcloud/index.php/s/5kJ3R7npPtCGb5p/download) |
+| {3}{$F_{Gleit}$} | {4}{$F_{Roll}$} | {5}{$F_{Gleit}$} | {6}{$F_{Haft}$} |
+
+{6}{_Aufgabe: Zuordnung von Reibungsarten_}
+*****
+
+{{7}}
+*********
+---
+
+__Haftreibung__
+
+Haftreibung tritt auf, wenn zwei Oberflächen aufeinander haften, ohne sich zu bewegen. Diese Art der Reibung muss überwunden werden, um ein Objekt in Bewegung zu setzen.
+
+- **Beispiel**: Ein Buch liegt auf einem Tisch. Es bleibt in Ruhe, bis eine ausreichend große Kraft aufgebracht wird, um es in Bewegung zu versetzen.
+*********
+
+
+{{8}}
+*******
+---
+
+
+__Gleitreibung__
+
+Gleitreibung tritt auf, wenn zwei Oberflächen aneinander entlang gleiten. Diese Art der Reibung wirkt der Bewegung entgegen und ist in der Regel geringer als die Haftreibung.
+
+- **Beispiel**: Ein Schlitten gleitet über Schnee. Die Reibungskraft, die der Bewegung entgegenwirkt, ist die Gleitreibung.
+
+*******
+
+
+
+{{9}}
+********
+---
+
+__Rollreibung__
+
+Rollreibung tritt auf, wenn ein Objekt über eine Oberfläche rollt. Sie ist in der Regel geringer als die Gleitreibung, da der Kontaktpunkt sich ständig ändert.
+
+- **Beispiel**: Ein Rad rollt über eine Straße. Die Reibungskraft, die der Rollbewegung entgegenwirkt, ist die Rollreibung.
+
+********
+
+
+
+### Übung: Zuordnung von Reibungsarten
+
+__Erwünschte und unerwünschte Reibung:__
+<iframe src="https://learningapps.org/watch?app=21913985" style="border:0px;width:100%;height:500px" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"></iframe>
+
+__Erkenne Reibungsarten:__
+<iframe src="https://learningapps.org/watch?app=374843" style="border:0px;width:100%;height:500px" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"></iframe>
+
+
+### Video: Reibung
+
+??[MussteWissenReibung](https://www.zdf.de/funk/musstewissen-1066/funk-reibung---physik-musstewissen-100.html)
+
+Quelle: ZDF.de
+
+### 2.3.2 Die Reibungszahl $\mu$ - Berechnung der Reibungskraft
+
+Die Reibungszahl, auch Reibungskoeffizient genannt, ist eine dimensionslose Größe, die angibt, wie stark die Reibung zwischen zwei Oberflächen ist. Sie hängt von den Materialien der Oberflächen und ihrer Beschaffenheit ab.
+
+{{1}}
+********
+
+Auf einer horizontalen Unterlage (waagerecht), gilt für die Berechnung der Reibung:
+
+<p class="newspaper">
+
+$$
+\boxed{F_R = \mu \cdot F_g}
+$$
+
+<p class="cb">
+
+![Horizontal](https://physikunterricht-online.de/wp-content/uploads/2022/03/Reibung.png)
+
+</p>
+
+</p>
+
+_Aufgabe 2.3.5_
+
+----
+
+********
+
+{{2}}
+********
+Auf einer schiefen Ebene (Neigungswinkel $\alpha$) gilt für die Reibung:
+
+<p class="newspaper">
+
+$$
+\boxed{F_R = \mu \cdot F_N = \mu \cdot F_g \cdot cos\alpha}
+$$
+
+<p class="cb">
+
+![HSchiefeEbene](https://technikermathe.de/wp-content/uploads/2020/03/tk-statik-schiefe-ebene-2-768x432.jpg)
+
+_Aufgabe 2.6_
+
+</p>
+
+</p>
+
+---
+
+********
+
+
+{{3}}
+********
+Dabei ist:
+
+- $F_R$ die Reibungskraft,
+- $F_g$ Gewichtskraft (_Hinweis: $\boxed{F_g = m \cdot g}$_ )
+- $F_N$ die Normalkraft, Kraft die senkrecht auf die Kontaktfläche wirkt 
+********
+
+{{4}}
+********
+- $\mu$ der Reibungskoeffizient (Haft-, Gleit- oder Rollreibung)
+
+  - **Haftreibungskoeffizient** ($\mu_{Haft}$)
+
+  - **Gleitreibungskoeffizient** ($\mu_{Gleit}$)
+
+  - **Rollreibungskoeffizient** ($\mu_{Roll}$)
+
+********
+
+---
+
+{{4}}
+********
+>> __Merke:__ Bei identischen Oberflächen ist der Rollreibungskoeffizient  ($\mu_{Roll}$) deutlich am kleinsten. 
+>>
+>> Haftreibungskoeffizient($\mu_{Haft}$) ist immer größer, als Gleitreibungskoeffizient ($\mu_{Gleit}$)
+>>
+>> $$\mu_{Roll} \ll \mu_{Gleit} < \mu_{Haft}$$
+>>
+>> _Hinweis: $\ll$ bedeutet "sehr viel kleiner als"_
+
+_Aufgabe: siehe 2.3.4_
+
+********
+
+### 2.3.3 Zusammenfassung
+
+Reibung ist eine fundamentale Kraft in der Physik, die der Bewegung zwischen zwei Oberflächen entgegenwirkt. Sie kann in Haft-, Gleit- und Rollreibung unterteilt werden. Die Berechnung der Reibungskraft erfolgt durch die Multiplikation des Reibungskoeffizienten mit der Normalkraft.
+
+### 2.3.4 Qualitative Übung zur Reibung (ohne Berechnungen)
+
+Diskutiere mit einem Partner. Stellt euch Wechselseitig die Fragen und überprüft die Antworten.
+
+__Empfehlung: Aufgaben 113-117__
+
+??[PittysPhysik](https://physikaufgaben.de/aufgaben_zeige_an.php?thid=1&tab=6&auswahl_t1=13&auswahl_n1=4)
+
+### 2.3.5 Quantitative Übung zur Reibung (mit Berechnungen)
+
+_Quantitative Aufgaben zur Reibung auf horizontalen Ebene. Bitte anklicken und allein oder in Gruppenarbeit berechnen und Lösung vergleichen._
+
+[Leifi-Physik-Aufgabe-Reibung-1](https://www.leifiphysik.de/mechanik/reibung-und-fortbewegung/aufgabe/wohnanhaenger)
+
+[Leifi-Physik-Aufgabe-Reibung-2](https://www.leifiphysik.de/mechanik/reibung-und-fortbewegung/aufgabe/die-verrueckte-kiste)
+
+
+## 2.4 Darstellung von Kräften
 
 > Die Kraft ist eine __vektorielle physikalische Größe__, d.h. sie hat einen Wert (Betrag __und eine Richtung__).
 
@@ -1179,7 +1376,7 @@ __Beispiel:__ Gewichtskraft $F_g$ mit Gegenkraft der Unterlage $F_U$ (3. Newton'
 
 ![GewichtskraftGegenkraft](https://diversewolken.ddns.net/nextcloud/index.php/s/WDBCJmyZ7Q4jkrK/download)
 
-## 2.4 Superposition von Kräften
+## 2.5 Superposition von Kräften
 
 > Unter der Superposition von Kräften versteht man das gleichzeitige Wirken mehrerer Kräfte. Durch Addition der Kraftpfeile kann die resultierende __Gesamtkraft $F_{ges}$__ ermittelt werden.
 
@@ -1208,14 +1405,14 @@ __=> Gesamtkraft $F_{ges}$ kann geometrisch emittelt werden durch Addition der P
 
 {{4}}
 **********
-__Beispiel 3:__ Kräfteaddition allgmein
+__Beispiel 3:__ Kräfteaddition allgemein
 
 {4-5}{![Kräfte_Allg_1](https://diversewolken.ddns.net/nextcloud/index.php/s/9f2c7SWt66wH2R7/download)}{5}{![Kräfte_Allg_2](https://diversewolken.ddns.net/nextcloud/index.php/s/ZwdPTzyYjoj2jaL/download)} _Wirken zwei Kräfte in beliebigen Richtungen auf denselben Körper, so addiere die Kraftpfeile durch $\textbf{Parallelverschieben}$ des Ursprungs eines Pfeils in die Spitze des anderen Pfeils. Die Gesamtkraft entsprich der Diagonale des entstandenen Parallelogramms._
 
 __=> Gesamtkraft $F_{ges}$ kann mit Richtung und Wert geometrisch bestimmt werden.__
 **********
 
-## Aufgaben zum Thema Kräfte
+### 2.5.1 Aufgaben zum Thema Kräfte
 
 ![Aufgabe1](https://diversewolken.ddns.net/nextcloud/index.php/s/eEqaeWXtm6GDc9i/download)
 
@@ -1229,23 +1426,23 @@ __=> Gesamtkraft $F_{ges}$ kann mit Richtung und Wert geometrisch bestimmt werde
 
 
 
-## 2.5 Kraftzerlegung an der schiefen Ebene
+## 2.6 Kraftzerlegung an der schiefen Ebene
 
 > __Hinweis Kräfte-Zerlegung__: Eine Gesamtkraft kann man gedanklich in Teilkräfte zerlegen, deren Addition wieder die Gesamtkraft ergibt. <br> Im Beispiel der schiefen Ebene zerlegt man die Gewichtskraft ($F_g$) in eine Teilkraft senkrecht zur Ebene ($F_N$) und eine Teilkraft parallel zur Ebene ($F_H$)
 
 <br>
 
-![Aufgabe_Schiefe_Ebene](https://diversewolken.ddns.net/nextcloud/index.php/s/D8zbKHyyT7xJPBz/download) An einer schiefen Ebene mit dem Neigungswinkel $\alpha$ lässt sich die Gewichtskraft $F_g$ in eine Normalkraft $F_N$ (senkrecht zur Ebene) und eine Hangabtriebskraft $F_H$ (parallel zur Ebene) zerlegen.
+![Aufgabe_Schiefe_Ebene](https://diversewolken.ddns.net/nextcloud/index.php/s/fSJdL6YnB7RMQ4s/download) An einer schiefen Ebene mit dem Neigungswinkel $\alpha$ lässt sich die Gewichtskraft $F_g$ in eine Normalkraft $F_N$ (senkrecht zur Ebene) und eine Hangabtriebskraft $F_H$ (parallel zur Ebene) zerlegen.
 
-_Aufgabe 2.5: Zeichne diese Kraftzerlegung in deinen Hefter. Konstruiere anschließend folgendes Beispiel: Auf einer schiefen Ebene (30°) ruht ein Körper mit der Gewichtkraft 3000 N._ 
+_Aufgabe 2.6: Zeichne diese Kraftzerlegung in deinen Hefter. Konstruiere anschließend folgendes Beispiel: Auf einer schiefen Ebene (30°) ruht ein Körper mit der Gewichtkraft 3000 N._ 
 
-1. _Bestimme grafisch oder durch Berechnung die Normalkraft $F_N$_ und die Hangabtriebskraft $F_H$.
+1. _Ermittle grafisch oder durch Berechnung die Normalkraft $F_N$_ und die Hangabtriebskraft $F_H$.
 
-2. _Die Unterlage und Körper haben eine Haftreibungszahl $\mu_{Haft} = 0,4$ (s. 1.8.2). Bestimme die Haftreibungskraft auf der Unterlage._
+2. _Die Unterlage und Körper haben eine Haftreibungszahl $\mu_{Haft} = 0,4$ (s. 2.3.2). Ermittle die Haftreibungskraft auf der Unterlage._
 
 3. _Ist die Hangabtriebskraft größer als die Reibungskraft, so beginnt der Körper zu rutschen. Überprüfe, ob sich der Körper bewegt._
 
-4. _*Der Neigungswinkel $\alpha$ wird nun so verändert, sodass der Körper gerade noch ruht. Bestimme diesen Grenzwinkel $\alpha_G$, bei welchem der Körper gerade noch nicht zu rutschen beginnt._
+4. _Der Neigungswinkel $\alpha$ wird nun so verändert, sodass der Körper gerade noch ruht. Bestimme diesen Grenzwinkel $\alpha_G$, bei welchem der Körper gerade noch nicht zu rutschen beginnt._
 
 <details>
 
@@ -1302,7 +1499,7 @@ Bei einem Winkel größer als 21.8° beginnt der Körper zu rutschen.
 
 <br>
 
-__LB Metzker S. 49 A 3__
+$ \hspace{0.5cm} $__LB Metzker S. 49 A 3__
 
 <details>
 
@@ -1320,13 +1517,15 @@ Der Normalkraft hält eine Gegenkraft der Unterlage $F_U = F_N$ entgegen. Der Ha
 
 <br>
 
-__Aufgabe 2.5.5 Konstruiere das Beispiel der Metzler-Aufgabe (47/3) mit dem Unterschied, dass die haltende Kraft $F'$ horizontal wirkt. Ermittle den Wert dieser haltenden Kraft $F'$ so, dass der Körper ruht. __
+5. Konstruiere das Beispiel der Metzler-Aufgabe (47/3) mit dem Unterschied, dass die haltende Kraft $F'$ horizontal wirkt. Ermittle den Wert dieser haltenden Kraft $F'$ so, dass der Körper ruht.
 
 <details>
 
-<summary>Lösung 2.5.5</summary>
+<summary>Lösung 5</summary>
 
 ![Lsg_2.5.5](https://diversewolken.ddns.net/nextcloud/index.php/s/R35smRB9m8FdADi/download)
+
+Berechnung: $F' = F_g \cdot \cos\alpha \cdot \sin\alpha = 255 N$
 
 </details>
 
