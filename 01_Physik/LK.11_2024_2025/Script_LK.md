@@ -1091,6 +1091,11 @@ Duden S. 170, Aufgaben 74, 77, 79
 
 </p>
 
+{{1}}
+*******************
+![SkizzeKraefteMoti](https://diversewolken.ddns.net/nextcloud/index.php/s/8sE3RZpxws3YBo4/download)
+*******************
+
 ## 2.1 Beschreibung Kraft
 
 Kräfte erkennt man an ihrer Wirkung. Die Wirkung von Kräften kann sein:
