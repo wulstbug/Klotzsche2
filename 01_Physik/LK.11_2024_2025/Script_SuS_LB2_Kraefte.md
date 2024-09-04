@@ -497,3 +497,21 @@ Bei einem Winkel größer als 21.8° beginnt der Körper zu rutschen.
 
 </details>
 
+
+## 2.6 Reibungsarbeit
+
+> $W_R = F_R \cdot s$
+
+
+> mit:
+>
+> $\hspace{0.5cm}$ $W_R$ .. Reibungsarbeit in $[N]$
+>
+> $\hspace{0.5cm}$ $F_R$ .. Reibungskraft in $[N]$
+>
+> $\hspace{0.5cm}$ $s$ .. zurückgelegter Weg in $[m]$
+
+{{1}}
+*************
+>> Die durch Reibungsarbeit umgwandelte Energie wird in vielen Fällen in Innere Energie umgewandelt (z.B. Wärme).Man sagt sie wird dadurch _entwertet_ (d.h. schlecht nutzbar).
+*************
