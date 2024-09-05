@@ -1543,8 +1543,36 @@ Bei einem Winkel größer als 21.8° beginnt der Körper zu rutschen.
 
 </details>
 
+## 2.6 Einheitenbetrachtungen
 
-## 2.6 Reibungsarbeit
+Bisher haben wir in Formeln folgendes Vorgehen genutzt:
+
+- rechne alle Größen in Standard-Einheiten um, dann ergibt die Formel jeweils auch die Standard-Einheit
+
+__Jetzt: Einheitenbetrachtungen__
+
+Allgemein: Einheiten können innerhalb einer Formel oder auch dahinter in eckigen Klammern analysiert/diskutiert werden.
+
+__Beispiel:__
+
+> geg.: 
+>
+> $\hspace{1cm}$ $v = 100 \frac{km}{h}$
+>
+> $\hspace{1cm}$ $m = 1,5 t = 1500 kg$
+>
+> ges.: 
+>
+> $\hspace{1cm}$ $E_{kin}$
+
+> Lsg.: 
+>
+> $\hspace{1cm}$  $E_{kin} = \dfrac{1}{2} \cdot m \cdot v^2 $
+>
+> $\hspace{1cm}$  $E_{kin} = \dfrac{1}{2} \cdot 1500 \cdot (27,78 )^2 $ $ \Big[ \Big] $
+
+
+## 2.7 Reibungsarbeit
 
 > $W_R = F_R \cdot s$
 
