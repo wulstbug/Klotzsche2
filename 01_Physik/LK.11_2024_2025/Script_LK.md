@@ -1248,7 +1248,7 @@ Der Normalkraft hält eine Gegenkraft der Unterlage $F_U = F_N$ entgegen. Der Ha
 
 ![Lsg_2.3.2](https://diversewolken.ddns.net/nextcloud/index.php/s/R35smRB9m8FdADi/download)
 
-Berechnung: $F' = F_g \cdot \cos\alpha \cdot \sin\alpha = 255 N$
+Berechnung: $F' = F_g \cdot \tan\alpha = 340 N$
 
 </details>
 
