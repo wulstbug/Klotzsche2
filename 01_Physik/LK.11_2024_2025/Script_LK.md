@@ -1087,6 +1087,8 @@ Duden S. 170, Aufgaben 74, 77, 79
 
 ![Brückenarten](https://diversewolken.ddns.net/nextcloud/index.php/s/E8XLkanmHRE2c6Y/download)
 
+Quelle: [Mitterhofer](https://andreasmitterhofer.de/2018/12/01/brueckenarten/)
+
 </p>
 
 </p>
