@@ -286,106 +286,6 @@ _Quantitative Aufgaben zur Reibung auf horizontalen Ebene. Bitte anklicken und a
 
 ## 1.9 Kräfte
 
-### 1.9.1 Defintion Kraft
-
-Kräfte erkennt man an ihrer Wirkung. Die Wirkung von Kräften kann sein:
-
-{{1}}
-**************************
-1. Ein Körper ändert seine Bewegungsform (d.h. Geschwindigkeit oder Bewegungsrichtung).
-
-2. Ein Körper verformt sich.
-
-3. Beides gleichzeitig.
-**************************
-
-### 1.9.2 Newtonsche Gesetze
-
-<H3>Newton'sche Gesetze</H3>
-
-{{1}}
-**************
-1. Ein kräftefreier Körper bleibt in Ruhe oder bewegt sich geradlinig mit konstanter Geschwindigkeit. <br> 
-$\hspace{1cm}$ __Beispiel:__ {2}{![VoyagerSone](https://heise.cloudimg.io/width/1220/q70.png-lossy-70.webp-lossy-70.foil1/_www-heise-de_/imgs/18/3/5/4/6/9/3/7/Voyager-illustration-with-stars-16.jpg-e02f3b734d477d20.jpeg) Sonde ohne Antrieb im Weltall}
-**************
-
-<br>
-<br>
-
-{{3}}
-**************************
-2. Kraft gleich Masse mal Beschleunigung
-
->    $$ F = m \cdot a $$
-**************************
-
-{{4}}
-********
-$\hspace{1cm}$ __Beispiel:__ [Freier Fall](https://youtu.be/-Fhc51_JbcQ) 
- eines Körpers auf der Erde: $$\boxed{F_g = m \cdot g} $$ <br> 
-$\hspace{1cm}$mit Gewichtskraft $F_g$ und Erdbeschleunigung/Ortsfakor $g=9,81\frac{m}{s^2}$.
-********
-
-
-
-{{5}}
-**************************
-3. Kraft gleich Gegenkraft (Wechselwirkungsgesetz)
-
-> Eine Kraft von Körper A auf Körper B geht immer mit einer gleich großen, aber entgegen gerichteten Kraft von Körper B auf Körper A einher
-**************************
-{{6}}
-********
-$\hspace{1cm}$ __Beispiel:__ ![Gegenkraft](https://av.ph.nat.tum.de/Experiment/1000/Grafik/b1105.gif) 
-
-********
-
-### 1.9.3 Darstellung von Kräften
-
-> Die Kraft ist eine __vektorielle physikalische Größe__, d.h. sie hat einen Wert (Betrag __und eine Richtung__).
-
-_Darstellung: Kräfte (i.a. Vektorgrößen) werden mit Pfeilen dargestellt. Die Länge des Pfeils entspricht dem Wert. Die Richtung des Pfeils gibt die Wirkrichtung der Kraft an._
-
-__Beispiel:__ Gewichtskraft $F_g$ mit Gegenkraft der Unterlage $F_U$ (3. Newton'sches Gesetz)
-
-![GewichtskraftGegenkraft](https://diversewolken.ddns.net/nextcloud/index.php/s/WDBCJmyZ7Q4jkrK/download)
-
-### 1.9.4 Superposition von Kräften
-
-> Unter der Superposition von Kräften versteht man das gleichzeitige Wirken mehrerer Kräfte. Durch Addition der Kraftpfeile kann die resultierende __Gesamtkraft $F_{ges}$__ ermittelt werden.
-
-{{1}}
-**********
-__Beispiel 1:__  Ruhender Körper auf horizontaler Ebene(siehe 1.9.3)
-
-![GewichtskraftGegenkraft](https://diversewolken.ddns.net/nextcloud/index.php/s/WDBCJmyZ7Q4jkrK/download)
-_Gewichtskraft $F_g$ und Gegenkraft $F_U$ haben den gleichen Wert (3. Newton'sches Gesetz) wirken aber in entgegen gesetzte Richtung und heben sich gegenseitig auf._ 
-
-__=> Resultierende Kraft $F_{ges}$ ist Null, der Körper ruht (1. Newton'sches Gesetz)__
-**********
-
-<br>
-<br>
-
-{{2}}
-***********
-__Beispiel 2:__ Flugzeug mit Seitenwind
-
-{2-3}{![Kräfte_Senkrecht1](https://diversewolken.ddns.net/nextcloud/index.php/s/snYyLGyD4wKW7rF/download)} {3}{![Kräfte_Senkrecht2](https://diversewolken.ddns.net/nextcloud/index.php/s/6smmTrbPsk834Js/download)} Schubkraft $F_S$ und Windkraft $F_W$ wirken senkrecht zueinander.
-
-__=> Gesamtkraft $F_{ges}$ kann geometrisch emittelt werden durch Addition der Pfeile.__
-
-***********
-
-{{4}}
-**********
-__Beispiel 3:__ Kräfteaddition allgmein
-
-{4-5}{![Kräfte_Allg_1](https://diversewolken.ddns.net/nextcloud/index.php/s/9f2c7SWt66wH2R7/download)}{5}{![Kräfte_Allg_2](https://diversewolken.ddns.net/nextcloud/index.php/s/ZwdPTzyYjoj2jaL/download)} _Wirken zwei Kräfte in beliebigen Richtungen auf denselben Körper, so addiere die Kraftpfeile durch $\textbf{Parallelverschieben}$ des Ursprungs eines Pfeils in die Spitze des anderen Pfeils. Die Gesamtkraft entsprich der Diagonale des entstandenen Parallelogramms._
-
-__=> Gesamtkraft $F_{ges}$ kann mit Richtung und Wert geometrisch bestimmt werden.__
-**********
-
 ### Aufgaben zum Thema Kräfte
 
 ![Aufgabe1](https://diversewolken.ddns.net/nextcloud/index.php/s/eEqaeWXtm6GDc9i/download)
@@ -399,16 +299,9 @@ __=> Gesamtkraft $F_{ges}$ kann mit Richtung und Wert geometrisch bestimmt werde
 </details>
 
 
-
 ### 1.9.5 Kraftzerlegung an der schiefen Ebene
 
-> __Hinweis Kräfte-Zerlegung__: Eine Gesamtkraft kann man gedanklich in Teilkräfte zerlegen, deren Addition wieder die Gesamtkraft ergibt. <br> Im Beispiel der schiefen Ebene zerlegt man die Gewichtskraft ($F_g$) in eine Teilkraft senkrecht zur Ebene ($F_N$) und eine Teilkraft parallel zur Ebene ($F_H$)
-
-<br>
-
-![Aufgabe_Schiefe_Ebene](https://diversewolken.ddns.net/nextcloud/index.php/s/D8zbKHyyT7xJPBz/download) An einer schiefen Ebene mit dem Neigungswinkel $\alpha$ lässt sich die Gewichtskraft $F_g$ in eine Normalkraft $F_N$ (senkrecht zur Ebene) und eine Hangabtriebskraft $F_H$ (parallel zur Ebene) zerlegen.
-
-_Aufgabe 2: Zeichne diese Kraftzerlegung in deinen Hefter. Konstruiere anschließend folgendes Beispiel: Auf einer schiefen Ebene (30°) ruht ein Körper mit der Gewichtkraft 3000 N._ 
+_Aufgabe 2:  Auf einer schiefen Ebene (30°) ruht ein Körper mit der Gewichtkraft 3000 N. Zeichne diese Kraftzerlegung in deinen Hefter._
 
 1. _Bestimme grafisch oder durch Berechnung die Normalkraft $F_N$_ und die Hangabtriebskraft $F_H$.
 
@@ -470,3 +363,86 @@ $$ \underline{\alpha_G = 21,8^\circ}$$
 Bei einem Winkel größer als 21.8° beginnt der Körper zu rutschen.
 
 </details>
+
+## Übungsaufgaben Lernbereich _Mechanische Grundlagen_
+
+_Hinweis: Das Skript enthält bereits einige Übungsaufgaben inklusive der zugehörigen Lösungen._
+
+### 1. Kräfte, Reibung, schiefe Ebene
+
+1. Auf einer schiefen Ebene mit dem Neigungswinkel 30° ruht ein quaderförmiger Körper der Masse 60kg. Das Problem wird zunächst reibungsfrei betrachtet.
+
+1. 1. Konstruiere die Ebene und den Körper. Wähle einen geeigneten Maßstab und zeichne Gewichtskraft, Hangabtriebskraft und Normalkraft maßstabsgetreu ein. Ermittle aus deiner Konstruktion durch Abmessen der Kraftpfeile die Werte der eingezeichneten Kräfte.
+
+
+
+1. 2. Berechne die in 1.1. gezeichneten Kräfte.
+
+1. 3. Wir betrachten den Körper nun inklusive der Reibung. Der Körper soll durch die Reibung auf der Ebene ruhen. 
+1. 3. 1. Gib an, zeichne in deine Skizze die Reibungskraft als Kraftpfeil ein. Nenne die Art der Reibungskraft. Ermittle den Wert dieser Reibungskraft.
+
+1. 3. 2. Berechne, wie groß der Haftreibungskoeffizient (die Haftreibungszahl) $\mu_{Haft}$ mindestens sein muss, damit der Körper tatsächlich nicht rutscht.
+
+<details>
+
+<summary> Lösung 1.1.</summary>
+
+ ![Lsg_1.1](https://diversewolken.ddns.net/nextcloud/index.php/s/RNx7S2jKePn29dp/download)
+
+</details>
+
+<details>
+
+<summary> Lösung 1.2.</summary>
+
+Gewichtskraft $F_g = m \cdot g = 589 N$
+
+Hangabtriebskraft $F_H = m \cdot g \cdot \sin\alpha = 294 N$
+
+Normalkraft $F_N = m \cdot g \cdot \cos\alpha = 510 N$ 
+
+</details>
+
+<details>
+
+<summary> Lösung 1.3.1.</summary>
+
+ ![Lsg_1.3.1](https://diversewolken.ddns.net/nextcloud/index.php/s/65gXp2kGPNgAYTF/download)
+
+- Die Reibungskraft muss der Hangabtriebskraft (Bewegungsrichtung) entgegen gerichtet wirken.
+
+- Da der Körper ruht, handelt es sich bei der Reibungskraft um die __Haftreibungskraft__.
+
+- Damit der Körper ruht, müssen Haftreibungskraft und Hangabtriebskraft gleich groß sein (1. Newtonsches Gesetz)
+
+- $F_R = F_H = 290 N$
+
+</details>
+
+<details>
+
+<summary> Lösung 1.3.2.</summary>
+
+Für die Reibungskraft an der geneigten Ebene gilt die Formel (siehe 1.8.2) 
+
+$\hspace{1cm}$ $F_{Haft} = \mu_{Haft} \cdot F_g \cdot cos\alpha$
+
+Diese Gleichung muss nun nach $\mu_{Haft}$ umgestellt oder mit dem CAS gelöst werden.
+
+$\hspace{1cm}$ $\mu_{Haft} = \dfrac{F_{Haft}}{F_g \cdot \cos \alpha} = \dfrac{290 N}{589 N \cdot \cos(30^\circ)} \approx 0,58$
+
+Die Haftreibungszahl muss mindestens 0,58 betragen.
+
+</details>
+
+### 2. Energieerhaltung, Reibung
+
+| 2. Auf einer Achterbahn bewegt sich ein Körper der Masse (700 kg) mit einer Geschwindigkeit von $3,1\frac{m}{s}$ durch den Punkt A und rollt dann antriebslos über B nach C. | ![Bild_2](https://diversewolken.ddns.net/nextcloud/index.php/s/CSwQygnW7kyQ79Z/download) |
+
+2. 1. Nennen Sie auftretende Energieumwandlungen. Gehen Sie anschließend darauf ein, wie sich die Energieumwandlungen ändern, wenn man Reibungseffekte berücksichtigt.
+
+2. 2. Berechnen Sie die Geschwindigkeit im Punkt C.
+
+2. 3. Bestimmen Sie die Höhe des Punktes C, die der Körper im reibungsfreien Fall maximal erreichen kann.
+
+
