@@ -1220,7 +1220,7 @@ _Aufgabe 2.3: Zeichne diese Kraftzerlegung in deinen Hefter. Konstruiere anschli
 
 <br>
 
-$ \hspace{0.5cm} $__LB Metzker S. 49 A 3__
+$ \hspace{0.5cm} $__LB Metzker S. 49/3__
 
 <details>
 
