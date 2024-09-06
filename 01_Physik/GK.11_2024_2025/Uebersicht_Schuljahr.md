@@ -441,8 +441,127 @@ Die Haftreibungszahl muss mindestens 0,58 betragen.
 
 2. 1. Nennen Sie auftretende Energieumwandlungen. Gehen Sie anschließend darauf ein, wie sich die Energieumwandlungen ändern, wenn man Reibungseffekte berücksichtigt.
 
+<details>
+
+<summary> Lösung 2.1. </summary>
+
+> ![Lsg_2.1](https://diversewolken.ddns.net:4443/nextcloud/index.php/s/oeH8EcXow243D9Z/download)
+
+</details>
+
+---
+
 2. 2. Berechnen Sie die Geschwindigkeit im Punkt C.
 
-2. 3. Bestimmen Sie die Höhe des Punktes C, die der Körper im reibungsfreien Fall maximal erreichen kann.
+<details>
+
+<summary> Lösung 2.2. </summary>
+
+> ![Lsg_2.2](https://diversewolken.ddns.net:4443/nextcloud/index.php/s/iXSDQp4jAA3RY4C/download)
+
+</details>
+
+---
+
+2. 3. Bestimmen Sie die Höhe des Punktes C, die der Körper im reibungsfreien Fall maximal erreichen kann. Begründen Sie Ihren Ansatz.
+
+<details>
+
+<summary> Lösung 2.3. </summary>
+
+> ![Lsg_2.3](https://diversewolken.ddns.net:4443/nextcloud/index.php/s/NdKoiEZk68bdnj9/download)
+
+</details>
+
+---
+
+2. 4. Bestimmen Sie die Maximalgeschwindigkeit der Fahrt in der Einheit km/h. Begründen Sie Ihren Ansatz.
+
+<details>
+
+<summary> Lösung 2.4. </summary>
+
+> ![Lsg_2.4](https://diversewolken.ddns.net:4443/nextcloud/index.php/s/e2fA8QNpZjxmEH9/download)
+
+</details>
+
+---
+
+2. 5. Begründen Sie, warum Achterbahnen auf den Schienen mit Rädern ausgestattet sind und nicht mit Kufen (wie beim Schlitten).
+
+<details>
+
+<summary> Lösung 2.5. </summary>
+
+> Um Reibungsverluste möglichst klein zu halten, sollte die Reibungskraft zwischen Schiene und Wagen sehr klein sein. Rollreibung ist viel kleiner als Gleitreibung und verursacht dadurch viel geringere Energieverluste durch Wärme.
+
+</details>
+
+### 3. Kreisbewegung
+
+3. 1. > Der Erdradius beträgt etwa 6370 km. Ermitteln Sie die Geschwindigkeit, mit der sich ein Punkt auf der Erdoberfläche des Äquators bei der Erddrehung bewegt? Beachten Sie: Die Erde dreht sich in einem Tag einmal um sich selbst.
+
+<details>
+
+<summary> Lösung 3.1. </summary>
+
+>> ![Lsg_3.1](https://diversewolken.ddns.net:4443/nextcloud/index.php/s/JDkA7GJwBgw8Led/download)
+
+</details>
+
+---
 
 
+3. 2. > Die Spitze des Minutenzeigers einer Turmuhr hat die Geschwindigkeit $1,5 \frac{mm}{s}$. Ermitteln Sie die Zeigerlänge?
+
+<details>
+
+<summary> Lösung 3.2. </summary>
+
+>> ![Lsg_3.2](https://diversewolken.ddns.net:4443/nextcloud/index.php/s/LQAmgYazNjHo3rD/download)
+
+</details>
+
+
+---
+
+3. 3. Fahrradfahren/Dynamo
+
+> ![A3.3](https://diversewolken.ddns.net:4443/nextcloud/index.php/s/Xz8KES8f8kHPE3G/download)
+
+<details>
+
+<summary> Lösung 3.3. </summary>
+
+>> ![Lsg_3.3](https://diversewolken.ddns.net:4443/nextcloud/index.php/s/XsJtHCgnrrBqPb5/download)
+
+</details>
+
+---
+
+3. 4. Turbinen und Drehgeschwindigkeit
+
+> ![A3.4](https://diversewolken.ddns.net:4443/nextcloud/index.php/s/A4yG37d3eHf6ZTL/download)
+
+<details>
+
+<summary> Lösung 3.4. </summary>
+
+>> ![Lsg_3.4](https://diversewolken.ddns.net:4443/nextcloud/index.php/s/qTEzgnK4ZZcGcxB/download)
+
+</details>
+
+
+---
+
+3. 5. Winkelschleifer
+
+> ![A3.5](https://diversewolken.ddns.net:4443/nextcloud/index.php/s/5xsPM2oXRNsEmzZ/download)
+
+<details>
+
+<summary> Lösung 3.5. </summary>
+
+>> ![Lsg_3.5](https://diversewolken.ddns.net:4443/nextcloud/index.php/s/dEGwgjJLZ5Lx9YY/download)
+
+</details>

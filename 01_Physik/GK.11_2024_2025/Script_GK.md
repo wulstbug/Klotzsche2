@@ -694,3 +694,205 @@ $$ \underline{\alpha_G = 21,8^\circ}$$
 Bei einem Winkel größer als 21.8° beginnt der Körper zu rutschen.
 
 </details>
+
+## Übungsaufgaben Lernbereich _Mechanische Grundlagen_
+
+_Hinweis: Das Skript enthält bereits einige Übungsaufgaben inklusive der zugehörigen Lösungen._
+
+### 1. Kräfte, Reibung, schiefe Ebene
+
+1. Auf einer schiefen Ebene mit dem Neigungswinkel 30° ruht ein quaderförmiger Körper der Masse 60kg. Das Problem wird zunächst reibungsfrei betrachtet.
+
+1. 1. Konstruiere die Ebene und den Körper. Wähle einen geeigneten Maßstab und zeichne Gewichtskraft, Hangabtriebskraft und Normalkraft maßstabsgetreu ein. Ermittle aus deiner Konstruktion durch Abmessen der Kraftpfeile die Werte der eingezeichneten Kräfte.
+
+
+
+1. 2. Berechne die in 1.1. gezeichneten Kräfte.
+
+1. 3. Wir betrachten den Körper nun inklusive der Reibung. Der Körper soll durch die Reibung auf der Ebene ruhen. 
+1. 3. 1. Gib an, zeichne in deine Skizze die Reibungskraft als Kraftpfeil ein. Nenne die Art der Reibungskraft. Ermittle den Wert dieser Reibungskraft.
+
+1. 3. 2. Berechne, wie groß der Haftreibungskoeffizient (die Haftreibungszahl) $\mu_{Haft}$ mindestens sein muss, damit der Körper tatsächlich nicht rutscht.
+
+<details>
+
+<summary> Lösung 1.1.</summary>
+
+ ![Lsg_1.1](https://diversewolken.ddns.net/nextcloud/index.php/s/RNx7S2jKePn29dp/download)
+
+</details>
+
+<details>
+
+<summary> Lösung 1.2.</summary>
+
+Gewichtskraft $F_g = m \cdot g = 589 N$
+
+Hangabtriebskraft $F_H = m \cdot g \cdot \sin\alpha = 294 N$
+
+Normalkraft $F_N = m \cdot g \cdot \cos\alpha = 510 N$ 
+
+</details>
+
+<details>
+
+<summary> Lösung 1.3.1.</summary>
+
+ ![Lsg_1.3.1](https://diversewolken.ddns.net/nextcloud/index.php/s/65gXp2kGPNgAYTF/download)
+
+- Die Reibungskraft muss der Hangabtriebskraft (Bewegungsrichtung) entgegen gerichtet wirken.
+
+- Da der Körper ruht, handelt es sich bei der Reibungskraft um die __Haftreibungskraft__.
+
+- Damit der Körper ruht, müssen Haftreibungskraft und Hangabtriebskraft gleich groß sein (1. Newtonsches Gesetz)
+
+- $F_R = F_H = 290 N$
+
+</details>
+
+<details>
+
+<summary> Lösung 1.3.2.</summary>
+
+Für die Reibungskraft an der geneigten Ebene gilt die Formel (siehe 1.8.2) 
+
+$\hspace{1cm}$ $F_{Haft} = \mu_{Haft} \cdot F_g \cdot cos\alpha$
+
+Diese Gleichung muss nun nach $\mu_{Haft}$ umgestellt oder mit dem CAS gelöst werden.
+
+$\hspace{1cm}$ $\mu_{Haft} = \dfrac{F_{Haft}}{F_g \cdot \cos \alpha} = \dfrac{290 N}{589 N \cdot \cos(30^\circ)} \approx 0,58$
+
+Die Haftreibungszahl muss mindestens 0,58 betragen.
+
+</details>
+
+### 2. Energieerhaltung, Reibung
+
+| 2. Auf einer Achterbahn bewegt sich ein Körper der Masse (700 kg) mit einer Geschwindigkeit von $3,1\frac{m}{s}$ durch den Punkt A und rollt dann antriebslos über B nach C. | ![Bild_2](https://diversewolken.ddns.net/nextcloud/index.php/s/CSwQygnW7kyQ79Z/download) |
+
+2. 1. Nennen Sie auftretende Energieumwandlungen. Gehen Sie anschließend darauf ein, wie sich die Energieumwandlungen ändern, wenn man Reibungseffekte berücksichtigt.
+
+<details>
+
+<summary> Lösung 2.1. </summary>
+
+> ![Lsg_2.1](https://diversewolken.ddns.net:4443/nextcloud/index.php/s/oeH8EcXow243D9Z/download)
+
+</details>
+
+---
+
+2. 2. Berechnen Sie die Geschwindigkeit im Punkt C.
+
+<details>
+
+<summary> Lösung 2.2. </summary>
+
+> ![Lsg_2.2](https://diversewolken.ddns.net:4443/nextcloud/index.php/s/iXSDQp4jAA3RY4C/download)
+
+</details>
+
+---
+
+2. 3. Bestimmen Sie die Höhe des Punktes C, die der Körper im reibungsfreien Fall maximal erreichen kann. Begründen Sie Ihren Ansatz.
+
+<details>
+
+<summary> Lösung 2.3. </summary>
+
+> ![Lsg_2.3](https://diversewolken.ddns.net:4443/nextcloud/index.php/s/NdKoiEZk68bdnj9/download)
+
+</details>
+
+---
+
+2. 4. Bestimmen Sie die Maximalgeschwindigkeit der Fahrt in der Einheit km/h. Begründen Sie Ihren Ansatz.
+
+<details>
+
+<summary> Lösung 2.4. </summary>
+
+> ![Lsg_2.4](https://diversewolken.ddns.net:4443/nextcloud/index.php/s/e2fA8QNpZjxmEH9/download)
+
+</details>
+
+---
+
+2. 5. Begründen Sie, warum Achterbahnen auf den Schienen mit Rädern ausgestattet sind und nicht mit Kufen (wie beim Schlitten).
+
+<details>
+
+<summary> Lösung 2.5. </summary>
+
+> Um Reibungsverluste möglichst klein zu halten, sollte die Reibungskraft zwischen Schiene und Wagen sehr klein sein. Rollreibung ist viel kleiner als Gleitreibung und verursacht dadurch viel geringere Energieverluste durch Wärme.
+
+</details>
+
+### 3. Kreisbewegung
+
+3. 1. > Der Erdradius beträgt etwa 6370 km. Ermitteln Sie die Geschwindigkeit, mit der sich ein Punkt auf der Erdoberfläche des Äquators bei der Erddrehung bewegt? Beachten Sie: Die Erde dreht sich in einem Tag einmal um sich selbst.
+
+<details>
+
+<summary> Lösung 3.1. </summary>
+
+>> ![Lsg_3.1](https://diversewolken.ddns.net:4443/nextcloud/index.php/s/JDkA7GJwBgw8Led/download)
+
+</details>
+
+---
+
+
+3. 2. > Die Spitze des Minutenzeigers einer Turmuhr hat die Geschwindigkeit $1,5 \frac{mm}{s}$. Ermitteln Sie die Zeigerlänge?
+
+<details>
+
+<summary> Lösung 3.2. </summary>
+
+>> ![Lsg_3.2](https://diversewolken.ddns.net:4443/nextcloud/index.php/s/LQAmgYazNjHo3rD/download)
+
+</details>
+
+
+---
+
+3. 3. Fahrradfahren/Dynamo
+
+> ![A3.3](https://diversewolken.ddns.net:4443/nextcloud/index.php/s/Xz8KES8f8kHPE3G/download)
+
+<details>
+
+<summary> Lösung 3.3. </summary>
+
+>> ![Lsg_3.3](https://diversewolken.ddns.net:4443/nextcloud/index.php/s/XsJtHCgnrrBqPb5/download)
+
+</details>
+
+---
+
+3. 4. Turbinen und Drehgeschwindigkeit
+
+> ![A3.4](https://diversewolken.ddns.net:4443/nextcloud/index.php/s/A4yG37d3eHf6ZTL/download)
+
+<details>
+
+<summary> Lösung 3.4. </summary>
+
+>> ![Lsg_3.4](https://diversewolken.ddns.net:4443/nextcloud/index.php/s/qTEzgnK4ZZcGcxB/download)
+
+</details>
+
+
+---
+
+3. 5. Winkelschleifer
+
+> ![A3.5](https://diversewolken.ddns.net:4443/nextcloud/index.php/s/5xsPM2oXRNsEmzZ/download)
+
+<details>
+
+<summary> Lösung 3.5. </summary>
+
+>> ![Lsg_3.5](https://diversewolken.ddns.net:4443/nextcloud/index.php/s/dEGwgjJLZ5Lx9YY/download)
+
+</details>
