@@ -830,26 +830,26 @@ Die Haftreibungszahl muss mindestens 0,58 betragen.
 
 ### 3. Kreisbewegung
 
-3. 1. > Der Erdradius beträgt etwa 6370 km. Ermitteln Sie die Geschwindigkeit, mit der sich ein Punkt auf der Erdoberfläche des Äquators bei der Erddrehung bewegt? Beachten Sie: Die Erde dreht sich in einem Tag einmal um sich selbst.
+3. 1. Der Erdradius beträgt etwa 6370 km. Ermitteln Sie die Geschwindigkeit, mit der sich ein Punkt auf der Erdoberfläche des Äquators bei der Erddrehung bewegt? Beachten Sie: Die Erde dreht sich in einem Tag einmal um sich selbst.
 
 <details>
 
 <summary> Lösung 3.1. </summary>
 
->> ![Lsg_3.1](https://diversewolken.ddns.net:4443/nextcloud/index.php/s/JDkA7GJwBgw8Led/download)
+>![Lsg_3.1](https://diversewolken.ddns.net:4443/nextcloud/index.php/s/JDkA7GJwBgw8Led/download)
 
 </details>
 
 ---
 
 
-3. 2. > Die Spitze des Minutenzeigers einer Turmuhr hat die Geschwindigkeit $1,5 \frac{mm}{s}$. Ermitteln Sie die Zeigerlänge?
+3. 2. Die Spitze des Minutenzeigers einer Turmuhr hat die Geschwindigkeit $1,5 \frac{mm}{s}$. Ermitteln Sie die Zeigerlänge?
 
 <details>
 
 <summary> Lösung 3.2. </summary>
 
->> ![Lsg_3.2](https://diversewolken.ddns.net:4443/nextcloud/index.php/s/LQAmgYazNjHo3rD/download)
+>![Lsg_3.2](https://diversewolken.ddns.net:4443/nextcloud/index.php/s/LQAmgYazNjHo3rD/download)
 
 </details>
 
@@ -858,13 +858,13 @@ Die Haftreibungszahl muss mindestens 0,58 betragen.
 
 3. 3. Fahrradfahren/Dynamo
 
-> ![A3.3](https://diversewolken.ddns.net:4443/nextcloud/index.php/s/Xz8KES8f8kHPE3G/download)
+![A3.3](https://diversewolken.ddns.net:4443/nextcloud/index.php/s/Xz8KES8f8kHPE3G/download)
 
 <details>
 
 <summary> Lösung 3.3. </summary>
 
->> ![Lsg_3.3](https://diversewolken.ddns.net:4443/nextcloud/index.php/s/XsJtHCgnrrBqPb5/download)
+> ![Lsg_3.3](https://diversewolken.ddns.net:4443/nextcloud/index.php/s/XsJtHCgnrrBqPb5/download)
 
 </details>
 
@@ -872,13 +872,13 @@ Die Haftreibungszahl muss mindestens 0,58 betragen.
 
 3. 4. Turbinen und Drehgeschwindigkeit
 
-> ![A3.4](https://diversewolken.ddns.net:4443/nextcloud/index.php/s/A4yG37d3eHf6ZTL/download)
+![A3.4](https://diversewolken.ddns.net:4443/nextcloud/index.php/s/A4yG37d3eHf6ZTL/download)
 
 <details>
 
 <summary> Lösung 3.4. </summary>
 
->> ![Lsg_3.4](https://diversewolken.ddns.net:4443/nextcloud/index.php/s/qTEzgnK4ZZcGcxB/download)
+> ![Lsg_3.4](https://diversewolken.ddns.net:4443/nextcloud/index.php/s/qTEzgnK4ZZcGcxB/download)
 
 </details>
 
@@ -887,12 +887,12 @@ Die Haftreibungszahl muss mindestens 0,58 betragen.
 
 3. 5. Winkelschleifer
 
-> ![A3.5](https://diversewolken.ddns.net:4443/nextcloud/index.php/s/5xsPM2oXRNsEmzZ/download)
+![A3.5](https://diversewolken.ddns.net:4443/nextcloud/index.php/s/5xsPM2oXRNsEmzZ/download)
 
 <details>
 
 <summary> Lösung 3.5. </summary>
 
->> ![Lsg_3.5](https://diversewolken.ddns.net:4443/nextcloud/index.php/s/dEGwgjJLZ5Lx9YY/download)
+> ![Lsg_3.5](https://diversewolken.ddns.net:4443/nextcloud/index.php/s/dEGwgjJLZ5Lx9YY/download)
 
 </details>
