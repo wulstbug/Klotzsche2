@@ -1553,6 +1553,11 @@ __Jetzt: Einheitenbetrachtungen__
 
 Allgemein: Einheiten können innerhalb einer Formel oder auch dahinter in eckigen Klammern analysiert/diskutiert werden.
 
+Grundlagen:
+
+> $\hspace{1cm}$ Kraft: $\Big[ N = \dfrac{kg \cdot m}{s^2} \Big]$
+>
+> $\hspace{1cm}$ Energie: $\Big[ J = N\cdot m = \dfrac{kg \cdot m}{s^2}\cdot m = \dfrac{kg \cdot m^2}{s^2} \Big]$
 __Beispiel:__
 
 > geg.: 
@@ -1569,7 +1574,21 @@ __Beispiel:__
 >
 > $\hspace{1cm}$  $E_{kin} = \dfrac{1}{2} \cdot m \cdot v^2 $
 >
-> $\hspace{1cm}$  $E_{kin} = \dfrac{1}{2} \cdot 1500 \cdot (27,78 )^2 $ $ \Big[ \Big] $
+> $\hspace{1cm}$  $E_{kin} = \dfrac{1}{2} \cdot 1500 \cdot (27,78 )^2 $ $ \Big[ \dfrac{kg \cdot m^2 }{s^2} \Big] $
+>
+> $\hspace{1cm}$  $E_{kin} \approx 578.796 \Big[ \dfrac{kg \cdot m }{s^2} \cdot m = Nm = J \Big] $
+
+### 2.6.1 Übungen Einheitenbetrachtung
+
+Zeige für folgende Formeln, dass sich die geforderte Standard-Einheit ergibt.
+
+|#  | Formel | Standard-Einheit |
+| -- | ---------------- | --------------- |
+| 1 | $v = \sqrt{\dfrac{2\cdot E_{kin}}{m}}$ | $\Big[\dfrac{m}{s}\Big]$ |
+| 2 | $h = \dfrac{E_{pot}}{g \cdot h}$ | $\Big[m\Big]$ |
+| 3 | $\Delta p = F \cdot \Delta t $ | $\Big[\dfrac{kg \cdot m}{s}\Big]$ |
+| 4 | $W_{sp} = \frac{1}{2} \cdot D \cdot s^2 $ | $\Big[J\Big]$ |
+| 5 | $g = \dfrac{F_g}{m}$ | $\Big[ \dfrac{m}{s^2} \Big]$ |
 
 
 ## 2.7 Reibungsarbeit
