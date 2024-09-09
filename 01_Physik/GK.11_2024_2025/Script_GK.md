@@ -708,7 +708,7 @@ _Hinweis: Das Skript enthält bereits einige Übungsaufgaben inklusive der zugeh
 1. 2. Berechne die in 1.1. gezeichneten Kräfte.
 
 1. 3. Wir betrachten den Körper nun inklusive der Reibung. Der Körper soll durch die Reibung auf der Ebene ruhen. 
-1. 3. 1. Gib an, zeichne in deine Skizze die Reibungskraft als Kraftpfeil ein. Nenne die Art der Reibungskraft. Ermittle den Wert dieser Reibungskraft.
+1. 3. 1. Zeichne in deine Skizze die Reibungskraft als Kraftpfeil ein. Nenne die Art der Reibungskraft. Ermittle den Wert dieser Reibungskraft.
 
 1. 3. 2. Berechne, wie groß der Haftreibungskoeffizient (die Haftreibungszahl) $\mu_{Haft}$ mindestens sein muss, damit der Körper tatsächlich nicht rutscht.
 
