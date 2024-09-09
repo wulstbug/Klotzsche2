@@ -25,7 +25,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 @end
 
-mode: presentation
+mode: textbook
 
 @onload
 window.LIA.settings.font_size = 2
