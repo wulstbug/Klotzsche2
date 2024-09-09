@@ -774,7 +774,7 @@ Die Haftreibungszahl muss mindestens 0,58 betragen.
 
 <summary> Lösung 2.1. </summary>
 
-> ![Lsg_2.1](https://diversewolken.ddns.net:4443/nextcloud/index.php/s/oeH8EcXow243D9Z/download)
+> ![Lsg_2.1](https://diversewolken.ddns.net/nextcloud/index.php/s/oeH8EcXow243D9Z/download)
 
 </details>
 
@@ -786,7 +786,7 @@ Die Haftreibungszahl muss mindestens 0,58 betragen.
 
 <summary> Lösung 2.2. </summary>
 
-> ![Lsg_2.2](https://diversewolken.ddns.net:4443/nextcloud/index.php/s/iXSDQp4jAA3RY4C/download)
+> ![Lsg_2.2](https://diversewolken.ddns.net/nextcloud/index.php/s/iXSDQp4jAA3RY4C/download)
 
 </details>
 
@@ -798,7 +798,7 @@ Die Haftreibungszahl muss mindestens 0,58 betragen.
 
 <summary> Lösung 2.3. </summary>
 
-> ![Lsg_2.3](https://diversewolken.ddns.net:4443/nextcloud/index.php/s/NdKoiEZk68bdnj9/download)
+> ![Lsg_2.3](https://diversewolken.ddns.net/nextcloud/index.php/s/NdKoiEZk68bdnj9/download)
 
 </details>
 
@@ -810,7 +810,7 @@ Die Haftreibungszahl muss mindestens 0,58 betragen.
 
 <summary> Lösung 2.4. </summary>
 
-> ![Lsg_2.4](https://diversewolken.ddns.net:4443/nextcloud/index.php/s/e2fA8QNpZjxmEH9/download)
+> ![Lsg_2.4](https://diversewolken.ddns.net/nextcloud/index.php/s/e2fA8QNpZjxmEH9/download)
 
 </details>
 
@@ -834,7 +834,7 @@ Die Haftreibungszahl muss mindestens 0,58 betragen.
 
 <summary> Lösung 3.1. </summary>
 
->![Lsg_3.1](https://diversewolken.ddns.net:4443/nextcloud/index.php/s/JDkA7GJwBgw8Led/download)
+>![Lsg_3.1](https://diversewolken.ddns.net/nextcloud/index.php/s/JDkA7GJwBgw8Led/download)
 
 </details>
 
@@ -847,7 +847,7 @@ Die Haftreibungszahl muss mindestens 0,58 betragen.
 
 <summary> Lösung 3.2. </summary>
 
->![Lsg_3.2](https://diversewolken.ddns.net:4443/nextcloud/index.php/s/LQAmgYazNjHo3rD/download)
+>![Lsg_3.2](https://diversewolken.ddns.net/nextcloud/index.php/s/LQAmgYazNjHo3rD/download)
 
 </details>
 
@@ -856,13 +856,13 @@ Die Haftreibungszahl muss mindestens 0,58 betragen.
 
 3. 3. Fahrradfahren/Dynamo
 
-![A3.3](https://diversewolken.ddns.net:4443/nextcloud/index.php/s/Xz8KES8f8kHPE3G/download)
+![A3.3](https://diversewolken.ddns.net/nextcloud/index.php/s/Xz8KES8f8kHPE3G/download)
 
 <details>
 
 <summary> Lösung 3.3. </summary>
 
-> ![Lsg_3.3](https://diversewolken.ddns.net:4443/nextcloud/index.php/s/XsJtHCgnrrBqPb5/download)
+> ![Lsg_3.3](https://diversewolken.ddns.net/nextcloud/index.php/s/XsJtHCgnrrBqPb5/download)
 
 </details>
 
@@ -870,13 +870,13 @@ Die Haftreibungszahl muss mindestens 0,58 betragen.
 
 3. 4. Turbinen und Drehgeschwindigkeit
 
-![A3.4](https://diversewolken.ddns.net:4443/nextcloud/index.php/s/A4yG37d3eHf6ZTL/download)
+![A3.4](https://diversewolken.ddns.net/nextcloud/index.php/s/A4yG37d3eHf6ZTL/download)
 
 <details>
 
 <summary> Lösung 3.4. </summary>
 
-> ![Lsg_3.4](https://diversewolken.ddns.net:4443/nextcloud/index.php/s/qTEzgnK4ZZcGcxB/download)
+> ![Lsg_3.4](https://diversewolken.ddns.net/nextcloud/index.php/s/qTEzgnK4ZZcGcxB/download)
 
 </details>
 
@@ -885,12 +885,12 @@ Die Haftreibungszahl muss mindestens 0,58 betragen.
 
 3. 5. Winkelschleifer
 
-![A3.5](https://diversewolken.ddns.net:4443/nextcloud/index.php/s/5xsPM2oXRNsEmzZ/download)
+![A3.5](https://diversewolken.ddns.net/nextcloud/index.php/s/5xsPM2oXRNsEmzZ/download)
 
 <details>
 
 <summary> Lösung 3.5. </summary>
 
-> ![Lsg_3.5](https://diversewolken.ddns.net:4443/nextcloud/index.php/s/dEGwgjJLZ5Lx9YY/download)
+> ![Lsg_3.5](https://diversewolken.ddns.net/nextcloud/index.php/s/dEGwgjJLZ5Lx9YY/download)
 
 </details>
