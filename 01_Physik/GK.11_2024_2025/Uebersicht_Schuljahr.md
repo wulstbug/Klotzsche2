@@ -370,7 +370,7 @@ _Hinweis: Das Skript enthält bereits einige Übungsaufgaben inklusive der zugeh
 
 ### 1. Kräfte, Reibung, schiefe Ebene
 
-1. Auf einer schiefen Ebene mit dem Neigungswinkel 30° ruht ein quaderförmiger Körper der Masse 60kg. Das Problem wird zunächst reibungsfrei betrachtet.
+1. Auf einer schiefen Ebene mit dem Neigungswinkel 30° liegt ein quaderförmiger Körper der Masse 60kg. Das Problem wird zunächst reibungsfrei betrachtet.
 
 1. 1. Konstruiere die Ebene und den Körper. Wähle einen geeigneten Maßstab und zeichne Gewichtskraft, Hangabtriebskraft und Normalkraft maßstabsgetreu ein. Ermittle aus deiner Konstruktion durch Abmessen der Kraftpfeile die Werte der eingezeichneten Kräfte.
 
