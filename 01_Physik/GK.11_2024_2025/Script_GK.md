@@ -705,8 +705,6 @@ _Hinweis: Das Skript enthält bereits einige Übungsaufgaben inklusive der zugeh
 
 1. 1. Konstruiere die Ebene und den Körper. Wähle einen geeigneten Maßstab und zeichne Gewichtskraft, Hangabtriebskraft und Normalkraft maßstabsgetreu ein. Ermittle aus deiner Konstruktion durch Abmessen der Kraftpfeile die Werte der eingezeichneten Kräfte.
 
-
-
 1. 2. Berechne die in 1.1. gezeichneten Kräfte.
 
 1. 3. Wir betrachten den Körper nun inklusive der Reibung. Der Körper soll durch die Reibung auf der Ebene ruhen. 
