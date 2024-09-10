@@ -109,7 +109,7 @@ __Demonstrationsexperiment:__ Schickt man einen weißen Lichtstrahl auf die Spit
 
 {{2}}
 *************
-![SpektralfarbenPrisma](https://d1g9li960vagp7.cloudfront.net/wp-content/uploads/2023/06/Folie1-2-1024x576.png)
+![SpektralfarbenPrisma](https://d1g9li960vagp7.cloudfront.net/wp-content/uploads/2023/06/Folie1-2-1024x576.png)<!--style="width:50%" -->
 *************
 
 {{3}}
