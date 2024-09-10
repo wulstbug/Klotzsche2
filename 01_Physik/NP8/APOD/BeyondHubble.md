@@ -125,7 +125,7 @@ __Experimentier-Aufgabe:__ Untersuche das Spektrum eines weißen Lichtstrahls mi
 
 > Anhand der im Licht eines Sterns enthaltenen Farben kann man die Temperatur eines Sterns untersuchen.
 
-{{1-}}
+{{1-2}}
 *********
 ![TemperaturUndFarbe](https://upload.wikimedia.org/wikipedia/commons/0/08/Bunsen_burner_flame_types.jpg)
 *********
