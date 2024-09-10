@@ -127,25 +127,33 @@ __Experimentier-Aufgabe:__ Untersuche das Spektrum eines weißen Lichtstrahls mi
 
 {{1}}
 *********
-![TemperaturUndFarbe](http://www.farbimpulse.de/fileadmin/_migrated/pics/flammen4918136641a5c.jpg)
+![TemperaturUndFarbe](https://upload.wikimedia.org/wikipedia/commons/0/08/Bunsen_burner_flame_types.jpg)
 *********
 
-{{2-3}}
-*********
-!?[WebbFarbenUndTemperatur](https://stsci-opo.org/STScI-01F9KZD9ZC39HDK9Q4DC3KC7QH.mp4)
-*********
-
-{{3}}
+{{2}}
 *********
 __Ergebnis:__ Je bläulicher die Farbe der Flamme (bzw. die Farbe des Sterns), desto höher ist seine Temperatur.
 *********
 
+{{3}}
+*********
+!?[WebbFarbenUndTemperatur](https://stsci-opo.org/STScI-01F9KZD9ZC39HDK9Q4DC3KC7QH.mp4)
+*********
+
+
 ## 2.3. Fehlende Farben und die Elemente
 
-> Wenn das Licht eines Sterns die Atmosphäre eines Planeten durchläuft, dann _verschlucken_ verschiedene Elemente, verschiedene Farbanteile.
-
-
 {{1}}
+*********
+> Wenn das Licht eines Sterns die Atmosphäre eines Planeten durchläuft, dann _verschlucken_ verschiedene Elemente, verschiedene Farbanteile.
+*********
+
+{{0-1}}
+***********
+!?[WebbReadingPlanetAbsorption](https://stsci-opo.org/STScI-01F9KZQ5BYSCD5PP4XDPS11HCF.mp4)
+***********
+
+{{2}}
 *********
 __Aufgabe:__ Analysiere mit Hilfe des Bildes an der Tafel und die Elemente des Ausdrucks, die dem jeweiligen Spektrum zugeordnet werden können.
 
