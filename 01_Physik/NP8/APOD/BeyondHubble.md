@@ -75,7 +75,7 @@ __James-Webb-Space-Telescope__
 *************
 __Pillars of Construction (Säulen der Schöpfung)__
 
-!?[PillarsOfConstruction](https://stsci-opo.org/STScI-01EVS9YJQ8X2TPJ19RQFJTE6T3.mp4)
+!?[PillarsOfConstruction](https://www.youtube.com/watch?v=1itvyekUbWU)
 *************
 
 {{2-3}}
@@ -139,6 +139,19 @@ __Experimentier-Aufgabe:__ Untersuche das Spektrum eines weißen Lichtstrahls mi
 *********
 __Ergebnis:__ Je bläulicher die Farbe der Flamme (bzw. die Farbe des Sterns), desto höher ist seine Temperatur.
 *********
+
+## 2.3. Fehlende Farben und die Elemente
+
+> Wenn das Licht eines Sterns die Atmosphäre eines Planeten durchläuft, dann _verschlucken_ verschiedene Elemente, verschiedene Farbanteile.
+
+
+{{1}}
+*********
+__Aufgabe:__ Analysiere mit Hilfe des Bildes an der Tafel und die Elemente des Ausdrucks, die dem jeweiligen Spektrum zugeordnet werden können.
+
+![JamesWebbSbsorptionSpectra](https://diversewolken.ddns.net/nextcloud/index.php/s/doWGxxG8ic5o6Xf/download)
+*********
+
 
 ## Arte-Doku James Webb
 
