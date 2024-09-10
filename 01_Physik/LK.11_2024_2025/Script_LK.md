@@ -1466,11 +1466,11 @@ _Aufgabe: siehe 2.3.4_
 
 ********
 
-### 2.3.3 Zusammenfassung
+### 2.5.3 Zusammenfassung
 
 Reibung ist eine fundamentale Kraft in der Physik, die der Bewegung zwischen zwei Oberflächen entgegenwirkt. Sie kann in Haft-, Gleit- und Rollreibung unterteilt werden. Die Berechnung der Reibungskraft erfolgt durch die Multiplikation des Reibungskoeffizienten mit der Normalkraft.
 
-### 2.3.4 Qualitative Übung zur Reibung (ohne Berechnungen)
+### 2.5.4 Qualitative Übung zur Reibung (ohne Berechnungen)
 
 Diskutiere mit einem Partner. Stellt euch Wechselseitig die Fragen und überprüft die Antworten.
 

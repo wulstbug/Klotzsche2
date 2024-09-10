@@ -420,11 +420,11 @@ _Aufgabe: siehe 2.3.4_
 
 ********
 
-### 2.3.3 Zusammenfassung
+### 2.5.3 Zusammenfassung
 
 Reibung ist eine fundamentale Kraft in der Physik, die der Bewegung zwischen zwei Oberflächen entgegenwirkt. Sie kann in Haft-, Gleit- und Rollreibung unterteilt werden. Die Berechnung der Reibungskraft erfolgt durch die Multiplikation des Reibungskoeffizienten mit der Normalkraft.
 
-### 2.3.4 Qualitative Übung zur Reibung (ohne Berechnungen)
+### 2.5.4 Qualitative Übung zur Reibung (ohne Berechnungen)
 
 Diskutiere mit einem Partner. Stellt euch Wechselseitig die Fragen und überprüft die Antworten.
 
@@ -432,7 +432,7 @@ __Empfehlung: Aufgaben 113-117__
 
 ??[PittysPhysik](https://physikaufgaben.de/aufgaben_zeige_an.php?thid=1&tab=6&auswahl_t1=13&auswahl_n1=4)
 
-### 2.3.5 Quantitative Übung zur Reibung (mit Berechnungen)
+### 2.5.5 Quantitative Übung zur Reibung (mit Berechnungen)
 
 _Quantitative Aufgaben zur Reibung auf horizontalen Ebene. Bitte anklicken und allein oder in Gruppenarbeit berechnen und Lösung vergleichen._
 
@@ -497,8 +497,56 @@ Bei einem Winkel größer als 21.8° beginnt der Körper zu rutschen.
 
 </details>
 
+## 2.6 Einheitenbetrachtungen
 
-## 2.6 Reibungsarbeit
+Bisher haben wir in Formeln folgendes Vorgehen genutzt:
+
+- rechne alle Größen in Standard-Einheiten um, dann ergibt die Formel jeweils auch die Standard-Einheit
+
+__Jetzt: Einheitenbetrachtungen__
+
+Allgemein: Einheiten können innerhalb einer Formel oder auch dahinter in eckigen Klammern analysiert/diskutiert werden.
+
+Grundlagen:
+
+> $\hspace{1cm}$ Kraft: $\Big[ N = \dfrac{kg \cdot m}{s^2} \Big]$
+>
+> $\hspace{1cm}$ Energie: $\Big[ J = N\cdot m = \dfrac{kg \cdot m}{s^2}\cdot m = \dfrac{kg \cdot m^2}{s^2} \Big]$
+__Beispiel:__
+
+> geg.: 
+>
+> $\hspace{1cm}$ $v = 100 \frac{km}{h}$
+>
+> $\hspace{1cm}$ $m = 1,5 t = 1500 kg$
+>
+> ges.: 
+>
+> $\hspace{1cm}$ $E_{kin}$
+
+> Lsg.: 
+>
+> $\hspace{1cm}$  $E_{kin} = \dfrac{1}{2} \cdot m \cdot v^2 $
+>
+> $\hspace{1cm}$  $E_{kin} = \dfrac{1}{2} \cdot 1500 \cdot (27,78 )^2 $ $ \Big[ \dfrac{kg \cdot m^2 }{s^2} \Big] $
+>
+> $\hspace{1cm}$  $E_{kin} \approx 578.796 \Big[ \dfrac{kg \cdot m }{s^2} \cdot m = Nm = J \Big] $
+
+### 2.6.1 Übungen Einheitenbetrachtung
+
+Zeige für folgende Formeln, dass sich die geforderte Standard-Einheit ergibt.
+
+|#  | Formel | Standard-Einheit |
+| -- | ---------------- | --------------- |
+| 1 | $v = \sqrt{\dfrac{2\cdot E_{kin}}{m}}$ | $\Big[\dfrac{m}{s}\Big]$ |
+| 2 | $h = \dfrac{E_{pot}}{g \cdot h}$ | $\Big[m\Big]$ |
+| 3 | $\Delta p = F \cdot \Delta t $ | $\Big[\dfrac{kg \cdot m}{s}\Big]$ |
+| 4 | $W_{sp} = \frac{1}{2} \cdot D \cdot s^2 $ | $\Big[J\Big]$ |
+| 5 | $g = \dfrac{F_g}{m}$ | $\Big[ \dfrac{m}{s^2} \Big]$ |
+
+
+
+## 2.7 Reibungsarbeit
 
 > $W_R = F_R \cdot s$
 
