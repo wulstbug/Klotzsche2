@@ -71,7 +71,75 @@ __James-Webb-Space-Telescope__
 
 </p>
 
+{{1-2}}
+*************
+__Pillars of Construction (Säulen der Schöpfung)__
+
+!?[PillarsOfConstruction](https://stsci-opo.org/STScI-01EVS9YJQ8X2TPJ19RQFJTE6T3.mp4)
+*************
+
+{{2-3}}
+*************
+__Pinwheel Galaxy (Feuerrad-Galaxie)__
+
+!?[PinWheelGalaxy](https://stsci-opo.org/STScI-01EVSAJ0S1XJMZNJQFHN6VQ6TD.mp4)
+
+*************
+
+{{3}}
+*************
+__Crab Nebula (Krebs-Nebel)__
+
+!?[PillarsOfConstruction](https://stsci-opo.org/STScI-01EVS92176D4JGEVERK66TVD6W.mp4)
+*************
+
+## 2.1 Farben von Sonne und Glühlampe
+
+> Die Sonne oder eine Glühlampe sendet weißes Licht aus. Dieses Licht enthält die Farben des Regenbogens.
+
+{{1-2}}
+*************
+!?[ARTE_JAMES_WEBB](https://www.youtube.com/watch?v=u3PFhzxlgh4)
+*************
+
+{{2}}
+*************
+__Demonstrationsexperiment:__ Schickt man einen weißen Lichtstrahl auf die Spitze eines Prismas so wird das Licht in seine Farben zerlegt.
+*************
+
+{{2}}
+*************
+![SpektralfarbenPrisma](https://d1g9li960vagp7.cloudfront.net/wp-content/uploads/2023/06/Folie1-2-1024x576.png)
+*************
+
+{{3}}
+*************
+__Experimentier-Aufgabe:__ Untersuche das Spektrum eines weißen Lichtstrahls mit Hilfe eines Prismas. 
+
+1. Zeichne den Versuchs-Aufbau als Skizze in deinen Hefter.
+
+2. Übernimm den Farbverlauf in deinen Hefter (farbig oder in Worten).
+*************
+
+## 2.2 Die Farben und die Temperatur eines Sterns
+
+> Anhand der im Licht eines Sterns enthaltenen Farben kann man die Temperatur eines Sterns untersuchen.
+
 {{1}}
-*************
-!?[PillarsOfConstruction](https://stsci-opo.org/STScI-01EVS9YJQ8X2TPJ19RQFJTE6T3.mp4 "Pillars of Construction (Säulen der Schöpfung)")
-*************
+*********
+![TemperaturUndFarbe](http://www.farbimpulse.de/fileadmin/_migrated/pics/flammen4918136641a5c.jpg)
+*********
+
+{{2-3}}
+*********
+!?[WebbFarbenUndTemperatur](https://stsci-opo.org/STScI-01F9KZD9ZC39HDK9Q4DC3KC7QH.mp4)
+*********
+
+{{3}}
+*********
+__Ergebnis:__ Je bläulicher die Farbe der Flamme (bzw. die Farbe des Sterns), desto höher ist seine Temperatur.
+*********
+
+## Arte-Doku James Webb
+
+!?[ArteDokuJamesWebb](https://www.youtube.com/watch?v=Jb48AM77YFw)
