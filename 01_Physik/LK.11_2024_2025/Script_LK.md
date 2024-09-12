@@ -1571,9 +1571,9 @@ _Messmethode 2:_ Nutzen Sie eine schiefe Ebene  und bestimmen Sie die Haftreibun
 
 </p>
 
-__Ergebnis:__ Bitte hier eintragen
+__Ergebnisse:__
 
-[qr-code](https://diversewolken.ddns.net:8080/survey/access/yo9q45a9)
+??[mu-haft](https://diversewolken.ddns.net:8080/survey/results/yo9q45a9)
 
 
 ### 2.5.7 Übungsaufgaben
