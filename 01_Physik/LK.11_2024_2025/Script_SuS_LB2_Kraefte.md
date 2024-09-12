@@ -552,18 +552,21 @@ __Beispiel:__
 > $\hspace{1cm}$  $E_{kin} = \dfrac{1}{2} \cdot 1500 \cdot (27,78 )^2 $ $ \Big[ \dfrac{kg \cdot m^2 }{s^2} \Big] $
 >
 > $\hspace{1cm}$  $E_{kin} \approx 578.796 \Big[ \dfrac{kg \cdot m }{s^2} \cdot m = Nm = J \Big] $
+>
+> 
 
 ### 2.6.1 Übungen Einheitenbetrachtung
 
 Zeige für folgende Formeln, dass sich die geforderte Standard-Einheit ergibt.
 
-|#  | Formel | Standard-Einheit |
+|#  | Formel | Std-Einheit |
 | -- | ---------------- | --------------- |
-| 1 | $v = \sqrt{\dfrac{2\cdot E_{kin}}{m}}$ | $\Big[\dfrac{m}{s}\Big]$ |
-| 2 | $h = \dfrac{E_{pot}}{g \cdot h}$ | $\Big[m\Big]$ |
-| 3 | $\Delta p = F \cdot \Delta t $ | $\Big[\dfrac{kg \cdot m}{s}\Big]$ |
-| 4 | $W_{sp} = \frac{1}{2} \cdot D \cdot s^2 $ | $\Big[J\Big]$ |
-| 5 | $g = \dfrac{F_g}{m}$ | $\Big[ \dfrac{m}{s^2} \Big]$ |
+| 1 | $\sqrt{\dfrac{2\cdot E_{kin}}{m}}$ | |
+| 2 | $\dfrac{E_{pot}}{g \cdot h}$ | |
+| 3 | $F \cdot \Delta t $ | |
+| 4 | $\frac{1}{2} \cdot D \cdot s^2 $ | |
+| 5 | $\dfrac{F_g}{m}$ | |
+| 6 | $\dfrac{m_1 + m_2}{m_2}\sqrt{2\cdot g\cdot h}$ | | 
 
 
 

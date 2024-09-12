@@ -1589,6 +1589,7 @@ Zeige für folgende Formeln, dass sich die geforderte Standard-Einheit ergibt.
 | 3 | $\Delta p = F \cdot \Delta t $ | $\Big[\dfrac{kg \cdot m}{s}\Big]$ |
 | 4 | $W_{sp} = \frac{1}{2} \cdot D \cdot s^2 $ | $\Big[J\Big]$ |
 | 5 | $g = \dfrac{F_g}{m}$ | $\Big[ \dfrac{m}{s^2} \Big]$ |
+| 6 | $v = \dfrac{m_1 + m_2}{m_2}\sqrt{2\cdot g\cdot h}$ | $\Big[\dfrac{m}{s}\Big]$ | 
 
 
 ## 2.7 Reibungsarbeit
