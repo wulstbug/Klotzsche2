@@ -518,6 +518,39 @@ Bei einem Winkel größer als 21.8° beginnt der Körper zu rutschen.
 
 </details>
 
+### 2.5.6 Bestimmung des Haftreibungskoeffizienten
+
+__Aufgabe:__ Bestimmen Sie die Haftreibungszahl $\mu_{Haft}$ zwischen einem Holzklotz und einer Plastikschiene mit zwei Messmethoden. Fertigen Sie ein Kurzprotokoll an.
+
+1. Teilen Sie dazu das Blatt in zwei Teile.
+
+2. Notieren Sie jeweils die Versuchsmethode und zeichnen Sie eine Skizze. 
+
+3. Notieren Sie Ihre Messwerte. Geben Sie zu beiden Methoden ein Ergebnis der Haftreibungszahl $\mu_{Haft}$ an.
+
+4. Vergleichen Sie beide Ergebnisse. Nehmen Sie Bezug auf die Ungenauigkeit der jeweiligen Messung (Fehlerbetrachtung).
+
+<p class="newspaper">
+
+__Versuch 1__
+
+_Messmethode 1:_ Nutzen Sie einen Federkraftmesser und bestimmen Sie für 3 zugeladene Massestücke die Gewichtskraft (50g, 100g, 150g), sowie die Haftreibungskraft des Holzklotzes mit der Plastikschiene. Ermitteln Sie daraus den Haftreibungskoeffizienten $\mu_{Haft}$.
+
+<p class ="cb">
+
+__Versuch 2__
+
+_Messmethode 2:_ Nutzen Sie eine schiefe Ebene  und bestimmen Sie die Haftreibungszahl mit Hilfe des Grenzwinkels $\alpha_G$ (siehe Fortsetzung Aufgabe 2.3/5). Nutzen Sie dieselben zugeladenen Massestücke, wie in Versuch 1.
+
+</p>
+
+</p>
+
+### 2.5.7 Übungsaufgaben
+
+Metzler S. 81/12
+
+
 ## 2.6 Einheitenbetrachtungen
 
 Bisher haben wir in Formeln folgendes Vorgehen genutzt:
@@ -554,39 +587,6 @@ __Beispiel:__
 > $\hspace{1cm}$  $E_{kin} \approx 578.796 \Big[ \dfrac{kg \cdot m }{s^2} \cdot m = Nm = J \Big] $
 >
 > 
-
-### 2.5.6 Bestimmung des Haftreibungskoeffizienten
-
-__Aufgabe:__ Bestimmen Sie die Haftreibungszahl $\mu_{Haft}$ zwischen einem Holzklotz und einer Plastikschiene mit zwei Messmethoden. Fertigen Sie ein Kurzprotokoll an.
-
-1. Teilen Sie dazu das Blatt in zwei Teile.
-
-2. Notieren Sie jeweils die Versuchsmethode und zeichnen Sie eine Skizze. 
-
-3. Notieren Sie Ihre Messwerte. Geben Sie zu beiden Methoden ein Ergebnis der Haftreibungszahl $\mu_{Haft}$ an.
-
-4. Vergleichen Sie beide Ergebnisse. Nehmen Sie Bezug auf die Ungenauigkeit der jeweiligen Messung (Fehlerbetrachtung).
-
-<p class="newspaper">
-
-__Versuch 1__
-
-_Messmethode 1:_ Nutzen Sie einen Federkraftmesser und bestimmen Sie für 3 zugeladene Massestücke die Gewichtskraft (50g, 100g, 150g), sowie die Haftreibungskraft des Holzklotzes mit der Plastikschiene. Ermitteln Sie daraus den Haftreibungskoeffizienten $\mu_{Haft}$.
-
-<p class ="cb">
-
-__Versuch 2__
-
-_Messmethode 2:_ Nutzen Sie eine schiefe Ebene  und bestimmen Sie die Haftreibungszahl mit Hilfe des Grenzwinkels $\alpha_G$ (siehe Fortsetzung Aufgabe 2.3/5). Nutzen Sie dieselben zugeladenen Massestücke, wie in Versuch 1.
-
-</p>
-
-</p>
-
-### 2.5.7 Übungsaufgaben
-
-Metzler S. 81/12
-
 
 
 
