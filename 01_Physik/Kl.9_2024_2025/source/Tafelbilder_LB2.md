@@ -255,24 +255,41 @@ __Aufgabe:__ Berechne den Wirkungsgrad, wenn es das Ziel ist:
 
 - c*) die Glühlampe im Auto zum Lesen zu verwenden.
 
-__Lösung:__ 
+__Lösung überprüfen:__ 
 
+{{1}}
+*************
 a) $\eta$ = [[ 0,3 ]] 
 [[?]] Überlege, welches im Fall a) die zugeführte und welches die genutze Energieform ist. Verwende dann die Formel für $\eta$
 [[?]] Die zugeführte Energieform beim Benzinmotor ist chemische Energie. Die genutzte Energieform (wenn man fahren will) ist kinetische Energie.
 [[?]] $\eta = \frac{E_{kin}}{E_{chem}}=\frac{1800 J}{6000 J}$
+*************
 
+{{2}}
+*************
 b) $\eta$ = [[ 65 ]] %
 [[?]] Hier ist $\eta$ in Prozent gefordert
 [[?]] Überlege, welches im Fall a) die zugeführte und welches die genutze Energieform ist. Verwende dann die Formel für $\eta$
 [[?]] Die zugeführte Energieform beim Benzinmotor ist chemische Energie. Die genutzte Energieform (wenn man heizen will) ist thermische Energie.
 [[?]] $\eta = \frac{E_{therm}}{E_{chem}} \cdot 100\%=\frac{3900 J}{6000 J}\cdot 100\%$
+*************
 
+{{3}}
+*************
 c) $\eta$ = [[ 0,125 ]] %
 [[?]] Dies ist eine zweistufige Energieumwandlung
 [[?]] Zunächste wird chemische Energie vom Motor in elektrische umgewandelt. Dann wird die elektrische Energie von der Glühlampe in Lichtenergie umgewandelt
 [[?]] chem -> el: 6000 J -> 150J. <br> Im Anschluss muss der Wirkungsgrad der Glühlampe berücksichtigt werden (siehe 2.4.1)
 [[?]] Mit dem Wirkungsgrad der Glühlampe von 5% ergibt sich, dass die 150J elektrische Energie in $150\cdot0,05=7,5 J$ Lichtenergie umgewandelt werden.
 [[?]] Der gesamte Wirkungsgrad beträgt also $\eta = \frac{7,5 J}{6000 J} \cdot 100\% = 0,125 \%$
+*************
 
+{{1}}
+*************
 _Hinweis: Klicke auf die Glühlampen für Lösungshinweise_
+*************
+
+## 2.5 Energiebedarf moderner Gesellschaften
+
+_-> LB S. 32/33/35_
+
