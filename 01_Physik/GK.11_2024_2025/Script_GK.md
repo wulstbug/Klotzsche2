@@ -43,11 +43,11 @@ __Energie__
 
 {{1}}
 *****************
-> Defition: Energie beschreibt die Fähigkeit eines Körpers:
+> Definition: Energie beschreibt die Fähigkeit eines Körpers:
 *****************
 {{2}}
 *****************
->- mechanische Arbeit zu verrichten (z.B. Beschleunigen, Verformen)
+>- mechanische Arbeit zu verrichten (z.B. Beschleunigen oder Verformen eines Körpers)
 >- Licht auszusenden
 >- Wärme abzugeben
 *****************
