@@ -597,14 +597,14 @@ __Beispiel:__
 
 Zeige für folgende Formeln, dass sich die geforderte Standard-Einheit ergibt.
 
-|#  | Formel | Std-Einheit |
+|#  | Formel | Standard-Einheit |
 | -- | ---------------- | --------------- |
-| 1 | $\sqrt{\dfrac{2\cdot E_{kin}}{m}}$ | |
-| 2 | $\dfrac{E_{pot}}{g \cdot h}$ | |
-| 3 | $F \cdot \Delta t $ | |
-| 4 | $\frac{1}{2} \cdot D \cdot s^2 $ | |
-| 5 | $\dfrac{F_g}{m}$ | |
-| 6 | $\dfrac{m_1 + m_2}{m_2}\sqrt{2\cdot g\cdot h}$ | | 
+| 1 | $v = \sqrt{\dfrac{2\cdot E_{kin}}{m}}$ | $\Big[\dfrac{m}{s}\Big]$ |
+| 2 | $h = \dfrac{E_{pot}}{g \cdot h}$ | $\Big[m\Big]$ |
+| 3 | $\Delta p = F \cdot \Delta t $ | $\Big[\dfrac{kg \cdot m}{s}\Big]$ |
+| 4 | $W_{sp} = \frac{1}{2} \cdot D \cdot s^2 $ | $\Big[J\Big]$ |
+| 5 | $g = \dfrac{F_g}{m}$ | $\Big[ \dfrac{m}{s^2} \Big]$ |
+| 6 | $v = \dfrac{m_1 + m_2}{m_2}\sqrt{2\cdot g\cdot h}$ | $\Big[\dfrac{m}{s}\Big]$ | 
 
 
 
