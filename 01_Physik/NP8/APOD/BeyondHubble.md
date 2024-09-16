@@ -53,6 +53,26 @@ window.LIA.settings.font_size = 3
 
 -->
 
+# Naturwissenschaftliches Profil Klasse 8
+
+Optische Anwendungen
+
+Christian Golnik
+
+## Motivation
+
+!?[SizeComparison](https://www.youtube.com/watch?v=8Are9dDbW24)
+
+## Grundlagen Lichtausbreitung
+
+https://gykl-my.sharepoint.com/:p:/g/personal/golnik_ch_gykl_onmicrosoft_com/EVfNIbPXPGVMsZCSjCfHx4QBg8pnsp4oCQuA5ZfTPb-L6w?rtime=3y0ChWpc3Eg
+
+
+## Experiment
+
+![Reflexion](https://diversewolken.ddns.net/nextcloud/index.php/s/JCT9JePScdeyfSs/download)
+
+## Konstrukion in Geogebra
 
 # Der Hohlspiegel am Hubble-Teleskop
 
