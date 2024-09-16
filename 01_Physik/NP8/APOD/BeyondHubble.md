@@ -53,6 +53,63 @@ window.LIA.settings.font_size = 3
 
 -->
 
+
+# Der Hohlspiegel am Hubble-Teleskop
+
+{{0-1}}
+*********************
+<H3> Konstruktion am kugelförmigen (sphärischen) Hohlspiegel => kein scharfer Brennpunkt</H3>
+
+??[HubbleSphHohlspiegel](https://www.geogebra.org/classic/kwrjkabx)
+*********************
+
+{{1}}
+*********************
+<H3> Konstruktion am parabelförmigen Hohlspiegel (Parabolspiegel)</H3>
+
+??[Konstruktion](https://www.geogebra.org/classic/bbuu7mb6)
+*********************
+
+
+
+# Aufgabenstellung
+
+<section class="newspaper">
+
+- Verwende die Webseite https://ogy.de/golnik um zu den Geogebraoptionen zu kommen.
+
+> ??[ogy.de/golnik](http://gykl.lernsax.de/golnik.ch/.ws_gen/4/index.htm)
+
+<p class="cb"> Aufgaben </p>
+
+1. Nutze die Einfache Konstruktionsumgebung um die Reflexion an einem Hohlspiegel zu konstruieren und einen _perfekten_ Brennpunkt zu erzeugen
+
+2. Wähle eine der folgenden Aufgaben
+
+2.1. Konstruiere ein Hubble-Teleskop mit Primär- und Sekundärspiegel mit möglichst optimalem Brennpunkt (Bsp. siehe Hubble-Test). Nutze hierfür auch die __Einfache Konstruktionsumgebung__ 
+
+    => (freiwillige Bewertung möglich)
+
+2.2. Konstruiere die Schattenentstehung an einer bewegten Sonne
+
+</section>
+
+# Astronomic Picture of the day
+
+Die NASA veröffentlicht jeden Tag ein Astronomic picture of the day (APOD).
+
+-> https://apod.nasa.gov/apod/
+
+<H3> Aufgaben (__via ogy.de/golnik__): </H3>
+
+1. Suche in der Datenbank das APOD eines Planeten dieses Sonnensystems (und belasse es in einem Tab geöffnet)
+
+2. Suche in der Datenbank das APOD eines Sternzeichens (und belasse es in einem Tab geöffnet)
+
+3. Finde in der Datenbank das APOD deines Geburtstags (und belasse es in einem Tab geöffnet).
+
+4. Suche in der Datenbank ein APOD, dass dir persönlich und ästhetisch sehr gut gefällt.
+
 # Hubble und James Webb
 
 <p class="newspaper">
