@@ -1751,7 +1751,7 @@ $\hspace{1cm}$ ...
 
 > Der $c_w$ spielt bei Fahrzeugen eine entscheidene Rolle, denn er beschreibt die Luftwiderstandskraft, welche bei Fahrten aufgewendet werden muss und sagt somit etwas über den Benzin/Energieverbrauch des Fahrzeugs aus. 
 >
-> In Deutschland wird immer wieder über ein Tempolimit von $130\,\frac{km}{h}$ diskutiert. Untersuche für zwei Fahrzeuge (1. VW T5 (Multivan) | 2. Selbst gewähltes Fahrzeug) die Luftwiederstandskraft bei einer gleichförmigen Fahrtgeschwindigkeit von $100\,\frac{km}{h}$, $130\,\frac{km}{h}$ und $180,\frac{km}{h}$. Fertige dazu eine Tabelle an.
+> In Deutschland wird immer wieder über ein Tempolimit von $130\,\frac{km}{h}$ diskutiert. Untersuche für zwei Fahrzeuge (1. [VW T5 (Multivan)](https://de.wikipedia.org/wiki/VW_T5%2FT6) | 2. Selbst gewähltes Fahrzeug) die Luftwiederstandskraft bei einer gleichförmigen Fahrtgeschwindigkeit von $100\,\frac{km}{h}$, $130\,\frac{km}{h}$ und $180,\frac{km}{h}$. Fertige dazu eine Tabelle an.
 >
 > $c_w$_Werte und Querschnittsflächen gängiger Fahrzeugtypen können [hier](https://automobil-guru.de/cw-werte-tabelle-stirnflaeche/) ermittelt werden.
 >
