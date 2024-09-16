@@ -606,9 +606,148 @@ Zeige für folgende Formeln, dass sich die geforderte Standard-Einheit ergibt.
 | 5 | $g = \dfrac{F_g}{m}$ | $\Big[ \dfrac{m}{s^2} \Big]$ |
 | 6 | $v = \dfrac{m_1 + m_2}{m_2}\sqrt{2\cdot g\cdot h}$ | $\Big[\dfrac{m}{s}\Big]$ | 
 
+## 2.7 Luftwiderstandskraft
+
+> Die Luftwiderstandskraft hängt von der Querschnittsfläche des Körpers, der Dichte der Luft, dem Quadrat der Geschwindigkeit und dem $c_w$-Wert des Körpers ab: 
+>
+> $$F_{Luft} = \frac{1}{2} \cdot c_w \cdot A \cdot \rho_{Luft} \cdot v^2$$
+>
+> mit:
+>
+> $\hspace{1cm}$ $F_{Luft}$ ... Luftwiderstandskraft
+>
+> $\hspace{1cm}$ $c_w$ ... Luftwiderstandswert
+>
+> $\hspace{1cm}$ $A$ ... (projezierte) Querschnittsfläche
+>
+> $\hspace{1cm}$ $\rho_{Luft}$ ... Dichte der Luft
+>
+> $\hspace{1cm}$ $v$ ... Bewegungsgeschwindigkeit
 
 
-## 2.7 Reibungsarbeit
+{{1}}
+***********
+
+__Einheitenbetrachtung__:
+
+{{2}}
+***********
+![Tb_Einheiten_cw](https://diversewolken.ddns.net/nextcloud/index.php/s/x8HZPgoPBq9G4cG/download)
+***********
+
+
+__Schülerexperiment $c_w$-Bestimmung Papierkegel:__
+
+{{3}}
+***********
+
+<p class="newspaper">
+
+Bestimme den $c_w$_Wert eines Papierkegels.
+
+Bestimme dazu <br>
+
+- die (projezierte) Fläche $A$ des Kegels
+
+<details>
+
+<summary>Hinweis $A$</summary>
+
+> _Bestimme den Radius oder Durchmesser des Außenkegels und ermittle den Flächeninhalt A des Kreises (in m²)_
+
+</details>
+
+- die Luftwiderstandskraft $F_{Luft}$ bei gleichförmiger Bewegung im freien Fall
+
+<details>
+
+<summary>Hinweis $F_{Luft}$</summary>
+
+> _Bei gleichförmiger Bewegung im freien Fall ist die Summe aller wirkenden Kräfte gleich Null (1. Newton'sches Axiom). Da außer der Luftwiderstandskraft nur die Gewichtskraft wirkt, müssen diese beiden gleich groß sein. Ermittle für die Bestimmung von $F_{Luft}$ die Gewichtskraft und nutze $F_{Luft}=F_g$_
+
+</details>
+
+- die Bewegungsgeschwindigkeit $v$ im freien Fall
+
+<details>
+
+<summary>Hinweis $v$</summary>
+
+> _Bei gleichförmiger Bewegung im freien Fall kann die Bewegungsgeschwindigkeit über die Gleichung $v=\frac{s}{t}$ ermittelt werden. Achte bei der Wahl der Strecke darauf, dass die gemessene Zeit so groß ist, dass die Reaktionsgeschwindigkeit (ca. 0.3s) nicht mehr als 10% beträgt._
+
+</details>
+
+- die Dichte der Luft $\rho_{Luft}$
+
+<details>
+
+<summary>Hinweis $\rho_{Luft}$ </summary>
+
+> _Die aktuelle Luftdichte ist ein täglich wechselnder Wert und kann online ermittelt werden. Achte bei der Einheit auf die Standardeinheit $[\frac{kg}{m^3}]$_. Z.B. hier
+
+</details>
+
+<p class="cb">
+
+![PapierKegel](https://diversewolken.ddns.net/nextcloud/index.php/s/7Gi2pbyzdAyjD5J/download)
+
+</p>
+
+</p>
+***********
+
+{{4}}
+***********
+Messwerte:
+
+$\hspace{0.5cm}$ geg.:
+
+$\hspace{1cm}$ $\rho_{Luft}= $
+
+$\hspace{1cm}$ $A= $
+
+$\hspace{1cm}$ $\rho_{Luft} = $
+
+$\hspace{1cm}$ $F_{Luft}= $
+
+$\hspace{0.5cm}$ ges.:
+
+$\hspace{1cm}$ $c_W$ 
+
+Berechung:
+
+$\hspace{1cm}$ ...
+
+***********
+
+***********
+
+### 2.7.1 Übung zum $c_w$-Wert
+
+> Der $c_w$ spielt bei Fahrzeugen eine entscheidene Rolle, denn er beschreibt die Luftwiderstandskraft, welche bei Fahrten aufgewendet werden muss und sagt somit etwas über den Benzin/Energieverbrauch des Fahrzeugs aus. 
+>
+> In Deutschland wird immer wieder über ein Tempolimit von $130\,\frac{km}{h}$ diskutiert. Untersuche für zwei Fahrzeuge (1. [VW T5 (Multivan)](https://de.wikipedia.org/wiki/VW_T5%2FT6) | 2. Selbst gewähltes Fahrzeug) die Luftwiederstandskraft bei einer gleichförmigen Fahrtgeschwindigkeit von $100\,\frac{km}{h}$, $130\,\frac{km}{h}$ und $180,\frac{km}{h}$. Fertige dazu eine Tabelle an.
+>
+> $c_w$_Werte und Querschnittsflächen gängiger Fahrzeugtypen können [hier](https://automobil-guru.de/cw-werte-tabelle-stirnflaeche/) ermittelt werden.
+>
+> Nutze für die Dichte der Luft eine mittleren Wert von $1,12\frac{kg}{m^3}$
+
+| | || 
+| | VW-T5 | 2. Fahrzeug |
+| | $F_{Luft}$ in N | $F_{Luft}$ in N |
+| $100\,\frac{km}{h}$ | | |
+| $130\,\frac{km}{h}$ | | |
+| $180\,\frac{km}{h}$ | | |
+
+<details>
+
+<summary>Beispiel T5 </summary>
+
+> ![LsgLWT5](https://diversewolken.ddns.net/nextcloud/index.php/s/iirTC4DjQSrkb28/download)
+
+</details>
+
+## 2.8 Reibungsarbeit
 
 > $W_R = F_R \cdot s$
 
