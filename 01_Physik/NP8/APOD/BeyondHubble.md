@@ -242,3 +242,28 @@ __Aufgabe:__ Analysiere mit Hilfe des Bildes an der Tafel und die Elemente des A
 
 !?[ArteDokuJamesWebb](https://www.youtube.com/watch?v=Jb48AM77YFw)
 
+# Wiederholung Linsenabbildungen
+
+!?[BildentstehungLinsenabbildung](https://www.youtube.com/watch?v=NF2dl9GkDdc "Bildenstehung an optischen Linsen (LEIFI-Physik)")
+
+## Aufgaben Konstruktion und Test
+
+<p class="newspaper">
+
+__Aufgabe 1:__ Logge dich bei Moodle ein und absolviere den Probe Test.
+
+__Webseite:__ ogy.de/golnik -> Nawi 8 2024-2025 -> Moodle Nawi 8
+
+__Login:__ nachnahme.vorname@gykl.lernsax.de
+
+__Erstpasswort:__ nachname.vorname
+
+<p class="cb">
+
+__Aufgabe 2:__ Konstruiere die Abbildung an einer Sammellinse.
+
+__Webseite:__ ogy.de/golnik -> Nawi 8 2024-2025 -> Einfache Konstruktionsumgebung
+
+</p>
+
+</p>
