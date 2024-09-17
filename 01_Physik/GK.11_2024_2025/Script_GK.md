@@ -34,7 +34,7 @@ window.LIA.settings.font_size = 2
 
 -->
 
-# Grundkurs Physik - Skript
+# Grundkurs Physik 2024/2025 - Skript
 
 <div style="text-align:center;padding:1em 0;"> <iframe src="https://www.zeitverschiebung.net/clock-widget-iframe-v2?language=de&size=large&timezone=Europe%2FBerlin" width="100%" height="90" frameborder="0" seamless></iframe> </div>
 
