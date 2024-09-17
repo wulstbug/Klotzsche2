@@ -81,6 +81,7 @@ __Definition:__ Ein Energieflussdiagramm __EFD__(Synonym: Energieumwandlungskett
 
 __Beispiel:__ Glühlampe
 
+<!-- style="width:50%" -->
 ``` ascii
             '----------'
             |          |
@@ -122,6 +123,7 @@ __Beispiel:__ Glühlampe
 
 {{1}}
 *********
+<!-- style="width:50%" -->
 ``` ascii
             '----------'
             | Lichten. |
@@ -145,6 +147,7 @@ __Beispiel:__ Glühlampe
 {{2}}
 *********
 
+<!-- style="width:50%" -->
 ``` ascii
             '----------'
            ^| Lichten. |
