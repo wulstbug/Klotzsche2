@@ -1639,13 +1639,13 @@ Zeige für folgende Formeln, dass sich die geforderte Standard-Einheit ergibt.
 >
 > mit:
 >
-> $\hspace{1cm}$ $F_{Luft}$ ... Luftwiderstandskraft  $\Big[ N \Big]$
+> $\hspace{1cm}$ $F_{Luft}$ ... Luftwiderstandskraft $\Big[ N \Big]$
 >
-> $\hspace{1cm}$ $c_w$ ... Luftwiderstandswert
+> $\hspace{1cm}$ $c_w$ ... Luftwiderstandswert [einheitenlos]
 >
-> $\hspace{1cm}$ $A$ ... (projezierte) Querschnittsfläche  $\Big[ m^2 \Big]$
+> $\hspace{1cm}$ $A$ ... (projezierte) Querschnittsfläche $\Big[ m^2 \Big]$ 
 >
-> $\hspace{1cm}$ $\rho_{Luft}$ ... Dichte der Luft  $\Big[ \dfrac{kg}{m^3} \Big]$
+> $\hspace{1cm}$ $\rho_{Luft}$ ... Dichte der Luft $\Big[ \dfrac{kg}{m^3} \Big]$
 >
 > $\hspace{1cm}$ $v$ ... Bewegungsgeschwindigkeit $\Big[ \dfrac{m}{s} \Big]$
 
