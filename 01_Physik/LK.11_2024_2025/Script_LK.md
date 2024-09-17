@@ -1759,12 +1759,14 @@ __Papierkegel:__
 
 {{1}}
 *************
-> Berechung:
+__Lösung:__
+
+> $\hspace{0.5cm}$
 >
->$\hspace{1cm}$ $A=\frac{\pi}{4}{d^2}$=<script input="button">
+>$\hspace{1cm}$ $A=\frac{\pi}{4}{d^2}$= <script input="button">
     let d = document.getElementById("d").value;
     let A = d*d/4*3.1415
-    if (isNaN(A)) 0
+    if ((isNaN(A))||(A==0)) 0
     else A.toPrecision(3)
  </script> $m^2$
 >
