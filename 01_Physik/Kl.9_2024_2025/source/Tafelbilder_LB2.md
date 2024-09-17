@@ -83,18 +83,18 @@ __Beispiel:__ Glühlampe
 
 <!-- style="width:50%" -->
 ``` ascii
-            '----------'
-            |          |
-           ^| Lichten. |
-'--------'/ |          |
-|        |  '----------'
+              '----------'
+              |          |
+           .->| Lichten. |
+'--------'/   |          |
+|        |    '----------'
 |el. En. |  
 |        |
-'--------'\ '----------'
-           v|          |
-            | Wärmeen. |
-            |          |
-            '----------'
+'--------'\   '----------'
+           .->|          |
+              | Wärmeen. |
+              |          |
+              '----------'
 ```
 
 ## 2.4 Der Wirkungsgrad $\eta$ oder "Die Effizienz von Energiewandlern"
@@ -262,6 +262,7 @@ __Lösung überprüfen:__
 
 {{1}}
 *************
+<!-- data-solution-button=off -->
 a) $\eta$ = [[ 0,3 ]] 
 [[?]] Überlege, welches im Fall a) die zugeführte und welches die genutze Energieform ist. Verwende dann die Formel für $\eta$
 [[?]] Die zugeführte Energieform beim Benzinmotor ist chemische Energie. Die genutzte Energieform (wenn man fahren will) ist kinetische Energie.
@@ -270,6 +271,7 @@ a) $\eta$ = [[ 0,3 ]]
 
 {{2}}
 *************
+<!-- data-solution-button=off -->
 b) $\eta$ = [[ 65 ]] %
 [[?]] Hier ist $\eta$ in Prozent gefordert
 [[?]] Überlege, welches im Fall a) die zugeführte und welches die genutze Energieform ist. Verwende dann die Formel für $\eta$
@@ -279,6 +281,7 @@ b) $\eta$ = [[ 65 ]] %
 
 {{3}}
 *************
+<!-- data-solution-button=off -->
 c) $\eta$ = [[ 0,125 ]] %
 [[?]] Dies ist eine zweistufige Energieumwandlung
 [[?]] Zunächste wird chemische Energie vom Motor in elektrische umgewandelt. Dann wird die elektrische Energie von der Glühlampe in Lichtenergie umgewandelt
