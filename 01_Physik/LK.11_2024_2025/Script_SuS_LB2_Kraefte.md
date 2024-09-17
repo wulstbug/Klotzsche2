@@ -683,7 +683,7 @@ Bestimme dazu <br>
 
 <summary>Hinweis $\rho_{Luft}$ </summary>
 
-> _Die aktuelle Luftdichte ist ein täglich wechselnder Wert und kann online ermittelt werden. Achte bei der Einheit auf die Standardeinheit $[\frac{kg}{m^3}]$_. Z.B. hier
+> _Die aktuelle Luftdichte ist ein täglich wechselnder Wert und kann online ermittelt werden. Achte bei der Einheit auf die Standardeinheit $[\frac{kg}{m^3}]$_. Z.B. [hier](https://wind-data.ch/tools/luftdichte.php)
 
 </details>
 
