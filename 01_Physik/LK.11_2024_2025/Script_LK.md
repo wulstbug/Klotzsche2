@@ -1766,7 +1766,7 @@ __Lösung:__
 >$\hspace{1cm}$ $A=\frac{\pi}{4}{d^2}$= <script input="button">
     let d = document.getElementById("d").value;
     let A = d*d/4*3.1415
-    if ((isNaN(A))||(A==0)) 0
+    if ((isNaN(A))||(A==0)) "..."
     else A.toPrecision(3)
  </script> $m^2$
 >
@@ -1774,9 +1774,17 @@ __Lösung:__
     let t = document.getElementById("t").value;
     let s = document.getElementById("s").value;
     let v = s/t
-    if (isNaN(v)) 0
+    if (isNaN(v)) "..."
     else v.toPrecision(3)
  </script> $\dfrac{m}{s}$
+>
+>$\hspace{1cm}$ $F_g=F_{Luft}=m \cdot g=$ <script input="button">
+    let g = 9.81;
+    let m = document.getElementById("m").value;
+    let F = m*g
+    if (isNaN(F)||(F==0)) "..."
+    else F.toPrecision(3)
+ </script> $N$
 >
 >$\hspace{1cm}$ $c_w=\dfrac{2\cdot F_{Luft}}{A \cdot \rho_{Luft} \cdot v^2}$ = <script input="button">
     let d = document.getElementById("d").value;
@@ -1788,7 +1796,7 @@ __Lösung:__
     let v = s/t;
     let A = 3.1415/4*d*d
     let result = 2*m*g/(A*rho*v*v)
-    if (isNaN(result)) 0
+    if (isNaN(result)) "..."
     else result.toPrecision(3)
  </script>
 *************
