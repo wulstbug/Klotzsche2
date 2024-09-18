@@ -1843,3 +1843,9 @@ __Lösung:__
 *************
 >> Die durch Reibungsarbeit umgwandelte Energie wird in vielen Fällen in Innere Energie umgewandelt (z.B. Wärme).Man sagt sie wird dadurch _entwertet_ (d.h. schlecht nutzbar).
 *************
+
+## 2.8.1 Übung zum Verbauch von Kraftfahrzeugen
+
+Für den Volkswagen Mulitvan T5 gibt der Hersteller bei konstanter Fahrt (90 km/h) einen Benzinverbrauch von 8,2 l je 100 km an. Die Fahrzeugmasse beträgt mit Zuladung 2,5 t. Der Rollreibungskoeffizient von Kraftfahrzeugreifen kann mit 0,02 angenommen werden. 
+
+__Aufgabe:__ Vergleichen Sie die im angegebenen Benzinvolumen enthaltene chemische Energie (Brennwert) mit der verrichteten Reibungsarbeit. Berücksichtigen Sie hierzu den Luftwiderstand und die Rollreibung. Diskutieren Sie mögliche Unterschiede.
