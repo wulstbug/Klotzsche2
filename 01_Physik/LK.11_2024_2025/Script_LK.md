@@ -1814,9 +1814,9 @@ __Lösung:__
 | | || 
 | | VW-T5 | 2. Fahrzeug |
 | | $F_{Luft}$ in N | $F_{Luft}$ in N |
-| $100\,\frac{km}{h}$ | | |
-| $130\,\frac{km}{h}$ | | |
-| $180\,\frac{km}{h}$ | | |
+| $100\,\frac{km}{h}$ | 492 | |
+| $130\,\frac{km}{h}$ | 831 | |
+| $180\,\frac{km}{h}$ | 1593 | |
 
 <details>
 
@@ -1833,7 +1833,7 @@ __Lösung:__
 
 > mit:
 >
-> $\hspace{0.5cm}$ $W_R$ .. Reibungsarbeit in $[N]$
+> $\hspace{0.5cm}$ $W_R$ .. Reibungsarbeit in $[J]$
 >
 > $\hspace{0.5cm}$ $F_R$ .. Reibungskraft in $[N]$
 >

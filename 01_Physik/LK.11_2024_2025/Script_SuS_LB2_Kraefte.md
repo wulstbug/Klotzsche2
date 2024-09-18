@@ -754,7 +754,7 @@ $\hspace{1cm}$ ...
 
 > mit:
 >
-> $\hspace{0.5cm}$ $W_R$ .. Reibungsarbeit in $[N]$
+> $\hspace{0.5cm}$ $W_R$ .. Reibungsarbeit in $[J]$
 >
 > $\hspace{0.5cm}$ $F_R$ .. Reibungskraft in $[N]$
 >
