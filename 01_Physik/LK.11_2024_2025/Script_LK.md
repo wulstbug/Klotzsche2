@@ -1846,6 +1846,47 @@ __Lösung:__
 
 ## 2.8.1 Übung zum Verbauch von Kraftfahrzeugen
 
-Für den Volkswagen Mulitvan T5 gibt der Hersteller bei konstanter Fahrt (90 km/h) einen Benzinverbrauch von 8,2 l je 100 km an. Die Fahrzeugmasse beträgt mit Zuladung 2,5 t. Der Rollreibungskoeffizient von Kraftfahrzeugreifen kann mit 0,02 angenommen werden. 
+Für den Volkswagen Mulitvan T5 gibt der Hersteller bei konstanter Fahrt (90 km/h) einen Benzinverbrauch von 8,2 Liter je 100 km an. Die Fahrzeugmasse beträgt mit Zuladung 2,5 t. Der Rollreibungskoeffizient von Kraftfahrzeugreifen kann mit 0,02 angenommen werden. 
 
-__Aufgabe:__ Vergleichen Sie die im angegebenen Benzinvolumen enthaltene chemische Energie (Brennwert) mit der verrichteten Reibungsarbeit. Berücksichtigen Sie hierzu den Luftwiderstand und die Rollreibung. Diskutieren Sie mögliche Unterschiede.
+> __Aufgabe 1:__ Vergleichen Sie die im angegebenen Benzinvolumen enthaltene chemische Energie (Brennwert) mit der verrichteten Reibungsarbeit. Berücksichtigen Sie hierzu den Luftwiderstand und die Rollreibung. Diskutieren Sie mögliche Unterschiede und deren Ursache.
+
+<details>
+
+<summary> Hilfe 1: Reibungsarbeit </summary>
+
+Die betrachteten Reibungskräfte sind Rollreibung und Luftreibung. Berechnen Sie die beiden Kräfte (Rollreibung siehe 2.5.2,Luftreibung siehe 2.7.1).
+
+Vergleichswerte:
+
+ - $F_{roll}= 490,5\,N$ 
+  
+ - $F_{Luft}= 444,3\,N$
+
+</details>
+
+<details>
+
+<summary> Hilfe 2: Reibungsarbeit </summary>
+
+Ermitteln Sie die verrichtete Arbeit auf der Strecke s = 100 km mit der Formel W = F * s.
+
+</details>
+
+<details>
+
+<summary> Hilfe 3: Chemische Energie </summary>
+
+Recherchieren Sie den Brennwert von einem Liter Benzin. Ermitteln Sie den gesamten Brennwert von 8,2 Litern.
+
+</details>
+
+<details>
+
+<summary> Hilfe 4: Vergleich </summary>
+
+Die enthaltene chemische Energie (ca. 260 MJ) ist deutlich höher als die verrichtete Reibungsarbeit (ca. 90 MJ). Überlegen Sie, ob die zugeführte chemische Energie vollständig in die Bewegung des Fahrzeugs umgewandelt wird.
+
+</details>
+
+> __Aufgabe 2:__ Ermitteln Sie die Geschwindigkeit, bei welcher Rollreibungskraft und Luftreibungskraft den gleichen Wert haben.
+
