@@ -764,3 +764,203 @@ $\hspace{1cm}$ ...
 *************
 >> Die durch Reibungsarbeit umgwandelte Energie wird in vielen Fällen in Innere Energie umgewandelt (z.B. Wärme).Man sagt sie wird dadurch _entwertet_ (d.h. schlecht nutzbar).
 *************
+
+### 2.8.1 Übung zum Verbauch von Kraftfahrzeugen
+
+Für den Volkswagen Mulitvan T5 gibt der Hersteller bei konstanter Fahrt (90 km/h) einen Benzinverbrauch von 8,2 Liter je 100 km an. Die Fahrzeugmasse beträgt mit Zuladung 2,5 t. Der Rollreibungskoeffizient von Kraftfahrzeugreifen kann mit 0,02 angenommen werden. 
+
+> __Aufgabe 1:__ Vergleichen Sie die im angegebenen Benzinvolumen enthaltene chemische Energie (Brennwert) mit der verrichteten Reibungsarbeit. Berücksichtigen Sie hierzu den Luftwiderstand und die Rollreibung. Diskutieren Sie mögliche Unterschiede und deren Ursache.
+
+<details>
+
+<summary> Hilfe 1: Reibungsarbeit </summary>
+
+Die betrachteten Reibungskräfte sind Rollreibung und Luftreibung. Berechnen Sie die beiden Kräfte (Rollreibung siehe 2.5.2,Luftreibung siehe 2.7.1).
+
+Vergleichswerte:
+
+ - $F_{roll}= 490,5\,N$ 
+  
+ - $F_{Luft}= 444,3\,N$
+
+</details>
+
+<details>
+
+<summary> Hilfe 2: Reibungsarbeit </summary>
+
+Ermitteln Sie die verrichtete Arbeit auf der Strecke s = 100 km mit der Formel W = F * s.
+
+</details>
+
+<details>
+
+<summary> Hilfe 3: Chemische Energie </summary>
+
+Recherchieren Sie den Brennwert von einem Liter Benzin. Ermitteln Sie den gesamten Brennwert von 8,2 Litern.
+
+</details>
+
+<details>
+
+<summary> Hilfe 4: Vergleich </summary>
+
+Die enthaltene chemische Energie (ca. 260 MJ) ist deutlich höher als die verrichtete Reibungsarbeit (ca. 90 MJ). Überlegen Sie, ob die zugeführte chemische Energie vollständig in die Bewegung des Fahrzeugs umgewandelt wird.
+
+</details>
+
+> __Aufgabe 2:__ Ermitteln Sie die Geschwindigkeit, bei welcher Rollreibungskraft und Luftreibungskraft den gleichen Wert haben.
+
+> __Aufgabe 3:__ Das Tesla Modell 3 hat einen cw-Wert von 0,23 und eine projezierte Stirnfläche von 2,22 m². Die maximale, in der Batterie speicherbare Energie wird vom Hersteller mit 75 kWh angegeben. Die Masse des Fahrzeugs beträgt inlusive der Ladung/Personen 2 t. Die Rollreibungszahl zwischen Reifen und Fahrbahn beträgt 0,02. 
+>
+> Für den zu untersuchenden Fall soll das Fahrzeug einen Hang hinauf fahren. Die Steigung beträgt 12%. Der Tempomat wird dabei auf 90 km/h eingestellt, sodass sich Fahrzeug mit konstanter Geschwindigkeit bewegt. Die Länge des Hangs beträgt 12 km. Die Dichte der Luft kann mit 1,12 kg/m³ angenommen werden.
+> 1. Untersuchen sie die bei dieser Fahrt die zu verrichtende Arbeit. Vergleichen Sie dazu unterschiedliche Anteile der Arbeit miteinander.
+>
+> 2. Ermitteln Sie, um wieviel Prozent die Batteriekapazität sinkt, wenn  diese Fahrt durchgeführt wird
+
+<details>
+
+<summary> Hilfe 1: Arten verrichteter Arbeit </summary>
+
+Überlegen Sie, welche Arten von Arbeit hier verrichtet werden.
+
+<div style="text-indent:5%">
+
+<details>
+
+<summary> Antwort </summary>
+
+Hier wird Hubarbeit $W_H$, Rollreibungsarbeit $W_{Roll}$ und Luftreibungsarbeit $W_{Luft}$ verrichtet
+
+</details>
+
+</div>
+
+</details>
+
+
+<details>
+
+<summary> Hilfe 2: Berechnung der verrichteten Arbeit </summary>
+
+- Hubarbeit $W_H$ entspricht der potentiellen Energie, welche dem Körper am Ende der Fahrt zugeführt worden ist.
+
+<div style="text-indent:5%">
+
+<details>
+
+<summary> Berechnung Rollreibungsarbeit $W_{roll}$ </summary>
+
+> geg.: 
+>
+> $\hspace{1cm}$ $m = 2000 kg$
+>
+> $\hspace{1cm}$ $s = 12.000 m$
+>
+> $\hspace{1cm}$ $\alpha = 12^\circ$
+>
+> $\hspace{1cm}$ $\mu_{roll} = 0,02$
+>
+> ges.: 
+>
+> $\hspace{1cm}$ $W_{roll}$
+>
+> Lsg.:
+>
+> $\hspace{1cm}$ $ W_{roll} = F_{roll} \cdot s = F_N \cdot \mu_{roll} \cdot s = m \cdot g \cdot \cos\alpha \cdot \mu_{roll} \cdot s$
+>
+> $\hspace{1cm}$ Die Rollreibung $F_{roll}$ muss mit der Normalkraft (s. 2.5.2) und dem Rollreibungskoeffizienten berechnet werden. 
+>
+> $\hspace{1cm}$ $W_{roll} = 4605901 J \approx 4,61 MJ$
+
+</details>
+
+</div>
+
+<div style="text-indent:5%">
+
+<details>
+
+<summary> Berechnung Hubarbeit $W_H$ </summary>
+
+> geg.: 
+>
+> $\hspace{1cm}$ $m = 2000 kg$
+>
+> $\hspace{1cm}$ $s = 12.000 m$
+>
+> $\hspace{1cm}$ $\alpha = 12^\circ$
+>
+> ges.: 
+>
+> $\hspace{1cm}$ $W_H = E_{pot}$
+>
+> Lsg.:
+>
+> $\hspace{1cm}$ $ W_H = E_{pot} = m \cdot g c\dot h$
+>
+> $\hspace{1cm}$ Die zu erreichende Höhe kann hier mit dem Sinus im rechtwinkligen Dreieck ermittelt werden
+>
+> $\hspace{1cm}$ $h = s \cdot \sin(\alpha) = 2495 m$
+>
+> $\hspace{1cm}$ => $ W_H = E_{pot} = 48951900 \approx 48,95 MJ$
+
+</details>
+
+</div>
+
+<div style="text-indent:5%">
+
+<details>
+
+<summary> Berechnung Luftreibungsarbeit $W_{Luft}$ </summary>
+
+> geg.: 
+>
+> $\hspace{1cm}$ $m = 2000 kg$
+>
+> $\hspace{1cm}$ $A = 2,22 m^2$
+>
+> $\hspace{1cm}$ $c_w = 0,23$
+>
+> $\hspace{1cm}$ $\rho_{Luft} = 1,12 \frac{kg}{m^3}$
+>
+> $\hspace{1cm}$ $v=25 \frac{m}{s} $
+>
+> ges.: 
+>
+> $\hspace{1cm}$ $W_{Luft}$
+>
+> Lsg.:
+>
+> $\hspace{1cm}$ $ W_{Luft} = F_{Luft} \cdot s = \frac{1}{2} \cdot c_w \cdot A \cdot \rho_{Luft} \cdot v^2 \cdot s$
+>
+> $\hspace{1cm}$ Da die Geschwindigkeit konstant ist, ist die Luftreibung den gesamten Weg über konstant.
+>
+> $\hspace{1cm}$ $W_{Luft} = 2144520 J \approx 2,14 MJ$
+
+</details>
+
+</div>
+
+</details>
+
+<details>
+
+<summary> Hilfe 3: Vergleich </summary>
+
+Die Hubarbeit macht hier den größten Teil ($48,95 MJ$) aus, gefolgt von der Rollreibungsarbeit ($4,61$) der Luftreibungsarbeit ($2,14 MJ$). Die insgesamt verrichtete Arbeit beträgt demnach ca. 55,7 MJ.
+
+<div style="text-indent:5%">
+
+<details>
+
+<summary> Batterie-Kapazität </summary>
+
+Die Batteriekapazität von 75 kWH entspricht entspricht $75kW \cdot 3600s = 270.000 kWs = 270 MJ$ (da eine Stunde 3600s entspricht). Es gilt: $ 1Ws = 1 J$. Somit enthält die Batterie 270 MJ. Die verrichtete Arbeit entspricht demnach $\frac{55,7 MJ}{270 MJ} \approx 20,6 \% $.
+
+</details>
+
+</div>
+
+</details>
