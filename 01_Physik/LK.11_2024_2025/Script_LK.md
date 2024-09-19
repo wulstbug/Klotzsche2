@@ -1900,9 +1900,10 @@ Die enthaltene chemische Energie (ca. 260 MJ) ist deutlich höher als die verric
 > __Aufgabe 3:__ Das Tesla Modell 3 hat einen cw-Wert von 0,23 und eine projezierte Stirnfläche von 2,22 m². Die maximale, in der Batterie speicherbare Energie wird vom Hersteller mit 75 kWh angegeben. Die Masse des Fahrzeugs beträgt inlusive der Ladung/Personen 2 t. Die Rollreibungszahl zwischen Reifen und Fahrbahn beträgt 0,02. 
 >
 > Für den zu untersuchenden Fall soll das Fahrzeug einen Hang hinauf fahren. Die Steigung beträgt 12%. Der Tempomat wird dabei auf 90 km/h eingestellt, sodass sich Fahrzeug mit konstanter Geschwindigkeit bewegt. Die Länge des Hangs beträgt 12 km. Die Dichte der Luft kann mit 1,12 kg/m³ angenommen werden.
-> 1. Untersuchen sie die bei dieser Fahrt die zu verrichtende Arbeit. Vergleichen Sie dazu unterschiedliche Anteile der Arbeit miteinander.
 >
-> 2. Ermitteln Sie, um wieviel Prozent die Batteriekapazität sinkt, wenn  diese Fahrt durchgeführt wird
+> 3. 1. Untersuchen sie die bei dieser Fahrt die zu verrichtende Arbeit. Vergleichen Sie dazu unterschiedliche Anteile der Arbeit miteinander.
+>
+> 3. 2. Ermitteln Sie, um wieviel Prozent die Batteriekapazität sinkt, wenn  diese Fahrt durchgeführt wird
 
 <details>
 
