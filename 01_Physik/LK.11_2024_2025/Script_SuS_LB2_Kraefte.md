@@ -890,7 +890,7 @@ Hier wird Hubarbeit $W_H$, Rollreibungsarbeit $W_{Roll}$ und Luftreibungsarbeit 
 >
 > $\hspace{1cm}$ $s = 12.000 m$
 >
-> $\hspace{1cm}$ $\alpha = 12^\circ$
+> $\hspace{1cm}$ Steigung 12%
 >
 > $\hspace{1cm}$ $\mu_{roll} = 0,02$
 >
@@ -900,11 +900,13 @@ Hier wird Hubarbeit $W_H$, Rollreibungsarbeit $W_{Roll}$ und Luftreibungsarbeit 
 >
 > Lsg.:
 >
+> $\hspace{1cm}$ Winkel der Steigung wird berechnet mit $\alpha=\tan^{-1}(0,12)=6,8^\circ$
+>
 > $\hspace{1cm}$ $ W_{roll} = F_{roll} \cdot s = F_N \cdot \mu_{roll} \cdot s = m \cdot g \cdot \cos\alpha \cdot \mu_{roll} \cdot s$
 >
 > $\hspace{1cm}$ Die Rollreibung $F_{roll}$ muss mit der Normalkraft (s. 2.5.2) und dem Rollreibungskoeffizienten berechnet werden. 
 >
-> $\hspace{1cm}$ $W_{roll} = 4605901 J \approx 4,61 MJ$
+> $\hspace{1cm}$ $W_{roll} = 467568 J \approx 4,68 MJ$
 
 </details>
 
@@ -982,7 +984,7 @@ Hier wird Hubarbeit $W_H$, Rollreibungsarbeit $W_{Roll}$ und Luftreibungsarbeit 
 
 <summary> Hilfe 3: Vergleich </summary>
 
-Die Hubarbeit macht hier den größten Teil ($48,95 MJ$) aus, gefolgt von der Rollreibungsarbeit ($4,61$) der Luftreibungsarbeit ($2,14 MJ$). Die insgesamt verrichtete Arbeit beträgt demnach ca. 55,7 MJ.
+Die Hubarbeit macht hier den größten Teil ($28,25 MJ$) aus, gefolgt von der Rollreibungsarbeit ($4,68$) der Luftreibungsarbeit ($2,14 MJ$). Die insgesamt verrichtete Arbeit beträgt demnach ca. 35,07 MJ.
 
 <div style="text-indent:5%">
 
@@ -990,7 +992,7 @@ Die Hubarbeit macht hier den größten Teil ($48,95 MJ$) aus, gefolgt von der Ro
 
 <summary> Batterie-Kapazität </summary>
 
-Die Batteriekapazität von 75 kWH entspricht entspricht $75kW \cdot 3600s = 270.000 kWs = 270 MJ$ (da eine Stunde 3600s entspricht). Es gilt: $ 1Ws = 1 J$. Somit enthält die Batterie 270 MJ. Die verrichtete Arbeit entspricht demnach $\frac{35 MJ}{270 MJ} \approx 13 \% $.
+Die Batteriekapazität von 75 kWH entspricht entspricht $75kW \cdot 3600s = 270.000 kWs = 270 MJ$ (da eine Stunde 3600s entspricht). Es gilt: $ 1Ws = 1 J$. Somit enthält die Batterie 270 MJ. Die verrichtete Arbeit entspricht demnach $\frac{35,1 MJ}{270 MJ} \approx 13 \% $.
 
 </details>
 
