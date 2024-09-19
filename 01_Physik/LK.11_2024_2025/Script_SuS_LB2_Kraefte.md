@@ -922,7 +922,7 @@ Hier wird Hubarbeit $W_H$, Rollreibungsarbeit $W_{Roll}$ und Luftreibungsarbeit 
 >
 > $\hspace{1cm}$ $s = 12.000 m$
 >
-> $\hspace{1cm}$ $\alpha = 12^\circ$
+> $\hspace{1cm}$ Steigung 12\%
 >
 > ges.: 
 >
@@ -932,11 +932,11 @@ Hier wird Hubarbeit $W_H$, Rollreibungsarbeit $W_{Roll}$ und Luftreibungsarbeit 
 >
 > $\hspace{1cm}$ $ W_H = E_{pot} = m \cdot g c\dot h$
 >
-> $\hspace{1cm}$ Die zu erreichende Höhe kann hier mit dem Sinus im rechtwinkligen Dreieck ermittelt werden
+> $\hspace{1cm}$ Die zu erreichende Höhe kann mit der Steigung ermittelt werden.
 >
-> $\hspace{1cm}$ $h = s \cdot \sin(\alpha) = 2495 m$
+> $\hspace{1cm}$ $h = s \cdot 0,12 = 1440 m$
 >
-> $\hspace{1cm}$ => $ W_H = E_{pot} = 48951900 \approx 48,95 MJ$
+> $\hspace{1cm}$ => $ W_H = E_{pot} = 28.252.800 \approx 28,25 MJ$
 
 </details>
 
@@ -990,7 +990,7 @@ Die Hubarbeit macht hier den größten Teil ($48,95 MJ$) aus, gefolgt von der Ro
 
 <summary> Batterie-Kapazität </summary>
 
-Die Batteriekapazität von 75 kWH entspricht entspricht $75kW \cdot 3600s = 270.000 kWs = 270 MJ$ (da eine Stunde 3600s entspricht). Es gilt: $ 1Ws = 1 J$. Somit enthält die Batterie 270 MJ. Die verrichtete Arbeit entspricht demnach $\frac{55,7 MJ}{270 MJ} \approx 20,6 \% $.
+Die Batteriekapazität von 75 kWH entspricht entspricht $75kW \cdot 3600s = 270.000 kWs = 270 MJ$ (da eine Stunde 3600s entspricht). Es gilt: $ 1Ws = 1 J$. Somit enthält die Batterie 270 MJ. Die verrichtete Arbeit entspricht demnach $\frac{35 MJ}{270 MJ} \approx 13 \% $.
 
 </details>
 

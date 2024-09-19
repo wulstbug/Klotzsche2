@@ -1901,6 +1901,31 @@ Die enthaltene chemische Energie (ca. 260 MJ) ist deutlich höher als die verric
 
 > __Aufgabe 2:__ Ermitteln Sie die Geschwindigkeit, bei welcher Rollreibungskraft und Luftreibungskraft den gleichen Wert haben.
 
+
+<details>
+
+<summary> Hilfe 1: Ansatz </summary>
+
+Um die Geschwindigkeit zu berechnen, bei welcher Luftreibung und Rollreibung identisch sind, setzt man $F_{roll} = F_{Luft}$ und ermittelt als einzige unbekannte die Geschwindigkeit.
+
+<div style="text-indent:5%">
+
+<details>
+
+<summary> Berechnung </summary>
+
+> $\hspace{1cm}$ $F_{roll} = F_{Luft}$
+>
+> $\hspace{1cm}$ $m \cdot g \cdot \mu_{roll} = \frac{1}{2} \cdot c_w \cdot A \cdot \rho_{Luft} \cdot v^2$
+>
+> $\hspace{1cm}$ $v = \sqrt{\dfrac{2 \cdot m \cdot g}{c_w \cdot A \cdot \rho_{Luft}}} $
+>
+> $\hspace{1cm}$ $v = 26,27 \frac{m}{s}$
+
+</details>
+
+</div>
+
 #### Aufgabe 3
 
 > __Aufgabe 3:__ Das Tesla Modell 3 hat einen cw-Wert von 0,23 und eine projezierte Stirnfläche von 2,22 m². Die maximale, in der Batterie speicherbare Energie wird vom Hersteller mit 75 kWh angegeben. Die Masse des Fahrzeugs beträgt inlusive der Ladung/Personen 2 t. Die Rollreibungszahl zwischen Reifen und Fahrbahn beträgt 0,02. 
@@ -1982,7 +2007,7 @@ Hier wird Hubarbeit $W_H$, Rollreibungsarbeit $W_{Roll}$ und Luftreibungsarbeit 
 >
 > $\hspace{1cm}$ $s = 12.000 m$
 >
-> $\hspace{1cm}$ $\alpha = 12^\circ$
+> $\hspace{1cm}$ Steigung 12\%
 >
 > ges.: 
 >
@@ -1992,11 +2017,11 @@ Hier wird Hubarbeit $W_H$, Rollreibungsarbeit $W_{Roll}$ und Luftreibungsarbeit 
 >
 > $\hspace{1cm}$ $ W_H = E_{pot} = m \cdot g c\dot h$
 >
-> $\hspace{1cm}$ Die zu erreichende Höhe kann hier mit dem Sinus im rechtwinkligen Dreieck ermittelt werden
+> $\hspace{1cm}$ Die zu erreichende Höhe kann mit der Steigung ermittelt werden.
 >
-> $\hspace{1cm}$ $h = s \cdot \sin(\alpha) = 2495 m$
+> $\hspace{1cm}$ $h = s \cdot 0,12 = 1440 m$
 >
-> $\hspace{1cm}$ => $ W_H = E_{pot} = 48951900 \approx 48,95 MJ$
+> $\hspace{1cm}$ => $ W_H = E_{pot} = 28.252.800 \approx 28,25 MJ$
 
 </details>
 
@@ -2042,7 +2067,7 @@ Hier wird Hubarbeit $W_H$, Rollreibungsarbeit $W_{Roll}$ und Luftreibungsarbeit 
 
 <summary> Hilfe 3: Vergleich </summary>
 
-Die Hubarbeit macht hier den größten Teil ($48,95 MJ$) aus, gefolgt von der Rollreibungsarbeit ($4,61$) der Luftreibungsarbeit ($2,14 MJ$). Die insgesamt verrichtete Arbeit beträgt demnach ca. 55,7 MJ.
+Die Hubarbeit macht hier den größten Teil ($28,25 MJ$) aus, gefolgt von der Rollreibungsarbeit ($4,61$) der Luftreibungsarbeit ($2,14 MJ$). Die insgesamt verrichtete Arbeit beträgt demnach ca. 35 MJ.
 
 <div style="text-indent:5%">
 
@@ -2050,7 +2075,7 @@ Die Hubarbeit macht hier den größten Teil ($48,95 MJ$) aus, gefolgt von der Ro
 
 <summary> Batterie-Kapazität </summary>
 
-Die Batteriekapazität von 75 kWH entspricht entspricht $75kW \cdot 3600s = 270.000 kWs = 270 MJ$ (da eine Stunde 3600s entspricht). Es gilt: $ 1Ws = 1 J$. Somit enthält die Batterie 270 MJ. Die verrichtete Arbeit entspricht demnach $\frac{55,7 MJ}{270 MJ} \approx 20,6 \% $.
+Die Batteriekapazität von 75 kWH entspricht entspricht $75kW \cdot 3600s = 270.000 kWs = 270 MJ$ (da eine Stunde 3600s entspricht). Es gilt: $ 1Ws = 1 J$. Somit enthält die Batterie 270 MJ. Die verrichtete Arbeit entspricht demnach $\frac{35 MJ}{270 MJ} \approx 13 \% $.
 
 </details>
 
