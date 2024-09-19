@@ -922,7 +922,7 @@ Hier wird Hubarbeit $W_H$, Rollreibungsarbeit $W_{Roll}$ und Luftreibungsarbeit 
 >
 > $\hspace{1cm}$ $s = 12.000 m$
 >
-> $\hspace{1cm}$ Steigung 12\%
+> $\hspace{1cm}$ Steigung 12 %
 >
 > ges.: 
 >
