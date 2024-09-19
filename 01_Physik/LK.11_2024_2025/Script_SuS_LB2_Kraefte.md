@@ -930,7 +930,7 @@ Hier wird Hubarbeit $W_H$, Rollreibungsarbeit $W_{Roll}$ und Luftreibungsarbeit 
 >
 > Lsg.:
 >
-> $\hspace{1cm}$ $ W_H = E_{pot} = m \cdot g c\dot h$
+> $\hspace{1cm}$ $ W_H = E_{pot} = m \cdot g \cdot h$
 >
 > $\hspace{1cm}$ Die zu erreichende Höhe kann mit der Steigung ermittelt werden.
 >
