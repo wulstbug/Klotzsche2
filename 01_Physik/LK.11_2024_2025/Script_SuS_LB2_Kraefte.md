@@ -815,6 +815,32 @@ Die enthaltene chemische Energie (ca. 260 MJ) ist deutlich höher als die verric
 
 > __Aufgabe 2:__ Ermitteln Sie die Geschwindigkeit, bei welcher Rollreibungskraft und Luftreibungskraft den gleichen Wert haben.
 
+<details>
+
+<summary> Hilfe 1: Ansatz </summary>
+
+Um die Geschwindigkeit zu berechnen, bei welcher Luftreibung und Rollreibung identisch sind, setzt man $F_{roll} = F_{Luft}$ und ermittelt als einzige unbekannte die Geschwindigkeit.
+
+<div style="text-indent:5%">
+
+<details>
+
+<summary> Berechnung </summary>
+
+> $\hspace{1cm}$ $F_{roll} = F_{Luft}$
+>
+> $\hspace{1cm}$ $m \cdot g \cdot \mu_{roll} = \frac{1}{2} \cdot c_w \cdot A \cdot \rho_{Luft} \cdot v^2$
+>
+> $\hspace{1cm}$ $v = \sqrt{\dfrac{2 \cdot m \cdot g}{c_w \cdot A \cdot \rho_{Luft}}} $
+>
+> $\hspace{1cm}$ $v = 26,27 \frac{m}{s}$
+
+</details>
+
+</div>
+
+</details>
+
 #### Aufgabe 3
 
 > __Aufgabe 3:__ Das Tesla Modell 3 hat einen cw-Wert von 0,23 und eine projezierte Stirnfläche von 2,22 m². Die maximale, in der Batterie speicherbare Energie wird vom Hersteller mit 75 kWh angegeben. Die Masse des Fahrzeugs beträgt inlusive der Ladung/Personen 2 t. Die Rollreibungszahl zwischen Reifen und Fahrbahn beträgt 0,02. 
