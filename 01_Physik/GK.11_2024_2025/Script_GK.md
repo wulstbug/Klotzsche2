@@ -899,9 +899,9 @@ Die Haftreibungszahl muss mindestens 0,58 betragen.
 </details>
 
 
-# LB II: Das elektrische Feld</H4>
+# LB II: Das elektrische Feld
 
-<div style="text-align:left;padding:1em 0;"> <iframe src="https://www.zeitverschiebung.net/clock-widget-iframe-v2?language=de&size=large&timezone=Europe%2FBerlin" width="100%" height="150" frameborder="0" seamless></iframe> </div>
+<div style="text-align:left;padding:1em 0;"> <iframe src="https://www.zeitverschiebung.net/clock-widget-iframe-v2?language=de&size=medium&timezone=Europe%2FBerlin" width="100%" height="100" frameborder="0" seamless></iframe> </div>
 
 ![Blitzeinschläge](https://img.welt.de/img/wirtschaft/webwelt/mobile218083858/8146580597-ci23x11-w2000/Out-Of-The-Blue.jpg)
 
