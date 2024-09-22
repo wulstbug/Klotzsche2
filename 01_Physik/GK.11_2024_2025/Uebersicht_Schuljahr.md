@@ -72,7 +72,7 @@ Ihr erhaltet einen Link. Bitte annehmen.
 ??[IPad-Reg](https://forms.microsoft.com/Pages/ResponsePage.aspx?id=OYkUKbuZEE6zqVVLeyuod-N98JNwJnhAr0ZoZo5y2cdUQlE5S05TRUdKSVJQVDJHM0w3UFdPMkdJSS4u)
 ***************
 
-# LB 1 - Mechanische Grundlagen
+# LB I - Mechanische Grundlagen
 
 ## Übung Zuordnung Energieformen
 
