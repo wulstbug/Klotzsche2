@@ -58,9 +58,9 @@ window.LIA.settings.font_size = 2
 
 ![Blitzeinschläge](https://img.welt.de/img/wirtschaft/webwelt/mobile218083858/8146580597-ci23x11-w2000/Out-Of-The-Blue.jpg)
 
-## 2.1 Grundlagen Elektrizität
+## 1.1 Grundlagen Elektrizität
 
-### 2.1.1 Atomaufbau
+### 1.1.1 Atomaufbau
 
 <span style="color:orange">*Ergänze und übernimm diese Wiederholung.*</span>
 
@@ -104,7 +104,7 @@ Das Kohlenstoffatom besitzt [[ 6 ]] Protonen im Kern, wohingegen ein Aluminiumat
 
 ************
 
-### 2.1.2 Elektrisch geladene Atome und Körper
+### 1.1.2 Elektrisch geladene Atome und Körper
 
 <span style="color:orange">*Ergänze und übernimm diese Wiederholung.*</span>
 
@@ -142,7 +142,7 @@ Die Anzahl $N$ der überzähligen Elementarladungen $e$ ergibt demnach die elekt
 
 > $$Q = N \cdot e $$
 
-### 2.2.3 Kräfte zwischen elektrisch geladenen Körpern
+### 1.2.3 Kräfte zwischen elektrisch geladenen Körpern
 
 > Zwischen geladenen Körpern wirken elektrische Kräfte. Dabei stoßen sich gleichnamig geladene Körper ab, wohingegen sich ungleichnamig geladene Körper anziehen.
 
@@ -157,7 +157,7 @@ Die Anzahl $N$ der überzähligen Elementarladungen $e$ ergibt demnach die elekt
 
 </details>
 
-## 2.2 Das elektrische Feld
+## 1.2 Das elektrische Feld
 
 Im Raumbereich um einen __geladenen Körper__ wirkt auf einen anderen geladen Körper eine elektrische __Kraft__ ([Simulation elektrischer Kräfte](https://www.geogebra.org/classic/vbw299uv?embed)).
 
