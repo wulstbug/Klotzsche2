@@ -1000,3 +1000,95 @@ Die Batteriekapazität von 75 kWH entspricht entspricht $75kW \cdot 3600s = 270.
 </div>
 
 </details>
+
+
+#### Aufgabe 4 (aus Abitur 2019)
+
+1. Der Übungshang einer Skischule für Kinder hat die Neigung 9,5°. Ein Förderband bringt die Kinder bis zur Bergstation.
+
+<!-- style="display: block; width:60%; margin:auto; display" -->
+![Bild_Aufgabe_4](https://diversewolken.ddns.net/nextcloud/index.php/s/wbqrqwGx4KppPTw/download)
+
+> 1. 1. Ein Kind (Gesamtmasse mit Ausrüstung 35 kg ) wird vom Förderband bergauf bewegt, dabei legt es den Weg 30 m zurück. Berechnen Sie die vom Förderband an dem Kind verrichtete Hubarbeit.
+
+<div style="text-indent:10%">
+
+<details>
+
+<summary> Hinweis 1.1 </summary>
+
+Nutzen Sie an der geneigten Ebene den Zusammenhang von mechanischer Arbeit (allgemein) und Hubarbeit.
+
+</details>
+
+</div>
+
+<div style="text-indent:10%">
+
+<details>
+
+<summary> Lösung 1.1 </summary>
+
+![Aufgabe_4_L1.1](https://diversewolken.ddns.net/nextcloud/index.php/s/kQTopwPxoaQ3tW2/download)
+
+</details>
+
+</div>
+
+> 1. 2. Das Kind steht am oberen Ende des Hanges. Der Skilehrer schiebt das Kind an. Dieses hat dadurch die Anfangsgeschwindigkeit 1,0 m/s und gleitet gleichmäßig beschleunigt den 30 m langen Hang geradlinig hinab. Nachdem das Kind das untere Ende des Hangs erreicht hat, gleitet es horizontal weiter. Die Reibungszahl ist konstant und beträgt 0,10.
+>
+> 1. 2. 1. Weisen Sie nach, dass die maximale Geschwindigkeit des Kindes $v = 6,33 \frac{m}{s}$ beträgt.
+
+<div style="text-indent:10%">
+
+<details>
+
+<summary> Hinweis 1.2.1 </summary>
+
+Erstellen Sie eine Energiebilanz. Berücksichtigen Sie Anfangsgeschwindigkeit und Reibungsarbeit. Zeigen Sie, dass die Energiebilanz eine wahre Aussage ist.
+
+</details>
+
+</div>
+
+<div style="text-indent:10%">
+
+<details>
+
+<summary> Lösung 1.2.1 </summary>
+
+![Aufgabe_4_L1.2.1](https://diversewolken.ddns.net/nextcloud/index.php/s/gWD7HaLHNjmqy8C/download)
+
+</details>
+
+</div>
+
+> 1. 2. 2. Eine Skilehrerin (Gesamtmasse mit Ausrüstung 65 kg ) steht auf dem horizontalen Auslauf und fängt das ankommende Kind auf. Beide gleiten gemeinsam 1,9 m weit und bleiben dann stehen. Die Reibungszahl ist konstant und beträgt für beide 0,10. <br> Ermitteln Sie die Länge des horizontalen Gleitweges, den das Kind zurückgelegt hat, bevor es von der Skilehrerin aufgefangen wird.
+
+<div style="text-indent:10%">
+
+<details>
+
+<summary> Hinweis 1.2.2 </summary>
+
+Gliedern Sie die Bewegungen in verschiedene Abschnitte.
+Überlegen Sie, welche Vorgänge vor dem Stoß, beim Stoß und nach dem Stoß stattfinden. Nutzen Sie für die Bewegungen jeweils eine Energiebilanz, für den Stoßvorgang den
+zutreffenden Impulserhaltungssatz.
+
+</details>
+
+</div>
+
+<div style="text-indent:10%">
+
+<details>
+
+<summary> Lösung 1.2.2 </summary>
+
+![Aufgabe_4_L1.2](https://diversewolken.ddns.net/nextcloud/index.php/s/DNx4BR5zC656Lfa/download)
+
+![Aufgabe_4_L1.2.2](https://diversewolken.ddns.net/nextcloud/index.php/s/qAeB5NDJHek5gng/download)
+
+</details>
+
+</div>
