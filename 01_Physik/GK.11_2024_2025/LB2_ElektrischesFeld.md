@@ -62,7 +62,7 @@ window.LIA.settings.font_size = 2
 
 > Das Atom wird in zwei Grundstrukturen unterteilt
 
-<!-- style="display: block; width: 100%; margin-left: auto;margin-right: auto;" -->
+<!-- style="display: block; width: 60%; margin-left: auto;margin-right: auto;" -->
 ``` ascii
 
                           |
@@ -114,7 +114,7 @@ Beispiele:
 
 Kohlenstoff mit 7 Elektronen ist elektrisch einfach [[ negativ ]] geladen. 
 
-Germanium mit 34 Elektronen ist elektrisch [[ zwei ]]-fach [[ positiv ]] geladen.
+Germanium mit 34 Elektronen ist elektrisch [[ zwei ]]-fach [[ negativ ]] geladen.
 
 __Übung:__
 

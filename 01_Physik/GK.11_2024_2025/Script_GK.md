@@ -913,7 +913,7 @@ Die Haftreibungszahl muss mindestens 0,58 betragen.
 
 > Das Atom wird in zwei Grundstrukturen unterteilt
 
-<!-- style="display: block; width: 100%; margin-left: auto;margin-right: auto;" -->
+<!-- style="display: block; width: 60%; margin-left: auto;margin-right: auto;" -->
 ``` ascii
 
                           |
@@ -965,7 +965,7 @@ Beispiele:
 
 Kohlenstoff mit 7 Elektronen ist elektrisch einfach [[ negativ ]] geladen. 
 
-Germanium mit 34 Elektronen ist elektrisch [[ zwei ]]-fach [[ positiv ]] geladen.
+Germanium mit 34 Elektronen ist elektrisch [[ zwei ]]-fach [[ negativ ]] geladen.
 
 __Übung:__
 
@@ -975,7 +975,7 @@ __Übung:__
 
 <span style="color:orange">*Nutze LB S. 88. Ergänze und übernimm dieses Tafelbild.*</span>
 
-> Definition: Die elektrische Ladung eines Körpers gibt an, wie groß sein Elektronenüberschuss oder sein Elektronenmangel ist.
+> __Definition:__ Die elektrische Ladung eines Körpers gibt an, wie groß sein Elektronenüberschuss oder sein Elektronenmangel ist.
 >
 > __Formelzeichen: [[ Q ]]__
 >
