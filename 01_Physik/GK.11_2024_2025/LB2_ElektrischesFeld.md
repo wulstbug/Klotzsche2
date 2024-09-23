@@ -8,9 +8,6 @@ language: de
 .lia-effect__circle {
     display: none !important;
 }
-.lia-slide__footer {
-     display: none !important;
-} 
 
 @media (min-width: 600px) {
     .newspaper {
@@ -200,6 +197,8 @@ __Es gelten folgende Vereinbahrungen:__
 > Elektrische Feldlinien beginnen an positiven Ladungen <span style="color:red">__(Quelle)__</span> und enden an negativen Ladungen <span style="color:darkgreen">__(Senke)__</span>
 ***********
 
+{{9}}
+***********
 <span style="color:orange">_Aufgabe: Zeichne das elektrische Feld einer positiv geladenen Punktladung, welche zentral vor einer negativ geladenen Kondensatorplatte positioniert ist. Bei Fragen nutze folgende Hinweise._</span>
 
 <details>
@@ -217,3 +216,4 @@ __Es gelten folgende Vereinbahrungen:__
 ![Aufgabe_1_L2](https://diversewolken.ddns.net/nextcloud/index.php/s/DF6TktoF9Xgyg5A/download)
 
 </details>
+***********

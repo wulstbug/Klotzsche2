@@ -7,9 +7,7 @@ language: de
 .lia-effect__circle {
     display: none !important;
 }
-.lia-slide__footer {
-     display: none !important;
-} 
+
 
 @media (min-width: 600px) {
     .newspaper {
