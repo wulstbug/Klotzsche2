@@ -10,6 +10,9 @@ language: de
 .lia-slide__footer {
      display: none !important;
 } 
+.lia-slide__header {
+     display: none !important;
+} 
 
 @media (min-width: 600px) {
     .newspaper {
