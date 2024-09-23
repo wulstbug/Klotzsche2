@@ -64,13 +64,13 @@ window.LIA.settings.font_size = 2
 
 <!-- style="display: block; width: 100%; margin-left: auto;margin-right: auto;" -->
 ``` ascii
-                        Atom
-                          |
-                     .----o-----.             
-                    /            \             
-                   /              \           
-                  /                \          
-                 v                  v          
+                  Atom
+                    |
+               .----o-----.             
+              /            \             
+             /              \           
+            /                \          
+           v                  v          
 ```
 | [[ Atomkern  ]] | [[ Atomhülle ]] |
 | :--: | :--: |

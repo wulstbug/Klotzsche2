@@ -913,25 +913,19 @@ Die Haftreibungszahl muss mindestens 0,58 betragen.
 
 > Das Atom wird in zwei Grundstrukturen unterteilt
 
-<!-- style="display: block; width: 500px; margin-left: auto;margin-right: auto;" -->
+<!-- style="display: block; width: 100%; margin-left: auto;margin-right: auto;" -->
 ``` ascii
-
-                          |
-              .-----------o------------.
-             /                          \
-            /                            \
-           /                              \
-          v                                v
- .-----------------.               .-----------------.
- |                 |               |                 |
- |"[[ Atomkern  ]]"|               |"[[ Atomhülle ]]"|
- |                 |               |                 |
- |                 |               |                 |
- .-----------------.               .-----------------.
-
-
-
+                  Atom
+                    |
+               .----o-----.             
+              /            \             
+             /              \           
+            /                \          
+           v                  v          
 ```
+| [[ Atomkern  ]] | [[ Atomhülle ]] |
+| :--: | :--: |
+
 > Darin enthalten sind die Elementarteilchen mit ihren jeweiligen elektrischen Ladungszuständen
 
 | Atomkern | elektrische Ladung |  Atomhülle |
