@@ -85,9 +85,9 @@ window.LIA.settings.font_size = 2
 
 | Atomkern | elektrische Ladung |  Atomhülle |
 |:--:|:--:|:--:|
-| | ![Elektron](https://diversewolken.ddns.net|/nextcloud/index.php/s/Bnw2kL8nFrErwXP/download)<span class="green">[[ negativ ]]</span> | <span class="green">[[ Elektron ]]</span> |
-| <span class="red"> [[ Proton ]]</span> | ![Proton](https://diversewolken.ddns.net|/nextcloud/index.php/s/fs9TTTmjnwRDNm5/download)<span class="red">[[ positiv ]]</span> | |
-| [[Neutron]] | ![Neutron](https://diversewolken.ddns.net|/nextcloud/index.php/s/YJnsjw6546zn55P/download)neutral | |
+| | ![Elektron](https://diversewolken.ddns.net/nextcloud/index.php/s/Bnw2kL8nFrErwXP/download)<span class="green">[[ negativ ]]</span> | <span class="green">[[ Elektron ]]</span> |
+| <span class="red"> [[ Proton ]]</span> | ![Proton](https://diversewolken.ddns.net/nextcloud/index.php/s/fs9TTTmjnwRDNm5/download)<span class="red">[[ positiv ]]</span> | |
+| [[Neutron]] | ![Neutron](https://diversewolken.ddns.net/nextcloud/index.php/s/YJnsjw6546zn55P/download)neutral | |
 
 Beispiele: 
 
