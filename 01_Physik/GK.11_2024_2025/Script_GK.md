@@ -41,7 +41,7 @@ window.LIA.settings.font_size = 2
 
 <div style="text-align:left;padding:1em 0;"> <iframe src="https://www.zeitverschiebung.net/clock-widget-iframe-v2?language=de&size=large&timezone=Europe%2FBerlin" width="100%" height="150" frameborder="0" seamless></iframe> </div>
 
-# LB 1 - Mechanische Grundlagen
+# LB I - Mechanische Grundlagen
 
 ## 1.1 - Wiederholung Energieformen
 
