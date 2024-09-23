@@ -913,7 +913,7 @@ Die Haftreibungszahl muss mindestens 0,58 betragen.
 
 > Das Atom wird in zwei Grundstrukturen unterteilt
 
-<!-- style="display: block; width: 60%; margin-left: auto;margin-right: auto;" -->
+<!-- style="display: block; width: 500px; margin-left: auto;margin-right: auto;" -->
 ``` ascii
 
                           |
