@@ -398,8 +398,6 @@ $\hspace{1cm}$ ...
 
 ***********
 
-***********
-
 ### 2.7.1 Übung zum $c_w$-Wert
 
 > Der $c_w$ spielt bei Fahrzeugen eine entscheidene Rolle, denn er beschreibt die Luftwiderstandskraft, welche bei Fahrten aufgewendet werden muss und sagt somit etwas über den Benzin/Energieverbrauch des Fahrzeugs aus. 
