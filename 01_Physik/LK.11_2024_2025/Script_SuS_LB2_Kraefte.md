@@ -501,7 +501,7 @@ Um die Geschwindigkeit zu berechnen, bei welcher Luftreibung und Rollreibung ide
 
 </details>
 
-#### Aufgabe 3
+#### Aufgabe 3 (läd 'ne Weile)
 
 > __Aufgabe 3:__ Das Tesla Modell 3 hat einen cw-Wert von 0,23 und eine projezierte Stirnfläche von 2,22 m². Die maximale, in der Batterie speicherbare Energie wird vom Hersteller mit 75 kWh angegeben. Die Masse des Fahrzeugs beträgt inlusive der Ladung/Personen 2 t. Die Rollreibungszahl zwischen Reifen und Fahrbahn beträgt 0,02. 
 >
