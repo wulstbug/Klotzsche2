@@ -2088,7 +2088,7 @@ Die Batteriekapazität von 75 kWH entspricht entspricht $75kW \cdot 3600s = 270.
 
 </details>
 
-#### Aufgabe 4 (aus Abitur 2019)
+#### Aufgabe 4 (aus Abitur 2018)
 
 1. Der Übungshang einer Skischule für Kinder hat die Neigung 9,5°. Ein Förderband bringt die Kinder bis zur Bergstation.
 
