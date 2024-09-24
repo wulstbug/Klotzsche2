@@ -428,7 +428,7 @@ $\hspace{1cm}$ ...
 
 #### Aufgabe 1
 
-Für den Volkswagen Mulitvan T5 gibt der Hersteller bei konstanter Fahrt (90 km/h) einen Benzinverbrauch von 8,2 Liter je 100 km an. Die Fahrzeugmasse beträgt mit Zuladung 2,5 t. Der Rollreibungskoeffizient von Kraftfahrzeugreifen kann mit 0,02 angenommen werden. Die Dichte der Luft wird mit $1,25 \frac{kg}{m^3}$ angegeben.
+Für den Volkswagen Mulitvan T5 gibt der Hersteller bei konstanter Fahrt (90 km/h) einen Benzinverbrauch von 8,2 Liter je 100 km an. Die Fahrzeugmasse beträgt mit Zuladung 2,5 t. Der Rollreibungskoeffizient von Kraftfahrzeugreifen kann mit 0,02 angenommen werden. Die Dichte der Luft wird mit $1,25 \frac{kg}{m^3}$ angegeben..
 
 > __Aufgabe 1:__ Vergleichen Sie die im angegebenen Benzinvolumen enthaltene chemische Energie (Brennwert) mit der verrichteten Reibungsarbeit. Berücksichtigen Sie hierzu den Luftwiderstand und die Rollreibung. Diskutieren Sie mögliche Unterschiede und deren Ursache.
 
