@@ -8,9 +8,6 @@ language: de
 .lia-effect__circle {
     display: none !important;
 }
-.lia-slide__footer {
-     display: none !important;
-} 
 
 @media (min-width: 600px) {
     .newspaper {
@@ -30,8 +27,6 @@ h1, h2, h3, h4, h5, h6 {
 @end
 
 mode: presentation
-
-navigation: hidden
 
 @onload
 window.LIA.settings.font_size = 2
