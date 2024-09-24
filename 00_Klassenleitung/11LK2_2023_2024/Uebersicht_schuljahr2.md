@@ -30,6 +30,7 @@ mode: presentation
 
 @onload
 window.LIA.settings.font_size = 2
+window.LIA.canvas.navigation = hidden
 @end
 
 @@@ ogy.de/11Ph2 deaktivieren: https://ogy.de/del.jy60luhd3jlvdqltlmar
