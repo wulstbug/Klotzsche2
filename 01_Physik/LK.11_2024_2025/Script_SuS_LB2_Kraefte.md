@@ -1036,7 +1036,19 @@ Nutzen Sie an der geneigten Ebene den Zusammenhang von mechanischer Arbeit (allg
 </div>
 
 > 1. 2. Das Kind steht am oberen Ende des Hanges. Der Skilehrer schiebt das Kind an. Dieses hat dadurch die Anfangsgeschwindigkeit 1,0 m/s und gleitet gleichmäßig beschleunigt den 30 m langen Hang geradlinig hinab. Nachdem das Kind das untere Ende des Hangs erreicht hat, gleitet es horizontal weiter. Die Reibungszahl ist konstant und beträgt 0,10.
->
+
+<div style="text-indent:10%">
+
+<details>
+
+<summary> Hinweis 1.2 </summary>
+
+![Aufgabe_4_L1.2](https://diversewolken.ddns.net/nextcloud/index.php/s/DNx4BR5zC656Lfa/download)
+
+</details>
+
+</div>
+
 > 1. 2. 1. Weisen Sie nach, dass die maximale Geschwindigkeit des Kindes $v = 6,33 \frac{m}{s}$ beträgt.
 
 <div style="text-indent:10%">
