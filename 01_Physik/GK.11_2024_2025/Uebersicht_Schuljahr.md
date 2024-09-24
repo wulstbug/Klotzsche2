@@ -191,14 +191,6 @@ __Versuchsaufbau:__
 ![Tafelbild_SenkrechterWurf](https://diversewolken.ddns.net/nextcloud/index.php/s/ac7aBYYk5sDojLN/download)
 *************
 
-{{2}}
-*************
-__Qualitative Analyse der Energieerhaltung:__
-
-_Hinweis: Qualitativ bedeutet ohne Berechnung_
-
-![Tafelbild_AnalyseEnergieerhaltung](https://diversewolken.ddns.net/nextcloud/index.php/s/y5X8EFstJe6AdwB/download)
-*************
 
 ## 1.5 Messwerte und Berechnungen Senkrechter Wurf
 

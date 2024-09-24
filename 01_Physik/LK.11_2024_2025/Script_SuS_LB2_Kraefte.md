@@ -68,7 +68,6 @@ window.LIA.settings.font_size = 2
 </p>
 
 </p>
-*****************
 
 ## 2.1 Beschreibung Kraft
 
