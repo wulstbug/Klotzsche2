@@ -224,7 +224,7 @@ __Es gelten folgende Vereinbahrungen:__
 
 !?[ElektischesFeld](https://www.youtube.com/watch?v=EN6dTZH-HDs)
 
-### 1.2.1 Berchnung des elektrischen Feldes
+### 1.2.1 Berechnung des elektrischen Feldes
 
 Die Stärke des elektrischen Feldes $\vec{E}$ berechnet sich aus der Kraft $\vec{F}$ auf eine elektrische Ladung $Q$.
 
