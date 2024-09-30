@@ -767,7 +767,7 @@ zutreffenden Impulserhaltungssatz.
 
 <p class="newspaper">
 
-![Kreisbewegung1.png](https://diversewolken.ddns.net/nextcloud/index.php/s/KwTabXpYXzfopyB/download) 
+![Kreisbewegung1.png](https://diversewolken.ddns.net/nextcloud/index.php/s/KwTabXpYXzfopyB/download) <!-- style="width:100%" -->
 
 <p class="cb">
 

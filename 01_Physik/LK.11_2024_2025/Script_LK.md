@@ -2195,7 +2195,13 @@ zutreffenden Impulserhaltungssatz.
 
 ## 2.9 Gleichförmige Kreisbewegung
 
-![Kreisbewegung1.png](https://diversewolken.ddns.net:4443/nextcloud/index.php/s/KwTabXpYXzfopyB/download) Ein Körper befindet sich in einer gleichförmigen Kreisbewegung, wenn er sich auf einer Kreisbahn mit konstantem Radius und auf seiner Bahn in gleich langen Zeitspannen gleich lange Strecken s zurücklegt. 
+<p class="newspaper">
+
+![Kreisbewegung1.png](https://diversewolken.ddns.net/nextcloud/index.php/s/KwTabXpYXzfopyB/download) <!-- style="width:100%" -->
+
+<p class="cb">
+
+Ein Körper befindet sich in einer gleichförmigen Kreisbewegung, wenn er sich auf einer Kreisbahn mit konstantem Radius und auf seiner Bahn in gleich langen Zeitspannen gleich lange Strecken s zurücklegt. 
 
 Hierbei sind:
 
@@ -2209,7 +2215,9 @@ Hierbei sind:
 >
 > $\hspace{0.5cm}$ $m$ .. Masse des Körpers
 
+</p>
 
+</p>
 >> <div style="color:red">Zentripedalkraft / Radialkraft $F_r$</div>
 >> 
 >> Eine gleichförmige Kreisbewegung benötigt immer eine zum Mittelpunkt gerichtete Kraft. Diese Kraft heißt Radialkraft (Synonym: Zentripetalkraft). Sie wirkt senkrecht zur Bahngeschwindigkeit zum Mittelpunkt hin.
