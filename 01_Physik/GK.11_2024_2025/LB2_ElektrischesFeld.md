@@ -236,7 +236,7 @@ Die Stärke des elektrischen Feldes $\vec{E}$ berechnet sich aus der Kraft $\vec
 >
 > $\hspace{1cm}$  <div style="color:orange">_Hinweis: $N$ (Newton) ist die Einheit der Kraft und $C$ (Coulomb) ist die Einheit der elektrischen Ladung._ </div>
 
-### Aufgaben zum elektrischen Feld
+### Aufgaben zum elektrischen Feld (1)
 
 <div style="color:orange">_Hinweis: Löse folgende Augaben. Du kannst auf das Glühlampensymbol klicken, wenn du Tipps benötigst, auch mehrfach._ </div>
 
@@ -280,6 +280,9 @@ Die Stärke des elektrischen Feldes $\vec{E}$ berechnet sich aus der Kraft $\vec
         [[?]] Lösung $Q = 0,0003773 C \approx 0,38mC$
 
 ---
+
+### Aufgaben zum elektrischen Feld (2)
+
 
 2. Entscheide für die folgenden Felder, um welche Art von Feld es sich handelt.
 
