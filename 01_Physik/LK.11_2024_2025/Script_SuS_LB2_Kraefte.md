@@ -765,9 +765,9 @@ zutreffenden Impulserhaltungssatz.
 
 ## 2.9 Gleichförmige Kreisbewegung
 
-<p class="newpaper">
+<p class="newspaper">
 
-![Kreisbewegung1.png](https://diversewolken.ddns.net:4443/nextcloud/index.php/s/KwTabXpYXzfopyB/download) 
+![Kreisbewegung1.png](https://diversewolken.ddns.net/nextcloud/index.php/s/KwTabXpYXzfopyB/download) 
 
 <p class="cb">
 
