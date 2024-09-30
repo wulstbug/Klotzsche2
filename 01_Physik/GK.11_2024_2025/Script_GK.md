@@ -1069,3 +1069,99 @@ __Es gelten folgende Vereinbahrungen:__
 
 </details>
 ***********
+
+
+### Kurze Wiederholung zum elektrischen Feld
+
+<p style="color:orange"> Bitte schau dir folgendes Video an. Bis zur Minute 3:00 ist es Wiederholung, dann folgenden Fakten zum elektrischen Feld, welche wir noch nicht besprochen haben. Du kannst es dir zur Information ansehen, musst du aber nicht. </p>
+
+!?[ElektischesFeld](https://www.youtube.com/watch?v=EN6dTZH-HDs)
+
+### 1.2.1 Berchnung des elektrischen Feldes
+
+Die Stärke des elektrischen Feldes $\vec{E}$ berechnet sich aus der Kraft $\vec{F}$ auf eine elektrische Ladung $Q$.
+
+> $$ \vec{E} = \frac{\vec{F}}{Q} $$
+>
+> <div style="color:orange">_Hinweis: Die Pfeile über $\vec{E}$ und $\vec{F}$ bedeuten, dass es sich um Vektoren mit einer Richtung und einem Wert (auch Betrag genannt) handelt. Kräfte haben wir bereits als Vektoren gezeichnet._ </div>
+>
+> Einheit: $$\Big[\dfrac{N}{C}\Big]$$
+>
+> $\hspace{1cm}$  <div style="color:orange">_Hinweis: $N$ (Newton) ist die Einheit der Kraft und $C$ (Coulomb) ist die Einheit der elektrischen Ladung._ </div>
+
+### Aufgaben zum elektrischen Feld
+
+<div style="color:orange">_Hinweis: Löse folgende Augaben. Du kannst auf das Glühlampensymbol klicken, wenn du Tipps benötigst, auch mehrfach._ </div>
+
+1. Die Erde bestitz in zur Oberfläche gerichtetes elektrisches Feld, das an der Oberfläche eine Stärke von $ 130 \dfrac{N}{C} $ besitzt.
+
+1. 1. Welches Vorzeichen hat die demzufolge die Ladung der Erde.
+
+        <!-- data-solution-button="off" -->
+        [( )] positiv
+        [(X)] negativ
+        [( )] kann man nicht sagen
+        [[?]] Achte auf die Richtung der Feldlinien im Aufgabentext. Vergleiche die Richtung mit der Richtungsvorgabe für Feldlinien (siehe 1.2)
+        [[?]] Feldlinien beginnen bei positiven und enden bei negativen Ladungen
+
+---
+
+
+1. 2. Eine Tischtennisball mit einer metallischen Oberfläche sei elektrisch negativ aufgeladen. Entscheide, ob der Tischtennisball von der Erde abgestoßen oder angezogen wird.
+
+        <!-- data-solution-button="off" -->
+        [( )] angezogen
+        [(X)] abgestoßen
+        [[?]] Die Erde ist, wie in 1.1. überlegt negativ geladen. Überprüfe die Kraftwirkung auf den negativ geladenen Tischtennisball.
+
+---
+
+1. 3. Die Ladung des Tischtennisballs beträgt $Q = 0,1\cdot10^{-3} C =  5 mC $. Ermittle den Wert der Kraft $\vec{F}$, mit welche auf den TT-Ball wirkt.<br>(_Hinweis: Zwischen Zahl und Einheit bitte kein Leerzeichen._)
+
+        [[ 0,013N ]]
+        [[?]] Die Formel zur Berechnung der Kraft findest du in Abschnitt 1.2.1.
+        [[?]] Stelle die Formel $\vec{E} = \frac{\vec{F}}{Q} $ nach $\vec{F}$ um.
+
+---
+
+1. 4. *Der Ball hat eine Masse von 5g. Ermittle die Ladung Q, die er haben müsste, damit er über dem Erdboden schweben könnte.<br>_Gib die Antwort in der Einheit mC (Millicoulomb) an. Runde auf 2 Kommastellen._
+
+        [[ 0,38mC ]]
+        [[?]] Wenn der Ball schweben soll, muss Gewichtskraft $F_g$ und abstoßende elektrische Kraft $F_{el}$ gleich groß sein.
+        [[?]] Es gilt: $F_g = m \cdot g$ und $F_{el} = E \cdot Q$.
+        [[?]] Umgestellt nach $Q$: $Q=\frac{m \cdot g}{E}$
+        [[?]] Lösung $Q = 0,0003773 C \approx 0,38mC$
+
+---
+
+2. Entscheide für die folgenden Felder, um welche Art von Feld es sich handelt.
+
+2. 1. ![Dipolfeld](https://diversewolken.ddns.net/nextcloud/index.php/s/RoDMrztJdHLrSyN/download)
+
+        <!-- data-solution-button="off" -->
+        [( )] Radialfeld
+        [(X)] Dipolfeld
+        [( )] Homogenes Feld
+        [[?]] Vergleiche Feldtypen unter 1.2.
+
+---
+
+2. 2. ![HomogenesFeld](https://diversewolken.ddns.net/nextcloud/index.php/s/fpKSpwGykqjMJZP/download)
+
+        <!-- data-solution-button="off" -->
+        [( )] Radialfeld
+        [( )] Dipolfeld
+        [(X)] Homogenes Feld
+        [[?]] Vergleiche Feldtypen unter 1.2.
+
+---
+
+2. 3. ![Radialfeld](https://diversewolken.ddns.net/nextcloud/index.php/s/3r6ngsjZkRr4RD6/download)
+
+        <!-- data-solution-button="off" -->
+        [(X)] Radialfeld
+        [( )] Dipolfeld
+        [( )] Homogenes Feld
+        [[?]] Vergleiche Feldtypen unter 1.2.
+
+
