@@ -2220,7 +2220,14 @@ Hierbei sind:
 
 ### Aufgaben zur Kreisbewegung
 
-#### 1. Kugel am Faden
+Im Folgenden sind Aufgaben zur Kreisbewegung gestellt. Die Aufgaben sind mit "Aufwändigkeits-Marken" versehen. Es gibt zwei Kathegorien: 
+
+- (+) geringer Aufwand
+- (++) mittlerer Aufwand.
+
+__Löse insgesamt 7 Aufgaben. Davon sollen mindestens 3 Aufgaben mit erhöhtem Aufwand (++) enthalten sein.__
+
+#### 1. Kugel am Faden (++)
 
 Eine Kugel (m = 2,5 kg) wird gleichförmig an einem Faden der Länge 40 cm mit einer Bahngeschwindigkeit von 36 km/h auf einer Kreisbahn bewegt.​
 
@@ -2291,7 +2298,7 @@ Der Umfang $u$ eines Kreises wird berechnet mit $u = 2\pi\cdot r$. Die Zeit, wel
 
 </div>
 
-#### 2. Fahrradtachometer
+#### 2. Fahrradtachometer (++)
 
 Ein Fahrradtachometer bestehend aus einem Sensor und einem Magneten (mittig montiert auf der Speiche zwischen Lauffläche und Nabe). Das Rad hat einen Durchmesser von 635 mm. Er misst alle 0,25s eine Umdrehung.
 
@@ -2301,13 +2308,13 @@ Ein Fahrradtachometer bestehend aus einem Sensor und einem Magneten (mittig mont
 
 2. 3. Berechne die Kraft, die nötig ist, damit der Magnet ($m=10g$) an der Speiche bleibt.
 
-#### 3. Satellitenbahn*
+#### 3. Satellitenbahn (++)
 
 3. 1. Erläutere die Bewegung eines Satelliten um die Erde. Erkläre warum der Satellit nicht auf die Erde stürzt. 
 
 3. 2. Ermittle den Radius des geostationären Orbits für Erdsatelliten. <br> _Hinweis: Bei einem geostationären Orbit bleibt der Satellit immer über dem gleichen Punkt auf der Erdoberfläche._
 
-#### 4. Kurvenfahrt*
+#### 4. Kurvenfahrt (++)
 
 Bei Kurvenfahrten mit konstanter Geschwindigkeit treten an einem Fahrzeug zwischen Reifen und Fahrbahn zwei Arten von Reibungskräften auf. Die Rollreibung wirkt parallel zur Bewegungsrichtung, Haftreibung wirkt senkrecht zur Bewegungsrichtung. 
 Ein Fahrzeug (1,5 t) bewegt sich auf einer kreisförmigen Kurve (Radius 50 m) mit einer konstanten Geschwindigkeit von 72 km/h. Die Haftreibungszahl µHaft zwischen Reifen und Fahrbahn beträgt 0,85. Die Rollreibungszahl µRoll beträgt 0,025.
@@ -2318,7 +2325,7 @@ Ein Fahrzeug (1,5 t) bewegt sich auf einer kreisförmigen Kurve (Radius 50 m) mi
 
 4. 3. Ermitteln Sie die Höchstgeschwindigkeit für die beschriebene Kurvenfahrt.
 
-#### 5. Erdrotation
+#### 5. Erdrotation (+)
 
 5. Der Erdradius beträgt etwa 6370 km. Ermitteln Sie die Geschwindigkeit, mit der sich ein Punkt auf der Erdoberfläche des Äquators bei der Erddrehung bewegt? Beachten Sie: Die Erde dreht sich in einem Tag einmal um sich selbst.
 
@@ -2332,7 +2339,7 @@ Ein Fahrzeug (1,5 t) bewegt sich auf einer kreisförmigen Kurve (Radius 50 m) mi
 
 
 
-#### 6. Turmuhr
+#### 6. Turmuhr (+)
 
 6.  Die Spitze des Minutenzeigers einer Turmuhr hat die Geschwindigkeit $1,5 \frac{mm}{s}$. Ermitteln Sie die Zeigerlänge?
 
@@ -2347,7 +2354,7 @@ Ein Fahrzeug (1,5 t) bewegt sich auf einer kreisförmigen Kurve (Radius 50 m) mi
 
 
 
-#### 7. Dynamo
+#### 7. Dynamo (+)
 
 7. Fahrradfahren/Dynamo
 
@@ -2361,7 +2368,7 @@ Ein Fahrzeug (1,5 t) bewegt sich auf einer kreisförmigen Kurve (Radius 50 m) mi
 
 </details>
 
-#### 8. Flugzeugturbinen
+#### 8. Flugzeugturbinen (+)
 
 8. Turbinen und Drehgeschwindigkeit
 
@@ -2376,7 +2383,7 @@ Ein Fahrzeug (1,5 t) bewegt sich auf einer kreisförmigen Kurve (Radius 50 m) mi
 </details>
 
 
-#### 9. Winkelschleifer
+#### 9. Winkelschleifer (+)
 
 ![A3.5](https://diversewolken.ddns.net/nextcloud/index.php/s/5xsPM2oXRNsEmzZ/download)
 

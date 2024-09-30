@@ -762,3 +762,208 @@ zutreffenden Impulserhaltungssatz.
 </details>
 
 </div>
+
+## 2.9 Gleichförmige Kreisbewegung
+
+![Kreisbewegung1.png](https://diversewolken.ddns.net:4443/nextcloud/index.php/s/KwTabXpYXzfopyB/download) Ein Körper befindet sich in einer gleichförmigen Kreisbewegung, wenn er sich auf einer Kreisbahn mit konstantem Radius und auf seiner Bahn in gleich langen Zeitspannen gleich lange Strecken s zurücklegt. 
+
+Hierbei sind:
+
+> $\hspace{0.5cm}$ $r$ .. Radius der Kreisbahn
+>
+> $\hspace{0.5cm}$ $v$ .. Bewegungsgeschwindigkeit
+>
+> $\hspace{0.5cm}$ $s$ .. Strecke auf der Kreisbahn
+>
+> $\hspace{0.5cm}$ $\varphi$ .. Drehwinkel
+>
+> $\hspace{0.5cm}$ $m$ .. Masse des Körpers
+
+
+>> <div style="color:red">Zentripedalkraft / Radialkraft $F_r$</div>
+>> 
+>> Eine gleichförmige Kreisbewegung benötigt immer eine zum Mittelpunkt gerichtete Kraft. Diese Kraft heißt Radialkraft (Synonym: Zentripetalkraft). Sie wirkt senkrecht zur Bahngeschwindigkeit zum Mittelpunkt hin.
+>>
+>> Formel: $$ \boxed{F_r = \dfrac{m \cdot v^2}{r}} $$
+
+> __Deutung:__ Die Zentripedalkraft $F_r$ ist notwendig, damit sich ein Körper der Masse $m$ auf einer Kreisbahn mit dem Radius $r$ und der Geschwindigkeit $v$ bewegt. Sie wirkt immer senkrecht zur Bewegungsrichtung.
+
+
+
+### Aufgaben zur Kreisbewegung
+
+Im Folgenden sind Aufgaben zur Kreisbewegung gestellt. Die Aufgaben sind mit "Aufwändigkeits-Marken" versehen. Es gibt zwei Kathegorien: 
+
+- (+) geringer Aufwand
+- (++) mittlerer Aufwand.
+
+__Löse insgesamt 7 Aufgaben. Davon sollen mindestens 3 Aufgaben mit erhöhtem Aufwand (++) enthalten sein.__
+
+#### 1. Kugel am Faden (++)
+
+Eine Kugel (m = 2,5 kg) wird gleichförmig an einem Faden der Länge 40 cm mit einer Bahngeschwindigkeit von 36 km/h auf einer Kreisbahn bewegt.​
+
+1. 1. Benenne die Kraft, welche auf die Kugel wirkt und als Zentripedalkraft fungiert.
+
+<div style="text-indent:10%">
+
+<details>
+
+<summary> Hinweis 1.1 </summary>
+
+Der Faden hält die Kugel auf der Kreisbahn. Demzufolge fungiert die Fadenkraft hier als Zentripedalkraft.
+
+</details>
+
+</div>
+
+
+1. 2. Berechne die Kraft, welche auf die Kugel wirkt und als Zentripedalkraft fungiert.
+
+<div style="text-indent:10%">
+
+<details>
+
+<summary> Hinweis 1.2 </summary>
+
+Rechne sämtliche gegebenen Größen in die Standardeinheiten um und setze diese in die Formel für die Zentripedalkraft (2.9.) ein.
+
+</details>
+
+</div>
+
+<div style="text-indent:10%">
+
+<details>
+
+<summary> Lösung 1.2 </summary>
+
+$$F_r = \dfrac{m \cdot v^2}{r} = \dfrac{2,5\,kg \cdot (10\frac{m}{s})^2}{0,4\,m} = 625\,N$$
+
+</details>
+
+</div>
+
+1. 2. Berechne die Zeit, die nötig ist, damit die Kugel zwei Umdrehungen schafft.
+
+<div style="text-indent:10%">
+
+<details>
+
+<summary> Hinweis 1.3 </summary>
+
+Berechne aus den gegebenen Werten den Umfang $u$ des Kreises. Die Kugel legt in gleichförmiger Bewegung die Strecke $2u$ zurück. Mit der gegebenen Geschwindigkeit lässt sich die Zeit ermitteln.
+
+</details>
+
+</div>
+
+<div style="text-indent:10%">
+
+<details>
+
+<summary> Lösung 1.3 </summary>
+
+Der Umfang $u$ eines Kreises wird berechnet mit $u = 2\pi\cdot r$. Die Zeit, welche die Kugel bei gleichförmiger Bewegung für 2 Umläufe braucht ist daher $$t=\frac{2\cdot u}{v}\approx0,503\,s$$.
+
+</details>
+
+</div>
+
+#### 2. Fahrradtachometer (++)
+
+Ein Fahrradtachometer bestehend aus einem Sensor und einem Magneten (mittig montiert auf der Speiche zwischen Lauffläche und Nabe). Das Rad hat einen Durchmesser von 635 mm. Er misst alle 0,25s eine Umdrehung.
+
+2. 1. Fertige eine Skizze zur Aufgabe an. Trage die gegebenen Größen ein.
+
+2. 2. Berechne die Bahngeschwindigkeiten des Magneten und der Lauffläche.
+
+2. 3. Berechne die Kraft, die nötig ist, damit der Magnet ($m=10g$) an der Speiche bleibt.
+
+#### 3. Satellitenbahn (++)
+
+3. 1. Erläutere die Bewegung eines Satelliten um die Erde. Erkläre warum der Satellit nicht auf die Erde stürzt. 
+
+3. 2. Ermittle den Radius des geostationären Orbits für Erdsatelliten. <br> _Hinweis: Bei einem geostationären Orbit bleibt der Satellit immer über dem gleichen Punkt auf der Erdoberfläche._
+
+#### 4. Kurvenfahrt (++)
+
+Bei Kurvenfahrten mit konstanter Geschwindigkeit treten an einem Fahrzeug zwischen Reifen und Fahrbahn zwei Arten von Reibungskräften auf. Die Rollreibung wirkt parallel zur Bewegungsrichtung, Haftreibung wirkt senkrecht zur Bewegungsrichtung. 
+Ein Fahrzeug (1,5 t) bewegt sich auf einer kreisförmigen Kurve (Radius 50 m) mit einer konstanten Geschwindigkeit von 72 km/h. Die Haftreibungszahl µHaft zwischen Reifen und Fahrbahn beträgt 0,85. Die Rollreibungszahl µRoll beträgt 0,025.
+
+4. 1. Entscheiden Sie, ob die Haftreibung in diesem Fall eine erwünschte oder eine unerwünschte Reibungskraft ist. Begründen Sie Ihre Entscheidung. Ermitteln Sie den Wert der Haftreibungskraft.
+
+4. 2. Begründen Sie, warum das Fahrzeug nicht mit beliebig hoher Geschwindigkeit durch die Kurve fahren kann. Diskutieren Sie dazu die für die Kreisbewegung relevanten Kräfte.
+
+4. 3. Ermitteln Sie die Höchstgeschwindigkeit für die beschriebene Kurvenfahrt.
+
+#### 5. Erdrotation (+)
+
+5. Der Erdradius beträgt etwa 6370 km. Ermitteln Sie die Geschwindigkeit, mit der sich ein Punkt auf der Erdoberfläche des Äquators bei der Erddrehung bewegt? Beachten Sie: Die Erde dreht sich in einem Tag einmal um sich selbst.
+
+<details>
+
+<summary> Lösung 5. </summary>
+
+>![Lsg_3.1](https://diversewolken.ddns.net/nextcloud/index.php/s/JDkA7GJwBgw8Led/download)
+
+</details>
+
+
+
+#### 6. Turmuhr (+)
+
+6.  Die Spitze des Minutenzeigers einer Turmuhr hat die Geschwindigkeit $1,5 \frac{mm}{s}$. Ermitteln Sie die Zeigerlänge?
+
+<details>
+
+<summary> Lösung 6. </summary>
+
+>![Lsg_3.2](https://diversewolken.ddns.net/nextcloud/index.php/s/LQAmgYazNjHo3rD/download)
+
+</details>
+
+
+
+
+#### 7. Dynamo (+)
+
+7. Fahrradfahren/Dynamo
+
+![A3.3](https://diversewolken.ddns.net/nextcloud/index.php/s/Xz8KES8f8kHPE3G/download)
+
+<details>
+
+<summary> Lösung 7. </summary>
+
+> ![Lsg_3.3](https://diversewolken.ddns.net/nextcloud/index.php/s/XsJtHCgnrrBqPb5/download)
+
+</details>
+
+#### 8. Flugzeugturbinen (+)
+
+8. Turbinen und Drehgeschwindigkeit
+
+![A3.4](https://diversewolken.ddns.net/nextcloud/index.php/s/A4yG37d3eHf6ZTL/download)
+
+<details>
+
+<summary> Lösung 8. </summary>
+
+> ![Lsg_3.4](https://diversewolken.ddns.net/nextcloud/index.php/s/qTEzgnK4ZZcGcxB/download)
+
+</details>
+
+
+#### 9. Winkelschleifer (+)
+
+![A3.5](https://diversewolken.ddns.net/nextcloud/index.php/s/5xsPM2oXRNsEmzZ/download)
+
+<details>
+
+<summary> Lösung 9. </summary>
+
+> ![Lsg_3.5](https://diversewolken.ddns.net/nextcloud/index.php/s/dEGwgjJLZ5Lx9YY/download)
+
+</details>
+
