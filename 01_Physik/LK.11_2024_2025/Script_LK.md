@@ -2230,7 +2230,7 @@ Hierbei sind:
 
 ### Aufgaben zur Kreisbewegung
 
-Im Folgenden sind Aufgaben zur Kreisbewegung gestellt. Die Aufgaben sind mit "Aufwändigkeits-Marken" versehen. Es gibt zwei Kathegorien: 
+Im Folgenden sind Aufgaben zur Kreisbewegung gestellt. Die Aufgaben sind mit "Aufwändigkeits-Marken" versehen.
 
 - (+) geringer Aufwand
 - (++) mittlerer Aufwand
