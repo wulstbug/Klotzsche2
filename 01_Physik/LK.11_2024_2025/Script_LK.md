@@ -2236,7 +2236,9 @@ Im Folgenden sind Aufgaben zur Kreisbewegung gestellt. Die Aufgaben sind mit "Au
 - (++) mittlerer Aufwand
 - (+++) erhöhter Aufwand
 
-__Löse insgesamt 7 Aufgaben. Davon sollen mindestens 2 Aufgaben (++) und eine Aufgabe (+++) enthalten sein.__
+<p style="color:red">
+>> __Löse insgesamt 7 Aufgaben. Davon sollen mindestens zwei Aufgaben (++) und eine Aufgabe (+++) enthalten sein.__
+</p>
 
 #### 1. Kugel am Faden (++)
 
