@@ -1188,6 +1188,8 @@ $ \underline{r \approx 1,72 \cdot 10^{11}m}$
 
 Der Abstand Erde Sonne (auch eine astronomische Einheit genannt) beträgt etwa $1,5\cdot 10^{11}m$. Der Minutenzeiger einer Uhr und deren Zeiger sich um das Zentrum der Sonne drehen würden, deren Länge etwas weiter als bis zur Erde reichen würde, hätten an der Spitze ungefähr Lichtgeschwindigkeit.
 
+Alternativ: Das Verhältnis der hypothetischen Zeigerlänge zum Abstand Erde-Sonne beträgt etwa 1,15.
+
 </details>
 
 </div>
