@@ -902,7 +902,7 @@ Ein Fahrradtachometer bestehend aus einem Sensor und einem Magneten (mittig mont
 
 <summary> Lösung 2.1 </summary>
 
-![KB_Lsg_2.1](https://diversewolken.ddns.net:4443/nextcloud/index.php/s/PEYT5WH9o8x4GGH/download)
+![KB_Lsg_2.1](https://diversewolken.ddns.net/nextcloud/index.php/s/PEYT5WH9o8x4GGH/download)
 
 </details>
 
@@ -918,7 +918,7 @@ Ein Fahrradtachometer bestehend aus einem Sensor und einem Magneten (mittig mont
 
 <summary> Lösung 2.2 </summary>
 
-![KB_Lsg_2.2](https://diversewolken.ddns.net:4443/nextcloud/index.php/s/6GEe3gTeiG7pMyS/download)
+![KB_Lsg_2.2](https://diversewolken.ddns.net/nextcloud/index.php/s/6GEe3gTeiG7pMyS/download)
 
 </details>
 
@@ -934,7 +934,7 @@ Ein Fahrradtachometer bestehend aus einem Sensor und einem Magneten (mittig mont
 
 <summary> Lösung 2.3 </summary>
 
-![KB_Lsg_2.3](https://diversewolken.ddns.net:4443/nextcloud/index.php/s/P3W7LZBZ3LaHCnB/download)
+![KB_Lsg_2.3](https://diversewolken.ddns.net/nextcloud/index.php/s/P3W7LZBZ3LaHCnB/download)
 
 </details>
 
@@ -950,7 +950,7 @@ Ein Fahrradtachometer bestehend aus einem Sensor und einem Magneten (mittig mont
 
 <summary> Lösung 3.1 </summary>
 
-![KB_Lsg_3.1](https://diversewolken.ddns.net:4443/nextcloud/index.php/s/kYBZsG4kTxDngXf/download)
+![KB_Lsg_3.1](https://diversewolken.ddns.net/nextcloud/index.php/s/kYBZsG4kTxDngXf/download)
 
 </details>
 
@@ -992,7 +992,7 @@ $$ F_g = G\cdot\frac{m\cdot M}{r^2} $$
 
 <summary> Lösung 3.2 A </summary>
 
-![KB_Lsg_3.2A](https://diversewolken.ddns.net:4443/nextcloud/index.php/s/9Tbn8xWaW97xXCL/download)
+![KB_Lsg_3.2A](https://diversewolken.ddns.net/nextcloud/index.php/s/9Tbn8xWaW97xXCL/download)
 
 </details>
 
@@ -1004,7 +1004,7 @@ $$ F_g = G\cdot\frac{m\cdot M}{r^2} $$
 
 <summary> Lösung 3.2 B </summary>
 
-![KB_Lsg_3.2B](https://diversewolken.ddns.net:4443/nextcloud/index.php/s/RiTem8mfeWk2ZZt/download)
+![KB_Lsg_3.2B](https://diversewolken.ddns.net/nextcloud/index.php/s/RiTem8mfeWk2ZZt/download)
 
 </details>
 
@@ -1108,7 +1108,7 @@ Setzen Sie für den Grenzfall Haftreibungskraft und Zentripedalkraft gleich.
 
 <summary> Lösung 4.3 </summary>
 
-![KB_Lsg_4.3](https://diversewolken.ddns.net:4443/nextcloud/index.php/s/9Zjg4azKE4CmNAA/download)
+![KB_Lsg_4.3](https://diversewolken.ddns.net/nextcloud/index.php/s/9Zjg4azKE4CmNAA/download)
 
 </details>
 
