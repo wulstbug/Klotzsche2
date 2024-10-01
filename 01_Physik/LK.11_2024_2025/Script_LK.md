@@ -2577,7 +2577,7 @@ Setzen Sie für den Grenzfall Haftreibungskraft und Zentripedalkraft gleich.
 
 ---
 
-6.2  Bestimmen Sie unter Berücksichtigung physikalisch möglicher Geschwindigkeiten die maximale (hypotetische) Größe einer Uhr, d.h. ihrer Zeigerlänge (Minutenzeiger).
+6.2  Bestimmen Sie unter Berücksichtigung physikalisch möglicher Geschwindigkeiten die maximale (hypotetische) Größe einer Uhr, d.h. ihrer Zeigerlänge (Minutenzeiger). Setzen Sie Ihr Ergebnis mit einer typischen astronomischen Entfernung sinnvoll ins Verhältnis.
 
 <div style="text-indent:10%">
 
