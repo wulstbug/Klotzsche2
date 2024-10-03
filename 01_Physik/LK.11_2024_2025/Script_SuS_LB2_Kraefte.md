@@ -25,6 +25,26 @@ h1, h2, h3, h4, h5, h6 {
     break-before: column;
 }
 
+.red {
+    color: red;
+}
+
+.blue {
+    color: blue;
+}
+
+.darkgreen {
+    color: darkgreen;
+}
+
+.orange {
+    color: orange;
+}
+
+.purple {
+    color: purple;
+}
+
 @end
 
 @color
