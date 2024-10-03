@@ -52,16 +52,16 @@ try {
 @rangeQuiz
 [[@0]]
 <script>
-let input1 = "@input".replace(/,/g, ".")
-let input = input1.replace(/N$/, '');
+    let input1 = "@input".replace(/,/g, ".")
+    let input = input1.replace(/N$/, '');
 
-try {
-    input = Math.abs(eval(input)-@0)/Math.abs(input)
+    try {
+        input = Math.abs(eval(input)-@0)/Math.abs(input)
     
-    input <= 0.05
-} catch (e) {
-    false
-}
+        input <= 0.05
+    } catch (e) {
+        false
+    }
 </script>
 
 @end
