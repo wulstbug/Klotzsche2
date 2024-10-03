@@ -25,26 +25,26 @@ h1, h2, h3, h4, h5, h6 {
     break-before: column;
 }
 
-.red {
-    color: red;
-}
+@end
 
-.blue {
-    color: blue;
-}
+@color
+<div style="color:@1">@0</div>
+@end
 
-.darkgreen {
-    color: darkgreen;
-}
+@rangeQuiz
+[[@0]]
+<script>
+let input1 = "@input".replace(/,/g, ".")
+let input = input1.replace(/N$/, '');
 
-.orange {
-    color: orange;
+try {
+    input = Math.abs(eval(input)-@0)/Math.abs(input)
+    
+    input <= 0.03
+} catch (e) {
+    false
 }
-
-.purple {
-    color: purple;
-}
-
+</script>
 @end
 
 
