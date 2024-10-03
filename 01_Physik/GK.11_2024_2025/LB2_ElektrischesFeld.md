@@ -25,22 +25,11 @@ h1, h2, h3, h4, h5, h6 {
     break-before: column;
 }
 
-.blue {
-    color:blue
-}
-
-.green {
-    color:darkgreen
-}
-
-.red {
-    color:darkgreen
-}
-
-
-
 @end
 
+@color
+<div style="color:@1">@0</div>
+@end
 
 @onload
 window.LIA.settings.font_size = 2

@@ -34,6 +34,10 @@ navigation: hidden
 window.LIA.settings.font_size = 2
 @end
 
+@color
+<div style="color:@1">@0</div>
+@end
+
 @@@ ogy.de/11ph3 deaktivieren: https://ogy.de/del.cvv2y5l7old0u7gamlc1
 
 -->

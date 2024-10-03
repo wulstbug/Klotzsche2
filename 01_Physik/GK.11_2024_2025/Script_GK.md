@@ -29,6 +29,10 @@ h1, h2, h3, h4, h5, h6 {
 }
 @end
 
+@color
+<div style="color:@1">@0</div>
+@end
+
 @onload
 window.LIA.settings.font_size = 2
 @end
