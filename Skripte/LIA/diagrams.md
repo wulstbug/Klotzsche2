@@ -44,17 +44,18 @@ let option = {
   ]
 };
 
+
 "HTML: <lia-chart option='" + JSON.stringify(option) + "'></lia-chart>"
 </script>
 
 # Sinus-Wave
 
-$Amplitude =$ <script modify="false" input="range" step="0.1" min="0.1" max="5" value="1" output="A">@input</script>,
-$Frequency =$ <script modify="false" input="range" step="0.1" min="0.1" max="10" value="1" output="F">@input</script>,
-$Phase =$ <script modify="false" input="range" step="0.1" min="-10" max="10" value="0" output="P">@input</script>
+$\hat{y} =$ <script modify="false" input="range" step="0.1" min="0.1" max="5" value="1" output="A">@input</script>,
+$f =$ <script modify="false" input="range" step="0.1" min="0.1" max="10" value="1" output="F">@input</script>,
+$\varphi =$ <script modify="false" input="range" step="0.1" min="-10" max="10" value="0" output="P">@input</script>
 
 <script modify="false" run-once style="display: inline-block; width: 100%">
-"LIASCRIPT: ### $$f(x) = @input(`A`) \cdot \sin(@input(`F`) \cdot x + @input(`P`))$$"
+"LIASCRIPT: ### $$f(x) = @input(`A`) · \sin(@input(`F`) · x + @input(`P`))$$"
 </script>
 
 <script run-once style="display: inline-block; width: 100%">
