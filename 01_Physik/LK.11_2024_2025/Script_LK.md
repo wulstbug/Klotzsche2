@@ -36,6 +36,15 @@ window.LIA.settings.font_size = 2
 <div style="color:@1">@0</div>
 @end
 
+@uhr
+<div style="position: fixed; right:50px; top:100px;">
+   <details>
+      <summary> Uhrzeit </summary>
+      <div style="text-align:left;padding:1em 0;"> <iframe src="https://www.zeitverschiebung.net/clock-widget-iframe-v2?language=de&size=large&timezone=Europe%2FBerlin" width="100%" height="150" frameborder="0" seamless></iframe> </div>
+   </details>
+</div>
+@end
+
 @@@ ogy.de/11ph3 deaktivieren: https://ogy.de/del.cvv2y5l7old0u7gamlc1
 
 -->
@@ -2676,3 +2685,4 @@ Alternativ: Das Verhältnis der hypothetischen Zeigerlänge zum Abstand Erde-Son
 </details>
 
 </div>
+
