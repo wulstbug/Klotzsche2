@@ -21,6 +21,27 @@ window.LIA.settings.font_size = 2
 </div>
 @end
 
+@color
+<div style="color:@1">@0</div>
+@end
+
+@media (min-width: 600px) {
+    .newspaper {
+        column-count: 2;
+        column-gap: 40px;
+        column-rule: 1px solid lightblue;
+    }
+}
+
+h1, h2, h3, h4, h5, h6 {
+  column-span: all;
+}
+
+.cb {
+    break-before: column;
+}
+@end
+
 -->
 
 # Settings for LIA
