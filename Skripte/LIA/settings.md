@@ -46,14 +46,3 @@ h1, h2, h3, h4, h5, h6 {
 
 # Settings for LIA
 
-<div style="position:absolute; right:50px">
-
-<details>
-
-<summary> Lösung 9. </summary>
-
-- [ ] Test
-
-</details>
-
-</div>
