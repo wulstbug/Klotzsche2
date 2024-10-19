@@ -1304,10 +1304,35 @@ __Definition:__ Die @color(Kapazität, orange) eines Kondensators beschreibt sei
 > $\hspace{1cm}$ $d$ ... Abstand der Platten $[m]$
 *********
 
-## Aufgaben zum elektrischen Feld von Kondensatoren
+## Aufgaben Ladung, elektrisches Feld, Kondensator
 
+2. Elektrische Ladung: LB. S. 122 6/8
 
-2. Bestimme die Spannung, die am Kondensator eingestellt anliegen muss, damit auf ein Elektron eine Kraft von 5 nN wirkt.
+<div style="text-indent:10%">
+
+Überprüfe deine Lösungen
+
+<details>
+
+<summary> Lösung S.122/6 </summary>
+
+$N=\frac{0,1 C}{1,602\cdot10^{-19}C}\approx6,242 \cdot 10^{17} \textbf{Elektronen}$
+
+</details>
+
+<details>
+
+<summary> Lösung S.122/8 </summary>
+
+a) negativ
+
+b) $Q = N \cdot e = 3,1\cdot10^{10} \cdot 1,602\cdot10^{-19} C = 4,966\cdot10^{-9} C \approx 5 nC $
+
+</details>
+
+</div>
+
+3. Bestimme die Spannung, die am Kondensator aus Aufgabe 1 anliegen muss, damit auf ein Elektron eine Kraft von 5 nN wirkt.
 
 <div style="text-indent:10%"> 
 
@@ -1329,7 +1354,104 @@ Ladung des Elektrons:
 
 <summary> Lösung </summary>
 
-![BildDerLösung]()
+![BildDerLösung](https://diversewolken.ddns.net/nextcloud/index.php/s/mtM5TLiakAzrisa/download)<!-- style="width:80%"-->
+
+</details>
+
+</div>
+
+4. Ein Plattenkondensator hat eine Querschnittsfläche der Platten von $50\,cm^2$. Der Abstand der Platten beträgt $2\,cm$. Der Kondensator ist horizontal aufgestellt, d.h. eine Platten unten, eine Platte oben. Zwischen den Platten sei Vakuum.
+
+4. 1. Bestimme die Kapazität dieses Kondensators.
+
+<div style="text-indent:10%"> 
+
+<details>
+
+<summary> Hinweis 4.1. </summary>
+
+Nutze die Formel zur Berechnung der Kapazität C eines Plattenkondensators. Achte auf die Umrechnungen von Fläche und Länge.
+
+</details>
+
+<details>
+
+<summary> Lösung 4.1. </summary>
+
+![Lsg_1.3_A4.1](https://diversewolken.ddns.net/nextcloud/index.php/s/EKTW7ncRr3oSJcJ/download)<!-- style="width:80%"-->
+
+</details>
+
+</div>
+
+4. 2. Zwischen den Platten befindet sich ein einzelnes Proton. Der Kondensator soll so geladen sein, dass das Proton zwischen den Platten schwebt. Zeichne dazu eine Skizze und gib die Pole an den Platten an. Zeichne die wirkenden Kräfte qualitativ ein.
+
+<div style="text-indent:10%"> 
+
+<details>
+
+<summary> Hinweis 4.2. </summary>
+
+Zeichne einen Plattenkondensator mit einer Platten oben und einer Platte unten. Zeichne in die Mitte das punktförmige Proton. Überprüfe, welche Kraft auf das Proton aufgrund seiner Masse wirkt. Zeichne diese Kraft ein. Da das Proton schweben soll, muss diese Kraft durch eine weitere Kraft genau aufgehoben werden. Zeichne auch diese Kraft ein. Überlege nun, wie die obere Platte geladen sein muss.
+
+</details>
+
+<details>
+
+<summary> Lösung 4.2. </summary>
+
+![Lsg_1.3_A4.2](https://diversewolken.ddns.net/nextcloud/index.php/s/bW2JAqywjYBA2Wx/download)<!-- style="width:80%"-->
+
+</details>
+
+</div>
+
+4. 3. Bestimme die Spannung, die am Kondensator angelegt werden muss, damit das Elektron schwebt.
+
+<div style="text-indent:10%"> 
+
+<details>
+
+<summary> Hinweis 4.3. </summary>
+
+Gewichtskraft und elektrische Kraft müssen gleich groß sein, damit das Proton schwebt. Recherchiere Masse $m_p$ und Ladung $q$ eines Protons mit Hilfe der IQB-Formelsammlung. Überprüfe im Skript die Formeln für Gewichtskraft und elektrische Kraft auf eine Probeladung im elektrischen Feld. Nutze die Formel für die elektrische Feldstärke in einem Plattenkondensator.
+
+</details>
+
+<details>
+
+<summary> Lösung 4.3. </summary>
+
+![Lsg_1.3_A4.3](https://diversewolken.ddns.net/nextcloud/index.php/s/Y8risbAANPaWwTq/download)<!-- style="width:80%"-->
+
+</details>
+
+</div>
+
+## 1.5 Pendel im elektrischen Feld
+
+![TB_FadenpendelElektrischesFeld](https://diversewolken.ddns.net/nextcloud/index.php/s/aB6PmLHcseFXY2Z/download)
+
+__Aufgabe:__
+
+5. Elektrisches Feld mit Probeladung: LB. S. 123/15
+
+<div style="text-indent:10%"> 
+
+<details>
+
+<summary> Lösung a) </summary>
+
+![Lsg_LB123_15](https://diversewolken.ddns.net/nextcloud/index.php/s/W3SQgTE7JErmfbb/download)<!-- style="width:80%"-->
+
+</details>
+
+
+<details>
+
+<summary> Lösung b) </summary>
+
+![Lsg_LB123_15](https://diversewolken.ddns.net/nextcloud/index.php/s/rjwJHMBwm3NbwrT/download)<!-- style="width:80%"-->
 
 </details>
 
