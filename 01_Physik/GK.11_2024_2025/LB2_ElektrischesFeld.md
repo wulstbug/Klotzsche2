@@ -135,7 +135,7 @@ Die Anzahl $N$ der überzähligen Elementarladungen $e$ ergibt demnach die elekt
 
 > $$Q = N \cdot e $$
 
-### 1.2.3 Kräfte zwischen elektrisch geladenen Körpern
+### 1.1.3 Kräfte zwischen elektrisch geladenen Körpern
 
 > Zwischen geladenen Körpern wirken elektrische Kräfte. Dabei stoßen sich gleichnamig geladene Körper ab, wohingegen sich ungleichnamig geladene Körper anziehen.
 

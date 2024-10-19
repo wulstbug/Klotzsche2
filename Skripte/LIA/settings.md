@@ -46,3 +46,6 @@ h1, h2, h3, h4, h5, h6 {
 
 # Settings for LIA
 
+Image Centered
+
+![Plattenkondensator](https://diversewolken.ddns.net/nextcloud/index.php/s/Sw39rmgGTYbZL7S/download) <!--style="display:block;margin-left:auto;margin-right:auto; max-width:400px"-->

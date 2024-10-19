@@ -38,7 +38,7 @@ h1, h2, h3, h4, h5, h6 {
 @end
 
 @indent
-<bdi style="text-indent:@1>@0</bdi>
+<div style="text-indent:@1">@0</div>
 @end
 
 @onload
@@ -1009,7 +1009,7 @@ Die Anzahl $N$ der überzähligen Elementarladungen $e$ ergibt demnach die elekt
 
 > $$Q = N \cdot e $$
 
-### 1.2.3 Kräfte zwischen elektrisch geladenen Körpern
+### 1.1.3 Kräfte zwischen elektrisch geladenen Körpern
 
 > Zwischen geladenen Körpern wirken elektrische Kräfte. Dabei stoßen sich gleichnamig geladene Körper ab, wohingegen sich ungleichnamig geladene Körper anziehen.
 
@@ -1188,6 +1188,8 @@ Die Stärke des elektrischen Feldes $\vec{E}$ berechnet sich aus der Kraft $\vec
         [( )] Homogenes Feld
         [[?]] Vergleiche Feldtypen unter 1.2.
 
+
+
 ## Auswertung LK
 
 __Notenverteilung: __
@@ -1207,25 +1209,128 @@ __Lösungshinweise:__
 
 ***********
 
-## 1.3. Der Kondensator und homogenes elektrische Felder
+## 1.3. Der Kondensator
 
 __Definition:__ Ein Kondenstator ist ein Bauelement zur __Speicherung von elektrischer Ladung__. Er besteht aus zwei leitenden Schichten, die durch einen Isolator (@color(Dielektrikum,orange)) voneinander getrennt sind @color([Vlg. LB S. 80], darkgrey).
 
 Einfachste Bauform: @color(__Plattenkondensator__, orange) 
 
-![Plattenkondensator](https://diversewolken.ddns.net/nextcloud/index.php/s/QHLFpxoKaRpaq5R/download)
 
+![Plattenkondensator](https://diversewolken.ddns.net/nextcloud/index.php/s/Sw39rmgGTYbZL7S/download) <!--style="display:block;margin-left:auto;margin-right:auto; max-width:400px"-->
+
+{{1}}
+*******
 __Eigenschaften eines Plattenkondensators:__
 
-- auf den beiden Platten eines Plattenkondensators werden elektrische Ladungen gespeichert
+- auf den beiden Platten eines Plattenkondensators werden __elektrische Ladungen $Q$__ gespeichert
+*******
 
-- das elektrische Feld zwischen den Platten ist @color(homogen, orange), d.h. es hat an jedem Punkt dieselbe Feldstärke $\vec{E}$
+{{2}}
+*******
+- __das elektrische Feld__ zwischen den Platten ist @color(homogen, orange), d.h. es hat an jedem Punkt dieselbe Feldstärke $\vec{E}$
+*******
 
-- die Feldlinien zeigen von der @color(positiven, red) Platte zur @color(negativen, blue) Platte
+{{3}}
+*******
+- __die Feldlinien__ zeigen von der @color(positiven, red) Platte zur @color(negativen, blue) Platte
+*******
 
-- das elektrische Feld $\vec{E}$ eines Plattenkondensators berechnet sich mit
+{{4}}
+*******
+- __das elektrische Feld__ $\vec{E}$ eines Plattenkondensators berechnet sich mit
+*******
+
+{{5}}
+*******
 > $$ \boxed{\vec{E} = \dfrac{U}{d}} $$
 >
 > $\hspace{1cm}$ $U$ ... Spannung zwischen den Platten $\big[ V \big]$ 
 >
 > $\hspace{1cm}$ $d$ ... Abstand der Platten $\big[ m \big]$ 
+
+- wird in das elektrische Feld eine elektrische Ladung eingebracht, so wirkt auf die Ladung eine elektrische Kraft die mit $\vec{F}=\vec{E}\cdot q$ berechnet werden kann
+*******
+
+{{6}}
+******
+>__Aufgabe:__ An einem Plattenkondensator beträgt die Spannung 1,5 kV und der Plattenabstand 0,1 m. 
+>
+> 1. Bestimme die Kraft, die auf einen Körper mit einer Ladung von 20 nC wirkt <br> @color(Hinweis: $nC=10^{-9}C$ [Nano-Coulomb], grey) <br> @color(Lösung: siehe Lehrbuch S.97, grey)
+******
+
+## 1.4. Die Kapazität
+
+__Definition:__ Die @color(Kapazität, orange) eines Kondensators beschreibt seine Fähigkeit eine __Ladungsmenge Q__ zu speichern, wenn eine bestimmte __Spannung U__ angelegt wird.
+
+{{1}}
+*********
+> __Formel:__ 
+>
+> $$ \boxed{ C = \dfrac{Q}{U} } $$
+>
+> $\hspace{1cm}$ $C$ ... Kapazität  
+>
+> $\hspace{1cm}$ $Q$ ... im Kondensator gespeicherte Ladung $\big[ C \big]$ 
+>
+> $\hspace{1cm}$ $U$ ... angelegte Spannung $\big[ V \big]$ 
+*********
+
+{{2}}
+*********
+> __Einheit der Kapazität:__  $$\textbf{1 Farad = 1 F}$$
+>
+> $$\Big[ F = \dfrac{C}{V} \Big] $$
+*********
+
+{{3}}
+*********
+> __Kapazität eines @color(Plattenkondensators, orange):__
+>
+> $$ \boxed{ C = \varepsilon_0 \cdot \varepsilon_r \cdot \dfrac{A}{d} } $$
+>
+> <p style="text-align:center">[IQB-Formelsammlung](https://www.iqb.hu-berlin.de/abitur/abitur/dokumente/naturwissenschaften/N_Mathematischna.pdf) (S.28+54)</p>
+*********
+
+{{4}}
+*********
+> $\hspace{1cm}$ $C$ ... Kapazität  
+>
+> $\hspace{1cm}$ $\varepsilon_0$ ... elektrische Feldkonstante $\boxed{\varepsilon_0 = 8,854 \cdot 10^{-12}\,\dfrac{A\cdot s}{V \cdot m}}$
+>
+> $\hspace{1cm}$ $\varepsilon_r$ ... Dielektrizitätszahl [Einheitenlos] @color( - Luft/Vakuum: $\varepsilon_r=1$,blue)
+>
+> $\hspace{1cm}$ $A$ ... Flächeninhalt der Platte $[m^2]$
+>
+> $\hspace{1cm}$ $d$ ... Abstand der Platten $[m]$
+*********
+
+## Aufgaben zum elektrischen Feld von Kondensatoren
+
+
+2. Bestimme die Spannung, die am Kondensator eingestellt anliegen muss, damit auf ein Elektron eine Kraft von 5 nN wirkt.
+
+<div style="text-indent:10%"> 
+
+<details>
+
+<summary> Hinweis </summary>
+
+Nutze Lösung der Aufgabe 1. und stelle die Formel nach U um.
+
+> $1nN = 1 \cdot 10^{-9} N$
+
+Ladung des Elektrons:
+
+> $q=-1,602 \cdot 10^{-19}C$ (Nutze IQB-Formelsammlung -> Naturkonstanten S.50/51)
+
+</details>
+
+<details>
+
+<summary> Lösung </summary>
+
+![BildDerLösung]()
+
+</details>
+
+</div>
