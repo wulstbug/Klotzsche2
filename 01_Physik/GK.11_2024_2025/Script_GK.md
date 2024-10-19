@@ -1251,12 +1251,12 @@ __Eigenschaften eines Plattenkondensators:__
 - wird in das elektrische Feld eine elektrische Ladung eingebracht, so wirkt auf die Ladung eine elektrische Kraft die mit $\vec{F}=\vec{E}\cdot q$ berechnet werden kann
 *******
 
-{{6}}
-******
->__Aufgabe:__ An einem Plattenkondensator beträgt die Spannung 1,5 kV und der Plattenabstand 0,1 m. 
->
-> 1. Bestimme die Kraft, die auf einen Körper mit einer Ladung von 20 nC wirkt <br> @color(Hinweis: $nC=10^{-9}C$ [Nano-Coulomb], grey) <br> @color(Lösung: siehe Lehrbuch S.97, grey)
-******
+### Aufgabe 1. - Plattenkondensator
+
+An einem Plattenkondensator beträgt die Spannung 1,5 kV und der Plattenabstand 0,1 m. 
+
+Bestimme die Kraft, die auf einen Körper mit einer Ladung von 20 nC wirkt <br> @color(Hinweis: $nC=10^{-9}C$ [Nano-Coulomb], grey) <br> @color(Lösung: siehe Lehrbuch S.97, grey)
+
 
 ## 1.4. Die Kapazität
 
@@ -1304,9 +1304,11 @@ __Definition:__ Die @color(Kapazität, orange) eines Kondensators beschreibt sei
 > $\hspace{1cm}$ $d$ ... Abstand der Platten $[m]$
 *********
 
-## Aufgaben Ladung, elektrisches Feld, Kondensator
 
-2. Elektrische Ladung: LB. S. 122 6/8
+
+### Aufgabe 2. Elektrische Ladung
+
+__Löse LB. S. 122 6/8__
 
 <div style="text-indent:10%">
 
@@ -1332,7 +1334,9 @@ b) $Q = N \cdot e = 3,1\cdot10^{10} \cdot 1,602\cdot10^{-19} C = 4,966\cdot10^{-
 
 </div>
 
-3. Bestimme die Spannung, die am Kondensator aus Aufgabe 1 anliegen muss, damit auf ein Elektron eine Kraft von 5 nN wirkt.
+### Aufgabe 3. Spannung am Kondensator
+
+__Bestimme die Spannung, die am Kondensator aus Aufgabe 1 anliegen muss, damit auf ein Elektron eine Kraft von 5 nN wirkt.__
 
 <div style="text-indent:10%"> 
 
@@ -1360,7 +1364,9 @@ Ladung des Elektrons:
 
 </div>
 
-4. Ein Plattenkondensator hat eine Querschnittsfläche der Platten von $50\,cm^2$. Der Abstand der Platten beträgt $2\,cm$. Der Kondensator ist horizontal aufgestellt, d.h. eine Platten unten, eine Platte oben. Zwischen den Platten sei Vakuum.
+### Aufgabe 4. Geladenes Teilchen im Plattenkondensator
+
+__Ein Plattenkondensator hat eine Querschnittsfläche der Platten von $50\,cm^2$. Der Abstand der Platten beträgt $2\,cm$. Der Kondensator ist horizontal aufgestellt, d.h. eine Platten unten, eine Platte oben. Zwischen den Platten sei Vakuum.__
 
 4. 1. Bestimme die Kapazität dieses Kondensators.
 
@@ -1432,7 +1438,7 @@ Gewichtskraft und elektrische Kraft müssen gleich groß sein, damit das Proton 
 
 ![TB_FadenpendelElektrischesFeld](https://diversewolken.ddns.net/nextcloud/index.php/s/aB6PmLHcseFXY2Z/download)
 
-__Aufgabe:__
+### Aufgabe 5. Pendel im elektrischen Feld
 
 5. Elektrisches Feld mit Probeladung: LB. S. 123/15
 
