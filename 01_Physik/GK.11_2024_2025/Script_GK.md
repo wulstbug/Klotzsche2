@@ -30,12 +30,30 @@ h1, h2, h3, h4, h5, h6 {
 @end
 
 @color
-<div style="color:@1">@0</div>
+<bdi style="color:@1">@0</bdi>
+@end
+
+@align
+<p style="text-align: @1">@0</p>
+@end
+
+@indent
+<bdi style="text-indent:@1>@0</bdi>
 @end
 
 @onload
 window.LIA.settings.font_size = 2
 @end
+
+@uhr
+<div style="position: fixed; right:50px; top:150px;">
+   <details>
+      <summary> Uhrzeit </summary>
+      <div style="text-align:left;padding:1em 0;"> <iframe src="https://www.zeitverschiebung.net/clock-widget-iframe-v2?language=de&size=large&timezone=Europe%2FBerlin" width="100%" height="150" frameborder="0" seamless></iframe> </div>
+   </details>
+</div>
+@end
+
 
 @@@ ogy.de/11ph3 deaktivieren: https://ogy.de/del.cvv2y5l7old0u7gamlc1
 
@@ -43,7 +61,7 @@ window.LIA.settings.font_size = 2
 
 # Grundkurs Physik 2024/2025 - Skript
 
-<div style="text-align:left;padding:1em 0;"> <iframe src="https://www.zeitverschiebung.net/clock-widget-iframe-v2?language=de&size=large&timezone=Europe%2FBerlin" width="100%" height="150" frameborder="0" seamless></iframe> </div>
+@uhr
 
 # LB I - Mechanische Grundlagen
 
@@ -1095,6 +1113,8 @@ Die Stärke des elektrischen Feldes $\vec{E}$ berechnet sich aus der Kraft $\vec
 
 ### Aufgaben zum elektrischen Feld
 
+@uhr
+
 <div style="color:orange">_Hinweis: Löse folgende Augaben. Du kannst auf das Glühlampensymbol klicken, wenn du Tipps benötigst, auch mehrfach._ </div>
 
 1. Die Erde bestitz in zur Oberfläche gerichtetes elektrisches Feld, das an der Oberfläche eine Stärke von $ 130 \dfrac{N}{C} $ besitzt.
@@ -1168,4 +1188,44 @@ Die Stärke des elektrischen Feldes $\vec{E}$ berechnet sich aus der Kraft $\vec
         [( )] Homogenes Feld
         [[?]] Vergleiche Feldtypen unter 1.2.
 
+## Auswertung LK
 
+__Notenverteilung: __
+
+![Notenverteilung_LK_LB1](https://diversewolken.ddns.net/nextcloud/index.php/s/NqaDgPq9C4mDWiw/download)
+
+Klausur: @color(11.11.,red) -> Noch drei Doppelstunden 
+
+@color(-> Thema LB1 ist auch Teil der Klausur,red)
+
+---
+
+{{1}}
+***********
+__Lösungshinweise:__
+
+
+***********
+
+## 1.3. Der Kondensator und homogenes elektrische Felder
+
+__Definition:__ Ein Kondenstator ist ein Bauelement zur __Speicherung von elektrischer Ladung__. Er besteht aus zwei leitenden Schichten, die durch einen Isolator (@color(Dielektrikum,orange)) voneinander getrennt sind @color([Vlg. LB S. 80], darkgrey).
+
+Einfachste Bauform: @color(__Plattenkondensator__, orange) 
+
+![Plattenkondensator](https://diversewolken.ddns.net/nextcloud/index.php/s/QHLFpxoKaRpaq5R/download)
+
+__Eigenschaften eines Plattenkondensators:__
+
+- auf den beiden Platten eines Plattenkondensators werden elektrische Ladungen gespeichert
+
+- das elektrische Feld zwischen den Platten ist @color(homogen, orange), d.h. es hat an jedem Punkt dieselbe Feldstärke $\vec{E}$
+
+- die Feldlinien zeigen von der @color(positiven, red) Platte zur @color(negativen, blue) Platte
+
+- das elektrische Feld $\vec{E}$ eines Plattenkondensators berechnet sich mit
+> $$ \boxed{\vec{E} = \dfrac{U}{d}} $$
+>
+> $\hspace{1cm}$ $U$ ... Spannung zwischen den Platten $\big[ V \big]$ 
+>
+> $\hspace{1cm}$ $d$ ... Abstand der Platten $\big[ m \big]$ 
