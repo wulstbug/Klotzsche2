@@ -37,7 +37,6 @@ window.LIA.settings.font_size = 2
 @end
 
 @uhr
-
 <div style="position: fixed; right:50px; top:100px;">
 
    <details>
@@ -49,6 +48,7 @@ window.LIA.settings.font_size = 2
    </details>
 
 </div>
+
 @end
 
 @@@ ogy.de/11ph3 deaktivieren: https://ogy.de/del.cvv2y5l7old0u7gamlc1
