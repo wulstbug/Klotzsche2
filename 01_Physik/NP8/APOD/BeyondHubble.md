@@ -63,6 +63,29 @@ window.LIA.settings.font_size = 2
 
 @end
 
+@timer
+
+<div style="position: fixed; right:50px; top:100px;">
+
+<details>
+
+<summary> Timer(@0:@1) </summary>
+
+<div style="text-align:left;padding:1em 0;"> 
+
+<iframe width="200" height="90" src="https://webuhr.de/embed/timer/#countdown=00:@0:@1&showbuttons=1&theme=0&ampm=0&sound=xylophone" frameborder="0" allowfullscreen>
+
+</iframe> 
+
+</div>
+
+</details>
+
+</div>
+
+@end
+
+
 @@@ ogy.de/11Ph2 deaktivieren: https://ogy.de/del.cvv2y5l7old0u7gamlc1
 
 -->
@@ -284,6 +307,8 @@ __Webseite:__ ogy.de/golnik -> Nawi 8 2024-2025 -> Einfache Konstruktionsumgebun
 </p>
 
 ### Geogebra: Abbildung an einer Sammellinse
+
+@timer(20,00)
 
 <p class="newspaper3">
 
