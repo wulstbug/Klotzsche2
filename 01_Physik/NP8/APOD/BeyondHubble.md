@@ -8,19 +8,20 @@ language: de
 .lia-effect__circle {
     display: none !important;
 }
-
 .lia-slide__footer {
      display: none !important;
 } 
 
-@onload
-window.LIA.settings.font_size = 3
-@end
 
 @media (min-width: 600px) {
     .newspaper {
         column-count: 2;
         column-gap: 40px;
+        column-rule: 1px solid lightblue;
+    }
+    .newspaper3 {
+        column-count: 3;
+        column-gap: 20px;
         column-rule: 1px solid lightblue;
     }
 }
@@ -32,8 +33,18 @@ h1, h2, h3, h4, h5, h6 {
 .cb {
     break-before: column;
 }
+@end
+
+@onload
+window.LIA.settings.font_size = 2
+@end
+
+@color
+<bdi style="color:@1">@0</bdi>
+@end
 
 @uhr
+
 <div style="position: fixed; right:50px; top:100px;">
 
     <details>
@@ -42,22 +53,20 @@ h1, h2, h3, h4, h5, h6 {
 
             <div style="text-align:left;padding:1em 0;"> 
 
-                <iframe src="https://www.zeitverschiebung.net/clock-widget-iframe-v2?language=de&size=large&timezone=Europe%2FBerlin" width="100%" height="150" frameborder="0" seamless></iframe> 
+                <iframe src="https://www.zeitverschiebung.net/clock-widget-iframe-v2?language=de&size=small&timezone=Europe%2FBerlin" width="100%" height="90" frameborder="0" seamless></iframe> 
 
             </div>
 
     </details>
 
 </div>
-@end
-
-@color
-<bdi style="color:@1">@0</bdi>
-@end
 
 @end
+
+@@@ ogy.de/11Ph2 deaktivieren: https://ogy.de/del.cvv2y5l7old0u7gamlc1
 
 -->
+
 
 # Naturwissenschaftliches Profil Klasse 8
 
@@ -278,13 +287,33 @@ __Webseite:__ ogy.de/golnik -> Nawi 8 2024-2025 -> Einfache Konstruktionsumgebun
 
 @uhr
 
-<p class="newspaper">
+<p class="newspaper3">
 
-1. Gehe zu @color(ogy.de/golnik,blue) und nutze einfache Konstruktionsumgebung
+1. Gehe zu @color(ogy.de/golnik,blue) und nutze @color(Einfache Konstruktionsumgebung, orange)
+
+2. Blende das Koordinatensystem ein und platziere den Ursprung mittig.
+
+![Koord](https://diversewolken.ddns.net/nextcloud/index.php/s/pGEcgSo6YKCakip/download)
+
+3. Füge deiner Konstruktion drei Variablen hinzu. <br> @color(f=3,red ) | @color(g=5,red) | @color(G=2,red)
+
+![Variablen](https://diversewolken.ddns.net/nextcloud/index.php/s/PxN6eizN5nZX4Cw/download)
+
+4. Ändere bei allen Variablen: __Minimum 0, Maximum 10, Schrittweite 0,1__
+
+![Range](https://diversewolken.ddns.net/nextcloud/index.php/s/SQ2KpJDCTA4MHp8/download)
+
+5. Blende alle Variablen ein
 
 <p class="cb">
 
 Test
+
+<p class="cb">
+
+Test
+
+</p>
 
 </p>
 
