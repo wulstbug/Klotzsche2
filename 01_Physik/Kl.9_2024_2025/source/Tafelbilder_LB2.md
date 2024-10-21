@@ -36,6 +36,26 @@ window.LIA.settings.font_size = 2
 <bdi style="color:@1">@0</bdi>
 @end
 
+@uhr
+
+<div style="position: fixed; right:50px; top:100px;">
+
+    <details>
+
+        <summary> Uhrzeit </summary>
+
+            <div style="text-align:left;padding:1em 0;"> 
+
+                <iframe src="https://www.zeitverschiebung.net/clock-widget-iframe-v2?language=de&size=large&timezone=Europe%2FBerlin" width="100%" height="150" frameborder="0" seamless></iframe> 
+
+            </div>
+
+    </details>
+
+</div>
+
+@end
+
 mode: presentation
 
 -->
@@ -335,7 +355,7 @@ Lies die linke Spalte bis zum Diagramm. Beantworte dann die beiden Fragen auf ei
 *************
 > - die Nutzung @color(primärer Energiequellen,red) ist im Lauf der letzten 50 Jahre gestiegen, sie hat sich mehr als verdoppelt
 >
-> - die bereitgestellte Menge @color(erneuerbarer Energien [Wasser-Sonne- Wind-Biomasse],red) ist ebenfalls gestiegen
+> - die Menge @color(erneuerbarer Energien [Wasser-Sonne-Wind-Biomasse],red) ist ebenfalls gestiegen
 *************
 
 
@@ -376,15 +396,23 @@ Lies die linke Spalte bis zum Diagramm. Beantworte dann die beiden Fragen auf ei
 
 __siehe Diagramm LB S. 31 (unten)__
 
+<p class="newspaper">
+
 @color(_Diagramm skizzenhaft übernehmen_, blue)
 
-![Energiebedarf2](https://diversewolken.ddns.net/nextcloud/index.php/s/bxotwGjptqE73fy/download "Genutzte __primäre__ Energiequellen der Menschheit") <!--style="display:block;margin-left:auto;margin-right:auto; max-width:300px"-->
+![Energiebedarf2](https://diversewolken.ddns.net/nextcloud/index.php/s/bxotwGjptqE73fy/download "Genutzte __primäre__ Energiequellen der Menschheit")
 
-__Bereitstellung/Nutzung von Energie (1960-2015):__
+<p class="cb">
+
+__Nutzung primärer Energiequellen (1960-2015):__
 
 > - die Nutzung @color(primärer Energiequellen,red) ist im Lauf der letzten 50 Jahre gestiegen, sie hat sich mehr als verdoppelt
 >
 > - die bereitgestellte Menge @color(erneuerbarer Energien [Wasser-Sonne- Wind-Biomasse],red) ist ebenfalls gestiegen
+
+</p>
+
+</p>
 
 __Anteil erneuerbarer Energieen (1960-2015):__
 

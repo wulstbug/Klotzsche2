@@ -33,19 +33,24 @@ window.LIA.settings.font_size = 2
 @end
 
 @color
-<div style="color:@1">@0</div>
+<bdi style="color:@1">@0</bdi>
 @end
 
 @uhr
+
 <div style="position: fixed; right:50px; top:100px;">
 
-   <details>
+    <details>
 
-      <summary> Uhrzeit </summary>
+        <summary> Uhrzeit </summary>
 
-      <div style="text-align:left;padding:1em 0;"> <iframe src="https://www.zeitverschiebung.net/clock-widget-iframe-v2?language=de&size=large&timezone=Europe%2FBerlin" width="100%" height="150" frameborder="0" seamless></iframe> </div>
+            <div style="text-align:left;padding:1em 0;"> 
 
-   </details>
+                <iframe src="https://www.zeitverschiebung.net/clock-widget-iframe-v2?language=de&size=large&timezone=Europe%2FBerlin" width="100%" height="150" frameborder="0" seamless></iframe> 
+
+            </div>
+
+    </details>
 
 </div>
 
@@ -2692,3 +2697,12 @@ Alternativ: Das Verhältnis der hypothetischen Zeigerlänge zum Abstand Erde-Son
 
 </div>
 
+## Rückgabe Klausur
+
+__Verteilung__
+
+![Verteilung_Kl1](https://diversewolken.ddns.net/nextcloud/index.php/s/oNjdMyiSNnSPTbR/download)
+
+- Nächste LK: @color(vor Weihnachten, red)
+
+- Nächste Klausur: @color(15.01.,red)
