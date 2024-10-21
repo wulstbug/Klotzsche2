@@ -368,7 +368,7 @@ __Webseite:__ ogy.de/golnik -> Nawi 8 2024-2025 -> Einfache Konstruktionsumgebun
 
 ### Geogebra: Abbildung an einer Sammellinse
 
-@timer(20,00)
+@timer(15,00)
 
 <p class="newspaper3">
 
@@ -427,7 +427,7 @@ __Aufgaben:__
     
    3.  Konstruiere von diesem Zwischenbild ausgehend das Bild an der zweiten Linse.
 
-   
+
 
 </p>
 
