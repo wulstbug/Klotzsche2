@@ -73,7 +73,7 @@ window.LIA.settings.font_size = 2
 
 <div style="text-align:left;padding:1em 0;"> 
 
-<iframe width="200" height="90" src="https://webuhr.de/embed/timer/#countdown=00:@0:@1&enabled=0&showbuttons=1&theme=0&ampm=0&sound=xylophone" frameborder="0" allowfullscreen>
+<iframe width="200" height="90" src="https://webuhr.de/embed/timer/#countdown=00:@0:@1&enabled=0&seconds=180&onzero=1&theme=0&ampm=0&sound=xylophone" frameborder="0" allowfullscreen></iframe>
 
 </iframe> 
 
