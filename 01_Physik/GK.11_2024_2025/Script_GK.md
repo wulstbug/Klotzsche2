@@ -1253,7 +1253,7 @@ __Eigenschaften eines Plattenkondensators:__
 
 ### Aufgabe 1. - Plattenkondensator
 
-An einem Plattenkondensator beträgt die Spannung 1,5 kV und der Plattenabstand 0,1 m. 
+An einem Plattenkondensator beträgt die Spannung 1,5 kV und der Plattenabstand 3,2cm. 
 
 Bestimme die Kraft, die auf einen Körper mit einer Ladung von 20 nC wirkt <br> @color(Hinweis: $nC=10^{-9}C$ [Nano-Coulomb], grey) <br> @color(Lösung: siehe Lehrbuch S.97, grey)
 
