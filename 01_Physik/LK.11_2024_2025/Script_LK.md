@@ -11,6 +11,7 @@ language: de
      display: none !important;
 } 
 
+
 @media (min-width: 600px) {
     .newspaper {
         column-count: 2;

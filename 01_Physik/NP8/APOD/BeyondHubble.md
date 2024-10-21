@@ -10,44 +10,8 @@ language: de
 .lia-slide__footer {
      display: none !important;
 } 
-
-@media (min-width: 600px) {
-    .newspaper {
-        column-count: 2;
-        column-gap: 40px;
-        column-rule: 1px solid lightblue;
-    }
-}
-
-h1, h2, h3, h4, h5, h6 {
-  column-span: all;
-}
-
-.cb {
-    break-before: column;
-}
-
-.red {
-    color: red;
-}
-
-.blue {
-    color: blue;
-}
-
-.darkgreen {
-    color: darkgreen;
-}
-
-.orange {
-    color: orange;
-}
-
-.purple {
-    color: purple;
-}
-
 @end
+
 
 
 @onload
@@ -266,6 +230,20 @@ __Erstpasswort:__ nachname.vorname
 __Aufgabe 2:__ Konstruiere die Abbildung an einer Sammellinse.
 
 __Webseite:__ ogy.de/golnik -> Nawi 8 2024-2025 -> Einfache Konstruktionsumgebung
+
+</p>
+
+</p>
+
+# Geogebra: Abbildung an einer Sammellinse
+
+<p class="newspaper">
+
+1. Gehe zu @color(ogy.de/golnik,blue) und nutze einfache Konstruktionsumgebung
+
+<p class="cb">
+
+
 
 </p>
 
