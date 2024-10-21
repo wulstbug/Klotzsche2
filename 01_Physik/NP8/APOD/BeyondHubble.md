@@ -287,6 +287,8 @@ __Webseite:__ ogy.de/golnik -> Nawi 8 2024-2025 -> Einfache Konstruktionsumgebun
 
 <p class="newspaper3">
 
+__A: Start und Variablen__
+
 1. Gehe zu @color(ogy.de/golnik,blue) und nutze @color(Einfache Konstruktionsumgebung, orange)
 
 2. Blende das Koordinatensystem ein und platziere den Ursprung mittig.
@@ -305,11 +307,39 @@ __Webseite:__ ogy.de/golnik -> Nawi 8 2024-2025 -> Einfache Konstruktionsumgebun
 
 <p class="cb">
 
-Test
+__B: Punkte und Gegenstand__
+
+6. Ergänze Brennpunkte @color(F1,red) und Stützpunkt @color(F2,red) des Gegenstands <br> <b style="color:red">F1=(-f,0)</b> und <b style="color:red">F2=(f,0)</b>
+
+7. Ergänze Fußpunkt @color(G0,red) und Stützpunkt @color(G1,red) des Gegenstands <br> <b style="color:red">G0=(-g,0)</b> und <b style="color:red">G1=(-g,G)</b>
+
+8. Zeichne Gegenstand: Nutze Vektor (@color(G0 -> G1,red))
+
+![Range](https://diversewolken.ddns.net/nextcloud/index.php/s/Ti5qQFyiDWHJWfy/download)
+
+9. Vergleiche deine Konstruktion:
+
+![Vergleiche9](https://diversewolken.ddns.net/nextcloud/index.php/s/jsKrqTCoC8ANWxF/download)
 
 <p class="cb">
 
-Test
+__C: Lichtstrahlen und Bild__
+
+10. Konstruiere 3 Geraden. <br> __h:__ $\overline{\mathrm{G1\,F1}}$ <br> __i:__ parallel zur x-Achse durch __G1__ <br>__j:__ $\overline{\mathrm{G1\,O}}$ 
+
+11. Konstruiere Schnittpunkte zwischen y-Achse und __h__ (-> __B__) bzw. j (->__C__)
+
+12. Konstruiere zwei Geraden.<br> __k:__ $\overline{\mathrm{B\,F2}}$ <br> __l:__ parallel zur x-Achse durch __C__
+
+13. Vergleiche deine Konstruktion:
+
+![Vergleiche13](https://diversewolken.ddns.net/nextcloud/index.php/s/TWBZ6yYNy73LTQw/download)
+
+14. Konstruiere Schnittpunkt von Geraden __i__,__l__). Nenne ihn __B1__. <br> Konstruiere parallele Gerade zur y-Achse durch __B1__ -> __m__. <br> Konstruiere Schnittpunkt von __m__ und x-Achse. Nenne ihn __B0__
+
+15. Blende alle Geraden aus, konstruiere den Strahlengang und das Bild.
+
+16. Überprüfe Bildweite b=7,5 und B=3 in deiner Konstruktion.
 
 </p>
 
