@@ -343,7 +343,7 @@ Lies die linke Spalte bis zum Diagramm. Beantworte dann die beiden Fragen auf ei
 
 {{3}}
 *************
-![Energiebedarf2](https://diversewolken.ddns.net/nextcloud/index.php/s/bxotwGjptqE73fy/download "Genutzte __primäre__ Energiequellen der Menschheit") <!--style="display:block;margin-left:auto;margin-right:auto; max-width:400px"-->
+![Energiebedarf2](https://diversewolken.ddns.net/nextcloud/index.php/s/bxotwGjptqE73fy/download "Genutzte __primäre__ Energiequellen der Menschheit (LB S.31)") <!--style="display:block;margin-left:auto;margin-right:auto; max-width:400px"-->
 *************
 
 
@@ -400,7 +400,7 @@ __siehe Diagramm LB S. 31 (unten)__
 
 @color(_Diagramm skizzenhaft übernehmen_, blue)
 
-![Energiebedarf2](https://diversewolken.ddns.net/nextcloud/index.php/s/bxotwGjptqE73fy/download "Genutzte __primäre__ Energiequellen der Menschheit")
+![Energiebedarf2](https://diversewolken.ddns.net/nextcloud/index.php/s/bxotwGjptqE73fy/download "Genutzte __primäre__ Energiequellen der Menschheit (LB S.31)")
 
 <p class="cb">
 
@@ -408,13 +408,13 @@ __Nutzung primärer Energiequellen (1960-2015):__
 
 > - die Nutzung @color(primärer Energiequellen,red) ist im Lauf der letzten 50 Jahre gestiegen, sie hat sich mehr als verdoppelt
 >
-> - die bereitgestellte Menge @color(erneuerbarer Energien [Wasser-Sonne- Wind-Biomasse],red) ist ebenfalls gestiegen
+> - die bereitgestellte Menge @color(erneuerbarer Energien [Wasser-Sonne-Wind-Biomasse],red) ist ebenfalls gestiegen
 
 </p>
 
 </p>
 
-__Anteil erneuerbarer Energieen (1960-2015):__
+__Anteil erneuerbarer Energien (1960-2015):__
 
 <p class="newspaper">
 
