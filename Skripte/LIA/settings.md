@@ -9,10 +9,6 @@ language: de
 }
 @end
 
-@onload
-window.LIA.settings.font_size = 2
-@end
-
 @uhr
 <div style="position: fixed; right:50px; top:100px;">
 
