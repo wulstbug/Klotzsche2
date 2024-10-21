@@ -315,3 +315,257 @@ Die Stärke des elektrischen Feldes $\vec{E}$ berechnet sich aus der Kraft $\vec
         [[?]] Vergleiche Feldtypen unter 1.2.
 
 
+
+## 1.3. Der Kondensator
+
+__Definition:__ Ein Kondenstator ist ein Bauelement zur __Speicherung von elektrischer Ladung__. Er besteht aus zwei leitenden Schichten, die durch einen Isolator (@color(Dielektrikum,orange)) voneinander getrennt sind @color([Vlg. LB S. 80], darkgrey).
+
+Einfachste Bauform: @color(__Plattenkondensator__, orange) 
+
+
+![Plattenkondensator](https://diversewolken.ddns.net/nextcloud/index.php/s/Sw39rmgGTYbZL7S/download) <!--style="display:block;margin-left:auto;margin-right:auto; max-width:400px"-->
+
+{{1}}
+*******
+__Eigenschaften eines Plattenkondensators:__
+
+- auf den beiden Platten eines Plattenkondensators werden __elektrische Ladungen $Q$__ gespeichert
+*******
+
+{{2}}
+*******
+- __das elektrische Feld__ zwischen den Platten ist @color(homogen, orange), d.h. es hat an jedem Punkt dieselbe Feldstärke $\vec{E}$
+*******
+
+{{3}}
+*******
+- __die Feldlinien__ zeigen von der @color(positiven, red) Platte zur @color(negativen, blue) Platte
+*******
+
+{{4}}
+*******
+- __das elektrische Feld__ $\vec{E}$ eines Plattenkondensators berechnet sich mit
+*******
+
+{{5}}
+*******
+> $$ \boxed{\vec{E} = \dfrac{U}{d}} $$
+>
+> $\hspace{1cm}$ $U$ ... Spannung zwischen den Platten $\big[ V \big]$ 
+>
+> $\hspace{1cm}$ $d$ ... Abstand der Platten $\big[ m \big]$ 
+
+- wird in das elektrische Feld eine elektrische Ladung eingebracht, so wirkt auf die Ladung eine elektrische Kraft die mit $\vec{F}=\vec{E}\cdot q$ berechnet werden kann
+*******
+
+### Aufgabe 1. - Plattenkondensator
+
+An einem Plattenkondensator beträgt die Spannung 1,5 kV und der Plattenabstand 0,1 m. 
+
+Bestimme die Kraft, die auf einen Körper mit einer Ladung von 20 nC wirkt <br> @color(Hinweis: $nC=10^{-9}C$ [Nano-Coulomb], grey) <br> @color(Lösung: siehe Lehrbuch S.97, grey)
+
+
+## 1.4. Die Kapazität
+
+__Definition:__ Die @color(Kapazität, orange) eines Kondensators beschreibt seine Fähigkeit eine __Ladungsmenge Q__ zu speichern, wenn eine bestimmte __Spannung U__ angelegt wird.
+
+{{1}}
+*********
+> __Formel:__ 
+>
+> $$ \boxed{ C = \dfrac{Q}{U} } $$
+>
+> $\hspace{1cm}$ $C$ ... Kapazität  
+>
+> $\hspace{1cm}$ $Q$ ... im Kondensator gespeicherte Ladung $\big[ C \big]$ 
+>
+> $\hspace{1cm}$ $U$ ... angelegte Spannung $\big[ V \big]$ 
+*********
+
+{{2}}
+*********
+> __Einheit der Kapazität:__  $$\textbf{1 Farad = 1 F}$$
+>
+> $$\Big[ F = \dfrac{C}{V} \Big] $$
+*********
+
+{{3}}
+*********
+> __Kapazität eines @color(Plattenkondensators, orange):__
+>
+> $$ \boxed{ C = \varepsilon_0 \cdot \varepsilon_r \cdot \dfrac{A}{d} } $$
+>
+> <p style="text-align:center">[IQB-Formelsammlung](https://www.iqb.hu-berlin.de/abitur/abitur/dokumente/naturwissenschaften/N_Mathematischna.pdf) (S.28+54)</p>
+*********
+
+{{4}}
+*********
+> $\hspace{1cm}$ $C$ ... Kapazität  
+>
+> $\hspace{1cm}$ $\varepsilon_0$ ... elektrische Feldkonstante $\boxed{\varepsilon_0 = 8,854 \cdot 10^{-12}\,\dfrac{A\cdot s}{V \cdot m}}$
+>
+> $\hspace{1cm}$ $\varepsilon_r$ ... Dielektrizitätszahl [Einheitenlos] @color( - Luft/Vakuum: $\varepsilon_r=1$,blue)
+>
+> $\hspace{1cm}$ $A$ ... Flächeninhalt der Platte $[m^2]$
+>
+> $\hspace{1cm}$ $d$ ... Abstand der Platten $[m]$
+*********
+
+
+
+### Aufgabe 2. Elektrische Ladung
+
+__Löse LB. S. 122 6/8__
+
+<div style="text-indent:10%">
+
+Überprüfe deine Lösungen
+
+<details>
+
+<summary> Lösung S.122/6 </summary>
+
+$N=\frac{0,1 C}{1,602\cdot10^{-19}C}\approx6,242 \cdot 10^{17} \textbf{Elektronen}$
+
+</details>
+
+<details>
+
+<summary> Lösung S.122/8 </summary>
+
+a) negativ
+
+b) $Q = N \cdot e = 3,1\cdot10^{10} \cdot 1,602\cdot10^{-19} C = 4,966\cdot10^{-9} C \approx 5 nC $
+
+</details>
+
+</div>
+
+### Aufgabe 3. Spannung am Kondensator
+
+__Bestimme die Spannung, die am Kondensator aus Aufgabe 1 anliegen muss, damit auf ein Elektron eine Kraft von 5 nN wirkt.__
+
+<div style="text-indent:10%"> 
+
+<details>
+
+<summary> Hinweis </summary>
+
+Nutze Lösung der Aufgabe 1. und stelle die Formel nach U um.
+
+> $1nN = 1 \cdot 10^{-9} N$
+
+Ladung des Elektrons:
+
+> $q=-1,602 \cdot 10^{-19}C$ (Nutze IQB-Formelsammlung -> Naturkonstanten S.50/51)
+
+</details>
+
+<details>
+
+<summary> Lösung </summary>
+
+![BildDerLösung](https://diversewolken.ddns.net/nextcloud/index.php/s/mtM5TLiakAzrisa/download)<!-- style="width:80%"-->
+
+</details>
+
+</div>
+
+### Aufgabe 4. Geladenes Teilchen im Plattenkondensator
+
+__Ein Plattenkondensator hat eine Querschnittsfläche der Platten von $50\,cm^2$. Der Abstand der Platten beträgt $2\,cm$. Der Kondensator ist horizontal aufgestellt, d.h. eine Platten unten, eine Platte oben. Zwischen den Platten sei Vakuum.__
+
+4. 1. Bestimme die Kapazität dieses Kondensators.
+
+<div style="text-indent:10%"> 
+
+<details>
+
+<summary> Hinweis 4.1. </summary>
+
+Nutze die Formel zur Berechnung der Kapazität C eines Plattenkondensators. Achte auf die Umrechnungen von Fläche und Länge.
+
+</details>
+
+<details>
+
+<summary> Lösung 4.1. </summary>
+
+![Lsg_1.3_A4.1](https://diversewolken.ddns.net/nextcloud/index.php/s/EKTW7ncRr3oSJcJ/download)<!-- style="width:80%"-->
+
+</details>
+
+</div>
+
+4. 2. Zwischen den Platten befindet sich ein einzelnes Proton. Der Kondensator soll so geladen sein, dass das Proton zwischen den Platten schwebt. Zeichne dazu eine Skizze und gib die Pole an den Platten an. Zeichne die wirkenden Kräfte qualitativ ein.
+
+<div style="text-indent:10%"> 
+
+<details>
+
+<summary> Hinweis 4.2. </summary>
+
+Zeichne einen Plattenkondensator mit einer Platten oben und einer Platte unten. Zeichne in die Mitte das punktförmige Proton. Überprüfe, welche Kraft auf das Proton aufgrund seiner Masse wirkt. Zeichne diese Kraft ein. Da das Proton schweben soll, muss diese Kraft durch eine weitere Kraft genau aufgehoben werden. Zeichne auch diese Kraft ein. Überlege nun, wie die obere Platte geladen sein muss.
+
+</details>
+
+<details>
+
+<summary> Lösung 4.2. </summary>
+
+![Lsg_1.3_A4.2](https://diversewolken.ddns.net/nextcloud/index.php/s/bW2JAqywjYBA2Wx/download)<!-- style="width:80%"-->
+
+</details>
+
+</div>
+
+4. 3. Bestimme die Spannung, die am Kondensator angelegt werden muss, damit das Elektron schwebt.
+
+<div style="text-indent:10%"> 
+
+<details>
+
+<summary> Hinweis 4.3. </summary>
+
+Gewichtskraft und elektrische Kraft müssen gleich groß sein, damit das Proton schwebt. Recherchiere Masse $m_p$ und Ladung $q$ eines Protons mit Hilfe der IQB-Formelsammlung. Überprüfe im Skript die Formeln für Gewichtskraft und elektrische Kraft auf eine Probeladung im elektrischen Feld. Nutze die Formel für die elektrische Feldstärke in einem Plattenkondensator.
+
+</details>
+
+<details>
+
+<summary> Lösung 4.3. </summary>
+
+![Lsg_1.3_A4.3](https://diversewolken.ddns.net/nextcloud/index.php/s/Y8risbAANPaWwTq/download)<!-- style="width:80%"-->
+
+</details>
+
+</div>
+
+## 1.5 Pendel im elektrischen Feld
+
+![TB_FadenpendelElektrischesFeld](https://diversewolken.ddns.net/nextcloud/index.php/s/aB6PmLHcseFXY2Z/download)
+
+### Aufgabe 5. Pendel im elektrischen Feld
+
+5. Elektrisches Feld mit Probeladung: LB. S. 123/15
+
+<div style="text-indent:10%"> 
+
+<details>
+
+<summary> Lösung a) </summary>
+
+![Lsg_LB123_15](https://diversewolken.ddns.net/nextcloud/index.php/s/W3SQgTE7JErmfbb/download)<!-- style="width:80%"-->
+
+</details>
+
+
+<details>
+
+<summary> Lösung b) </summary>
+
+![Lsg_LB123_15](https://diversewolken.ddns.net/nextcloud/index.php/s/rjwJHMBwm3NbwrT/download)<!-- style="width:80%"-->
+
+</details>
+
+</div>
