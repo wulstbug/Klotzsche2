@@ -1,4 +1,7 @@
 <!--
+
+import: https://raw.githubusercontent.com/wulstbug/Klotzsche2/2024_2025/Skripte/LIA/settings.md
+
 author: Christian Golnik
 
 language: de
@@ -11,8 +14,6 @@ language: de
      display: none !important;
 } 
 @end
-
-import: https://raw.githubusercontent.com/wulstbug/Klotzsche2/2024_2025/Skripte/LIA/settings.md
 
 @onload
 window.LIA.settings.font_size = 3
