@@ -237,6 +237,8 @@ __Webseite:__ ogy.de/golnik -> Nawi 8 2024-2025 -> Einfache Konstruktionsumgebun
 
 # Geogebra: Abbildung an einer Sammellinse
 
+@uhr
+
 <p class="newspaper">
 
 1. Gehe zu @color(ogy.de/golnik,blue) und nutze einfache Konstruktionsumgebung
