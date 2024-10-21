@@ -32,11 +32,17 @@ h1, h2, h3, h4, h5, h6 {
 window.LIA.settings.font_size = 2
 @end
 
+@color
+<bdi style="color:@1">@0</bdi>
+@end
+
 mode: presentation
 
 -->
 
 # 2. Energieversorgung
+
+@uhr
 
 {{1}}
 *****************
@@ -300,5 +306,197 @@ _Hinweis: Klicke auf die Glühlampen für Lösungshinweise_
 
 ## 2.5 Energiebedarf moderner Gesellschaften
 
-_-> LB S. 32/33/35_
+{{0-6}}
+***********
 
+__siehe LB S. 31__
+
+{{1}} 
+***********
+Lies die linke Spalte bis zum Diagramm. Beantworte dann die beiden Fragen auf einem Stichpunktzettel.
+***********
+
+{{1-3}}
+*************
+![Energiebedarf](https://diversewolken.ddns.net/nextcloud/index.php/s/siWycf4txMC7qLm/download "Genutzte __primäre__ Energiequellen der Menschheit (Quelle: LB S. 31)") <!--style="display:block;margin-left:auto;margin-right:auto; max-width:400px"-->
+*************
+
+{{3}}
+*************
+![Energiebedarf2](https://diversewolken.ddns.net/nextcloud/index.php/s/bxotwGjptqE73fy/download "Genutzte __primäre__ Energiequellen der Menschheit") <!--style="display:block;margin-left:auto;margin-right:auto; max-width:400px"-->
+*************
+
+
+{{1}}
+*************
+1. Formuliere zwei Aussagen bezüglich der Gesamtenergie und der erneuerbaren Energie, welche man aus dem Diagramm entnehmen kann.
+
+{{2}}
+*************
+> - die Nutzung @color(primärer Energiequellen,red) ist im Lauf der letzten 50 Jahre gestiegen, sie hat sich mehr als verdoppelt
+>
+> - die bereitgestellte Menge @color(erneuerbarer Energien [Wasser-Sonne- Wind-Biomasse],red) ist ebenfalls gestiegen
+*************
+
+
+2. Ermittle aus dem Diagramm, den Anteil erneuerbarer Energien (in Prozent von der Gesamtenergie) im Jahr 1960 und vergleiche ihn mit dem Anteil im Jahr 2015.
+
+<p class="newspaper">
+
+{{4}}
+*************
+> - 1960
+>
+> $$ \dfrac{0,2\,cm}{2\,cm} \cdot 100 \% = 10\% $$
+
+<p class="cb">
+
+{{5}}
+*************
+
+
+> - 2010
+>
+> $$ \dfrac{1,6\,cm}{5,6\,cm} \cdot 100 \% \ \approx 30\% $$
+
+*************
+
+</p>
+
+*************
+
+</p>
+
+*************
+
+***********
+
+{{6}}
+***********
+
+__siehe Diagramm LB S. 31 (unten)__
+
+@color(_Diagramm skizzenhaft übernehmen_, blue)
+
+![Energiebedarf2](https://diversewolken.ddns.net/nextcloud/index.php/s/bxotwGjptqE73fy/download "Genutzte __primäre__ Energiequellen der Menschheit") <!--style="display:block;margin-left:auto;margin-right:auto; max-width:300px"-->
+
+__Bereitstellung/Nutzung von Energie (1960-2015):__
+
+> - die Nutzung @color(primärer Energiequellen,red) ist im Lauf der letzten 50 Jahre gestiegen, sie hat sich mehr als verdoppelt
+>
+> - die bereitgestellte Menge @color(erneuerbarer Energien [Wasser-Sonne- Wind-Biomasse],red) ist ebenfalls gestiegen
+
+__Anteil erneuerbarer Energieen (1960-2015):__
+
+<p class="newspaper">
+
+> - 1960
+>
+> $$ \dfrac{0,2\,cm}{2\,cm} \cdot 100 \% = 10\% $$
+
+<p class="cb">
+
+> - 2010
+>
+> $$ \dfrac{1,6\,cm}{5,6\,cm} \cdot 100 \% \ \approx 30\% $$
+
+</p>
+
+</p>
+
+***********
+
+## 2.6 Die Bereitstellung elektrischer Energie in modernen Gesellschaften
+
+> @color(Elektrische Energie,red) spielt in modernen westlichen Gesellschaften eine wichtige Rolle. Sie wird durch verschiedene Arten von __Kraftwerken__ bereit gestellt. 
+>
+> Kraftwerke wandeln primäre Energiequellen (Gas, Kohle, Kernbrennstoff, Windenergie, Wasserenergie) in @color(elektrische Energie,red) um
+
+{{1-6}}
+**********
+__siehe LB S. 37/38__
+
+__Aufgaben:__ 
+
+<i style="color:blue">
+
+1. übernimm den Merksatz (oben)
+
+---
+
+2. 1. Lies den Text "Die Bedeutung elektrischer Energie" (LB S. 37)
+
+2. 2. Notiere drei Gründe, warum elektrische Energie einen großen praktischen Nutzen hat
+
+{{2}}
+*********
+![UmwandlungElektrischerEnergie](https://diversewolken.ddns.net/nextcloud/index.php/s/49i35ds3osncYLc/download)
+*********
+
+{{3}}
+*********
+<p style="text-indent:10%; color:black">
+
+> -> elektrische Energie kann aus vielen primären Energieträgern umgewandelt werden
+>
+> -> elektrische Energie ist leicht transportabel
+>
+> -> elektrische Energie lässt sich vor Ort in viele andere Energieformen umwandeln
+
+</p>
+*********
+
+---
+
+3. 1. Lies den Text "Beretistellung elektrischer Energie durch Kraftwerke (S.38).
+
+3. 2. Notiere bespielhaft für drei Kraftwerkstypen den Wirkungsgrad
+
+3. 3. Betrachte die schematische Dartellung verschiedener Kraftwerksformen (S.38/39 unten)
+
+{{4}}
+************
+![Waermekraftewerk](https://diversewolken.ddns.net/nextcloud/index.php/s/zq3twaoxKzLcwj7/download) ![Heizkrafttwerk](https://diversewolken.ddns.net/nextcloud/index.php/s/8qx3ERQmPMgmeqX/download) ![Wasserkraftwerk](https://diversewolken.ddns.net/nextcloud/index.php/s/8qx3ERQmPMgmeqX/download)
+************
+
+3. 4. Überprüfe und notiere Elemente, welche in beinahe jedem Kraftwerkstyp zum Einsatz kommen
+
+{{5}}
+*********
+<p style="text-indent:10%; color:black">
+
+> -> in beinahe jedem Kraftwerkstyp (ausgenommen Solarkraftwerk) kommt ein @color(Generator,red) zum Einsatz
+>
+> -> Generatoren wandeln mechanische Energie(z.B. Rotationsenergie) in elektrische Energie um
+
+</p>
+*********
+
+---
+
+</i>
+
+**********
+
+
+{{6}}
+**********
+
+__Gründe für die Nutzung elektrischer Energie als @color(sekundäre Energiequelle , red):__
+
+> -> elektrische Energie kann aus vielen primären Energieträgern umgewandelt werden
+>
+> -> elektrische Energie ist leicht transportabel
+>
+> -> elektrische Energie lässt sich vor Ort in viele andere Energieformen umwandeln
+
+__Generatoren als Energiewandler für elektrische Energie:__
+
+> -> in beinahe jedem Kraftwerkstyp (ausgenommen Solarkraftwerk) kommt ein @color(Generator,red) zum Einsatz
+>
+> -> Generatoren wandeln mechanische Energie(z.B. Rotationsenergie) in elektrische Energie um
+**********
+
+## Wie funktioniert ein Generator?
+
+!?[MausStrom](https://www.youtube.com/watch?v=Je22SgH8TCk)
