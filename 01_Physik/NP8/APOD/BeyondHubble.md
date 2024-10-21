@@ -330,11 +330,11 @@ __Webseite:__ ogy.de/golnik -> Nawi 8 2024-2025 -> Einfache Konstruktionsumgebun
 
 <p class="cb">
 
-6. Ergänze Brennpunkte @color(F1,red) und Stützpunkt @color(F2,red) des Gegenstands <br> <b style="color:red">F1=(-f,0)</b> und <b style="color:red">F2=(f,0)</b>
+6. Definiere Brennpunkte @color(F1,red) und @color(F2,red) der Linse <br> <b style="color:red">F1=(-f,0)</b> und <b style="color:red">F2=(f,0)</b>
 
-7. Ergänze Fußpunkt @color(G0,red) und Stützpunkt @color(G1,red) des Gegenstands <br> <b style="color:red">G0=(-g,0)</b> und <b style="color:red">G1=(-g,G)</b>
+7. Definiere Fußpunkt @color(G0,red) und Stützpunkt @color(G1,red) des Gegenstands <br> <b style="color:red">G0=(-g,0)</b> und <b style="color:red">G1=(-g,G)</b>
 
-8. Zeichne Gegenstand: Nutze Vektor (@color(G0 -> G1,red))
+8. Zeichne Gegenstand: <br> Nutze Vektor (@color(G0 -> G1,red))
 
 ![Range](https://diversewolken.ddns.net/nextcloud/index.php/s/Ti5qQFyiDWHJWfy/download)
 
