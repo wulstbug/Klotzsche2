@@ -416,7 +416,7 @@ __Aufgaben:__
 
     {3}{@color($g = 2\cdot f $ [Gegenstandsweite = 2 x Brennweite], red)}
 
-19. Probiere nun die Konstruktion eines Gegenstandes an @color(zwei Sammellinsen,red).
+19. Probiere nun die Konstruktion eines Gegenstandes an @color(zwei Sammellinsen (SLA, SLB),orange).
 
     1. Gehe dazu auf: @color(ogy.de/golnik,blue) und
 
@@ -437,5 +437,7 @@ __Aufgaben:__
 
 {{1}}
 *********
+Lösung 19
+
 <iframe src="https://www.geogebra.org/classic/qe5vpykx?embed" width="1200" height="800" allowfullscreen style="border: 1px solid #e4e4e4;border-radius: 4px;" frameborder="0"></iframe>
 *********
