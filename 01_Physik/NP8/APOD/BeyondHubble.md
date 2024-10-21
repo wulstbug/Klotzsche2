@@ -1,7 +1,5 @@
 <!--
 
-import: https://raw.githubusercontent.com/wulstbug/Klotzsche2/2024_2025/Skripte/LIA/settings.md
-
 author: Christian Golnik
 
 language: de
@@ -10,16 +8,54 @@ language: de
 .lia-effect__circle {
     display: none !important;
 }
+
 .lia-slide__footer {
      display: none !important;
 } 
-@end
 
 @onload
 window.LIA.settings.font_size = 3
 @end
 
+@media (min-width: 600px) {
+    .newspaper {
+        column-count: 2;
+        column-gap: 40px;
+        column-rule: 1px solid lightblue;
+    }
+}
 
+h1, h2, h3, h4, h5, h6 {
+  column-span: all;
+}
+
+.cb {
+    break-before: column;
+}
+
+@uhr
+<div style="position: fixed; right:50px; top:100px;">
+
+    <details>
+
+        <summary> Uhrzeit </summary>
+
+            <div style="text-align:left;padding:1em 0;"> 
+
+                <iframe src="https://www.zeitverschiebung.net/clock-widget-iframe-v2?language=de&size=large&timezone=Europe%2FBerlin" width="100%" height="150" frameborder="0" seamless></iframe> 
+
+            </div>
+
+    </details>
+
+</div>
+@end
+
+@color
+<bdi style="color:@1">@0</bdi>
+@end
+
+@end
 
 -->
 

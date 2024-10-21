@@ -7,6 +7,7 @@ language: de
 .lia-effect__circle {
     display: none !important;
 }
+@end
 
 @uhr
 <div style="position: fixed; right:50px; top:100px;">
@@ -45,8 +46,6 @@ h1, h2, h3, h4, h5, h6 {
 .cb {
     break-before: column;
 }
-@end
-
 @end
 
 -->
