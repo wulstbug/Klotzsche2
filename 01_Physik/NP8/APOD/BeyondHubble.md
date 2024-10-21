@@ -45,7 +45,7 @@ window.LIA.settings.font_size = 2
 
 @uhr
 
-<div style="position: fixed; right:50px; top:100px;">
+<div style="position: fixed; right:50px; top:20px;">
 
 <details>
 
@@ -73,7 +73,7 @@ window.LIA.settings.font_size = 2
 
 <div style="text-align:left;padding:1em 0;"> 
 
-<iframe width="200" height="90" src="https://webuhr.de/embed/timer/#countdown=00:@0:@1&showbuttons=1&theme=0&ampm=0&sound=xylophone" frameborder="0" allowfullscreen>
+<iframe width="200" height="90" src="https://webuhr.de/embed/timer/enabled=0&#countdown=00:@0:@1&showbuttons=1&theme=0&ampm=0&sound=xylophone" frameborder="0" allowfullscreen>
 
 </iframe> 
 
@@ -312,8 +312,6 @@ __Webseite:__ ogy.de/golnik -> Nawi 8 2024-2025 -> Einfache Konstruktionsumgebun
 
 <p class="newspaper3">
 
-__A: Start und Variablen__
-
 1. Gehe zu @color(ogy.de/golnik,blue) und nutze @color(Einfache Konstruktionsumgebung, orange)
 
 2. Blende das Koordinatensystem ein und platziere den Ursprung mittig.
@@ -332,8 +330,6 @@ __A: Start und Variablen__
 
 <p class="cb">
 
-__B: Punkte und Gegenstand__
-
 6. Ergänze Brennpunkte @color(F1,red) und Stützpunkt @color(F2,red) des Gegenstands <br> <b style="color:red">F1=(-f,0)</b> und <b style="color:red">F2=(f,0)</b>
 
 7. Ergänze Fußpunkt @color(G0,red) und Stützpunkt @color(G1,red) des Gegenstands <br> <b style="color:red">G0=(-g,0)</b> und <b style="color:red">G1=(-g,G)</b>
@@ -347,8 +343,6 @@ __B: Punkte und Gegenstand__
 ![Vergleiche9](https://diversewolken.ddns.net/nextcloud/index.php/s/jsKrqTCoC8ANWxF/download)
 
 <p class="cb">
-
-__C: Lichtstrahlen und Bild__
 
 10. Konstruiere 3 Geraden. <br> __h:__ $\overline{\mathrm{G1\,F1}}$ <br> __i:__ parallel zur x-Achse durch __G1__ <br>__j:__ $\overline{\mathrm{G1\,O}}$ 
 
