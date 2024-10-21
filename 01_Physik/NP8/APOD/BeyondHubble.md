@@ -283,7 +283,7 @@ __Webseite:__ ogy.de/golnik -> Nawi 8 2024-2025 -> Einfache Konstruktionsumgebun
 
 </p>
 
-# Geogebra: Abbildung an einer Sammellinse
+### Geogebra: Abbildung an einer Sammellinse
 
 <p class="newspaper3">
 
