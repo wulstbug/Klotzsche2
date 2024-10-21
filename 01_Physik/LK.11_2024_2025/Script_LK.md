@@ -57,7 +57,7 @@ window.LIA.settings.font_size = 2
 
 @end
 
-@@@ ogy.de/11ph3 deaktivieren: https://ogy.de/del.cvv2y5l7old0u7gamlc1
+@@@ ogy.de/11Ph2 deaktivieren: https://ogy.de/del.cvv2y5l7old0u7gamlc1
 
 -->
 
