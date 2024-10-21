@@ -47,17 +47,17 @@ window.LIA.settings.font_size = 2
 
 <div style="position: fixed; right:50px; top:100px;">
 
-    <details>
+<details>
 
-        <summary> Uhrzeit </summary>
+<summary> Uhrzeit </summary>
 
-            <div style="text-align:left;padding:1em 0;"> 
+<div style="text-align:left;padding:1em 0;"> 
 
-                <iframe src="https://www.zeitverschiebung.net/clock-widget-iframe-v2?language=de&size=small&timezone=Europe%2FBerlin" width="100%" height="90" frameborder="0" seamless></iframe> 
+<iframe src="https://www.zeitverschiebung.net/clock-widget-iframe-v2?language=de&size=small&timezone=Europe%2FBerlin" width="100%" height="90" frameborder="0" seamless></iframe> 
 
-            </div>
+</div>
 
-    </details>
+</details>
 
 </div>
 
@@ -284,8 +284,6 @@ __Webseite:__ ogy.de/golnik -> Nawi 8 2024-2025 -> Einfache Konstruktionsumgebun
 </p>
 
 # Geogebra: Abbildung an einer Sammellinse
-
-@uhr
 
 <p class="newspaper3">
 
