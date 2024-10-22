@@ -1248,3 +1248,50 @@ Alternativ: Das Verhältnis der hypothetischen Zeigerlänge zum Abstand Erde-Son
 </details>
 
 </div>
+
+## 2.10 Kurvenfahrt mit Fahrbahnüberhöhung
+
+
+{{1}}
+*********
+__Kräftegleichgewicht bei Kurvenfahrten__
+
+![TB_KraefteBeiKurvenfahrten](https://diversewolken.ddns.net/nextcloud/index.php/s/cfAWrYFHTDGYdgw/download)
+
+*********
+
+<details>
+
+<summary> Ablauf der Stunde </summary>
+
+1. [LEIFI-Physik Aufgabe zur Bobfahrt](https://www.leifiphysik.de/mechanik/kreisbewegung/aufgabe/bobfahrer-der-kurve)
+
+2. [LEIFI-Physik Aufgabe zur Kugel in Rinne](https://www.leifiphysik.de/mechanik/kreisbewegung/versuche/kugel-rotierender-rinne)
+
+2. Aufgabe zur @color(__gegenseitigen Beurteilung__, orange)
+
+    - 30 min Aufgabe bearbeiten (danach Tausch mit Partner)
+
+    - 30 min Muster-Lösung mit Punkten gemeinsam besprechen
+
+    - 15 min Lösung des Partners korrigieren
+
+</details>
+
+## 2.11 Abiturähnliche Aufgabe zur Rodelbahn
+
+> Im sächsischen Altenberg befindet sich eine Bobbahn. Beim Einerbob erteilt der Pilot dem Bob eine Anfangsgeschwindigkeit. Er steuert den Bob durch kleine auf die Kufen übertragene Lenkbewegungen durch den Eiskanal.
+>
+> Verschiedene grundlegende physikalische Prinzipien werden untersucht, die Vorgänge werden modellhaft vereinfacht. Die folgenden Teilaufgaben sind unabhängig voneinander.
+
+1. Eine Person der Masse $70\,kg$ springt mit der Geschwindigkeit $7,0\,\frac{m}{s}$ auf einen ruhenden, gleitfähigen Körper der Masse $200\,kg$ und bewegt sich gemeinsam mit diesem weiter. Berechnen Sie die infolge der Wechselwirkung maximal mögliche Geschwindigkeit. <br> $$\mathrm{2\,BE}$$
+
+2. Ein Körper der Masse $270\,kg$ gleitet aus der Ruhe heraus eine Ebene geradlinig herab. Der Neigungswinkel beträgt $10,0^\circ$, die Gleitreibungszahl ist konstant $0,015$. Der Luftwiderstand wird vernachlässigt. <br> Weisen Sie nach, dass der Körper mit  $a \approx 1,6 \frac{m}{s^2}$ beschleunigt wird. <br> $$\mathrm{3\,BE}$$
+
+3. Der Körper gleitet nun geradlinig eine geneigte Ebene hinab, Gleitreibungszahl und Luftwiderstand werden nicht vernachlässigt. Zeigen Sie, dass sich bei einer Verdopplung der Geschwindigkeit die Luftreibungskraft vervierfacht. Begründen Sie, dass die Bewegung des Körpers im weiteren Verlauf gleichförmig werden kann. <br> $$\mathrm{2\,BE}$$
+
+4. Ein Körper gleitet gleichförmig durch eine überhöhte Kurve. Körper und Bahn wechselwirken so, dass die Wirkungslinie der zugehörigen Kraft (siehe Abbildung) genau senkrecht zur Bahn gerichtet ist, der Körper gleitet somit in konstanter Bahnhöhe h durch die Kurve. 
+
+    ![BobBahn](https://diversewolken.ddns.net/nextcloud/index.php/s/s2JE9kJ7pZWjyZs/download "Foto und Querschnitt der Bobbahn.")
+
+    Zeichnen Sie diese Abbildung in Ihre Aufzeichnungen. Ergänzen Sie ein maßstabsgetreues Kräfteparallelogramm und benennen Sie die Kraftpfeile.<br> $$\mathrm{3\,BE}$$

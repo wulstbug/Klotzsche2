@@ -2737,9 +2737,9 @@ __Kräftegleichgewicht bei Kurvenfahrten__
 
 </details>
 
-## 2.11 Abitur-Aufgabe zur Rodelbahn
+## 2.11 Abiturähnliche Aufgabe zur Rodelbahn
 
-> Im sächsischen Altenberg befindet sich eine Bobbahn. Beim Zweierbob erteilt der Pilot gemeinsam mit dem Anschieber dem Bob eine Anfangsgeschwindigkeit. Dazu schieben beide Sportler diesen aus der Ruhe heraus an und springen in den Bob. Der Pilot steuert den Bob durch kleine auf die Kufen übertragene Lenkbewegungen durch den Eiskanal.
+> Im sächsischen Altenberg befindet sich eine Bobbahn. Beim Einerbob erteilt der Pilot dem Bob eine Anfangsgeschwindigkeit. Er steuert den Bob durch kleine auf die Kufen übertragene Lenkbewegungen durch den Eiskanal.
 >
 > Verschiedene grundlegende physikalische Prinzipien werden untersucht, die Vorgänge werden modellhaft vereinfacht. Die folgenden Teilaufgaben sind unabhängig voneinander.
 
@@ -2747,7 +2747,7 @@ __Kräftegleichgewicht bei Kurvenfahrten__
 
 {1}{![Lsg_1](https://diversewolken.ddns.net/nextcloud/index.php/s/yFxa7rzqyNRBMzM/download)}
 
-2. Ein Körper der Masse $270\,kg$ gleitet aus der Ruhe heraus eine Ebene geradlinig herab. Der Neigungswinkel beträgt $10,0^\circ$, die Gleitreibungszahl ist konstant $0,015$. Der Luftwiderstand wird vernachlässigt. <br> Weisen Sie nach, dass der Körper mit  $a = 1,56 \frac{m}{s^2}$ beschleunigt wird. <br> $$\mathrm{4\,BE}$$
+2. Ein Körper der Masse $270\,kg$ gleitet aus der Ruhe heraus eine Ebene geradlinig herab. Der Neigungswinkel beträgt $10,0^\circ$, die Gleitreibungszahl ist konstant $0,015$. Der Luftwiderstand wird vernachlässigt. <br> Weisen Sie nach, dass der Körper mit  $a \approx 1,6 \frac{m}{s^2}$ beschleunigt wird. <br> $$\mathrm{3\,BE}$$
 
 {2}{![Lsg_2](https://diversewolken.ddns.net/nextcloud/index.php/s/PNzNai7TWYERCDX/download)}
 
