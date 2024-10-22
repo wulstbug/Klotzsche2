@@ -41,17 +41,17 @@ window.LIA.settings.font_size = 2
 
 <div style="position: fixed; right:50px; top:100px;">
 
-    <details>
+<details>
 
-        <summary> Uhrzeit </summary>
+<summary> Uhrzeit </summary>
 
-            <div style="text-align:left;padding:1em 0;"> 
+<div style="text-align:left;padding:1em 0;"> 
 
-                <iframe src="https://www.zeitverschiebung.net/clock-widget-iframe-v2?language=de&size=large&timezone=Europe%2FBerlin" width="100%" height="150" frameborder="0" seamless></iframe> 
+<iframe src="https://www.zeitverschiebung.net/clock-widget-iframe-v2?language=de&size=large&timezone=Europe%2FBerlin" width="100%" height="150" frameborder="0" seamless></iframe> 
 
-            </div>
+</div>
 
-    </details>
+</details>
 
 </div>
 
@@ -2707,3 +2707,58 @@ __Verteilung__
 - Nächste LK: @color(vor Weihnachten, red)
 
 - Nächste Klausur: @color(15.01.,red)
+
+## 2.10 Kurvenfahrt mit Fahrbahnüberhöhung
+
+
+{{1}}
+*********
+__Kräftegleichgewicht bei Kurvenfahrten__
+
+![TB_KraefteBeiKurvenfahrten](https://diversewolken.ddns.net/nextcloud/index.php/s/cfAWrYFHTDGYdgw/download)
+
+*********
+
+<details>
+
+<summary> Ablauf der Stunde </summary>
+
+1. [LEIFI-Physik Aufgabe zur Bobfahrt](https://www.leifiphysik.de/mechanik/kreisbewegung/aufgabe/bobfahrer-der-kurve)
+
+2. [LEIFI-Physik Aufgabe zur Kugel in Rinne](https://www.leifiphysik.de/mechanik/kreisbewegung/versuche/kugel-rotierender-rinne)
+
+2. Aufgabe zur @color(__gegenseitigen Beurteilung__, orange)
+
+    - 30 min Aufgabe bearbeiten (danach Tausch mit Partner)
+
+    - 30 min Muster-Lösung mit Punkten gemeinsam besprechen
+
+    - 15 min Lösung des Partners korrigieren
+
+</details>
+
+## 2.11 Abitur-Aufgabe zur Rodelbahn
+
+> Im sächsischen Altenberg befindet sich eine Bobbahn. Beim Zweierbob erteilt der Pilot gemeinsam mit dem Anschieber dem Bob eine Anfangsgeschwindigkeit. Dazu schieben beide Sportler diesen aus der Ruhe heraus an und springen in den Bob. Der Pilot steuert den Bob durch kleine auf die Kufen übertragene Lenkbewegungen durch den Eiskanal.
+>
+> Verschiedene grundlegende physikalische Prinzipien werden untersucht, die Vorgänge werden modellhaft vereinfacht. Die folgenden Teilaufgaben sind unabhängig voneinander.
+
+1. Eine Person der Masse $70\,kg$ springt mit der Geschwindigkeit $7,0\,\frac{m}{s}$ auf einen ruhenden, gleitfähigen Körper der Masse $200\,kg$ und bewegt sich gemeinsam mit diesem weiter. Berechnen Sie die infolge der Wechselwirkung maximal mögliche Geschwindigkeit. <br> $$\mathrm{2\,BE}$$
+
+{1}{![Lsg_1](https://diversewolken.ddns.net/nextcloud/index.php/s/yFxa7rzqyNRBMzM/download)}
+
+2. Ein Körper der Masse $270\,kg$ gleitet aus der Ruhe heraus eine Ebene geradlinig herab. Der Neigungswinkel beträgt $10,0^\circ$, die Gleitreibungszahl ist konstant $0,015$. Der Luftwiderstand wird vernachlässigt. <br> Weisen Sie nach, dass der Körper mit  $a = 1,56 \frac{m}{s^2}$ beschleunigt wird. <br> $$\mathrm{4\,BE}$$
+
+{2}{![Lsg_2](https://diversewolken.ddns.net/nextcloud/index.php/s/PNzNai7TWYERCDX/download)}
+
+3. Der Körper gleitet nun geradlinig eine geneigte Ebene hinab, Gleitreibungszahl und Luftwiderstand werden nicht vernachlässigt. Zeigen Sie, dass sich bei einer Verdopplung der Geschwindigkeit die Luftreibungskraft vervierfacht. Begründen Sie, dass die Bewegung des Körpers im weiteren Verlauf gleichförmig werden kann. <br> $$\mathrm{2\,BE}$$
+
+{3}{![Lsg_3](https://diversewolken.ddns.net/nextcloud/index.php/s/3ZdzjLqGXrkSx4j/download)}
+
+4. Ein Körper gleitet gleichförmig durch eine überhöhte Kurve. Körper und Bahn wechselwirken so, dass die Wirkungslinie der zugehörigen Kraft (siehe Abbildung) genau senkrecht zur Bahn gerichtet ist, der Körper gleitet somit in konstanter Bahnhöhe h durch die Kurve. 
+
+    ![BobBahn](https://diversewolken.ddns.net/nextcloud/index.php/s/s2JE9kJ7pZWjyZs/download "Foto und Querschnitt der Bobbahn.")
+
+    Zeichnen Sie diese Abbildung in Ihre Aufzeichnungen. Ergänzen Sie ein maßstabsgetreues Kräfteparallelogramm und benennen Sie die Kraftpfeile.<br> $$\mathrm{3\,BE}$$
+
+    {4}{![Lsg_4](https://diversewolken.ddns.net/nextcloud/index.php/s/xKe3fkrXdWsjAZE/download)}
