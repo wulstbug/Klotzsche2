@@ -391,9 +391,6 @@ Lies die linke Spalte bis zum Diagramm. Beantworte dann die beiden Fragen auf ei
 
 {{6}}
 ***********
-
-__siehe Diagramm LB S. 31 (unten)__
-
 <p class="newspaper">
 
 @color(_Diagramm skizzenhaft übernehmen_, blue)
@@ -401,6 +398,8 @@ __siehe Diagramm LB S. 31 (unten)__
 ![Energiebedarf2](https://diversewolken.ddns.net/nextcloud/index.php/s/bxotwGjptqE73fy/download "Genutzte __primäre__ Energiequellen der Menschheit (LB S.31)")
 
 <p class="cb">
+
+@color(__siehe Diagramm LB S. 31__, blue)
 
 __Nutzung primärer Energiequellen (1960-2015):__
 
