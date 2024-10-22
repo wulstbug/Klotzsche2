@@ -308,6 +308,13 @@ __Webseite:__ ogy.de/golnik -> Nawi 8 2024-2025 -> Einfache Konstruktionsumgebun
 
 ### Geogebra: Abbildung an einer Sammellinse
 
+{{0-1}}
+***********
+![Sammellinse](https://diversewolken.ddns.net/nextcloud/index.php/s/wpF2K9TNDfgagbH/download)
+***********
+
+{{1}}
+***********
 @timer(20,00)
 
 <p class="newspaper3">
@@ -365,6 +372,8 @@ __Webseite:__ ogy.de/golnik -> Nawi 8 2024-2025 -> Einfache Konstruktionsumgebun
 </p>
 
 </p>
+
+***********
 
 ### Geogebra: Abbildung an einer Sammellinse
 
