@@ -8,10 +8,6 @@ language: de
 .lia-effect__circle {
     display: none !important;
 }
-.lia-slide__footer {
-     display: none !important;
-} 
-
 
 @media (min-width: 600px) {
     .newspaper {
@@ -85,6 +81,7 @@ window.LIA.settings.font_size = 2
 
 @end
 
+mode: presentation
 
 @@@ ogy.de/11Ph2 deaktivieren: https://ogy.de/del.cvv2y5l7old0u7gamlc1
 
@@ -315,7 +312,6 @@ __Webseite:__ ogy.de/golnik -> Nawi 8 2024-2025 -> Einfache Konstruktionsumgebun
 
 {{1}}
 ***********
-@timer(20,00)
 
 <p class="newspaper3">
 
@@ -337,6 +333,9 @@ __Webseite:__ ogy.de/golnik -> Nawi 8 2024-2025 -> Einfache Konstruktionsumgebun
 
 <p class="cb">
 
+{{2}}
+*************
+
 6. Definiere Brennpunkte @color(F1,red) und @color(F2,red) der Linse <br> <b style="color:red">F1=(-f,0)</b> und <b style="color:red">F2=(f,0)</b>
 
 7. Definiere Fußpunkt @color(G0,red) und Stützpunkt @color(G1,red) des Gegenstands <br> <b style="color:red">G0=(-g,0)</b> und <b style="color:red">G1=(-g,G)</b>
@@ -349,7 +348,12 @@ __Webseite:__ ogy.de/golnik -> Nawi 8 2024-2025 -> Einfache Konstruktionsumgebun
 
 ![Vergleiche9](https://diversewolken.ddns.net/nextcloud/index.php/s/jsKrqTCoC8ANWxF/download)
 
+*************
+
 <p class="cb">
+
+{{3}}
+*************
 
 10. Konstruiere 3 Geraden. <br> __h:__ $\overline{\mathrm{G1\,F1}}$ <br> __i:__ parallel zur x-Achse durch __G1__ <br>__j:__ $\overline{\mathrm{G1\,O}}$ 
 
@@ -367,6 +371,8 @@ __Webseite:__ ogy.de/golnik -> Nawi 8 2024-2025 -> Einfache Konstruktionsumgebun
 
 16. Überprüfe Bildweite b=7,5 und B=3 in deiner Konstruktion.
 
+*************
+
 </p>
 
 </p>
@@ -376,8 +382,6 @@ __Webseite:__ ogy.de/golnik -> Nawi 8 2024-2025 -> Einfache Konstruktionsumgebun
 ***********
 
 ### Geogebra: Abbildung an einer Sammellinse
-
-@timer(15,00)
 
 <p class="newspaper3">
 
