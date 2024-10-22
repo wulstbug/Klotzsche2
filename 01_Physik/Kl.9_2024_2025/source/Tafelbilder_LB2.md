@@ -365,7 +365,7 @@ Lies die linke Spalte bis zum Diagramm. Beantworte dann die beiden Fragen auf ei
 *************
 > - 1960
 >
-> $$ \dfrac{0,2\,cm}{2\,cm} \cdot 100 \% = 10\% $$
+> $$ \dfrac{0,2\,cm}{2,2\,cm} \cdot 100 \% \approx 10\% $$
 
 <p class="cb">
 
@@ -418,7 +418,7 @@ __Anteil erneuerbarer Energien (1960-2015):__
 
 > - 1960
 >
-> $$ \dfrac{0,2\,cm}{2\,cm} \cdot 100 \% = 10\% $$
+> $$ \dfrac{0,2\,cm}{2,2\,cm} \cdot 100 \% \approx 10\% $$
 
 <p class="cb">
 
