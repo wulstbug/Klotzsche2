@@ -305,14 +305,6 @@ __Webseite:__ ogy.de/golnik -> Nawi 8 2024-2025 -> Einfache Konstruktionsumgebun
 
 ### Geogebra: Abbildung an einer Sammellinse
 
-{{0-1}}
-***********
-![Sammellinse](https://diversewolken.ddns.net/nextcloud/index.php/s/wpF2K9TNDfgagbH/download)
-***********
-
-{{1}}
-***********
-
 <p class="newspaper3">
 
 1. Gehe zu @color(ogy.de/golnik,blue) und nutze @color(Einfache Konstruktionsumgebung, orange)

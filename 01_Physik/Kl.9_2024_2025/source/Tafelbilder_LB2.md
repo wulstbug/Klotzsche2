@@ -445,13 +445,13 @@ __Aufgaben:__
 
 <i style="color:blue">
 
-1. übernimm den Merksatz (oben)
+1. Übernimm den Merksatz (oben)
 
 ---
 
 2. 1. Lies den Text "Die Bedeutung elektrischer Energie" (LB S. 37)
 
-2. 2. Notiere drei Gründe, warum elektrische Energie einen großen praktischen Nutzen hat
+2. 2. Notiere drei Gründe, warum elektrische Energie für moderne Gesellschaften einen große Bedeutung hat
 
 {{2}}
 *********
@@ -481,7 +481,7 @@ __Aufgaben:__
 
 {{4}}
 ************
-![Waermekraftewerk](https://diversewolken.ddns.net/nextcloud/index.php/s/zq3twaoxKzLcwj7/download) ![Heizkrafttwerk](https://diversewolken.ddns.net/nextcloud/index.php/s/8qx3ERQmPMgmeqX/download) ![Wasserkraftwerk](https://diversewolken.ddns.net/nextcloud/index.php/s/8qx3ERQmPMgmeqX/download)
+![Waermekraftewerk](https://diversewolken.ddns.net/nextcloud/index.php/s/zq3twaoxKzLcwj7/download) ![Heizkrafttwerk](https://diversewolken.ddns.net/nextcloud/index.php/s/8qx3ERQmPMgmeqX/download) ![Wasserkraftwerk](https://diversewolken.ddns.net/nextcloud/index.php/s/Xbf7QmBSmwzN4GK/download)
 ************
 
 3. 4. Überprüfe und notiere Elemente, welche in beinahe jedem Kraftwerkstyp zum Einsatz kommen
