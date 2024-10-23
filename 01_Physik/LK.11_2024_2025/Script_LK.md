@@ -2713,7 +2713,6 @@ __Verteilung__
 
 {{1}}
 *********
-__Kräftegleichgewicht bei Kurvenfahrten__
 
 ![TB_KraefteBeiKurvenfahrten](https://diversewolken.ddns.net/nextcloud/index.php/s/cfAWrYFHTDGYdgw/download)
 
@@ -2729,9 +2728,9 @@ __Kräftegleichgewicht bei Kurvenfahrten__
 
 2. Aufgabe zur @color(__gegenseitigen Beurteilung__, orange)
 
-    - 30 min Aufgabe bearbeiten (danach Tausch mit Partner)
+    - 20 min Aufgabe bearbeiten (danach Tausch mit Partner)
 
-    - 30 min Muster-Lösung mit Punkten gemeinsam besprechen
+    - 20 min Muster-Lösung mit Punkten gemeinsam besprechen
 
     - 15 min Lösung des Partners korrigieren
 
