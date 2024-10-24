@@ -2761,3 +2761,15 @@ __Verteilung__
     Zeichnen Sie diese Abbildung in Ihre Aufzeichnungen. Ergänzen Sie ein maßstabsgetreues Kräfteparallelogramm und benennen Sie die Kraftpfeile.<br> $$\mathrm{3\,BE}$$
 
     {4}{![Lsg_4](https://diversewolken.ddns.net/nextcloud/index.php/s/xKe3fkrXdWsjAZE/download)}
+
+    
+## Simulation zum Looping
+
+Aufgabe: Untersuche die Bewegung des Körpers an einem Looping. Welche Geschwindigkeit muss der Körper bei der Einfahrt in den Looping haben, damit er nicht "rausfliegt"?
+
+Fragen:
+
+1. Stelle die Anfangshöhe zunächst auf die gleiche Höhe, wie den höchste Punkt des Loopings.
+
+??[Looping](https://diversewolken.ddns.net/nextcloud/index.php/s/eYaCHMcaxk8ZikG)
+
