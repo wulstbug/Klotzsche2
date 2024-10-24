@@ -2767,7 +2767,7 @@ __Verteilung__
 
 Aufgabe: Untersuche die Bewegung des Körpers an einem Looping. Welche Geschwindigkeit muss der Körper bei der Einfahrt in den Looping haben, damit er nicht "rausfliegt"?
 
-Fragen:
+Empirische Beobachtung:
 
 1. Stelle die Anfangshöhe zunächst auf die gleiche Höhe (1m), wie den höchste Punkt des Loopings und beobachte die Bewegung.
 
@@ -2775,10 +2775,13 @@ Fragen:
 
 3. Stelle eine Vermutung auf, warum der Körper den Looping nicht schafft. Beobachte dazu den höchsten Punkt, den der Körper erreicht und überprüfe in diesem Punkt seine Energiebilanz.
 
-4. Untersuche, ab welcher Anfangshöhe der Körper den Looping schafft.
+4. Untersuche empirisch, ab welcher Anfangshöhe der Körper den Looping schafft.
 
 ??[Looping](https://www.walter-fendt.de/html5/phde/looping_de.htm)
 
+Theoretische Untersuchung:
+
+1. 
 
 ## 2.12 Kräftegleichgewicht an einer Looping-Bahn
 
