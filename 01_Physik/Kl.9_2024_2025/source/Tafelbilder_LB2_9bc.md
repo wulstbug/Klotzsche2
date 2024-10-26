@@ -59,7 +59,7 @@ mode: presentation
 
 @uhr
 
-Das zugehörige Arbeitsblatt für diese Tafelbilder findest du hier: [Arbeitsblatt](https://diversewolken.ddns.net/nextcloud/index.php/s/PJNpoMkPFE759HM)
+@color(Das zugehörige Arbeitsblatt für diese Tafelbilder findest du hier:,red) [Arbeitsblatt](https://diversewolken.ddns.net/nextcloud/index.php/s/PJNpoMkPFE759HM)
 
 {{1}}
 *****************
