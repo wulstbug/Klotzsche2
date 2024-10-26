@@ -1292,3 +1292,119 @@ Alternativ: Das Verhältnis der hypothetischen Zeigerlänge zum Abstand Erde-Son
     Zeichnen Sie diese Abbildung in Ihre Aufzeichnungen. Ergänzen Sie ein maßstabsgetreues Kräfteparallelogramm und benennen Sie die Kraftpfeile.<br> $$\mathrm{3\,BE}$$
 
     {4}{![Lsg_4](https://diversewolken.ddns.net/nextcloud/index.php/s/xKe3fkrXdWsjAZE/download)}
+
+## Simulation zum Looping
+
+Aufgabe: Untersuche die Bewegung des Körpers an einem Looping. Welche Geschwindigkeit muss der Körper bei der Einfahrt in den Looping haben, damit er nicht "rausfliegt"?
+
+Empirische Beobachtung:
+
+1. Stelle die Anfangshöhe zunächst auf die gleiche Höhe (1m), wie den höchste Punkt des Loopings und beobachte die Bewegung.
+
+2. Überprüfe, ob die Masse des Körpers einen Einfluss auf den Bewegungsablauf hat.
+
+3. Stelle eine Vermutung auf, warum der Körper den Looping nicht schafft. Beobachte dazu den höchsten Punkt, den der Körper erreicht und überprüfe in diesem Punkt seine Energiebilanz.
+
+4. Untersuche empirisch, ab welcher Anfangshöhe der Körper den Looping schafft.
+
+??[Looping](https://www.walter-fendt.de/html5/phde/looping_de.htm)
+
+Theoretische Untersuchung:
+
+1. Wenn der Körper den obersten Punkt erreicht hat, wirkt auf den Körper neben der Zwangskraft durch die Loopingbahn eine weitere Kraft. Welche ist das. Notiere eine Berechnungsformel. Notiere auch die potentielle Energie, die der Körper in diesem Punkt hat. Beziehe dich auf den Radius des Kreises.
+
+<div style="text-indent:10%">
+
+<details>
+
+<summary> Lösung </summary>
+
+     Gewichtskraft: $F_g = m \cdot g$
+
+     potentielle Energie: $E_{pot} = m \cdot g \cdot (2r)
+
+</details>
+
+</div>
+
+2. Im Grenzfall ist diese Kraft gleich der Zentripetalkraft, welche zur erzwungenen Kreisbahn passt. Notiere eine Formel für die Zentripetalkraft und setze diese gleich der wirkenden Kraft (aus 1.).
+
+<div style="text-indent:10%">
+
+<details>
+
+<summary> Lösung </summary>
+
+    $$ F_{ZP} = \dfrac{m \cdot v^2}{r} $$
+
+    $$ \boxed{F_{ZP} = F_g} $$
+
+    $$ \dfrac{m \cdot v^2}{r} = m \cdot g $$
+
+</details>
+
+</div>
+
+3.  Stelle die Gleichung (aus 2.) nach der Geschwindigkeit um. Notiere auch die zugehörige kinetische Energie
+
+<div style="text-indent:10%">
+
+<details>
+
+<summary> Lösung </summary>
+
+    $$ v = \sqrt{g\cdot r} $$
+
+    $$ E_{kin} = \frac{1}{2} \cdot m \cdot v^2 $$
+
+    $$ E_{kin} = \frac{1}{2} \cdot m \cdot g \cdot r $$
+
+</details>
+
+</div>
+
+4. Diese Geschwindigkeit (bzw. kin. Energie) muss dem Körper im obersten Punkt mindestens verbleiben, damit er im Looping verbleibt. Notiere die Gesamtenergie, die der Körper im obersten Punkt mindestens haben muss.
+
+<div style="text-indent:10%">
+
+<details>
+
+<summary> Lösung </summary>
+
+    $$ E_{ges} = E_{pot} + E_{kin} $$
+    
+    $$ E_{ges} = m \cdot g \cdot (2r) + \frac{1}{2} \cdot m \cdot g \cdot r $$
+
+    $$ E_{ges} = m \cdot g \cdot (2r + \frac{1}{2} r) $$
+
+    Ergebnis: Die Gesamtenergie des Körpers muss zu jedem Zeitpunkt, __@color(also auch zu Beginn der Bewegung, orange)__ mindestens der potentiellen Energie des 2,5 fachen Radius entsprechen.
+
+</details>
+
+</div>
+
+## 2.12 Kräftegleichgewicht an einer Looping-Bahn
+
+Wir betrachten einen Körper, der auf einer festen Schiene gleitet, welche einen Looping enthält. Zur Vereinfachung werden Reibungseffekte vernachlässig. 
+
+> __Bedingung:__ Der Körper kann den Looping erfolgreich durchfahren, wenn die radiale Komponte, der auf den Körper wirkenden Kraft in jedem Punkt kleiner ist, als die zur momentanen Geschwindigkeit gehörende @color(Zentripetalkraft $F_{ZP}$,red).
+
+> __Analyse:__ Auf den Körper wirkt während der gesamten Fahrt lediglich die Gewichtskraft $F_g$. Im obersten Punkt des Loopings zeigt $\vec{F_g}$ zum Mittelpunkt des Looping-Radius. Somit ist der radiale Anteil von $F_g$ hier am größten. In diesem Punkt darf $F_g$ nur maximal der Zentripetalkraft bezogen auf Radius $r$ und Geschwindigkeit $v$ sein.
+
+> __Berechnung der minimalen Geschwindigkeit $v_{min}$ im obersten Punkt für den Grenzfall $F_{ZP}=F_g$:__
+>
+> $$ F_{ZP} = F_g$$
+>
+> $$ \dfrac{m\cdot v_{min}^2}{r} = m \cdot g$$
+>
+> $$ \dfrac{m\cdot v_{min}^2}{r} = m \cdot g$$
+>
+> $$ v_{min}^2 = r \cdot g$$
+>
+> __Die @color(minimale mechanische Gesamtenergie $E_{ges}=E_{pot}+E_{kin}$,red) des Körpers beträgt daher:__
+>
+> $$ E_{ges} = m \cdot g \cdot (2r) + \frac{1}{2} \cdot m \cdot g \cdot r $$
+>
+> $$ E_{ges} = m \cdot g \cdot (2r + \frac{1}{2} r) $$
+
+> __Ergebnis__: Die Gesamtenergie des Körpers muss zu jedem Zeitpunkt, __@color(also auch zu Beginn der Bewegung, orange)__ mindestens der potentiellen Energie des 2,5 fachen Radius entsprechen.
