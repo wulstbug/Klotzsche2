@@ -315,7 +315,6 @@ Die Stärke des elektrischen Feldes $\vec{E}$ berechnet sich aus der Kraft $\vec
         [[?]] Vergleiche Feldtypen unter 1.2.
 
 
-
 ## 1.3. Der Kondensator
 
 __Definition:__ Ein Kondenstator ist ein Bauelement zur __Speicherung von elektrischer Ladung__. Er besteht aus zwei leitenden Schichten, die durch einen Isolator (@color(Dielektrikum,orange)) voneinander getrennt sind @color([Vlg. LB S. 80], darkgrey).
@@ -379,6 +378,8 @@ __Definition:__ Die @color(Kapazität, orange) eines Kondensators beschreibt sei
 >
 > $\hspace{1cm}$ $Q$ ... im Kondensator gespeicherte Ladung $\big[ C \big]$ 
 >
+> $\hspace{1cm}$ @color(_Hinweis: Im folgenden werden wir den Buchstaben **Q** für die Ladung auf dem Kondensator und den Buchstaben **q** für die Ladung eines Teilchens im elektrischen Feld verwenden_, orange)
+>
 > $\hspace{1cm}$ $U$ ... angelegte Spannung $\big[ V \big]$ 
 *********
 
@@ -391,6 +392,8 @@ __Definition:__ Die @color(Kapazität, orange) eines Kondensators beschreibt sei
 
 {{3}}
 *********
+> _Für die einfachste Bauform eines Kondensators [siehe 1.3] kann man die Kapazität wie folgt berechnen:_
+> 
 > __Kapazität eines @color(Plattenkondensators, orange):__
 >
 > $$ \boxed{ C = \varepsilon_0 \cdot \varepsilon_r \cdot \dfrac{A}{d} } $$
@@ -411,11 +414,54 @@ __Definition:__ Die @color(Kapazität, orange) eines Kondensators beschreibt sei
 > $\hspace{1cm}$ $d$ ... Abstand der Platten $[m]$
 *********
 
+{{5}}
+*********
+__Beispiel:__ _Ermittle die Kapazität des Plattenkondensators auf dem Lehrertisch. Komm dazu in kleiner Gruppe nach vorn und bestimme die notwendigen Werte._
+
+<p class="newspaper">
+
+geg.:
+
+<div style="text-indent:10%">
+
+$A$ = .. $m^2$
+
+$d$ = .. $m$
+
+$\varepsilon_r$ = .. 
+
+</div>
+
+<p class="cb">
+
+ges.:
+
+<div style="text-indent:10%">
+
+$C$
+
+</div>
+
+Lsg.:
+
+<div style="text-indent:10%">
+
+$C = \varepsilon_0 \cdot \varepsilon_r \cdot \dfrac{A}{d} $
+
+$C = .. F$ 
+
+</div>
+
+</p>
+
+</p>
+
+*********
 
 
 ### Aufgabe 2. Elektrische Ladung
 
-__Löse LB. S. 122 6/8__
+__Löse LB. S. 122 6/8__  *[Nutze hierfür __1.1 Grundlagen Elekrizität__]*
 
 <div style="text-indent:10%">
 
@@ -431,7 +477,7 @@ $N=\frac{0,1 C}{1,602\cdot10^{-19}C}\approx6,242 \cdot 10^{17} \textbf{Elektrone
 
 <details>
 
-<summary> Lösung S.122/8 </summary>
+<summary> Lösung S.122/8  </summary>
 
 a) negativ
 
@@ -443,7 +489,7 @@ b) $Q = N \cdot e = 3,1\cdot10^{10} \cdot 1,602\cdot10^{-19} C = 4,966\cdot10^{-
 
 ### Aufgabe 3. Spannung am Kondensator
 
-__Bestimme die Spannung, die am Kondensator aus Aufgabe 1 anliegen muss, damit auf ein Elektron eine Kraft von 5 nN wirkt.__
+__Bestimme die Spannung, die am Kondensator aus Aufgabe 1 *[siehe 1.3 Der Kondensator]* anliegen muss, damit auf ein Elektron eine Kraft von 5 nN wirkt.__
 
 <div style="text-indent:10%"> 
 
