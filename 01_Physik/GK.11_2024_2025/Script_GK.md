@@ -1295,7 +1295,7 @@ __Definition:__ Die @color(Kapazität, orange) eines Kondensators beschreibt sei
 
 {{3}}
 *********
-> _Für die einfachste Bauform eines Kondensators [siehe 1.3] kann man die Kapazität wie folgt berechnen:_
+> _Für die einfachste Bauform eines Kondensators [siehe 1.3](#13-der-kondensator) kann man die Kapazität wie folgt berechnen:_
 > 
 > __Kapazität eines @color(Plattenkondensators, orange):__
 >
@@ -1364,7 +1364,7 @@ $C = .. F$
 
 ### Aufgabe 2. Elektrische Ladung
 
-__Löse LB. S. 122 6/8__  *[Nutze hierfür __1.1 Grundlagen Elekrizität__]*
+__Löse LB. S. 122 6/8__  [Nutze hierfür __1.1 Grundlagen Elekrizität__](#1.1-grundlagen-elektrizität)
 
 <div style="text-indent:10%">
 
@@ -1400,7 +1400,7 @@ __Bestimme die Spannung, die am Kondensator aus Aufgabe 1 *[siehe 1.3 Der Konden
 
 <summary> Hinweis </summary>
 
-Nutze Lösung der Aufgabe 1. und stelle die Formel nach U um.
+Nutze Lösung der [Aufgabe 1.](#aufgabe-1.-plattenkondensator) und stelle die Formel nach U um.
 
 > $1nN = 1 \cdot 10^{-9} N$
 
