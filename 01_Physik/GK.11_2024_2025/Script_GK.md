@@ -74,6 +74,35 @@ window.LIA.settings.font_size = 2
 
 # LB I - Mechanische Grundlagen
 
+@color(__Checkliste zur Klausur__,red)
+
+__Energie:__
+
+- Energieformen erkennen und zuordnen [Übung Zuordnen Energieformen](#übung-zuordnung-energieformen)
+- Formeln für Energieformen zur Berechnung nutzen [1.2/1.3]
+- Energieerhaltungssatz kennen [LB S. 6 unten]
+
+__Reibung:__
+
+- Reibungsarten erkennen und zuordnen [Übung Zuordnen Energieformen](#übung:-zuordnung-von-reibungsarten) 
+- Unterscheiden von erwünschter und unerwünschter Reibung [Übung Zuordnen Energieformen](#übung:-zuordnung-von-reibungsarten) 
+- Beschreibung des Einfluss der Reibung qualitativ [->1.8.4] und quantitativ [->1.8.5]
+
+__Kräfte:__
+
+- Kennen Newton'schen Gesetze [->1.9.2]
+- Darstellung von Kräften als Kraftpfeil [->1.9.3]
+- Addition und Zerlegung von Kräften z.B. an der Schiefen Ebene [->1.9.4 & 1.9.5.]
+
+__Kreisbewegung:__
+
+- Kennen der Bedingung einer gleichförmigen Kreisbewegung (Zentripetalkraft) und deren Berechung
+
+__Vermischte Aufgaben:__
+
+- Siehe [Übungsaufgaben Lernbereich Mechanische Grundlagen](#übungsaufgaben-lernbereich-mechanische-grundlagen)
+
+
 ## 1.1 - Wiederholung Energieformen
 
 __Energie__
@@ -937,6 +966,40 @@ Die Haftreibungszahl muss mindestens 0,58 betragen.
 
 ![Blitzeinschläge](https://img.welt.de/img/wirtschaft/webwelt/mobile218083858/8146580597-ci23x11-w2000/Out-Of-The-Blue.jpg)
 
+@color(__Checkliste zur Klausur__,red)
+
+__Grundlagen Elektrizität [1.1]:__
+
+- Kennen des Atomaufbaus, Elementarteilchen, Ladungszustände
+
+- Kennen des Begriffs Elektrische Ladung, Kraftwirkungen auf elektrisch geladene Körper [Aufgabe 2]
+
+__Grundlagen Elektrizität [1.2]:__
+
+- Kennen des Begriffs und der Bedeutung des elektrischen Feldes
+
+- Berechnung des elektrischen Feldes als Kraft auf Probeladung 
+
+- Kennen von Eigenschaften elektrischer Felder und Arten von elektrischen Feldern 
+
+__Kondensator [1.3/1.4]:__
+
+- Kennen des Begriffs und Nutzen von Kondensatoren, Plattenkondensator als spezielle Bauform
+
+- Berechnung des elektrischen Feldes eines Plattenkondensators und dessen Eigenschaften
+
+- Kennen des Begriffs Kapazität als Fähigkeit Ladung zu Speichern, Berechnung allgemein und bei Plattenkondensator [-> Aufgabe 1]
+
+- Kraftwirkung auf elektrische Ladungen im Feld eines Kondensators [-> Aufgabe 3/4]
+
+__Energie im elektrischen Feld [1.5]:__
+
+- Berechnung der Feldenergie
+
+- Abhängigkeiten der im Kondensator gespeicherten Energie und der Kapazität des Kondensators [-> Aufgabe 5]
+
+- Potentielle Energie einer Probeladung im elektrischen Feld eines Kondensators
+
 ## 1.1 Grundlagen Elektrizität
 
 ### 1.1.1 Atomaufbau
@@ -1551,13 +1614,15 @@ Gewichtskraft und elektrische Kraft müssen gleich groß sein, damit das Proton 
 
 5. 6. [LEIFI-Quiz zur Kondensatorformel](https://www.leifiphysik.de/elektrizitaetslehre/kondensator-kapazitaet/aufgabe/quiz-zur-kondensatorformel)
 
-## 1.6 Pendel im elektrischen Feld
+## 1.6 Potentielle Energie elektrischer Ladungen im Feld eines Plattenkondensators
+
+## 1.7 Pendel im elektrischen Feld
 
 ![TB_FadenpendelElektrischesFeld](https://diversewolken.ddns.net/nextcloud/index.php/s/aB6PmLHcseFXY2Z/download)
 
-### Aufgabe 6. Pendel im elektrischen Feld
+### Aufgabe 7. Pendel im elektrischen Feld
 
-6. Elektrisches Feld mit Probeladung: LB. S. 123/15
+7. Elektrisches Feld mit Probeladung: LB. S. 123/15
 
 <div style="text-indent:10%"> 
 

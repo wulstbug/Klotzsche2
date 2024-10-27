@@ -39,7 +39,7 @@ h1, h2, h3, h4, h5, h6 {
 @end
 
 @color
-<div style="color:@1">@0</div>
+<bdi style="color:@1">@0</bdi>
 @end
 
 @onload
@@ -52,7 +52,39 @@ window.LIA.settings.font_size = 2
 
 # Grundkurs Physik 2024/2025 - LB II: Das elektrische Feld
 
-![Blitzeinschläge](https://img.welt.de/img/wirtschaft/webwelt/mobile218083858/8146580597-ci23x11-w2000/Out-Of-The-Blue.jpg)
+@color(__Checkliste zur Klausur__,red)
+
+__Grundlagen Elektrizität [1.1]:__
+
+- Kennen des Atomaufbaus, Elementarteilchen, Ladungszustände
+
+- Kennen des Begriffs Elektrische Ladung, Kraftwirkungen auf elektrisch geladene Körper [Aufgabe 2]
+
+__Grundlagen Elektrizität [1.2]:__
+
+- Kennen des Begriffs und der Bedeutung des elektrischen Feldes
+
+- Berechnung des elektrischen Feldes als Kraft auf Probeladung 
+
+- Kennen von Eigenschaften elektrischer Felder und Arten von elektrischen Feldern 
+
+__Kondensator [1.3/1.4]:__
+
+- Kennen des Begriffs und Nutzen von Kondensatoren, Plattenkondensator als spezielle Bauform
+
+- Berechnung des elektrischen Feldes eines Plattenkondensators und dessen Eigenschaften
+
+- Kennen des Begriffs Kapazität als Fähigkeit Ladung zu Speichern, Berechnung allgemein und bei Plattenkondensator [-> Aufgabe 1]
+
+- Kraftwirkung auf elektrische Ladungen im Feld eines Kondensators [-> Aufgabe 3/4]
+
+__Energie im elektrischen Feld [1.5]:__
+
+- Berechnung der Feldenergie
+
+- Abhängigkeiten der im Kondensator gespeicherten Energie und der Kapazität des Kondensators [-> Aufgabe 5]
+
+- Potentielle Energie einer Probeladung im elektrischen Feld eines Kondensators
 
 ## 1.1 Grundlagen Elektrizität
 
@@ -74,9 +106,6 @@ window.LIA.settings.font_size = 2
 ```
 | [[ Atomkern  ]] | [[ Atomhülle ]] |
 | :--: | :--: |
-
-
-
 
 > Darin enthalten sind die Elementarteilchen mit ihren jeweiligen elektrischen Ladungszuständen
 
@@ -648,31 +677,7 @@ Gewichtskraft und elektrische Kraft müssen gleich groß sein, damit das Proton 
 
 5. 6. [LEIFI-Quiz zur Kondensatorformel](https://www.leifiphysik.de/elektrizitaetslehre/kondensator-kapazitaet/aufgabe/quiz-zur-kondensatorformel)
 
-## 1.6 Pendel im elektrischen Feld
+## 1.6 Potentielle Energie elektrischer Ladungen im Feld eines Plattenkondensators
 
-![TB_FadenpendelElektrischesFeld](https://diversewolken.ddns.net/nextcloud/index.php/s/aB6PmLHcseFXY2Z/download)
+## 1.7 Pendel im elektrischen Feld
 
-### Aufgabe 6. Pendel im elektrischen Feld
-
-6. Elektrisches Feld mit Probeladung: LB. S. 123/15
-
-<div style="text-indent:10%"> 
-
-<details>
-
-<summary> Lösung a) </summary>
-
-![Lsg_LB123_15](https://diversewolken.ddns.net/nextcloud/index.php/s/W3SQgTE7JErmfbb/download)<!-- style="width:80%"-->
-
-</details>
-
-
-<details>
-
-<summary> Lösung b) </summary>
-
-![Lsg_LB123_15](https://diversewolken.ddns.net/nextcloud/index.php/s/rjwJHMBwm3NbwrT/download)<!-- style="width:80%"-->
-
-</details>
-
-</div>

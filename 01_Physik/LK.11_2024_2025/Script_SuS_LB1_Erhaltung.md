@@ -42,7 +42,6 @@ window.LIA.settings.font_size = 2
 
 # Physik LK Script und Aufgaben für Lernende
 
-
 # LB 1 - Erhaltungssätze und ihre Anwendungen
 
 ## Übung: Zuordnung Energieformen
