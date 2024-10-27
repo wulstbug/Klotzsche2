@@ -1408,3 +1408,4 @@ Wir betrachten einen Körper, der auf einer festen Schiene gleitet, welche einen
 > $$ E_{ges} = m \cdot g \cdot (2r + \frac{1}{2} r) $$
 
 > __Ergebnis__: Die Gesamtenergie des Körpers muss zu jedem Zeitpunkt, __@color(also auch zu Beginn der Bewegung, orange)__ mindestens der potentiellen Energie des 2,5 fachen Radius entsprechen.
+

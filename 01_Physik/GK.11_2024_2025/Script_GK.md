@@ -1390,9 +1390,9 @@ b) $Q = N \cdot e = 3,1\cdot10^{10} \cdot 1,602\cdot10^{-19} C = 4,966\cdot10^{-
 
 </div>
 
-### Aufgabe 3. Spannung am Kondensator
+### Aufgabe 3. Spannung am Kondensator*
 
-__Bestimme die Spannung, die am Kondensator aus Aufgabe 1 *[siehe 1.3 Der Kondensator]* anliegen muss, damit auf ein Elektron eine Kraft von 5 nN wirkt.__
+__Bestimme die Spannung, die am Kondensator aus Aufgabe 1 [siehe 1.3 Der Kondensator](#1.3.-der-kondensator) anliegen muss, damit auf ein Elektron eine Kraft von 5 nN wirkt.__
 
 <div style="text-indent:10%"> 
 
@@ -1490,13 +1490,74 @@ Gewichtskraft und elektrische Kraft müssen gleich groß sein, damit das Proton 
 
 </div>
 
-## 1.5 Pendel im elektrischen Feld
+## 1.5 Energie im elektrischen Feld
+
+> Im elektrischen Feld eines Kondensators ist energie gespeichert und wird als __elektrische Feldenergie $E_{Feld}$__  bezeichnet.
+>
+> $$ \boxed{E_{Feld} = \frac{1}{2}\cdot Q \cdot U} $$
+>
+> $$ \boxed{E_{Feld} = \frac{1}{2}\cdot C \cdot U^2} $$
+>
+> $\hspace{1cm}$ $C$ ... Kapazität des Kondensators $\big[ F \big]$
+>
+> $\hspace{1cm}$ $Q$ ... im dem Kondensator gespeicherte Ladung $\big[ C \big]$
+>
+> $\hspace{1cm}$ $U$ ... am Kondensator anliegende Spannung $\big[ V \big]$
+
+### Aufgabe 5: Feldenergie im Kondensator
+
+5.1. Ergänze folgende Aussage: Um die Feldenergie eines Kondensators zu erhöhen kann man:
+
+     <!-- data-solution-button="off" -->
+     [[X]] die Spannung verringern
+     [[ ]] die Spannung erhöhen
+     [[ ]] ein Dielektrikum zwischen die Platten des Kondensators einbringen
+     [[X]] ein Dielektrikum zwischen den Platten des Kondensators entfernen
+     [[ ]] die elektrische Feldenergie ist eine Konstante und kann nicht verändert werden
+     [[?]] Nutze die zweite Formel für die Feldenergie. Überprüfe ob eine Veränderung von Spannung und Kapazität die elektrische Feldenergie vergrößert oder verkleinert. Überprüfe auch die Formel zur Berechnung der Kapazität und den Einfluss eines Dielektrikums.
+
+5. 2. Ergänze folgende Aussage: Wird bei einem Kondensator mit einer festen Kapazität die Spannung verdoppelt so
+
+     <!-- data-solution-button="off" -->
+     [(X)] verdoppelt sich die Feldenergie
+     [( )] vervierfacht sich die Feldenergie
+     [( )] bleibt die Feldenergie gleich
+     [( )] halbiert sich die Feldenergie
+     [( )] viertelt sich die Feldenergie
+     [[?]] Nutze die zweite Formel für die Feldenergie. Wähle Beispielwerte für die Spannung und Kapazität. Verdopple die Spannung und überprüfe den Einfluss auf das Ergebnis
+
+5. 3. Wahr oder falsch? Bringt man die Platten eines Kondensators näher zusammen, steigt die Kapazität.
+
+     <!-- data-solution-button="off" -->
+     [(X)] wahr
+     [( )] falsch
+
+5. 4. Wahr oder falsch? Verkleinert man die Plattenfläche eines Kondensators so steigt die Kapazität.
+
+     <!-- data-solution-button="off" -->
+     [( )] wahr
+     [(X)] falsch
+
+5. 5. An einem Plattenkondensator ($A$ ... Flächeninhalt der Platte, $d$ ... Abstand der Platten, Luft zwischen den Platten), soll eine feste Spannung $U$ angelegt werden. Markiere die Formel zur Berechnung der Ladung $Q$ auf den Platten.
+
+     <!-- data-solution-button="off" -->
+     [( )] $Q = \dfrac{\varepsilon_0 \cdot \varepsilon_r \cdot A}{d \cdot U} $
+     [( )] $Q = \varepsilon_0 \cdot \varepsilon_r \cdot A \cdot d \cdot U $
+     [( )] $Q = \dfrac{d \cdot U}{\varepsilon_0 \cdot \varepsilon_r \cdot A} $
+     [( )] $Q = \dfrac{d}{\varepsilon_0 \cdot \varepsilon_r \cdot A \cdot U} $
+     [(X)] $Q = \varepsilon_0 \cdot \varepsilon_r \cdot \dfrac{A}{d} \cdot U $     
+     [[?]] Nutze die allgemeine Formel für die Kapazität ([1.4](#1.4.-die-kapazität)) und die spezielle Formel für die Kapazität des Plattenkondensators.
+     [[?]] Setze beide Formeln gleich und stelle sie nach der Ladung $Q$ um
+
+5. 6. [LEIFI-Quiz zur Kondensatorformel](https://www.leifiphysik.de/elektrizitaetslehre/kondensator-kapazitaet/aufgabe/quiz-zur-kondensatorformel)
+
+## 1.6 Pendel im elektrischen Feld
 
 ![TB_FadenpendelElektrischesFeld](https://diversewolken.ddns.net/nextcloud/index.php/s/aB6PmLHcseFXY2Z/download)
 
-### Aufgabe 5. Pendel im elektrischen Feld
+### Aufgabe 6. Pendel im elektrischen Feld
 
-5. Elektrisches Feld mit Probeladung: LB. S. 123/15
+6. Elektrisches Feld mit Probeladung: LB. S. 123/15
 
 <div style="text-indent:10%"> 
 
