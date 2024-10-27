@@ -88,7 +88,7 @@ __Kräfte:__
 
 __Kreisbewegung:__
 
-- Kennen der Bedingung einer gleichförmigen Kreisbewegung (Zentripetalkraft) und deren Berechung
+- Kennen der Bedingungen einer gleichförmigen Kreisbewegung (Zentripetalkraft) und deren Berechung
 
 __Vermischte Aufgaben:__
 
