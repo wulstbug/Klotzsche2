@@ -26,6 +26,10 @@ h1, h2, h3, h4, h5, h6 {
 }
 @end
 
+@color
+<bdi style="color:@1">@0</bdi>
+@end
+
 mode: textbook
 
 @onload
