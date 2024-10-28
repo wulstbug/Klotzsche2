@@ -632,7 +632,7 @@ Gewichtskraft und elektrische Kraft müssen gleich groß sein, damit das Proton 
 
 ### Aufgabe 5: Feldenergie im Kondensator
 
-5.1. Ergänze folgende Aussage: Um die Feldenergie eines Kondensators zu erhöhen kann man:
+5. 1. Ergänze folgende Aussage: Um die Feldenergie eines Kondensators zu erhöhen kann man:
 
      <!-- data-solution-button="off" -->
      [[X]] die Spannung verringern
@@ -675,7 +675,17 @@ Gewichtskraft und elektrische Kraft müssen gleich groß sein, damit das Proton 
      [[?]] Nutze die allgemeine Formel für die Kapazität ([1.4](#1.4.-die-kapazität)) und die spezielle Formel für die Kapazität des Plattenkondensators.
      [[?]] Setze beide Formeln gleich und stelle sie nach der Ladung $Q$ um
 
-5. 6. [LEIFI-Quiz zur Kondensatorformel](https://www.leifiphysik.de/elektrizitaetslehre/kondensator-kapazitaet/aufgabe/quiz-zur-kondensatorformel)
+5. 6. Ein Plattenkondensator der zwischen den Platten mit Luft gefüllt ist hat eine Kapazität von 1 nF. Dann wird ein Stoff zwischen die Platten geschoben und die Kapazität erhöht sich auf den Wert 4 nF. Benenne den Stoff, der zwischen die Platten geschoben wurde.
+
+     <!-- data-solution-button="off" -->
+     [[ Porzellan ]]
+     [[?]] Überprüfe in der Formel zur Berechnung der Kapazität eines Plattenkondensators [-> 1.4], welche physikalische Größe sich auf ein Material bezieht.
+     [[?]] Das Material zwischen den Platten wird durch die Dielektizitätszahl $\varepsilon_r$ repräsentiert. Nutze die Formelsammlung für die Dielektrizitätszahl verschiedener Materialen.
+     [[?]] Die Dielektrizitätszahl verschiedener Materialien wird in der Formelsammlung auf Seite 54 aufgeführt. Überprüfe, welches Material eine Dielektrizitätszahl von 4 besitzt.
+
+
+5. 7. [LEIFI-Quiz zur Kondensatorformel](https://www.leifiphysik.de/elektrizitaetslehre/kondensator-kapazitaet/aufgabe/quiz-zur-kondensatorformel)
+
 
 ## 1.6 Potentielle Energie elektrischer Ladungen im Feld eines Plattenkondensators
 
