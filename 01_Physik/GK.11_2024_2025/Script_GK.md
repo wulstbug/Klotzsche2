@@ -1390,11 +1390,11 @@ geg.:
 
 <div style="text-indent:10%">
 
-$A$ = .. $m^2$
+$A$ = <bdi style="color:orange"> $28\,cm \cdot 28\,cm = 0,28 \cdot 0,28\,m^2 = 0,0784 m^2$</bdi>
 
-$d$ = .. $m$
+$d$  <bdi style="color:orange"> $\approx 1,5\,cm = 0,015 m$ </bdi>
 
-$\varepsilon_r$ = .. 
+$\varepsilon_r$ = <bdi style="color:orange"> $ = 1$ </bdi>
 
 </div>
 
@@ -1414,7 +1414,13 @@ Lsg.:
 
 $C = \varepsilon_0 \cdot \varepsilon_r \cdot \dfrac{A}{d} $
 
-$C = .. F$ 
+$C \approx $  <bdi style="color:orange"> $ 4,6 \cdot 10^{-11} F $ = $ 46\,pF$  </bdi>
+
+<bdi style="color:orange">Lösungen $ C = 2 \cdot 10^{-11}\,F$ bis $ 8 \cdot 10^{-11}\,F $ sind akzeptabel</bdi>
+
+Beispiel: Taschenrechner:
+
+![GTR](https://diversewolken.ddns.net/nextcloud/index.php/s/939gMiCMEoNn7bL/download)
 
 </div>
 
