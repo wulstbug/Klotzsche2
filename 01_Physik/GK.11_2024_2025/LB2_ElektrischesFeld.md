@@ -618,7 +618,7 @@ Gewichtskraft und elektrische Kraft müssen gleich groß sein, damit das Proton 
 
 ## 1.5 Energie im elektrischen Feld
 
-> Im elektrischen Feld eines Kondensators ist energie gespeichert und wird als __elektrische Feldenergie $E_{Feld}$__  bezeichnet.
+> Im elektrischen Feld eines Kondensators ist Energie gespeichert und wird als __elektrische Feldenergie $E_{Feld}$__  bezeichnet.
 >
 > $$ \boxed{E_{Feld} = \frac{1}{2}\cdot Q \cdot U} $$
 >
