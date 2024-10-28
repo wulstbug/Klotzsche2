@@ -483,7 +483,7 @@ $C \approx $  <bdi style="color:orange"> $ 4,6 \cdot 10^{-11} F $ = $ 46\,pF$  <
 
 Beispiel: Taschenrechner:
 
-![GTR](https://diversewolken.ddns.net/nextcloud/index.php/s/939gMiCMEoNn7bL/download)
+![GTR](https://diversewolken.ddns.net/nextcloud/index.php/s/939gMiCMEoNn7bL/download) <!-- style="width:80%" -->
 
 </div>
 
