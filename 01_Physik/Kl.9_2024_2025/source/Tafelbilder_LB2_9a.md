@@ -632,8 +632,18 @@ __Video: Wie funktioniert ein Generator?__
 >> @color(__mechanische Energie__, blue) in @color(__elektrische Energie__, red) umzuwandeln.
 ***********
 
-### Fragen zum Generator
+### Fragen zum Generator 2
 
+1. Bei einem Generator wird das Induktionsgesetz genutzt. Notiere es.
+
+    {1}{<bdi style="color:orange">In einer Spule wird eine Spannung induziert, solange sich das von der Spule umfasste Magnetfeld ändert.</bdi>}
+
+2. Beschreibe anhand der Skizze den Aufgab eines Wechselstromgenerators.
+
+    {2}{<bdi style="color:orange"> Ein Wechselstromgenerator besteht aus einem rotierenden Magneten (Rotor) und fest stehenden Induktionsspulen (Stator). </bdi>}
+
+{{3}}
+**********
 <p class="newspaper">
 
 3. Wahr oder falsch? Wenn sich der Generator schneller dreht, erhöht sich die elektrische Spannung.
@@ -678,3 +688,4 @@ __Video: Wie funktioniert ein Generator?__
 </p>
 
 </p>
+**********
