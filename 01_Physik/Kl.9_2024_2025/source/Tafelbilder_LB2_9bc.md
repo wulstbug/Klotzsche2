@@ -264,7 +264,7 @@ $\hspace{0.5cm}$ $\eta = \dfrac{40 J}{100 J} = 0,4 = 40\% $
 > __Vergleich:__ Die LED wandelt die elektrische Energie viel effizienter in Licht um als die Glühlampe, denn sie hat einen höheren Wirkungsgrad (40% > 5%)
 ***********
 
-## 2.4.2 Wirkungsgrad eines Benzinmotors
+### 2.4.2 Wirkungsgrad eines Benzinmotors
 
 > Über die Benutzung eines Benzinmotors bei einem Auto sind folgende Dinge bekannt:
 >
