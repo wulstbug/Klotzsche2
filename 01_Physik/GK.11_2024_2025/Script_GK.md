@@ -1578,10 +1578,10 @@ Gewichtskraft und elektrische Kraft müssen gleich groß sein, damit das Proton 
 5.1. Ergänze folgende Aussage: Um die Feldenergie eines Kondensators zu erhöhen kann man:
 
      <!-- data-solution-button="off" -->
-     [[X]] die Spannung verringern
-     [[ ]] die Spannung erhöhen
-     [[ ]] ein Dielektrikum zwischen die Platten des Kondensators einbringen
-     [[X]] ein Dielektrikum zwischen den Platten des Kondensators entfernen
+     [[ ]] die Spannung verringern
+     [[X]] die Spannung erhöhen
+     [[X]] ein Dielektrikum zwischen die Platten des Kondensators einbringen
+     [[ ]] ein Dielektrikum zwischen den Platten des Kondensators entfernen
      [[ ]] die elektrische Feldenergie ist eine Konstante und kann nicht verändert werden
      [[?]] Nutze die zweite Formel für die Feldenergie. Überprüfe ob eine Veränderung von Spannung und Kapazität die elektrische Feldenergie vergrößert oder verkleinert. Überprüfe auch die Formel zur Berechnung der Kapazität und den Einfluss eines Dielektrikums.
 
