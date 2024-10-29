@@ -440,9 +440,9 @@ __Aufgaben:__
 
 ![Range](https://diversewolken.ddns.net/nextcloud/index.php/s/Ti5qQFyiDWHJWfy/download)
 
-9. Vergleiche deine Konstruktion:
+9. Vergleiche deine Konstruktion (Achte auf die Position der Brennpunkte):
 
-![Vergleiche9](https://diversewolken.ddns.net/nextcloud/index.php/s/jsKrqTCoC8ANWxF/download)
+![Vergleiche9](https://diversewolken.ddns.net/nextcloud/index.php/s/Mc87BWdeZN7yCZo/download)
 
 10. Konstruiere 3 Geraden. <br> __h:__ $\overline{\mathrm{G1\,F1}}$ <br> __i:__ parallel zur x-Achse durch __G1__ <br>__j:__ $\overline{\mathrm{G1\,O}}$ 
 
@@ -452,32 +452,31 @@ __Aufgaben:__
 
 13. Vergleiche deine Konstruktion:
 
-![Vergleiche13](https://diversewolken.ddns.net/nextcloud/index.php/s/TWBZ6yYNy73LTQw/download)
+![Vergleiche13](https://diversewolken.ddns.net/nextcloud/index.php/s/eMr6w6JSXrjBzLn/download)
 
 14. Konstruiere Schnittpunkt von Geraden (__j__,__l__). Nenne ihn __B1__. <br> Konstruiere parallele Gerade zur y-Achse durch __B1__ -> __m__. <br> Konstruiere Schnittpunkt von __m__ und x-Achse. Nenne ihn __B0__
 
 15. Vergleiche deine Konstruktion
 
-![Vergleiche15](https://diversewolken.ddns.net/nextcloud/index.php/s/TWBZ6yYNy73LTQw/download)
+![Vergleiche15](https://diversewolken.ddns.net/nextcloud/index.php/s/MefZoxxjGyH7ang/download)
 
 16. Blende alle Geraden aus, konstruiere den Strahlengang und das Bild (Bild: Vektor von B0->B1).
 
 17. Vergleiche deine Konstruktion
 
-![Vergleiche17](https://diversewolken.ddns.net/nextcloud/index.php/s/TWBZ6yYNy73LTQw/download)
+![Vergleiche17](https://diversewolken.ddns.net/nextcloud/index.php/s/LkCdKWr2tQfzEer/download)
 
-17. Ermittle aus deiner Konstruktion Bildweite und Bildgröße und gib diese hier zur Überprüfung ein.:
+17. Ermittle aus deiner Konstruktion Bildweite und Bildgröße und gib diese hier zur Überprüfung ein (runde auf eine Kommastelle).:
 
     <!-- data-solution-button="off" -->
-    Bildweite b = [[ 2 ]] <br>
+    Bildweite b = [[ 1,9 ]] <br>
     Bildgröße B = [[ 0,75 ]]
 
     Hinweis: Falls du nicht mehr weißt, wie man Bildweite und Bildgröße abliest, schau dir nochmal das [Tafelbild](https://diversewolken.ddns.net/nextcloud/index.php/s/wpF2K9TNDfgagbH) an.
 
-18. Ändere deine Parameter auf 
+18. Ändere deine Parameter auf __g = 6, G = 8, f = 2__
 
-     __g = 6, G = 8, f = 2__ <br>    
      
      <!-- data-solution-button="off" -->
-    Bildweite b = [[ 1,5 ]] <br>
-    Bildgröße B = [[ 2 ]]
+     Bildweite b = [[ 1,5 ]] <br>
+     Bildgröße B = [[ 2 ]]
