@@ -413,7 +413,7 @@ __Aufgaben:__
 
 </div>
 
-## Konstruiere die Abbildung an einer Zerstreuungslinse
+## Geogebra: Konstruiere die Abbildung an einer Zerstreuungslinse
 
 
 1. Gehe zu @color(ogy.de/golnik,blue) und nutze @color(Einfache Konstruktionsumgebung, orange)
