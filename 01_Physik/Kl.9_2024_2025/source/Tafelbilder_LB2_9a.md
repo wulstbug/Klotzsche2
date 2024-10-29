@@ -542,7 +542,7 @@ __Der Generator:__
 
 4. Drehe die Welle in die andere Richtung und überprüfe die angezeigte Spannung. Was stellst du fest?
 
-    {2}{@color(Spannung wechselt das Vorzeichen, orange)}
+    @color(Spannung wechselt das Vorzeichen, orange)
 
 
 <p class="cb">
@@ -552,6 +552,8 @@ __Der Generator:__
 __Der Elektro-Motor:__
 ***********
 
+{{2}}
+****************
 5. Besorge dir am Lehrertisch eine Spannungsquelle. Schließe die Spannungsquelle statt dem Cassy-Messgerät an den Generator an. Erhöhe langsam die Spannung.
 
      <bdi style="color:red">$\boxed{\textbf{ACHTUNG: SPANNUNG}}$</bdi>
@@ -561,7 +563,7 @@ __Der Elektro-Motor:__
 6. Welche andere Funktion kann ein Generator übernehmen?
 
 7. Vertausche die Pole der Spannungsquelle und beobachte das Verhalten deines Experimentes.
-
+****************
 </p>
 
 </p>
