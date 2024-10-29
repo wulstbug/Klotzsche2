@@ -554,7 +554,9 @@ __Der Elektro-Motor:__
 
 5. Besorge dir am Lehrertisch eine Spannungsquelle. Schließe die Spannungsquelle statt dem Cassy-Messgerät an den Generator an. Erhöhe langsam die Spannung.
 
-<bdi style="color:red">$\boxed{\textbf{ACHTUNG: SPANNUNG NICHT ÜBER 2V ERHÖHEN}}$</bdi>
+     <bdi style="color:red">$\boxed{\textbf{ACHTUNG: SPANNUNG}}$</bdi>
+
+     <bdi style="color:red">$\boxed{\textbf{NICHT ÜBER 2V ERHÖHEN}}$</bdi>
 
 6. Welche andere Funktion kann ein Generator übernehmen?
 
