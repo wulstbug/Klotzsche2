@@ -1267,6 +1267,8 @@ Alternativ: Das Verhältnis der hypothetischen Zeigerlänge zum Abstand Erde-Son
 
 2. [LEIFI-Physik Aufgabe zur Kugel in Rinne](https://www.leifiphysik.de/mechanik/kreisbewegung/versuche/kugel-rotierender-rinne)
 
+</details>
+
 ## 2.11 Abiturähnliche Aufgabe zur Rodelbahn
 
 > Im sächsischen Altenberg befindet sich eine Bobbahn. Beim Einerbob erteilt der Pilot dem Bob eine Anfangsgeschwindigkeit. Er steuert den Bob durch kleine auf die Kufen übertragene Lenkbewegungen durch den Eiskanal.
@@ -1321,7 +1323,7 @@ Theoretische Untersuchung:
 
      Gewichtskraft: $F_g = m \cdot g$
 
-     potentielle Energie: $E_{pot} = m \cdot g \cdot (2r)
+     potentielle Energie: $E_{pot} = m \cdot g \cdot (2r)$
 
 </details>
 
