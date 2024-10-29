@@ -1417,3 +1417,160 @@ Wir betrachten einen Körper, der auf einer festen Schiene gleitet, welche einen
 
      <!-- data-solution-button="off" -->
      [[ 19,7 ]] $m$
+
+
+<p class="newspaper">
+
+2. Im Punkt B steht ein Wagen K mit einer Masse von 20,0 g direkt vor einer entspannten Feder. Die Feder hat eine Federkonstante von $112,5 \frac{N}{m}$. Der Körper wird bis zum Punkt A geschoben, wodurch die Feder um 10 cm zusammengedrückt wird. <br> In A wird der Körper dann aus der Ruhe heraus losgelassen. <br> Er bewegt sich mit einer vernachlässigbaren Reibung über B, C, D, E nach C. Auf dem weiteren Weg zwischen C und F tritt Reibung auf.
+
+<p class="cb">
+
+__Skizze:__
+
+![Aufgabe_Looping](https://diversewolken.ddns.net/nextcloud/index.php/s/bpNoweSbDj7t8a4/download)
+
+</p>
+
+</p>
+
+
+<bdi style="color:orange">_Hinweise: <br> -> Die Marker (+) oder (++) weisen auf den Rechenaufwand hin._<br> -> _Sämtliche überprüfbaren Lösungen sind auf drei signifikante Stellen in der gegebenen Einheit gerundet._</bdi>
+
+2. a) (+) Zeigen Sie, dass der Körper den Punkt C mit $7,5 \frac{m}{s}$ durchfährt.
+
+<div style="text-indent:10%">
+
+<details>
+
+<summary> Lösung a) </summary>
+
+![Looping_Lsg_a](https://diversewolken.ddns.net/nextcloud/index.php/s/s3LDidLkHEbLYew/download)<!-- style="width:80%"-->
+
+</details>
+
+</div>
+
+2. b) (+) Der Looping hat einen Radius von 1,00 m. Ermitteln Sie den Wert der Radialkraft (welche durch die Bahn als Zwangskraft ausgeübt wird).
+
+    <!-- data-solution-button="off" -->
+    __Endergebnis:__ $F_R$ = [[ 0,733 ]] N
+
+<div style="text-indent:10%">
+
+<details>
+
+<summary> Lösung b) </summary>
+
+![Looping_Lsg_b](https://diversewolken.ddns.net/nextcloud/index.php/s/8ssegiDmPA6tcMq/download)<!-- style="width:80%"-->
+
+</details>
+
+</div>
+
+2. c) (++) Der Körper soll die Loopingbahn vollständig durchlaufen. Wird zuvor die Feder nicht ausreichend zusammengedrückt, reicht die Geschwindigkeit im Punkt C nicht aus, um komplett durch den Kreis zu kommen. <br> Ermitteln Sie die Strecke s, welche die Feder mindestens zusammengedrückt werden muss, damit der Körper den Looging durchlaufen kann.
+
+    <!-- data-solution-button="off" -->
+    __Endergebnis:__ $s$ = [[ 9,34 ]] cm
+
+<div style="text-indent:10%">
+
+<details>
+
+<summary> Lösung c) </summary>
+
+Damit der Wagen den Looping durchfahren kann, braucht er im oberen Punkt eine bestimmte Mindestgeschwindigkeit $v_{min}$.
+
+Bei $v_{min}$ entspricht die Gewichtskraft $F_g$ exakt der zum Radius passenden Radialkraft $F_R$. Setzt man diese gleich, so erhält man einen Ausdruck für die Mindestgeschwindigkeit im Punkt E.
+
+$$F_{ZP}=F_g$$
+
+$$ v_{min} = \sqrt{g \cdot r} $$
+
+Zur Probe: $$ v_{min} \approx 3,13 {m}{s} $$
+
+Diese Geschwindigkeit entspricht der kinetischen Energie:
+
+$$ E_{kin} = \frac{1}{2} \cdot m \cdot v^2 $$
+
+Zur Probe: $$ E_{kin} = 0,0981 J $$
+
+Zusätzlich benötigt der Körper in diesem Punkt die potentielle Energie $E_{pot}$:
+
+$$ E_{pot} = m \cdot g \cdot (2r) $$
+
+Zur Probe: $$ E_{pot} = 0,3924 J $$
+
+Die Gesamtenergie des Körper, zu Anfang als Spannenergie $E_{sp}$ im Punkt A wird also im Punkt E in $ E_{kin}+E_{pot} $ umgewandelt. Energieerhaltung:
+
+$$ E_{sp} = E_{kin}+E_{pot} $$ 
+
+Eingesetzt (mit Formelzeichen)
+
+$$ \frac{1}{2}\cdot D \cdot s^2 = \frac{1}{2} \cdot m \cdot v_{min}^2
+ + m \cdot g \cdot (2r) $$ 
+
+Bzw. wie schon die Untersuchung zum Looping ergab:
+
+$$ \frac{1}{2}\cdot D \cdot s^2 = m \cdot g \cdot 2,5r $$
+
+Die Strecke s ergibt sich also zu:
+$$ s = \sqrt{\dfrac{5 \cdot m \cdot g}{D}} $$
+
+Bzw. als Ergebnis
+
+$$ s \approx 0,0934 m = 9,34 cm $$
+
+</details>
+
+</div>
+
+2. d) (++) Nach dem Durchlaufen der Looping-Bahn bewegt sich der Wagen von C nach F fort. Auf dieser Streckt beträgt die Reibungszahl 0,5. Der Körper hat im Punkt F eine Geschwindigkeit von $5 \frac{m}{s}$. Ermittlen Sie die Länge der Strecke $l = \overline{CF}$.
+
+
+    <!-- data-solution-button="off" -->
+    __Endergebnis:__ $l$ = [[ 3,19 ]] m
+
+<div style="text-indent:10%">
+
+<details>
+
+<summary> Lösung d) </summary>
+
+Wie in Aufgabe a) gezeigt beträgt die Geschwindigkeit in Punkt C $7,5 \frac{m}{s}$. Die Reibungsarbeit $W_R = F_R \cdot l$ ergibt sich aus der Differenz der kinetischen Energien in Punkt C und F.
+
+$$ W_R = E_{kin, C} - E_{kin, F} $$
+
+und eingesetzt:
+
+$$ F_R \cdot l = \frac{1}{2} \cdot m \cdot v_{C}^2 - \frac{1}{2} \cdot m \cdot v_{F}^2 $$
+
+Da die Reibungskraft $F_R = F_g \cdot \mu = m \cdot g \cdot \mu$ berechnet werden kann, findet man:
+
+$$ m \cdot g \cdot \mu \cdot l = \frac{1}{2} \cdot m \cdot v_{C}^2 - \frac{1}{2} \cdot m \cdot v_{F}^2 $$
+
+und für $l$ schließlich
+
+$$ l = \dfrac{v_C^2 -v_F^2}{2\cdot g \cdot \mu} $$
+
+$$ l \approx 3,19 m $$ 
+
+</details>
+
+</div>
+
+2. e) (+++) Vom Punkt F aus geht es reibungsfrei weiter. Der nach unten gehende Bogen hat einen Radius $r_2$ von 3,00 m. Im Punkt G löst sich der Wagen von der Bahn und hebt ab. Ermitteln Sie den Winkel Alpha?
+
+    <!-- data-solution-button="off" -->
+    __Endergebnis:__ $\alpha$ = [[ 18,2 ]] °
+
+<div style="text-indent:10%">
+
+<details>
+
+<summary> Lösung e) </summary>
+
+![Looping_Lsg_e](https://diversewolken.ddns.net/nextcloud/index.php/s/rLKSp9JRz3D6eGB/download)<!-- style="width:80%"-->
+
+</details>
+
+</div>
