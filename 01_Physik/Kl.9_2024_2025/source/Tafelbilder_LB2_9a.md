@@ -665,7 +665,7 @@ __Video: Wie funktioniert ein Generator?__
      [[ ]] Die Anzahl der Windungen der Spule verringern
      [[X]] Die Anzahl der Windungen der Spule vergrößern
      [[ ]] Die Querschnittsfläche der Spule verkleinern
-     [[X]] Die Querschnittsfläche der Spule verkleinern
+     [[X]] Die Querschnittsfläche der Spule vergrößern
 
 <p class="cb">
 
