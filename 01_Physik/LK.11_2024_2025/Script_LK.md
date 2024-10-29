@@ -2878,3 +2878,22 @@ Wir betrachten einen Körper, der auf einer festen Schiene gleitet, welche einen
 > $$ E_{ges} = m \cdot g \cdot (2r + \frac{1}{2} r) $$
 
 > __Ergebnis__: Die Gesamtenergie des Körpers muss zu jedem Zeitpunkt, __@color(also auch zu Beginn der Bewegung, orange)__ mindestens der potentiellen Energie des 2,5 fachen Radius entsprechen.
+
+### Übungsaufgaben zum Looping
+
+1. Eine Achterbahn soll eine Loopingkurve durchfahren. Sie durchfährt den höchsten Punkt des Kreises mit der Geschwindigkeit 50 km/h. Wie groß darf der Radius der Kreisbahn höchstens sein?
+
+     <!-- data-solution-button="off" -->
+     [[ 19,7 ]] $m$
+
+<p class="newspaper">
+
+2. Im Punkt B steht ein Wagen K mit einer Masse von 20,0 g direkt vor einer entspannten Feder. Die Feder hat eine Federkonstante von 112,5 Nm-1. Der Körper wird bis zum Punkt A geschoben, wodurch die Feder um 10 cm zusammengedrückt wird. <br> In A wird der Körper dann aus der Ruhe heraus losgelassen. <br> Er bewegt sich mit einer vernachlässigbaren Reibung über B, C, D, E nach C. Auf dem weiteren Weg zwischen C und F tritt Reibung auf.
+
+<p class="cb">
+
+Test
+
+</p>
+
+</p>
