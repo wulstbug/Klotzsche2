@@ -412,3 +412,72 @@ __Aufgaben:__
 </details>
 
 </div>
+
+## Konstruiere die Abbildung an einer Zerstreuungslinse
+
+
+1. Gehe zu @color(ogy.de/golnik,blue) und nutze @color(Einfache Konstruktionsumgebung, orange)
+
+2. Blende das Koordinatensystem ein und platziere den Ursprung mittig.
+
+![Koord](https://diversewolken.ddns.net/nextcloud/index.php/s/pGEcgSo6YKCakip/download)
+
+3. Füge deiner Konstruktion drei Variablen hinzu. <br> @color(f=3,red ) | @color(g=5,red) | @color(G=2,red)
+
+![Variablen](https://diversewolken.ddns.net/nextcloud/index.php/s/PxN6eizN5nZX4Cw/download)
+
+4. Ändere bei allen Variablen: __Minimum 0, Maximum 10, Schrittweite 0,1__
+
+![Range](https://diversewolken.ddns.net/nextcloud/index.php/s/SQ2KpJDCTA4MHp8/download)
+
+5. Blende alle Variablen ein
+
+6. Definiere Brennpunkte @color(F1,red) und @color(F2,red) der Linse <br> Tippe: <b style="color:red">F1=(f,0)</b> und <b style="color:red">F2=(-f,0)</b>
+
+7. Definiere Fußpunkt @color(G0,red) und Stützpunkt @color(G1,red) des Gegenstands. <br> Tippe: <b style="color:red">G0=(-g,0)</b> und <b style="color:red">G1=(-g,G)</b>
+
+8. Zeichne Gegenstand: <br> Nutze Vektor (@color(G0 -> G1,red))
+
+![Range](https://diversewolken.ddns.net/nextcloud/index.php/s/Ti5qQFyiDWHJWfy/download)
+
+9. Vergleiche deine Konstruktion:
+
+![Vergleiche9](https://diversewolken.ddns.net/nextcloud/index.php/s/jsKrqTCoC8ANWxF/download)
+
+10. Konstruiere 3 Geraden. <br> __h:__ $\overline{\mathrm{G1\,F1}}$ <br> __i:__ parallel zur x-Achse durch __G1__ <br>__j:__ $\overline{\mathrm{G1\,O}}$ 
+
+11. Konstruiere Schnittpunkte zwischen y-Achse und __h__ (-> __B__) bzw. i (->__C__)
+
+12. Konstruiere zwei Geraden.<br> __k:__ $\overline{\mathrm{C\,F2}}$ <br> __l:__ parallel zur x-Achse durch __B__
+
+13. Vergleiche deine Konstruktion:
+
+![Vergleiche13](https://diversewolken.ddns.net/nextcloud/index.php/s/TWBZ6yYNy73LTQw/download)
+
+14. Konstruiere Schnittpunkt von Geraden (__j__,__l__). Nenne ihn __B1__. <br> Konstruiere parallele Gerade zur y-Achse durch __B1__ -> __m__. <br> Konstruiere Schnittpunkt von __m__ und x-Achse. Nenne ihn __B0__
+
+15. Vergleiche deine Konstruktion
+
+![Vergleiche15](https://diversewolken.ddns.net/nextcloud/index.php/s/TWBZ6yYNy73LTQw/download)
+
+16. Blende alle Geraden aus, konstruiere den Strahlengang und das Bild (Bild: Vektor von B0->B1).
+
+17. Vergleiche deine Konstruktion
+
+![Vergleiche17](https://diversewolken.ddns.net/nextcloud/index.php/s/TWBZ6yYNy73LTQw/download)
+
+17. Ermittle aus deiner Konstruktion Bildweite und Bildgröße und gib diese hier zur Überprüfung ein.:
+
+    <!-- data-solution-button="off" -->
+    Bildweite b = [[ 2 ]] <br>
+    Bildgröße B = [[ 0,75 ]]
+
+    Hinweis: Falls du nicht mehr weißt, wie man Bildweite und Bildgröße abliest, schau dir nochmal das [Tafelbild](https://diversewolken.ddns.net/nextcloud/index.php/s/wpF2K9TNDfgagbH) an.
+
+18. Ändere deine Parameter auf 
+
+     __g = 6, G = 8, f = 2__ <br>    
+     
+     <!-- data-solution-button="off" -->
+    Bildweite b = [[ 1,5 ]] <br>
+    Bildgröße B = [[ 2 ]]
