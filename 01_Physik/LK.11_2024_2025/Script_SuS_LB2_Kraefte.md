@@ -1569,7 +1569,7 @@ $$ l \approx 3,19 m $$
 
 <summary> Lösung e) </summary>
 
-![Looping_Lsg_e](https://diversewolken.ddns.net/nextcloud/index.php/s/rLKSp9JRz3D6eGB/download)<!-- style="width:80%"-->
+![Looping_Lsg_e](https://diversewolken.ddns.net/nextcloud/index.php/s/rLKSp9JRz3D6eGB/download)
 
 </details>
 

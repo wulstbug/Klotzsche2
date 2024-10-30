@@ -2881,6 +2881,9 @@ Wir betrachten einen Körper, der auf einer festen Schiene gleitet, welche einen
 
 ### Übungsaufgaben zum Looping
 
+<bdi style="color:red"> Die überprüfbaren Lösungen werden mit drei signifikanten Stellen überprüft. D.h. wenn das Ergebnis 16,786 m ist, muss 16,8 m gerundet werden. Bei 0,086434 s, sollte 0,0864 s überprüft werden. <br> __Signifikante Stellen__ sind diejenigen Ziffern, die nach den führenden Nullen folgen.
+</bdi>
+
 1. Eine Achterbahn soll eine Loopingkurve durchfahren. Sie durchfährt den höchsten Punkt des Kreises mit der Geschwindigkeit 50 km/h. Wie groß darf der Radius der Kreisbahn höchstens sein?
 
      <!-- data-solution-button="off" -->
@@ -3035,7 +3038,7 @@ $$ l \approx 3,19 m $$
 
 <summary> Lösung e) </summary>
 
-![Looping_Lsg_e](https://diversewolken.ddns.net/nextcloud/index.php/s/rLKSp9JRz3D6eGB/download)<!-- style="width:80%"-->
+![Looping_Lsg_e](https://diversewolken.ddns.net/nextcloud/index.php/s/rLKSp9JRz3D6eGB/download)
 
 </details>
 
