@@ -57,6 +57,30 @@ window.LIA.settings.font_size = 2
 
 @end
 
+@rangeQuiz2
+<div style="display: flex;flex-direction: row;flex-wrap: nowrap">
+<div style="float:left">
+@0 = 
+</div> 
+<div style="float:left">
+<!-- data-solution-button="off" -->
+[[ @1 ]]
+<script>
+let input = "@input".replace(",", ".")
+try {
+    input = Math.abs(eval(input)-@1)/Math.abs(input)
+    input <= 0.03
+} catch (e) {
+    false
+}
+</script>
+</div> 
+<div style="float:left">
+@2
+</div>
+</div>
+@end
+
 @@@ ogy.de/11Ph2 deaktivieren: https://ogy.de/del.cvv2y5l7old0u7gamlc1
 
 -->
@@ -2884,10 +2908,9 @@ Wir betrachten einen Körper, der auf einer festen Schiene gleitet, welche einen
 <bdi style="color:red"> Die überprüfbaren Lösungen werden mit drei signifikanten Stellen überprüft. D.h. wenn das Ergebnis 16,786 m ist, muss 16,8 m gerundet werden. Bei 0,086434 s, sollte 0,0864 s überprüft werden. <br> __Signifikante Stellen__ sind diejenigen Ziffern, die nach den führenden Nullen folgen.
 </bdi>
 
-1. Eine Achterbahn soll eine Loopingkurve durchfahren. Sie durchfährt den höchsten Punkt des Kreises mit der Geschwindigkeit 50 km/h. Wie groß darf der Radius der Kreisbahn höchstens sein?
+1. Eine Achterbahn soll eine Loopingkurve durchfahren. Sie durchfährt den höchsten Punkt des Kreises mit der Geschwindigkeit 50 km/h. Wie groß darf der Radius der Kreisbahn höchstens sein? 
 
-     <!-- data-solution-button="off" -->
-     [[ 19,7 ]] $m$
+@rangeQuiz2($\hspace{1cm}$ r,19.7,m)
 
 <p class="newspaper">
 
@@ -2921,8 +2944,7 @@ __Skizze:__
 
 2. b) (+) Der Looping hat einen Radius von 1,00 m. Ermitteln Sie den Wert der Radialkraft im Punkt D (welche durch die Bahn als Zwangskraft ausgeübt wird).
 
-    <!-- data-solution-button="off" -->
-    __Endergebnis:__ $F_R$ = [[ 0,733 ]] N
+@rangeQuiz2($\hspace{1cm}$ $F_R$, 0.733, N)
 
 <div style="text-indent:10%">
 
@@ -2938,8 +2960,7 @@ __Skizze:__
 
 2. c) (++) Der Körper soll die Loopingbahn vollständig durchlaufen. Wird zuvor die Feder nicht ausreichend zusammengedrückt, reicht die Geschwindigkeit im Punkt C nicht aus, um komplett durch den Kreis zu kommen. <br> Ermitteln Sie die Strecke s, welche die Feder mindestens zusammengedrückt werden muss, damit der Körper den Looging durchlaufen kann.
 
-    <!-- data-solution-button="off" -->
-    __Endergebnis:__ $s$ = [[ 9,34 ]] cm
+@rangeQuiz2($\hspace{1cm}$ s, 9.34, cm)
 
 <div style="text-indent:10%">
 
@@ -2995,9 +3016,7 @@ $$ s \approx 0,0934 m = 9,34 cm $$
 
 2. d) (++) Nach dem Durchlaufen der Looping-Bahn bewegt sich der Wagen von C nach F fort. Auf dieser Streckt beträgt die Reibungszahl 0,5. Der Körper hat im Punkt F eine Geschwindigkeit von $5 \frac{m}{s}$. Ermittlen Sie die Länge der Strecke $l = \overline{CF}$.
 
-
-    <!-- data-solution-button="off" -->
-    __Endergebnis:__ $l$ = [[ 3,19 ]] m
+@rangeQuiz2($\hspace{1cm}$ l, 3.19, m)
 
 <div style="text-indent:10%">
 
@@ -3029,8 +3048,7 @@ $$ l \approx 3,19 m $$
 
 2. e) (+++) Vom Punkt F aus geht es reibungsfrei weiter. Der nach unten gehende Bogen hat einen Radius $r_2$ von 3,00 m. Im Punkt G löst sich der Wagen von der Bahn und hebt ab. Ermitteln Sie den Winkel Alpha?
 
-    <!-- data-solution-button="off" -->
-    __Endergebnis:__ $\alpha$ = [[ 18,2 ]] °
+@rangeQuiz2($\hspace{1cm}$ $\alpha$, 18.2, °)
 
 <div style="text-indent:10%">
 
