@@ -3048,7 +3048,7 @@ $$ l \approx 3,19 m $$
 
 @uhr
 
-![KinematikUndDynamik](https://www.online-wissensdatenbank.de/wp-content/uploads/2023/12/kinematik-grundlagen-der-bewegungslehre.jpg)
+![KinematikUndDynamik](https://www.online-wissensdatenbank.de/wp-content/uploads/2023/12/kinematik-grundlagen-der-bewegungslehre.jpg "Bild-Quelle: https://www.online-wissensdatenbank.de")
 
 ## 3.1. Einführung in die Analyse von Bewegungen
 
