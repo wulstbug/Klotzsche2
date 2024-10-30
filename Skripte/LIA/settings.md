@@ -48,6 +48,21 @@ h1, h2, h3, h4, h5, h6 {
 }
 @end
 
+@rangeQuiz
+[[@0]]
+<script>
+let input1 = "@input".replace(/,/g, ".")
+let input = input1.replace(/N$/, '');
+
+try {
+    input = Math.abs(eval(input)-@0)/Math.abs(input)
+    
+    input <= 0.03
+} catch (e) {
+    false
+}
+@end
+
 -->
 
 # Settings for LIA
