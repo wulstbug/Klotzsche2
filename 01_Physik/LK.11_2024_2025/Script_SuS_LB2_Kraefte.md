@@ -1442,6 +1442,8 @@ Wir betrachten einen Körper, der auf einer festen Schiene gleitet, welche einen
 
 1. Eine Achterbahn soll eine Loopingkurve durchfahren. Sie durchfährt den höchsten Punkt des Kreises mit der Geschwindigkeit 50 km/h. Wie groß darf der Radius der Kreisbahn höchstens sein? 
 
+     __Endergebnis:__
+
 @rangeQuiz2($\hspace{1cm}$ r,19.7,m)
 
 <p class="newspaper">
@@ -1476,6 +1478,8 @@ __Skizze:__
 
 2. b) (+) Der Looping hat einen Radius von 1,00 m. Ermitteln Sie den Wert der Radialkraft im Punkt D (welche durch die Bahn als Zwangskraft ausgeübt wird).
 
+     __Endergebnis:__
+
 @rangeQuiz2($\hspace{1cm}$ $F_R$, 0.733, N)
 
 <div style="text-indent:10%">
@@ -1491,6 +1495,8 @@ __Skizze:__
 </div>
 
 2. c) (++) Der Körper soll die Loopingbahn vollständig durchlaufen. Wird zuvor die Feder nicht ausreichend zusammengedrückt, reicht die Geschwindigkeit im Punkt C nicht aus, um komplett durch den Kreis zu kommen. <br> Ermitteln Sie die Strecke s, welche die Feder mindestens zusammengedrückt werden muss, damit der Körper den Looging durchlaufen kann.
+
+     __Endergebnis:__
 
 @rangeQuiz2($\hspace{1cm}$ s, 9.34, cm)
 
@@ -1548,6 +1554,8 @@ $$ s \approx 0,0934 m = 9,34 cm $$
 
 2. d) (++) Nach dem Durchlaufen der Looping-Bahn bewegt sich der Wagen von C nach F fort. Auf dieser Streckt beträgt die Reibungszahl 0,5. Der Körper hat im Punkt F eine Geschwindigkeit von $5 \frac{m}{s}$. Ermittlen Sie die Länge der Strecke $l = \overline{CF}$.
 
+     __Endergebnis:__
+
 @rangeQuiz2($\hspace{1cm}$ l, 3.19, m)
 
 <div style="text-indent:10%">
@@ -1579,6 +1587,8 @@ $$ l \approx 3,19 m $$
 </div>
 
 2. e) (+++) Vom Punkt F aus geht es reibungsfrei weiter. Der nach unten gehende Bogen hat einen Radius $r_2$ von 3,00 m. Im Punkt G löst sich der Wagen von der Bahn und hebt ab. Ermitteln Sie den Winkel Alpha?
+
+     __Endergebnis:__
 
 @rangeQuiz2($\hspace{1cm}$ $\alpha$, 18.2, °)
 
