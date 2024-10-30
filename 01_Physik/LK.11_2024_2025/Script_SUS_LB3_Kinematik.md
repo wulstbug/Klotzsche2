@@ -59,8 +59,6 @@ window.LIA.settings.font_size = 2
 
 # LB 3 Kinematik und Dynamik - Praktikum
 
-@uhr
-
 ![KinematikUndDynamik](https://www.online-wissensdatenbank.de/wp-content/uploads/2023/12/kinematik-grundlagen-der-bewegungslehre.jpg)
 
 ## 3.1. Einführung in die Analyse von Bewegungen
