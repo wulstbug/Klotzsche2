@@ -1,58 +1,23 @@
 <!--
-author: Christian Golnik
-
-language: de
-
 @style
 .lia-effect__circle {
     display: none !important;
 }
 @end
 
-@uhr
-<div style="position: fixed; right:50px; top:100px;">
-
-<details>
-
-<summary> Uhrzeit </summary>
-
-<div style="text-align:left;padding:1em 0;"> 
-
-<iframe src="https://www.zeitverschiebung.net/clock-widget-iframe-v2?language=de&size=large&timezone=Europe%2FBerlin" width="100%" height="150" frameborder="0" seamless></iframe> 
-
-</div>
-
-</details>
-
-</div>
-@end
-
 @color
 <div style="color:@1">@0</div>
 @end
 
-@media (min-width: 600px) {
-    .newspaper {
-        column-count: 2;
-        column-gap: 40px;
-        column-rule: 1px solid lightblue;
-    }
-}
-
-h1, h2, h3, h4, h5, h6 {
-  column-span: all;
-}
-
-.cb {
-    break-before: column;
-}
+@test
+end
 @end
 
 @rangeQuiz
-[[@0]]
+<!-- data-solution-button="off" -->
+[[ @0 ]]
 <script>
-let input1 = "@input".replace(/,/g, ".")
-let input = input1.replace(/N$/, '');
+let input = "@input".replace(",", ".")
 
 try {
     input = Math.abs(eval(input)-@0)/Math.abs(input)
@@ -61,6 +26,7 @@ try {
 } catch (e) {
     false
 }
+</script>
 @end
 
 -->
@@ -70,3 +36,7 @@ try {
 Image Centered
 
 ![Plattenkondensator](https://diversewolken.ddns.net/nextcloud/index.php/s/Sw39rmgGTYbZL7S/download) <!--style="display:block;margin-left:auto;margin-right:auto; max-width:400px"-->
+
+# RangeQuiz
+
+@rangeQuiz(0.5)
