@@ -671,8 +671,8 @@ __Video: Wie funktioniert ein Generator?__
 
 6. Wahr oder falsch? Bei einem Generator muss der Magnet fest sein (Stator) und die Spule drehend (Rotor).
 
-     [(X)] wahr
-     [( )] falsch
+     [( )] wahr
+     [(X)] falsch
      
 7. Welches Prinzip liegt der Stromerzeugung in einem Generator zugrunde?
 

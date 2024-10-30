@@ -1450,7 +1450,7 @@ __Skizze:__
 
 </div>
 
-2. b) (+) Der Looping hat einen Radius von 1,00 m. Ermitteln Sie den Wert der Radialkraft (welche durch die Bahn als Zwangskraft ausgeübt wird).
+2. b) (+) Der Looping hat einen Radius von 1,00 m. Ermitteln Sie den Wert der Radialkraft im Punkt D (welche durch die Bahn als Zwangskraft ausgeübt wird).
 
     <!-- data-solution-button="off" -->
     __Endergebnis:__ $F_R$ = [[ 0,733 ]] N
