@@ -63,6 +63,29 @@ window.LIA.settings.font_size = 2
 </div>
 @end
 
+@rangeQuiz2
+<div style="display: flex;flex-direction: row;flex-wrap: nowrap">
+<div style="float:left">
+@0$\ =\ $
+</div> 
+<div style="float:left">
+<!-- data-solution-button="off" -->
+[[ @1 ]]
+<script>
+let input = "@input".replace(",", ".")
+try {
+    input = Math.abs(eval(input)-@1)/Math.abs(input)
+    input <= 0.03
+} catch (e) {
+    false
+}
+</script>
+</div> 
+<div style="float:left">
+@2
+</div>
+</div>
+@end
 
 @@@ ogy.de/11ph3 deaktivieren: https://ogy.de/del.cvv2y5l7old0u7gamlc1
 
@@ -1630,6 +1653,174 @@ Gewichtskraft und elektrische Kraft müssen gleich groß sein, damit das Proton 
 5. 7. [LEIFI-Quiz zur Kondensatorformel](https://www.leifiphysik.de/elektrizitaetslehre/kondensator-kapazitaet/aufgabe/quiz-zur-kondensatorformel)
 
 ## 1.6 Potentielle Energie elektrischer Ladungen im Feld eines Plattenkondensators
+
+![Tafelbild_potEnergie_EFeld](https://diversewolken.ddns.net/nextcloud/index.php/s/Po989qzJJYmz4AJ/download)
+
+### Aufgabe zur elektrischen potentiellen Energie
+
+6. Wir betrachten ein Elektron im elektrischen Feld eines Plattenkondensators. Im Raum zwischen den Platten sei Vakuum, die Platten haben eine Querschnittsfläche von $0,02\,m^2$, einen Abstand von $10\,cm$. Am Kondensator sei eine Spannung von $500\,V$ angelegt.
+
+---
+
+6. 1. Gib die elektrische Ladung und die Masse des Elektrons an.
+
+     ---
+
+     __Ergebnisse:__
+
+     _Hinweis: 10er-Potenzen (z.b: $10^{-9}$ können hier mit dem Buchstaben $\footnotesize\textbf{E}$ angegeben werden (wie im CAS EXP-Taste)._
+
+     ![GTR](https://diversewolken.ddns.net/nextcloud/index.php/s/939gMiCMEoNn7bL/download)<!-- style="width:80%" -->
+
+@rangeQuiz2($\hspace{1cm}$ $q$, 1.602E-19, C)
+
+---
+
+@rangeQuiz2($\hspace{1cm}$ $m_e$, 9.109E-31, kg)
+
+<div style="text-indent:10%"> 
+
+<details>
+
+<summary> Hinweis </summary>
+
+siehe Formelsammlung _Naturkonstanten_
+
+</details>
+
+</div>
+
+6. 2. Bestimme den Wert des elektrische Feldes innerhalb des Kondensators.
+
+     ---
+
+     __Ergebnisse:__   
+
+@rangeQuiz2($\hspace{1cm}$ $E_{el}$, 5000, $\frac{V}{m}$)
+
+<div style="text-indent:10%"> 
+
+<details>
+
+<summary> Hinweis </summary>
+
+siehe Formelsammlung _Elektrisches Feld im Plattenkondensator_
+
+</details>
+
+</div>
+
+---
+
+6. 3. Ermittle die elektrische Kraft, die auf das Elektron wirkt und vergleiche sie mit der Gewichtskraft, die auf das Elektron wirkt.
+
+     ---
+
+     __Ergebnisse:__   
+
+@rangeQuiz2($\hspace{1cm}$ $F_{el}$, 8.01e-16, $N$)
+
+@rangeQuiz2($\hspace{1cm}$ $F_{g}$, 8.936e-30, $N$)
+
+<div style="text-indent:10%"> 
+
+<details>
+
+<summary> Hinweis zum Vergleich</summary>
+
+Die elektrische Kraft $F_{el}=8.01\footnotesize\textbf{E}-16\,N$ ist viel viel größer, als die Gewichtskraft $F_g=8,94\footnotesize\textbf{E}-30\,N$. 
+
+Mit anderen Worten, die Gewichtskraft kann man für dieses Beispiel vernachlässigen.
+
+</details>
+
+</div>
+
+---
+
+6. 4. Ermittle die potentielle elektrische Energie, die dem Elektron hinzugefügt wird, wenn es von der positiven Platte des Kondensators zur negativen Platten _angehoben_ wird.
+
+     ---
+
+     __Ergebnisse:__   
+
+@rangeQuiz2($\hspace{1cm}$ $E_{pot\ el}$, 8.01e-17, $J$)
+
+<div style="text-indent:10%"> 
+
+<details>
+
+<summary> Hinweis zur Berechnung</summary>
+
+siehe Skript 1.6: $E_{pot\,el} = F_{el} \cdot d$
+
+</details>
+
+</div>
+
+---
+
+6. 5. Wenn das Elektron an der negativen Platten angekommen ist, wird es aus der Ruhe heraus losgelassen. Ermittle die Beschleunigung, mit welcher das Elektron beschleunigt wird. Ermittle auch die Geschwindigkeit, die es besitzt, wenn es bei der positiven Platten ankommt (nutze dafür die Energieerhaltung). <br> _Hinweis: Hier kommen sehr große Werte heraus._
+
+     ---
+
+     __Ergebnisse:__   
+
+@rangeQuiz2($\hspace{1cm}$ $a$, 8.794e14, $\frac{m}{s^2}$)
+
+<div style="text-indent:10%"> 
+
+<details>
+
+<summary> Hinweis zur Beschleunigung</summary>
+
+Die Beschleunigung lässt sich nach dem zweiten Newton'schen Gesetz berechnen.
+
+<details>
+
+<summary> Berechung zur Beschleunigung</summary>
+
+$$ F_{el} = m_e \cdot a$$ 
+
+$$ a = \frac{F_{el}}{m_e} = \frac{8,01 \cdot 10^{-16} N}{9,11 \cdot 10^{-31} kg}$$ 
+
+$$ a = 8,79 \cdot 10^{-14} \Big[ \frac{N}{kg} = \frac{m}{s^2} \Big] $$ 
+
+</details>
+
+</details>
+
+</div>
+
+---
+
+@rangeQuiz2($\hspace{1cm}$ $v$, 1.326e7, $\frac{m}{s}$)
+
+<div style="text-indent:10%"> 
+
+<details>
+
+<summary> Hinweis zur Geschwindigkeit</summary>
+
+Setze die potentielle elektrische Energie aus 6.4 mit der kinetischen Energie gleich und löse nach der Geschwindigkeit auf.
+
+<details>
+
+<summary> Berechung zur Geschwindigkeit</summary>
+
+$$ E_{pot\,el} = E_{kin}$$ 
+
+$$ E_{pot\,el} = \frac{1}{2}\cdot m_e \cdot v^2$$ 
+
+$$ v = \sqrt{ \frac{2\cdot E_{pot\,el}}{m_e}} = \sqrt{ \frac{2\cdot 8,01 \cdot 10^{-17} J}{9,019 \cdot 10^{-31} kg}} $$ 
+
+$$ v = 1,326 \cdot 10^{7} \frac{m}{s} $$
+
+</details>
+
+</details>
+
+</div>
 
 ## 1.7 Pendel im elektrischen Feld
 
