@@ -868,4 +868,26 @@ __Lösungen:__
 
 [QuizZumGenerator](https://www.leifiphysik.de/elektrizitaetslehre/induktion-und-transformator/aufgabe/quiz-zum-generator)
 
-## Bring dein Tablet zurück in den Tabletschrank!
+## Aufgabe zur Wechselspannung 4
+
+Eine Glühlampe wird (mit einem Schutzwiderstand) an eine Wechselspannung angeschlossen. 
+
+@color(_Was kann man beobachten?_, blue) <br> <br>
+
+<p class="newspaper">
+
+{1}{![GlühlampeWechselSpannung](https://diversewolken.ddns.net/nextcloud/index.php/s/3C3Bgw3RmCExGNy/download)}
+
+<p class="cb">
+
+{{2}}
+*******
+@color(Notiere deine Vermutung, blue)
+
+__Bring dein Tablet zurück in den Tabletschrank!__
+*******
+
+</p>
+
+</p>
+
