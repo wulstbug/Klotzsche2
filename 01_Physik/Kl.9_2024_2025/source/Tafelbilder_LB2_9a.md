@@ -730,3 +730,6 @@ __Video: Wie funktioniert ein Generator?__
 </p>
 **********
 
+## 2.9 Generator-Spannung
+
+??[Fendt_Generator](https://www.walter-fendt.de/html5/phde/generator_de.htm)
