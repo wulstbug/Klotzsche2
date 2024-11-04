@@ -86,7 +86,7 @@ window.LIA.settings.font_size = 2
 <script>
 let input = "@input".replace(",", ".")
 try {
-    input = Math.abs(eval(input)-@1)/Math.abs(input)
+    input = Math.abs(eval(input)-@1)/Math.abs(@1)
     input <= 0.03
 } catch (e) {
     false
