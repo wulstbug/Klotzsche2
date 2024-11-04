@@ -732,4 +732,10 @@ __Video: Wie funktioniert ein Generator?__
 
 ## 2.9 Generator-Spannung
 
+# Simulation 1
+
+??[PHET_Generator](https://phet.colorado.edu/sims/html/generator/latest/generator_all.html?locale=de)
+
+# Simulation 2
+
 ??[Fendt_Generator](https://www.walter-fendt.de/html5/phde/generator_de.htm)
