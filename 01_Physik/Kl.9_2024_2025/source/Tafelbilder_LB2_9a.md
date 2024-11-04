@@ -867,3 +867,5 @@ __Lösungen:__
 ## Aufgaben zur Wechselspannung 3
 
 [QuizZumGenerator](https://www.leifiphysik.de/elektrizitaetslehre/induktion-und-transformator/aufgabe/quiz-zum-generator)
+
+## Bring dein Tablet zurück in den Tabletschrank!
