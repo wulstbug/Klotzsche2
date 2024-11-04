@@ -770,7 +770,7 @@ __Video: Wie funktioniert ein Generator?__
 [LEIFI-Generator](https://www.leifiphysik.de/elektrizitaetslehre/wechselstromtechnik/versuche/erzeugung-sinusfoermiger-wechselspannung)
 
 
-## 2.9 Die Generator-Spannung
+## 2.9 Die induzierte Spannung am Generator
 
 > Ein Generator in seiner einfachsten Bauform mit Magnet und Spule erzeugt eine Spannung, die mit der Zeit ihren __Wert__ und ihr __Vorzeichen__ (d.h. $\oplus$ und $\ominus$ ) ändert.
 >
@@ -811,7 +811,10 @@ Eine Diode wird (mit einem Schutzwiderstand) an eine Wechselspannung angeschloss
 
 <p class="cb">
 
-{2}{?![Diode50Hz](https://youtu.be/qXN1QMhcvEU)}
+{{2}}
+*******
+!?[Diode50Hz](https://youtu.be/qXN1QMhcvEU)
+*******
 
 </p>
 
@@ -826,7 +829,7 @@ __Beobachtung:__ Da die Spannung ständig die Pole ändert, wird die Diode regel
 
 ## Aufgaben zur Wechselspannung 1
 
-Bestimme für die Wechselspannung Amplitude, Periodendauer und Frequenz (_Achte auf die Einheiten_).
+Bestimme für die Netzspannung einer Haushaltssteckdose Amplitude, Periodendauer und Frequenz (_Achte auf die Einheiten_).
 
 ![Netzspannung](https://diversewolken.ddns.net/nextcloud/index.php/s/jmBedzyFa2xBTLF/download "Quelle: https://www.sonnentaler.net/dokumentation/wiss/elektrizitaet/grundlagen/elektrik-im-haus/")<!-- style="min-width:60%"-->
 
@@ -841,6 +844,15 @@ Bestimme für die Wechselspannung Amplitude, Periodendauer und Frequenz (_Achte 
 3. Frequenz
 
 @rangeQuiz2($\hspace{1cm}$$f$, 50, $\dfrac{1}{s}$)
+
+## 2.11 Die Netzspannung im Haushalt
+
+> Die Spannung an einer herkömmlichen Steckdose hat eine Amplitude von $\hat{U} = 325 V$. 
+>
+> Im Alltag wird aber ein Mittelwert angegeben, er beträgt $\bar{U} = 230 V$.
+>
+> Die Frequenz beträgt $f = 50 Hz= 50 \frac{1}{s}$.
+
 
 ## Aufgaben zur Wechselspannung 2
 
