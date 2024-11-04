@@ -833,6 +833,10 @@ Bestimme für die Netzspannung einer Haushaltssteckdose Amplitude, Periodendauer
 
 ![Netzspannung](https://diversewolken.ddns.net/nextcloud/index.php/s/jmBedzyFa2xBTLF/download "Quelle: https://www.sonnentaler.net/dokumentation/wiss/elektrizitaet/grundlagen/elektrik-im-haus/")<!-- style="min-width:60%"-->
 
+@color(_Hinweis: 1000 ms = 1 s_, red)
+
+__Lösungen:__
+
 1. Amplitude 
 
 @rangeQuiz2($\hspace{1cm}$ $\hat{U}$, 325, $V$)
@@ -852,6 +856,8 @@ Bestimme für die Netzspannung einer Haushaltssteckdose Amplitude, Periodendauer
 > Im Alltag wird aber ein Mittelwert angegeben, er beträgt $\bar{U} = 230 V$.
 >
 > Die Frequenz beträgt $f = 50 Hz= 50 \frac{1}{s}$.
+
+@color(_Notiere folgende Übersicht im Hefter._,blue)
 
 
 ## Aufgaben zur Wechselspannung 2
