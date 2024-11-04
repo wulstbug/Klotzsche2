@@ -3197,11 +3197,11 @@ __Aufgaben:__
 
 1. Mache dich mit der Videoanalyse in VIANA 2 vertraut
 
-2. Nimme eine gleichmäßg beschleunigte Bewegun auf und stelle sie im x(t)-Diagramm dar (z.B. rollende Kugel). Schau dir auch das v(t)-Diagramm an. <br> 
+2. Nimme eine gleichmäßg beschleunigte Bewegung anhand der Erklärung im Unterricht auf. 
 
 3. Stelle das x(t) und v(t) Diagramm in der App __Numbers__ auf dem IPad dar. 
 
-4. Ermittle die Beschleunigung der Kugel.
+4. Ermittle die Beschleunigung aus den Messwerten der Kugel.
 
 @rangeQuiz20($\hspace{1cm}$ $a$, 0.2, $\frac{m}{s^2}$)
 

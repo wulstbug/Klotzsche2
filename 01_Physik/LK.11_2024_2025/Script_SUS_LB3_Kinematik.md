@@ -51,6 +51,56 @@ h1, h2, h3, h4, h5, h6 {
 <div style="color:@1">@0</div>
 @end
 
+
+@rangeQuiz2
+<div style="display: flex;flex-direction: row;flex-wrap: nowrap">
+<div style="float:left">
+@0 = 
+</div> 
+<div style="float:left">
+<!-- data-solution-button="off" -->
+[[ @1 ]]
+<script>
+let input = "@input".replace(",", ".")
+try {
+    input = Math.abs(eval(input)-@1)/Math.abs(@1)
+    input <= 0.03
+} catch (e) {
+    false
+}
+</script>
+</div> 
+<div style="float:left">
+@2
+</div>
+</div>
+@end
+
+@rangeQuiz20
+<div style="display: flex;flex-direction: row;flex-wrap: nowrap">
+<div style="float:left">
+@0 = 
+</div> 
+<div style="float:left">
+<!-- data-solution-button="off" -->
+[[ @1 ]]
+<script>
+let input = "@input".replace(",", ".")
+try {
+    input = Math.abs(eval(input)-@1)/Math.abs(@1)
+    input <= 0.2
+} catch (e) {
+    false
+}
+</script>
+</div> 
+<div style="float:left">
+@2
+</div>
+</div>
+@end
+
+
 @onload
 window.LIA.settings.font_size = 2
 @end
@@ -166,7 +216,14 @@ __Aufgaben:__
 
 1. Mache dich mit der Videoanalyse in VIANA 2 vertraut
 
-2. Nimm eine gleichförmige Bewegung auf und stelle sie im x(t)-Diagramm dar (z.B. rollende Kugel). Schau dir auch das v(t)-Diagramm an
+2. Nimme eine gleichmäßg beschleunigte Bewegung anhand der Erklärung im Unterricht auf. 
 
-3. Nimme eine gleichmäßg beschleunigte Bewegun auf und stelle sie im x(t)-Diagramm dar (z.B. rollende Kugel). Schau dir auch das v(t)-Diagramm an
+3. Stelle das x(t) und v(t) Diagramm in der App __Numbers__ auf dem IPad dar. 
+
+4. Ermittle die Beschleunigung aus den Messwerten der Kugel.
+
+@rangeQuiz20($\hspace{1cm}$ $a$, 0.2, $\frac{m}{s^2}$)
+
+_Hinweis: Bei dieser Überprüfung wird eine Ungenauigkeit von 20% gegenüber der Vergleichsmessung der Lehrkraft akzeptiert._
+
 **********
