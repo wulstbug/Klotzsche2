@@ -52,6 +52,28 @@ window.LIA.settings.font_size = 2
 </div>
 @end
 
+@timer
+
+<div style="position: fixed; right:50px; top:100px;">
+
+<details>
+
+<summary> Timer(@0:@1) </summary>
+
+<div style="text-align:left;padding:1em 0;"> 
+
+<iframe width="200" height="90" src="https://webuhr.de/embed/timer/#countdown=00:@0:@1&enabled=0&onzero=0&theme=0&ampm=0&sound=xylophone" frameborder="0" allowfullscreen>
+
+</iframe> 
+
+</div>
+
+</details>
+
+</div>
+
+@end
+
 mode: presentation
 
 -->
@@ -638,13 +660,27 @@ __Video: Wie funktioniert ein Generator?__
 
 ### Fragen zum Generator 2
 
+@timer(8,00)
+
+@color(Beantwortet die Fragen 1 und 2 auf dem Arbeitsblatt __allein__. Überprüft anschließend mit dem Nachbarn/der Nachbarin gegenseitig die Fragen 3.-8.)
+
 1. Bei einem Generator wird das Induktionsgesetz genutzt. Notiere es.
 
     {1}{<bdi style="color:orange">In einer Spule wird eine Spannung induziert, solange sich das von der Spule umfasste Magnetfeld ändert.</bdi>}
 
-2. Beschreibe anhand der Skizze den Aufgab eines Wechselstromgenerators.
+<p class="newspaper">
+
+2. Beschreibe anhand der Skizze den Aufgab eines Wechselstromgenerators. 
 
     {2}{<bdi style="color:orange"> Ein Wechselstromgenerator besteht aus einem rotierenden Magneten (Rotor) und fest stehenden Induktionsspulen (Stator). </bdi>}
+
+<p  class="cb">
+
+![AB_Generator](https://diversewolken.ddns.net/nextcloud/index.php/s/5m3cZF62Y7DoNms/download)
+
+</p>
+
+</p>
 
 {{3}}
 **********
@@ -693,3 +729,4 @@ __Video: Wie funktioniert ein Generator?__
 
 </p>
 **********
+

@@ -51,6 +51,28 @@ window.LIA.settings.font_size = 2
 </div>
 @end
 
+@timer
+
+<div style="position: fixed; right:50px; top:100px;">
+
+<details>
+
+<summary> Timer(@0:@1) </summary>
+
+<div style="text-align:left;padding:1em 0;"> 
+
+<iframe width="200" height="90" src="https://webuhr.de/embed/timer/#countdown=00:@0:@1&enabled=0&onzero=0&theme=0&ampm=0&sound=xylophone" frameborder="0" allowfullscreen>
+
+</iframe> 
+
+</div>
+
+</details>
+
+</div>
+
+@end
+
 mode: presentation
 
 -->
