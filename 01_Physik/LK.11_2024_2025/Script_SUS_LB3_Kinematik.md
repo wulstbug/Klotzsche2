@@ -48,7 +48,7 @@ h1, h2, h3, h4, h5, h6 {
 @end
 
 @color
-<div style="color:@1">@0</div>
+<bdi style="color:@1">@0</bdi>
 @end
 
 
@@ -212,6 +212,21 @@ __Möglichkeiten zur zeitlichen Analyse von Bewegungen gibt es viele:__
 **********
 __Heute:__ Videoanalyse-Tool VIANA 2
 
+@color(_Hinweise zur Handhabung:_,blue)
+
+1. Positioniere die Kamera so, dass sie sich nicht bewegt.
+
+2. Achte auf einen guten Kontrast zwischen bewegtem Objekt und Hintergrund während der gesamten Bewegung.
+
+3. Führe vor der Aufnahme ein paar Beispielabläufe durch.
+
+4. Markiere die vorab einen möglichst großen Streckenabschnitt im Bewegungsraum.
+
+5. Bei eindimensionalen Bewegungen sollte das Koordinatensystem so ausgerichtet werden, dass sich das Objekt entlang der x-Achse bewegt.
+*********
+
+{{2}}
+*********
 __Aufgaben:__
 
 1. Mache dich mit der Videoanalyse in VIANA 2 vertraut
