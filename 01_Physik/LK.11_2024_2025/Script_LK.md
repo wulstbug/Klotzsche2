@@ -3218,7 +3218,7 @@ __Aufgaben:__
 
 4. Ermittle die Beschleunigung aus den Messwerten der Kugel.
 
-@rangeQuiz20($\hspace{1cm}$ $a$, 0.2, $\frac{m}{s^2}$)
+@rangeQuiz20($\hspace{1cm}$ $a$, 0.11, $\frac{m}{s^2}$)
 
 _Hinweis: Bei dieser Überprüfung wird eine Ungenauigkeit von 20% gegenüber der Vergleichsmessung der Lehrkraft akzeptiert._
 
