@@ -3112,7 +3112,7 @@ __Formelzeichen:__
 > 
 > $a$ ..Beschleunigung $\Big[ \dfrac{m}{s^2} \Big]$
 >
-> $a_x$, $a_y$, $a_z$ .. Geschwindigkeits-Komponenten in x- y- bzw. z-Richtung
+> $a_x$, $a_y$, $a_z$ .. Beschleunigungs-Komponenten in x- y- bzw. z-Richtung
 
 </div>
 *******
