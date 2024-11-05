@@ -796,7 +796,7 @@ __Eigenschaften einer Wechselspannung:__
 | | | |
 | {3}{__Amplitude $\hat{U}$__} | {4}{__Periodendauer $T$__} |  {6}{__Frequenz $f=\frac{1}{T}$__} |
 | {3}{Die Amplitude gibt den @color(Maximalwert der Spannung,orange) an.} | {4}{@color(Zeit, orange) zwischen zwei Maxima.} | {6}{Die Frequenz gibt an, wie oft die Spannung ihren @color(Maximalwert pro Sekunde, orange) erreicht.} |
-| {3}{Einheit [V]} | {4}{Einheit [s]} | {6}{Einheit [$\frac{1}{s}$]} |
+| {3}{Einheit [V]} | {4}{Einheit [s]} | {6}{Einheit __1 Hertz__  [ 1Hz = $\frac{1}{s}$]} |
 **********
 
 ## 2.10 Wechselspannung und Dioden
