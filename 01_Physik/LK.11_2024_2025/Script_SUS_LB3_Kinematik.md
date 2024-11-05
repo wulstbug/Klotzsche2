@@ -245,6 +245,8 @@ _Hinweis: Bei dieser Überprüfung wird eine Ungenauigkeit von 20% gegenüber de
 
 ## 3. 4. Bewegungsgleichungen für gleichförmige und gleichmäßig beschleunigte Bewegung
 
+@timer(10, 0)
+
 @color(Fertige eine Übersicht mit den Bewegungsgleichungen zur gleichförmigen und gleichmäßig beschleunigten Bewegung an. Ergänze die fehlenden Punkte., blue)
 
 
