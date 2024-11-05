@@ -687,7 +687,7 @@ __Video: Wie funktioniert ein Generator?__
 
 @timer(8,00)
 
-@color(Beantwortet die Fragen 1 und 2 auf dem Arbeitsblatt __allein__. Überprüft anschließend mit dem Nachbarn/der Nachbarin gegenseitig die Fragen 3.-8.)
+@color(Beantwortet die Fragen 1 und 2 auf dem Arbeitsblatt __allein__. Überprüft anschließend mit dem Nachbarn/der Nachbarin gegenseitig die Fragen 3.-8., blue)
 
 1. Bei einem Generator wird das Induktionsgesetz genutzt. Notiere es.
 
