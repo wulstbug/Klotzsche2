@@ -3261,13 +3261,28 @@ _Hinweis: Bei dieser Überprüfung wird eine Ungenauigkeit von 20% gegenüber de
 | phys. Größen | .. | .. |
 *****************
 
-{{1}}
+{{1-2}}
+*****************
+| | Gleichförmige Bewegung | Gleichmäßig beschleunigte Bewegung |
+| --- | --- | --- |
+| Bedingungen für Gültigkeit | $v(t) = konst. = v$ | |
+| Bewegungsgleichungen | $s(t) = v \cdot t + s_0$ <br> $a(t) = 0$ | |
+| phys. Größen | $v$ .. Geschwindigkeit <br> $s_0$ .. Anfangsweg |  |
+****************
+
+{{2}}
 *****************
 | | Gleichförmige Bewegung | Gleichmäßig beschleunigte Bewegung |
 | --- | --- | --- |
 | Bedingungen für Gültigkeit | $v(t) = konst. = v$ | $a(t) = const. = a$ |
 | Bewegungsgleichungen | $s(t) = v \cdot t + s_0$ <br> $a(t) = 0$ | $s(t) = \frac{1}{2} \cdot a \cdot t^2 + v_0 \cdot t + s_0$ <br> $v(t) = a \cdot t +v_0$ |
 | phys. Größen | $v$ .. Geschwindigkeit <br> $s_0$ .. Anfangsweg | $a .. $ Beschleunigung <br> $v_0$ .. Anfangsgeschwindigkeit <br> $s_0$ .. Anfangsweg |
+****************
+
+
+
+{{3}}
+****************
 
 __Graphen zu den Bewegungsgleichungen:__
 
