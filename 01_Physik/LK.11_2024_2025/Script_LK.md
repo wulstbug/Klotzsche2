@@ -3226,12 +3226,30 @@ _Hinweis: Bei dieser Überprüfung wird eine Ungenauigkeit von 20% gegenüber de
 
 ## 3. 4. Bewegungsgleichungen für gleichförmige und gleichmäßig beschleunigte Bewegung
 
-@color(Fertige eine Übersicht mit den Bewegungsgleichungen zur gleichförmigen und gleichmäßig beschleunigten Bewegung an.)
+@color(Fertige eine Übersicht mit den Bewegungsgleichungen zur gleichförmigen und gleichmäßig beschleunigten Bewegung an. Ergänze die fehlenden Punkte., blue)
 
+{{0-1}}
+*****************
 | | Gleichförmige Bewegung | Gleichmäßig beschleunigte Bewegung |
-| Bedingungen für Gültigkeit | | |
-| Bewegungsgleichungen | | |
-| phys. Größen | | |
+| --- | --- | --- |
+| Bedingungen für Gültigkeit | .. | .. |
+| Bewegungsgleichungen | .. | .. |
+| phys. Größen | .. | .. |
+*****************
+
+{{1}}
+*****************
+| | Gleichförmige Bewegung | Gleichmäßig beschleunigte Bewegung |
+| --- | --- | --- |
+| Bedingungen für Gültigkeit | $v(t) = konst. = v$ | $a(t) = const. = a$ |
+| Bewegungsgleichungen | $s(t) = v \cdot t + s_0$ <br> $a(t) = 0$ | $s(t) = \frac{1}{2} \cdot a \cdot t^2 + v_0 \cdot t + s_0$ <br> $v(t) = a \cdot t +v_0$ |
+| phys. Größen | $v$ .. Geschwindigkeit <br> $s_0$ .. Anfangsweg | $a .. $ Beschleunigung <br> $v_0$ .. Anfangsgeschwindigkeit <br> $s_0$ .. Anfangsweg |
+
+__Graphen zu den Bewegungsgleichungen:__
+
+![TB_Bewegungsgraphen](https://diversewolken.ddns.net/nextcloud/index.php/s/ALC7i99HXpRtPwT/download)
+
+*****************
 
 ## 3. 5. Analyse einer gleichmäßig beschleunigten Bewegung
 

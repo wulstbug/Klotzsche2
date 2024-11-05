@@ -242,3 +242,46 @@ __Aufgaben:__
 _Hinweis: Bei dieser Überprüfung wird eine Ungenauigkeit von 20% gegenüber der Vergleichsmessung der Lehrkraft akzeptiert._
 
 **********
+
+## 3. 4. Bewegungsgleichungen für gleichförmige und gleichmäßig beschleunigte Bewegung
+
+@color(Fertige eine Übersicht mit den Bewegungsgleichungen zur gleichförmigen und gleichmäßig beschleunigten Bewegung an. Ergänze die fehlenden Punkte., blue)
+
+
+| | Gleichförmige Bewegung | Gleichmäßig beschleunigte Bewegung |
+| --- | --- | --- |
+| Bedingungen für Gültigkeit | .. | .. |
+| Bewegungsgleichungen | .. | .. |
+| phys. Größen | .. | .. |
+
+
+{{1}}
+*****************
+
+__Graphen zu den Bewegungsgleichungen:__
+
+![TB_Bewegungsgraphen](https://diversewolken.ddns.net/nextcloud/index.php/s/ALC7i99HXpRtPwT/download)
+
+*****************
+
+## 3. 5. Analyse einer gleichmäßig beschleunigten Bewegung
+
+<p style="color:blue">
+
+Analysiere die gleichmäßig beschleunigte Bewegung einer Kugel auf einer schiefen Ebene auf einer Strecke von s = 1m.
+
+1. Nutze Metzler LB S18/19. Lies den Abschnitt 1.1.4. 
+
+2. Zeichne eine Skizze und notiere alle geometrisch notwendigen Größen. Ermittle den Neigungswinkel der Ebene.
+
+3. Erstelle mit Hilfe der Videoanalyse-Software ein s(t) und ein zugehöriges v(t)-Diagramm. 
+
+4. Ermittle mit Hilfe der Bewegungsgleichung und eines Messwertes die Beschleunigung.
+
+5. Erzeuge mit Hilfe deiner berechneten Beschleunigung einen theoretische s(t) und v(t) Graph und stelle diese mit den jeweiligen Messwerten gemeinsam dar.
+
+6. Erzeuge aus den Diagrammen ein pdf und lade es hier hoch, du erhältst einen Ausdruck.
+
+7. Analysiere die auf die Kugel wirkenden Kräfte. Ermittle die wirkende Rollreibungskraft $F_R$ und den Rollreibungskoeffizienten $\mu_{roll}$.
+
+</p>
