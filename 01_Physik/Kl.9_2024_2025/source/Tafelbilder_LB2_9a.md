@@ -857,7 +857,7 @@ __Lösungen:__
 >
 > Die Frequenz beträgt $f = 50 Hz= 50 \frac{1}{s}$.
 
-![Netzspannung](https://diversewolken.ddns.net/nextcloud/index.php/s/jmBedzyFa2xBTLF/download "Quelle: https://www.sonnentaler.net/dokumentation/wiss/elektrizitaet/grundlagen/elektrik-im-haus/")
+![Netzspannung](https://diversewolken.ddns.net/nextcloud/index.php/s/jmBedzyFa2xBTLF/download)
 
 @color(_Notiere folgende Übersicht im Hefter._,blue)
 
