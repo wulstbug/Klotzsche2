@@ -285,3 +285,165 @@ Analysiere die gleichmäßig beschleunigte Bewegung einer Kugel auf einer schief
 7. Analysiere die auf die Kugel wirkenden Kräfte. Ermittle die wirkende Rollreibungskraft $F_R$ und den Rollreibungskoeffizienten $\mu_{roll}$.
 
 </p>
+
+### Aufgabe: Berechnungen an zusammengesetzten Bewegungen
+
+Erläuterung: Das folgende Diagramm wurde mit Hilfe der App Phyfox auf einer Autofahrt zwischen der _Tannenstraße (Dresden Neustadt)_ und der Haltstelle _Industriegebiet Süd_ aufgenommen. An Punkten, wo sich die Art der Bewegung ändert sich Markierungen auf dem Diagramm hinterlegt.
+
+Die farbig gekennzeichneten Bereiche können als gleichmäßig beschleunigte Bewegungen betrachtet werden.
+
+![Diagramm_PraktischeFahrt](https://diversewolken.ddns.net/nextcloud/index.php/s/K9XZ7yMM9n9AtLT/download)
+
+__Löse folgende Aufgaben. Zur Selbsüberprüfung gibt es die Kontrollkästchen. Bei fehlerhaften Lösungen bitte per E-Mail rückmelden.__
+
+1. Bestimme die gesamte Fahrtzeit (d.h. die gesamte Messzeit).
+
+@rangeQuiz2($\hspace{1cm}$ t, 370, s)
+
+---
+
+2. Bestimme den gesamten Fahrtweg (d.h. die gesamte Messstrecke). 
+
+@rangeQuiz2($\hspace{1cm}$ s, 3060, m)
+
+---
+
+3. Berechne die Geschwindigkeit  $v_2$, d.h. die Geschwindigkeit zwischen den Punkten 6 und 7 in der Einheit m/s.
+
+@rangeQuiz2($\hspace{1cm}$ $v_2$, 12.56 , $\frac{m}{s}$)
+
+---
+
+4. Berechne die Geschwindigkeit  $v_3$, d.h. die Geschwindigkeit zwischen den Punkten 8 und 9 in der Einheit km/h.
+
+@rangeQuiz2($\hspace{1cm}$ $v_3$, 63.16 , $\frac{m}{s}$)
+
+---
+
+5. Berechne die Durchschnittsgeschwindigkeit für die gesamte Messung/Fahrt (d..h von 0->11).
+
+@rangeQuiz2($\hspace{1cm}$ $\overline{v_{ges}}$, 8.27 , $\frac{m}{s}$)
+
+---
+
+6. Berechne die Durchschnittsgeschwindigkeit für die gesamte Messung/Fahrt ohne Wartephase an den Ampeln, d.h. berechne die Durchschnittsgeschwindigkeit für die reine Bewegungszeit.
+
+@rangeQuiz2($\hspace{1cm}$ $\overline{v'_{ges}}$, 11.91 , $\frac{m}{s}$)
+
+<div style="text-indent:10%">
+
+<details>
+
+<summary> Lösung 6. </summary>
+
+$ v_D = \frac{3060\,m}{370\,s-20\,s-73\,s-20s}= \frac{3060\,m}{257\,s} = 11,91 \frac{m}{s} = 15,15 \cdot 3,6 \frac{km}{h}  = 50 \frac{km}{h}$
+
+</details>
+
+</div>
+
+---
+
+7. Bestimme die Beschleunigungszeit zwischen den Punkten 5 und 6.
+
+@rangeQuiz2($\hspace{1cm}$ $\overline{t_{5->6}}$, 25 , s)
+
+---
+
+8. Ermittle die Gschwindigkeitsänderung $\Delta v_{7->8}$ zwischen den Punkten 7 und 8.
+
+@rangeQuiz2($\hspace{1cm}$ $\Delta v_{7->8}$, 4.985 , $\frac{m}{s}$)
+
+<div style="text-indent:10%">
+
+<details>
+
+<summary> Lösung 8. </summary>
+
+Die Geschwindigkeit $v_3$ beträgt $17,54 \frac{m}{s}$. Die Geschwindigkeit $v_2$ beträgt $12,56 \frac{m}{s}$. Die Änderung der Geschwindigkeit ist dann die Differenz $4,99 \frac{m}{s}$.
+
+</details>
+
+</div>
+
+---
+
+9. Ermittle die Beschleunigungen $a_{1->2}$, $a_{3->4}$, $a_{5->6}$, $a_{7->8}$ und $a_{9->10}$.
+
+@rangeQuiz2($\hspace{1cm}$ $\Delta a_{1->2}$, 1.72 , $\frac{m}{s^2}$)
+
+<div style="text-indent:10%">
+
+<details>
+
+<summary> Hinweis $a_{1->2}$  </summary>
+
+Die Beschleunigung kann ermittelt werden aus der Änderungen der Geschwindigkeit $\Delta v$ geteilt durch die dafür benötigte Zeit $\Delta t$.
+
+</details>
+
+<details>
+
+<summary> Lösung $a_{1->2}$  </summary>
+
+Die Geschwindigkeit im Abschnit 0->1 ist $0 \frac{m}{s}$. Die Geschwindigkeit im Abschnitt 2->3 ist 
+
+$$v_{2->3} = \frac{275m-60m}{50s-25s} = 8,6 \frac{m}{s}$$ 
+
+Damit ist die Geschwindigkeitsänderung $\Delta v_{1->2} = 8,6 -0 \frac{m}{s} = 8,6 \frac{m}{s}$.
+
+Die benötigte Zeit $\Delta t_{1->2} = 25s-20s = 5s$. Somit ist die Beschleunigung
+
+$$ a_{1->2} = \frac{\Delta v_{1->2}}{\Delta t_{1->2}} = \frac{8,6 \frac{m}{s}}{5s} = 1,72 \frac{m}{s^2}$$
+
+</details>
+
+</div>
+
+---
+
+@rangeQuiz2($\hspace{1cm}$ $\Delta a_{3->4}$, -0.319 , $\frac{m}{s^2}$)
+
+<div style="text-indent:10%">
+
+<details>
+
+<summary> Hinweis $a_{3->4}$  </summary>
+
+Eine _gleichmäßg gebremste Bewegung_ ist eine gleichmäßig beschleunigte Bewegung mit @color(negativer, red) Beschleunigung. Da hier die Geschwindigkeit von $8,6 \frac{m}{s}$ auf $0 \frac{m}{s}$ sinkt, ist die Geschwindigkeitsänderung negativ. D.h. $\Delta v_{3->4} = -8,6 \frac{m}{s}$.
+
+</details>
+
+<details>
+
+<summary> Lösung $a_{3->4}$  </summary>
+
+$$ a_{3->4} = \frac{\Delta v_{3->4}}{\Delta t_{3->4}} = \frac{-8,6 \frac{m}{s}}{27s} = -0,319 \frac{m}{s^2}$$
+
+</details>
+
+</div>
+
+---
+
+@rangeQuiz2($\hspace{1cm}$ $\Delta a_{5->6}$, 0.502 , $\frac{m}{s^2}$)
+
+---
+
+@rangeQuiz2($\hspace{1cm}$ $\Delta a_{7->8}$, 0.199 , $\frac{m}{s^2}$)
+
+<div style="text-indent:10%">
+
+<details>
+
+<summary> Lösung $a_{7->8}$  </summary>
+
+$$ a_{7->8} = \frac{\Delta v_{7->8}}{\Delta t_{7->8}} = \frac{v_{8->9} - v_{6->7}}{\Delta t_{7->8}} = \frac{17,54\frac{m}{s} - 12,56\frac{m}{s}}{25s}  = 0,199 \frac{m}{s^2} $$
+
+</details>
+
+</div>
+
+---
+
+@rangeQuiz2($\hspace{1cm}$ $\Delta a_{9->10}$, -0.877 , $\frac{m}{s^2}$)
