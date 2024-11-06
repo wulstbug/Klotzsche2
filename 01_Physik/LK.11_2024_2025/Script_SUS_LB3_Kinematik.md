@@ -288,7 +288,7 @@ Analysiere die gleichmäßig beschleunigte Bewegung einer Kugel auf einer schief
 
 ### Aufgabe: Berechnungen an zusammengesetzten Bewegungen
 
-Erläuterung: Das folgende Diagramm wurde mit Hilfe der App Phyfox auf einer Autofahrt zwischen der _Tannenstraße (Dresden Neustadt)_ und der Haltstelle _Industriegebiet Süd_ aufgenommen. An Punkten, wo sich die Art der Bewegung ändert sich Markierungen auf dem Diagramm hinterlegt.
+__Erläuterung:__ Das folgende Diagramm wurde mit Hilfe der App Phyfox auf einer Autofahrt zwischen der _Tannenstraße (Dresden Neustadt)_ und der Haltstelle _Industriegebiet Süd_ aufgezeichnet. An Punkten, wo sich die Art der Bewegung ändert sind Markierungen auf dem Diagramm hinterlegt.
 
 Die farbig gekennzeichneten Bereiche können als gleichmäßig beschleunigte Bewegungen betrachtet werden.
 
