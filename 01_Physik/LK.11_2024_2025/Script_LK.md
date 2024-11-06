@@ -3407,7 +3407,7 @@ Die Geschwindigkeit $v_3$ beträgt $17,54 \frac{m}{s}$. Die Geschwindigkeit $v_2
 
 ---
 
-9. Ermittle die Beschleunigungen $a_{1->2}$, $a_{3->4}$, $a_{5->6}$, $a_{7->8}$ und $a_{9->10}$.
+9. Ermittle die Beschleunigungen der farbig markiert Intervalle: $a_{1->2}$, $a_{3->4}$, $a_{5->6}$, $a_{7->8}$ und $a_{9->10}$.
 
 @rangeQuiz2($\hspace{1cm}$ $\Delta a_{1->2}$, 1.72 , $\frac{m}{s^2}$)
 
