@@ -3321,6 +3321,18 @@ Die farbig gekennzeichneten Bereiche können als gleichmäßig beschleunigte Bew
 
 ![Diagramm_PraktischeFahrt](https://diversewolken.ddns.net/nextcloud/index.php/s/K9XZ7yMM9n9AtLT/download)
 
+> __Vorbetrachtung:__ Für die Bestimmung der Beschleunigung $a$ bei einer gleichmäßg beschleunigten Bewegung lässt sich auch die Formel
+>
+> $$ a = \frac{\Delta v}{\Delta t} $$
+>
+> verwenden. Hier bei ist $\Delta v$ die Geschwindkeitsänderung während des Zeitintervals $\Delta t$.
+>
+> Dabei ist $\Delta v$ definiert als 
+>
+> $$ \Delta v = v_{2} - v_{1}, $$
+>
+> also die Differenz der Geschwindigkeiten am Ende des Zeitintervals ($v_2$) und der Geschwindigkeit am Anfang des Zeitintervals ($v_1$).
+
 __Löse folgende Aufgaben. Zur Selbsüberprüfung gibt es die Kontrollkästchen. Bei fehlerhaften Lösungen bitte per E-Mail rückmelden.__
 
 1. Bestimme die gesamte Fahrtzeit (d.h. die gesamte Messzeit).
