@@ -105,14 +105,6 @@ mode: presentation
 
 # Lösungen Lehrbuch
 
-__Aufgabe 14__
-
-- {1}{![14_a](https://diversewolken.ddns.net/nextcloud/index.php/s/p2SCed3xdgFJ5Ad/download)}
-
-- {2}{![14_b](https://diversewolken.ddns.net/nextcloud/index.php/s/aFqFW2rGi4zF6AL/download)}
-
-- {3}{![14_c](https://diversewolken.ddns.net/nextcloud/index.php/s/4eJkYqPH7tRwHEH/download)}
-
 <p class="newspaper">
 
 __Seite 23__
