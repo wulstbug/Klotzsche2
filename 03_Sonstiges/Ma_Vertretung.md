@@ -124,7 +124,7 @@ __Seite 23__
 
 __Seite 24__
 
-![1](https://diversewolken.ddns.net/nextcloud/index.php/s/kZRrH5eyaZHSWjm/download)
+![1](https://diversewolken.ddns.net/nextcloud/index.php/s/g5fRq7MWqJWJ8Sa/download)
 
 ![2](https://diversewolken.ddns.net/nextcloud/index.php/s/8NxzwqkKH6D9RGa/download)
 

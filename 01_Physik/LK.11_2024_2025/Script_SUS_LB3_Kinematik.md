@@ -280,7 +280,7 @@ Analysiere die gleichmäßig beschleunigte Bewegung einer Kugel auf einer schief
 
 5. Erzeuge mit Hilfe deiner berechneten Beschleunigung einen theoretische s(t) und v(t) Graph und stelle diese mit den jeweiligen Messwerten gemeinsam dar.
 
-6. Erzeuge aus den Diagrammen ein pdf und lade es hier hoch, du erhältst einen Ausdruck.
+6. Erzeuge aus den Diagrammen ein pdf und lade es [hier hoch](https://diversewolken.ddns.net/nextcloud/index.php/s/g5fRq7MWqJWJ8Sa), du erhältst einen Ausdruck.
 
 7. Analysiere die auf die Kugel wirkenden Kräfte. Ermittle die wirkende Rollreibungskraft $F_R$ und den Rollreibungskoeffizienten $\mu_{roll}$.
 
