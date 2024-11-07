@@ -3253,7 +3253,7 @@ _Hinweis: Bei dieser Überprüfung wird eine Ungenauigkeit von 20% gegenüber de
 {{0-1}}
 *****************
 
-@timer(10, 00)
+@timer(10,00)
 
 | | Gleichförmige Bewegung | Gleichmäßig beschleunigte Bewegung |
 | --- | --- | --- |

@@ -685,7 +685,7 @@ __Video: Wie funktioniert ein Generator?__
 
 ### Fragen zum Generator 2
 
-@timer(8,00)
+@timer(08,00)
 
 @color(Beantwortet die Fragen 1 und 2 auf dem Arbeitsblatt __allein__. Überprüft anschließend mit dem Nachbarn/der Nachbarin gegenseitig die Fragen 3.-8., blue)
 
@@ -695,7 +695,7 @@ __Video: Wie funktioniert ein Generator?__
 
 <p class="newspaper">
 
-2. Beschreibe anhand der Skizze den Aufgab eines Wechselstromgenerators. 
+2. Beschreibe anhand der Skizze den AAufbau eines Wechselstromgenerators. 
 
     {2}{<bdi style="color:orange"> Ein Wechselstromgenerator besteht aus einem rotierenden Magneten (Rotor) und fest stehenden Induktionsspulen (Stator). </bdi>}
 
