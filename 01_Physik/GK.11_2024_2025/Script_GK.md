@@ -984,6 +984,122 @@ Die Haftreibungszahl muss mindestens 0,58 betragen.
 
 </details>
 
+## Lösungen Lehrbuchaufgaben
+
+@color(_Auf Wunsch hier ein paar Lösungen zu Übungsaufgaben.<br><br> MfG CG_<br><br>, orange)
+
+---
+
+__LB S. 26 Aufgabe 7__
+
+<div style="text-indent:10%"> 
+
+<details>
+
+<summary> Lösung </summary>
+
+![Lsg_LB26_7](https://diversewolken.ddns.net/nextcloud/index.php/s/7sgBcLeK3iSG6Ab/download)<!-- style="max-width:80%"-->
+
+</details>
+
+
+</div>
+
+---
+
+__LB S. 26 Aufgabe 12__
+
+<div style="text-indent:10%"> 
+
+<details>
+
+<summary> Lösung </summary>
+
+![Lsg_LB26_12](https://diversewolken.ddns.net/nextcloud/index.php/s/rxXaawKKw8ciAk3/download)<!-- style="max-width:80%"-->
+
+</details>
+
+
+</div>
+
+---
+
+
+__LB S. 28 Aufgabe 23__
+
+<div style="text-indent:10%"> 
+
+<details>
+
+<summary> Lösung </summary>
+
+![Lsg_LB28_23](https://diversewolken.ddns.net/nextcloud/index.php/s/BJbaEwW2RwWgAxp/download)<!-- style="max-width:80%"-->
+
+</details>
+
+
+</div>
+
+---
+
+
+
+__LB S. 28 Aufgabe 25__
+
+<div style="text-indent:10%"> 
+
+<details>
+
+<summary> Lösung a) </summary>
+
+![Lsg_LB28_25a](https://diversewolken.ddns.net/nextcloud/index.php/s/qRNqZPY4Ex7aJ4S/download)<!-- style="max-width:80%"-->
+
+</details>
+
+<details>
+
+<summary> Lösung b-d) </summary>
+
+![Lsg_LB28_25bcd](https://diversewolken.ddns.net/nextcloud/index.php/s/gykGqzePijz3ZwS/download)<!-- style="max-width:80%"-->
+
+</details>
+
+</div>
+
+---
+
+__LB S. 28 Aufgabe 26__
+
+<div style="text-indent:10%"> 
+
+<details>
+
+<summary> Lösung </summary>
+
+![Lsg_LB28_26](https://diversewolken.ddns.net/nextcloud/index.php/s/56bGefCmtXM4L73/download)<!-- style="max-width:80%"-->
+
+</details>
+
+</div>
+
+---
+
+@color(nicht Klausurrelevant, red)
+
+__LB S. 69 Aufgabe 11__
+
+<div style="text-indent:10%"> 
+
+<details>
+
+<summary> Lösung </summary>
+
+![Lsg_LB69_11](https://diversewolken.ddns.net/nextcloud/index.php/s/4WSTFyJzB4CkmZd/download)<!-- style="max-width:80%"-->
+
+</details>
+
+</div>
+
 
 # Grundkurs Physik 2024/2025 - LB II: Das elektrische Feld
 
@@ -1848,5 +1964,65 @@ $$ v = 1,326 \cdot 10^{7} \frac{m}{s} $$
 ![Lsg_LB123_15](https://diversewolken.ddns.net/nextcloud/index.php/s/rjwJHMBwm3NbwrT/download)<!-- style="width:80%"-->
 
 </details>
+
+</div>
+
+
+## Lösungen Lehrbuchaufgaben
+
+__LB S. 123 Aufgabe 15__
+
+<div style="text-indent:10%"> 
+
+<details>
+
+<summary> Lösung a) </summary>
+
+![Lsg_LB123_15](https://diversewolken.ddns.net/nextcloud/index.php/s/W3SQgTE7JErmfbb/download)<!-- style="width:80%"-->
+
+</details>
+
+
+<details>
+
+<summary> Lösung b) </summary>
+
+![Lsg_LB123_15](https://diversewolken.ddns.net/nextcloud/index.php/s/rjwJHMBwm3NbwrT/download)<!-- style="width:80%"-->
+
+</details>
+
+</div>
+
+---
+
+__LB S. 123 Aufgabe 17__
+
+<div style="text-indent:10%"> 
+
+<details>
+
+<summary> Lösung </summary>
+
+![Lsg_LB123_17](https://diversewolken.ddns.net/nextcloud/index.php/s/9wA3JnFcLnmWqEZ/download)<!-- style="width:80%"-->
+
+</details>
+
+
+</div>
+
+---
+
+__LB S. 124 Aufgabe 23__
+
+<div style="text-indent:10%"> 
+
+<details>
+
+<summary> Lösung </summary>
+
+![Lsg_LB123_17](https://diversewolken.ddns.net/nextcloud/index.php/s/JRCxMQoBCgFDWcW/download)<!-- style="width:80%"-->
+
+</details>
+
 
 </div>

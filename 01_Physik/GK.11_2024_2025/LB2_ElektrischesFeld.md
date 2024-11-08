@@ -887,3 +887,65 @@ $$ v = 1,326 \cdot 10^{7} \frac{m}{s} $$
 
 </div>
 
+## Lösungen Lehrbuchaufgaben
+
+@color(_Auf Wunsch hier ein paar Lösungen zu Übungsaufgaben.<br><br> MfG CG_<br><br>, orange)
+
+---
+
+__LB S. 123 Aufgabe 15__
+
+<div style="text-indent:10%"> 
+
+<details>
+
+<summary> Lösung a) </summary>
+
+![Lsg_LB123_15](https://diversewolken.ddns.net/nextcloud/index.php/s/W3SQgTE7JErmfbb/download)<!-- style="width:80%"-->
+
+</details>
+
+
+<details>
+
+<summary> Lösung b) </summary>
+
+![Lsg_LB123_15](https://diversewolken.ddns.net/nextcloud/index.php/s/rjwJHMBwm3NbwrT/download)<!-- style="width:80%"-->
+
+</details>
+
+</div>
+
+---
+
+__LB S. 123 Aufgabe 17__
+
+<div style="text-indent:10%"> 
+
+<details>
+
+<summary> Lösung </summary>
+
+![Lsg_LB123_17](https://diversewolken.ddns.net/nextcloud/index.php/s/9wA3JnFcLnmWqEZ/download)<!-- style="width:80%"-->
+
+</details>
+
+
+</div>
+
+---
+
+__LB S. 124 Aufgabe 23__
+
+<div style="text-indent:10%"> 
+
+<details>
+
+<summary> Lösung </summary>
+
+![Lsg_LB123_17](https://diversewolken.ddns.net/nextcloud/index.php/s/JRCxMQoBCgFDWcW/download)<!-- style="width:80%"-->
+
+</details>
+
+
+</div>
