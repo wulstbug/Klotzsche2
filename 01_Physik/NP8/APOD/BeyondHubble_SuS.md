@@ -483,7 +483,7 @@ __Aufgaben:__
 
 ## Schatten in 3d Zeichen
 
-[Klicke hier: SchattenZeichnen](https://www.geogebra.org/m/g44rn3pb)
+[Klicke hier: Geogebra: 3D-Schatten zeichnen](https://www.geogebra.org/m/g44rn3pb)
 
 1. Zeichne eine senkrechte Hilfslinie zum Horizont durch die Sonne. 
 
@@ -578,3 +578,7 @@ __Aufgaben:__
 </details>
 
 </div>
+
+12. Probiere nun einen Schattenlauf mit bewegter Sonne
+
+     [Klicke hier: Geogebra: 3D-Schatten zeichnen mit Sonnenlauf](https://www.geogebra.org/classroom/trc9cuu8)
