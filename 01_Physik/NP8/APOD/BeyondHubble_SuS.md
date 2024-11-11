@@ -529,7 +529,17 @@ __Aufgaben:__
 
 9. Wähle Vieleck und verbinde die Eckpunkte zu einem sinnvollen Schatten.
 
-    ![Vieleck](https://diversewolken.ddns.net/nextcloud/index.php/s/qXcdz4gpdZLjdxH/download)<!-- style="max-height:400px" -->
+<div style="text-indent:10%">
+
+<details>
+
+<summary> Menupunkt </summary>
+
+![Vieleck](https://diversewolken.ddns.net/nextcloud/index.php/s/qXcdz4gpdZLjdxH/download)<!-- style="max-height:400px" -->
+
+</details>
+
+</div>
 
 10. Vergleiche deine Konstruktion.
 
