@@ -480,3 +480,92 @@ __Aufgaben:__
      <!-- data-solution-button="off" -->
      Bildweite b = [[ 1,5 ]] <br>
      Bildgröße B = [[ 2 ]]
+
+## Schatten in 3d Zeichen
+
+[Klicke hier: SchattenZeichnen](https://www.geogebra.org/m/g44rn3pb)
+
+1. Zeichne eine senkrechte Hilfslinie zum Horizont durch die Sonne. 
+
+2. Markiere den Schnittpunkt mit dem Horizont. Nenne diesen Punkt N.
+
+3. Zeichne nun einen Strahl (s) von der Sonne durch die linke obere Ecke deines Objektes.
+
+4. Zeichne nun einen Strahl (a) von N ausgehend, durch den unterhalb der Ecke aus 3. liegenden Punkt.
+
+5. Konstruiere den Schnittpunkt (O)zwischen s und a.
+    -> Dieser Punkt ist eine Ecke deines Schattens.
+
+6. Vergleiche deine Konstruktion.
+
+<div style="text-indent:10%">
+
+<details>
+
+<summary> Zwischenbild </summary>
+
+![Vergleiche6](https://diversewolken.ddns.net/nextcloud/index.php/s/TfwxTdXPFkRr5nZ/download)<!-- style="max-height:400px" -->
+
+
+</details>
+
+</div>
+
+     
+7. Wiederhole diesen Vorgang für zwei weitere Ecken (hinten links, vorne rechts).
+
+8. Vergleiche deine Konstruktion.
+
+<div style="text-indent:10%">
+
+<details>
+
+<summary> Zwischenbild </summary>
+
+![Vergleiche8](https://diversewolken.ddns.net/nextcloud/index.php/s/PgxTpAJNA6enGbR/download)<!-- style="max-height:400px" -->
+
+
+</details>
+
+</div>
+
+9. Wähle Vieleck und verbinde die Eckpunkte zu einem sinnvollen Schatten.
+    ![Vieleck](https://diversewolken.ddns.net/nextcloud/index.php/s/qXcdz4gpdZLjdxH/download)<!-- style="max-height:400px" -->
+
+10. Vergleiche deine Konstruktion.
+
+
+<div style="text-indent:10%">
+
+<details>
+
+<summary> Zwischenbild </summary>
+
+![Vergleiche10](https://diversewolken.ddns.net/nextcloud/index.php/s/3FLELHRHbb2ixpw/download)<!-- style="max-height:400px" -->
+
+</details>
+
+</div>
+
+11. Blende nun den zweiten Quader ein. Klicke dazu oben links auf Quader2 und wiederhole die Schattenkonstruktion.
+
+
+<div style="text-indent:10%">
+
+<details>
+
+<summary> Zwischenbild </summary>
+
+![Vergleiche11_1](https://diversewolken.ddns.net/nextcloud/index.php/s/YqBxWJCRrH78eP7/download)<!-- style="max-height:400px" -->
+
+</details>
+
+<details>
+
+<summary> Lösung </summary>
+
+![Vergleiche11_2](https://diversewolken.ddns.net/nextcloud/index.php/s/FWTP7kckBYEwcGy/download)<!-- style="max-height:400px" -->
+
+</details>
+
+</div>
