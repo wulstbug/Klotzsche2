@@ -3664,3 +3664,22 @@ Im Maximum ist $v_y(t)=0$.
 </div>
 
 5. Zeichne in das y(x)-Diagramm die Flugbahn anhand der hier berechneten Daten. Nutze als Zeitschritte (0,05 s).
+
+<div style="text-indent:10%">
+
+<details>
+
+<summary> Hinweis </summary>
+
+Berechne für Zeitschritte von 0,05s x(t) und y(t) und trage die Punkte in das Diagramm ein.
+
+</details>
+
+<summary> Lösung </summary>
+
+![Loesung_x_y](https://diversewolken.ddns.net/nextcloud/index.php/s/DqKyz8DiaDCfgi5/download)
+
+</details>
+
+
+</div>
