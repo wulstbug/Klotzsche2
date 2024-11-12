@@ -3589,11 +3589,11 @@ $\hspace{1cm}$ @color(Achtung:,red) Wenn die y-Achse nicht zur Erde hin zeigt, i
 5. die gesamte Bewegung ist eine @color(Superposition, red) (d.h. Überlagerung) der Bewegungen in x- und y-Richtung
 *******
 
-## 3.6.1 Berechnungen am Demonstrationsexperiment: Schräger Wurf
+### 3.6.1 Berechnungen am Demonstrationsexperiment: Schräger Wurf
 
 Für das Demonstrationsexperiment beträgt der Abwurfwinkel $\alpha=59^\circ$. Die Anfangsgeschwindigkeit $v_0$ wird mit $3,2 \frac{m}{s}$ angegeben.
 
-_Aufgaben_:
+__Aufgaben__:
 
 1. Ermittle die Anfangsgeschwindigkeiten $v_{0x}$ und $v_{0y}$.
 
@@ -3639,7 +3639,7 @@ $$ v_y(t) = - 9,81 \frac{m}{s^2}\cdot t + 2,75 \frac{m}{s}$$
 
 ---
 
-4. Ermittle für den höchsten Punkt: $t_{max}$, $x(t_{max})$, $y(t_{max})$. Vergleiche deine Berechung mit dem experimentellen Diagramm.
+4. Ermittle für den höchsten Punkt: $t_{max}$, $x(t_{max})$, $y(t_{max})$. Vergleiche deine Berechung mit dem experimentellen Diagramm (aus 3.6).
 
 @rangeQuiz2($\hspace{1cm}$ $t_{max}$, 0.28, $s$)
 
@@ -3661,9 +3661,42 @@ Im Maximum ist $v_y(t)=0$.
 
 </div>
 
-5. Zeichne in das y(x)-Diagramm die Flugbahn anhand der hier berechneten Daten. Nutze als Zeitschritte z.B. 0,05 s und die Bewegungsgleichungen aus 2. 
+5. Ermittle aus den Messdaten die Wurfweite $x_{Wurf}$, d.h die Entfernung, wo die Kugel wieder die Ausgangshöhe (0) zurückkehrt.
 
-Diskutiere Ursachen für die Unterschiede der beiden Graphen.
+@rangeQuiz2($\hspace{1cm}$ $x_{wurf}$, 0.925 , $m$)
+
+<div style="text-indent:10%">
+
+<details>
+
+<summary> Hinweis </summary>
+
+Für den Zeitpunkt der Wurfweite gilt:  $y(t_{wurf}) = 0$.
+
+</details>
+
+<details>
+
+<summary> Lösung </summary>
+
+Setze $ y(t_{wurf}) = 0 $:
+
+$$ 0 = -\frac{1}{2} \cdot 9,81 \frac{m}{s^2}\cdot t^2 + 2,75 \frac{m}{s} \cdot t $$
+
+$$ t_{wurf\,1} = 0\,\,\mathrm{(Startpunkt)}$$
+
+$$ t_{wurf\,2} = \frac{2\cdot 2,75 \frac{m}{s}}{9,81 \frac{m}{s^2}} = 0,561 s$$
+
+Berechne $ x(t_{wurf\,2}) $:
+
+$$ x(t_{wurf}) = 1,65 \frac{m}{s} \cdot t_{wurf\,2} = 0,925\,m$$
+
+</details>
+
+</div>
+
+
+6. Zeichne in das y(x)-Diagramm die Flugbahn anhand der hier berechneten Daten. Nutze als Zeitschritte z.B. 0,05 s und die Bewegungsgleichungen aus 2. <br> Diskutiere Ursachen für die Unterschiede der beiden Graphen.
 
 <div style="text-indent:10%">
 
@@ -3683,5 +3716,21 @@ Berechne für Zeitschritte von 0,05s x(t) und y(t) und trage die Punkte in das D
 
 </details>
 
+<details>
+
+<summary> Diskussion Unterschiede </summary>
+
+In der Auswertung des Diagramms ergab sich eine Beschleunigung von ca. $-11,5 \frac{m}{s^2}$. Der hier berechnete Graph nutzt als Beschleunigung $-9,81 \frac{m}{s^2}$.
+
+</details>
+
+<details>
+
+<summary> Korrektur </summary>
+
+![Loesung_x_y_11.5](https://diversewolken.ddns.net/nextcloud/index.php/s/MStYLTsW2CfQ27a/download "Darstellung der experimentellen x-y-Graphen (exp), der theoretischen x-y-Graphen mit Beschleunigung $g=-9,81\frac{m}{s^2}$ (theor_9.81) und der theoretischen x-y-Graphen mit Beschleunigung $a=-11,5\frac{m}{s^2}$ (theor_11.5)")
+
+</details>
 
 </div>
+
