@@ -3573,7 +3573,7 @@ $\hspace{1cm}$ $v_{0x}$ .. Anfangsgeschwindigkeit in x-Richtung
 *******
 3. die vertikale Bewegung $y(t)$ ist eine __gleichmäßig beschleunigte Bewegung__ mit dem Ortsfaktor $g=9,81\frac{m}{s^2}$ als Beschleunigung.
 
-$$ \boxed{y(t) = \frac{1}{2}\cdot g \cdot t^2 + v_{y0} \cdot t} \mathrm{\ \ \ und\ \ \ } \boxed{v_y(t) = g \cdot t + v_{0y}}$$
+$$ \boxed{y(t) = \frac{1}{2}\cdot g \cdot t^2 + v_{0y} \cdot t} \mathrm{\ \ \ und\ \ \ } \boxed{v_y(t) = g \cdot t + v_{0y}}$$
 
 $\hspace{1cm}$ $v_{0y}$ .. Anfangsgeschwindigkeit in y-Richtung
 
