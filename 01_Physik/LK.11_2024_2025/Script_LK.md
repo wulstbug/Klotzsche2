@@ -3591,7 +3591,7 @@ $\hspace{1cm}$ @color(Achtung:,red) Wenn die y-Achse nicht zur Erde hin zeigt, i
 
 ### 3.6.1 Berechnungen am Demonstrationsexperiment: Schräger Wurf
 
-Für das Demonstrationsexperiment beträgt der Abwurfwinkel $\alpha=59^\circ$. Die Anfangsgeschwindigkeit $v_0$ wird mit $3,2 \frac{m}{s}$ angegeben.
+Für das Demonstrationsexperiment beträgt der Abwurfwinkel $\alpha=59^\circ$. Die Anfangsgeschwindigkeit $v_0$ wird mit $3,21 \frac{m}{s}$ angegeben.
 
 __Aufgaben__:
 
