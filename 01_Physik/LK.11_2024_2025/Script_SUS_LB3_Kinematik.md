@@ -546,7 +546,7 @@ $\hspace{1cm}$ @color(Achtung:,red) Wenn die y-Achse nicht zur Erde hin zeigt, i
 
 ## 3.6.1 Berechnungen am Demonstrationsexperiment: Schräger Wurf
 
-Für das Demonstrationsexperiment beträgt der Abwurfwinkel $\alpha=59^\circ$. Die Anfangsgeschwindigkeit $v_0$ wird mit $3,2 \frac{m}{s}$ angegeben.
+Für das Demonstrationsexperiment beträgt der Abwurfwinkel $\alpha=59^\circ$. Die Anfangsgeschwindigkeit $v_0$ wird mit $3,2 \frac{m}{s}$ angegeben. Die Beschleunigung in y-Richtung wird mit dem theoretischen Wert von $9,81 \frac{m}{s^2}$ angenommen.
 
 _Aufgaben_:
 
@@ -616,7 +616,7 @@ Im Maximum ist $v_y(t)=0$.
 
 </div>
 
-5. Zeichne in das y(x)-Diagramm die Flugbahn anhand der hier berechneten Daten. Nutze als Zeitschritte (0,05 s).
+5. Zeichne in das y(x)-Diagramm die Flugbahn anhand der hier berechneten Daten. Nutze als Zeitschritte (0,05 s). Stelle eine Vermutung über die Ursache der Unterschiede an.
 
 <div style="text-indent:10%">
 
@@ -635,5 +635,14 @@ Berechne für Zeitschritte von 0,05s x(t) und y(t) und trage die Punkte in das D
 ![Loesung_x_y](https://diversewolken.ddns.net/nextcloud/index.php/s/DqKyz8DiaDCfgi5/download)
 
 </details>
+
+<details>
+
+<summary> Diskussion Unterschiede </summary>
+
+In der Auswertung des Diagramms ergab sich eine Beschleunigung von ca. $-11,5 \frac{m}{s^2}$. Der hier berechnete Graph nutzt als Beschleunigung $-9,81 \frac{m}{s^2}$.
+
+</details>
+
 
 </div>
