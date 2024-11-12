@@ -628,11 +628,12 @@ Berechne für Zeitschritte von 0,05s x(t) und y(t) und trage die Punkte in das D
 
 </details>
 
+<details>
+
 <summary> Lösung </summary>
 
 ![Loesung_x_y](https://diversewolken.ddns.net/nextcloud/index.php/s/DqKyz8DiaDCfgi5/download)
 
 </details>
-
 
 </div>
