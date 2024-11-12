@@ -3508,8 +3508,6 @@ $$ a_{7->8} = \frac{\Delta v_{7->8}}{\Delta t_{7->8}} = \frac{v_{8->9} - v_{6->7
 
 ## Bewegungsanalyse eines schrägen Wurfes
 
-!?[Video]()
-
 {{1}}
 ************
 __$y(x)$-Diagramm__:

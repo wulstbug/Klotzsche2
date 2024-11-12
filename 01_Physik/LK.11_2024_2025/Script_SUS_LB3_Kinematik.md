@@ -459,3 +459,180 @@ $$ a_{7->8} = \frac{\Delta v_{7->8}}{\Delta t_{7->8}} = \frac{v_{8->9} - v_{6->7
 ---
 
 @rangeQuiz2($\hspace{1cm}$ $\Delta a_{9->10}$, -0.877 , $\frac{m}{s^2}$)
+
+
+## Bewegungsanalyse eines schrägen Wurfes
+
+{{1}}
+************
+__$y(x)$-Diagramm__:
+
+![Diagram-x-y](https://diversewolken.ddns.net/nextcloud/index.php/s/EpjbjtLSPyRePeZ/download)
+************
+
+<p class="newspaper">
+
+{{2}}
+************
+__$x(t)$__
+
+![Diagram-t-x](https://diversewolken.ddns.net/nextcloud/index.php/s/jN69KQoCJZdy8Xf/download)
+************
+
+{{3}}
+************
+__$v_x(t)$__
+
+![Diagram-t-y](https://diversewolken.ddns.net/nextcloud/index.php/s/mGjYeN46XzHgsaE/download)
+************
+
+<p class="cb">
+
+{{2}}
+************
+__$y(t)$__
+
+![Diagram-t-vx](https://diversewolken.ddns.net/nextcloud/index.php/s/Ey7B9XgB7795GA6/download)
+************
+
+{{3}}
+************
+__$v_y(t)$__
+
+![Diagram-t-vy](https://diversewolken.ddns.net/nextcloud/index.php/s/XBoLRYiosKtKCsx/download)
+************
+
+</p>
+
+</p>
+
+## 3.6 Kinematik des schrägen Wurfs
+
+> __Beschreibung:__ Bei einem schrägen Wurf wird ein Körper unter einem Winkel $\alpha$ mit einer Anfangsgeschwindigkeit $\vec{v_0}$ abgeschossen (geworfen). Reibungseffekte werden zunächst vernachlässigt.
+
+> __Zerlegung der Bewegung in x- und y-Richtung:__ 
+{{1}}
+*******
+1. die Flugbahn $y(x)$ entspricht einer Parabel.
+![Parabel](https://diversewolken.ddns.net/nextcloud/index.php/s/EpjbjtLSPyRePeZ/download)<!-- style="width:40%"-->
+*******
+{{2}}
+*******
+2. die horizontale Bewegung $x(t)$ ist eine __gleichförmige Bewegung__
+
+$$ \boxed{x(t) = v_{0x} \cdot t} \mathrm{\ \ \ und\ \ \ } \boxed{v_x(t) = v_{0x}}$$
+
+$\hspace{1cm}$ $v_{0x}$ .. Anfangsgeschwindigkeit in x-Richtung
+*******
+{{3}}
+*******
+3. die vertikale Bewegung $y(t)$ ist eine __gleichmäßig beschleunigte Bewegung__ mit dem Ortsfaktor $g=9,81\frac{m}{s^2}$ als Beschleunigung.
+
+$$ \boxed{y(t) = \frac{1}{2}\cdot g \cdot t^2 + v_{y0} \cdot t} \mathrm{\ \ \ und\ \ \ } \boxed{v_y(t) = g \cdot t + v_{0y}}$$
+
+$\hspace{1cm}$ $v_{0y}$ .. Anfangsgeschwindigkeit in y-Richtung
+
+$\hspace{1cm}$ @color(Achtung:,red) Wenn die y-Achse nicht zur Erde hin zeigt, ist @color(g=-9.81$\frac{m}{s^2}$,red).
+*******
+{{4}}
+*******
+4. Die Anfangsgeschwindigkeit $\vec{v_0}$ ist eine vektorielle Größe und lässt sich in ihre x-Kompente ($v_{0x}$) und y-Komponente ($v_{0y}$) zerlegen. <br>
+![Geschwindigkeit](https://diversewolken.ddns.net/nextcloud/index.php/s/qdAbC6XTmRXztaa/download)$$ \boxed{v_{0x} = v_0 \cdot \cos\alpha} \mathrm{\ \ \ und\ \ \ } \boxed{v_{0y} = v_0 \cdot sin\alpha} $$
+*******
+{{5}}
+*******
+5. die gesamte Bewegung ist eine @color(Superposition, red) (d.h. Überlagerung) der Bewegungen in x- und y-Richtung
+*******
+
+## 3.6.1 Berechnungen am Demonstrationsexperiment: Schräger Wurf
+
+Für das Demonstrationsexperiment beträgt der Abwurfwinkel $\alpha=59^\circ$. Die Anfangsgeschwindigkeit $v_0$ wird mit $3,2 \frac{m}{s}$ angegeben.
+
+_Aufgaben_:
+
+1. Ermittle die Anfangsgeschwindigkeiten $v_{0x}$ und $v_{0y}$.
+
+@rangeQuiz2($\hspace{1cm}$$v_{0x}$, 1.65, $\frac{m}{s}$)
+
+@rangeQuiz2($\hspace{1cm}$$v_{0y}$, 2.75, $\frac{m}{s}$)
+
+---
+
+2. Notiere die Bewegungsgleichungen x(t) und y(t). Schreibe alle Zahlenwerte aus.
+
+<div style="text-indent:10%">
+
+<details>
+
+<summary> Lösung </summary>
+
+$$ x(t) = 1,65 \frac{m}{s} \cdot t $$
+
+$$ y(t) = - \frac{1}{2} \cdot 9,81 \frac{m}{s^2}\cdot t^2 + 2,75 \frac{m}{s} \cdot t $$
+
+</details>
+
+</div>
+
+---
+
+3. Notiere die Bewegungsgleichungen $v_x(t)$ und $v_y(t)$.
+
+<div style="text-indent:10%">
+
+<details>
+
+<summary> Lösung </summary>
+
+$$ v_x(t) = 1,65 \frac{m}{s} $$
+
+$$ v_y(t) = - 9,81 \frac{m}{s^2}\cdot t + 2,75 \frac{m}{s}$$
+
+</details>
+
+</div>
+
+---
+
+4. Ermittle für den höchsten Punkt: $t_{max}$, $x(t_{max})$, $y(t_{max})$. Vergleiche deine Berechung mit dem experimentellen Diagramm.
+
+@rangeQuiz2($\hspace{1cm}$ $t_{max}$, 0.28, $s$)
+
+@rangeQuiz2($\hspace{1cm}$ $x_{max}$, 0.4625, $m$)
+
+@rangeQuiz2($\hspace{1cm}$ $y_{max}$, 0.385, $m$)
+
+
+
+<div style="text-indent:10%">
+
+<details>
+
+<summary> Hinweis </summary>
+
+Im Maximum ist $v_y(t)=0$.
+
+</details>
+
+</div>
+
+5. Zeichne in das y(x)-Diagramm die Flugbahn anhand der hier berechneten Daten. Nutze als Zeitschritte (0,05 s).
+
+<div style="text-indent:10%">
+
+<details>
+
+<summary> Hinweis </summary>
+
+Berechne für Zeitschritte von 0,05s x(t) und y(t) und trage die Punkte in das Diagramm ein.
+
+</details>
+
+<summary> Lösung </summary>
+
+![Loesung_x_y](https://diversewolken.ddns.net/nextcloud/index.php/s/DqKyz8DiaDCfgi5/download)
+
+</details>
+
+
+</div>
