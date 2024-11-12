@@ -3734,3 +3734,12 @@ In der Auswertung des Diagramms ergab sich eine Beschleunigung von ca. $-11,5 \f
 
 </div>
 
+## 3.7 Zusammenhang von Ort und Geschwindigkeit
+
+
+??[Geogebra-Anstiegsdreieck2](https://www.geogebra.org/m/fartbyak)
+
+---
+
+??[Geogebra-Anstiegsdreieck](https://www.geogebra.org/m/k9bpa9mw)
+

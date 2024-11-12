@@ -481,7 +481,7 @@ __Aufgaben:__
      Bildweite b = [[ 1,5 ]] <br>
      Bildgröße B = [[ 2 ]]
 
-## Schatten in 3d Zeichen
+## Schatten in 3D Zeichen
 
 [Klicke hier: Geogebra: 3D-Schatten zeichnen](https://www.geogebra.org/classroom/yufw2qaq)
 
