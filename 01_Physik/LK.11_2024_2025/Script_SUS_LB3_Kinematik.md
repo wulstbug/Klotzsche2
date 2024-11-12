@@ -616,7 +616,11 @@ Im Maximum ist $v_y(t)=0$.
 
 </div>
 
-5. Zeichne in das y(x)-Diagramm die Flugbahn anhand der hier berechneten Daten. Nutze als Zeitschritte (0,05 s). Stelle eine Vermutung über die Ursache der Unterschiede an.
+---
+
+5. Zeichne in das y(x)-Diagramm die Flugbahn anhand der hier berechneten Daten. Nutze als Zeitschritte z.B. 0,05 s und die Bewegungsgleichungen aus 2. 
+
+Diskutiere Ursachen für die Unterschiede der beiden Graphen.
 
 <div style="text-indent:10%">
 
