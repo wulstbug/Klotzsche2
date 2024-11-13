@@ -3739,7 +3739,7 @@ In der Auswertung des Diagramms ergab sich eine Beschleunigung von ca. $-11,5 \f
 ## Simulation: Die Momentangeschwindigkeit
 
 
-<iframe src="https://www.geogebra.org/classic/gcs9yuyv?embed" width="100%" height="800" allowfullscreen style="border: 1px solid #e4e4e4;border-radius: 4px;" frameborder="0"></iframe>
+<iframe src="https://www.geogebra.org/classic/gcs9yuyv?embed" width="100%" height="600" allowfullscreen style="border: 1px solid #e4e4e4;border-radius: 4px;" frameborder="0"></iframe>
 
 ---
 
@@ -3747,7 +3747,7 @@ In der Auswertung des Diagramms ergab sich eine Beschleunigung von ca. $-11,5 \f
 **********
 __Beispiel: x(t) und v(t) mit Ansteigsdreieck:__
 
-<iframe src="https://www.geogebra.org/classic/kpmbbr8v?embed" width="100%" height="800" allowfullscreen style="border: 1px solid #e4e4e4;border-radius: 4px;" frameborder="0"></iframe>
+<iframe src="https://www.geogebra.org/classic/kpmbbr8v?embed" width="100%" height="600" allowfullscreen style="border: 1px solid #e4e4e4;border-radius: 4px;" frameborder="0"></iframe>
 **********
 ---
 
@@ -3755,7 +3755,7 @@ __Beispiel: x(t) und v(t) mit Ansteigsdreieck:__
 **********
 __Beispiel: x(t) und v(t) mit Anstiegsdreieck (mit Zoom)__
 
-<iframe src="https://www.geogebra.org/classic/gpbcwtqx?embed" width="100%" height="800" allowfullscreen style="border: 1px solid #e4e4e4;border-radius: 4px;" frameborder="0"></iframe>
+<iframe src="https://www.geogebra.org/classic/gpbcwtqx?embed" width="100%" height="600" allowfullscreen style="border: 1px solid #e4e4e4;border-radius: 4px;" frameborder="0"></iframe>
 **********
 
 ## 3.7 Die Momentangeschwindigkeit
