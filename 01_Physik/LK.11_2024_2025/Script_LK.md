@@ -3699,7 +3699,7 @@ $$ x(t_{wurf}) = 1,65 \frac{m}{s} \cdot t_{wurf\,2} = 0,925\,m$$
 </div>
 
 
-6. Zeichne in das y(x)-Diagramm die Flugbahn anhand der hier berechneten Daten. Nutze als Zeitschritte z.B. 0,05 s und die Bewegungsgleichungen aus 2. <br> Diskutiere Ursachen für die Unterschiede der beiden Graphen.
+6. Zeichne in das y(x)-Diagramm des Experiments die Flugbahn anhand der hier berechneten Daten. Nutze als Zeitschritte z.B. 0,05 s und die Bewegungsgleichungen aus 2. <br> Diskutiere Ursachen für die Unterschiede der beiden Graphen.
 
 <div style="text-indent:10%">
 
