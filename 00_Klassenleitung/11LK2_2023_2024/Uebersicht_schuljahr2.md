@@ -38,6 +38,22 @@ window.LIA.settings.font_size = 2
 
 # [11Ph2] Leistungskurs Physik
 
+<span style="color:orange">
+
+- Noten: mind. 2 sonstige, 2 Klausur
+
+- Leistungskontrolle: Donnerstag 29.08.2024, Praktikum 1!.1".2024
+
+- Klausurtermine: Mittwoch 25.09.2024, Mittwoch 15.01.2025
+
+</span>
+
+- Webseite: [ogy.de/11Ph2](https://ogy.de/11Ph2)
+
+- Bücher Dienstag 06.08. 8:30 Uhr -> R234
+
+__iNFOS__
+
 - Kurslehrer: Hr. Golnik
 
 - E-Mail: golnik.ch@gykl.lernsax.de
@@ -47,6 +63,10 @@ window.LIA.settings.font_size = 2
 - Unterrichts Plan: [Herr Golnik](https://diversewolken.ddns.net/nextcloud/index.php/s/9BRb5nkXicbS854)
 
 ??[Plan](https://diversewolken.ddns.net/nextcloud/index.php/s/9BRb5nkXicbS854/preview)
+
+## Allgemeine Informationen
+
+
 
 ## Tutorstunde 05.08.24 - Übersicht
 
@@ -66,32 +86,6 @@ window.LIA.settings.font_size = 2
 
 - [ ] Frühstücken
 
-## Allgemeine Informationen
-
-{{1}}
-***********
-<span style="color:orange">
-
-- Noten: mind. 2 sonstige, 2 Klausur
-
-- Leistungskontrolle: Donnerstag 29.08.2024, Praktikum 12.11.2024
-
-- Klausurtermine: Mittwoch 25.09.2024, Mittwoch 13.01.2025
-
-</span>
-***********
-
-{{2}}
-***********
-
-- Webseite: [ogy.de/11Ph2](https://ogy.de/11Ph2)
-
-***********
-
-{{3}}
-***********
-- Bücher Dienstag 06.08. 8:30 Uhr -> R234
-***********
 
 ## Belehrungen
 
