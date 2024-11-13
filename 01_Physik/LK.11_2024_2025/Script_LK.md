@@ -3788,9 +3788,9 @@ __Abitur Sachsen 1999__
 1.1 Ein Pkw fährt auf der Autobahn mit der konstanten Geschwindigkeit von 130 km/h. In der Entfernung von 200 m nimmt der Fahrer die elektronische Verkehrsleiteinrichtung wahr, die die Höchstgeschwindigkeit 80 km/h vorschreibt und auf einen Unfall hinweist. Nach der Reaktionszeit 0,8 s betätigt der Fahrer die Bremse. Die Verzögerung erfolgt gleichmäßig. Der Pkw erreicht exakt beim Passieren der Verkehrsleiteinrichtung die vorgegebene Höchstgeschwindigkeit.
 Zeichnen Sie ein s(t)- und ein v(t)-Diagramm für den Zeitraum vom Erkennen der Anzeige bis zum Passieren der Verkehrsleiteinrichtung. Berechnen Sie die notwendige Bremsbeschleunigung und die Bremszeit. (5BE)
 
-@rangeQuiz2($\hspace{1m}$ $a_{brems}$, 0 , $\frac{m}{s^2}$)
+@rangeQuiz2($\hspace{1cm}$ $a_{brems}$, 0 , $\frac{m}{s^2}$)
 
-@rangeQuiz2($\hspace{1m}$ $t_{brems}$, 0 , $s$)
+@rangeQuiz2($\hspace{1cm}$ $t_{brems}$, 0 , $s$)
 
 <div style="text-indent:10%">
 
