@@ -3737,11 +3737,11 @@ In der Auswertung des Diagramms ergab sich eine Beschleunigung von ca. $-11,5 \f
 ## 3.7 Die Momentangeschwindigkeit
 
 
-<iframe src="https://www.geogebra.org/classic/fartbyak?embed" width="100%" height="800" allowfullscreen style="border: 1px solid #e4e4e4;border-radius: 4px;" frameborder="0"></iframe>
+<iframe src="https://www.geogebra.org/classic/gcs9yuyv?embed" width="100%" height="800" allowfullscreen style="border: 1px solid #e4e4e4;border-radius: 4px;" frameborder="0"></iframe>
 
 ---
 
-{{1}}
+{{1-2}}
 **********
 __Beispiel: x(t) und v(t) mit Ansteigsdreieck:__
 
