@@ -3764,10 +3764,18 @@ __Beispiel: x(t) und v(t) mit Anstiegsdreieck (mit Zoom)__
 
 ### Übung: Zuordnung Graphen
 
+<p class="newspaper">
+
 Gegeben sind folgende v(t)-Graphen für 7 verschiedene Fälle.
 
 ![Faelle_vt](https://diversewolken.ddns.net/nextcloud/index.php/s/L8Y8XrqrZpBX6Tt/download)
 
+<p class="cb">
+
 Ordne im folgenden Bild die x(t)-Graphen den oberen Fällen zu.
 
-<iframe src="https://learningapps.org/watch?v=pd58g8qzt24" style="border:0px;width:100%;height:500px" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"></iframe>
+<iframe src="https://learningapps.org/watch?v=pd58g8qzt24" style="border:0px;width:100%;height:600px" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"></iframe>
+
+</p>
+
+</p>
