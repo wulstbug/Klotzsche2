@@ -3734,12 +3734,24 @@ In der Auswertung des Diagramms ergab sich eine Beschleunigung von ca. $-11,5 \f
 
 </div>
 
-## 3.7 Zusammenhang von Ort und Geschwindigkeit
+## 3.7 Die Momentangeschwindigkeit
 
 
-??[Geogebra-Anstiegsdreieck2](https://www.geogebra.org/m/fartbyak)
+<iframe src="https://www.geogebra.org/classic/fartbyak?embed" width="100%" height="800" allowfullscreen style="border: 1px solid #e4e4e4;border-radius: 4px;" frameborder="0"></iframe>
 
 ---
 
-??[Geogebra-Anstiegsdreieck](https://www.geogebra.org/m/k9bpa9mw)
+{{1}}
+**********
+__Beispiel: x(t) und v(t) mit Ansteigsdreieck:__
 
+<iframe src="https://www.geogebra.org/classic/kpmbbr8v?embed" width="100%" height="800" allowfullscreen style="border: 1px solid #e4e4e4;border-radius: 4px;" frameborder="0"></iframe>
+**********
+---
+
+{{2}}
+**********
+__Beispiel: x(t) und v(t) mit Anstiegsdreieck (mit Zoom)__
+
+<iframe src="https://www.geogebra.org/classic/gpbcwtqx?embed" width="100%" height="800" allowfullscreen style="border: 1px solid #e4e4e4;border-radius: 4px;" frameborder="0"></iframe>
+**********
