@@ -3781,7 +3781,7 @@ Ordne im folgenden Bild die x(t) Fälle den v(t) Fällen zu.
 
 ![Tafelbild_Momentangeschwindigkeit](https://diversewolken.ddns.net/nextcloud/index.php/s/2gC5MmDGj7DoSqy/download)
 
-### Abituraufgabe Bewegungsvorgänge
+### Abituraufgabe 1 Bewegungsvorgänge
 
 __Abitur Sachsen 1999__
 
@@ -3807,4 +3807,26 @@ Berechne für Zeitschritte von 0,05s x(t) und y(t) und trage die Punkte in das D
 1.2 Der Fahrer hält nach dem Passieren der Verkehrsleiteinrichtung die vorgegebene Höchstgeschwindigkeit 80 km/h zunächst ein. Durch das Geschehen an der Unfallstelle abgelenkt, bemerkt er jedoch ein 30 m vor ihm mit der Geschwindigkeit 30 km/h gleichförmig fahrendes Fahrzeug sehr spät. Er leitet nach Reaktionszeit 1,0 s eine Vollbremsung ein. Die Verzögerung erfolgt wiederum gleichmäßig. Berechnen Sie die Bremsverzögerung, die mindestens notwendig wäre, um einen Auffahrunfall zu vermeiden. Ein Ausweichen ist nicht möglich. (3BE)
 
 1.3 Der Unfall war nicht zu verhindern und der Pkw mit der Masse 1,1 t prallte auf das vorausfahrende Fahrzeug mit der Masse 1,8 t. Die Geschwindigkeit des Pkw betrug unmittelbar vor dem Aufprall 40 km/h. Beim Aufprall setzte der Bremsvorgang aus und die beiden Fahrzeuge verhakten sich. Berechnen Sie den Betrag der während des Zusammenstoßes verrichteten Verformungsarbeit. (3BE)
+
+
+### Abituraufgabe 2 Bewegungsvorgänge
+
+In der Vorbereitungsphase eines Autorennens finden Tests statt. 
+
+2. 1. Zunächst werden die Bremsen des Rennwagens A getestet. Dazu wird der Wagen von 230 km/h auf 80 km/h gleichmäßig abgebremst. Aus den elektronisch über­mittel­ten Daten wird der Bremsweg 240 m bestimmt. <br> Berechnen Sie die Beschleunigung und die Bremszeit. Zeichnen Sie ein zugehöriges s(t)-Diagramm. (6 BE)
+
+2. 2. Danach wird der Rennwagen B getestet. Der Rennwagen beschleunigt aus der Ruhe he­r­aus auf die Endgeschwindigkeit $v_1$. Die Geschwindigkeit nimmt linear mit dem zu­rück­gelegten Weg zu. <br> Begründen Sie, dass die Beschleunigung nicht konstant ist. 	(2 BE)
+
+2. 3. Nun werden beide Fahrzeuge gleichzeitig getestet. <br> Rennwagen A und Rennwagen B passieren gleichzeitig ein und denselben Ort mit der Ge­schwindigkeit 180 km/h bzw. 200 km/h. Ab diesem Zeitpunkt ($t = 0$) treten beim Renn­wagen B Motorprobleme auf und dessen Geschwindigkeit sinkt danach ge­mäß der in der Tabelle dargestellten Daten.
+
+<div style="margin-left:10%">
+
+|         |      |      |      |     |     |    |
+| t in s  | 0    | 5    | 10   | 15  | 20  | 25 |
+| v in m/s| 55,6 | 35,6 | 20,0 | 8,9 | 2,2 | 0  |
+
+
+Die Geschwindigkeit von Rennwagen A bleibt konstant und er überholt Rennwagen B we­gen dessen Motorschadens. Weisen Sie nach, dass dies etwa nach 2,7 s geschieht. (4BE)
+
+</div>
 
