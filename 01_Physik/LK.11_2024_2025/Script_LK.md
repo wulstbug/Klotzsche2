@@ -3759,10 +3759,6 @@ __Beispiel: x(t) und v(t) mit Anstiegsdreieck (mit Zoom)__
 <iframe src="https://www.geogebra.org/classic/gpbcwtqx?embed" width="100%" height="600" allowfullscreen style="border: 1px solid #e4e4e4;border-radius: 4px;" frameborder="0"></iframe>
 **********
 
-## 3.7 Die Momentangeschwindigkeit
-
-![Tafelbild_Momentangeschwindigkeit](https://diversewolken.ddns.net/nextcloud/index.php/s/2gC5MmDGj7DoSqy/download)
-
 ### Übung: Zuordnung Graphen
 
 <p class="newspaper">
@@ -3773,10 +3769,15 @@ Gegeben sind folgende v(t)-Graphen für 7 verschiedene Fälle.
 
 <p class="cb">
 
-Ordne im folgenden Bild die x(t)-Graphen den oberen Fällen zu.
+Ordne im folgenden Bild die x(t) Fälle den v(t) Fällen zu.
 
-<iframe src="https://learningapps.org/watch?v=pd58g8qzt24" style="border:0px;width:100%;height:600px" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"></iframe>
+<iframe src="https://learningapps.org/watch?v=pd58g8qzt24" style="border:0px;width:100%;height:500px" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"></iframe>
+
+</p>
 
 </p>
 
-</p>
+## 3.7 Die Momentangeschwindigkeit
+
+![Tafelbild_Momentangeschwindigkeit](https://diversewolken.ddns.net/nextcloud/index.php/s/2gC5MmDGj7DoSqy/download)
+
