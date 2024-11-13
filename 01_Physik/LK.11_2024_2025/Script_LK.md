@@ -3781,6 +3781,26 @@ Ordne im folgenden Bild die x(t) Fälle den v(t) Fällen zu.
 
 ![Tafelbild_Momentangeschwindigkeit](https://diversewolken.ddns.net/nextcloud/index.php/s/2gC5MmDGj7DoSqy/download)
 
+
+### Übung: Zuordnung Graphen
+
+<p class="newspaper">
+
+Gegeben sind folgende v(t)-Graphen für 7 verschiedene Fälle.
+
+![Faelle_vt](https://diversewolken.ddns.net/nextcloud/index.php/s/L8Y8XrqrZpBX6Tt/download)
+
+<p class="cb">
+
+Ordne im folgenden Bild die x(t) Fälle den v(t) Fällen zu.
+
+<iframe src="https://learningapps.org/watch?v=pd58g8qzt24" style="border:0px;width:100%;height:500px" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"></iframe>
+
+</p>
+
+</p>
+
+
 ### Abituraufgabe 1 Bewegungsvorgänge
 
 1. 1. Ein Pkw fährt auf der Autobahn mit der konstanten Geschwindigkeit von 130 km/h. In der Entfernung von 200 m nimmt der Fahrer die elektronische Verkehrsleiteinrichtung wahr, die die Höchstgeschwindigkeit 80 km/h vorschreibt und auf einen Unfall hinweist. Nach der Reaktionszeit 0,8 s betätigt der Fahrer die Bremse. Die Verzögerung erfolgt gleichmäßig. Der Pkw erreicht exakt beim Passieren der Verkehrsleiteinrichtung die vorgegebene Höchstgeschwindigkeit. <br> Zeichnen Sie ein s(t)- und ein v(t)-Diagramm für den Zeitraum vom Erkennen der Anzeige bis zum Passieren der Verkehrsleiteinrichtung. Berechnen Sie die notwendige Bremsbeschleunigung und die Bremszeit. (5BE)
