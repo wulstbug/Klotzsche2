@@ -3641,7 +3641,7 @@ $$ v_y(t) = - 9,81 \frac{m}{s^2}\cdot t + 2,75 \frac{m}{s}$$
 
 ---
 
-4. Ermittle für den höchsten Punkt: $t_{max}$, $x(t_{max})$, $y(t_{max})$. Vergleiche deine Berechung mit dem experimentellen Diagramm (aus 3.6).
+4. Ermittle für den höchsten Punkt: $t_{max}$, $x(t_{max})$, $y(t_{max})$. Vergleiche deine Berechung mit dem experimentellen Diagramm (aus 3.6). Hier ist $t_{max}$ der Zeitpunkt, an welchem der Körper die höchste Stelle erreicht.
 
 @rangeQuiz2($\hspace{1cm}$ $t_{max}$, 0.28, $s$)
 
