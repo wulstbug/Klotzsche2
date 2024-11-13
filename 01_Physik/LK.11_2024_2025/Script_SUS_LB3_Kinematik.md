@@ -689,3 +689,7 @@ In der Auswertung des Diagramms ergab sich eine Beschleunigung von ca. $-11,5 \f
 
 </div>
 
+
+## 3.7 Die Momentangeschwindigkeit
+
+![Tafelbild_Momentangeschwindigkeit](https://diversewolken.ddns.net/nextcloud/index.php/s/2gC5MmDGj7DoSqy/download)
