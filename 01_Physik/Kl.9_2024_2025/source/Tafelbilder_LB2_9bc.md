@@ -8,6 +8,7 @@ language: de
     display: none !important;
 }
 
+
 @media (min-width: 600px) {
     .newspaper {
         column-count: 2;
@@ -71,6 +72,31 @@ window.LIA.settings.font_size = 2
 
 </div>
 
+@end
+
+
+@rangeQuiz2
+<div style="display: flex;flex-direction: row;flex-wrap: nowrap">
+<div style="float:left">
+@0$\ =\ $
+</div> 
+<div style="float:left">
+<!-- data-solution-button="off" -->
+[[ @1 ]]
+<script>
+let input = "@input".replace(",", ".")
+try {
+    input = Math.abs(eval(input)-@1)/Math.abs(@1)
+    input <= 0.03
+} catch (e) {
+    false
+}
+</script>
+</div> 
+<div style="float:left">
+@2
+</div>
+</div>
 @end
 
 mode: presentation
@@ -343,3 +369,294 @@ c) $\eta$ = [[ 0,125 ]] %
 _Hinweis: Klicke auf die Glühlampen für Lösungshinweise_
 *************
 
+
+## 2.5 Energiebedarf moderner Gesellschaften
+
+@timer(10,00)
+
+{{0-6}}
+***********
+
+__siehe LB S. 31__
+
+{{1}} 
+***********
+Lies die linke Spalte bis zum Diagramm. Beantworte dann die beiden Fragen auf einem Stichpunktzettel.
+***********
+
+{{1-3}}
+*************
+![Energiebedarf](https://diversewolken.ddns.net/nextcloud/index.php/s/siWycf4txMC7qLm/download "Genutzte __primäre__ Energiequellen der Menschheit (Quelle: LB S. 31)") <!--style="display:block;margin-left:auto;margin-right:auto; max-width:400px"-->
+*************
+
+{{3}}
+*************
+![Energiebedarf2](https://diversewolken.ddns.net/nextcloud/index.php/s/bxotwGjptqE73fy/download "Genutzte __primäre__ Energiequellen der Menschheit (LB S.31)") <!--style="display:block;margin-left:auto;margin-right:auto; max-width:400px"-->
+*************
+
+
+{{1}}
+*************
+1. Formuliere zwei Aussagen bezüglich der Gesamtenergie und der erneuerbaren Energie, welche man aus dem Diagramm entnehmen kann.
+
+{{2}}
+*************
+> - die Nutzung @color(primärer Energiequellen,red) ist im Lauf der letzten 50 Jahre gestiegen, sie hat sich mehr als verdoppelt
+>
+> - die Menge @color(erneuerbarer Energien [Wasser-Sonne-Wind-Biomasse],red) ist ebenfalls gestiegen
+*************
+
+
+2. Ermittle aus dem Diagramm, den Anteil erneuerbarer Energien (in Prozent von der Gesamtenergie) im Jahr 1960 und vergleiche ihn mit dem Anteil im Jahr 2015.
+
+<p class="newspaper">
+
+{{4}}
+*************
+> - 1960
+>
+> $$ \dfrac{0,2\,cm}{2,2\,cm} \cdot 100 \% \approx 10\% $$
+
+<p class="cb">
+
+{{5}}
+*************
+
+
+> - 2010
+>
+> $$ \dfrac{1,6\,cm}{5,6\,cm} \cdot 100 \% \ \approx 30\% $$
+
+*************
+
+</p>
+
+*************
+
+</p>
+
+*************
+
+***********
+
+{{6}}
+***********
+<p class="newspaper">
+
+@color(_Diagramm skizzenhaft übernehmen_, blue)
+
+![Energiebedarf2](https://diversewolken.ddns.net/nextcloud/index.php/s/bxotwGjptqE73fy/download "Genutzte __primäre__ Energiequellen der Menschheit (LB S.31)")
+
+<p class="cb">
+
+@color(__siehe Diagramm LB S. 31__, blue)
+
+__Nutzung primärer Energiequellen (1960-2015):__
+
+> - die Nutzung @color(primärer Energiequellen,red) ist im Lauf der letzten 50 Jahre gestiegen, sie hat sich mehr als verdoppelt
+>
+> - die bereitgestellte Menge @color(erneuerbarer Energien [Wasser-Sonne-Wind-Biomasse],red) ist ebenfalls gestiegen
+
+</p>
+
+</p>
+
+__Anteil erneuerbarer Energien (1960-2015):__
+
+<p class="newspaper">
+
+> - 1960
+>
+> $$ \dfrac{0,2\,cm}{2,2\,cm} \cdot 100 \% \approx 10\% $$
+
+<p class="cb">
+
+> - 2010
+>
+> $$ \dfrac{1,6\,cm}{5,6\,cm} \cdot 100 \% \ \approx 30\% $$
+
+</p>
+
+</p>
+
+***********
+
+## 2.6 Die Bereitstellung elektrischer Energie in modernen Gesellschaften
+
+@timer(20,00)
+
+> @color(Elektrische Energie,red) spielt in modernen westlichen Gesellschaften eine wichtige Rolle. Sie wird durch verschiedene Arten von __Kraftwerken__ bereit gestellt. 
+>
+> Kraftwerke wandeln primäre Energiequellen (Gas, Kohle, Kernbrennstoff, Windenergie, Wasserenergie) in @color(elektrische Energie,red) um
+
+{{1-6}}
+**********
+__siehe LB S. 37/38__
+
+__Aufgaben:__ 
+
+<i style="color:blue">
+
+1. Übernimm den Merksatz (oben)
+
+---
+
+2. 1. Lies den Text "Die Bedeutung elektrischer Energie" (LB S. 37)
+
+2. 2. Notiere drei Gründe, warum elektrische Energie für moderne Gesellschaften einen große Bedeutung hat
+
+{{2}}
+*********
+![UmwandlungElektrischerEnergie](https://diversewolken.ddns.net/nextcloud/index.php/s/49i35ds3osncYLc/download)
+*********
+
+{{3}}
+*********
+<p style="text-indent:10%; color:black">
+
+> -> elektrische Energie kann aus vielen primären Energieträgern umgewandelt werden
+>
+> -> elektrische Energie ist leicht transportabel
+>
+> -> elektrische Energie lässt sich vor Ort in viele andere Energieformen umwandeln
+
+</p>
+*********
+
+---
+
+3. 1. Lies den Text "Bereitstellung elektrischer Energie durch Kraftwerke (S.38).
+
+3. 2. Notiere bespielhaft für drei Kraftwerkstypen den Wirkungsgrad
+
+3. 3. Betrachte die schematische Dartellung verschiedener Kraftwerksformen (S.38/39 unten)
+
+{{4}}
+************
+![Waermekraftewerk](https://diversewolken.ddns.net/nextcloud/index.php/s/zq3twaoxKzLcwj7/download) ![Heizkrafttwerk](https://diversewolken.ddns.net/nextcloud/index.php/s/8qx3ERQmPMgmeqX/download) ![Wasserkraftwerk](https://diversewolken.ddns.net/nextcloud/index.php/s/Xbf7QmBSmwzN4GK/download)
+************
+
+3. 4. Überprüfe und notiere Elemente, welche in beinahe jedem Kraftwerkstyp zum Einsatz kommen
+
+{{5}}
+*********
+<p style="text-indent:10%; color:black">
+
+> -> in beinahe jedem Kraftwerkstyp (ausgenommen Solarkraftwerk) kommt ein @color(Generator,red) zum Einsatz
+>
+> -> Generatoren wandeln mechanische Energie(z.B. Rotationsenergie) in elektrische Energie um
+
+</p>
+*********
+
+---
+
+</i>
+
+**********
+
+
+{{6}}
+**********
+
+__Gründe für die Nutzung elektrischer Energie als @color(sekundäre Energiequelle , red):__
+
+> -> elektrische Energie kann aus vielen primären Energieträgern umgewandelt werden
+>
+> -> elektrische Energie ist leicht transportabel
+>
+> -> elektrische Energie lässt sich vor Ort in viele andere Energieformen umwandeln
+
+__Generatoren als Energiewandler für elektrische Energie:__
+
+> -> in beinahe jedem Kraftwerkstyp (ausgenommen Solarkraftwerk) kommt ein @color(Generator,red) zum Einsatz
+>
+> -> Generatoren wandeln mechanische Energie(z.B. Rotationsenergie) in elektrische Energie um
+**********
+
+## Wie funktioniert ein Generator?
+
+!?[MausStrom](https://www.youtube.com/watch?v=Je22SgH8TCk)
+
+## Generator selber bauen
+
+__Aufgabenstellung:__ Nutze in einer Gruppe von zwei Leuten den Bausatz und baue den Generator auf. Am Lehrertisch gibt es ein Demogerät. Experimentiere mit dem Generator anhand folgender Aufgaben
+
+{{1}}
+*******
+<p class="newspaper">
+
+__Der Generator:__
+
+1. Schließe an den Generator das Cassy-Messgerät zur Spannungsmessung an. (nur @color(roten,red) und @color(blauen, blue) Pol verwenden.)
+
+2. Stelle das Cassy-Messgerät bei der Spannungseinstellung (__Messbereich__) auf -0,3 bis 0,3 V.
+
+3. Drehe an der Welle und überprüfe die angezeigte Spannung. <br> @color(-> Der Spannungsmesser sollte ausschlagen.,orange)
+
+4. Drehe die Welle in die andere Richtung und überprüfe die angezeigte Spannung. Was stellst du fest?
+
+    @color(Spannung wechselt das Vorzeichen, orange)
+
+
+<p class="cb">
+
+{{3}}
+***********
+__Der Elektro-Motor:__
+***********
+
+{{2}}
+****************
+5. Besorge dir am Lehrertisch eine Spannungsquelle. Schließe die Spannungsquelle statt dem Cassy-Messgerät an den Generator an. Erhöhe langsam die Spannung.
+
+     <bdi style="color:red">$\boxed{\textbf{ACHTUNG: SPANNUNG}}$</bdi>
+
+     <bdi style="color:red">$\boxed{\textbf{NICHT ÜBER 2V ERHÖHEN}}$</bdi>
+
+6. Welche andere Funktion kann ein Generator übernehmen?
+
+7. Vertausche die Pole der Spannungsquelle und beobachte das Verhalten deines Experimentes.
+****************
+</p>
+
+</p>
+*******
+
+## 2.7 Die Funktionsweise eines Generators
+
+Ein einfacher __Generator__ besteht typischer Weise aus einem @color(Magneten, orange) und einer @color(Spule,orange), welche sich im Magnetfeld drehen kann.
+
+{{1}}
+**************
+<p class="newspaper">
+
+__Skizze:__
+
+![Generator_Skizze](https://asset.conrad.com/media10/isa/160267/c1/-/de/Generator/grundfunktion-eines-generators.jpg)
+
+<p class="cb">
+
+1. Fester Dauermagnet (kann auch Elektromagnet sein) -> @color(__STATOR__,red)
+
+2. Magnetfeld des Dauermagneten (_nicht sichtbar_)
+
+3. Drehbare Spule (hier nur Leiterschleife) -> @color(__ROTOR__,red)
+
+4. Schleifringe
+
+5. Schleifkontakte zur Spannungsabführung
+
+_Hinweis: Magnet und Spule (d.h. **Rotor** und **Stator**) können auch vertauscht sein. Dann ist Magnet beweglich und die Spule fest._
+
+</p>
+
+</p>
+**************
+
+{{2}}
+**************
+__Video: Wie funktioniert ein Generator?__
+
+!?[EVN-Wie-Funktioniert-Ein-Generator](https://www.youtube.com/watch?v=qJCWKwpt1lg)
+**************
