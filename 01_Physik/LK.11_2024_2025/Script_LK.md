@@ -3781,3 +3781,30 @@ Ordne im folgenden Bild die x(t) Fälle den v(t) Fällen zu.
 
 ![Tafelbild_Momentangeschwindigkeit](https://diversewolken.ddns.net/nextcloud/index.php/s/2gC5MmDGj7DoSqy/download)
 
+### Abituraufgabe Bewegungsvorgänge
+
+__Abitur Sachsen 1999__
+
+1.1 Ein Pkw fährt auf der Autobahn mit der konstanten Geschwindigkeit von 130 km/h. In der Entfernung von 200 m nimmt der Fahrer die elektronische Verkehrsleiteinrichtung wahr, die die Höchstgeschwindigkeit 80 km/h vorschreibt und auf einen Unfall hinweist. Nach der Reaktionszeit 0,8 s betätigt der Fahrer die Bremse. Die Verzögerung erfolgt gleichmäßig. Der Pkw erreicht exakt beim Passieren der Verkehrsleiteinrichtung die vorgegebene Höchstgeschwindigkeit.
+Zeichnen Sie ein s(t)- und ein v(t)-Diagramm für den Zeitraum vom Erkennen der Anzeige bis zum Passieren der Verkehrsleiteinrichtung. Berechnen Sie die notwendige Bremsbeschleunigung und die Bremszeit. (5BE)
+
+@rangeQuiz2($\hspace{1m}$ $a_{brems}$, 0 , $\frac{m}{s^2}$)
+
+@rangeQuiz2($\hspace{1m}$ $t_{brems}$, 0 , $s$)
+
+<div style="text-indent:10%">
+
+<details>
+
+<summary> Hinweis </summary>
+
+Berechne für Zeitschritte von 0,05s x(t) und y(t) und trage die Punkte in das Diagramm ein.
+
+</details>
+
+</div>
+
+1.2 Der Fahrer hält nach dem Passieren der Verkehrsleiteinrichtung die vorgegebene Höchstgeschwindigkeit 80 km/h zunächst ein. Durch das Geschehen an der Unfallstelle abgelenkt, bemerkt er jedoch ein 30 m vor ihm mit der Geschwindigkeit 30 km/h gleichförmig fahrendes Fahrzeug sehr spät. Er leitet nach Reaktionszeit 1,0 s eine Vollbremsung ein. Die Verzögerung erfolgt wiederum gleichmäßig. Berechnen Sie die Bremsverzögerung, die mindestens notwendig wäre, um einen Auffahrunfall zu vermeiden. Ein Ausweichen ist nicht möglich. (3BE)
+
+1.3 Der Unfall war nicht zu verhindern und der Pkw mit der Masse 1,1 t prallte auf das vorausfahrende Fahrzeug mit der Masse 1,8 t. Die Geschwindigkeit des Pkw betrug unmittelbar vor dem Aufprall 40 km/h. Beim Aufprall setzte der Bremsvorgang aus und die beiden Fahrzeuge verhakten sich. Berechnen Sie den Betrag der während des Zusammenstoßes verrichteten Verformungsarbeit. (3BE)
+

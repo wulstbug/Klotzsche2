@@ -1411,30 +1411,6 @@ Theoretische Untersuchung:
 
 ## 2.12 Kräftegleichgewicht an einer Looping-Bahn
 
-Wir betrachten einen Körper, der auf einer festen Schiene gleitet, welche einen Looping enthält. Zur Vereinfachung werden Reibungseffekte vernachlässig. 
-
-> __Bedingung:__ Der Körper kann den Looping erfolgreich durchfahren, wenn die radiale Komponte, der auf den Körper wirkenden Kraft in jedem Punkt kleiner ist, als die zur momentanen Geschwindigkeit gehörende @color(Zentripetalkraft $F_{ZP}$,red).
-
-> __Analyse:__ Auf den Körper wirkt während der gesamten Fahrt lediglich die Gewichtskraft $F_g$. Im obersten Punkt des Loopings zeigt $\vec{F_g}$ zum Mittelpunkt des Looping-Radius. Somit ist der radiale Anteil von $F_g$ hier am größten. In diesem Punkt darf $F_g$ nur maximal der Zentripetalkraft bezogen auf Radius $r$ und Geschwindigkeit $v$ sein.
-
-> __Berechnung der minimalen Geschwindigkeit $v_{min}$ im obersten Punkt für den Grenzfall $F_{ZP}=F_g$:__
->
-> $$ F_{ZP} = F_g$$
->
-> $$ \dfrac{m\cdot v_{min}^2}{r} = m \cdot g$$
->
-> $$ \dfrac{m\cdot v_{min}^2}{r} = m \cdot g$$
->
-> $$ v_{min}^2 = r \cdot g$$
->
-> __Die @color(minimale mechanische Gesamtenergie $E_{ges}=E_{pot}+E_{kin}$,red) des Körpers beträgt daher:__
->
-> $$ E_{ges} = m \cdot g \cdot (2r) + \frac{1}{2} \cdot m \cdot g \cdot r $$
->
-> $$ E_{ges} = m \cdot g \cdot (2r + \frac{1}{2} r) $$
-
-> __Ergebnis__: Die Gesamtenergie des Körpers muss zu jedem Zeitpunkt, __@color(also auch zu Beginn der Bewegung, orange)__ mindestens der potentiellen Energie des 2,5 fachen Radius entsprechen.
-
 ### Übungsaufgaben zum Looping
 
 <bdi style="color:red"> Die überprüfbaren Lösungen werden mit drei signifikanten Stellen überprüft. D.h. wenn das Ergebnis 16,786 m ist, muss 16,8 m gerundet werden. Bei 0,086434 s, sollte 0,0864 s überprüft werden. <br> __Signifikante Stellen__ sind diejenigen Ziffern, die nach den führenden Nullen folgen.
