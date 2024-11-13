@@ -3783,30 +3783,162 @@ Ordne im folgenden Bild die x(t) Fälle den v(t) Fällen zu.
 
 ### Abituraufgabe 1 Bewegungsvorgänge
 
-__Abitur Sachsen 1999__
+1. 1. Ein Pkw fährt auf der Autobahn mit der konstanten Geschwindigkeit von 130 km/h. In der Entfernung von 200 m nimmt der Fahrer die elektronische Verkehrsleiteinrichtung wahr, die die Höchstgeschwindigkeit 80 km/h vorschreibt und auf einen Unfall hinweist. Nach der Reaktionszeit 0,8 s betätigt der Fahrer die Bremse. Die Verzögerung erfolgt gleichmäßig. Der Pkw erreicht exakt beim Passieren der Verkehrsleiteinrichtung die vorgegebene Höchstgeschwindigkeit. <br> Zeichnen Sie ein s(t)- und ein v(t)-Diagramm für den Zeitraum vom Erkennen der Anzeige bis zum Passieren der Verkehrsleiteinrichtung. Berechnen Sie die notwendige Bremsbeschleunigung und die Bremszeit. (5BE)
 
-1.1 Ein Pkw fährt auf der Autobahn mit der konstanten Geschwindigkeit von 130 km/h. In der Entfernung von 200 m nimmt der Fahrer die elektronische Verkehrsleiteinrichtung wahr, die die Höchstgeschwindigkeit 80 km/h vorschreibt und auf einen Unfall hinweist. Nach der Reaktionszeit 0,8 s betätigt der Fahrer die Bremse. Die Verzögerung erfolgt gleichmäßig. Der Pkw erreicht exakt beim Passieren der Verkehrsleiteinrichtung die vorgegebene Höchstgeschwindigkeit.
-Zeichnen Sie ein s(t)- und ein v(t)-Diagramm für den Zeitraum vom Erkennen der Anzeige bis zum Passieren der Verkehrsleiteinrichtung. Berechnen Sie die notwendige Bremsbeschleunigung und die Bremszeit. (5BE)
+---
 
-@rangeQuiz2($\hspace{1cm}$ $a_{brems}$, 0 , $\frac{m}{s^2}$)
+<div style="margin-left:10%">
 
-@rangeQuiz2($\hspace{1cm}$ $t_{brems}$, 0 , $s$)
+__Zwischenlösungen:__
 
-<div style="text-indent:10%">
+@rangeQuiz2(Reaktionsweg: $s_{R}$, 28.9 , $m$)
+
+@rangeQuiz2(Bremsweg: $s_{brems}$, 171.1 , $m$)
+
+---
+
+__Endergebnisse:__
+
+@rangeQuiz2(Bremsbeschleunigung: $a_{brems}$, -2.4 , $\frac{m}{s^2}$)
+
+@rangeQuiz2(Bremszeit: $t_{brems}$, 5.9 , $s$)
+
+---
+
+__Hilfestellungen:__
 
 <details>
 
-<summary> Hinweis </summary>
 
-Berechne für Zeitschritte von 0,05s x(t) und y(t) und trage die Punkte in das Diagramm ein.
+<summary> Hinweis 1 </summary>
+
+Es liegen zwei Bewegungsabschnitte vor: Innerhalb der Reaktionszeit $t_R= 0,80 s$ erfolgt die Bewegung zunächst geradlinig gleichförmig mit der Anfangsgeschwindigkeit $v_0 = 130 km/h$. Während des zweiten Abschnittes verringert sich die Geschwindigkeit während der Bremszeit $t_B$_ linear bis zur vorgeschriebenen Höchstgeschwindigkeit $v_H = 80 km/h$.
+
+</details>
+
+<details>
+
+<summary> Hinweis 2 </summary>
+
+Im v-t-Diagramm wird also zunächst wegen der Konstanz der Geschwindigkeit wäh­rend der Reaktionszeit eine Parallele zur Abszissenachse gezeichnet, anschließend ein Stück einer fallenden Geraden. <br> Im s-t-Diagramm erscheint zunächst eine steigende Gerade, die in eine nach unten geöffnete Parabel übergeht. Der Anstieg dieses Parabeiabschnittes verringert sich, darf aber am Ende noch nicht den Scheitel dieser Parabel erkennen lassen.<br> Beachten Sie: Es gilt v = Also entspricht im s-t-Diagramm dem steigenden Parabei­stück mit abnehmendem Anstieg im v-t-Diagramm die fallende Gerade. Und da die
+Geschwindigkeit am Ende des zweiten Abschnittes nicht Null beträgt, befindet sich ent­sprechend am Ende des Parabeiastes noch nicht der Scheitel!
+
+</details>
+
+<details>
+
+<summary> Lösung Diagramme </summary>
+
+![Diagramm_L_1.2](https://diversewolken.ddns.net/nextcloud/index.php/s/F8LAqziiJ2HTBiQ/download)
+
+</details>
+
+<details>
+
+<summary> Lösung Berechnungen </summary>
+
+![Berechnung_L_1.2](https://diversewolken.ddns.net/nextcloud/index.php/s/ZRtR7K97NJPKmMi/download)
+
+</details>
+
+
+
+</div>
+
+---
+
+1. 2. Der Fahrer hält nach dem Passieren der Verkehrsleiteinrichtung die vorgegebene Höchstgeschwindigkeit 80 km/h zunächst ein. Durch das Geschehen an der Unfallstelle abgelenkt, bemerkt er jedoch ein 30 m vor ihm mit der Geschwindigkeit 30 km/h gleichförmig fahrendes Fahrzeug sehr spät. Er leitet nach Reaktionszeit 1,0 s eine Vollbremsung ein. Die Verzögerung erfolgt wiederum gleichmäßig. Berechnen Sie die Bremsverzögerung, die mindestens notwendig wäre, um einen Auffahrunfall zu vermeiden. Ein Ausweichen ist nicht möglich. (3BE)
+
+
+---
+
+<div style="margin-left:10%">
+
+__Zwischenlösungen:__
+
+@rangeQuiz2(Abstand nach Reaktion: $s_{A}$, 16.1 , $m$)
+
+---
+
+__Endergebnisse:__
+
+@rangeQuiz2(minimale Bremsbeschleunigung: $a'$, -6 , $\frac{m}{s^2}$)
+
+---
+
+__Hilfestellungen:__
+
+<details>
+
+
+<summary> Hinweis 1 </summary>
+
+![H1_L1.3](https://diversewolken.ddns.net/nextcloud/index.php/s/pjQocKxARbQKKi6/download)
+
+</details>
+
+<details>
+
+<summary> Hinweis 2 </summary>
+
+![H2_L1.3](https://diversewolken.ddns.net/nextcloud/index.php/s/HwgKG7CQHTG87rr/download)
+
+</details>
+
+<details>
+
+<summary> Hinweis 3 & Lösung</summary>
+
+![H3_L1.3](https://diversewolken.ddns.net/nextcloud/index.php/s/2HqqGAtQJQz8cfi/download)
 
 </details>
 
 </div>
 
-1.2 Der Fahrer hält nach dem Passieren der Verkehrsleiteinrichtung die vorgegebene Höchstgeschwindigkeit 80 km/h zunächst ein. Durch das Geschehen an der Unfallstelle abgelenkt, bemerkt er jedoch ein 30 m vor ihm mit der Geschwindigkeit 30 km/h gleichförmig fahrendes Fahrzeug sehr spät. Er leitet nach Reaktionszeit 1,0 s eine Vollbremsung ein. Die Verzögerung erfolgt wiederum gleichmäßig. Berechnen Sie die Bremsverzögerung, die mindestens notwendig wäre, um einen Auffahrunfall zu vermeiden. Ein Ausweichen ist nicht möglich. (3BE)
+---
 
-1.3 Der Unfall war nicht zu verhindern und der Pkw mit der Masse 1,1 t prallte auf das vorausfahrende Fahrzeug mit der Masse 1,8 t. Die Geschwindigkeit des Pkw betrug unmittelbar vor dem Aufprall 40 km/h. Beim Aufprall setzte der Bremsvorgang aus und die beiden Fahrzeuge verhakten sich. Berechnen Sie den Betrag der während des Zusammenstoßes verrichteten Verformungsarbeit. (3BE)
+1. 3. Der Unfall war nicht zu verhindern und der Pkw mit der Masse 1,1 t prallte auf das vorausfahrende Fahrzeug mit der Masse 1,8 t. Die Geschwindigkeit des Pkw betrug unmittelbar vor dem Aufprall 40 km/h. Beim Aufprall setzte der Bremsvorgang aus und die beiden Fahrzeuge verhakten sich. Berechnen Sie den Betrag der während des Zusammenstoßes verrichteten Verformungsarbeit. (3BE)
+
+---
+
+<div style="margin-left:10%">
+
+__Zwischenlösungen:__
+
+@rangeQuiz2(Geschwindigkeit nach Zusammenstoß: $v'$, 9.39 , $\frac{m}{s}$)
+
+---
+
+__Endergebnisse:__
+
+@rangeQuiz2(Verformungsarbeit: $W$, 2600 , $J$)
+
+---
+
+__Hilfestellungen:__
+
+<details>
+
+
+<summary> Hinweis 1 </summary>
+
+Für die gemeinsame Geschwindigkeit $v'$ nach dem Stoß gilt:
+
+$$ v' = \frac{m_1\cdot v_1 + m_2 \cdot v_2}{m_1+m_2} = 9,39 \frac{m}{s} $$
+
+</details>
+
+<details>
+
+<summary> Hinweis 2 </summary>
+
+Der Betrag der Verformungsarbeit $W$ ergibt sich aus der Differenz der kinetischen Energien vor und nach dem Stoß.
+
+$$ W = \frac{1}{2} \cdot m_1 \cdot v_1^2 + \frac{1}{2} \cdot m_2 \cdot v_2^2 - \frac{1}{2} \cdot (m_1+m_2) \cdot v'^2 = 2,6 kJ $$
+
+</details>
+
+</div>
 
 
 ### Abituraufgabe 2 Bewegungsvorgänge
@@ -3815,7 +3947,73 @@ In der Vorbereitungsphase eines Autorennens finden Tests statt.
 
 2. 1. Zunächst werden die Bremsen des Rennwagens A getestet. Dazu wird der Wagen von 230 km/h auf 80 km/h gleichmäßig abgebremst. Aus den elektronisch über­mittel­ten Daten wird der Bremsweg 240 m bestimmt. <br> Berechnen Sie die Beschleunigung und die Bremszeit. Zeichnen Sie ein zugehöriges s(t)-Diagramm. (6 BE)
 
+---
+
+<div style="margin-left:10%">
+
+__Endergebnisse:__
+
+@rangeQuiz2(Beschleunigung: $a$, -7.5 , $\frac{m}{s^2}$)
+
+@rangeQuiz2(Bremszeit: $t_{brems}$, 5.6 , $a$)
+
+---
+
+__Hilfestellungen:__
+
+<details>
+
+<summary> Hinweis 1 </summary>
+
+Wenden Sie die vollständigen Bewegungsgleichungen auf den Rennwagen A an. 
+
+</details>
+
+<details>
+
+<summary> Lösung Diagramm </summary>
+
+
+![L_Diagramm_H1_2.1](https://diversewolken.ddns.net/nextcloud/index.php/s/oZXtydeE2KQgP2p/download)
+
+
+![L_Diagramm_2.1](https://diversewolken.ddns.net/nextcloud/index.php/s/YZAcS83Xd64Nybp/download)
+
+</details>
+
+</div>
+
+---
+
 2. 2. Danach wird der Rennwagen B getestet. Der Rennwagen beschleunigt aus der Ruhe he­r­aus auf die Endgeschwindigkeit $v_1$. Die Geschwindigkeit nimmt linear mit dem zu­rück­gelegten Weg zu. <br> Begründen Sie, dass die Beschleunigung nicht konstant ist. 	(2 BE)
+
+
+---
+
+<div style="margin-left:10%">
+
+
+__Hilfestellungen:__
+
+<details>
+
+<summary> Hinweis 1</summary>
+
+![H1_2.2](https://diversewolken.ddns.net/nextcloud/index.php/s/BHsxffnyDFjLG5a/download)
+
+</details>
+
+<details>
+
+<summary> Lösung</summary>
+
+![L1_2.2](https://diversewolken.ddns.net/nextcloud/index.php/s/RoseCfNeNfHxiwK/download)
+
+</details>
+
+</div>
+
+---
 
 2. 3. Nun werden beide Fahrzeuge gleichzeitig getestet. <br> Rennwagen A und Rennwagen B passieren gleichzeitig ein und denselben Ort mit der Ge­schwindigkeit 180 km/h bzw. 200 km/h. Ab diesem Zeitpunkt ($t = 0$) treten beim Renn­wagen B Motorprobleme auf und dessen Geschwindigkeit sinkt danach ge­mäß der in der Tabelle dargestellten Daten.
 
@@ -3830,3 +4028,37 @@ Die Geschwindigkeit von Rennwagen A bleibt konstant und er überholt Rennwagen�
 
 </div>
 
+
+---
+
+<div style="margin-left:10%">
+
+
+
+__Hilfestellungen:__
+
+<details>
+
+<summary> Hinweis 1</summary>
+
+Den Nachweis des Überholens können Sie führen, indem Sie zeigen, dass sich beide Fahrzeuge zum Zeitpunkt $t_Ü = 2,7s$ am gleichen Ort befinden. 
+
+</details>
+
+<details>
+
+<summary> Lösung Teil A</summary>
+
+![L1_2.3](https://diversewolken.ddns.net/nextcloud/index.php/s/XqGj6J8W3TTyXF9/download)
+
+</details>
+
+<details>
+
+<summary> Lösung Teil B</summary>
+
+![L2_2.3](https://diversewolken.ddns.net/nextcloud/index.php/s/QEBAgfKodnbDHsj/download)
+
+</details>
+
+</div>
