@@ -480,7 +480,7 @@ __Anteil erneuerbarer Energien (1960-2015):__
 
 ## 2.6 Die Bereitstellung elektrischer Energie in modernen Gesellschaften
 
-@timer(20,00)
+@timer(10,00)
 
 > @color(Elektrische Energie,red) spielt in modernen westlichen Gesellschaften eine wichtige Rolle. Sie wird durch verschiedene Arten von __Kraftwerken__ bereit gestellt. 
 >
