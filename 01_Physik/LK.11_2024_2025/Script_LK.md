@@ -3877,7 +3877,7 @@ $$ 171,1 m = \frac{1}{2} \cdot a \cdot t^2 + 36,1\frac{m}{s} \cdot t $$
 
 $$ 22,2 \frac{m}{s} = a \cdot t + 36,1 \frac{m}{s} $$
 
-Der CAS bietet als Lösungen: $a=-2,4 \frac{m}{s^2}$ und $t=5,87 s$.
+Der CAS bietet als Lösungen: $a=-2,38 \frac{m}{s^2}$ und $t=5,87 s$.
 
 </details>
 
