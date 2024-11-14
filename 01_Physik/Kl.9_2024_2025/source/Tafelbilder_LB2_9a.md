@@ -420,7 +420,7 @@ Lies die linke Spalte bis zum Diagramm. Beantworte dann die beiden Fragen auf ei
 *************
 
 
-> - 2010
+> - 2015
 >
 > $$ \dfrac{1,6\,cm}{5,6\,cm} \cdot 100 \% \ \approx 30\% $$
 

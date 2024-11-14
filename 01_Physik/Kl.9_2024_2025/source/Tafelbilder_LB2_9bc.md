@@ -471,7 +471,7 @@ __Anteil erneuerbarer Energien (1960-2015):__
 
 <p class="cb">
 
-> - 2010
+> - 2015
 >
 > $$ \dfrac{1,6\,cm}{5,6\,cm} \cdot 100 \% \ \approx 30\% $$
 
