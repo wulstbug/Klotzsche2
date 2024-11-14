@@ -3855,9 +3855,29 @@ Geschwindigkeit am Ende des zweiten Abschnittes nicht Null beträgt, befindet si
 
 <details>
 
-<summary> Lösung Berechnungen </summary>
+<summary> Hinweis 3: Berechnungen </summary>
 
-![Berechnung_L_1.2](https://diversewolken.ddns.net/nextcloud/index.php/s/ZRtR7K97NJPKmMi/download)
+Wir betrachten hier __lediglich den Bremsvorgang__. Für den Bremsweg $s_{Brems}$ ergibt sich 171,1 m. Die Geschwindigkeit verringert sich von 36,1m/s (130 km/h) auf 22,2 m/s (80 km/h). Man stellt die Bewegungsgleichungen s(t) und v(t) für den Bremsvorgang auf und ermittelt die Unbekannten t und a.
+
+</details>
+
+<details>
+
+<summary> Lösungen: Berechnungen </summary>
+
+Allgemein:
+
+$$ s(t) = \frac{1}{2} \cdot a \cdot t^2 + v_0 \cdot t $$
+
+$$ v(t) = a \cdot t + v_0 $$
+
+Eingesetzt bedeutet das:
+
+$$ 171,1 m = \frac{1}{2} \cdot a \cdot t^2 + 36,1\frac{m}{s} \cdot t $$
+
+$$ 22,2 \frac{m}{s} = a \cdot t + 36,1 \frac{m}{s} $$
+
+Der CAS bietet als Lösungen: $a=-2,4 \frac{m}{s^2}$ und $t=5,87 s$.
 
 </details>
 
