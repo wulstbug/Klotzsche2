@@ -400,7 +400,7 @@ Lies die linke Spalte bis zum Diagramm. Beantworte dann die beiden Fragen auf ei
 *************
 > - die Nutzung @color(primärer Energiequellen,red) ist im Lauf der letzten 50 Jahre gestiegen, sie hat sich mehr als verdoppelt
 >
-> - die Menge @color(erneuerbarer Energien [Wasser-Sonne-Wind-Biomasse],red) ist ebenfalls gestiegen
+> - die Menge @color(erneuerbarer Energien Wasser-Sonne-Wind-Biomasse,red) ist ebenfalls gestiegen
 *************
 
 
@@ -452,7 +452,7 @@ __Nutzung primärer Energiequellen (1960-2015):__
 
 > - die Nutzung @color(primärer Energiequellen,red) ist im Lauf der letzten 50 Jahre gestiegen, sie hat sich mehr als verdoppelt
 >
-> - die bereitgestellte Menge @color(erneuerbarer Energien [Wasser-Sonne-Wind-Biomasse],red) ist ebenfalls gestiegen
+> - die bereitgestellte Menge @color(erneuerbarer Energien Wasser-Sonne-Wind-Biomasse,red) ist ebenfalls gestiegen
 
 </p>
 
