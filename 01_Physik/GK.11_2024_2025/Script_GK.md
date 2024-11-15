@@ -1938,10 +1938,6 @@ $$ v = 1,326 \cdot 10^{7} \frac{m}{s} $$
 
 </div>
 
-## 1.7 Pendel im elektrischen Feld
-
-![TB_FadenpendelElektrischesFeld](https://diversewolken.ddns.net/nextcloud/index.php/s/aB6PmLHcseFXY2Z/download)
-
 ### Aufgabe 7. Pendel im elektrischen Feld
 
 7. Elektrisches Feld mit Probeladung: LB. S. 123/15
@@ -1968,7 +1964,7 @@ $$ v = 1,326 \cdot 10^{7} \frac{m}{s} $$
 </div>
 
 
-## Lösungen Lehrbuchaufgaben
+### Lösungen Lehrbuchaufgaben
 
 __LB S. 123 Aufgabe 15__
 
@@ -2024,5 +2020,8 @@ __LB S. 124 Aufgabe 23__
 
 </details>
 
-
 </div>
+
+## 1.7 Elktronische Schaltkreise mit Kondensatoren
+
+??[PhET-Kondensator](https://phet.colorado.edu/sims/html/capacitor-lab-basics/latest/capacitor-lab-basics_all.html?locale=de)

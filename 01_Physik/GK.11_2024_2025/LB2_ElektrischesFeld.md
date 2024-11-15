@@ -887,7 +887,7 @@ $$ v = 1,326 \cdot 10^{7} \frac{m}{s} $$
 
 </div>
 
-## Lösungen Lehrbuchaufgaben
+### Lösungen Lehrbuchaufgaben
 
 @color(_Auf Wunsch hier ein paar Lösungen zu Übungsaufgaben.<br><br> MfG CG_<br><br>, orange)
 
