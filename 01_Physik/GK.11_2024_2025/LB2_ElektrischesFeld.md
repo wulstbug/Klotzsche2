@@ -644,8 +644,7 @@ __LB S. 124 Aufgabe 23__
 
 ??[PhET-Kondensator1](https://phet.colorado.edu/sims/html/capacitor-lab-basics/latest/capacitor-lab-basics_all.html?locale=de)
 
-
-## Sim2 Elktronische Schaltkreise mit Kondensatoren
+## Sim2 Elektronische Schaltkreise mit Kondensatoren
 
 ??[PhET-Kondensator2](https://phet.colorado.edu/sims/html/circuit-construction-kit-ac/latest/circuit-construction-kit-ac_all.html?locale=de)
 
