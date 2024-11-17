@@ -411,8 +411,6 @@ Gewichtskraft und elektrische Kraft müssen gleich groß sein, damit das Proton 
 
 ## 1.6 Potentielle Energie elektrischer Ladungen im Feld eines Plattenkondensators
 
-![Tafelbild_potEnergie_EFeld](https://diversewolken.ddns.net/nextcloud/index.php/s/Po989qzJJYmz4AJ/download)
-
 ### Aufgabe zur elektrischen potentiellen Energie
 
 6. Wir betrachten ein Elektron im elektrischen Feld eines Plattenkondensators. Im Raum zwischen den Platten sei Vakuum, die Platten haben eine Querschnittsfläche von $0,02\,m^2$, einen Abstand von $10\,cm$. Am Kondensator sei eine Spannung von $500\,V$ angelegt.
