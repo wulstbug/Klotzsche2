@@ -949,3 +949,230 @@ __LB S. 124 Aufgabe 23__
 
 
 </div>
+
+
+## Sim1 Elektronische Schaltkreise mit Kondesatoren
+
+??[PhET-Kondensator1](https://phet.colorado.edu/sims/html/capacitor-lab-basics/latest/capacitor-lab-basics_all.html?locale=de)
+
+
+## Sim2 Elktronische Schaltkreise mit Kondensatoren
+
+??[PhET-Kondensator2](https://phet.colorado.edu/sims/html/circuit-construction-kit-ac/latest/circuit-construction-kit-ac_all.html?locale=de)
+
+## 1.7 Elektronische Schaltkreise mit Kondensatoren
+
+@color(_Hinweis: Für die folgenden Unterrichtseinheiten werden wir mit dem Formelzeichen $Q$ immer die Ladung auf den Platten des Kondensators bezeichnen._,darkgrey) 
+
+<br>
+
+__Wiederholung:__ Schließen wir den Kondensator an eine Gleichspannungsquelle (Spannung $U-$) an, so fließen elektrische Ladungen auf den Kondensator. Im Kondensator wird die Ladungsmenge $Q$ gespeichert.
+
+
+<p class="newspaper">
+
+__Ladung $Q$__
+
+<p style="margin-left:5%">
+
+Die Ladung $Q$ beschreibt Anzahl von Elemtarladungen $e$.
+
+_Einheit: 1C (1 Coulomb)_
+
+$$ \boxed{1 e = 1,6 \cdot 10^{-19} C} \,\,\,\mathrm{oder}\,\,\, \boxed{1C = 6,24 \cdot 10^{18} e}$$
+
+</p>
+
+---
+
+__Spannung $U$__
+
+
+<p style="margin-left:5%">
+
+Die Spannung $U$ beschreibt den @color(das Potential bzw. den Antrieb für das fließen von Ladungsträgern, orange). 
+Je größer die Spannung, desto größer ist die gespeicherte Ladung.
+
+_Einheit: 1V (1 Volt)_
+
+</p>
+
+---
+
+__Stromstärke $I$__
+
+<p style="margin-left:5%">
+
+Die Stromstärke $I$ beschreibt <bdi style="color:orange">die Menge der elektrischen Ladungen $Q$, die pro Sekunde durch einen Leiterquerschnitt fließen</bdi>.
+
+_Einheit: 1A (1 Ampere)_
+
+Eine Stromstärke von 1A bedeutet, dass pro Sekunde eine Ladung von 1 C fließt.
+
+$$ \Big[ A = \frac{C}{s} \Big] $$
+
+--- 
+
+__Gespeicherte Energie $E_{Feld}$__
+
+Die im Kondensator (im elektrischen Feld) gespeicherte Energie $E_{Feld}$ wird berechnet mit
+
+$$ E_{Feld} = \frac{1}{2}\cdot Q \cdot U $$
+
+$$ E_{Feld} = \frac{1}{2}\cdot C \cdot U^2 $$
+
+</p>
+
+<p class="cb">
+
+__Schaltplan zum Laden des Kondensators__
+
+![Schaltkreis_Kondensator1](https://diversewolken.ddns.net/nextcloud/index.php/s/ARdjFMxTDoDoAWz/download)
+
+</p>
+
+</p>
+
+### 1.7.1 Experiment: Vorübung zur Schulung mit Cassy
+
+__Aufgabenstellung:__ Nimm mit die U-I-Kennlinie für einen ohmschen Widerstand ($R=512\Omega$) auf. Variiere die Spannung in Schritten von 1 V im Intervall 0 - 10 V.
+
+
+<p style="color:blue">
+
+__Durchführung:__ _(muss nicht notiert werden)_ 
+
+1. Übernimm Überschrift und Aufgabenstellung auf eine neue Seite.
+
+2. Übernimm den Schaltplan und die zugehörige Tabelle für die Messwerte.
+
+3. Stelle das Cassy-Messgerät anhand der Erklärungen ein.
+
+4. Variiere die Spannung an der Spannungsquelle von 0..10V in Schritten von 1 V. Notiere Spannung und Stromstärke an Cassy-Messgerät.
+
+5. Zeichne eine U-I-Kennlinie: Zeichne dazu ein Diagramm (x-Achse: U in V | y-Achse: I in A).
+
+6. Öffne die nächste Seite: @color(_Automatische Messwert-Erfassung mit Cassy_,darkgreen). Folge den Anweisungen und wiederhole die Messung mit einer Automatischen Messwert-Aufname
+
+</p>
+
+<p class="newspaper">
+
+__Schaltkreis:__
+
+![Schaltkreis_Exp1](https://diversewolken.ddns.net/nextcloud/index.php/s/rAwYZqysffqknd6/download)
+
+<p style="color:blue">
+
+__Einstellen des Cassy-Messgerätes:__ _(muss nicht notiert werden)_
+
+1. Schließe den blauen Anschluss (_I_) an den Minuspol der Spannungsquelle. Der schwarze Anschluss wird an den Widerstand angeschlossen.
+
+2. Schalte das Cassy-Messgerät ein. Im oberen linken Bereich des Fensters sind die messbaren Größen dargestellt. Deaktiviere mit [Cursor-Rad + OK] die Spannung und aktiviere die Stromstärke.
+
+![VGl-Cassy1](https://diversewolken.ddns.net/nextcloud/index.php/s/e7eaHcHB4YkGf95/download)<!-- style="max-width:80%;margin-left:10%" -->
+
+3. Klicke auf das Symbol für Stromstärke (I) und stelle für den Messbereich [-0,1A bis 0,1A] ein. Wechsle zurück Anzeige der Stromstärke.
+
+![VGl-Cassy2](https://diversewolken.ddns.net/nextcloud/index.php/s/JiSJbjqy3SkS2CN/download)<!-- style="max-width:80%;margin-left:10%" -->
+
+</p>
+
+<p class="cb">
+
+__Messwerte-Tabelle:__
+
+| U in V | I in A |
+| :---: | :---: |
+| 0 | |
+| 1 | |
+| 2 | |
+| .. | |
+| 9 | |
+| 10 | |
+
+__Diagramm Kennlinie:__
+
+![VGl-Diagramm](https://diversewolken.ddns.net/nextcloud/index.php/s/Z9at8rKH75N4Agt/download)
+
+</p>
+
+</p>
+
+### 1.7.2 Automatische Messwerterfassung mit Cassy:
+
+In dieser Messreihe wird die Kennlinie vom Cassy-Messgerät automatisch aufgenommen.
+
+1. Schalt die Spannungsquelle ab.
+
+2. Verbinde mit einem weiteren Kabel den @color(roten Pol __U__, red) des Cassy-Gerätes mit einem Kontakt hinter dem Widerstand.
+
+![VGl-Cassy3](https://diversewolken.ddns.net/nextcloud/index.php/s/LxJxpcGsAmAeJJt/download)<!-- style="max-width:80%;margin-left:10%" -->
+
+3. Erweitere deine angezeigten Messwerte auf Spannung U und Stromstärke I. 
+
+![VGl-Cassy4](https://diversewolken.ddns.net/nextcloud/index.php/s/sXkCT7eGYWyrCYX/download)<!-- style="max-width:80%;margin-left:10%" -->
+
+4. Schalte die Spannungsquelle ein und vergleiche die angezeigten Messwertpaare mit den Daten deiner Messwerttabelle (oben).
+
+5. Stelle die Spannung an der Spannungsquelle auf 0 V.
+
+6. Wähle nun oben rechts den __Diagramm Modus__. Stelle für die x-Achse die Spannung und für die y-Achse die Stromstärke ein. 
+
+![VGl-Cassy5](https://diversewolken.ddns.net/nextcloud/index.php/s/4nJbMTEEjwz3SJd/download)<!-- style="max-width:80%;margin-left:10%" -->
+
+7. Starte die automatische Messwerterfassung. Drehe die Spannung an der Spannungsquelle langsam von 0 V -> 10 V und beobache die dargestellten Messwerte. Vergleiche deine Darstellung mit dem hier gezeigten Erwartungsbild.
+
+![VGl-Cassy6](https://diversewolken.ddns.net/nextcloud/index.php/s/cHFbdz2ZQJGFTsE/download)<!-- style="max-width:80%;margin-left:10%" -->
+
+### 1.7.3 Aufgaben zur Berechnung an Kondensatoren
+
+1. Ein Plattenkondensator mit Luft gefüllt besteht aus zwei kreisförmigen Platten mit dem Radius 5,5 cm. Die Platten haben einen Abstand von 7,0 cm. 
+
+1. 1. Ermitteln Sie die Kapazität des Kondensators in pF.
+
+@rangeQuiz2($\hspace{1cm}$ $C$, 1.2, $pF$)
+
+<details style="margin-left:10%">
+
+<summary> Lösung 1.1 </summary>
+
+$$C = 8,86\cdot 10^{-12} \cdot \frac{\pi (5,5\cdot 10^{-3})^2}{7\cdot 10^{-2}} \hspace{1cm} \Big[ \frac{A\cdot s}{V\cdot m} \frac{m^2}{m} = \frac{A\cdot s}{V} = \frac{C}{V} = F \Big]$$
+
+</details>
+
+---
+
+1. 2. Geben Sie zwei Möglichkeiten an, wie die Kapazität vergrößert werden kann, ohne das die geometrischen Größe der Platten verändert wird.
+
+<details style="margin-left:10%">
+
+<summary> Lösung 1.2 </summary>
+
+- Stoff mit höherer Dielektrizitätskonstante einfügen
+
+- Plattenabstand s verkleinern
+
+</details>
+
+---
+
+2. Ein Kondensator hat einen Kapazität von 200µF. Ermitteln Sie die Ladung Q, welche sich auf dem Kondensator befindet, wenn er an eine Spannung von 14 V angeschlossen wird.
+
+@rangeQuiz2($\hspace{1cm}$ $Q$, 2.8E-3, $C$)
+
+---
+
+3. Die in einem Kondensator bei einer Ladespannung von 8,0 V gespeicherte elektrische Feldenergie $E_{Feld}$ soll für die Zündung einer Blitzlichtlampe genutzt werden. Für den Lichtblitz wird eine elektrische Energie von 20 mJ benötigt. Berechnen Sie die Kapazität des Kondensators in der Einheit µF.
+
+@rangeQuiz2($\hspace{1cm}$ $C$, 625, $\mu F$)
+
+<details style="margin-left:10%">
+
+<summary> Lösung 3 </summary>
+
+$$ E_{Feld} = \frac{1}{2} \cdot C \cdot U^2 $$
+
+$$ C = \frac{2 \cdot 0,02 J}{8V^2} = 0,000625 F = 625 µF $$
+
+</details>
