@@ -2036,6 +2036,14 @@ __LB S. 124 Aufgabe 23__
 
 ![Verteilung](https://diversewolken.ddns.net/nextcloud/index.php/s/HtKkrqECSCnpkEm/download)
 
+__Korrekturzeichen:__
+
+- __ug__ ungenau
+
+- __uv__ unvollständig
+
+- __Bg__ fehlende oder falsche Begründung
+
 </details>
 
 ## Sim1 Elektronische Schaltkreise mit Kondesatoren
@@ -2043,7 +2051,7 @@ __LB S. 124 Aufgabe 23__
 ??[PhET-Kondensator1](https://phet.colorado.edu/sims/html/capacitor-lab-basics/latest/capacitor-lab-basics_all.html?locale=de)
 
 
-## Sim2 Elktronische Schaltkreise mit Kondensatoren
+## Sim2 Elektronische Schaltkreise mit Kondensatoren
 
 ??[PhET-Kondensator2](https://phet.colorado.edu/sims/html/circuit-construction-kit-ac/latest/circuit-construction-kit-ac_all.html?locale=de)
 
