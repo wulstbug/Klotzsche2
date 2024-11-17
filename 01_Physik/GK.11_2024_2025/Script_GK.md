@@ -2038,11 +2038,11 @@ __LB S. 124 Aufgabe 23__
 
 __Korrekturzeichen:__
 
-- __ug__ ungenau
+- __ug:__ ungenau
 
-- __uv__ unvollständig
+- __uv:__ unvollständig
 
-- __Bg__ fehlende oder falsche Begründung
+- __Bg:__ fehlende oder falsche Begründung
 
 </details>
 
