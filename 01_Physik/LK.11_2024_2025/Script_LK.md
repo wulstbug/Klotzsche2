@@ -4127,9 +4127,9 @@ __Endergebnisse:__
 
 <summary> Bewegungsgleichungen </summary>
 
-$$ \mathrm{Ort A}: 100 m = \frac{1}{2} \cdot a_A \cdot (30))^2$$
+$$ \mathrm{Ort A}: 100 m = \frac{1}{2} \cdot a_A \cdot (30s))^2$$
 
-$$ \mathrm{Ort B}: 100 m = v_{0B} \cdot t \frac{m}{s} $$
+$$ \mathrm{Ort B}: 100 m = v_{0B} \cdot 30s $$
 
 </details>
 
