@@ -43,18 +43,17 @@ window.LIA.settings.font_size = 2
 
 <iframe src="https://www.br.de/fernsehen/ard-alpha/sendungen/alpha-lernen/was-ist-kommunikation-sprache-definiton-100~player.html" width="512" height="288" allowfullscreen frameBorder="0" scrolling="no"></iframe>
 
-# Die 5 Axiome nach Paul Watzlawick
+## Die 5 Axiome nach Paul Watzlawick
 
 <iframe src="https://www.br.de/fernsehen/ard-alpha/sendungen/alpha-lernen/kommunikation-paul-watzlawick-axiome-102~player.html" width="512" height="288" allowfullscreen frameBorder="0" scrolling="no"></iframe>
 
-
-# Das vier Ohren-Modell nach F. Schulz von Thun
+## Das vier Ohren-Modell nach F. Schulz von Thun
 
 Schau dir folgendes Video an. Notiere in Stichpunkten die Inhalte des _Vier-Ohren-Modells_ nach Friedemann Schulz von Thun
 
 !?[4OhremModellAlphaLErnen](https://www.youtube.com/watch?v=9VJn1cPbf1A)
 
-# KI-Gespräch
+## KI-Gespräch
 
 Führe ein Gespräch mit einer KI. Z.B. Olympia, Hobbies, die Wahlen, Krieg, Freunschaft oder etwas deiner Wahl.
 
