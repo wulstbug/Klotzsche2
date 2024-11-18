@@ -2094,7 +2094,7 @@ __Spannung $U$__
 
 <p style="margin-left:5%">
 
-Die Spannung $U$ beschreibt den @color(das Potential bzw. den Antrieb für das fließen von Ladungsträgern, orange). 
+Die Spannung $U$ beschreibt den @color(das Potential bzw. den Antrieb für das Fließen von Ladungsträgern, orange). 
 Je größer die Spannung, desto größer ist die gespeicherte Ladung.
 
 _Einheit: 1V (1 Volt)_
