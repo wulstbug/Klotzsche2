@@ -691,7 +691,7 @@ __Stromstärke $I$__
 
 <p style="margin-left:5%">
 
-Die Stromstärke $I$ beschreibt <bdi style="color:orange">die Menge der elektrischen Ladungen $Q$, die pro Sekunde durch einen Leiterquerschnitt fließen</bdi>.
+Die Stromstärke $I$ beschreibt <bdi style="color:orange">die Menge der elektrischen Ladungen $Q,$ die pro Sekunde durch einen Leiterquerschnitt fließen</bdi>.
 
 _Einheit: 1A (1 Ampere)_
 
