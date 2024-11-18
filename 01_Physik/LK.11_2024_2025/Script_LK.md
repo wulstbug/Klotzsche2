@@ -4165,7 +4165,7 @@ $$ \mathrm{Geschwindigkeit}: -15 \frac{m}{s} = -9,81\frac{m}{s^2} \cdot t + v_0 
 
 </p>
 
-3. 3. Zwei Motoradfahrer fahren auf geradliniger Strecke. Beide befinden sich wie dargestellt zum Zeitpunkt t=0s an den Markierungen A bzw. B. P ist in Fahrtrichtung 50m von A entfernt. Im Punkt M hat A eine Geschwindigkeit von 90 km/h und verzögert gleichmäßig. Im Punkt P hat B eine Geschwindigkeit von 72 km/h und verzögert gleichmäßig mit 1 m/s². Ermitteln $a_A$ derart, dass A und B zu einem Zeitpunkt dieselbe Geschwindigkeit und denselben Ort haben. Ermittle den zugehörigen Abstand s zwischen B und dem Treffpunkt.
+3. 3. Zwei Motoradfahrer fahren auf geradliniger Strecke. Beide befinden sich wie dargestellt zum Zeitpunkt t=0s an den Markierungen A bzw. B. <br> P ist in Fahrtrichtung 50m von M entfernt. Im Punkt M hat A eine Geschwindigkeit von 90 km/h und verzögert gleichmäßig. Im Punkt P hat B eine Geschwindigkeit von 72 km/h und verzögert gleichmäßig mit 1 m/s². Ermitteln $a_A$ derart, dass A und B zu einem Zeitpunkt dieselbe Geschwindigkeit und denselben Ort haben. Ermittle den zugehörigen Abstand s zwischen B und dem Treffpunkt.
 
 ![Pitty_713](https://physikaufgaben.de/bild/a713_1.gif)<!-- style="max-width:80%;margin-left:10%"-->
 
