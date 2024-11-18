@@ -4113,7 +4113,7 @@ Den Nachweis des Überholens können Sie führen, indem Sie zeigen, dass sich be
 
 Die folgenden Übungsaufgaben sollen das zügige Lösen von Gleichungssystemen für kinematische Aufgabenstellungen trainieren.
  
-Starte den Timer. Notiere die Bewegungsgleichungen und löse die Aufgabe mit dem CAS. Überprüfe deine Lösungen hier.
+Notiere die Bewegungsgleichungen und löse die Aufgabe mit dem CAS. Überprüfe deine Lösungen hier.
 
 </p>
 
@@ -4141,7 +4141,33 @@ $$ \mathrm{Ort B}: 100 m = v_{0B} \cdot t \frac{m}{s} $$
 
 </p>
 
-3. 2. Ein Ball wird aus einer Höhe $h_0 = 5m$ mit einer Anfangsgeschwindigkeit $v_0$ senkrecht nach oben geworfen. Der Ball schlägt mit einer Geschwindigkeit von 15 m/s auf den Boden auf. Reibung wird vernachlässigt. Ermittle Anfangshöhe $h_0$ und Flugzeit $t_{Flug}$. <br> @color(Achte auf die Vorzeichen der Zahlenwerte., red)
+3. 2. (Aus Abi2) In der Vorbereitungsphase eines Autorennens finden Tests statt. <br> Zunächst werden die Bremsen des Rennwagens A getestet. Dazu wird der Wagen von 230 km/h auf 80 km/h gleichmäßig verzögert abgebremst. Aus den elektronisch über­mittel­ten Daten wird der Bremsweg 240 m bestimmt. <br> Berechnen Sie die Beschleunigung und die Bremszeit.
+
+<div style="margin-left:5%">
+
+__Endergebnisse:__
+
+<details>
+
+<summary> Bewegungsgleichungen </summary>
+
+$$ \mathrm{Ort}:  240 m = \frac{1}{2} \cdot a \cdot t^2 + 63,9 \frac{m}{s} \cdot t$$
+
+$$ \mathrm{Geschwindigkeit}: 22,2 \frac{m}{s} = a \cdot t + 63,9 \frac{m}{s} $$
+
+</details>
+
+---
+
+@rangeQuiz2(Beschleunigung: $a$, -7.47 , $\frac{m}{s^2}$)
+
+@rangeQuiz2(Bremszeit: $t_{brems}$, 5.57 , $a$)
+
+</div>
+
+---
+
+3. 3. Ein Ball wird aus einer Höhe $h_0 = 5m$ mit einer Anfangsgeschwindigkeit $v_0$ senkrecht nach oben geworfen. Der Ball schlägt mit einer Geschwindigkeit von 15 m/s auf den Boden auf. Reibung wird vernachlässigt. Ermittle Anfangshöhe $h_0$ und Flugzeit $t_{Flug}$. <br> @color(Achte auf die Vorzeichen der Zahlenwerte., red)
 
 <p style="margin-left:5%">
 
@@ -4165,7 +4191,7 @@ $$ \mathrm{Geschwindigkeit}: -15 \frac{m}{s} = -9,81\frac{m}{s^2} \cdot t + v_0 
 
 </p>
 
-3. 3. Zwei Motoradfahrer fahren auf geradliniger Strecke. Beide befinden sich wie dargestellt zum Zeitpunkt t=0s an den Markierungen A bzw. B. <br> P ist in Fahrtrichtung 50m von M entfernt. Im Punkt M hat A eine Geschwindigkeit von 90 km/h und verzögert gleichmäßig. Im Punkt P hat B eine Geschwindigkeit von 72 km/h und verzögert gleichmäßig mit 1 m/s². Ermitteln $a_A$ derart, dass A und B zu einem Zeitpunkt dieselbe Geschwindigkeit und denselben Ort haben. Ermittle den zugehörigen Abstand s zwischen B und dem Treffpunkt.
+3. 4. Zwei Motoradfahrer fahren auf geradliniger Strecke. Beide befinden sich wie dargestellt zum Zeitpunkt t=0s an den Markierungen A bzw. B. <br> P ist in Fahrtrichtung 50m von M entfernt. Im Punkt M hat A eine Geschwindigkeit von 90 km/h und verzögert gleichmäßig. Im Punkt P hat B eine Geschwindigkeit von 72 km/h und verzögert gleichmäßig mit 1 m/s². Ermitteln $a_A$ derart, dass A und B zu einem Zeitpunkt dieselbe Geschwindigkeit und denselben Ort haben. Ermittle den zugehörigen Abstand s zwischen B und dem Treffpunkt.
 
 ![Pitty_713](https://physikaufgaben.de/bild/a713_1.gif)<!-- style="max-width:80%;margin-left:10%"-->
 
@@ -4199,7 +4225,7 @@ $$ \mathrm{Setze} : x_A(t) = x_B(t) \hspace{1cm} \mathrm{und} \hspace{1cm} v_A(t
 
 ---
 
-3. 4. __(Wdh. Abi 1)__ Ein Pkw fährt auf der Autobahn mit der konstanten Geschwindigkeit von 130 km/h. In der Entfernung von 200 m nimmt der Fahrer die elektronische Verkehrsleiteinrichtung wahr, die die Höchstgeschwindigkeit 80 km/h vorschreibt und auf einen Unfall hinweist. Nach der Reaktionszeit 0,8 s betätigt der Fahrer die Bremse. Die Verzögerung erfolgt gleichmäßig. Der Pkw erreicht exakt beim Passieren der Verkehrsleiteinrichtung die vorgegebene Höchstgeschwindigkeit. <br> Berechnen Sie für den Bremsvorgang die notwendige Bremsbeschleunigung und die Bremszeit.
+3. 5. __(Wdh. Abi 1)__ Ein Pkw fährt auf der Autobahn mit der konstanten Geschwindigkeit von 130 km/h. In der Entfernung von 200 m nimmt der Fahrer die elektronische Verkehrsleiteinrichtung wahr, die die Höchstgeschwindigkeit 80 km/h vorschreibt und auf einen Unfall hinweist. Nach der Reaktionszeit 0,8 s betätigt der Fahrer die Bremse. Die Verzögerung erfolgt gleichmäßig. Der Pkw erreicht exakt beim Passieren der Verkehrsleiteinrichtung die vorgegebene Höchstgeschwindigkeit. <br> Berechnen Sie für den Bremsvorgang die notwendige Bremsbeschleunigung und die Bremszeit.
 
 <p style="margin-left:5%">
 
