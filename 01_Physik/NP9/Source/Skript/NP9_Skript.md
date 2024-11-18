@@ -41,11 +41,11 @@ window.LIA.settings.font_size = 2
 
 ## Einführung: Was ist Kommunikation
 
-!?[alpha-lernen-einführung](https://www.br.de/fernsehen/ard-alpha/sendungen/alpha-lernen/was-ist-kommunikation-sprache-definiton-100.html)
+<iframe src="https://www.br.de/fernsehen/ard-alpha/sendungen/alpha-lernen/was-ist-kommunikation-sprache-definiton-100~player.html" width="512" height="288" allowfullscreen frameBorder="0" scrolling="no"></iframe>
 
 # Die 5 Axiome nach Paul Watzlawick
 
-!?[alpha-lernen-paul-watzlawick](https://www.br.de/fernsehen/ard-alpha/sendungen/alpha-lernen/kommunikation-paul-watzlawick-axiome-102.html)
+<iframe src="https://www.br.de/fernsehen/ard-alpha/sendungen/alpha-lernen/kommunikation-paul-watzlawick-axiome-102~player.html" width="512" height="288" allowfullscreen frameBorder="0" scrolling="no"></iframe>
 
 
 # Das vier Ohren-Modell nach F. Schulz von Thun
