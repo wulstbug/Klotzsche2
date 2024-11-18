@@ -640,11 +640,11 @@ __LB S. 124 Aufgabe 23__
 
 </div>
 
-## Sim1 Elektronische Schaltkreise mit Kondesatoren
+### Sim1 Elektronische Schaltkreise mit Kondesatoren
 
 ??[PhET-Kondensator1](https://phet.colorado.edu/sims/html/capacitor-lab-basics/latest/capacitor-lab-basics_all.html?locale=de)
 
-## Sim2 Elektronische Schaltkreise mit Kondensatoren
+### Sim2 Elektronische Schaltkreise mit Kondensatoren
 
 ??[PhET-Kondensator2](https://phet.colorado.edu/sims/html/circuit-construction-kit-ac/latest/circuit-construction-kit-ac_all.html?locale=de)
 
@@ -695,19 +695,25 @@ Die Stromstärke $I$ beschreibt <bdi style="color:orange">die Menge der elektris
 
 _Einheit: 1A (1 Ampere)_
 
-Eine Stromstärke von 1A bedeutet, dass pro Sekunde eine Ladung von 1 C fließt.
+_Eine Stromstärke von 1A bedeutet, dass pro Sekunde eine Ladung von 1 C fließt._
 
 $$ \Big[ A = \frac{C}{s} \Big] $$
+
+</p>
 
 --- 
 
 __Gespeicherte Energie $E_{Feld}$__
+
+<p style="margin-left:5%">
 
 Die im Kondensator (im elektrischen Feld) gespeicherte Energie $E_{Feld}$ wird berechnet mit
 
 $$ E_{Feld} = \frac{1}{2}\cdot Q \cdot U $$
 
 $$ E_{Feld} = \frac{1}{2}\cdot C \cdot U^2 $$
+
+_Einheit: 1J (1Joule)_
 
 </p>
 

@@ -2064,13 +2064,17 @@ __Korrekturzeichen:__
 __Wiederholung:__ Schließen wir den Kondensator an eine Gleichspannungsquelle (Spannung $U-$) an, so fließen elektrische Ladungen auf den Kondensator. Im Kondensator wird die Ladungsmenge $Q$ gespeichert.
 
 
+
 <p class="newspaper">
+
+{{1}}
+***********
 
 __Ladung $Q$__
 
 <p style="margin-left:5%">
 
-Die Ladung $Q$ beschreibt Anzahl von Elemtarladungen $e$.
+Die Ladung $Q$ beschreibt Anzahl überzähliger Elemtarladungen $e$.
 
 _Einheit: 1C (1 Coulomb)_
 
@@ -2079,6 +2083,11 @@ $$ \boxed{1 e = 1,6 \cdot 10^{-19} C} \,\,\,\mathrm{oder}\,\,\, \boxed{1C = 6,24
 </p>
 
 ---
+
+***********
+
+{{2}}
+***************
 
 __Spannung $U$__
 
@@ -2094,6 +2103,11 @@ _Einheit: 1V (1 Volt)_
 
 ---
 
+***************
+
+{{3}}
+***************
+
 __Stromstärke $I$__
 
 <p style="margin-left:5%">
@@ -2102,13 +2116,22 @@ Die Stromstärke $I$ beschreibt <bdi style="color:orange">die Menge der elektris
 
 _Einheit: 1A (1 Ampere)_
 
-Eine Stromstärke von 1A bedeutet, dass pro Sekunde eine Ladung von 1 C fließt.
+_Eine Stromstärke von 1A bedeutet, dass pro Sekunde eine Ladung von 1 C fließt._
 
 $$ \Big[ A = \frac{C}{s} \Big] $$
 
+</p>
+
 --- 
 
+***************
+
+{{4}}
+***************
+
 __Gespeicherte Energie $E_{Feld}$__
+
+<p style="margin-left:5%">
 
 Die im Kondensator (im elektrischen Feld) gespeicherte Energie $E_{Feld}$ wird berechnet mit
 
@@ -2116,7 +2139,13 @@ $$ E_{Feld} = \frac{1}{2}\cdot Q \cdot U $$
 
 $$ E_{Feld} = \frac{1}{2}\cdot C \cdot U^2 $$
 
+_Einheit: 1J (1Joule)_
+
 </p>
+
+***************
+
+
 
 <p class="cb">
 
