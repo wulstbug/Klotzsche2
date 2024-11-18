@@ -35,12 +35,18 @@ mode: presentation
 window.LIA.settings.font_size = 2
 @end
 
-@@@ ogy.de/11ph3 deaktivieren: https://ogy.de/del.cvv2y5l7old0u7gamlc1
-
 -->
 
+# Kommunikation
 
-# Aufgaben Nawi Profil 9 - Arbeit zu Hause
+## Einführung: Was ist Kommunikation
+
+!?[alpha-lernen-einführung](https://www.br.de/fernsehen/ard-alpha/sendungen/alpha-lernen/was-ist-kommunikation-sprache-definiton-100.html)
+
+# Die 5 Axiome nach Paul Watzlawick
+
+!?[alpha-lernen-paul-watzlawick](https://www.br.de/fernsehen/ard-alpha/sendungen/alpha-lernen/kommunikation-paul-watzlawick-axiome-102.html)
+
 
 # Das vier Ohren-Modell nach F. Schulz von Thun
 
