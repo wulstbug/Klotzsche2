@@ -2147,7 +2147,7 @@ __Durchführung:__ _(muss nicht notiert werden)_
 
 5. Zeichne eine U-I-Kennlinie: Zeichne dazu ein Diagramm (x-Achse: U in V | y-Achse: I in A).
 
-6. Öffne die nächste Seite: @color(_Automatische Messwert-Erfassung mit Cassy_,darkgreen). Folge den Anweisungen und wiederhole die Messung mit einer Automatischen Messwert-Aufname
+6. Öffne die nächste Seite: @color(_Automatische Messwert-Erfassung mit Cassy_,darkgreen). Folge den Anweisungen und wiederhole die Messung mit einer Automatischen Messwert-Aufname.
 
 </p>
 
@@ -2157,9 +2157,11 @@ __Schaltkreis:__
 
 ![Schaltkreis_Exp1](https://diversewolken.ddns.net/nextcloud/index.php/s/rAwYZqysffqknd6/download)
 
-<p style="color:blue">
+<details style="color:blue">
 
-__Einstellen des Cassy-Messgerätes:__ _(muss nicht notiert werden)_
+<summary> __Einstellen des Cassy-Messgerätes:__ </summary>
+
+_(muss nicht notiert werden)_
 
 1. Schließe den blauen Anschluss (_I_) an den Minuspol der Spannungsquelle. Der schwarze Anschluss wird an den Widerstand angeschlossen.
 
@@ -2167,11 +2169,11 @@ __Einstellen des Cassy-Messgerätes:__ _(muss nicht notiert werden)_
 
 ![VGl-Cassy1](https://diversewolken.ddns.net/nextcloud/index.php/s/e7eaHcHB4YkGf95/download)<!-- style="max-width:80%;margin-left:10%" -->
 
-3. Klicke auf das Symbol für Stromstärke (I) und stelle für den Messbereich [-0,1A bis 0,1A] ein. Wechsle zurück Anzeige der Stromstärke.
+3. Klicke auf das Symbol für Stromstärke (I) und stelle für den (Mess-)Bereich [-0,1A .. 0,1A] ein. Wechsle zurück Anzeige der Stromstärke. Achte auf: __Nullpunkt links__.
 
 ![VGl-Cassy2](https://diversewolken.ddns.net/nextcloud/index.php/s/JiSJbjqy3SkS2CN/download)<!-- style="max-width:80%;margin-left:10%" -->
 
-</p>
+</details>
 
 <p class="cb">
 
@@ -2198,17 +2200,17 @@ __Diagramm Kennlinie:__
 
 In dieser Messreihe wird die Kennlinie vom Cassy-Messgerät automatisch aufgenommen.
 
-1. Schalt die Spannungsquelle ab.
+1. Schalte die Spannungsquelle ab.
 
 2. Verbinde mit einem weiteren Kabel den @color(roten Pol __U__, red) des Cassy-Gerätes mit einem Kontakt hinter dem Widerstand.
 
 ![VGl-Cassy3](https://diversewolken.ddns.net/nextcloud/index.php/s/LxJxpcGsAmAeJJt/download)<!-- style="max-width:80%;margin-left:10%" -->
 
-3. Erweitere deine angezeigten Messwerte auf Spannung U und Stromstärke I. 
+3. Erweitere deine angezeigten Messwerte auf Spannung U und Stromstärke I. Achte auf __Bereich 0V .. 10V__ und __Nullpunkt links__.
 
 ![VGl-Cassy4](https://diversewolken.ddns.net/nextcloud/index.php/s/sXkCT7eGYWyrCYX/download)<!-- style="max-width:80%;margin-left:10%" -->
 
-4. Schalte die Spannungsquelle ein und vergleiche die angezeigten Messwertpaare mit den Daten deiner Messwerttabelle (oben).
+4. Wechsle zur Anzeige von Spannung und Stromstärke. Schalte die Spannungsquelle ein und vergleiche drei Messwertpaare der angezeigten Daten mit den Daten deiner Messwerttabelle (oben). <br> @color(Stimmen sie überein, red) nimmt Cassy nun korrekt Spannung und Stromstärke auf.
 
 5. Stelle die Spannung an der Spannungsquelle auf 0 V.
 
@@ -2216,9 +2218,15 @@ In dieser Messreihe wird die Kennlinie vom Cassy-Messgerät automatisch aufgenom
 
 ![VGl-Cassy5](https://diversewolken.ddns.net/nextcloud/index.php/s/4nJbMTEEjwz3SJd/download)<!-- style="max-width:80%;margin-left:10%" -->
 
-7. Starte die automatische Messwerterfassung. Drehe die Spannung an der Spannungsquelle langsam von 0 V -> 10 V und beobache die dargestellten Messwerte. Vergleiche deine Darstellung mit dem hier gezeigten Erwartungsbild.
+7. Starte die automatische Messwerterfassung -> Wechsel auf Uhr oben links. 
 
 ![VGl-Cassy6](https://diversewolken.ddns.net/nextcloud/index.php/s/cHFbdz2ZQJGFTsE/download)<!-- style="max-width:80%;margin-left:10%" -->
+
+8. Drehe die Spannung an der Spannungsquelle langsam von 0 V -> 10 V und beobache die dargestellten Messwerte. Vergleiche deine Darstellung mit dem hier gezeigten Erwartungsbild.
+
+![VGl-Cassy7](https://diversewolken.ddns.net/nextcloud/index.php/s/f93rWiDbtDkR6Jj/download)<!-- style="max-width:80%;margin-left:10%" -->
+
+9. @color(Dieses Diagramm und dein Messwertdiagramm sollten übereinstimmen., red)
 
 ### 1.7.3 Aufgaben zur Berechnung an Kondensatoren
 
@@ -2271,11 +2279,3 @@ $$ E_{Feld} = \frac{1}{2} \cdot C \cdot U^2 $$
 $$ C = \frac{2 \cdot 0,02 J}{8V^2} = 0,000625 F = 625 µF $$
 
 </details>
-
-# Übungen / Simulation und Experiment
-
-1. Einführung Cassy-Messgerät
-
-2. Spannung und Stromstärke an einem ohmschen Widerstand
-
-3. Zeitabhängige Messungen
