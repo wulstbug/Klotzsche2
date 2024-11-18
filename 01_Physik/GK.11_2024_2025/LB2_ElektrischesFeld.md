@@ -768,7 +768,7 @@ _(muss nicht notiert werden)_
 
 ![VGl-Cassy1](https://diversewolken.ddns.net/nextcloud/index.php/s/e7eaHcHB4YkGf95/download)<!-- style="max-width:80%;margin-left:10%" -->
 
-3. Klicke auf das Symbol für Stromstärke (I) und stelle für den (Mess-)Bereich [-0,1A .. 0,1A] ein. Wechsle zurück Anzeige der Stromstärke. Achte auf: __Nullpunkt links__.
+3. Klicke auf das Symbol für Stromstärke (I) und stelle für den (Mess-)Bereich [-0,03A .. 0,03A] ein. Wechsle zurück Anzeige der Stromstärke. Achte auf: __Nullpunkt links__.
 
 ![VGl-Cassy2](https://diversewolken.ddns.net/nextcloud/index.php/s/JiSJbjqy3SkS2CN/download)<!-- style="max-width:80%;margin-left:10%" -->
 

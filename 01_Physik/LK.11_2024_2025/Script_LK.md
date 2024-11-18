@@ -4105,6 +4105,8 @@ Den Nachweis des Überholens können Sie führen, indem Sie zeigen, dass sich be
 
 ### Übung 3. (auf Zeit) - Gleichungssysteme lösen
 
+@timer(30,00)
+
 <p style="color:blue">
 
 Die folgenden Übungsaufgaben sollen das zügige Lösen von Gleichungssystemen für kinematische Aufgabenstellungen trainieren.
@@ -4133,11 +4135,13 @@ $$ \mathrm{Ort B}: 100 m = v_{0B} \cdot t \frac{m}{s} $$
 
 @rangeQuiz2($a_{A}$, 0.222 , $\frac{m}{s^2}$)
 
-@rangeQuiz2($v_{0b}$, 3.33 , $\frac{m}{s}$)
+@rangeQuiz2($v_{0B}$, 3.33 , $\frac{m}{s}$)
 
 </p>
 
-3. 2. Zwei Motoradfahrer fahren auf geradliniger Strecke. Beide befinden sich wie dargestellt zum Zeitpunkt t=0s an den Markierungen A bzw. B. P ist in Fahrtrichtung 50m von A entfernt. Im Punkt M hat A eine Geschwindigkeit von 90 km/h und verzögert gleichmäßig. Im Punkt P hat B eine Geschwindigkeit von 72 km/h und verzögert gleichmäßig mit 1 m/s². Ermitteln $a_A$ derart, dass A und B zu einem Zeitpunkt dieselbe Geschwindigkeit und denselben Ort haben. Ermittle den zugehörigen Abstand von B.
+3. 2. Ein Ball wird aus einer Höhe $h_0$ mit einer Anfangsgeschwindigkeit $v_0$ senkrecht nach oben geworfen. Der Ball schlägt nach 20 s auf den Boden auf. Reibung wird vernachlässigt.
+
+3. 3. Zwei Motoradfahrer fahren auf geradliniger Strecke. Beide befinden sich wie dargestellt zum Zeitpunkt t=0s an den Markierungen A bzw. B. P ist in Fahrtrichtung 50m von A entfernt. Im Punkt M hat A eine Geschwindigkeit von 90 km/h und verzögert gleichmäßig. Im Punkt P hat B eine Geschwindigkeit von 72 km/h und verzögert gleichmäßig mit 1 m/s². Ermitteln $a_A$ derart, dass A und B zu einem Zeitpunkt dieselbe Geschwindigkeit und denselben Ort haben. Ermittle den zugehörigen Abstand s zwischen B und dem Treffpunkt.
 
 ![Pitty_713](https://physikaufgaben.de/bild/a713_1.gif)<!-- style="max-width:80%;margin-left:10%"-->
 
@@ -4171,7 +4175,7 @@ $$ \mathrm{Setze} : x_A(t) = x_B(t) \hspace{1cm} \mathrm{und} \hspace{1cm} v_A(t
 
 ---
 
-3. 3. __(Wdh. Abi 1)__ Ein Pkw fährt auf der Autobahn mit der konstanten Geschwindigkeit von 130 km/h. In der Entfernung von 200 m nimmt der Fahrer die elektronische Verkehrsleiteinrichtung wahr, die die Höchstgeschwindigkeit 80 km/h vorschreibt und auf einen Unfall hinweist. Nach der Reaktionszeit 0,8 s betätigt der Fahrer die Bremse. Die Verzögerung erfolgt gleichmäßig. Der Pkw erreicht exakt beim Passieren der Verkehrsleiteinrichtung die vorgegebene Höchstgeschwindigkeit. <br> Berechnen Sie für den Bremsvorgang die notwendige Bremsbeschleunigung und die Bremszeit.
+3. 4. __(Wdh. Abi 1)__ Ein Pkw fährt auf der Autobahn mit der konstanten Geschwindigkeit von 130 km/h. In der Entfernung von 200 m nimmt der Fahrer die elektronische Verkehrsleiteinrichtung wahr, die die Höchstgeschwindigkeit 80 km/h vorschreibt und auf einen Unfall hinweist. Nach der Reaktionszeit 0,8 s betätigt der Fahrer die Bremse. Die Verzögerung erfolgt gleichmäßig. Der Pkw erreicht exakt beim Passieren der Verkehrsleiteinrichtung die vorgegebene Höchstgeschwindigkeit. <br> Berechnen Sie für den Bremsvorgang die notwendige Bremsbeschleunigung und die Bremszeit.
 
 <p style="margin-left:5%">
 
