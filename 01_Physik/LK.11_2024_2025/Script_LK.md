@@ -4107,6 +4107,8 @@ Den Nachweis des Überholens können Sie führen, indem Sie zeigen, dass sich be
 
 @timer(30,00)
 
+<p style="margin-right:250px">
+
 <p style="color:blue">
 
 Die folgenden Übungsaufgaben sollen das zügige Lösen von Gleichungssystemen für kinematische Aufgabenstellungen trainieren.
@@ -4139,7 +4141,29 @@ $$ \mathrm{Ort B}: 100 m = v_{0B} \cdot t \frac{m}{s} $$
 
 </p>
 
-3. 2. Ein Ball wird aus einer Höhe $h_0$ mit einer Anfangsgeschwindigkeit $v_0$ senkrecht nach oben geworfen. Der Ball schlägt nach 20 s auf den Boden auf. Reibung wird vernachlässigt.
+3. 2. Ein Ball wird aus einer Höhe $h_0 = 5m$ mit einer Anfangsgeschwindigkeit $v_0$ senkrecht nach oben geworfen. Der Ball schlägt mit einer Geschwindigkeit von 15 m/s auf den Boden auf. Reibung wird vernachlässigt. Ermittle Anfangshöhe $h_0$ und Flugzeit $t_{Flug}$. <br> @color(Achte auf die Vorzeichen der Zahlenwerte., red)
+
+<p style="margin-left:5%">
+
+__Endergebnisse:__
+
+<details>
+
+<summary> Bewegungsgleichungen </summary>
+
+$$ \mathrm{Ort}:  0 = \frac{1}{2} \cdot -9,81 \frac{m}{s^2}\cdot t^2 + v_0 \cdot t + 5m$$
+
+$$ \mathrm{Geschwindigkeit}: -15 \frac{m}{s} = -9,81\frac{m}{s^2} \cdot t + v_0 $$
+
+</details>
+
+---
+
+@rangeQuiz2($v_0$, 11.265 , $\frac{m}{s}$)
+
+@rangeQuiz2($t$, 2.677 , $s$)
+
+</p>
 
 3. 3. Zwei Motoradfahrer fahren auf geradliniger Strecke. Beide befinden sich wie dargestellt zum Zeitpunkt t=0s an den Markierungen A bzw. B. P ist in Fahrtrichtung 50m von A entfernt. Im Punkt M hat A eine Geschwindigkeit von 90 km/h und verzögert gleichmäßig. Im Punkt P hat B eine Geschwindigkeit von 72 km/h und verzögert gleichmäßig mit 1 m/s². Ermitteln $a_A$ derart, dass A und B zu einem Zeitpunkt dieselbe Geschwindigkeit und denselben Ort haben. Ermittle den zugehörigen Abstand s zwischen B und dem Treffpunkt.
 
@@ -4196,5 +4220,7 @@ $$ \mathrm{Geschwindigkeit}: 22,2 \frac{m}{s} = a \cdot t + 36,1 \frac{m}{s} $$
 @rangeQuiz2(Bremsbeschleunigung: $a_{brems}$, -2.4 , $\frac{m}{s^2}$)
 
 @rangeQuiz2(Bremszeit: $t_{brems}$, 5.9 , $s$)
+
+</p>
 
 </p>
