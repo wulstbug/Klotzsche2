@@ -115,9 +115,13 @@ Aufgabe: Wechsle in einem weiteren Fenster [hier zu Geogebra](https://www.geogeb
 
 1. Wähle Strecke aus und zeichne den ersten planaren Spiegel.
 
-![Variablen](https://diversewolken.ddns.net/nextcloud/index.php/s/PxN6eizN5nZX4Cw/download)
+![Vgl1](https://diversewolken.ddns.net/nextcloud/index.php/s/PxN6eizN5nZX4Cw/download)
 
-4. Ändere bei allen Variablen: __Minimum 0, Maximum 10, Schrittweite 0,1__
+2. Wähle die Strecke an und ändere die Farbe auf blau.
+
+![Vgl2](https://diversewolken.ddns.net/nextcloud/index.php/s/PxN6eizN5nZX4Cw/download)
+
+3. Zeichne einen einfallenden Lichtstrahl als Strecke, die auf dem Spiegel endet. Wähle als Farbe rot.
 
 ![Range](https://diversewolken.ddns.net/nextcloud/index.php/s/SQ2KpJDCTA4MHp8/download)
 
