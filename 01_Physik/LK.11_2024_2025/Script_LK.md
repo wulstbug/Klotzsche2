@@ -4167,7 +4167,7 @@ $$ \mathrm{Geschwindigkeit}: 22,2 \frac{m}{s} = a \cdot t + 63,9 \frac{m}{s} $$
 
 ---
 
-3. 3. Ein Ball wird aus einer Höhe $h_0 = 5m$ mit einer Anfangsgeschwindigkeit $v_0$ senkrecht nach oben geworfen. Der Ball schlägt mit einer Geschwindigkeit von 15 m/s auf den Boden auf. Reibung wird vernachlässigt. Ermittle Anfangshöhe $h_0$ und Flugzeit $t_{Flug}$. <br> @color(Achte auf die Vorzeichen der Zahlenwerte., red)
+3. 3. Ein Ball wird aus einer Höhe $h_0 = 5m$ mit einer Anfangsgeschwindigkeit $v_0$ senkrecht nach oben geworfen. Der Ball schlägt mit einer Geschwindigkeit von 15 m/s auf den Boden auf. Reibung wird vernachlässigt. Ermittle Anfangsgeschwindigkeit $v_0$ und Flugzeit $t_{Flug}$. <br> @color(Achte auf die Vorzeichen der Zahlenwerte., red)
 
 <p style="margin-left:5%">
 

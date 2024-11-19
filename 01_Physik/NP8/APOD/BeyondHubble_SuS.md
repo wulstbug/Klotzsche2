@@ -109,6 +109,87 @@ https://gykl-my.sharepoint.com/:p:/g/personal/golnik_ch_gykl_onmicrosoft_com/EVf
 
 ## Konstrukion in Geogebra
 
+### Konstruktionsanleitung: Reflexion an einem planaren Spiegel
+
+Aufgabe: Wechsle in einem weiteren Fenster [hier zu Geogebra](https://www.geogebra.org/classroom/dmvmdyvu) und bearbeite folgende Anleitung. Gehe zu "Weiter ohne Registrierung" und nutze deinen Vornamen oder deine Initialien.
+
+1. Wähle Strecke aus und zeichne den ersten planaren Spiegel.
+
+![Variablen](https://diversewolken.ddns.net/nextcloud/index.php/s/PxN6eizN5nZX4Cw/download)
+
+4. Ändere bei allen Variablen: __Minimum 0, Maximum 10, Schrittweite 0,1__
+
+![Range](https://diversewolken.ddns.net/nextcloud/index.php/s/SQ2KpJDCTA4MHp8/download)
+
+5. Blende alle Variablen ein
+
+6. Definiere Brennpunkte @color(F1,red) und @color(F2,red) der Linse <br> Tippe: <b style="color:red">F1=(-f,0)</b> und <b style="color:red">F2=(f,0)</b>
+
+7. Definiere Fußpunkt @color(G0,red) und Stützpunkt @color(G1,red) des Gegenstands. <br> Tippe: <b style="color:red">G0=(-g,0)</b> und <b style="color:red">G1=(-g,G)</b>
+
+8. Zeichne Gegenstand: <br> Nutze Vektor (@color(G0 -> G1,red))
+
+![Range](https://diversewolken.ddns.net/nextcloud/index.php/s/Ti5qQFyiDWHJWfy/download)
+
+9. Vergleiche deine Konstruktion:
+
+![Vergleiche9](https://diversewolken.ddns.net/nextcloud/index.php/s/jsKrqTCoC8ANWxF/download)
+
+10. Konstruiere 3 Geraden. <br> __h:__ $\overline{\mathrm{G1\,F1}}$ <br> __i:__ parallel zur x-Achse durch __G1__ <br>__j:__ $\overline{\mathrm{G1\,O}}$ 
+
+11. Konstruiere Schnittpunkte zwischen y-Achse und __h__ (-> __B__) bzw. j (->__C__)
+
+12. Konstruiere zwei Geraden.<br> __k:__ $\overline{\mathrm{B\,F2}}$ <br> __l:__ parallel zur x-Achse durch __C__
+
+13. Vergleiche deine Konstruktion:
+
+![Vergleiche13](https://diversewolken.ddns.net/nextcloud/index.php/s/TWBZ6yYNy73LTQw/download)
+
+14. Konstruiere Schnittpunkt von Geraden (__j__,__l__). Nenne ihn __B1__. <br> Konstruiere parallele Gerade zur y-Achse durch __B1__ -> __m__. <br> Konstruiere Schnittpunkt von __m__ und x-Achse. Nenne ihn __B0__
+
+15. Blende alle Geraden aus, konstruiere den Strahlengang und das Bild.
+
+16. Überprüfe deine Konstruktion
+
+<div style="text-indent:10%">
+
+<details>
+
+<summary> Lösung Bild </summary>
+
+![Vergleich16](https://diversewolken.ddns.net/nextcloud/index.php/s/TZF8iAzBDn9DKG8) <!-- style="max-width:80%" -->
+
+</details>
+
+</div>
+
+17. Ermittle aus deiner Konstruktion Bildweite und Bildgröße und gib diese hier zur Überprüfung ein.:
+
+    <!-- data-solution-button="off" -->
+    Bildweite b = [[ 7,5 ]] <br>
+    Bildgröße B = [[ 3 ]]
+
+    Hinweis: Falls du nicht mehr weißt, wie man Bildweite und Bildgröße abliest, schau dir nochmal das [Tafelbild](https://diversewolken.ddns.net/nextcloud/index.php/s/wpF2K9TNDfgagbH) an.
+
+__Aufgaben:__
+
+18. Stelle in deiner Konstruktion nun andere Werte ein. Überprüfe Bildweite und Bildgröße.
+
+    __g = 4, G = 3, f = 2,4__ <br>
+
+    <!-- data-solution-button="off" -->
+    Bildweite b = [[ 6 ]] <br>
+    Bildgröße B = [[ 4,5 ]]
+
+19. Probiere nun die Konstruktion eines Gegenstandes an @color(zwei Sammellinsen SLA+ SLB,orange).
+
+    1. Gehe dazu auf: @color(ogy.de/golnik,blue) und
+
+    wähle: __Zwei Sammellinsen__
+
+    2. Konstruiere zunächst das __Zwischenbild (Bild hinter der ersten Linse A)__. 
+
+
 # Der Hohlspiegel am Hubble-Teleskop
 
 {{0-1}}
