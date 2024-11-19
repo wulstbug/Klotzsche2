@@ -166,6 +166,8 @@ Aufgabe: Wechsle in einem weiteren Fenster [hier zu Geogebra](https://www.geogeb
 
 ![Vgl13](https://diversewolken.ddns.net/nextcloud/index.php/s/twWpgsoaTm7Fcwd/download)<!-- style="margin:10px"-->
 
+
+
 <div style="text-indent:10%">
 
 <details>
@@ -177,32 +179,6 @@ Aufgabe: Wechsle in einem weiteren Fenster [hier zu Geogebra](https://www.geogeb
 </details>
 
 </div>
-
-17. Ermittle aus deiner Konstruktion Bildweite und Bildgröße und gib diese hier zur Überprüfung ein.:
-
-    <!-- data-solution-button="off" -->
-    Bildweite b = [[ 7,5 ]] <br>
-    Bildgröße B = [[ 3 ]]
-
-    Hinweis: Falls du nicht mehr weißt, wie man Bildweite und Bildgröße abliest, schau dir nochmal das [Tafelbild](https://diversewolken.ddns.net/nextcloud/index.php/s/wpF2K9TNDfgagbH) an.
-
-__Aufgaben:__
-
-18. Stelle in deiner Konstruktion nun andere Werte ein. Überprüfe Bildweite und Bildgröße.
-
-    __g = 4, G = 3, f = 2,4__ <br>
-
-    <!-- data-solution-button="off" -->
-    Bildweite b = [[ 6 ]] <br>
-    Bildgröße B = [[ 4,5 ]]
-
-19. Probiere nun die Konstruktion eines Gegenstandes an @color(zwei Sammellinsen SLA+ SLB,orange).
-
-    1. Gehe dazu auf: @color(ogy.de/golnik,blue) und
-
-    wähle: __Zwei Sammellinsen__
-
-    2. Konstruiere zunächst das __Zwischenbild (Bild hinter der ersten Linse A)__. 
 
 
 # Der Hohlspiegel am Hubble-Teleskop
