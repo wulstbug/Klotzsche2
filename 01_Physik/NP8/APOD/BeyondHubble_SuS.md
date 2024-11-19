@@ -111,49 +111,60 @@ https://gykl-my.sharepoint.com/:p:/g/personal/golnik_ch_gykl_onmicrosoft_com/EVf
 
 ### Konstruktionsanleitung: Reflexion an einem planaren Spiegel
 
-Aufgabe: Wechsle in einem weiteren Fenster [hier zu Geogebra](https://www.geogebra.org/classroom/dmvmdyvu) und bearbeite folgende Anleitung. Gehe zu "Weiter ohne Registrierung" und nutze deinen Vornamen oder deine Initialien.
+Aufgabe: Wechsle in einem weiteren Fenster [hier zu Geogebra](https://www.geogebra.org/classroom/dmvmdyvu) und bearbeite folgende Anleitung. Gehe zu @color(Weiter ohne Anmeldung, orange) und nutze deinen Vornamen oder deine Initialien.
 
 1. Wähle Strecke aus und zeichne den ersten planaren Spiegel.
 
-![Vgl1](https://diversewolken.ddns.net/nextcloud/index.php/s/PxN6eizN5nZX4Cw/download)
+![Vgl1](https://diversewolken.ddns.net/nextcloud/index.php/s/8fEHBqMpBf3DLb3/download)
 
 2. Wähle die Strecke an und ändere die Farbe auf blau.
 
-![Vgl2](https://diversewolken.ddns.net/nextcloud/index.php/s/PxN6eizN5nZX4Cw/download)
+![Vgl2](https://diversewolken.ddns.net/nextcloud/index.php/s/9D6n9wtabEnzRNj/download)
 
 3. Zeichne einen einfallenden Lichtstrahl als Strecke, die auf dem Spiegel endet. Wähle als Farbe rot.
 
-![Range](https://diversewolken.ddns.net/nextcloud/index.php/s/SQ2KpJDCTA4MHp8/download)
+![Vlg3](https://diversewolken.ddns.net/nextcloud/index.php/s/L3r4ppKQmB7cxGH/download)
 
-5. Blende alle Variablen ein
+4. Bewege den Punkt A und überprüfe, ob der Strahl auf dem Spiegel _haften_ bleibt.
 
-6. Definiere Brennpunkte @color(F1,red) und @color(F2,red) der Linse <br> Tippe: <b style="color:red">F1=(-f,0)</b> und <b style="color:red">F2=(f,0)</b>
+5. Benenne Spiegel und einfallenden Lichtstrahl. Klicke dazu rechts auf den Spiegel und wähle _Einstellungen_. Ergänze die Beschriftung zu @color(Spiegel, blau). Wähle dann den Lichtstrahl aus und ergänze die Beschriftung @color(einfallender Lichtstrahl, red).
 
-7. Definiere Fußpunkt @color(G0,red) und Stützpunkt @color(G1,red) des Gegenstands. <br> Tippe: <b style="color:red">G0=(-g,0)</b> und <b style="color:red">G1=(-g,G)</b>
+![Vlg5](https://diversewolken.ddns.net/nextcloud/index.php/s/o897HGeCYpCfWgs/download)
 
-8. Zeichne Gegenstand: <br> Nutze Vektor (@color(G0 -> G1,red))
+6. Zeichne Sie das Lot durch den Punkt D. Wähle dazu _Senkrechte Gerade_, klicke dann auf den Spiegel und anschließend auf den Schnittpunkt von Lichtstrahl und Spiegel.
 
-![Range](https://diversewolken.ddns.net/nextcloud/index.php/s/Ti5qQFyiDWHJWfy/download)
+| ![Vgl6](https://diversewolken.ddns.net/nextcloud/index.php/s/GMgcYbeWrzJkCLC/download) | ![Vgl6b](https://diversewolken.ddns.net/nextcloud/index.php/s/KDDDXw6ArwEJaDj/download) |
 
-9. Vergleiche deine Konstruktion:
+7. Ändere die Linienform auf gestrichelt, die Dicke auf 1 und die Farbe auf blau. 
 
-![Vergleiche9](https://diversewolken.ddns.net/nextcloud/index.php/s/jsKrqTCoC8ANWxF/download)
+![Vgl7](https://diversewolken.ddns.net/nextcloud/index.php/s/mp7ZZNmgHqZkM6t/download)
 
-10. Konstruiere 3 Geraden. <br> __h:__ $\overline{\mathrm{G1\,F1}}$ <br> __i:__ parallel zur x-Achse durch __G1__ <br>__j:__ $\overline{\mathrm{G1\,O}}$ 
 
-11. Konstruiere Schnittpunkte zwischen y-Achse und __h__ (-> __B__) bzw. j (->__C__)
+8. Zeichne den Einfallswinkel. Setze dazu zuerst einen Punkt (E) auf das Lot, wähle dann Winkel und klicke die Punkte CDE in dieser Reihenfolge. Wähle bei den Einstellungen den Reiter _Darstellung_ und ändere die Größe des Winkels auf 100. Beschrifte auch das Lot.
 
-12. Konstruiere zwei Geraden.<br> __k:__ $\overline{\mathrm{B\,F2}}$ <br> __l:__ parallel zur x-Achse durch __C__
+| ![Vgl8a](https://diversewolken.ddns.net/nextcloud/index.php/s/GdG6MFxTJX75cJK/download) | ![Vgl8b](https://diversewolken.ddns.net/nextcloud/index.php/s/gGBjBj6FdLypQe2/download)<!-- style="margin:10px"--> |
 
-13. Vergleiche deine Konstruktion:
+9. Für die Reflexion des Lichtstrahls verwenden wir den Befehl _Spiegle an Gerade_. Wähle dazu zuerst den Punkt C und dann das Lot. Du erhälst einen Punkt C, der am Lot gespiegelt wurde. 
 
-![Vergleiche13](https://diversewolken.ddns.net/nextcloud/index.php/s/TWBZ6yYNy73LTQw/download)
+| ![Vgl9a](https://diversewolken.ddns.net/nextcloud/index.php/s/zGKeSrHiXQMkbtk/download) | ![Vgl9b](https://diversewolken.ddns.net/nextcloud/index.php/s/664JKd34YMtkjBT/download)<!-- style="margin:10px"--> |
 
-14. Konstruiere Schnittpunkt von Geraden (__j__,__l__). Nenne ihn __B1__. <br> Konstruiere parallele Gerade zur y-Achse durch __B1__ -> __m__. <br> Konstruiere Schnittpunkt von __m__ und x-Achse. Nenne ihn __B0__
+10. Zeichne einen Strahl von Punkt D durch C'. Ergänze die Farbe des Lichtstrahls zu rot, beschrifte den Lichtstrahl mit reflektierter Lichtstrahl. Ergänze den Reflexionswinkel.
 
-15. Blende alle Geraden aus, konstruiere den Strahlengang und das Bild.
+![Vgl10](https://diversewolken.ddns.net/nextcloud/index.php/s/yiSTSgpFNJRoP7f/download)<!-- style="margin:10px"-->
 
-16. Überprüfe deine Konstruktion
+11. Beschrifte nun noch den neuen Winkel (er heißt $\beta$) mit $\alpha'$. Kopiere dazu das $\alpha$ aus der Beschriftung des ersten Winkels und setze es im zweiten Winkel mit einem __'__ ein.
+
+![Vgl11](https://diversewolken.ddns.net/nextcloud/index.php/s/ysHAQjxma8A5AZ7/download)<!-- style="margin:10px"-->
+
+12. Blende nun die überflüssigen Punkte E und C' aus. Klicke dazu rechts auf die Punkte und wähle _Objekt anzeigen_.
+
+13. Überprüfe deine Konstruktion.
+
+![Vgl12](https://diversewolken.ddns.net/nextcloud/index.php/s/fqt36pkWXAkc7tY/download)<!-- style="margin:10px"-->
+
+14. Konstruiere nun einen zweite Spiegel, an dem der reflektierte Lichtstrahl ebenfalls reflektiert wird. Wiederhole die Schritte, wie für den ersten Spiegel.
+
+![Vgl13](https://diversewolken.ddns.net/nextcloud/index.php/s/twWpgsoaTm7Fcwd/download)<!-- style="margin:10px"-->
 
 <div style="text-indent:10%">
 
