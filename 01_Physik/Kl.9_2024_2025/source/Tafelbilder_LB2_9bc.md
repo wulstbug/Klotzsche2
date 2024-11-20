@@ -574,89 +574,166 @@ __Generatoren als Energiewandler für elektrische Energie:__
 > -> Generatoren wandeln mechanische Energie(z.B. Rotationsenergie) in elektrische Energie um
 **********
 
-## Wie funktioniert ein Generator?
+### Wie funktioniert ein Generator?
 
 !?[MausStrom](https://www.youtube.com/watch?v=Je22SgH8TCk)
 
-## Generator selber bauen
+### Generator selber bauen
 
 __Aufgabenstellung:__ Nutze in einer Gruppe von zwei Leuten den Bausatz und baue den Generator auf. Am Lehrertisch gibt es ein Demogerät. Experimentiere mit dem Generator anhand folgender Aufgaben
 
 {{1}}
 *******
-<p class="newspaper">
-
 __Der Generator:__
 
 1. Schließe an den Generator das Cassy-Messgerät zur Spannungsmessung an. (nur @color(roten,red) und @color(blauen, blue) Pol verwenden.)
 
 2. Stelle das Cassy-Messgerät bei der Spannungseinstellung (__Messbereich__) auf -0,3 bis 0,3 V.
 
-3. Drehe an der Welle und überprüfe die angezeigte Spannung. <br> @color(-> Der Spannungsmesser sollte ausschlagen.,orange)
+3. Drehe an der Welle und überprüfe die angezeigte Spannung. <br> {2}{@color(-> Das Voltmeter sollte ausschlagen.,orange)}
 
-4. Drehe die Welle in die andere Richtung und überprüfe die angezeigte Spannung. Was stellst du fest?
+4. Überprüfe, ob du die maximale Spannung beeinflussen kannst.
 
-    @color(Spannung wechselt das Vorzeichen, orange)
+5. Wähle das Diagramm (oben rechts) und dann die Stoppuhr (oben links) und lass dir den zeitlichen Spannungsverlauf anzeigen.
 
+*******
+
+## 2.8 Grundlage Generator: Das Induktionsgesetz
+
+- @color(Lies LB. S. 53, blue)
+
+- @color(Notiere das Induktionsgesetz [erster Merksatz], blue)
+
+- @color(Ermittle die Einflussfaktoren auf die erzeugte [d.h. induzierte] Spannung, blue)
+
+{{1}}
+***********
+> __Das Induktionsgesetz:__ Zwischen den Enden einer Spule wird eine Spannung @color(induziert, red), wenn sich das von ihr umfasste Magnetfeld ändert. 
+***********
+
+{{2}}
+***********
+> __Die Induktionsspannung:__ Die Induktionsspannung ab hängt vom 
+> 
+> 1. Bau der Spule (__Windungszahl__, __Querschnittsfläche__) 
+>
+> 2. wie schnell und wie stark sich das __Magnetfeld__ in der Spule ändert.
+***********
+
+{{3}}
+***********
+> __Nutzen der Induktion:__ Da bei der Induktion die Bewegung des Rotors in elektrische Spannung "umgesetzt" wird, war es mit der Entdeckung der Induktion (1831) erstmals möglich 
+>
+>> @color(__mechanische Energie__, blue) in @color(__elektrische Energie__, red) umzuwandeln.
+***********
+
+### Fragen zum Generator 2
+
+@timer(08,00)
+
+@color(Beantwortet die Fragen 1 und 2 auf dem Arbeitsblatt __allein__. Überprüft anschließend mit dem Nachbarn/der Nachbarin gegenseitig die Fragen 3.-8., blue)
+
+1. Bei einem Generator wird das Induktionsgesetz genutzt. Notiere es.
+
+    {1}{<bdi style="color:orange">In einer Spule wird eine Spannung induziert, solange sich das von der Spule umfasste Magnetfeld ändert.</bdi>}
+
+<p class="newspaper">
+
+2. Beschreibe anhand der Skizze den AAufbau eines Wechselstromgenerators. 
+
+    {2}{<bdi style="color:orange"> Ein Wechselstromgenerator besteht aus einem rotierenden Magneten (Rotor) und fest stehenden Induktionsspulen (Stator). </bdi>}
+
+<p  class="cb">
+
+![AB_Generator](https://diversewolken.ddns.net/nextcloud/index.php/s/5m3cZF62Y7DoNms/download)
+
+</p>
+
+</p>
+
+{{3}}
+**********
+<p class="newspaper">
+
+3. Wahr oder falsch? Wenn sich der Generator schneller dreht, erhöht sich die elektrische Spannung.
+
+     [(X)] wahr
+     [( )] falsch
+
+4. Wahr oder falsch? Wenn man die elektrische Spannung am Generator erhöhen will, kann man das Magnetfeld verstärken.
+
+     [(X)] wahr
+     [( )] falsch
+
+5. Um die Spannung am Generator zu erhöhen, kann man
+
+     [[ ]] Die Anzahl der Windungen der Spule verringern
+     [[X]] Die Anzahl der Windungen der Spule vergrößern
+     [[ ]] Die Querschnittsfläche der Spule verkleinern
+     [[X]] Die Querschnittsfläche der Spule vergrößern
 
 <p class="cb">
+
+6. Wahr oder falsch? Bei einem Generator muss der Magnet fest sein (Stator) und die Spule drehend (Rotor).
+
+     [( )] wahr
+     [(X)] falsch
+     
+7. Welches Prinzip liegt der Stromerzeugung in einem Generator zugrunde?
+
+     [( )] Thermische Leitung
+     [(X)] Elektromagnetische Induktion
+     [( )] Kernspaltung
+     [( )] Schallwellen
+
+8. Was erzeugt in einem Generator die Spannung?
+
+     [( )]  Eine chemische Reaktion in der Spule
+     [( )]  Die Erwärmung des Magneten
+     [(X)] Die Bewegung einer Spule in einem Magnetfeld     
+     [( )]  Die Anwesenheit eines elektrischen Leiters
+
+
+</p>
+
+</p>
+**********
+
+### zurück zu: Generator selber bauen
+
+__Aufgabenstellung:__ Nutze in einer Gruppe von zwei Leuten den Bausatz und baue den Generator auf. Am Lehrertisch gibt es ein Demogerät. Experimentiere mit dem Generator anhand folgender Aufgaben
+
+{{1}}
+*******
 
 {{3}}
 ***********
 __Der Elektro-Motor:__
 ***********
 
-{{2}}
-****************
-5. Besorge dir am Lehrertisch eine Spannungsquelle. Schließe die Spannungsquelle statt dem Cassy-Messgerät an den Generator an. Erhöhe langsam die Spannung.
+1. Besorge dir am Lehrertisch eine Spannungsquelle. Schließe die Spannungsquelle statt dem Cassy-Messgerät an den Generator an. Erhöhe langsam die Spannung.
 
      <bdi style="color:red">$\boxed{\textbf{ACHTUNG: SPANNUNG}}$</bdi>
 
      <bdi style="color:red">$\boxed{\textbf{NICHT ÜBER 2V ERHÖHEN}}$</bdi>
 
-6. Welche andere Funktion kann ein Generator übernehmen?
+2. Welche andere Funktion kann ein Generator übernehmen?
 
-7. Vertausche die Pole der Spannungsquelle und beobachte das Verhalten deines Experimentes.
-****************
-</p>
+3. Vertausche die Pole der Spannungsquelle und beobachte das Verhalten deines Experimentes.
 
-</p>
 *******
 
-## 2.7 Die Funktionsweise eines Generators
+## 2.9 Die Generator-Spannung
 
-Ein einfacher __Generator__ besteht typischer Weise aus einem @color(Magneten, orange) und einer @color(Spule,orange), welche sich im Magnetfeld drehen kann.
+### Simulation 1
 
-{{1}}
-**************
-<p class="newspaper">
+??[PHET_Generator](https://phet.colorado.edu/sims/html/generator/latest/generator_all.html?locale=de)
 
-__Skizze:__
+### Simulation 2
 
-![Generator_Skizze](https://asset.conrad.com/media10/isa/160267/c1/-/de/Generator/grundfunktion-eines-generators.jpg)
+??[Fendt_Generator](https://www.walter-fendt.de/html5/phde/generator_de.htm)
 
-<p class="cb">
+### Simulation 3
 
-1. Fester Dauermagnet (kann auch Elektromagnet sein) -> @color(__STATOR__,red)
+[LEIFI-Generator](https://www.leifiphysik.de/elektrizitaetslehre/wechselstromtechnik/versuche/erzeugung-sinusfoermiger-wechselspannung)
 
-2. Magnetfeld des Dauermagneten (_nicht sichtbar_)
-
-3. Drehbare Spule (hier nur Leiterschleife) -> @color(__ROTOR__,red)
-
-4. Schleifringe
-
-5. Schleifkontakte zur Spannungsabführung
-
-_Hinweis: Magnet und Spule (d.h. **Rotor** und **Stator**) können auch vertauscht sein. Dann ist Magnet beweglich und die Spule fest._
-
-</p>
-
-</p>
-**************
-
-{{2}}
-**************
-__Video: Wie funktioniert ein Generator?__
-
-!?[EVN-Wie-Funktioniert-Ein-Generator](https://www.youtube.com/watch?v=qJCWKwpt1lg)
-**************
