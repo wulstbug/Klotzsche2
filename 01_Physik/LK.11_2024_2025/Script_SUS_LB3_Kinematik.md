@@ -1155,3 +1155,211 @@ $$ \mathrm{Geschwindigkeit}: 22,2 \frac{m}{s} = a \cdot t + 36,1 \frac{m}{s} $$
 @rangeQuiz2(Bremszeit: $t_{brems}$, 5.9 , $s$)
 
 </p>
+
+
+## 3.8 Der zurückgelegte Weg
+
+![Tafelbild_ZurückGelegterWeg](https://diversewolken.ddns.net/nextcloud/index.php/s/9tGYWwXJPn6ZL5C/download)
+
+### Aufgabe 4 - Zurückgelegter Weg
+
+> 4. 1. Zu einer geradlinigen Bewegung gehört das Zeit-Geschwindigkeits-Diagramm der folgenden Abbildung: <br> ![v-t-Diagramm](https://diversewolken.ddns.net/nextcloud/index.php/s/8PB92pbssc5MoMo/download)<!-- style="max-width:80%"-->
+
+> 4. 1. 1. Berechnen Sie die Beschleunigungen in den drei Zeitintervallen.
+
+<p style="margin-left:10%">
+
+@rangeQuiz2($a_1$, 1 , $\frac{m}{s^2}$)
+
+@rangeQuiz2($a_2$, 0.333 , $\frac{m}{s^2}$)
+
+@rangeQuiz2($a_3$, -4 , $\frac{m}{s^2}$)
+
+<details>
+
+<summary> Hinweis 1</summary>
+
+Nutzen Sie die Formel für die gleichmäßig beschleunigte Bewegung 
+
+$$ a = \frac{\Delta v}{\Delta t} $$
+
+</details>
+
+<details>
+
+<summary> Hinweis 2</summary>
+
+Ermitteln Sie für jedes Intervall die Geschwindigkeitsänderung $\Delta v$ und die dafür benötigte Zeit $\Delta t$.
+
+Für $a_1$ gilt: In $\Delta t=2s$ ändert sich die Geschwindigkeit um $\Delta v = 2 \frac{m}{s}$.
+
+</details>
+
+</p>
+
+> 4. 1. 2. Berechnen Sie die Teilwege ($s_1,\, s_2,\, s_3$), sowie den Gesamtweg.
+
+<p style="margin-left:10%">
+
+@rangeQuiz2($s_1$, 4 , $m$)
+
+@rangeQuiz2($s_2$, 10.5 , $m$)
+
+@rangeQuiz2($s_3$, 2 , $m$)
+
+@rangeQuiz2($s_{ges}$, 16.5 , $m$)
+
+<details>
+
+<summary> Hinweis 1</summary>
+
+Der zurück gelegte Weg entspricht der Fläche unter dem v(t)-Graphen.
+
+</details>
+
+<details>
+
+<summary> Hinweis 2</summary>
+
+Ermitteln Sie für die Intervalle geometrisch die Fläche unter den Graphen
+
+</details>
+
+<details>
+
+<summary> Lösung $s_1$</summary>
+
+Die Fläche ergibt sich aus einem Rechteck ($2s\cdot 1\frac{m}{s}=2m$) und einem rechtwinkligen Dreieck ($\frac{1}{2}$2s\cdot 2\frac{m}{s}=2m$). Somit ergibt sich $s_1=4m$
+
+
+
+</details>
+
+</p>
+
+
+
+> 4. 2. * ![Dragster](https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/NOX_2019_TF_MajaUdtjan.jpg/330px-NOX_2019_TF_MajaUdtjan.jpg) Beim Dragster-Rennen ist es das Ziel, eine Strecke von 1/4 Meile (402,34m) aus dem Stand in möglichst kurzer Zeit zu überwinden. Die Fahrzeuge beschleunigen dabei durchgängig und es treten nicht gleichmäßig beschleunigte Bewegungen auf. <br> Das Fahrzeug beginnt seine Bewegung zum Zeitpunkt t=0s am Ort s=0m. Für den deutschen Rekord ($t_{ges}=7,34s$), soll der Geschwindigkeits-Zeit-Graph mit folgender Funktion näherungsweise beschrieben werden:
+>
+> $$ v(t) = -1,125\frac{m}{s^3}\cdot t^2 + 20,44 \frac{m}{s^2} \cdot t $$
+
+---
+
+> 4. 2. 1. Ermitteln Sie die Endgeschwindigkeit in der Einheit $\frac{km}{h}$.
+
+<p style="margin-left:10%">
+
+@rangeQuiz2($v_{end}$, 321.91, $\frac{km}{h}$)
+
+<details>
+
+<summary> Hinweis 1</summary>
+
+Die Geschwindigkeit, welche nach der Zeit $t_{ges}$ erreicht worden ist.
+
+</details>
+
+<details>
+
+<summary> Hinweis 2</summary>
+
+Setzen Sie die $t_{ges}$ in die Formel für die Geschwindigkeit ein.
+
+</details>
+
+</p>
+
+---
+
+> 4. 2. 2. Ermitteln Sie einen Ausdruck für a(t).
+
+<p style="margin-left:10%">
+
+<details>
+
+<summary> Hinweis 1</summary>
+
+Die Beschleunigung a(t) ist definiert als die Ableitung der Geschwindigkeit nach der Zeit t.
+
+</details>
+
+<details>
+
+<summary> Hinweis 2 / Lösung</summary>
+
+Leiten Sie die Funktion $ v(t) = -1,125\frac{m}{s^3}\cdot t^2 + 20,44 \frac{m}{s^2} \cdot t $ nach der Zeit ab.
+
+$$\frac{\mathrm{d} v}{\mathrm{d} t} = -2.25\frac{m}{s^3}\cdot t + 20,44 \frac{m}{s^2} $$
+
+$$ \boxed{a(t)=-2.25\frac{m}{s^3}\cdot t + 20,44 \frac{m}{s^2}} $$
+
+</details>
+
+</p>
+
+> 4. 2. 3. Begründen Sie anhand der Lösung von 4.1.2. dass es sich nicht um eine gleichmäßig beschleunigte Bewegung handeln kann.
+
+<p style="margin-left:10%">
+
+<details>
+
+<summary> Hinweis 1</summary>
+
+Überprüfen Sie, ob die Beschleunigung konstant ist.
+
+</details>
+
+<details>
+
+<summary> Hinweis 2 / Lösung</summary>
+
+Der Graph der Beschleunigung ist eine lineare Funktion mit einem Anstieg -2,25, daher ist die Beschleunigung nicht konstant, sondern sinkt.
+
+$$ \boxed{a(t)=-2.25\frac{m}{s^3}\cdot t + 20,44 \frac{m}{s^2}} $$
+
+</details>
+
+</p>
+
+> 4. 2. 4. Zeigen Sie näherungsweise, dass das Fahrzeug nach 7,34s die Vierteilmeilendistanz überwunden hat.
+
+<p style="margin-left:10%">
+
+<details>
+
+<summary> Hinweis 1</summary>
+
+Die zurückgelegte Strecke s entspricht der Fläche unter dem v(t)-Graph.
+
+</details>
+
+<details>
+
+<summary> Hinweis 2 </summary>
+
+Nutzen Sie den CAS um zu zeigen, näherungsweise folgendes gilt:
+
+$$ \int_0^{7,34s}{v(t)dt}=402,32m $$
+
+</details>
+
+<details>
+
+<summary> Lösung </summary>
+
+$$ \int_0^{7,34}{(-1,25\cdot t^2+20,44\cdot t) dt}=402,34 $$
+
+</details>
+
+</p>
+
+> 4. 2. 5. Ermitteln Sie Strecke und Geschwindigkeit, die nach 4,88s erreicht wurden.
+
+<p style="margin-left:10%">
+
+@rangeQuiz2($v$, 262.64 ,$\frac{m}{s}$)
+
+@rangeQuiz2($s$, 199.8 ,$m$)
+
+</p>
+
