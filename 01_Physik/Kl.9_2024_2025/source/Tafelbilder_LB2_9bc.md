@@ -625,7 +625,7 @@ __Aufgabenstellung:__ Nutze in einer Gruppe von zwei Leuten den Bausatz und baue
 *******
 __Der Generator:__
 
-1. Schließe an den Generator das Cassy-Messgerät zur Spannungsmessung an. (nur @color(roten,red) und @colorschwarzen, black) Pol verwenden.)
+1. Schließe an den Generator das Cassy-Messgerät zur Spannungsmessung an. (nur @color(roten,red) und @color(schwarzen, black) Pol verwenden.)
 
 2. Stelle das Cassy-Messgerät bei der Spannungseinstellung (__Messbereich__) auf -0,3 bis 0,3 V.
 
