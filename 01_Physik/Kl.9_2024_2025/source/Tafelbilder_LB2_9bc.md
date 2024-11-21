@@ -578,26 +578,6 @@ __Generatoren als Energiewandler für elektrische Energie:__
 
 !?[MausStrom](https://www.youtube.com/watch?v=Je22SgH8TCk)
 
-### Generator selber bauen
-
-__Aufgabenstellung:__ Nutze in einer Gruppe von zwei Leuten den Bausatz und baue den Generator auf. Am Lehrertisch gibt es ein Demogerät. Experimentiere mit dem Generator anhand folgender Aufgaben
-
-{{1}}
-*******
-__Der Generator:__
-
-1. Schließe an den Generator das Cassy-Messgerät zur Spannungsmessung an. (nur @color(roten,red) und @color(blauen, blue) Pol verwenden.)
-
-2. Stelle das Cassy-Messgerät bei der Spannungseinstellung (__Messbereich__) auf -0,3 bis 0,3 V.
-
-3. Drehe an der Welle und überprüfe die angezeigte Spannung. <br> {2}{@color(-> Das Voltmeter sollte ausschlagen.,orange)}
-
-4. Überprüfe, ob du die maximale Spannung beeinflussen kannst.
-
-5. Wähle das Diagramm (oben rechts) und dann die Stoppuhr (oben links) und lass dir den zeitlichen Spannungsverlauf anzeigen.
-
-*******
-
 ## 2.7 Die Funktionsweise eines Generators
 
 Ein einfacher __Generator__ besteht typischer Weise aus einem @color(Magneten, orange) und einer @color(Spule,orange), welche sich im Magnetfeld drehen kann.
@@ -635,6 +615,28 @@ __Video: Wie funktioniert ein Generator?__
 
 !?[EVN-Wie-Funktioniert-Ein-Generator](https://www.youtube.com/watch?v=qJCWKwpt1lg)
 **************
+
+
+### Generator selber bauen
+
+__Aufgabenstellung:__ Nutze in einer Gruppe von zwei Leuten den Bausatz und baue den Generator auf. Am Lehrertisch gibt es ein Demogerät. Experimentiere mit dem Generator anhand folgender Aufgaben
+
+{{1}}
+*******
+__Der Generator:__
+
+1. Schließe an den Generator das Cassy-Messgerät zur Spannungsmessung an. (nur @color(roten,red) und @color(blauen, blue) Pol verwenden.)
+
+2. Stelle das Cassy-Messgerät bei der Spannungseinstellung (__Messbereich__) auf -0,3 bis 0,3 V.
+
+3. Drehe an der Welle und überprüfe die angezeigte Spannung. <br> {2}{@color(-> Das Voltmeter sollte ausschlagen.,orange)}
+
+4. Überprüfe, ob du die maximale Spannung beeinflussen kannst.
+
+5. Wähle das Diagramm (oben rechts) und dann die Stoppuhr (oben links) und lass dir den zeitlichen Spannungsverlauf anzeigen.
+
+*******
+
 
 ## 2.8 Grundlage Generator: Das Induktionsgesetz
 
