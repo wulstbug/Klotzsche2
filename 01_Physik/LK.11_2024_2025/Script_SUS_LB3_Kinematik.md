@@ -1244,7 +1244,7 @@ Die Fläche ergibt sich aus einem Rechteck ($2s\cdot 1\frac{m}{s}=2m$) und einem
 
 
 
-> 4. 2. * ![Dragster](https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/NOX_2019_TF_MajaUdtjan.jpg/330px-NOX_2019_TF_MajaUdtjan.jpg) Beim Dragster-Rennen ist es das Ziel, eine Strecke von 1/4 Meile (402,34m) aus dem Stand in möglichst kurzer Zeit zu überwinden. Die Fahrzeuge beschleunigen dabei durchgängig und es treten nicht gleichmäßig beschleunigte Bewegungen auf. <br> Das Fahrzeug beginnt seine Bewegung zum Zeitpunkt t=0s am Ort s=0m. Für den deutschen Rekord ($t_{ges}=7,34s$), soll der Geschwindigkeits-Zeit-Graph mit folgender Funktion näherungsweise beschrieben werden:
+> 4. 2. ![Dragster](https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/NOX_2019_TF_MajaUdtjan.jpg/330px-NOX_2019_TF_MajaUdtjan.jpg) Beim Dragster-Rennen ist es das Ziel, eine Strecke von 1/4 Meile (402,34m) aus dem Stand in möglichst kurzer Zeit zu überwinden. Die Fahrzeuge beschleunigen dabei durchgängig und es treten nicht gleichmäßig beschleunigte Bewegungen auf. <br> Das Fahrzeug beginnt seine Bewegung zum Zeitpunkt t=0s am Ort s=0m. Für den deutschen Rekord ($t_{ges}=7,34s$), soll der Geschwindigkeits-Zeit-Graph mit folgender Funktion näherungsweise beschrieben werden:
 >
 > $$ v(t) = -1,125\frac{m}{s^3}\cdot t^2 + 20,44 \frac{m}{s^2} \cdot t $$
 
