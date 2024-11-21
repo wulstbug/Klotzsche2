@@ -4455,7 +4455,7 @@ $$ \int_0^{7,34}{(-1,25\cdot t^2+20,44\cdot t) dt}=402,34 $$
 
 <p style="margin-left:10%">
 
-@rangeQuiz2($v$, 262.64 ,$\frac{m}{s}$)
+@rangeQuiz2($v$, 72.956 ,$\frac{m}{s}$)
 
 @rangeQuiz2($s$, 199.8 ,$m$)
 
