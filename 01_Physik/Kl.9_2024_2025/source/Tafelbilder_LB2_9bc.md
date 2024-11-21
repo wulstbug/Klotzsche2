@@ -598,6 +598,44 @@ __Der Generator:__
 
 *******
 
+## 2.7 Die Funktionsweise eines Generators
+
+Ein einfacher __Generator__ besteht typischer Weise aus einem @color(Magneten, orange) und einer @color(Spule,orange), welche sich im Magnetfeld drehen kann.
+
+{{1}}
+**************
+<p class="newspaper">
+
+__Skizze:__
+
+![Generator_Skizze](https://asset.conrad.com/media10/isa/160267/c1/-/de/Generator/grundfunktion-eines-generators.jpg)
+
+<p class="cb">
+
+1. Fester Dauermagnet (kann auch Elektromagnet sein) -> @color(__STATOR__,red)
+
+2. Magnetfeld des Dauermagneten (_nicht sichtbar_)
+
+3. Drehbare Spule (hier nur Leiterschleife) -> @color(__ROTOR__,red)
+
+4. Schleifringe
+
+5. Schleifkontakte zur Spannungsabführung
+
+_Hinweis: Magnet und Spule (d.h. **Rotor** und **Stator**) können auch vertauscht sein. Dann ist Magnet beweglich und die Spule fest._
+
+</p>
+
+</p>
+**************
+
+{{2}}
+**************
+__Video: Wie funktioniert ein Generator?__
+
+!?[EVN-Wie-Funktioniert-Ein-Generator](https://www.youtube.com/watch?v=qJCWKwpt1lg)
+**************
+
 ## 2.8 Grundlage Generator: Das Induktionsgesetz
 
 - @color(Lies LB. S. 53, blue)
