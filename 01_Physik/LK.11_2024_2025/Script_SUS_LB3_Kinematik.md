@@ -1159,7 +1159,12 @@ $$ \mathrm{Geschwindigkeit}: 22,2 \frac{m}{s} = a \cdot t + 36,1 \frac{m}{s} $$
 
 ## 3.8 Der zurückgelegte Weg
 
-![Tafelbild_ZurückGelegterWeg](https://diversewolken.ddns.net/nextcloud/index.php/s/9tGYWwXJPn6ZL5C/download)
+![Tafelbild_ZurückGelegterWeg1](https://diversewolken.ddns.net/nextcloud/index.php/s/9tGYWwXJPn6ZL5C/download)
+
+![Tafelbild_ZurückGelegterWeg2](https://diversewolken.ddns.net/nextcloud/index.php/s/nesaB4QNpTNKrs8/download)
+
+![Tafelbild_ZurückGelegterWeg3](https://diversewolken.ddns.net/nextcloud/index.php/s/B6qat3Gjn7tA5DG/download)
+
 
 ### Aufgabe 4 - Zurückgelegter Weg
 
