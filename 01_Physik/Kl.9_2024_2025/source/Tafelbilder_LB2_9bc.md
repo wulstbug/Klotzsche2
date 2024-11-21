@@ -681,7 +681,7 @@ __Video: Wie funktioniert ein Generator?__
 
 <p class="newspaper">
 
-2. Beschreibe anhand der Skizze den AAufbau eines Wechselstromgenerators. 
+2. Beschreibe anhand der Skizze den Aufbau eines Wechselstromgenerators. 
 
     {2}{<bdi style="color:orange"> Ein Wechselstromgenerator besteht aus einem rotierenden Magneten (Rotor) und fest stehenden Induktionsspulen (Stator). </bdi>}
 
