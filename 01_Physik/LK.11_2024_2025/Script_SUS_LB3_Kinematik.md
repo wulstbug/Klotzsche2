@@ -1302,7 +1302,7 @@ $$ \boxed{a(t)=-2.25\frac{m}{s^3}\cdot t + 20,44 \frac{m}{s^2}} $$
 
 </p>
 
-> 4. 2. 3. Begründen Sie anhand der Lösung von 4.1.2. dass es sich nicht um eine gleichmäßig beschleunigte Bewegung handeln kann.
+> 4. 2. 3. Begründen Sie anhand der Lösung von 4.2.2. dass es sich nicht um eine gleichmäßig beschleunigte Bewegung handeln kann.
 
 <p style="margin-left:10%">
 
