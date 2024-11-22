@@ -2251,6 +2251,10 @@ _(muss nicht notiert werden)_
 
 </p>
 
+### Einführungsvideo zu Mobile-Cassy 2
+
+!?[Einführung-Mobile-Cassy2](https://www.youtube.com/watch?v=2gPGb_NdbqM)
+
 ### 1.7.2 Automatische Messwerterfassung mit Cassy:
 
 In dieser Messreihe wird die Kennlinie vom Cassy-Messgerät automatisch aufgenommen.
