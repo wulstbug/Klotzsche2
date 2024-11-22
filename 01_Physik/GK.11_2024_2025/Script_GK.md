@@ -2186,6 +2186,8 @@ __Schaltkreis:__
 
 ![Schaltkreis_Exp1](https://diversewolken.ddns.net/nextcloud/index.php/s/rAwYZqysffqknd6/download)
 
+{{0-1}}
+************
 __Messwerte-Tabelle:__
 
 | U in V | I in A |
@@ -2196,14 +2198,40 @@ __Messwerte-Tabelle:__
 | .. | |
 | 9 | |
 | 10 | |
+************
+
+{{1}}
+************
+__Messwerte-Tabelle:__
+
+| U in V | I in A |
+| :---: | :---: |
+| 0 | 0,002 |
+| 1 | 0,004 |
+| 2 | 0,006 |
+| 3 | 0,008 |
+| ..| .. |
+| 9 | 0,018 |
+| 10 | 0,02 |
+************
+
+<p class="cb">
 
 __Diagramm Kennlinie:__
 
+{{0-1}}
+*************
 ![VGl-Diagramm](https://diversewolken.ddns.net/nextcloud/index.php/s/Z9at8rKH75N4Agt/download)
+*************
 
-<p class="cb" style="color:blue">
+{{1}}
+*************
+![VGl-Diagramm](https://diversewolken.ddns.net/nextcloud/index.php/s/ztd7ScndfNAYNqM/download)
+*************
 
-__Einstellen des Cassy-Messgerätes:__
+<details  style="color:blue">
+
+<summary>__Einstellen des Cassy-Messgerätes:__</summary>
 
 _(muss nicht notiert werden)_
 
@@ -2216,6 +2244,8 @@ _(muss nicht notiert werden)_
 3. Klicke auf das Symbol für Stromstärke (I) und stelle für den (Mess-)Bereich [-0,03A .. 0,03A] ein. Wechsle zurück Anzeige der Stromstärke. Achte auf: __Nullpunkt links__.
 
 ![VGl-Cassy2](https://diversewolken.ddns.net/nextcloud/index.php/s/JiSJbjqy3SkS2CN/download)<!-- style="max-width:80%;margin-left:10%" -->
+
+</details>
 
 </p>
 
