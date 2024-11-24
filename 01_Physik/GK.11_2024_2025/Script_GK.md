@@ -2343,7 +2343,7 @@ $$ C = \frac{2 \cdot 0,02 J}{8V^2} = 0,000625 F = 625 µF $$
 
 @uhr
 
-<p style="color:blue">
+<p style="color:blue; margin-right:200px">
 
 Ziel der folgenden Einheit ist die __theoretische, simulierte und experimentelle__ Untersuchung des Ladevorgangs an einem Kondensator.
 
