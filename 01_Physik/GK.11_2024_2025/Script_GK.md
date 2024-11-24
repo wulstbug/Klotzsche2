@@ -2408,13 +2408,18 @@ _Aufgaben:_
 
 </details>
 
+---
+
 2. Beobachte, wie die Stromstärke mit zunehmender Ladung auf den Kondensatorplatten abnimmt.
 
+---
+
 3. Nutze das Stromstärke Diagramm um eine simulierte Messung durchzuführen. Erstelle davon einen Screenshot.
+
+---
 
 ### Tutorial Oszilloskop-Modus mit Cassy 2
 
 !?[Tutorial Oszilloskop](https://www.youtube.com/watch?v=5vfNUj-2P4M)
 
-### Aufgabe zur Experiment-Vorbereitung
 
