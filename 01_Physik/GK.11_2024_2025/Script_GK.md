@@ -2338,3 +2338,83 @@ $$ E_{Feld} = \frac{1}{2} \cdot C \cdot U^2 $$
 $$ C = \frac{2 \cdot 0,02 J}{8V^2} = 0,000625 F = 625 µF $$
 
 </details>
+
+## 1.8 Lade und Entladevorgang eines Kondensators
+
+@uhr
+
+<p style="color:blue">
+
+Ziel der folgenden Einheit ist die __theoretische, simulierte und experimentelle__ Untersuchung des Ladevorgangs an einem Kondensator.
+
+{{1}}
+********
+1. __Theorie:__ Schaltplan, physikalische Größen, theoretische Beschreibung
+********
+
+{{2}}
+********
+2. __Simulation:__ Konstruktion des Schaltplans in einer Simulation, Untersuchung der Entladekurve und Einfluss der physikalischen Größen.
+********
+
+{{3}}
+********
+3. __Experiment:__ Aufbau der Schaltung. Messung der relevanten Daten und deren Verarbeitung mit Tablet oder Laptop.
+********
+
+{{4}}
+********
+4. __Auswertung:__ Auswertung der Messungen. Vergleich der experimentelle Daten mit theoretischen und simulierten Ergebnissen.
+********
+
+</p>
+
+
+### 1.8.1 Theoretische Beschreibung des Ladevorgangs an einem Kondensator
+
+__Schaltplan:__ Lade- und Entladevorgang eines Kondensators
+
+<p class="newspaper">
+
+![Kondensator_Ladekreis_2](https://diversewolken.ddns.net/nextcloud/index.php/s/mK4zfakTRqYPmG3/download)
+
+<p class="cb">
+
+__Ladekreis__ 
+
+- Wird der Ladekreis geschlossen, so fließen elektrische Ladungen (angetrieben durch die Spannung) von den Polen auf die Platten des Kondensators <br> @color(-> die Ladung $Q$ auf den Kondensatorplatten wird größer, orange)
+
+- da sich gleichnamige Ladungen auf den Kondensatorplatten abstoßen, sinkt die Anzahl der Ladungsträger die pro Sekunde auf die Kondensatorplatten fließen <br> @color(-> während des Ladevorgangs nimmt die Ladestromstärke $I$ ab, orange)
+
+- der zeitliche Verlauf der Stromstärke $I(t)$ kann mit <br> $$ I(t) = I_0 \cdot e^{-\frac{1}{R\cdot C}\cdot t} $$ <br> beschrieben werden. Hierbei gilt $ \hspace{0.5cm} I_0 = \dfrac{U}{R} $
+
+- Beispielhafter Graph $I(t)$ -> die Stromstärke I nimmt mit der Zeit exponentiell ab <br> ![Ladekurve_1](https://diversewolken.ddns.net/nextcloud/index.php/s/knoEKKZaKBL9q6w/download)
+
+</p>
+
+</p>
+
+### 1.8.2. Simulation
+
+_Aufgaben:_ 
+
+1. Erstelle anhand des Schaltplans (siehe 1.8.1) in der Simulation einen Lade- und Entladekreis für einen Kondensator. <br> Link: [Simulation-Ladekurve](https://phet.colorado.edu/sims/html/circuit-construction-kit-ac/latest/circuit-construction-kit-ac_all.html?locale=de) <br>  Wähle in der Simulation die Option __Labor__.
+
+<details style="margin-left:10%">
+
+<summary> Lösungshinweis bei Problemen </summary>
+
+![LösungLadekurve](https://diversewolken.ddns.net/nextcloud/index.php/s/gsJ8NSCt5DsgXcm/download)
+
+</details>
+
+2. Beobachte, wie die Stromstärke mit zunehmender Ladung auf den Kondensatorplatten abnimmt.
+
+3. Nutze das Stromstärke Diagramm um eine simulierte Messung durchzuführen. Erstelle davon einen Screenshot.
+
+### Tutorial Oszilloskop-Modus mit Cassy 2
+
+!?[Tutorial Oszilloskop](https://www.youtube.com/watch?v=5vfNUj-2P4M)
+
+### Aufgabe zur Experiment-Vorbereitung
+
