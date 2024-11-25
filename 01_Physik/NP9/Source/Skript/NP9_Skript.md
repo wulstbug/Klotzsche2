@@ -53,6 +53,10 @@ Schau dir folgendes Video an. Notiere in Stichpunkten die Inhalte des _Vier-Ohre
 
 !?[4OhremModellAlphaLErnen](https://www.youtube.com/watch?v=9VJn1cPbf1A)
 
+## Quiz-Kommunikation
+
+[qr-code](https://www.ardalpha.de/lernen/alpha-lernen/faecher/deutsch/kommunikation-uebungsaufgabe-einfuehrung100.html)
+
 ## KI-Gespräch
 
 Führe ein Gespräch mit einer KI. Z.B. Olympia, Hobbies, die Wahlen, Krieg, Freunschaft oder etwas deiner Wahl.
