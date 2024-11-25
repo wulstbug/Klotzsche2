@@ -1,0 +1,761 @@
+<!--
+
+author: Christian Golnik
+
+language: de
+
+@style
+.lia-effect__circle {
+    display: none !important;
+}
+
+@media (min-width: 600px) {
+    .newspaper {
+        column-count: 2;
+        column-gap: 40px;
+        column-rule: 1px solid lightblue;
+    }
+    .newspaper3 {
+        column-count: 3;
+        column-gap: 20px;
+        column-rule: 1px solid lightblue;
+    }
+}
+
+h1, h2, h3, h4, h5, h6 {
+  column-span: all;
+}
+
+.cb {
+    break-before: column;
+}
+@end
+
+@onload
+window.LIA.settings.font_size = 2
+@end
+
+@color
+<bdi style="color:@1">@0</bdi>
+@end
+
+@uhr
+
+<div style="position: fixed; right:50px; top:20px;">
+
+<details>
+
+<summary> Uhrzeit </summary>
+
+<div style="text-align:left;padding:1em 0;"> 
+
+<iframe src="https://www.zeitverschiebung.net/clock-widget-iframe-v2?language=de&size=small&timezone=Europe%2FBerlin" width="100%" height="90" frameborder="0" seamless></iframe> 
+
+</div>
+
+</details>
+
+</div>
+
+@end
+
+@timer
+
+<div style="position: fixed; right:50px; top:100px;">
+
+<details>
+
+<summary> Timer(@0:@1) </summary>
+
+<div style="text-align:left;padding:1em 0;"> 
+
+<iframe width="200" height="90" src="https://webuhr.de/embed/timer/#countdown=00:@0:@1&enabled=0&onzero=0&theme=0&ampm=0&sound=xylophone" frameborder="0" allowfullscreen>
+
+</iframe> 
+
+</div>
+
+</details>
+
+</div>
+
+@end
+
+mode: presentation
+
+@@@ ogy.de/11Ph2 deaktivieren: https://ogy.de/del.cvv2y5l7old0u7gamlc1
+
+-->
+
+
+# Naturwissenschaftliches Profil Klasse 8
+
+Optische Anwendungen
+
+Christian Golnik
+
+## Motivation
+
+!?[SizeComparison](https://www.youtube.com/watch?v=8Are9dDbW24)
+
+## Grundlagen Lichtausbreitung
+
+https://gykl-my.sharepoint.com/:p:/g/personal/golnik_ch_gykl_onmicrosoft_com/EVfNIbPXPGVMsZCSjCfHx4QBg8pnsp4oCQuA5ZfTPb-L6w?rtime=3y0ChWpc3Eg
+
+
+## Experiment
+
+![Reflexion](https://diversewolken.ddns.net/nextcloud/index.php/s/JCT9JePScdeyfSs/download)
+
+## Konstrukion in Geogebra
+
+### Konstruktionsanleitung: Reflexion an einem planaren Spiegel
+
+<details>
+
+<summary> __Aufgabenteil 1:__ </summary>
+
+<p style="margin:5%">
+
+__Aufgabe 1:__ Wechsle in einem weiteren Fenster [hier zu Geogebra](https://www.geogebra.org/classroom/dmvmdyvu) und bearbeite folgende Anleitung. Gehe zu @color(Weiter ohne Anmeldung, orange) und nutze deinen Vornamen oder deine Initialien.
+
+1. Wähle Strecke aus und zeichne den ersten planaren Spiegel.
+
+![Vgl1](https://diversewolken.ddns.net/nextcloud/index.php/s/8fEHBqMpBf3DLb3/download)
+
+---
+
+2. Wähle die Strecke an und ändere die Farbe auf blau.
+
+![Vgl2](https://diversewolken.ddns.net/nextcloud/index.php/s/9D6n9wtabEnzRNj/download)
+
+---
+
+3. Zeichne einen einfallenden Lichtstrahl als Strecke, die auf dem Spiegel endet. Wähle als Farbe rot.
+
+![Vlg3](https://diversewolken.ddns.net/nextcloud/index.php/s/L3r4ppKQmB7cxGH/download)
+
+---
+
+4. Bewege den Punkt A und überprüfe, ob der Strahl auf dem Spiegel _haften_ bleibt.
+
+---
+
+5. Benenne Spiegel und einfallenden Lichtstrahl. Klicke dazu rechts auf den Spiegel und wähle _Einstellungen_. Ergänze die Beschriftung zu @color(Spiegel, blau). Wähle dann den Lichtstrahl aus und ergänze die Beschriftung @color(einfallender Lichtstrahl, red).
+
+![Vlg5](https://diversewolken.ddns.net/nextcloud/index.php/s/o897HGeCYpCfWgs/download)
+
+---
+
+6. Zeichne Sie das Lot durch den Punkt D. Wähle dazu _Senkrechte Gerade_, klicke dann auf den Spiegel und anschließend auf den Schnittpunkt von Lichtstrahl und Spiegel.
+
+<p style="margin:5%">
+
+| ![Vgl6](https://diversewolken.ddns.net/nextcloud/index.php/s/GMgcYbeWrzJkCLC/download) | ![Vgl6b](https://diversewolken.ddns.net/nextcloud/index.php/s/KDDDXw6ArwEJaDj/download)<!-- style="margin:10px"--> |
+
+</p>
+
+---
+
+7. Ändere die Linienform auf gestrichelt, die Dicke auf 1 und die Farbe auf blau. 
+
+![Vgl7](https://diversewolken.ddns.net/nextcloud/index.php/s/mp7ZZNmgHqZkM6t/download)
+
+---
+
+8. Zeichne den Einfallswinkel. Setze dazu zuerst einen Punkt (E) auf das Lot, wähle dann Winkel und klicke die Punkte CDE in dieser Reihenfolge. Wähle bei den Einstellungen den Reiter _Darstellung_ und ändere die Größe des Winkels auf 100. Beschrifte auch das Lot.
+
+<p style="margin:5%">
+
+| ![Vgl8a](https://diversewolken.ddns.net/nextcloud/index.php/s/GdG6MFxTJX75cJK/download) | ![Vgl8b](https://diversewolken.ddns.net/nextcloud/index.php/s/gGBjBj6FdLypQe2/download)<!-- style="margin:10px"--> |
+
+</p>
+
+---
+
+9. Für die Reflexion des Lichtstrahls verwenden wir den Befehl _Spiegle an Gerade_. Wähle dazu zuerst den Punkt C und dann das Lot. Du erhälst einen Punkt C, der am Lot gespiegelt wurde. 
+
+| ![Vgl9a](https://diversewolken.ddns.net/nextcloud/index.php/s/zGKeSrHiXQMkbtk/download) | ![Vgl9b](https://diversewolken.ddns.net/nextcloud/index.php/s/664JKd34YMtkjBT/download)<!-- style="margin:10px"--> |
+
+---
+
+10. Zeichne einen Strahl von Punkt D durch C'. Ergänze die Farbe des Lichtstrahls zu rot, beschrifte den Lichtstrahl mit reflektierter Lichtstrahl. Ergänze den Reflexionswinkel.
+
+![Vgl10](https://diversewolken.ddns.net/nextcloud/index.php/s/yiSTSgpFNJRoP7f/download)<!-- style="margin:10px"-->
+
+---
+
+11. Beschrifte nun noch den neuen Winkel (er heißt $\beta$) mit $\alpha'$. Kopiere dazu das $\alpha$ aus der Beschriftung des ersten Winkels und setze es im zweiten Winkel mit einem __'__ ein.
+
+![Vgl11](https://diversewolken.ddns.net/nextcloud/index.php/s/ysHAQjxma8A5AZ7/download)<!-- style="margin:10px"-->
+
+---
+
+12. Blende nun die überflüssigen Punkte E und C' aus. Klicke dazu rechts auf die Punkte und wähle _Objekt anzeigen_.
+
+---
+
+13. Überprüfe deine Konstruktion.
+
+![Vgl12](https://diversewolken.ddns.net/nextcloud/index.php/s/fqt36pkWXAkc7tY/download)<!-- style="margin:10px"-->
+
+---
+
+</p>
+
+</details>
+
+---
+
+<details>
+
+<summary> __Aufgabenteil 2:__ </summary>
+
+<p style="margin:5%">
+
+14. Konstruiere nun einen zweite Spiegel, an dem der reflektierte Lichtstrahl ebenfalls reflektiert wird.
+
+![Vgl13](https://diversewolken.ddns.net/nextcloud/index.php/s/twWpgsoaTm7Fcwd/download)<!-- style="margin:10px"-->
+
+
+
+15. @color(Achtung:, red) Der reflektierte Lichtstrahl geht nicht durch den zweiten Spiegel hindurch. Konstruiere zuerst den Schnittpunkt (H) zwischen reflektiertem Lichtstrahl und Spiegel 2. Klicke nun rechts auf den reflektierten Lichtstrahl und blende ihn aus (Objekt anzeigen). Es wird nun nur noch der Schnittpunkt H angezeigt, der reflektierte Lichtstrahl bleibt versteckt.
+
+<div style="margin:5%">
+
+<details>
+
+<summary> Hinweise (zum Aufklappen) </summary>
+
+| ![Vergleich15a](https://diversewolken.ddns.net/nextcloud/index.php/s/TowjQPbxWEnnkBq/download) | ![Vergleich15](https://diversewolken.ddns.net/nextcloud/index.php/s/NPdKMyTibFnGXtc/download) |
+
+</details>
+
+</div>
+
+16. Zeichne nun eine Strecke vom Spiegel1 zum Spiegel2. Für den Spiegel2 ist dieser Strahl nun der einfallende Lichtstrahl.
+
+
+<div style="margin:5%">
+
+<details>
+
+<summary> Hinweise (zum Aufklappen) </summary>
+
+![Vergleich16a](https://diversewolken.ddns.net/nextcloud/index.php/s/N8neeeEg897odSE/download)
+
+</details>
+
+</div>
+
+17. Wiederhole nun die Prozedur zum reflektieren des Lichtstrahls an Spiegel2. Benenne die Winkel mit $\alpha_2$ und $\alpha_2'$
+
+<div style="margin:5%">
+
+<details>
+
+<summary> Hinweise (zum Aufklappen) </summary>
+
+![Vergleich17](https://diversewolken.ddns.net/nextcloud/index.php/s/pLezfiAept7gAFW/download)
+
+</details>
+
+</div>
+
+</p>
+
+</details>
+
+---
+
+<details>
+
+<summary> __Aufgabenteil 3:__ </summary>
+
+<p style="margin-left:5%">
+
+Wechsle in einem weiteren Fenster [hier zum Labyrinth](https://www.geogebra.org/classroom/xfwnnpnr) und bearbeite folgende Anleitung. Finde das Tor, in welches Lichtstrahl 1 trifft. Konstruiere den Lichtweg sauber.
+
+<div style="margin:5%">
+
+![VglLab](https://diversewolken.ddns.net/nextcloud/index.php/s/HXzk3JjHMA4oNcf/download)
+
+</div>
+
+</p>
+
+</details>
+
+# Der Hohlspiegel am Hubble-Teleskop
+
+{{0-1}}
+*********************
+<H3> Konstruktion am kugelförmigen (sphärischen) Hohlspiegel => kein scharfer Brennpunkt</H3>
+
+??[HubbleSphHohlspiegel](https://www.geogebra.org/classic/kwrjkabx)
+*********************
+
+{{1}}
+*********************
+<H3> Konstruktion am parabelförmigen Hohlspiegel (Parabolspiegel)</H3>
+
+??[Konstruktion](https://www.geogebra.org/classic/bbuu7mb6)
+*********************
+
+
+
+# Aufgabenstellung
+
+<section class="newspaper">
+
+- Verwende die Webseite https://ogy.de/golnik um zu den Geogebraoptionen zu kommen.
+
+> ??[ogy.de/golnik](http://gykl.lernsax.de/golnik.ch/.ws_gen/4/index.htm)
+
+<p class="cb"> Aufgaben </p>
+
+1. Nutze die Einfache Konstruktionsumgebung um die Reflexion an einem Hohlspiegel zu konstruieren und einen _perfekten_ Brennpunkt zu erzeugen
+
+2. Wähle eine der folgenden Aufgaben
+
+2.1. Konstruiere ein Hubble-Teleskop mit Primär- und Sekundärspiegel mit möglichst optimalem Brennpunkt (Bsp. siehe Hubble-Test). Nutze hierfür auch die __Einfache Konstruktionsumgebung__ 
+
+    => (freiwillige Bewertung möglich)
+
+2.2. Konstruiere die Schattenentstehung an einer bewegten Sonne
+
+</section>
+
+# Astronomic Picture of the day
+
+Die NASA veröffentlicht jeden Tag ein Astronomic picture of the day (APOD).
+
+-> https://apod.nasa.gov/apod/
+
+<H3> Aufgaben (__via ogy.de/golnik__): </H3>
+
+1. Suche in der Datenbank das APOD eines Planeten dieses Sonnensystems (und belasse es in einem Tab geöffnet)
+
+2. Suche in der Datenbank das APOD eines Sternzeichens (und belasse es in einem Tab geöffnet)
+
+3. Finde in der Datenbank das APOD deines Geburtstags (und belasse es in einem Tab geöffnet).
+
+4. Suche in der Datenbank ein APOD, dass dir persönlich und ästhetisch sehr gut gefällt.
+
+# Hubble und James Webb
+
+<p class="newspaper">
+
+__Hubble-Space-Telescope__
+
+![Hubble](https://diversewolken.ddns.net/nextcloud/index.php/s/XDgDTpD3NDDFbCy/download)
+
+<p class="cb">
+
+__James-Webb-Space-Telescope__
+
+![JamesWebb](https://diversewolken.ddns.net/nextcloud/index.php/s/W2PDYyZQS7H6xyQ/download)
+
+</p>
+
+</p>
+
+{{1-2}}
+*************
+__Pillars of Construction (Säulen der Schöpfung)__
+
+!?[PillarsOfConstruction](https://www.youtube.com/watch?v=1itvyekUbWU)
+*************
+
+{{2-3}}
+*************
+__Pinwheel Galaxy (Feuerrad-Galaxie)__
+
+!?[PinWheelGalaxy](https://stsci-opo.org/STScI-01EVSAJ0S1XJMZNJQFHN6VQ6TD.mp4)
+
+*************
+
+{{3}}
+*************
+__Crab Nebula (Krebs-Nebel)__
+
+!?[PillarsOfConstruction](https://stsci-opo.org/STScI-01EVS92176D4JGEVERK66TVD6W.mp4)
+*************
+
+## 2.1 Farben von Sonne und Glühlampe
+
+> Die Sonne oder eine Glühlampe sendet weißes Licht aus. Dieses Licht enthält die Farben des Regenbogens.
+
+{{1-2}}
+*************
+!?[ARTE_JAMES_WEBB](https://www.youtube.com/watch?v=u3PFhzxlgh4)
+*************
+
+{{2}}
+*************
+__Demonstrationsexperiment:__ Schickt man einen weißen Lichtstrahl auf die Spitze eines Prismas so wird das Licht in seine Farben zerlegt.
+*************
+
+{{2}}
+*************
+![SpektralfarbenPrisma](https://d1g9li960vagp7.cloudfront.net/wp-content/uploads/2023/06/Folie1-2-1024x576.png)<!--style="width:50%" -->
+*************
+
+{{3}}
+*************
+__Experimentier-Aufgabe:__ Untersuche das Spektrum eines weißen Lichtstrahls mit Hilfe eines Prismas. 
+
+1. Zeichne den Versuchs-Aufbau als Skizze in deinen Hefter.
+
+2. Übernimm den Farbverlauf in deinen Hefter (farbig oder in Worten).
+*************
+
+## 2.2 Die Farben und die Temperatur eines Sterns
+
+> Anhand der im Licht eines Sterns enthaltenen Farben kann man die Temperatur eines Sterns untersuchen.
+
+{{1-2}}
+*********
+![TemperaturUndFarbe](https://upload.wikimedia.org/wikipedia/commons/0/08/Bunsen_burner_flame_types.jpg)
+*********
+
+{{2}}
+*********
+__Ergebnis:__ Je bläulicher die Farbe der Flamme (bzw. die Farbe des Sterns), desto höher ist seine Temperatur.
+*********
+
+{{3}}
+*********
+!?[WebbFarbenUndTemperatur](https://stsci-opo.org/STScI-01F9KZD9ZC39HDK9Q4DC3KC7QH.mp4)
+*********
+
+
+## 2.3. Fehlende Farben und die Elemente
+
+{{1}}
+*********
+> Wenn das Licht eines Sterns die Atmosphäre eines Planeten durchläuft, dann _verschlucken_ verschiedene Elemente, verschiedene Farbanteile.
+*********
+
+{{0-1}}
+***********
+!?[WebbReadingPlanetAbsorption](https://stsci-opo.org/STScI-01F9KZQ5BYSCD5PP4XDPS11HCF.mp4)
+***********
+
+{{2}}
+*********
+__Aufgabe:__ Analysiere mit Hilfe des Bildes an der Tafel und die Elemente des Ausdrucks, die dem jeweiligen Spektrum zugeordnet werden können.
+
+![JamesWebbSbsorptionSpectra](https://diversewolken.ddns.net/nextcloud/index.php/s/doWGxxG8ic5o6Xf/download)
+*********
+
+
+## Arte-Doku James Webb
+
+!?[ArteDokuJamesWebb](https://www.youtube.com/watch?v=Jb48AM77YFw)
+
+# Wiederholung Linsenabbildungen
+
+!?[BildentstehungLinsenabbildung](https://www.youtube.com/watch?v=NF2dl9GkDdc "Bildenstehung an optischen Linsen (LEIFI-Physik)")
+
+## Aufgaben Konstruktion und Test
+
+<p class="newspaper">
+
+__Aufgabe 1:__ Logge dich bei Moodle ein und absolviere den Probe Test.
+
+__Webseite:__ ogy.de/golnik -> Nawi 8 2024-2025 -> Moodle Nawi 8
+
+__Login:__ nachnahme.vorname@gykl.lernsax.de
+
+__Erstpasswort:__ nachname.vorname
+
+<p class="cb">
+
+__Aufgabe 2:__ Konstruiere die Abbildung an einer Sammellinse.
+
+__Webseite:__ ogy.de/golnik -> Nawi 8 2024-2025 -> Einfache Konstruktionsumgebung
+
+</p>
+
+</p>
+
+## Geogebra: Abbildung an einer Sammellinse
+
+1. Gehe zu @color(ogy.de/golnik,blue) und nutze @color(Einfache Konstruktionsumgebung, orange)
+
+2. Blende das Koordinatensystem ein und platziere den Ursprung mittig.
+
+![Koord](https://diversewolken.ddns.net/nextcloud/index.php/s/pGEcgSo6YKCakip/download)
+
+3. Füge deiner Konstruktion drei Variablen hinzu. <br> @color(f=3,red ) | @color(g=5,red) | @color(G=2,red)
+
+![Variablen](https://diversewolken.ddns.net/nextcloud/index.php/s/PxN6eizN5nZX4Cw/download)
+
+4. Ändere bei allen Variablen: __Minimum 0, Maximum 10, Schrittweite 0,1__
+
+![Range](https://diversewolken.ddns.net/nextcloud/index.php/s/SQ2KpJDCTA4MHp8/download)
+
+5. Blende alle Variablen ein
+
+6. Definiere Brennpunkte @color(F1,red) und @color(F2,red) der Linse <br> Tippe: <b style="color:red">F1=(-f,0)</b> und <b style="color:red">F2=(f,0)</b>
+
+7. Definiere Fußpunkt @color(G0,red) und Stützpunkt @color(G1,red) des Gegenstands. <br> Tippe: <b style="color:red">G0=(-g,0)</b> und <b style="color:red">G1=(-g,G)</b>
+
+8. Zeichne Gegenstand: <br> Nutze Vektor (@color(G0 -> G1,red))
+
+![Range](https://diversewolken.ddns.net/nextcloud/index.php/s/Ti5qQFyiDWHJWfy/download)
+
+9. Vergleiche deine Konstruktion:
+
+![Vergleiche9](https://diversewolken.ddns.net/nextcloud/index.php/s/jsKrqTCoC8ANWxF/download)
+
+10. Konstruiere 3 Geraden. <br> __h:__ $\overline{\mathrm{G1\,F1}}$ <br> __i:__ parallel zur x-Achse durch __G1__ <br>__j:__ $\overline{\mathrm{G1\,O}}$ 
+
+11. Konstruiere Schnittpunkte zwischen y-Achse und __h__ (-> __B__) bzw. j (->__C__)
+
+12. Konstruiere zwei Geraden.<br> __k:__ $\overline{\mathrm{B\,F2}}$ <br> __l:__ parallel zur x-Achse durch __C__
+
+13. Vergleiche deine Konstruktion:
+
+![Vergleiche13](https://diversewolken.ddns.net/nextcloud/index.php/s/TWBZ6yYNy73LTQw/download)
+
+14. Konstruiere Schnittpunkt von Geraden (__j__,__l__). Nenne ihn __B1__. <br> Konstruiere parallele Gerade zur y-Achse durch __B1__ -> __m__. <br> Konstruiere Schnittpunkt von __m__ und x-Achse. Nenne ihn __B0__
+
+15. Blende alle Geraden aus, konstruiere den Strahlengang und das Bild.
+
+16. Überprüfe deine Konstruktion
+
+<div style="text-indent:10%">
+
+<details>
+
+<summary> Lösung Bild </summary>
+
+![Vergleich16](https://diversewolken.ddns.net/nextcloud/index.php/s/TZF8iAzBDn9DKG8) <!-- style="max-width:80%" -->
+
+</details>
+
+</div>
+
+17. Ermittle aus deiner Konstruktion Bildweite und Bildgröße und gib diese hier zur Überprüfung ein.:
+
+    <!-- data-solution-button="off" -->
+    Bildweite b = [[ 7,5 ]] <br>
+    Bildgröße B = [[ 3 ]]
+
+    Hinweis: Falls du nicht mehr weißt, wie man Bildweite und Bildgröße abliest, schau dir nochmal das [Tafelbild](https://diversewolken.ddns.net/nextcloud/index.php/s/wpF2K9TNDfgagbH) an.
+
+__Aufgaben:__
+
+18. Stelle in deiner Konstruktion nun andere Werte ein. Überprüfe Bildweite und Bildgröße.
+
+    __g = 4, G = 3, f = 2,4__ <br>
+
+    <!-- data-solution-button="off" -->
+    Bildweite b = [[ 6 ]] <br>
+    Bildgröße B = [[ 4,5 ]]
+
+19. Probiere nun die Konstruktion eines Gegenstandes an @color(zwei Sammellinsen SLA+ SLB,orange).
+
+    1. Gehe dazu auf: @color(ogy.de/golnik,blue) und
+
+    wähle: __Zwei Sammellinsen__
+
+    2. Konstruiere zunächst das __Zwischenbild (Bild hinter der ersten Linse A)__. 
+
+<div style="text-indent:10%">
+
+<details>
+
+<summary> Lösung Zwischenbild </summary>
+
+![Lsg_Zwischenbild](https://diversewolken.ddns.net/nextcloud/index.php/s/R7kBLeNY6CPCQ3q/download) <!-- style="max-width:80%" -->
+
+</details>
+
+</div>
+
+   3.  Konstruiere von diesem Zwischenbild ausgehend das Bild an der zweiten Linse.
+
+<div style="text-indent:10%">
+
+<details>
+
+<summary> Lösung Bild </summary>
+
+![Lsg_Bild](https://diversewolken.ddns.net/nextcloud/index.php/s/czAs2KWXdL2t3Xa/download) <!-- style="max-width:80%" -->
+
+</details>
+
+</div>
+
+## Geogebra: Konstruiere die Abbildung an einer Zerstreuungslinse
+
+
+1. Gehe zu @color(ogy.de/golnik,blue) und nutze @color(Einfache Konstruktionsumgebung, orange)
+
+2. Blende das Koordinatensystem ein und platziere den Ursprung mittig.
+
+![Koord](https://diversewolken.ddns.net/nextcloud/index.php/s/pGEcgSo6YKCakip/download)
+
+3. Füge deiner Konstruktion drei Variablen hinzu. <br> @color(f=3,red ) | @color(g=5,red) | @color(G=2,red)
+
+![Variablen](https://diversewolken.ddns.net/nextcloud/index.php/s/PxN6eizN5nZX4Cw/download)
+
+4. Ändere bei allen Variablen: __Minimum 0, Maximum 10, Schrittweite 0,1__
+
+![Range](https://diversewolken.ddns.net/nextcloud/index.php/s/SQ2KpJDCTA4MHp8/download)
+
+5. Blende alle Variablen ein
+
+6. Definiere Brennpunkte @color(F1,red) und @color(F2,red) der Linse <br> Tippe: <b style="color:red">F1=(f,0)</b> und <b style="color:red">F2=(-f,0)</b>
+
+7. Definiere Fußpunkt @color(G0,red) und Stützpunkt @color(G1,red) des Gegenstands. <br> Tippe: <b style="color:red">G0=(-g,0)</b> und <b style="color:red">G1=(-g,G)</b>
+
+8. Zeichne Gegenstand: <br> Nutze Vektor (@color(G0 -> G1,red))
+
+![Range](https://diversewolken.ddns.net/nextcloud/index.php/s/Ti5qQFyiDWHJWfy/download)
+
+9. Vergleiche deine Konstruktion (Achte auf die Position der Brennpunkte):
+
+![Vergleiche9](https://diversewolken.ddns.net/nextcloud/index.php/s/Mc87BWdeZN7yCZo/download)
+
+10. Konstruiere 3 Geraden. <br> __h:__ $\overline{\mathrm{G1\,F1}}$ <br> __i:__ parallel zur x-Achse durch __G1__ <br>__j:__ $\overline{\mathrm{G1\,O}}$ 
+
+11. Konstruiere Schnittpunkte zwischen y-Achse und __h__ (-> __B__) bzw. i (->__C__)
+
+12. Konstruiere zwei Geraden.<br> __k:__ $\overline{\mathrm{C\,F2}}$ <br> __l:__ parallel zur x-Achse durch __B__
+
+13. Vergleiche deine Konstruktion:
+
+![Vergleiche13](https://diversewolken.ddns.net/nextcloud/index.php/s/eMr6w6JSXrjBzLn/download)
+
+14. Konstruiere Schnittpunkt von Geraden (__j__,__l__). Nenne ihn __B1__. <br> Konstruiere parallele Gerade zur y-Achse durch __B1__ -> __m__. <br> Konstruiere Schnittpunkt von __m__ und x-Achse. Nenne ihn __B0__
+
+15. Vergleiche deine Konstruktion
+
+![Vergleiche15](https://diversewolken.ddns.net/nextcloud/index.php/s/MefZoxxjGyH7ang/download)
+
+16. Blende alle Geraden aus, konstruiere den Strahlengang und das Bild (Bild: Vektor von B0->B1).
+
+17. Vergleiche deine Konstruktion
+
+![Vergleiche17](https://diversewolken.ddns.net/nextcloud/index.php/s/LkCdKWr2tQfzEer/download)
+
+17. Ermittle aus deiner Konstruktion Bildweite und Bildgröße und gib diese hier zur Überprüfung ein (runde auf eine Kommastelle).:
+
+    <!-- data-solution-button="off" -->
+    Bildweite b = [[ 1,9 ]] <br>
+    Bildgröße B = [[ 0,75 ]]
+
+    Hinweis: Falls du nicht mehr weißt, wie man Bildweite und Bildgröße abliest, schau dir nochmal das [Tafelbild](https://diversewolken.ddns.net/nextcloud/index.php/s/wpF2K9TNDfgagbH) an.
+
+18. Ändere deine Parameter auf __g = 6, G = 8, f = 2__
+
+     
+     <!-- data-solution-button="off" -->
+     Bildweite b = [[ 1,5 ]] <br>
+     Bildgröße B = [[ 2 ]]
+
+## Schatten in 3D Zeichen
+
+[Klicke hier: Geogebra: 3D-Schatten zeichnen](https://www.geogebra.org/classroom/yufw2qaq)
+
+1. Zeichne eine senkrechte Hilfslinie zum Horizont durch die Sonne. 
+
+2. Markiere den Schnittpunkt mit dem Horizont. Nenne diesen Punkt N.
+
+3. Zeichne nun einen Strahl (s) von der Sonne durch die linke obere Ecke deines Objektes.
+
+4. Zeichne nun einen Strahl (a) von N ausgehend, durch den unterhalb der Ecke aus 3. liegenden Punkt.
+
+5. Konstruiere den Schnittpunkt (O)zwischen s und a.
+    -> Dieser Punkt ist eine Ecke deines Schattens.
+
+6. Vergleiche deine Konstruktion.
+
+<div style="text-indent:10%">
+
+<details>
+
+<summary> Zwischenbild </summary>
+
+![Vergleiche6](https://diversewolken.ddns.net/nextcloud/index.php/s/TfwxTdXPFkRr5nZ/download)<!-- style="max-height:400px" -->
+
+</details>
+
+</div>
+
+     
+7. Wiederhole diesen Vorgang für zwei weitere Ecken (hinten links, vorne rechts).
+
+8. Vergleiche deine Konstruktion.
+
+<div style="text-indent:10%">
+
+<details>
+
+<summary> Zwischenbild </summary>
+
+![Vergleiche8](https://diversewolken.ddns.net/nextcloud/index.php/s/PgxTpAJNA6enGbR/download)<!-- style="max-height:400px" -->
+
+</details>
+
+</div>
+
+9. Wähle Vieleck und verbinde die Eckpunkte zu einem sinnvollen Schatten.
+
+<div style="text-indent:10%">
+
+<details>
+
+<summary> Menupunkt </summary>
+
+![Vieleck](https://diversewolken.ddns.net/nextcloud/index.php/s/qXcdz4gpdZLjdxH/download)<!-- style="max-height:400px" -->
+
+</details>
+
+</div>
+
+10. Vergleiche deine Konstruktion.
+
+
+<div style="text-indent:10%">
+
+<details>
+
+<summary> Zwischenbild </summary>
+
+![Vergleiche10](https://diversewolken.ddns.net/nextcloud/index.php/s/3FLELHRHbb2ixpw/download)<!-- style="max-height:400px" -->
+
+</details>
+
+</div>
+
+11. Blende nun den zweiten Quader ein. Klicke dazu oben links auf Quader2 und wiederhole die Schattenkonstruktion.
+
+
+<div style="text-indent:10%">
+
+<details>
+
+<summary> Zwischenbild </summary>
+
+![Vergleiche11_1](https://diversewolken.ddns.net/nextcloud/index.php/s/YqBxWJCRrH78eP7/download)<!-- style="max-height:400px" -->
+
+</details>
+
+<details>
+
+<summary> Lösung </summary>
+
+![Vergleiche11_2](https://diversewolken.ddns.net/nextcloud/index.php/s/FWTP7kckBYEwcGy/download)<!-- style="max-height:400px" -->
+
+</details>
+
+</div>
+
+12. Probiere nun einen Schattenlauf mit bewegter Sonne
+
+     [Klicke hier: Geogebra: 3D-Schatten zeichnen mit Sonnenlauf](https://www.geogebra.org/classroom/trc9cuu8)
