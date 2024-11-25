@@ -1368,3 +1368,186 @@ $$ \int_0^{7,34}{(-1,25\cdot t^2+20,44\cdot t) dt}=402,34 $$
 
 </p>
 
+### Abituraufgabe Baustellenfahrten
+
+Auf Autobahnen kommt es wegen Baustellen zu Geschwindigkeitsbegrenzungen und
+Veränderungen der Verkehrsführung. Dabei kann z. B. eine Richtungsfahrbahn geteilt
+und ein Fahrstreifen auf die Gegenfahrbahn geführt werden.
+
+Die Bewegung der Fahrzeuge auf der Autobahn wird modellhaft durch die Bewegung
+von Massepunkten auf einer horizontalen Ebene vereinfacht.
+Die Abbildung zeigt das Prinzip der Verkehrsführung.
+
+![Abituraufgabe_Baustelle](https://diversewolken.ddns.net/nextcloud/index.php/s/7ye8j9Wn6JAd9G9/download)
+
+Die Geschwindigkeitsbegrenzung für den Fahrstreifen auf der Richtungsfahrbahn Ost beträgt 60km∙h⁻¹, auf den anderen drei Fahrstreifen gilt die Höchstgeschwindigkeit 80km∙h⁻¹. Die Geschwindigkeitsbegrenzung gilt jeweils auf beiden Richtungsfahrbahnen in Fahrtrichtung ab dem Anfang des Baustellenbereichs.
+
+_Hinweis:_ Der von den Fahrzeugen im Baustellenbereich zurückgelegte Weg ist geringfügig länger als 1400m, die zugehörige Differenz darf vernachlässigt werden.
+
+Ein Lieferwagen (Lw) fährt in Richtung Osten mit der konstanten Geschwindigkeit 60 km∙h⁻¹. Zum Zeitpunkt t=0 wird er am Beginn des Baustellenbereichs von
+einem Pkw überholt, welcher die zweite Fahrspur (Überholspur) befährt.
+Der Fahrer des Pkw hält sich nicht an die Geschwindigkeitsbegrenzung und fährt zu diesem Zeitpunkt mit der Geschwindigkeit 110km∙h⁻¹, er bremst das Fahrzeug sofort gleichmäßig auf 80 km∙h⁻¹ ab und legt dabei 200m zurück.
+
+---
+
+1. 1. Ermitteln Sie die Beschleunigung des Pkw beim Abbremsen und die Bremszeit.
+
+<p style="margin-left:10%">
+
+@rangeQuiz2($t_{brems}$, 7.579 , $s$)
+
+---
+
+@rangeQuiz2($a_{Pkw}$, -1.1, $\frac{m}{s^2}$)
+
+---
+
+<details>
+
+<summary> Hinweis 1</summary>
+
+Stellen Sie die Bewegungsgleichungen $s(t)$ und $v(t)$ für den Pkw auf, setzen Sie bekannte Werte ein und lösen Sie das Gleichungssystem mit dem CAS.
+
+</details>
+
+---
+
+<details>
+
+<summary> Hinweis 2 </summary>
+
+Für s(t) gilt: $200m = \frac{1}{2} \cdot a \cdot t^2 + \frac{110}{3,6} \frac{m}{s} \cdot t$
+
+Für v(t) gilt: $\frac{80}{3,6}\frac{m}{s} = a \cdot t + \frac{110}{3,6}\frac{m}{s}$
+
+</details>
+
+---
+
+<details>
+
+<summary> Lösung </summary>
+
+$ t = 7,579 s$
+
+$a = -1,1 \frac{m}{s^2}$
+
+</details>
+
+</p>
+
+---
+
+1. 2. Der Pkw bewegt sich 200 m nach Beginn des Baustellenbereichs gleichförmig mit der Geschwindigkeit 80 km∙h⁻¹ . Er passiert zum Zeitpunkt $t_1$ das Ende des Baustellenbereichs. Ermitteln Sie den Abstand von Lieferwagen und Pkw für den Zeitpunkt $t_1$.
+
+<p style="margin-left:10%">
+
+__Zwischenergebnis:__
+
+@rangeQuiz2($t_{1}$, 61.579 , $s$)
+
+---
+
+__Endergebnis:__
+
+@rangeQuiz2($s_{Pkw-Lw}$, 373.68 , $m$)
+
+---
+
+<details>
+
+<summary> Hinweis 1</summary>
+
+Stellen Sie die Bewegungsgleichungen $s_{Pkw}(t)$ für die Bewegung nach dem Bremsvorgang auf. Ermitteln Sie die Zeit $t'$, die der Lieferwagen für die gleichförmige Bewegung der Reststrecke benötigt.
+
+@rangeQuiz2($t'$, 54 , $s$)
+
+</details>
+
+---
+
+<details>
+
+<summary> Hinweis 2 </summary>
+
+Für die gleichförmige Bewegung des Pkw gilt:
+
+$$ 1400 m = \frac{80}{3.6}\frac{m}{s}\cdot t' + 200 m $$
+
+$$ t' = 54s $$.
+
+Diese Zeit muss zu der Bremszeit hinzugefügt werden um den Zeitpunkt $t_1$ zu berechnen.
+
+</details>
+
+---
+
+<details>
+
+<summary> Lösung </summary>
+
+$ t_1 = 61,579s $
+
+Der Lieferwagen führt ebenfalls eine gleichförmige Bewegung aus.
+
+$ s_{Lw}(t) = \frac{60}{3.6}\frac{m}{s} \cdot t $
+
+Setzt man hier die Zeit $t_1 = 61,579s$ ein, so ergibt sich der Weg des Lw zu 1026,32m. Somit ist der Abstand der Fahrzeuge 373,68 m.
+
+</details>
+
+</p>
+
+---
+
+1. 3. Auf der Richtungsfahrbahn West hat sich ein Stau wegen eines defekten Lkw gebildet. Der defekte Lkw steht genau in der Mitte des Baustellenbereichs und blockiert die beiden nördlichen Fahrstreifen. Ein Fahrzeug des Pannendienstes (Pd) durchfährt die Rettungsgasse mit der konstanten Geschwindigkeit 25km∙h⁻¹. Zum Zeitpunkt t=0 ist es noch 500 m von dem defekten Lkw entfernt. <br> Ermitteln Sie den Abstand $s_2$ vom defekten Lkw, wo sich Pd und Lw treffen.
+
+<p style="margin-left:10%">
+
+__Zwischenergebnis:__ (Treff-Zeitpunkt von Pd und Lw)
+
+@rangeQuiz2($t_2$, 34.2857, $s$)
+
+__Endergebnis:__ Abstand von Lkw und Lw/Pd-Treffpunkt
+
+@rangeQuiz2($s_2$, 261.9 , $m$)
+
+<details>
+
+<summary> Hinweis 1</summary>
+
+Stellen sie für den Pd und den Lw die Bewegungsgleichungen s(t) auf und setzen Sie diese gleich. Achten Sie auf die Vorzeichen der Geschwindigkeiten und eventuelle Parameter $s_0$.
+
+</details>
+
+---
+
+<details>
+
+<summary> Hinweis 2 </summary>
+
+Beide Fahrzeuge bewegen sich gleichförmig aufeinander zu.<br> Für den Lw: $s_{Lw}(t) = \frac{80}{3,6}\frac{m}{s} \cdot t$ <br> und für den Pd: $s_{Pd}(t) = -\frac{25}{3,6}\frac{m}{s}\cdot t + 1200m$
+
+</details>
+
+---
+
+<details>
+
+<summary> Lösung </summary>
+
+Setzt man $s_{Lw}(t_2) = s_{Pd}(t_2)$ so ergibt sich als Lösung
+
+$$ t_2 = 34.29s $$
+
+Der Lw hat zu diesem Zeitpunkt $t_2$ die Strecke
+
+$$ s_{Lw}(t_2) = 961,9 m $$
+
+zurück gelegt. Der Abstand zum defekten Lkw beträgt demnach
+
+$$ s_{2} = 961,9 m - 700 m = 261,9 m$$
+
+</details>
+
+</p>
