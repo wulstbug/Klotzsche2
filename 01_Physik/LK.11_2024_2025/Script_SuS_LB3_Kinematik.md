@@ -1526,7 +1526,7 @@ Stellen sie für den Pd und den Lw die Bewegungsgleichungen s(t) auf und setzen 
 
 <summary> Hinweis 2 </summary>
 
-Beide Fahrzeuge bewegen sich gleichförmig aufeinander zu.<br> Für den Lw: $s_{Lw}(t) = \frac{80}{3,6}\frac{m}{s} \cdot t$ <br> und für den Pd: $s_{Pd}(t) = -\frac{25}{3,6}\frac{m}{s}\cdot t + 1200m$
+Beide Fahrzeuge bewegen sich gleichförmig aufeinander zu.<br> Für den Lw: $s_{Lw}(t) = \frac{60}{3,6}\frac{m}{s} \cdot t$ <br> und für den Pd: $s_{Pd}(t) = -\frac{25}{3,6}\frac{m}{s}\cdot t + 1200m$
 
 </details>
 
