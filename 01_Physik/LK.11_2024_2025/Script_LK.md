@@ -4672,3 +4672,84 @@ $$ s_{2} = 847 m - 700 m = 147 m$$
 </details>
 
 </p>
+
+
+## 3.9 Waagerechter Wurf
+
+![Tafelbild_WaagerechterWurf](https://diversewolken.ddns.net/nextcloud/index.php/s/waCiMSQ3XDqN4cH/download)
+
+
+
+### Aufgaben Wurfbewegungen
+
+__Metzler S. 31 / 3__
+
+<p style="margin:5%">
+
+a) Überprüfen
+
+@rangeQuiz2($h$, 0 ,$m$)
+
+@rangeQuiz2($t_{flug}$, 0 , $s$)
+
+---
+
+b)
+
+@rangeQuiz2($v_{end}$, 0 ,$\frac{m}{s}$)
+
+@rangeQuiz2($\alpha$, 0 , $^\circ$)
+
+</p>
+
+---
+
+__Metzler S. 31 / 4__
+
+<p style="margin:5%">
+
+a) Überprüfen
+
+@rangeQuiz2($v_{0}$, 0 ,$\frac{m}{s}$)
+
+---
+
+b)
+
+@rangeQuiz2($h$, 0 , $m$)
+
+---
+
+c)
+
+@rangeQuiz2($t$, 0 ,$s$)
+
+</p>
+
+
+---
+
+__Metzler S. 31 / 6*__
+
+<p style="margin:5%">
+
+a) Überprüfen
+
+@rangeQuiz2($h$, 0 ,$m$)
+
+---
+
+b)
+
+@rangeQuiz2($v_0$, 0 , $\frac{m}{s}$)
+
+<details>
+
+<summary> Lösung allgemein </summary>
+
+...
+
+</details>
+
+
+</p>
