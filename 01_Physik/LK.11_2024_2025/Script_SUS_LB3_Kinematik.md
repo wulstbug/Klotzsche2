@@ -1506,11 +1506,11 @@ Setzt man hier die Zeit $t_1 = 61,579s$ ein, so ergibt sich der Weg des Lw zu 10
 
 __Zwischenergebnis:__ (Treff-Zeitpunkt von Pd und Lw)
 
-@rangeQuiz2($t_2$, 34.2857, $s$)
+@rangeQuiz2($t_2$, 50.82, $s$)
 
 __Endergebnis:__ Abstand von Lkw und Lw/Pd-Treffpunkt
 
-@rangeQuiz2($s_2$, 261.9 , $m$)
+@rangeQuiz2($s_2$, 147 , $m$)
 
 <details>
 

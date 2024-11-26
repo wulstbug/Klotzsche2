@@ -4627,11 +4627,11 @@ Setzt man hier die Zeit $t_1 = 61,579s$ ein, so ergibt sich der Weg des Lw zu 10
 
 __Zwischenergebnis:__ (Treff-Zeitpunkt von Pd und Lw)
 
-@rangeQuiz2($t_2$, 34.2857, $s$)
+@rangeQuiz2($t_2$, 50.82, $s$)
 
 __Endergebnis:__ Abstand von Lkw und Lw/Pd-Treffpunkt
 
-@rangeQuiz2($s_2$, 261.9 , $m$)
+@rangeQuiz2($s_2$, 147 , $m$)
 
 <details>
 
@@ -4647,7 +4647,7 @@ Stellen sie für den Pd und den Lw die Bewegungsgleichungen s(t) auf und setzen 
 
 <summary> Hinweis 2 </summary>
 
-Beide Fahrzeuge bewegen sich gleichförmig aufeinander zu.<br> Für den Lw: $s_{Lw}(t) = \frac{80}{3,6}\frac{m}{s} \cdot t$ <br> und für den Pd: $s_{Pd}(t) = -\frac{25}{3,6}\frac{m}{s}\cdot t + 1200m$
+Beide Fahrzeuge bewegen sich gleichförmig aufeinander zu.<br> Für den Lw: $s_{Lw}(t) = \frac{60}{3,6}\frac{m}{s} \cdot t$ <br> und für den Pd: $s_{Pd}(t) = -\frac{25}{3,6}\frac{m}{s}\cdot t + 1200m$
 
 </details>
 
@@ -4659,18 +4659,16 @@ Beide Fahrzeuge bewegen sich gleichförmig aufeinander zu.<br> Für den Lw: $s_{
 
 Setzt man $s_{Lw}(t_2) = s_{Pd}(t_2)$ so ergibt sich als Lösung
 
-$$ t_2 = 34.29s $$
+$$ t_2 = 50,82s $$
 
 Der Lw hat zu diesem Zeitpunkt $t_2$ die Strecke
 
-$$ s_{Lw}(t_2) = 961,9 m $$
+$$ s_{Lw}(t_2) = 847 m $$
 
 zurück gelegt. Der Abstand zum defekten Lkw beträgt demnach
 
-$$ s_{2} = 961,9 m - 700 m = 261,9 m$$
+$$ s_{2} = 847 m - 700 m = 147 m$$
 
 </details>
-
-</p>
 
 </p>
