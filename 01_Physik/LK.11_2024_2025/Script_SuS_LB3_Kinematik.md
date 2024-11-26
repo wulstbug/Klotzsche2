@@ -1552,8 +1552,7 @@ $$ s_{2} = 847 m - 700 m = 147 m$$
 
 </p>
 
-
-## 3.9 Waagerechter Wurf
+## 3.9 Demonstationsexperiment - Waagerechter Wurf
 
 ![Tafelbild_WaagerechterWurf](https://diversewolken.ddns.net/nextcloud/index.php/s/waCiMSQ3XDqN4cH/download)
 
