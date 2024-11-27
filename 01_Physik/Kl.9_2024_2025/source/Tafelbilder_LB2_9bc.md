@@ -771,15 +771,140 @@ __Der Elektro-Motor:__
 
 ## 2.9 Die Generator-Spannung
 
-### Simulation 1
+## Simulation 1
 
 ??[PHET_Generator](https://phet.colorado.edu/sims/html/generator/latest/generator_all.html?locale=de)
 
-### Simulation 2
+## Simulation 2
 
 ??[Fendt_Generator](https://www.walter-fendt.de/html5/phde/generator_de.htm)
 
-### Simulation 3
+## Simulation 3
 
 [LEIFI-Generator](https://www.leifiphysik.de/elektrizitaetslehre/wechselstromtechnik/versuche/erzeugung-sinusfoermiger-wechselspannung)
+
+
+## 2.9 Die induzierte Spannung am Generator
+
+> Ein Generator in seiner einfachsten Bauform mit Magnet und Spule erzeugt eine Spannung, die mit der Zeit ihren __Wert__ und ihr __Vorzeichen__ (d.h. $\oplus$ und $\ominus$ ) ändert.
+>
+> Eine solche Spannung nennt man @color(__Wechselspannung__ $U$~,red).
+
+
+{{1-5}}
+**********
+__Beispiel einer Wechselspannung:__
+
+![Wechselspannung](https://diversewolken.ddns.net/nextcloud/index.php/s/yqQtJBq5kcN3p2r/download "Quelle: https://www.sanier.de/elektroinstallation/spannungsarten-und-stroeme" )<!-- style="max-width:500px" -->
+**********
+
+{{5}}
+**********
+![Wechselspannung](https://diversewolken.ddns.net/nextcloud/index.php/s/9kfekzHmQteXnca/download "Quelle: https://www.sanier.de/elektroinstallation/spannungsarten-und-stroeme" )<!-- style="max-width:500px" -->
+**********
+
+{{2}}
+**********
+__Eigenschaften einer Wechselspannung:__
+
+| | | |
+| {3}{__Amplitude $\hat{U}$__} | {4}{__Periodendauer $T$__} |  {6}{__Frequenz $f=\frac{1}{T}$__} |
+| {3}{Die Amplitude gibt den @color(Maximalwert der Spannung,orange) an.} | {4}{@color(Zeit, orange) zwischen zwei Maxima.} | {6}{Die Frequenz gibt an, wie oft die Spannung ihren @color(Maximalwert pro Sekunde, orange) erreicht.} |
+| {3}{Einheit [V]} | {4}{Einheit [s]} | {6}{Einheit __1 Hertz__  [ 1Hz = $\frac{1}{s}$]} |
+**********
+
+## 2.10 Wechselspannung und Dioden
+
+Eine Diode wird (mit einem Schutzwiderstand) an eine Wechselspannung angeschlossen. 
+
+@color(_Was kann man beobachten?_, blue) <br> <br>
+
+<p class="newspaper">
+
+{1}{![DiodeWechselSpannung](https://diversewolken.ddns.net/nextcloud/index.php/s/AYWgzemZr89zamr/download)}
+
+<p class="cb">
+
+{{2}}
+*******
+!?[Diode50Hz](https://youtu.be/qXN1QMhcvEU)
+*******
+
+</p>
+
+</p>
+
+{{3}}
+********
+__Beobachtung:__ Da die Spannung ständig die Pole ändert, wird die Diode regelmäßig in __Durchlass-__ und __Sperrrichtung__ geschaltet.
+
+-> Die Diode geht an und aus.
+********
+
+## Aufgaben zur Wechselspannung 1
+
+Bestimme für die Netzspannung einer Haushaltssteckdose Amplitude, Periodendauer und Frequenz (_Achte auf die Einheiten_).
+
+![Netzspannung](https://diversewolken.ddns.net/nextcloud/index.php/s/jmBedzyFa2xBTLF/download "Quelle: https://www.sonnentaler.net/dokumentation/wiss/elektrizitaet/grundlagen/elektrik-im-haus/")<!-- style="min-width:60%"-->
+
+@color(_Hinweis: 1000 ms = 1 s_, red)
+
+__Lösungen:__
+
+1. Amplitude 
+
+@rangeQuiz2($\hspace{1cm}$ $\hat{U}$, 325, $V$)
+
+2. Periodendauer 
+
+@rangeQuiz2($\hspace{1cm}$$T$, 0.02, $s$)
+
+3. Frequenz
+
+@rangeQuiz2($\hspace{1cm}$$f$, 50, $\dfrac{1}{s}$)
+
+## 2.11 Die Netzspannung im Haushalt
+
+> Die Spannung an einer herkömmlichen Steckdose hat eine Amplitude von $\hat{U} = 325 V$. 
+>
+> Im Alltag wird aber ein Mittelwert angegeben, er beträgt $\bar{U} = 230 V$.
+>
+> Die Frequenz beträgt $f = 50 Hz= 50 \frac{1}{s}$.
+
+![Netzspannung](https://diversewolken.ddns.net/nextcloud/index.php/s/jmBedzyFa2xBTLF/download)
+
+@color(_Notiere folgende Übersicht im Hefter._,blue)
+
+
+## Aufgaben zur Wechselspannung 2
+
+<iframe src="https://learningapps.org/watch?v=p23wxsi7224" style="border:0px;width:100%;height:500px" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"></iframe>
+
+## Aufgaben zur Wechselspannung 3
+
+[QuizZumGenerator](https://www.leifiphysik.de/elektrizitaetslehre/induktion-und-transformator/aufgabe/quiz-zum-generator)
+
+## Aufgabe zur Wechselspannung 4
+
+Eine Glühlampe wird (mit einem Schutzwiderstand) an eine Wechselspannung angeschlossen. 
+
+@color(_Was kann man beobachten?_, blue) <br> <br>
+
+<p class="newspaper">
+
+{1}{![GlühlampeWechselSpannung](https://diversewolken.ddns.net/nextcloud/index.php/s/3C3Bgw3RmCExGNy/download)}
+
+<p class="cb">
+
+{{2}}
+*******
+@color(Notiere deine Vermutung, blue)
+
+__Bring dein Tablet zurück in den Tabletschrank!__
+*******
+
+</p>
+
+</p>
+
 
