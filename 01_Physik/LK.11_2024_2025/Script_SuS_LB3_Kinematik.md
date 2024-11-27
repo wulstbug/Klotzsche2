@@ -1556,3 +1556,105 @@ $$ s_{2} = 847 m - 700 m = 147 m$$
 
 ![Tafelbild_WaagerechterWurf](https://diversewolken.ddns.net/nextcloud/index.php/s/waCiMSQ3XDqN4cH/download)
 
+
+
+### Aufgaben Wurfbewegungen
+
+__Metzler S. 31 / 3__
+
+<p style="margin:5%">
+
+a) Überprüfen
+
+@rangeQuiz2($h$, 19.62 ,$m$)
+
+@rangeQuiz2($t_{flug}$, 2 , $s$)
+
+---
+
+b)
+
+@rangeQuiz2($v_{end}$, 28.02 ,$\frac{m}{s}$)
+
+@rangeQuiz2($\alpha$, 44.45 , $^\circ$)
+
+---
+
+c) 
+
+<details>
+
+<summary> Lösung allgemein </summary>
+
+zu a)
+
+$$ h = \frac{g\cdot x^2_E}{2v_0^2}  $$
+
+$$ t_{flug} = \sqrt{\frac{2h}{g}}  $$
+
+zu b)
+
+$$ v = \sqrt{v_0^2+g\cdot t^2} $$
+
+$$ \tan \alpha = \frac{g \cdot t}{v_o} $$
+
+</details>
+
+</p>
+
+---
+
+
+
+
+__Metzler S. 31 / 4__
+
+<p style="margin:5%">
+
+a) Überprüfen
+
+@rangeQuiz2($v_{0}$, 17.29 ,$\frac{m}{s}$)
+
+---
+
+b)
+
+@rangeQuiz2($h$, 6.29 , $m$)
+
+---
+
+c)
+
+@rangeQuiz2($t$, 02.27 ,$s$)
+
+</p>
+
+
+---
+
+__Metzler S. 31 / 6*__
+
+<p style="margin:5%">
+
+a) Überprüfen
+
+@rangeQuiz2($h$, 2.04 ,$m$)
+
+---
+
+b)
+
+@rangeQuiz2($v_0$, 13.01 , $\frac{m}{s}$)
+
+---
+
+<details>
+
+<summary> Lösung allgemein </summary>
+
+$$ v_0 = \frac{b}{\cos\alpha}\cdot\sqrt{\frac{g}{2(b\tan\alpha-h)}} $$
+
+</details>
+
+
+</p>
