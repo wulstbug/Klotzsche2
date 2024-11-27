@@ -4697,7 +4697,7 @@ __Wurfparabeln: Experiment (Viana2) vs. Bewegungsgleichgung__
 
 </p>
 
-## 3.10 Herleitung der Wurfparabel y(x) f+r waagerechten Wurf
+## 3.10 Herleitung der Wurfparabel y(x) für waagerechten Wurf
 
 ![Tafelbild_HerleitungWp](https://diversewolken.ddns.net/nextcloud/index.php/s/eWNsWrs6NSEgxPG/download)
 
