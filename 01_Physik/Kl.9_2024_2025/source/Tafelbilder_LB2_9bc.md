@@ -771,15 +771,15 @@ __Der Elektro-Motor:__
 
 ## 2.9 Die Generator-Spannung
 
-## Simulation 1
+### Simulation 1
 
 ??[PHET_Generator](https://phet.colorado.edu/sims/html/generator/latest/generator_all.html?locale=de)
 
-## Simulation 2
+### Simulation 2
 
 ??[Fendt_Generator](https://www.walter-fendt.de/html5/phde/generator_de.htm)
 
-## Simulation 3
+### Simulation 3
 
 [LEIFI-Generator](https://www.leifiphysik.de/elektrizitaetslehre/wechselstromtechnik/versuche/erzeugung-sinusfoermiger-wechselspannung)
 
@@ -790,28 +790,39 @@ __Der Elektro-Motor:__
 >
 > Eine solche Spannung nennt man @color(__Wechselspannung__ $U$~,red).
 
+<p class="newspaper">
+
+__Beispiel einer Wechselspannung:__
+
 
 {{1-5}}
 **********
-__Beispiel einer Wechselspannung:__
 
 ![Wechselspannung](https://diversewolken.ddns.net/nextcloud/index.php/s/yqQtJBq5kcN3p2r/download "Quelle: https://www.sanier.de/elektroinstallation/spannungsarten-und-stroeme" )<!-- style="max-width:500px" -->
 **********
 
 {{5}}
 **********
+
 ![Wechselspannung](https://diversewolken.ddns.net/nextcloud/index.php/s/9kfekzHmQteXnca/download "Quelle: https://www.sanier.de/elektroinstallation/spannungsarten-und-stroeme" )<!-- style="max-width:500px" -->
 **********
 
+<p class="cb">
+
+__Eigenschaften einer Wechselspannung:__
+
 {{2}}
 **********
-__Eigenschaften einer Wechselspannung:__
 
 | | | |
 | {3}{__Amplitude $\hat{U}$__} | {4}{__Periodendauer $T$__} |  {6}{__Frequenz $f=\frac{1}{T}$__} |
 | {3}{Die Amplitude gibt den @color(Maximalwert der Spannung,orange) an.} | {4}{@color(Zeit, orange) zwischen zwei Maxima.} | {6}{Die Frequenz gibt an, wie oft die Spannung ihren @color(Maximalwert pro Sekunde, orange) erreicht.} |
 | {3}{Einheit [V]} | {4}{Einheit [s]} | {6}{Einheit __1 Hertz__  [ 1Hz = $\frac{1}{s}$]} |
 **********
+
+</p>
+
+</p>
 
 ## 2.10 Wechselspannung und Dioden
 
@@ -841,7 +852,7 @@ __Beobachtung:__ Da die Spannung ständig die Pole ändert, wird die Diode regel
 -> Die Diode geht an und aus.
 ********
 
-## Aufgaben zur Wechselspannung 1
+### Aufgaben zur Wechselspannung 1
 
 Bestimme für die Netzspannung einer Haushaltssteckdose Amplitude, Periodendauer und Frequenz (_Achte auf die Einheiten_).
 
@@ -876,15 +887,15 @@ __Lösungen:__
 @color(_Notiere folgende Übersicht im Hefter._,blue)
 
 
-## Aufgaben zur Wechselspannung 2
+### Aufgaben zur Wechselspannung 2
 
 <iframe src="https://learningapps.org/watch?v=p23wxsi7224" style="border:0px;width:100%;height:500px" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"></iframe>
 
-## Aufgaben zur Wechselspannung 3
+### Aufgaben zur Wechselspannung 3
 
 [QuizZumGenerator](https://www.leifiphysik.de/elektrizitaetslehre/induktion-und-transformator/aufgabe/quiz-zum-generator)
 
-## Aufgabe zur Wechselspannung 4
+### Aufgabe zur Wechselspannung 4
 
 Eine Glühlampe wird (mit einem Schutzwiderstand) an eine Wechselspannung angeschlossen. 
 
