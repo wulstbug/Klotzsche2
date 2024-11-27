@@ -112,62 +112,7 @@ window.LIA.settings.font_size = 2
 
 ## 3.1. Einführung in die Analyse von Bewegungen
 
-Die __Kinematik__ (altgriechisch κίνημα kinema, deutsch ‚Bewegung‘) ist das Gebiet der Mechanik, in dem die Bewegung von Körpern rein geometrisch mit den Größen <bdi style="color:red">Ort, Zeit, Geschwindigkeit und Beschleunigung</bdi> beschrieben wird.
-
-{{1}}
-*******
-__Formelzeichen:__
-
-<div style="text-indent:10%">
-
-> $t$ .. Zeit $\Big[ s \Big]$
->
-> $x,y,z$ .. Ort/Position/Koordinate des Körpers $\Big[ m \Big]$
->
-> $v$ .. Geschwindigkeit des Körpers $\Big[ \dfrac{m}{s} \Big]$
->
-> $v_x$, $v_y$, $v_z$ .. Geschwindigkeits-Komponenten in x- y- bzw. z-Richtung
-> 
-> $a$ ..Beschleunigung $\Big[ \dfrac{m}{s^2} \Big]$
->
-> $a_x$, $a_y$, $a_z$ .. Beschleunigungs-Komponenten in x- y- bzw. z-Richtung
-
-</div>
-*******
-
-{{2}}
-*******
-__Abhängigkeiten:__ Um zu beschreiben, zu welcher Zeit sich ein Körper an welchem Ort aufhält, notiert man die Beziehung verschiedener kinematischer Größen folgender Art
-
-_Beispiele:_
-
-<div style="text-indent:10%">
-
-> $x(t)$ ..  @color(_Gesprochen: x von t_,blue) bedeutet: Der Körper befindet sich zum Zeitpunkt $t$ am Ort $x$
->
-> $v_x(t)$ .. Der Körper besitzt zum Zeitpunkt $t$ die x-Geschwindigkeit $v_x$ (oder Geschwindigkeit in x-Richtung)  
-
-</div>
-*******
-
-{{3}}
-*******
-<bdi style="color:blue">
-_Hinweis:_ Werden eindimensionale Probleme behandelt wird gelegentlich auf die Angabe der Koordinaten verzichtet. Dann kann für $x$ auch die Strecke $s$ und für die Geschwindigkeit lediglich $v$ genutzt werden.
-</bdi>
-******
-
 ## 3. 2. Kinematische Darstellung in Diagrammen
-
-Häufig ist es __anschaulich__ die Bewegung eines Körpers in @color(Diagrammform, red) darzustellen.
-
-<bdi style="color:red">
-Vereinbahrung: In der Kinematik wird die Zeit __immer__ auf der x-Achse dargestellt.
-</bdi>
-
-Beispiel: x(t) Diagramm
-
-![BeispielDiagramm](https://diversewolken.ddns.net/nextcloud/index.php/s/EsD2fMgGed8tjRC/download)
 
 __Aufgabe:__ Ergänze die Bewegungsarten
 
@@ -195,95 +140,9 @@ __Aufgabe:__ Ergänze die Bewegungsarten
 
 ## 3. 3. Einführung Bewegungsanalyse
 
-__Möglichkeiten zur zeitlichen Analyse von Bewegungen gibt es viele:__
-
-- Stoppuhr und Maßband
-
-- Maßband und Lichtschranke
-
-- Videoanalyse 
-
-- Ultraschallsensoren
-
-- ...
-
-{{1}}
-**********
-__Heute:__ Videoanalyse-Tool VIANA 2
-
-@color(_Hinweise zur Handhabung:_,blue)
-
-1. Positioniere die Kamera so, dass sie sich nicht bewegt.
-
-2. Achte auf einen guten Kontrast zwischen bewegtem Objekt und Hintergrund während der gesamten Bewegung.
-
-3. Führe vor der Aufnahme ein paar Beispielabläufe durch.
-
-4. Markiere die vorab einen möglichst großen Streckenabschnitt im Bewegungsraum.
-
-5. Bei eindimensionalen Bewegungen sollte das Koordinatensystem so ausgerichtet werden, dass sich das Objekt entlang der x-Achse bewegt.
-*********
-
-{{2}}
-*********
-__Aufgaben:__
-
-1. Mache dich mit der Videoanalyse in VIANA 2 vertraut
-
-2. Nimme eine gleichmäßg beschleunigte Bewegung anhand der Erklärung im Unterricht auf. 
-
-3. Stelle das x(t) und v(t) Diagramm in der App __Numbers__ auf dem IPad dar. 
-
-4. Ermittle die Beschleunigung aus den Messwerten der Kugel.
-
-@rangeQuiz20($\hspace{1cm}$ $a$, 0.11, $\frac{m}{s^2}$)
-
-_Hinweis: Bei dieser Überprüfung wird eine Ungenauigkeit von 20% gegenüber der Vergleichsmessung der Lehrkraft akzeptiert._
-
-**********
-
 ## 3. 4. Bewegungsgleichungen für gleichförmige und gleichmäßig beschleunigte Bewegung
 
-@color(Fertige eine Übersicht mit den Bewegungsgleichungen zur gleichförmigen und gleichmäßig beschleunigten Bewegung an. Ergänze die fehlenden Punkte., blue)
-
-
-| | Gleichförmige Bewegung | Gleichmäßig beschleunigte Bewegung |
-| --- | --- | --- |
-| Bedingungen für Gültigkeit | .. | .. |
-| Bewegungsgleichungen | .. | .. |
-| phys. Größen | .. | .. |
-
-
-{{1}}
-*****************
-
-__Graphen zu den Bewegungsgleichungen:__
-
-![TB_Bewegungsgraphen](https://diversewolken.ddns.net/nextcloud/index.php/s/ALC7i99HXpRtPwT/download)
-
-*****************
-
 ## 3. 5. Analyse einer gleichmäßig beschleunigten Bewegung
-
-<p style="color:blue">
-
-Analysiere die gleichmäßig beschleunigte Bewegung einer Kugel auf einer schiefen Ebene auf einer Strecke von s = 1m.
-
-1. Nutze Metzler LB S18/19. Lies den Abschnitt 1.1.4. 
-
-2. Zeichne eine Skizze und notiere alle geometrisch notwendigen Größen. Ermittle den Neigungswinkel der Ebene.
-
-3. Erstelle mit Hilfe der Videoanalyse-Software ein s(t) und ein zugehöriges v(t)-Diagramm. 
-
-4. Ermittle mit Hilfe der Bewegungsgleichung und eines Messwertes die Beschleunigung.
-
-5. Erzeuge mit Hilfe deiner berechneten Beschleunigung einen theoretische s(t) und v(t) Graph und stelle diese mit den jeweiligen Messwerten gemeinsam dar.
-
-6. Erzeuge aus den Diagrammen ein pdf und lade es [hier hoch](https://diversewolken.ddns.net/nextcloud/index.php/s/g5fRq7MWqJWJ8Sa), du erhältst einen Ausdruck.
-
-7. Analysiere die auf die Kugel wirkenden Kräfte. Ermittle die wirkende Rollreibungskraft $F_R$ und den Rollreibungskoeffizienten $\mu_{roll}$.
-
-</p>
 
 ### Aufgabe: Berechnungen an zusammengesetzten Bewegungen
 
@@ -506,42 +365,6 @@ __$v_y(t)$__
 </p>
 
 ## 3.6 Kinematik des schrägen Wurfs
-
-> __Beschreibung:__ Bei einem schrägen Wurf wird ein Körper unter einem Winkel $\alpha$ mit einer Anfangsgeschwindigkeit $\vec{v_0}$ abgeschossen (geworfen). Reibungseffekte werden zunächst vernachlässigt.
-
-> __Zerlegung der Bewegung in x- und y-Richtung:__ 
-{{1}}
-*******
-1. die Flugbahn $y(x)$ entspricht einer Parabel.
-![Parabel](https://diversewolken.ddns.net/nextcloud/index.php/s/EpjbjtLSPyRePeZ/download)<!-- style="width:40%"-->
-*******
-{{2}}
-*******
-2. die horizontale Bewegung $x(t)$ ist eine __gleichförmige Bewegung__
-
-$$ \boxed{x(t) = v_{0x} \cdot t} \mathrm{\ \ \ und\ \ \ } \boxed{v_x(t) = v_{0x}}$$
-
-$\hspace{1cm}$ $v_{0x}$ .. Anfangsgeschwindigkeit in x-Richtung
-*******
-{{3}}
-*******
-3. die vertikale Bewegung $y(t)$ ist eine __gleichmäßig beschleunigte Bewegung__ mit dem Ortsfaktor $g=9,81\frac{m}{s^2}$ als Beschleunigung.
-
-$$ \boxed{y(t) = \frac{1}{2}\cdot g \cdot t^2 + v_{0y} \cdot t} \mathrm{\ \ \ und\ \ \ } \boxed{v_y(t) = g \cdot t + v_{0y}}$$
-
-$\hspace{1cm}$ $v_{0y}$ .. Anfangsgeschwindigkeit in y-Richtung
-
-$\hspace{1cm}$ @color(Achtung:,red) Wenn die y-Achse nicht zur Erde hin zeigt, ist @color(g=-9.81$\frac{m}{s^2}$,red).
-*******
-{{4}}
-*******
-4. Die Anfangsgeschwindigkeit $\vec{v_0}$ ist eine vektorielle Größe und lässt sich in ihre x-Kompente ($v_{0x}$) und y-Komponente ($v_{0y}$) zerlegen. <br>
-![Geschwindigkeit](https://diversewolken.ddns.net/nextcloud/index.php/s/qdAbC6XTmRXztaa/download)$$ \boxed{v_{0x} = v_0 \cdot \cos\alpha} \mathrm{\ \ \ und\ \ \ } \boxed{v_{0y} = v_0 \cdot sin\alpha} $$
-*******
-{{5}}
-*******
-5. die gesamte Bewegung ist eine @color(Superposition, red) (d.h. Überlagerung) der Bewegungen in x- und y-Richtung
-*******
 
 ### 3.6.1 Berechnungen am Demonstrationsexperiment: Schräger Wurf
 
@@ -1558,7 +1381,71 @@ $$ s_{2} = 847 m - 700 m = 147 m$$
 
 ![Tafelbild_WaagerechterWurf2](https://diversewolken.ddns.net/nextcloud/index.php/s/L5JtoxPf4SE8ZoJ/download)
 
+__Wurfparabeln: Experiment (Viana2) vs. Bewegungsgleichgung__
+
+<p class="newspaper">
+
+![Wurfparabeln](https://diversewolken.ddns.net/nextcloud/index.php/s/eLP2B5Aa4oxPmBY/download)<!-- style="width:100%"-->
+
+<p class="cb">
+
+- gemessene Wurfparabel y(x) und aus Startwerten berechnete Parabel y(x) stimmen gut überein 
+
+- Abweichungen können auf Messunsicherheiten und nicht berücksichtigte Kräften (z.B. Luftreibung) zurück geführt werden
+
+</p>
+
+</p>
+
+## 3.10 Herleitung der Wurfparabel y(x) f+r waagerechten Wurf
+
+![Tafelbild_HerleitungWp](https://diversewolken.ddns.net/nextcloud/index.php/s/eWNsWrs6NSEgxPG/download)
+
+## 3.11 Zerlegung des Geschwindigkeitsvektors für den waagerechten Wurf
+
+![Tafelbild_ZerlegungV](https://diversewolken.ddns.net/nextcloud/index.php/s/NGJLZ9ifYLfEeyR/download)
+
 ### Aufgaben Wurfbewegungen
+
+__Routine Metzler S. 31 / 1__
+
+<details style="margin:5%">
+
+<summary> Lösung </summary>
+
+<br>
+Für $v_0 = 5\frac{m}{s}$:
+
+| t /s     | $x_{t}$ / m| $y(t)$ / m |
+| 0,1      | 0,5        | 0,05       |
+| 0,5      | 2,5        | 1,22       |
+| 1        | 5          | 4,91       |
+| 1,5      | 7,5        | 11,04      |
+| 2        | 10         | 19,62      |  
+
+<br>
+
+Für $v_0 = 10\frac{m}{s}$:
+
+| t /s     | $x_{t}$ / m| $y(t)$ / m |
+| 0,1      | 1        | 0,05       |
+| 0,5      | 5        | 1,22       |
+| 1        | 10        | 4,91       |
+| 1,5      | 15        | 11,04      |
+| 2        | 20        | 19,62      | 
+
+<br>
+
+_Diagramm:_
+
+![Lsg_Metzler_S31_1](/download)
+
+
+
+</details>
+
+
+---
 
 __Metzler S. 31 / 3__
 
@@ -1604,9 +1491,6 @@ $$ \tan \alpha = \frac{g \cdot t}{v_o} $$
 
 ---
 
-
-
-
 __Metzler S. 31 / 4__
 
 <p style="margin:5%">
@@ -1626,6 +1510,35 @@ b)
 c)
 
 @rangeQuiz2($t$, 02.27 ,$s$)
+
+</p>
+
+---
+
+__Metzler S. 31 / 5__
+
+<p style="margin:5%">
+
+<details>
+
+<summary> Lösung allgemein </summary>
+
+$$ \mathrm{(I)\ \ \ } x = v_0 \cdot \cos\alpha \cdot t $$
+
+$$ \mathrm{(II)\ \ \ } y = \frac{1}{2}\cdot g \cdot t^2 + v_0 \cdot \sin\alpha \cdot t$$
+
+
+_Stelle Glg. (I) nach t um:_
+
+$$ t = \frac{x}{v_0 \cdot \cos\alpha} $$
+
+_Setze t in Glg. (II) ein:_
+
+$$ y = \frac{1}{2}\cdot g \cdot \red{\Big(\frac{x}{v_0 \cdot \cos\alpha}\Big)^2} + v_0 \cdot \sin\alpha \cdot \red{\Big(\frac{x}{v_0 \cdot \cos\alpha}\Big)}$$
+
+$$ \boxed{y = \frac{1}{2} \cdot \frac{g}{(v_0 \cdot \cos\alpha)^2} \cdot x^2 + \tan\alpha \cdot x}$$
+
+</details>
 
 </p>
 
@@ -1653,6 +1566,11 @@ b)
 <summary> Lösung allgemein </summary>
 
 $$ v_0 = \frac{b}{\cos\alpha}\cdot\sqrt{\frac{g}{2(b\tan\alpha-h)}} $$
+
+
+__Umformung:__
+
+
 
 </details>
 

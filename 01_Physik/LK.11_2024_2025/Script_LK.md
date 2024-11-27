@@ -4681,7 +4681,71 @@ $$ s_{2} = 847 m - 700 m = 147 m$$
 
 ![Tafelbild_WaagerechterWurf2](https://diversewolken.ddns.net/nextcloud/index.php/s/L5JtoxPf4SE8ZoJ/download)
 
+__Wurfparabeln: Experiment (Viana2) vs. Bewegungsgleichgung__
+
+<p class="newspaper">
+
+![Wurfparabeln](https://diversewolken.ddns.net/nextcloud/index.php/s/eLP2B5Aa4oxPmBY/download)<!-- style="width:100%"-->
+
+<p class="cb">
+
+- gemessene Wurfparabel y(x) und aus Startwerten berechnete Parabel y(x) stimmen gut überein 
+
+- Abweichungen können auf Messunsicherheiten und nicht berücksichtigte Kräften (z.B. Luftreibung) zurück geführt werden
+
+</p>
+
+</p>
+
+## 3.10 Herleitung der Wurfparabel y(x) f+r waagerechten Wurf
+
+![Tafelbild_HerleitungWp](https://diversewolken.ddns.net/nextcloud/index.php/s/eWNsWrs6NSEgxPG/download)
+
+## 3.11 Zerlegung des Geschwindigkeitsvektors für den waagerechten Wurf
+
+![Tafelbild_ZerlegungV](https://diversewolken.ddns.net/nextcloud/index.php/s/NGJLZ9ifYLfEeyR/download)
+
 ### Aufgaben Wurfbewegungen
+
+__Routine Metzler S. 31 / 1__
+
+<details style="margin:5%">
+
+<summary> Lösung </summary>
+
+<br>
+Für $v_0 = 5\frac{m}{s}$:
+
+| t /s     | $x_{t}$ / m| $y(t)$ / m |
+| 0,1      | 0,5        | 0,05       |
+| 0,5      | 2,5        | 1,22       |
+| 1        | 5          | 4,91       |
+| 1,5      | 7,5        | 11,04      |
+| 2        | 10         | 19,62      |  
+
+<br>
+
+Für $v_0 = 10\frac{m}{s}$:
+
+| t /s     | $x_{t}$ / m| $y(t)$ / m |
+| 0,1      | 1        | 0,05       |
+| 0,5      | 5        | 1,22       |
+| 1        | 10        | 4,91       |
+| 1,5      | 15        | 11,04      |
+| 2        | 20        | 19,62      | 
+
+<br>
+
+_Diagramm:_
+
+![Lsg_Metzler_S31_1](/download)
+
+
+
+</details>
+
+
+---
 
 __Metzler S. 31 / 3__
 
@@ -4727,9 +4791,6 @@ $$ \tan \alpha = \frac{g \cdot t}{v_o} $$
 
 ---
 
-
-
-
 __Metzler S. 31 / 4__
 
 <p style="margin:5%">
@@ -4749,6 +4810,35 @@ b)
 c)
 
 @rangeQuiz2($t$, 02.27 ,$s$)
+
+</p>
+
+---
+
+__Metzler S. 31 / 5__
+
+<p style="margin:5%">
+
+<details>
+
+<summary> Lösung allgemein </summary>
+
+$$ \mathrm{(I)\ \ \ } x = v_0 \cdot \cos\alpha \cdot t $$
+
+$$ \mathrm{(II)\ \ \ } y = \frac{1}{2}\cdot g \cdot t^2 + v_0 \cdot \sin\alpha \cdot t$$
+
+
+_Stelle Glg. (I) nach t um:_
+
+$$ t = \frac{x}{v_0 \cdot \cos\alpha} $$
+
+_Setze t in Glg. (II) ein:_
+
+$$ y = \frac{1}{2}\cdot g \cdot \red{\Big(\frac{x}{v_0 \cdot \cos\alpha}\Big)^2} + v_0 \cdot \sin\alpha \cdot \red{\Big(\frac{x}{v_0 \cdot \cos\alpha}\Big)}$$
+
+$$ \boxed{y = \frac{1}{2} \cdot \frac{g}{(v_0 \cdot \cos\alpha)^2} \cdot x^2 + \tan\alpha \cdot x}$$
+
+</details>
 
 </p>
 
@@ -4776,6 +4866,11 @@ b)
 <summary> Lösung allgemein </summary>
 
 $$ v_0 = \frac{b}{\cos\alpha}\cdot\sqrt{\frac{g}{2(b\tan\alpha-h)}} $$
+
+
+__Umformung:__
+
+
 
 </details>
 
