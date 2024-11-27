@@ -4680,7 +4680,7 @@ $$ s_{2} = 847 m - 700 m = 147 m$$
 ![Tafelbild_WaagerechterWurf1](https://diversewolken.ddns.net/nextcloud/index.php/s/Non6oniz9pCTxST/download)
 
 ![Tafelbild_WaagerechterWurf2](https://diversewolken.ddns.net/nextcloud/index.php/s/L5JtoxPf4SE8ZoJ/download)
-daily
+
 ### Aufgaben Wurfbewegungen
 
 __Metzler S. 31 / 3__
