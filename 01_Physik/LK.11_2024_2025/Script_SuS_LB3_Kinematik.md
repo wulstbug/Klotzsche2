@@ -1512,6 +1512,21 @@ c)
 
 @rangeQuiz2($t$, 2.27 , $s$)
 
+---
+
+<details>
+
+<summary> Hinweise zur Lösung </summary>
+
+![Lsg_Metzler_S31_4](https://diversewolken.ddns.net/nextcloud/index.php/s/rPEmDFpYi7DtoW9/download)
+
+_Hinweise zum CAS: cos(40) und sin(40) ausrechnen und in Gleichung eingeben _
+
+![Lsg_Metzler_S31_4_CAS](https://diversewolken.ddns.net/nextcloud/index.php/s/7sDfT3gi3s6jCoL/download)
+
+
+</details>
+
 </p>
 
 ---
