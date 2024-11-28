@@ -4896,3 +4896,7 @@ __Umformung:__
 
 
 </p>
+
+### Game Wurfparabel
+
+??[GameWurfparabel](https://www.geogebra.org/m/w3y2kjzp)
