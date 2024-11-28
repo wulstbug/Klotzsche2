@@ -1510,7 +1510,7 @@ b)
 
 c)
 
-@rangeQuiz2($t$, 02.27 ,$s$)
+@rangeQuiz2($t$, 2.27 , $s$)
 
 </p>
 
