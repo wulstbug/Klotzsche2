@@ -4899,4 +4899,4 @@ __Umformung:__
 
 ### Game Wurfparabel
 
-??[GameWurfparabel](https://www.geogebra.org/m/w3y2kjzp)
+??[WurfGame](https://www.geogebra.org/classic/w3y2kjzp?embed)
