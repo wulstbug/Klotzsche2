@@ -1438,10 +1438,7 @@ Für $v_0 = 10\frac{m}{s}$:
 
 _Diagramm:_
 
-![Lsg_Metzler_S31_1](/download)
-
-
-
+![Lsg_Metzler_S31_1](https://diversewolken.ddns.net/nextcloud/index.php/s/PzJen3Nsxcefxjx/download)
 </details>
 
 
