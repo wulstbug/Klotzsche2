@@ -1476,9 +1476,13 @@ $$ h = \frac{g\cdot x^2_E}{2v_0^2}  $$
 
 $$ t_{flug} = \sqrt{\frac{2h}{g}}  $$
 
+oder 
+
+$$ t_{flug} = \frac{x_E}{v_0} $$
+
 zu b)
 
-$$ v = \sqrt{v_0^2+g\cdot t^2} $$
+$$ v = \sqrt{v_0^2+(g\cdot t)^2} $$
 
 $$ \tan \alpha = \frac{g \cdot t}{v_o} $$
 
