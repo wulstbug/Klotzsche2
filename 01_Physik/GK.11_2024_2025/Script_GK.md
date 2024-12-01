@@ -2468,17 +2468,25 @@ __Aufgabenstellung:__ Untersuche den Ladevorgang eines Kondesators mit Hilfe der
 
 __Teilaufgaben:__ (_können_ in selbst gewählter Reihenfolge bearbeitet werden)
 
-0. Vorbetrachtungen zum Versuch vornehmen und notieren
+- [ ] Inhalten eines Protokolls notieren
 
-1. Schaltkreis zur Messung aufbauen @color(und von Lehrkraft abnehmen lassen, red)
+- [ ] Vorbetrachtungen zum Versuch vornehmen und notieren
 
-2. ***Mobile Cassy 2*** mit Tablet verbinden
+- [ ] ***Mobile Cassy 2*** mit Tablet verbinden
 
-3. Messwerte aufzeichnen
+- [ ] Einstellen der Parameter am Cassy
 
-4. Daten auswerten und Ergebnisse analysieren
+- [ ] Schaltkreis zur Messung aufbauen @color(und von Lehrkraft abnehmen lassen, red)
 
-5. Ergebnisse formulieren
+- [ ] Messwerte aufzeichnen
+
+- [ ] Daten auswerten und Ergebnisse analysieren
+
+- [ ] Ergebnisse formulieren
+
+### Inhalte eines Protokolls
+
+Nutzen Sie Lehrbuch Seite 75 und erarbeiten Sie sich die wesentlichen Inhalte eines Protokolls
 
 ### Vorbetrachtungen zum Versuch
 
@@ -2496,32 +2504,169 @@ Der Kondensator wird in dieser Schaltung direkt über die Spannungsquelle und oh
 
 __Entladekreis:__
 
-Wird der Entladekreis geschlossen, fließt die auf dem Kondensator gespeicherten Ladung $Q$ über den ohmschen Widerstand $R$ ab. Dabei wird mit der elektronischen Messwerterfassung _Cassy_ der Entladestrom $I(t)$ in Abhängigkeit der Zeit $t$ aufgenommen. Die Messdaten werden für die Messdauer $T$ aufgenommen (s.u.).
+Wird der Entladekreis geschlossen, fließt die auf dem Kondensator gespeicherte Ladung $Q$ über den ohmschen Widerstand $R$ ab. Dabei wird mit der elektronischen Messwerterfassung _Cassy_ der Entladestrom $I$ in Abhängigkeit der Zeit $t$ aufgenommen. Die gesamte Messzeit wird mit $T$ bezeichnet (s.u.).
 
+{{1}}
+*****
 __Ermittlung der Ladung $\,Q$:__
 
-Die vom Kondensator abgeflossene Ladung $Q$ entspricht im @color(Zeit-Stromstärke-Diagramm, blue) __$t-I-$Diagramm__ der 
+Die vom Kondensator abgeflossene Ladung $Q$ entspricht im @color(Zeit-Stromstärke-Diagramm, blue) der <bdi style="color:red"> __Fläche unter dem Graphen $I(t)$__</bdi>.
+*****
 
-> Fläche unter dem Graphen $I(t)$
+{{1-2}}
+*****
+![I(t)_Graph](https://diversewolken.ddns.net/nextcloud/index.php/s/Q9MwZdw5ZxwfrcN/download)<!-- style="max-width:80%; margin:5%"-->
+*****
 
-![I(t)_Graph](/download)
+{{2}}
+*****
+![I(t)_Graph](https://diversewolken.ddns.net/nextcloud/index.php/s/GSN44xxcqTH4HH6/download)<!-- style="max-width:80%; margin:5%"-->
 
 Die Fläche unter dem $I(t)$ Graphen kann mit Hilfe des Cassy-Messgerätes ausgewertet werden.
 
+*****
+
+{{3}}
+*****
 __Ermittlung der Messdauer $T$ für Cassy:__
 
 Für die Kombination aus Kondensator (Kapazität $C$) und ohmscher Widerstand (Widerstand $R$) kann eine Zeitkonstante $\tau$ ermittelt werden: 
 
-$$ \boxed{\tau = R \cdot C} $$
+$$ \boxed{\tau = R \cdot C} \Rightarrow \boxed{T = 4 \cdot \tau} $$
 
-Als Messdauer $T$ für die elektronische Erfassung wird eine Zeit von $$ \boxed{T = 4 \cdot \tau} $$ empfohlen. Nach einer Zeit von $4\tau$ sind 98,2% der Gesamtladung Q abgeflossen.
+Als Messdauer $T$ für die elektronische Erfassung wird eine Zeit von @color($4\tau$,red) empfohlen. Nach dieser Zeit sind ca. $98,2\%$  der Gesamtladung Q abgeflossen.
+*****
 
 </p>
 
 </p>
-
-__Grundlage des Versuchs:__ Laden eines Kondensators über einen ohmschen Widerstand.
 
 ### Anleitung zur Verbindung von Cassy und Tablet
 
-__Grundlage:__ Jedes Cassy-Messgerät 
+__Grundlage:__ Jedes __Mobile Cassy 2__-Messgerät (im Folgenden mit _Cassy_ bezeichnet) kann mit Hilfe einer W-Lan Verbindung über das Tablet ferngestuert werden. Dabei können Messparameter eingestellt, Messungen gestartet und Messdaten abgespeichert werden. Hier wird das Tablet mit dem Cassy verbunden.
+
+__Arbeitsablauf:__
+
+- nach Einschalten von _Cassy_ baut das Gerät selbstständig eine W-Lan Verbinung auf
+
+- wechseln Sie auf dem Cassy zum Menu Einstellungen (oben links) 
+
+- wählen Sie QR-Code anzeigen, wechseln Sie zu AP_Daten und scannen Sie den angezeigten QR-Code mit dem Tablet -> das Tablet wird sich mit dem Cassy verbinden
+
+![Cassy-Einstellungen](https://diversewolken.ddns.net/nextcloud/index.php/s/cbw8JJBd7AAetEz/download)<!-- style="max-width:300px; margin-left:20%"-->
+
+- wenn ihr Tablet mit dem _Cassy_-WLan verbunden ist, öffnen Sie einen neuen Tab im Safari-Webbrowser und öffnen Sie folgende Adresse [http://10.10.10.1](http://10.10.10.1)
+
+![Cassy-WLan](https://diversewolken.ddns.net/nextcloud/index.php/s/zgynA6RKTTEaM4Y/download)<!-- style="max-width:80%; margin:5%"-->
+
+- zu sehen ist die Live-Anzeige des Spannungssensors <br>-> aktivieren Sie am Cassy die Stromstärkemessung und deaktivieren Sie die Spannungsmessung <br> -> Überprüfen Sie die Veränderung auf Ihrem Tablet
+
+![Cassy-WLan2](https://diversewolken.ddns.net/nextcloud/index.php/s/8ZjcN5DZqk6frXw/download)<!-- style="max-width:80%; margin:5%"-->
+
+### Einstellen der Messparameter am Cassy
+
+__Grundlage:__ Hier werden die Messparameter eingestellt
+
+__Arbeitsablauf:__
+
+- wechseln Sie auf der linken Seite zu Einstellungen
+
+- hier müssen Sie den Messbereich für die Stromstärke einstellen __0,03 A__ und den Nullpunkt (des Diagramms) auf __links__ setzen(_Hinweis: diese Einstellung kann auch im Cassy direkt vorgenommen werden_)
+
+![Cassy-Einstellungen](https://diversewolken.ddns.net/nextcloud/index.php/s/KQLjMB5CoYRR34o/download)<!-- style="max-width:80%; margin:5%"-->
+
+- wechseln Sie auf der linken Seite zu ***Diagramm*** und vergleichen Sie Ihre Anzeige
+
+![Cassy-Diagramm_1](https://diversewolken.ddns.net/nextcloud/index.php/s/9APdepf3in8wQ86/download)<!-- style="max-width:80%; margin:5%"-->
+
+### Aufbau der Messchaltung
+
+$ \red{\boxed{\mathrm{Es\ muss\ keine\ Gewalt\ angewendet\ werden.}}}$
+
+__Grundlage:__ Für diesen Versuch ist der Schaltplan in den Vorbetrachtungen des Versuchs gezeichnet. 
+
+__Materialien:__ Sie erhalten einen Kondensator mit der Kapazität $4700 \mu F$ und einen ohmschen Widerstand mit $1000 \Omega$.
+
+---
+
+<H4>Schaltung: </H4>
+
+__Ladekreis:__
+
+- die Pole der Spannungsquelle werden über den Wechselschalter direkt an den Kondensator angeschlossen
+
+<p style="margin-left:5%">
+
+$ \red{\boxed{\mathrm{ACHTUNG:\ + Platte\ des\ Kondensators\ mit\ \oplus der\ Spannungs-Quelle\ verbinden}}}$
+
+<details>
+
+<summary> Überprüfen Sie die Schaltung </summary>
+
+![Schaltungsaufbau_1](https://diversewolken.ddns.net/nextcloud/index.php/s/SMpRaWdBfXBPDSW/download)<!-- style="max-width:80%; margin:5%"-->
+
+</details>
+
+</p>
+
+---
+
+Entladekreis:
+
+- der Widerstand wird in Reihe zum Kondensator angeschlossen
+
+- in Reihe zum Widerstand folgt das _Cassy_
+
+- achten Sie beim Anschluss des _Cassy_, dass der blaue Anschluss in Richtung $\ominus$-Pol der Spannungsquelle und der schwarze Anschluss in Richtung des $\oplus$-Pols der Spannungsquelle zeigt
+
+<details style="margin-left:5%">
+
+<summary> Überprüfen Sie die Schaltung </summary>
+
+![Schaltungsaufbau_2](https://diversewolken.ddns.net/nextcloud/index.php/s/m2KAErdZKRTMFi5/download)<!-- style="max-width:80%; margin:5%"-->
+
+</details>
+
+- lassen Sie sich die Schaltung von der Lehrkraft abnehmen
+
+### Aufnahme der Entladekurve
+
+$ \red{\boxed{\mathrm{Die Schaltung\ muss\ abgenommen\ worden\ sein.}}}$
+
+__Grundlage:__ Hier wird der Kondensator zunächst geladen. Dann wird die automatische Messung mit dem _Cassy_ gestartet und die Entladekurve wird aufgezeichnet.
+
+- legen Sie den Wechselschalter in die Ladeposition
+
+- schalten Sie die Spannungsquelle ein und wählen eine Spannung von 10 V
+
+- starten Sie anschließend die Messung auf dem _Cassy_ indem Sie oben auf __"Messzeit nicht vorgegeben"__ klicken, legen Sie anschließend den Schalter um
+
+![Cassy-Diagramm_1](https://diversewolken.ddns.net/nextcloud/index.php/s/dDiiE3cYDgGqM3W/download)<!-- style="max-width:80%; margin:5%"-->
+
+- stoppen Sie die Messung nach etwa $T=4\tau$ (4 charaktieristischen Zeiteinheiten)
+
+- achten Sie darauf, dass die eigentliche Entladung erst beginnt, wenn Sie den Schalter umlegen
+
+
+### Auswertung einer Messung
+
+__Grundlage:__ Hier werden die Messdaten ausgewertet.
+
+__Ermittlung der geflossenen Ladung:__
+
+- wählen Sie unter Auswertungen (unterhalb des Diagramms) den Menupunkt _"Fläche zur x-Achse"_
+
+- angezeigt wird die geflossene Ladung in der Einheit $A\cdot s = C$ 
+
+- notieren Sie den Messwert
+
+![Cassy_-_Auswertung_1](https://diversewolken.ddns.net/nextcloud/index.php/s/BXHx8eeCy8oXBSD/download)<!-- style="max-width:80%; margin:5%"-->
+
+__Diagramm zeichnen aus einzelnen Messwerten:__
+
+- wechseln Sie auf der linken Seit zum Reiter __Tabelle__
+
+- notieren Sie in einer Messwerttabelle __t in s__ und __I in A__ und übernehmen Sie 10 charakteristische Messwerte
+
+- zeichnen Sie anschließend den I(t)-Graph für Ihre Messwerte in das Protokoll
+
