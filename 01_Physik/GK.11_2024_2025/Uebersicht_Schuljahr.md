@@ -66,34 +66,6 @@ window.LIA.settings.font_size = 2
 
 # LB I - Mechanische Grundlagen
 
-@color(__Checkliste zur Klausur__,red)
-
-__Energie:__
-
-- Energieformen erkennen und zuordnen [Übung Zuordnen Energieformen](#übung-zuordnung-energieformen)
-- Formeln für Energieformen zur Berechnung nutzen [1.2/1.3]
-- Energieerhaltungssatz kennen [LB S. 6 unten]
-
-__Reibung:__
-
-- Reibungsarten erkennen und zuordnen [Übung Zuordnen Energieformen](#übung:-zuordnung-von-reibungsarten) 
-- Unterscheiden von erwünschter und unerwünschter Reibung [Übung Zuordnen Energieformen](#übung:-zuordnung-von-reibungsarten) 
-- Beschreibung des Einfluss der Reibung qualitativ [->1.8.4] und quantitativ [->1.8.5]
-
-__Kräfte:__
-
-- Kennen Newton'schen Gesetze [->1.9.2]
-- Darstellung von Kräften als Kraftpfeil [->1.9.3]
-- Addition und Zerlegung von Kräften z.B. an der Schiefen Ebene [->1.9.4 & 1.9.5.]
-
-__Kreisbewegung:__
-
-- Kennen der Bedingungen einer gleichförmigen Kreisbewegung (Zentripetalkraft/Radialkraft) und deren Berechungsformel
-
-__Vermischte Aufgaben:__
-
-- Siehe [Übungsaufgaben Lernbereich Mechanische Grundlagen](#übungsaufgaben-lernbereich-mechanische-grundlagen)
-
 ## Übung Zuordnung Energieformen
 
 Übungs 1: _Zuordnung Energieformen_

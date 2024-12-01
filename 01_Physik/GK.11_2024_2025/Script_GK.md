@@ -2422,4 +2422,46 @@ _Aufgaben:_
 
 !?[Tutorial Oszilloskop](https://www.youtube.com/watch?v=5vfNUj-2P4M)
 
+### Experimentierüberblick
 
+__Lernziele:__
+
+- Cassy mit Tablet verbinden
+
+- Ladekurve im Cassy mit Osszilloskopmodus aufnehmen
+
+- Zeitkonstante berechnen
+
+- Messparameter einstellen lernen (ohne Trigger)
+
+- gespeicherte Ladung bestimmen
+
+- Auswertung der Messdaten
+
+__Physikalische Inhalte:__
+
+- Kondensator C = 4600 µF, Ohmscher Widerstand R = 1 kOhm
+
+- Zeitkonstante für Laden/Entladen $\tau=R\cdot C$
+
+- Ladungsbestimmung via Berechnung $Q=C\cdot U$
+
+- Ladungsbestimmung bei verschiedenen Spannungen mit Hilfe der Ladekurve
+
+- Vergleichendes Diagramm erstellen
+
+__Lernhilfen:__
+
+- LB S. 75 Protokollgestaltung
+
+- LB S. 76/77 Messfehler bei physikalischen Messungen
+
+- Anleitung für Verbindung von Tablet und Cassy
+
+- Anleitung zur Steuerung von Cassy
+
+- Anleitung zum Aufbauen des Versuchs
+
+### Anleitung zur Verbindung von Cassy und Tablet
+
+__Grundlage:__ Jedes Cassy-Messgerät 
