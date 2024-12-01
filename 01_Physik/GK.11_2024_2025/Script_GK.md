@@ -2462,6 +2462,66 @@ __Lernhilfen:__
 
 - Anleitung zum Aufbauen des Versuchs
 
+## 1.9 Experiment Entladevorgang eines Kondensators
+
+__Aufgabenstellung:__ Untersuche den Ladevorgang eines Kondesators mit Hilfe der elektronischen Messwerterfassung ***Mobile Cassy 2***.
+
+__Teilaufgaben:__ (_können_ in selbst gewählter Reihenfolge bearbeitet werden)
+
+0. Vorbetrachtungen zum Versuch vornehmen und notieren
+
+1. Schaltkreis zur Messung aufbauen @color(und von Lehrkraft abnehmen lassen, red)
+
+2. ***Mobile Cassy 2*** mit Tablet verbinden
+
+3. Messwerte aufzeichnen
+
+4. Daten auswerten und Ergebnisse analysieren
+
+5. Ergebnisse formulieren
+
+### Vorbetrachtungen zum Versuch
+
+<p class="newspaper">
+
+__Schaltplan:__
+
+![Kondensator_Ladekreis_2](https://diversewolken.ddns.net/nextcloud/index.php/s/JqJRbJpBMJXNwTq/download)
+
+<p class="cb">
+
+__Ladekreis__ 
+
+Der Kondensator wird in dieser Schaltung direkt über die Spannungsquelle und ohne ohmschen Widerstand aufgeladen.
+
+__Entladekreis:__
+
+Wird der Entladekreis geschlossen, fließt die auf dem Kondensator gespeicherten Ladung $Q$ über den ohmschen Widerstand $R$ ab. Dabei wird mit der elektronischen Messwerterfassung _Cassy_ der Entladestrom $I(t)$ in Abhängigkeit der Zeit $t$ aufgenommen. Die Messdaten werden für die Messdauer $T$ aufgenommen (s.u.).
+
+__Ermittlung der Ladung $\,Q$:__
+
+Die vom Kondensator abgeflossene Ladung $Q$ entspricht im @color(Zeit-Stromstärke-Diagramm, blue) __$t-I-$Diagramm__ der 
+
+> Fläche unter dem Graphen $I(t)$
+
+![I(t)_Graph](/download)
+
+Die Fläche unter dem $I(t)$ Graphen kann mit Hilfe des Cassy-Messgerätes ausgewertet werden.
+
+__Ermittlung der Messdauer $T$ für Cassy:__
+
+Für die Kombination aus Kondensator (Kapazität $C$) und ohmscher Widerstand (Widerstand $R$) kann eine Zeitkonstante $\tau$ ermittelt werden: 
+
+$$ \boxed{\tau = R \cdot C} $$
+
+Als Messdauer $T$ für die elektronische Erfassung wird eine Zeit von $$ \boxed{T = 4 \cdot \tau} $$ empfohlen. Nach einer Zeit von $4\tau$ sind 98,2% der Gesamtladung Q abgeflossen.
+
+</p>
+
+</p>
+
+__Grundlage des Versuchs:__ Laden eines Kondensators über einen ohmschen Widerstand.
+
 ### Anleitung zur Verbindung von Cassy und Tablet
 
 __Grundlage:__ Jedes Cassy-Messgerät 
