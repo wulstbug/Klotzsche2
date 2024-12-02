@@ -123,13 +123,19 @@ Verschlüssle das Wort __GLADIATOREN__ mit Schlüssel 7: Lösung [[NSHKPHAVYLU]]
 
 ## 2. Gartenzaunmethode
 
+Beschreibung: 
+
+1. Notiere das Wort in Zick-Zack-Schreibweise
+
+2. Lies das verschlüsselte Wort zeilenweise.
+
 ![Tafelbild_Gartenzaun](https://diversewolken.ddns.net/nextcloud/index.php/s/oJj2xDnRGEwSLpp/download)
 
 Entschlüssele mit dem Gartenzaun: __MINM ITAE ENAE SHS__
 
 Lösung (Großbuchstaben, ohne Leerzeichen): [[MEINNAMEISTHASE]]
 
-Entschlüssele mit dem doppelten Gartenzaun: __SONT NEND RIHS IIEC C__
+Entschlüssele mit dem doppelten Gartenzaun: __SONT NEND RIHS IIEC E__
 
 Lösung (Großbuchstaben, ohne Leerzeichen): [[SEINODERNICHTSEIN]]
 
