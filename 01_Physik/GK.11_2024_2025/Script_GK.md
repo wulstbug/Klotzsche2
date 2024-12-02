@@ -2464,7 +2464,7 @@ __Lernhilfen:__
 
 ## 1.9 Experiment Entladevorgang eines Kondensators
 
-__Aufgabenstellung:__ Untersuche den Ladevorgang eines Kondesators mit Hilfe der elektronischen Messwerterfassung ***Mobile Cassy 2***.
+__Aufgabenstellung:__ Untersuche den Entladevorgang eines Kondesators mit Hilfe der elektronischen Messwerterfassung ***Mobile Cassy 2***.
 
 __Teilaufgaben:__ (_können_ in selbst gewählter Reihenfolge bearbeitet werden)
 
@@ -2549,7 +2549,7 @@ __Arbeitsablauf:__
 
 - nach Einschalten von _Cassy_ baut das Gerät selbstständig eine W-Lan Verbinung auf
 
-- wechseln Sie auf dem Cassy zum Menu Einstellungen (oben links) 
+- wechseln Sie auf dem Cassy zum Menu Einstellungen (oben rechts) 
 
 - wählen Sie QR-Code anzeigen, wechseln Sie zu AP_Daten und scannen Sie den angezeigten QR-Code mit dem Tablet -> das Tablet wird sich mit dem Cassy verbinden
 
