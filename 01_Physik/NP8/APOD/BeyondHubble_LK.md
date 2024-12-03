@@ -841,19 +841,62 @@ __Ergebnis:__ An einem Parabolspiegel treffen sich die einfallenden Lichtstrahle
 
 @color(Konstruiere den Schattenwurf der Sonne an einem Würfel in drei dimensionaler Perspektive., blue)
 
-{{0-2}}
+{{0-1}}
 **********
-![Schattenwurf_Aufgaben](https://diversewolken.ddns.net/nextcloud/index.php/s/ic9mSc9HT4pTPGb/download)
+![Schattenwurf_Aufgaben](https://diversewolken.ddns.net/nextcloud/index.php/s/jRsZHetSbi4ET77/download)
+**********
+
+{{1-2}}
+**********
+![Schattenwurf_Aufgaben](https://diversewolken.ddns.net/nextcloud/index.php/s/KWM5XsndWcN8oCe/download)
+**********
+
+{{2-3}}
+**********
+![Schattenwurf_Aufgaben](https://diversewolken.ddns.net/nextcloud/index.php/s/jbkT76CGDr5Kpqi/download)
+**********
+
+{{3-4}}
+**********
+![Schattenwurf_Aufgaben](https://diversewolken.ddns.net/nextcloud/index.php/s/QjDeA8E9keTNJSH/download)
+**********
+
+{{4-5}}
+**********
+![Schattenwurf_Aufgaben](https://diversewolken.ddns.net/nextcloud/index.php/s/kiFTPPnjrPSbYwA/download)
+**********
+
+{{5-6}}
+**********
+![Schattenwurf_Aufgaben](https://diversewolken.ddns.net/nextcloud/index.php/s/4xjbDYT4r6oJJBd/download)
+**********
+
+{{6}}
+**********
+![Schattenwurf_Loesung](https://diversewolken.ddns.net/nextcloud/index.php/s/NkWqe45MnDtkJkm/download)
 **********
 
 {{1}}
 **********
-1. Wähle eine obere Ecke des Objektes. Zeichne eine Hilfslinie von der Sonne durch diese Ecke
-
-2. 
+1. Wähle eine obere Ecke des Objektes. Zeichne eine Hilfsgerade von der Sonne durch diese Ecke
 **********
 
 {{2}}
+**********
+2. Wähle den Fußpunkt zu dieser Ecke und zeichne eine Hilfsgerade vom Fußpunkt der Sonne
+**********
+
+{{3}}
+**********
+3. Markiere den Schnittpunkt dieser beiden Hilfslinien, als einen Schatteneckpunkt
+**********
+
+{{4}}
+**********
+4. Wiederhole diesen Vorgang für die anderen Ecken. Verbinde sie zu einem Schatten. Schraffiere den Schatten.
+**********
+
+{{5}}
 **********
 ![Schattenwurf_Loesung](https://diversewolken.ddns.net/nextcloud/index.php/s/NkWqe45MnDtkJkm/download)
 **********
