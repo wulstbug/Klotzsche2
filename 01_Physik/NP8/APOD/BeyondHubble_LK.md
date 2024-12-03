@@ -759,3 +759,101 @@ __Aufgaben:__
 12. Probiere nun einen Schattenlauf mit bewegter Sonne
 
      [Klicke hier: Geogebra: 3D-Schatten zeichnen mit Sonnenlauf](https://www.geogebra.org/classroom/trc9cuu8)
+
+
+# FU - Nawi-Profil 8
+
+@uhr
+
+> __Termine:__
+
+- Schriftliche LK: 17.12.2024
+
+> __Neuer Sitzplan NP8 2024-2025 Gr.3:__
+
+![Sitzplan_Gr3](https://diversewolken.ddns.net/nextcloud/index.php/s/pNgoKNdGQQ53R5g/download)
+
+## Reflexionsgesetz
+
+@timer(03,00)
+
+@color(_Notiere unter der Überschrift das vollständig Reflexionsgesetz._ , blue)
+<br> <br>
+
+__Das Reflexionsgesetz besagt zweierlei:__
+
+1. Einfallswinkel gleich Reflexionswinkel
+
+$$ \alpha = \alpha' $$
+
+2. Einfallender Lichtstrahl, reflektierter Lichtstrahl und Lot liegen in einer Ebene.
+
+## Reflexion am sphärischen Hohlspiegel
+
+@timer(12,00)
+
+<p style="margin-right:250px">
+
+<br> <br> <br> <br>
+
+<iframe src="https://www.geogebra.org/classic/ppepjbz9?embed" width="800" height="600" allowfullscreen style="border: 1px solid #e4e4e4;border-radius: 4px;" frameborder="0"></iframe>
+
+__Aufgabe:__ Vervollständige den Strahlenverlauf auf dem Arbeitsblatt
+
+</p>
+
+## Reflexion am Parabolspiegel
+
+@timer(12,00)
+
+<p style="margin-right:250px">
+
+__Anleitung zur Reflexion am Parabolspiegel:__
+
+1. Zeichne einen Parallelstrahl bis zum Spiegel
+
+2. Verlängere den Lichtstrahl gedanklich bis zur y-Achse und markiere den y-Wert
+
+3. Halbiere den y-Wert und zeichne eine Gerade (Tangente) zum Auftreffpunkt des einfallenden Lichtstrahls
+
+4. Zeichne das Lot als senkrechte Gerade zu 3.
+
+5. Bestimme den Einfallswinkel und konstruiere den Reflexionswinkel
+
+6. Wiederhole die Prozedur für zwei weitere Parallelstrahlen
+
+<iframe src="https://www.geogebra.org/classic/xuz4ruex?embed" width="800" height="600" allowfullscreen style="border: 1px solid #e4e4e4;border-radius: 4px;" frameborder="0"></iframe>
+
+{{1}}
+**************
+@color( _Notiere das folgende Ergebnis auf dem Arbeitsblatt. Hefte das Arbeitsblatt ein._ , blue)
+
+__Ergebnis:__ An einem Parabolspiegel treffen sich die einfallenden Lichtstrahlen in einem gemeinsamen (scharfen) Brennpunkt.
+**************
+
+</p>
+
+## Schattenwurf
+
+[Arbeitsblatt](https://gykl-my.sharepoint.com/:p:/g/personal/golnik_ch_gykl_onmicrosoft_com/ERkbOv_FxqxAmzo8eDixY2QBoujnJPklxgFxJl_kivK1Iw?e=xBrmbQ)
+
+## Schattenwurf in 3D
+
+@color(Konstruiere den Schattenwurf der Sonne an einem Würfel in drei dimensionaler Perspektive., blue)
+
+{{0-2}}
+**********
+![Schattenwurf_Aufgaben](https://diversewolken.ddns.net/nextcloud/index.php/s/ic9mSc9HT4pTPGb/download)
+**********
+
+{{1}}
+**********
+1. Wähle eine obere Ecke des Objektes. Zeichne eine Hilfslinie von der Sonne durch diese Ecke
+
+2. 
+**********
+
+{{2}}
+**********
+![Schattenwurf_Loesung](https://diversewolken.ddns.net/nextcloud/index.php/s/NkWqe45MnDtkJkm/download)
+**********
