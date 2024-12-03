@@ -828,7 +828,7 @@ __Anleitung zur Reflexion am Parabolspiegel:__
 **************
 @color( _Notiere das folgende Ergebnis auf dem Arbeitsblatt. Hefte das Arbeitsblatt ein._ , blue)
 
-__Ergebnis:__ An einem Parabolspiegel treffen sich die einfallenden Lichtstrahlen in einem gemeinsamen (scharfen) Brennpunkt.
+__Ergebnis:__ An einem Parabolspiegel treffen sich die reflektierten Lichtstrahlen in einem gemeinsamen (scharfen) Brennpunkt.
 **************
 
 </p>
