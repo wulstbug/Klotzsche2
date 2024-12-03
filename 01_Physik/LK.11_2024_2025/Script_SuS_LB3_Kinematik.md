@@ -1594,3 +1594,6 @@ __Umformung:__
 </p>
 
 
+### Game Wurfparabel
+
+??[WurfGame](https://www.geogebra.org/classroom/be8wafad)
