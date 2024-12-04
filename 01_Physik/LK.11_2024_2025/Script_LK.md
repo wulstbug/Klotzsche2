@@ -4954,7 +4954,7 @@ __Halte deine Ergebnisse in Protokollform fest (jedes Gruppenmitglied).__
 
 __Vorgaben Experiment:__ 
 
-- die Masse des Förmchens beträgt $0,69 g \pm 0,01 g$
+- die Masse des Förmchens beträgt $1 g \pm 0,2 g$
 
 - ermittle den Flächeninhalt $A$ des Förmchens
 
@@ -5016,6 +5016,8 @@ __Auswertung Option 2 (ausreichend Restzeit):__
 
 - überprüfe, ob die Zeitschritte aus dem Experiment und der Simulation übereinstimmen
 
+- kopiere deine Daten als Tabelle und nutze die Inhalte einfügen Option von Excel <br> ![InhalteEinfügen](/download)
+
 - erstelle eine neue Tabelle mit
 
 <p style="margin-left:10%;margin-right:10%">
@@ -5029,3 +5031,7 @@ __Auswertung Option 2 (ausreichend Restzeit):__
 - erzeuge ein Orts-Zeit-Diagramm wo experimentelle und simulierte Daten verglichen werden
 
 - lade das Diagramm [hier](https://diversewolken.ddns.net/nextcloud/index.php/s/JSBai3W7eQAHstr) in deinen Ordner hoch und lass es dir von der Lehrkraft ausdrucken
+
+__Unterschiede zwischen Simulation und Experiment:__
+
+- diskutiere in der Gruppe die Unterschiede zwischen Experiment und Simulation
