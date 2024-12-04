@@ -4939,4 +4939,4 @@ __Umformung:__
 
 ### Experimente Freier Fall
 
-??[DateiAblage](https://diversewolken.ddns.net/nextcloud/index.php/s/JSBai3W7eQAHstr/download)
+??[DateiAblage](https://diversewolken.ddns.net/nextcloud/index.php/s/JSBai3W7eQAHstr)
