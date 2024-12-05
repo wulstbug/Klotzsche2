@@ -159,7 +159,7 @@ __Vorgaben Experiment:__
 
 - exportiere die Daten der Analyse-Software als CSV-Datei und lege sie auf dem Tablet im _Downloads_-Ordner mit einem geeigneten Namen ab
 
-- um die Daten auf den PC zu transferieren, kannst du diesen Link benutzen. Erstelle einen Ordner mit deinem Namen, öffne diese Präsentation dann auf dem Laptop und speichere deine CSV-Datei in einem geeigneten Ordner auf dem Laptop
+- um die Daten auf den PC zu transferieren, kannst du diesen Link [hier](https://diversewolken.ddns.net/nextcloud/index.php/s/JSBai3W7eQAHstr) benutzen. Erstelle einen Ordner mit deinem Namen, öffne diese Präsentation dann auf dem Laptop und speichere deine CSV-Datei in einem geeigneten Ordner auf dem Laptop
 
 <details style="margin-left:10%">
 
