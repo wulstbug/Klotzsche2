@@ -1034,6 +1034,10 @@ __2. Idealer Transformator: Berechnen__
 <iframe src="https://learningapps.org/watch?v=pyk3q81sk24" style="border:0px;width:100%;height:500px" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"></iframe>
 ************
 
+### Wiederholungsvideo Transformator
+
+!?[WasIStEinTransformator](https://diversewolken.ddns.net/nextcloud/index.php/s/Z6E3QPJyaTccksw/download)
+
 ### Widerholung Transformator
 
 1. Bei einem idealen Transformator sei die Sekundärwindungszahl größer als die Primärwindungszahl. Kreuze die richtige Aussage an.
@@ -1151,25 +1155,21 @@ c)
 ---
 
 
-### 2.12.5 Experiment Transformator
+### 2.12.5 Experiment: Unbelasteter (idealer) Transformator
 
-__Arbeitsaufträge:__
+__Arbeitsauftrag:__
 
-- [ ] @color(Übernimm die Aufgabenstellung und die Überschrift in deinen Hefter, blue)
-
-- [ ] @color(Übernimm die Vorbetrachtung in deinen Hefter, blue)
-
-- [ ] @color(Übernimm den Schaltplan und die Materialien in deinen Hefter , blue)
-
-- [ ] @color(Bau die Schaltung gemäß der Durchführung auf., blue)
-
-- [ ] @color(Lass dir den Aufbau __vor dem Einschalten__ abnehmen., red)
+@color(Fertige ein Protokoll zum Experiment an. Übernimm die Überschrift auf eine neue Seite. Bearbeite die Anweisungen der folgenden Punkte.,blue)
 
 __1. Aufgabenstellung:__
+
+- [ ] @color(Übernimm die Aufgabenstellung und die Überschrift in dein Protkoll, blue)
 
 > Untersuche die Spannungsübersetzung an einem unbelasteten Transformator. Ermittle für vier Kombinationen von $n$ jeweils Primärspannung $U_p$ und Sekundärspannung $U_s$.
 
 __2. Vorbetrachtung__
+
+- [ ] @color(Übernimm die Vorbetrachtung in dein Protokoll., blue)
 
 >Für den unbelasteten Transformator gilt die Gleichung:
 >
@@ -1186,6 +1186,8 @@ __2. Vorbetrachtung__
 > $\hspace{0.5cm}$   $n$ .. Übersetzungsverhältnis
 
 __3. Materialien und Versuchsaufbau:__
+
+- [ ] @color(Übernimm den Schaltplan und die Materialien in dein Protkoll., blue)
 
 <p class="newspaper">
 
@@ -1209,6 +1211,10 @@ __3. Materialien und Versuchsaufbau:__
 
 __Durchführung:__
 
+- [ ] @color(Bau die Schaltung gemäß der Durchführung auf., blue)
+
+- [ ] @color(Lass dir den Aufbau __vor dem Einschalten__ abnehmen., red)
+
 > Baue die Experimentieranordnung nach nebenstehender Skizze auf.
 >
 > _Hinweise:_
@@ -1222,3 +1228,33 @@ __Durchführung:__
 > - ändere am Cassy-Messgerät die Einstellung zur __Erfassung__ auf @color(Effektiv-Werte AC, orange) ![Cassy](https://diversewolken.ddns.net/nextcloud/index.php/s/BHQMsGay6gB4dxj/download)<!-- style="max-width:300px"-->
 >
 > - ändere am Cassy-Messgerät 2 ebenfalls die Erfassung auf @color(Effektiv-Werte AC, orange)
+>
+
+__Messwerte:__
+
+- [ ] @color(Übernimm die Messwert-Tabelle in deinen Hefter. Stelle für die Messpunkte 1-6 jeweils das angegebene Übersetzungsverhältnis ein. Wähle für die Primärspannung die Spannungseinstellung 8 V. Ermittle mit Hilfe der Messgeräte die Spannungen $U_p$ und $U_s$., blue)
+
+| | | | | |
+| # | $N_p$ | $N_s$  | $U_p$ | $U_s$ |
+| 1. | 800 | 800   | .. | .. |
+| 2. | 800 | 1600  | .. | .. |
+| 3. | 800 | 2400  | .. | .. |
+| 4. | 2400 | 800  | .. | .. |
+| 5. | 2400 | 1600 | .. | .. |
+| 6. | 2400 | 2400 | .. | .. |
+
+__Auswertung:__
+
+- [ ] @color(Übernimm die Tabelle und ermittle für deine Messwerte 1-6 das Übersetzungsverhältnis $n$ anhand der Windungszahlen und anhand der Spannungsmesswerte, blue)
+
+| | |
+| # | $n=\frac{N_p}{N_s}$ | $n'=\frac{U_p}{U_s}$  |
+| 1. | | |
+| 2. | | |
+| 3. | | |
+| 4. | | |
+| 5. | | |
+| 6. | | |
+
+- [ ] <bdi style="color:blue">An einem idealen Transformator gilt für das Übersetzungsverhält $n = \frac{N_p}{N_s} = \frac{U_p}{U_s}$. Überprüfe anhand deiner Berechnungen (oben), ob der hier untersuchte Transformator als idealer Transformator betrachtet werden kann. Formuliere ein Ergebnis dieses Experiments.</bdi>
+
