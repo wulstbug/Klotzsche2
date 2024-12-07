@@ -79,75 +79,18 @@ window.LIA.settings.font_size = 2
 
 @end
 
-@timer2
-
-<div style="position: fixed; right:50px; top:300px;">
-
-<details>
-
-<summary> Timer(@0:@1) </summary>
-
-<div style="text-align:left;padding:1em 0;"> 
-
-<iframe width="200" height="90" src="https://webuhr.de/embed/timer/#countdown=00:@0:@1&enabled=0&onzero=0&theme=0&ampm=0&sound=xylophone" frameborder="0" allowfullscreen>
-
-</iframe> 
-
-</div>
-
-</details>
-
-</div>
-
+@K1
+Aufbau
 @end
 
-@rangeQuiz2
-<div style="display: flex;flex-direction: row;flex-wrap: nowrap">
-<div style="float:left">
-@0$\ $=$\ $ 
-</div> 
-<div style="float:left">
-<!-- data-solution-button="off" -->
-[[ @1 ]]
-<script>
-let input = "@input".replace(",", ".")
-try {
-    input = Math.abs(eval(input)-@1)/Math.abs(@1)
-    input <= 0.03
-} catch (e) {
-    false
-}
-</script>
-</div> 
-<div style="float:left">
-@2
-</div>
-</div>
+@K2
+Anwendung
 @end
 
-@rangeQuiz20
-<div style="display: flex;flex-direction: row;flex-wrap: nowrap">
-<div style="float:left">
-@0 = 
-</div> 
-<div style="float:left">
-<!-- data-solution-button="off" -->
-[[ @1 ]]
-<script>
-let input = "@input".replace(",", ".")
-try {
-    input = Math.abs(eval(input)-@1)/Math.abs(@1)
-    input <= 0.2
-} catch (e) {
-    false
-}
-</script>
-</div> 
-<div style="float:left">
-@2
-</div>
-</div>
+@K3
+Experiment
 @end
+
 
 @@@ ogy.de/11Ph2 deaktivieren: https://ogy.de/del.cvv2y5l7old0u7gamlc1
 
@@ -159,14 +102,14 @@ try {
 
 Dieses Spiel basiert auf dem Prinzip des beliebten Spiels "Jeopardy". Teilnehmer beantworten Fragen aus verschiedenen Kategorien und sammeln Punkte.
 
-### Kategorien
+## Kategorien
 
 | | | |
-| Aufbau und Funktionsweise | Anwendung | Experiment |
-| [200](#aufbau-und-funktionsweise-200-punkte) | [200](#anwendung-200-punkte)  | [200](#experiment-200-punkte) |
-| [400](#aufbau-und-funktionsweise-400-punkte) | [400](#anwendung-400-punkte)  | [400](#experiment-400-punkte) |
-| [600](#aufbau-und-funktionsweise-600-punkte) | [600](#anwendung-600-punkte)  | [600](#experiment-600-punkte) |
-| [800](#aufbau-und-funktionsweise-800-punkte) | [800](#anwendung-800-punkte)  | [800](#experiment-800-punkte) |
+| @K1 | @K2 | @K3 |
+| [200](#5) | [200](#9)   | [200](#13) |
+| [400](#6) | [400](#10)  | [400](#14) |
+| [600](#7) | [600](#11)  | [600](#15) |
+| [800](#8) | [800](#12)  | [800](#16) |
 
 
 ---
@@ -182,78 +125,72 @@ Dieses Spiel basiert auf dem Prinzip des beliebten Spiels "Jeopardy". Teilnehmer
 
 ---
 
-## Aufbau und Funktionsweise
-
-#### Aufbau und Funktionsweise 200 Punkte
+## @K1 200 Punkte
 - Was bedeutet das Formelzeichen **Nₚ**?  
 [Zurück zu den Punkten](#Kategorien)
 
 ---
 
-#### Aufbau und Funktionsweise 400 Punkte
+## @K1 400 Punkte
 - Auf welcher Gesetzmäßigkeit beruht die Umwandlung der Primärspannung auf den Sekundärstromkreis?  
 [Zurück zu den Punkten](#Kategorien)
 
 ---
 
-#### Aufbau und Funktionsweise 600 Punkte
+## @K1 600 Punkte
 - John will mit dem folgenden Aufbau eine Spannungsuntersetzung von 200 V auf 100 V erreichen. In Johns Schaltung stecken Fehler. Finde zwei dieser Fehler.  
 [Zurück zu den Punkten](#Kategorien)
 
 ---
 
-#### Aufbau und Funktionsweise 800 Punkte
+## @K1 800 Punkte
 - Man wickelt die Primär- und Sekundärwicklung um den gleichen Eisenkern. Welcher Aufbau würde als Transformator fungieren?  
 [Zurück zu den Punkten](#Kategorien)
 
 ---
 
-## Anwendung
-
-#### Anwendung 200 Punkte
+## @K2 200 Punkte
 - Wie erfolgt die Spannungsumwandlung bei einem realen Transformator?  
 [Zurück zu den Punkten](#Kategorien)
 
 ---
 
-#### Anwendung 400 Punkte
+## @K2 400 Punkte
 - Was bedeutet Heruntertransformieren?  
 [Zurück zu den Punkten](#Kategorien)
 
 ---
 
-#### Anwendung 600 Punkte
+## @K2 600 Punkte
 - Die Windungszahl **Nₛ** eines idealen Transformators ist das Fünffache von **Nₚ**. Stelle eine Gleichung auf, in welcher die Beziehung der Spannungen dargestellt wird.  
 [Zurück zu den Punkten](#Kategorien)
 
 ---
 
-#### Anwendung 800 Punkte
+## @K2 800 Punkte
 - Zwischen welchen Spannungen wird bei einem Umspannwerk transformiert?  
 [Zurück zu den Punkten](#Kategorien)
 
 ---
 
-## Experiment
-
-#### Experiment 200 Punkte
+## @K3 200 Punkte
 - Mit welcher Spannungsart betreibt man einen Transformator?  
 [Zurück zu den Punkten](#Kategorien)
 
 ---
 
-#### Experiment 400 Punkte
+## @K3 400 Punkte
 - Was fällt auf, wenn wir berechnete und gemessene Werte der Sekundärspannung vergleichen?  
 [Zurück zu den Punkten](#Kategorien)
 
 ---
 
-#### Experiment 600 Punkte
+## @K3 600 Punkte
 - Wie müssen Spannungsmessgeräte in einem Stromkreis geschaltet sein?  
 [Zurück zu den Punkten](#Kategorien)
 
 ---
 
-#### Experiment 800 Punkte
+## @K3 800 Punkte
 - Mit welcher Formel haben wir die Vergleichswerte der Sekundärspannung errechnet?  
 [Zurück zu den Punkten](#Kategorien)
