@@ -67,6 +67,29 @@ window.LIA.settings.font_size = 2
 </div>
 @end
 
+
+@timer
+
+<div style="position: fixed; right:50px; top:100px;">
+
+<details>
+
+<summary> Timer(@0:@1) </summary>
+
+<div style="text-align:left;padding:1em 0;"> 
+
+<iframe width="200" height="90" src="https://webuhr.de/embed/timer/#countdown=00:@0:@1&enabled=0&onzero=0&theme=0&ampm=0&sound=xylophone" frameborder="0" allowfullscreen>
+
+</iframe> 
+
+</div>
+
+</details>
+
+</div>
+
+@end
+
 @rangeQuiz2
 <div style="display: flex;flex-direction: row;flex-wrap: nowrap">
 <div style="float:left">
@@ -80,6 +103,30 @@ let input = "@input".replace(",", ".")
 try {
     input = Math.abs(eval(input)-@1)/Math.abs(@1)
     input <= 0.03
+} catch (e) {
+    false
+}
+</script>
+</div> 
+<div style="float:left">
+@2
+</div>
+</div>
+@end
+
+@rangeQuiz20
+<div style="display: flex;flex-direction: row;flex-wrap: nowrap">
+<div style="float:left">
+@0 = 
+</div> 
+<div style="float:left">
+<!-- data-solution-button="off" -->
+[[ @1 ]]
+<script>
+let input = "@input".replace(",", ".")
+try {
+    input = Math.abs(eval(input)-@1)/Math.abs(@1)
+    input <= 0.2
 } catch (e) {
     false
 }
@@ -2670,3 +2717,191 @@ __Diagramm zeichnen aus einzelnen Messwerten:__
 
 - zeichnen Sie anschließend den I(t)-Graph für Ihre Messwerte in das Protokoll
 
+## 1.10 Untersuchungen am Entladevorgang eines Kondensators
+
+@timer(60,00)
+
+<H4>Teil 1 - Wiederholung (ca. 20 min)</H4>
+
+<details>
+
+<summary>
+</summary>
+
+<p style="margin-left:5%">
+
+__Aufgabenstellung:__ 
+
+- [ ] @color(Bauen Sie den Entladekreis eines Kondensators anhand der Erklärungen 1.9 auf. , blue)
+
+- [ ] @color(Lassen Sie sich die Schaltung abnehmen. ,red)
+
+- [ ] @color(Ermitteln Sie die auf dem Kondensator gespeicherte elektrische Ladung. ,blue)
+
+- [ ] @color(Überprüfe Sie mit Hilfe der Kontrollboxen Ihre Messwerte. Achten Sie dabei auf die geforderten Einheiten. ,blue)
+
+__Daten/Messwerte zur Kontrolle:__ 
+
+<p style="margin-left:5%">
+
+Ladespannung U:
+
+@rangeQuiz2(U, 10 , $V$)
+
+Elektrischer Widerstand: 
+
+@rangeQuiz2(R, 1000 , $\Omega$)
+
+Kapazität des Kondensators:
+
+@rangeQuiz2(C, 4.7 , $mF$)
+
+Zeitkonstante der RC-Reihenschaltung (_RC: Widerstand-Kondensator_)
+
+@rangeQuiz2($\tau$, 4.7 , $s$)
+
+Vorgegebene Messzeit für die Entladung:
+
+@rangeQuiz20($T$, 18.8 , $s$)
+
+Maximalwert der elektrischen Stromstärke:
+
+@rangeQuiz20($I$, 0.01 , $A$)
+
+Während Messzeit abgeflossene Ladung:
+
+@rangeQuiz20($Q$, 0.0475 , $C$)
+
+</p>
+
+</p>
+
+</details>
+
+---
+
+<H4>Teil 2 - neuer Widerstand (ca. 20min)</H4>
+
+<details>
+
+<summary>
+</summary>
+
+<p style="margin-left:5%">
+
+__Aufgabenstellung:__ 
+
+- [ ] @color(Lassen Sie sich von der Lehrkraft einen neuen Widerstand $412\Omega$ aushändigen. , blue)
+
+- [ ] @color(Tauschen Sie die Kondensatoren aus., blue)
+
+- [ ] @color(Widerholen Sie den Experimentierablauf. Überprüfen Sie die neuen Parameter anhand der Kontrollwerte., blue)
+
+- [ ] @color(Notieren Sie sich Ihre Werte zur Messung mit dem neuen Widerstand., red)
+
+__Daten/Messwerte zur Kontrolle:__ 
+
+<p style="margin-left:5%">
+
+Ladespannung U:
+
+@rangeQuiz2(U, 10 , $V$)
+
+Elektrischer Widerstand: 
+
+@rangeQuiz2(R, 412 , $\Omega$)
+
+Kapazität des Kondensators:
+
+@rangeQuiz2(C, 4700 , $\mu F$)
+
+Zeitkonstante der RC-Reihenschaltung (_RC: Widerstand-Kondensator_)
+
+@rangeQuiz2($\tau$, 1.936 , $s$)
+
+Vorgegebene Messzeit für die Entladung:
+
+@rangeQuiz20($T$, 7.74 , $s$)
+
+Maximalwert der elektrischen Stromstärke:
+
+@rangeQuiz20($I$, 0.024 , $A$)
+
+Während Messzeit abgeflossene Ladung:
+
+@rangeQuiz20($Q$, 0.0475 , $C$)
+
+</p>
+
+- [ ] @color(Sollten Sie noch mehr als 30min Restzeit zur Verfügung haben: Wiederholen Sie die Messung für einen $2.2 k\Omega$-Widerstand., blue)
+
+<details>
+
+<summary> __Daten/Messwerte zur Kontrolle:__ </summary>
+
+<p style="margin-left:5%">
+
+Ladespannung U:
+
+@rangeQuiz2(U, 10 , $V$)
+
+Elektrischer Widerstand: 
+
+@rangeQuiz2(R, 2200 , $\Omega$)
+
+Kapazität des Kondensators:
+
+@rangeQuiz2(C, 4700 , $\mu F$)
+
+Zeitkonstante der RC-Reihenschaltung (_RC: Widerstand-Kondensator_)
+
+@rangeQuiz2($\tau$, 10.34 , $s$)
+
+Vorgegebene Messzeit für die Entladung:
+
+@rangeQuiz20($T$, 41.36 , $s$)
+
+Maximalwert der elektrischen Stromstärke:
+
+@rangeQuiz20($I$, 0.0045 , $A$)
+
+Während Messzeit abgeflossene Ladung:
+
+@rangeQuiz20($Q$, 0.0475 , $C$)
+
+</p>
+
+</details>
+
+</p>
+
+</details>
+
+---
+
+<H4>Teil 3 - Vergleich (mind. 20 min) </H4>
+
+<details>
+
+<summary>
+</summary>
+
+<p style="margin-left:5%">
+
+- [ ] @color(Vergleichen Sie für beide Messungen folgende Werte in einer Tabelle. Ergänzen Sie diese Tabelle in Ihren Aufzeichnungen. , blue)
+
+|         | Ladespannung in V  | Widerstand in $\Omega$ | Maximale Stromstärke | Entladezeit in s | Gespeicherte Ladung in C | 
+|         | $U$ in V  | $R$ in $\Omega$ | $I_{max}$ in A | $T$ in s | $Q$ in C | 
+| Teil 1  | ..                 | .. | .. | .. | .. |
+| Teil 2  | ..                 | .. | .. | .. | .. |
+| @color(_optional_, darkgrey) | ..                 | .. | .. | .. | .. |
+
+- [ ] <bdi style="color:blue">Überprüfen Sie den Zusammenhang von Ladespannung, Kapazität und gespeicherter Ladung. Formulieren Sie ein Ergebnis.</bdi> 
+
+- [ ] <bdi style="color:blue">Stellen Sie anhand Ihrer Daten eine Vermutung über den Einfluss des eingesetzten Widerstands $R$ beim Entladen des Kondensators auf. Gehen Sie dabei auf Ladespannung, Entladezeit, maximale Stromstärke und gespeicherte Ladung ein. Formulieren Sie ein Ergebnis</bdi>
+
+- [ ] @color(Überprüfen Sie den Zusammenhang von Ladespannung Widerstand und maximaler Stromstärke. Formulieren Sie ein Ergebnis, blue)
+
+</p>
+
+</details>
