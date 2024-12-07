@@ -2886,7 +2886,7 @@ Während Messzeit abgeflossene Ladung:
 <summary>
 </summary>
 
-<p style="margin-left:5%">
+<p style="margin:5%">
 
 - [ ] @color(Vergleichen Sie für beide Messungen folgende Werte in einer Tabelle. Ergänzen Sie diese Tabelle in Ihren Aufzeichnungen. , blue)
 
