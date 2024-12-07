@@ -125,72 +125,84 @@ Dieses Spiel basiert auf dem Prinzip des beliebten Spiels "Jeopardy". Teilnehmer
 
 ---
 
-## @K1 200 Punkte
+## 200 Punkte @K1 
+
 - Was bedeutet das Formelzeichen **Nₚ**?  
 [Zurück zu den Punkten](#Kategorien)
 
 ---
 
-## @K1 400 Punkte
+## 400 Punkte @K1 
+
 - Auf welcher Gesetzmäßigkeit beruht die Umwandlung der Primärspannung auf den Sekundärstromkreis?  
 [Zurück zu den Punkten](#Kategorien)
 
 ---
 
-## @K1 600 Punkte
+## 600 Punkte @K1 
+
 - John will mit dem folgenden Aufbau eine Spannungsuntersetzung von 200 V auf 100 V erreichen. In Johns Schaltung stecken Fehler. Finde zwei dieser Fehler.  
 [Zurück zu den Punkten](#Kategorien)
 
 ---
 
-## @K1 800 Punkte
+## 800 Punkte @K1 
+
 - Man wickelt die Primär- und Sekundärwicklung um den gleichen Eisenkern. Welcher Aufbau würde als Transformator fungieren?  
 [Zurück zu den Punkten](#Kategorien)
 
 ---
 
-## @K2 200 Punkte
+## 200 Punkte @K2 
+
 - Wie erfolgt die Spannungsumwandlung bei einem realen Transformator?  
 [Zurück zu den Punkten](#Kategorien)
 
 ---
 
-## @K2 400 Punkte
+## 400 Punkte @K2 
+
 - Was bedeutet Heruntertransformieren?  
 [Zurück zu den Punkten](#Kategorien)
 
 ---
 
-## @K2 600 Punkte
+## 600 Punkte @K2 
+
 - Die Windungszahl **Nₛ** eines idealen Transformators ist das Fünffache von **Nₚ**. Stelle eine Gleichung auf, in welcher die Beziehung der Spannungen dargestellt wird.  
 [Zurück zu den Punkten](#Kategorien)
 
 ---
 
-## @K2 800 Punkte
+## 800 Punkte @K2 
+
 - Zwischen welchen Spannungen wird bei einem Umspannwerk transformiert?  
 [Zurück zu den Punkten](#Kategorien)
 
 ---
 
-## @K3 200 Punkte
+## 200 Punkte @K3 
+
 - Mit welcher Spannungsart betreibt man einen Transformator?  
 [Zurück zu den Punkten](#Kategorien)
 
 ---
 
-## @K3 400 Punkte
+## 400 Punkte @K3 
+
 - Was fällt auf, wenn wir berechnete und gemessene Werte der Sekundärspannung vergleichen?  
 [Zurück zu den Punkten](#Kategorien)
 
 ---
 
-## @K3 600 Punkte
+## 600 Punkte @K3 
+
 - Wie müssen Spannungsmessgeräte in einem Stromkreis geschaltet sein?  
 [Zurück zu den Punkten](#Kategorien)
 
 ---
 
-## @K3 800 Punkte
+## 800 Punkte @K3 
+
 - Mit welcher Formel haben wir die Vergleichswerte der Sekundärspannung errechnet?  
 [Zurück zu den Punkten](#Kategorien)
