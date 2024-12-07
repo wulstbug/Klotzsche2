@@ -15,6 +15,16 @@ language: de
         column-gap: 40px;
         column-rule: 1px solid lightblue;
     }
+    .newspaper3 {
+        column-count: 3;
+        column-gap: 20px;
+        column-rule: 1px solid lightblue;
+    }    
+    .newspaper4 {
+        column-count: 4;
+        column-gap: 20px;
+        column-rule: 1px solid lightblue;
+    }
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -1023,3 +1033,192 @@ __2. Idealer Transformator: Berechnen__
 
 <iframe src="https://learningapps.org/watch?v=pyk3q81sk24" style="border:0px;width:100%;height:500px" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"></iframe>
 ************
+
+### Widerholung Transformator
+
+1. Bei einem idealen Transformator sei die Sekundärwindungszahl größer als die Primärwindungszahl. Kreuze die richtige Aussage an.
+
+<p style="margin-left:5%;margin-right:5%">
+
+- [[ ]] $U_s < U_p$
+- [[ ]] $U_s = U_p$
+- [[x]] $U_s > U_p$
+
+</p>
+
+2. Betrachte folgende Transformator-Daten. Entscheide, ob der Transformator zum Hoch- und Heruntertransformieren verwendet wir. <br> _Für das Übersetzungsverhältnis $n$ gilt: $n = \frac{U_p}{U_s} = \frac{N_p}{N_s}$_.<br> @color(Ergänze dieses Übersetzungsverhält in deinem Hefter unter __2.12.4 Transformatorgleichung__, blue)
+
+<p style="margin-left:5%;margin-right:5%">
+
+<p class="newspaper3">
+
+$n=5$
+
+<!-- data-solution-button="off" -->
+- [[ ]] Hochtransformiern
+- [[x]] Heruntertransformieren
+- [[ ]] weder noch
+
+<p class="cb">
+
+$N_p=1000; N_s=50000$
+
+<!-- data-solution-button="off" -->
+- [[x]] Hochtransformieren
+- [[ ]] Heruntertransformieren
+- [[ ]] Weder noch
+
+<p class="cb">
+
+$N_p=100; N_s=100$
+
+<!-- data-solution-button="off" -->
+- [[ ]] Hochtransformieren
+- [[ ]] Heruntertransformieren
+- [[x]] Weder noch
+
+</p>
+
+</p>
+
+</p>
+
+</p>
+
+4. ![TrafoHaus](https://de.wikipedia.org/wiki/Datei:Elfmorgenbruch_220kV-Transformator.jpg) In Transformatorstationen wird die Elektrizität des regionalen Verteilnetzes mit der Mittelspannung ca. 20 kV zur Versorgung der Niederspannungsendkunden auf die im Ortsnetz verwendeten 400-V-Leiter-Leiter-Spannung transformiert. Wähle die Transformator-Einstellungen aus, die hier verwendet werden können. <br> _Hinweise: 1kV = 1000 V_
+
+<p style="margin-left:5%;margin-right:5%">
+
+<p class="newspaper3">
+
+<!-- data-solution-button="off" -->
+- [[x]] $N_s < N_p$
+- [[ ]] $N_s = N_p$
+- [[ ]] $N_s > N_p$
+
+<p class="cb">
+
+<!-- data-solution-button="off" -->
+- [[ ]] $n=0,1$
+- [[ ]] $n=10$
+- [[ ]] $n=50$
+
+<p class="cb">
+
+<!-- data-solution-button="off" -->
+- [[x]] $N_p=50000; N_s=1000$
+- [[ ]] $N_p=20000; N_s=100$
+- [[x]] $N_p=10000; N_s=200$
+
+</p>
+
+</p>
+
+</p>
+
+</p>
+
+3. Für einen unbelasteten Transformator sind zeilenweise die folgenden Daten bekannt. Ergänze die fehlenden Werte. Für das Übersetzungsverhältnis $n$ gilt: $n = \frac{U_p}{U_s} = \frac{N_p}{N_s}$
+
+<p style="margin-left:5%;margin-right:5%">
+
+---
+
+a)
+
+<!-- data-solution-button="off" -->
+| $N_p$ | $N_s$ | $U_p$ | $U_s$ | n |
+| 2500 | 500  | 100V   | [[ 20 ]] V     | [[ 5 ]] |
+
+---
+
+b)
+
+<!-- data-solution-button="off" -->
+| $N_p$ | $N_s$ | $U_p$ | $U_s$ | n |
+| 250 | [[ 1000 ]] | [[ 10 ]] V | 40V   | 0,25 |
+
+---
+
+c)
+
+<!-- data-solution-button="off" -->
+| $N_p$ | $N_s$ | $U_p$ | $U_s$ | n |
+| 125 | [[ 1000 ]]     | 3V    | 240V | [[ 0,0125 ]] |
+
+</p>
+
+---
+
+
+### 2.12.5 Experiment Transformator
+
+__Arbeitsaufträge:__
+
+- [ ] @color(Übernimm die Aufgabenstellung und die Überschrift in deinen Hefter, blue)
+
+- [ ] @color(Übernimm die Vorbetrachtung in deinen Hefter, blue)
+
+- [ ] @color(Übernimm den Schaltplan und die Materialien in deinen Hefter , blue)
+
+- [ ] @color(Bau die Schaltung gemäß der Durchführung auf., blue)
+
+- [ ] @color(Lass dir den Aufbau __vor dem Einschalten__ abnehmen., red)
+
+__1. Aufgabenstellung:__
+
+> Untersuche die Spannungsübersetzung an einem unbelasteten Transformator. Ermittle für vier Kombinationen von $n$ jeweils Primärspannung $U_p$ und Sekundärspannung $U_s$.
+
+__2. Vorbetrachtung__
+
+>Für den unbelasteten Transformator gilt die Gleichung:
+>
+>$$ \boxed{n = \frac{U_p}{U_s} = \frac{N_p}{N_s}} $$
+>
+> $\hspace{0.5cm}$   $U_p$ .. Primärspannung
+>
+> $\hspace{0.5cm}$   $U_s$ .. Sekundärspannung
+>
+> $\hspace{0.5cm}$   $N_p$ .. Primärwindungszahl
+>
+> $\hspace{0.5cm}$   $N_s$ .. Sekundärwindungszahl
+>
+> $\hspace{0.5cm}$   $n$ .. Übersetzungsverhältnis
+
+__3. Materialien und Versuchsaufbau:__
+
+<p class="newspaper">
+
+> Schaltplan: 
+>
+> ![Schaltplan](https://diversewolken.ddns.net/nextcloud/index.php/s/JAAdHaw4X4NrcZ3/download)
+
+<p class="cb">
+
+> Materialien:
+>
+> - 2 Spulen
+> - Eisenkern komplett / U- und I-Teil
+> - 2 Mobile Cassy Messgerät
+> - Verbindungskabel
+
+</p>
+
+</p>
+
+
+__Durchführung:__
+
+> Baue die Experimentieranordnung nach nebenstehender Skizze auf.
+>
+> _Hinweise:_
+>
+> - entscheide zunächst welche Art der Primärspannung du benötigst:  
+>
+>     [( )] Gleichspannung (linker Anschluss @color($\oplus$,red) @color($\ominus$, blue))
+>     [(x)] Wechselspannung (rechter Anschluss U~)
+>
+> - schließe das Cassy-Messgerät 1 direkt an die Pole der Spannungsquelle an, nutze am Cassy den schwarzen und den roten Pol
+> - ändere am Cassy-Messgerät die Einstellung zur __Erfassung__ auf @color(Effektiv-Werte AC, orange) ![Cassy](https://diversewolken.ddns.net/nextcloud/index.php/s/BHQMsGay6gB4dxj/download)<!-- style="max-width:300px"-->
+>
+> - ändere am Cassy-Messgerät 2 ebenfalls die Erfassung auf @color(Effektiv-Werte AC, orange)
