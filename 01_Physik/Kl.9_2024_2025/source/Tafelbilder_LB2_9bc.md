@@ -1245,7 +1245,7 @@ __Messwerte:__
 
 __Auswertung:__
 
-- [ ] @color(Übernimm die Tabelle und ermittle für deine Messwerte 1-6 das Übersetzungsverhältnis $n$ anhand der Windungszahlen und anhand der Spannungsmesswerte, blue)
+- [ ] @color(Übernimm die Tabelle und ermittle für deine Messwerte 1-6 das Übersetzungsverhältnis $n$ anhand der Windungszahlen und der Spannungsmesswerte., blue)
 
 | | |
 | # | $n=\frac{N_p}{N_s}$ | $n'=\frac{U_p}{U_s}$  |
@@ -1256,5 +1256,8 @@ __Auswertung:__
 | 5. | | |
 | 6. | | |
 
+__Ergebnis:__
+
 - [ ] <bdi style="color:blue">An einem idealen Transformator gilt für das Übersetzungsverhält $n = \frac{N_p}{N_s} = \frac{U_p}{U_s}$. Überprüfe anhand deiner Berechnungen (oben), ob der hier untersuchte Transformator als idealer Transformator betrachtet werden kann. Formuliere ein Ergebnis dieses Experiments.</bdi>
+
 
