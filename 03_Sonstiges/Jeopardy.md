@@ -152,12 +152,6 @@ try {
 @@@ ogy.de/11Ph2 deaktivieren: https://ogy.de/del.cvv2y5l7old0u7gamlc1
 
 -->
-<!--
-author: Dein Name
-title: Jeopardy
-version: 1.0
-language: de
--->
 
 # Jeopardy
 
