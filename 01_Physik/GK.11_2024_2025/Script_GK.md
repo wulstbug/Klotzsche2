@@ -2890,6 +2890,7 @@ Während Messzeit abgeflossene Ladung:
 
 - [ ] @color(Vergleichen Sie für beide Messungen folgende Werte in einer Tabelle. Ergänzen Sie diese Tabelle in Ihren Aufzeichnungen. , blue)
 
+<!-- data-type="none" -->
 |         | Ladespannung in V  | Widerstand in $\Omega$ | Maximale Stromstärke | Entladezeit in s | Gespeicherte Ladung in C | 
 |         | $U$ in V  | $R$ in $\Omega$ | $I_{max}$ in A | $T$ in s | $Q$ in C | 
 | Teil 1  | ..                 | .. | .. | .. | .. |
