@@ -1209,7 +1209,7 @@ __3. Materialien und Versuchsaufbau:__
 </p>
 
 
-__Durchführung:__
+__4. Durchführung:__
 
 - [ ] @color(Bau die Schaltung gemäß der Durchführung auf., blue)
 
@@ -1217,47 +1217,56 @@ __Durchführung:__
 
 > Baue die Experimentieranordnung nach nebenstehender Skizze auf.
 >
+> ![TransformatorAufbau](https://diversewolken.ddns.net/nextcloud/index.php/s/pmQD7JM7pBTG45k/download)
+>
 > _Hinweise:_
 >
-> - entscheide zunächst welche Art der Primärspannung du benötigst:  
+> - entscheide zunächst, welche Art der Primärspannung du benötigst:  
 >
 >     [( )] Gleichspannung (linker Anschluss @color($\oplus$,red) @color($\ominus$, blue))
 >     [(x)] Wechselspannung (rechter Anschluss U~)
 >
 > - schließe das Cassy-Messgerät 1 direkt an die Pole der Spannungsquelle an, nutze am Cassy den schwarzen und den roten Pol
-> - ändere am Cassy-Messgerät die Einstellung zur __Erfassung__ auf @color(Effektiv-Werte AC, orange) ![Cassy](https://diversewolken.ddns.net/nextcloud/index.php/s/BHQMsGay6gB4dxj/download)<!-- style="max-width:300px"-->
+> - ändere am Cassy-Messgerät die Einstellung zur __Erfassung__ auf @color(effektive Werte AC, orange) ![Cassy](https://diversewolken.ddns.net/nextcloud/index.php/s/BHQMsGay6gB4dxj/download)<!-- style="max-width:300px"-->
 >
-> - ändere am Cassy-Messgerät 2 ebenfalls die Erfassung auf @color(Effektiv-Werte AC, orange)
+> - ändere am Cassy-Messgerät 2 ebenfalls die Erfassung auf @color(effektive Werte AC, orange)
 >
+> - ändere den __Bereich__ auf @color(0 .. 30 V, orange)
 
-__Messwerte:__
+__5. Messwerte:__
 
-- [ ] @color(Übernimm die Messwert-Tabelle in deinen Hefter. Stelle für die Messpunkte 1-6 jeweils das angegebene Übersetzungsverhältnis ein. Wähle für die Primärspannung die Spannungseinstellung 8 V. Ermittle mit Hilfe der Messgeräte die Spannungen $U_p$ und $U_s$., blue)
+- [ ] @color(Übernimm die Messwert-Tabelle in deinen Hefter. Stelle für die Messpunkte 1-6 jeweils das angegebene Übersetzungsverhältnis ein. <br> Wähle für die Primärspannung die __Einstellung 8 V__. <br> Ermittle mit Hilfe der Messgeräte die Spannungen $U_p$ und $U_s$., blue)
 
-| | | | | |
-| # | $N_p$ | $N_s$  | $U_p$ | $U_s$ |
-| 1. | 800 | 800   | .. | .. |
-| 2. | 800 | 1600  | .. | .. |
-| 3. | 800 | 2400  | .. | .. |
-| 4. | 2400 | 800  | .. | .. |
-| 5. | 2400 | 1600 | .. | .. |
-| 6. | 2400 | 2400 | .. | .. |
+> | | | | | |
+> | # | $N_p$ | $N_s$  | $U_p$ | $U_s$ |
+> | 1. | 2400 | 2400   | .. | .. |
+> | 2. | 2400 | 1600  | .. | .. |
+> | 3. | 2400 | 800  | .. | .. |
+> | 4. | 800 | 2400  | .. | .. |
+> | 5. | 800 | 1600 | .. | .. |
+> | 6. | 800 | 800 | .. | .. |
+> | @color(optional,darkgrey) | | | | |
+> | 7. | 1600 | 800 | .. | .. |
+> | 8. | 1600 | 1600 | .. | .. |
+> | 9. | 1600 | 2400 | .. | .. |
 
-__Auswertung:__
+__6. Auswertung:__
 
-- [ ] @color(Übernimm die Tabelle und ermittle für deine Messwerte 1-6 das Übersetzungsverhältnis $n$ anhand der Windungszahlen und der Spannungsmesswerte., blue)
+- [ ] @color(15min: Übernimm die Tabelle und ermittle für deine Messwerte 1-6 das Übersetzungsverhältnis $n$ anhand der Windungszahlen und $n'$ anhand der Spannungsmesswerte. Ergänze die Tabelle, blue)
 
-| | |
-| # | $n=\frac{N_p}{N_s}$ | $n'=\frac{U_p}{U_s}$  |
-| 1. | | |
-| 2. | | |
-| 3. | | |
-| 4. | | |
-| 5. | | |
-| 6. | | |
+> | | |
+> | # | $n=\frac{N_p}{N_s}$ | $n'=\frac{U_p}{U_s}$  |
+> | 1. | .. | .. |
+> | 2. | .. | .. |
+> | 3. | .. | .. |
+> | 4. | .. | .. |
+> | 5. | .. | .. |
+> | 6. | .. | .. |
+> | @color(optionale Werte,darkgrey) | | |
+> | ... | .. | .. |
 
-__Ergebnis:__
+__7. Ergebnis:__
 
-- [ ] <bdi style="color:blue">An einem idealen Transformator gilt für das Übersetzungsverhält $n = \frac{N_p}{N_s} = \frac{U_p}{U_s}$. Überprüfe anhand deiner Berechnungen (oben), ob der hier untersuchte Transformator als idealer Transformator betrachtet werden kann. Formuliere ein Ergebnis dieses Experiments.</bdi>
+- [ ] <bdi style="color:blue">An einem idealen Transformator gilt für das Übersetzungsverhält $n = \frac{N_p}{N_s} = \frac{U_p}{U_s} = n'$. Überprüfe anhand deiner Berechnungen (oben), ob der hier untersuchte Transformator als idealer Transformator betrachtet werden kann. Formuliere ein Ergebnis dieses Experiments.</bdi>
 
 
