@@ -169,10 +169,10 @@ Dieses Spiel basiert auf dem Prinzip des beliebten Spiels "Jeopardy". Teilnehmer
 
 | | | |
 | Aufbau und Funktionsweise | Anwendung | Experiment |
-| [200](#aufbau-und-funktionsweise-200-punkte) | [200](#experiment-200-punkte)  | [200](#experiment-200-punkte) |
-| [400](#aufbau-und-funktionsweise-400-punkte) | [400](#aufbau-und-funktionsweise-400-punkte)  | [400](#experiment-400-punkte) |
-| [600](#aufbau-und-funktionsweise-600-punkte) | [600](#aufbau-und-funktionsweise-600-punkte)  | [600](#experiment-600-punkte) |
-| [800](#aufbau-und-funktionsweise-800-punkte) | [800](#aufbau-und-funktionsweise-800-punkte)  | [800](#experiment-800-punkte) |
+| [200](#aufbau-und-funktionsweise-200-punkte) | [200](#anwendung-200-punkte)  | [200](#experiment-200-punkte) |
+| [400](#aufbau-und-funktionsweise-400-punkte) | [400](#anwendung-400-punkte)  | [400](#experiment-400-punkte) |
+| [600](#aufbau-und-funktionsweise-600-punkte) | [600](#anwendung-600-punkte)  | [600](#experiment-600-punkte) |
+| [800](#aufbau-und-funktionsweise-800-punkte) | [800](#anwendung-800-punkte)  | [800](#experiment-800-punkte) |
 
 
 ---
@@ -196,19 +196,19 @@ Dieses Spiel basiert auf dem Prinzip des beliebten Spiels "Jeopardy". Teilnehmer
 
 ---
 
-#### Aufbau und Funktionsweise: 400 Punkte
+#### Aufbau und Funktionsweise 400 Punkte
 - Auf welcher Gesetzmäßigkeit beruht die Umwandlung der Primärspannung auf den Sekundärstromkreis?  
 [Zurück zu den Punkten](#Kategorien)
 
 ---
 
-#### Aufbau und Funktionsweise: 600 Punkte
+#### Aufbau und Funktionsweise 600 Punkte
 - John will mit dem folgenden Aufbau eine Spannungsuntersetzung von 200 V auf 100 V erreichen. In Johns Schaltung stecken Fehler. Finde zwei dieser Fehler.  
 [Zurück zu den Punkten](#Kategorien)
 
 ---
 
-#### Aufbau und Funktionsweise: 800 Punkte
+#### Aufbau und Funktionsweise 800 Punkte
 - Man wickelt die Primär- und Sekundärwicklung um den gleichen Eisenkern. Welcher Aufbau würde als Transformator fungieren?  
 [Zurück zu den Punkten](#Kategorien)
 
@@ -216,25 +216,25 @@ Dieses Spiel basiert auf dem Prinzip des beliebten Spiels "Jeopardy". Teilnehmer
 
 ## Anwendung
 
-#### Anwendung: 200 Punkte
+#### Anwendung 200 Punkte
 - Wie erfolgt die Spannungsumwandlung bei einem realen Transformator?  
 [Zurück zu den Punkten](#Kategorien)
 
 ---
 
-#### Anwendung: 400 Punkte
+#### Anwendung 400 Punkte
 - Was bedeutet Heruntertransformieren?  
 [Zurück zu den Punkten](#Kategorien)
 
 ---
 
-#### Anwendung: 600 Punkte
+#### Anwendung 600 Punkte
 - Die Windungszahl **Nₛ** eines idealen Transformators ist das Fünffache von **Nₚ**. Stelle eine Gleichung auf, in welcher die Beziehung der Spannungen dargestellt wird.  
 [Zurück zu den Punkten](#Kategorien)
 
 ---
 
-#### Anwendung: 800 Punkte
+#### Anwendung 800 Punkte
 - Zwischen welchen Spannungen wird bei einem Umspannwerk transformiert?  
 [Zurück zu den Punkten](#Kategorien)
 
@@ -242,24 +242,24 @@ Dieses Spiel basiert auf dem Prinzip des beliebten Spiels "Jeopardy". Teilnehmer
 
 ## Experiment
 
-#### Experiment: 200 Punkte
+#### Experiment 200 Punkte
 - Mit welcher Spannungsart betreibt man einen Transformator?  
 [Zurück zu den Punkten](#Kategorien)
 
 ---
 
-#### Experiment: 400 Punkte
+#### Experiment 400 Punkte
 - Was fällt auf, wenn wir berechnete und gemessene Werte der Sekundärspannung vergleichen?  
 [Zurück zu den Punkten](#Kategorien)
 
 ---
 
-#### Experiment: 600 Punkte
+#### Experiment 600 Punkte
 - Wie müssen Spannungsmessgeräte in einem Stromkreis geschaltet sein?  
 [Zurück zu den Punkten](#Kategorien)
 
 ---
 
-#### Experiment: 800 Punkte
+#### Experiment 800 Punkte
 - Mit welcher Formel haben wir die Vergleichswerte der Sekundärspannung errechnet?  
 [Zurück zu den Punkten](#Kategorien)
