@@ -90,6 +90,8 @@ mode: presentation
 
 # Naturwissenschaftliches Profil Klasse 8
 
+@uhr
+
 Optische Anwendungen
 
 Christian Golnik
@@ -900,3 +902,66 @@ __Ergebnis:__ An einem Parabolspiegel treffen sich die reflektierten Lichtstrahl
 **********
 ![Schattenwurf_Loesung](https://diversewolken.ddns.net/nextcloud/index.php/s/NkWqe45MnDtkJkm/download)
 **********
+
+## Leistungskontrolle
+
+>> <H3>Di 10.12.24</H3>
+
+## WiederholungsübungÜbung Schattenwurf und Reflexion
+
+@timer(15,00)
+
+Bearbeite Aufgabe 
+
+1) Schattenbildung in Perspektive
+
+{1-2}{![Loesung_Schattenwurf](https://diversewolken.ddns.net/nextcloud/index.php/s/53LJk4rx2gqDxtD/download)}
+{2-3}{![Loesung_Schattenwurf](https://diversewolken.ddns.net/nextcloud/index.php/s/3dEXqgmxW3qidZ2/download)}
+{3-4}{![Loesung_Schattenwurf](https://diversewolken.ddns.net/nextcloud/index.php/s/XrHMPEx3X47ATwW/download)}
+{4-5}{![Loesung_Schattenwurf](https://diversewolken.ddns.net/nextcloud/index.php/s/JDskcJoj4ec5Xjy/download)}
+{5-6}{![Loesung_Schattenwurf](https://diversewolken.ddns.net/nextcloud/index.php/s/yjFWegDNrEeJDAa/download)}
+{6}{![Loesung_Schattenwurf](https://diversewolken.ddns.net/nextcloud/index.php/s/BRrxKaWPLrDPGZB/download)}
+
+2) Reflexion an verschiedenen Spiegeln
+
+{7}{![Loesung_Labyrinth](https://diversewolken.ddns.net/nextcloud/index.php/s/b2QD5XkAjpnzzoc/download)}
+
+## Brechung
+
+{0-1}{![DerWegDesLichtstrahls](https://diversewolken.ddns.net/nextcloud/index.php/s/PXQSmbnJKgBtQAY/download)}
+
+{1}{![ExperimentBrechung](https://diversewolken.ddns.net/nextcloud/index.php/s/HA2C83GywPFoAQC/download)}
+
+### Protokoll - Brechung und Reflexion
+
+{0-1}{![Protokoll_2](https://diversewolken.ddns.net/nextcloud/index.php/s/W3YBoZLHXJya9Ee/download)}
+
+{1-2}{![Protokoll_2](https://diversewolken.ddns.net/nextcloud/index.php/s/mx88CHDFiGdSmHE/download)}
+
+{2}{__Führe das Experiment durch und erstelle eine Messwerttabelle:__}
+
+<p class="newspaper">
+
+{2}{![Protokoll_2](https://diversewolken.ddns.net/nextcloud/index.php/s/mx88CHDFiGdSmHE/download)}
+
+<p class="cb">
+
+{3-4}{![Protokoll_3](https://diversewolken.ddns.net/nextcloud/index.php/s/G97jZ79C4ngNFJc/download)}
+
+{4-5}{![Protokoll_4](https://diversewolken.ddns.net/nextcloud/index.php/s/3XcPPxSoqacTnCM/download)}
+
+{5-6}{![Protokoll_5](https://diversewolken.ddns.net/nextcloud/index.php/s/FZPcZWQKJMsnT9A/download)}
+
+{6-7}{![Protokoll_6](https://diversewolken.ddns.net/nextcloud/index.php/s/QHZaTxf6yZH6Bxb/download)}
+
+{7}{![Protokoll_7](https://diversewolken.ddns.net/nextcloud/index.php/s/sYKdakHaZ9LoAJf/download)}
+
+</p>
+
+</p>
+
+## Lichtbrechung Video
+
+!?[Lichtbrechung_LEIFI](https://www.youtube.com/watch?v=ozyMa884rIo)
+
+
