@@ -2961,7 +2961,7 @@ Während Messzeit abgeflossene Ladung:
 
 {{7}}
 ********
-@color(Der Zusammenhang von Widerstand R Ladespannung U und maximaler Stromstärke folgt dem ohmschen Gesetz $R=\rac{u}{I_{max}}$. , orange)
+@color(Der Zusammenhang von Widerstand R Ladespannung U und maximaler Stromstärke folgt dem ohmschen Gesetz $R=\frac{u}{I_{max}}$. , orange)
 ********
 
 
