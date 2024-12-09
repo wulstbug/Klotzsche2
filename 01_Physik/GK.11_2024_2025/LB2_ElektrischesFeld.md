@@ -1164,6 +1164,8 @@ __Diagramm zeichnen aus einzelnen Messwerten:__
 
 ## 1.10 Untersuchungen am Entladevorgang eines Kondensators
 
+@timer(60,00)
+
 <H4>Teil 1 - Wiederholung (ca. 20 min)</H4>
 
 <details>
@@ -1234,7 +1236,7 @@ Während Messzeit abgeflossene Ladung:
 
 __Aufgabenstellung:__ 
 
-- [ ] @color(Lassen Sie sich von der Lehrkraft einen neuen Widerstand $412\Omega$ aushändigen. , blue)
+- [ ] @color(Lassen Sie sich von der Lehrkraft einen neuen Widerstand $470\Omega$ aushändigen. , blue)
 
 - [ ] @color(Tauschen Sie die Kondensatoren aus., blue)
 
@@ -1252,7 +1254,7 @@ Ladespannung U:
 
 Elektrischer Widerstand: 
 
-@rangeQuiz2(R, 412 , $\Omega$)
+@rangeQuiz2(R, 0.47 , $k\Omega$)
 
 Kapazität des Kondensators:
 
@@ -1260,15 +1262,15 @@ Kapazität des Kondensators:
 
 Zeitkonstante der RC-Reihenschaltung (_RC: Widerstand-Kondensator_)
 
-@rangeQuiz2($\tau$, 1.936 , $s$)
+@rangeQuiz2($\tau$, 2.209 , $s$)
 
 Vorgegebene Messzeit für die Entladung:
 
-@rangeQuiz20($T$, 7.74 , $s$)
+@rangeQuiz20($T$, 8.836 , $s$)
 
 Maximalwert der elektrischen Stromstärke:
 
-@rangeQuiz20($I$, 0.024 , $A$)
+@rangeQuiz20($I$, 0.0213 , $A$)
 
 Während Messzeit abgeflossene Ladung:
 
