@@ -5066,7 +5066,7 @@ __Ausdrucken:__
 
 - die simulierten Graphen können direkt in ein PDF gedruckt werden
 
-- wähle dazu im Menu: @color("Datei -> Druckereinrichtung", blue)
+- wähle dazu im Menu: @color("Datei -> Druckereinrichtung -> PDCCreator", blue)
 
 - wähle anschließend: @color("Name -> PDF-Drucken", blue)
 
@@ -5076,7 +5076,7 @@ __Ausdrucken:__
 
 - ![Einstellungen](https://diversewolken.ddns.net/nextcloud/index.php/s/3MGSwtD8H5dB6dd/download) achte darauf dass @color(__NUR__, red) die Boxen @color("__Programm  Startwerte und Schaubild__",blue) aktiviert sind
 
-- speicher das PDF unter deinem Namen (z.B. ) und lade es anschließend [hier](https://diversewolken.ddns.net/nextcloud/index.php/s/JSBai3W7eQAHstr) wieder hoch 
+- speichere das PDF unter deinem Namen (z.B. ) und lade es anschließend [hier](https://diversewolken.ddns.net/nextcloud/index.php/s/JSBai3W7eQAHstr) wieder hoch 
 
 - lass es dir von der Lehrkraft ausdrucken
 
