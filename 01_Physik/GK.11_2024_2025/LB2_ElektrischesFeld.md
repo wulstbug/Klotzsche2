@@ -1238,7 +1238,7 @@ __Aufgabenstellung:__
 
 - [ ] @color(Lassen Sie sich von der Lehrkraft einen neuen Widerstand $470\Omega$ aushändigen. , blue)
 
-- [ ] @color(Tauschen Sie die Kondensatoren aus., blue)
+- [ ] @color(Tauschen Sie die Widerstände aus., blue)
 
 - [ ] @color(Widerholen Sie den Experimentierablauf. Überprüfen Sie die neuen Parameter anhand der Kontrollwerte., blue)
 
