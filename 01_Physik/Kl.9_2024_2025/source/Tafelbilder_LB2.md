@@ -1267,6 +1267,9 @@ __6. Auswertung:__
 
 - [ ] @color(15min: Übernimm die Tabelle und ermittle für deine Messwerte 1-6 das Übersetzungsverhältnis $n$ anhand der Windungszahlen und $n'$ anhand der Spannungsmesswerte. Ergänze die Tabelle, blue)
 
+
+{{0-2}}
+***************
 > | | |
 > | # | $n=\frac{N_p}{N_s}$ | $n'=\frac{U_p}{U_s}$  |
 > | 1. | .. | .. |
@@ -1277,6 +1280,23 @@ __6. Auswertung:__
 > | 6. | .. | .. |
 > | @color(optionale Werte,darkgrey) | | |
 > | ... | .. | .. |
+***************
+
+{{2}}
+***************
+> | | |
+> | # | $n=\frac{N_p}{N_s}$ | $n'=\frac{U_p}{U_s}$  |
+> | 1. | 1 | 1,11 |
+> | 2. | 1,5 | 1,66 |
+> | 3. | 3 | 3,31 |
+> | 4. | 0,33 | 0,36 |
+> | 5. | 0,5 | 0,54 |
+> | 6. | 1 | 1,08 |
+> | 7. | 2 | 2,19 |
+> | 8. | 1 | 1.09 |
+> | 9. | 0,67 | 0,73 |
+***************
+
 
 __7. Ergebnis:__
 
