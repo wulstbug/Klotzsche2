@@ -2931,7 +2931,7 @@ Während Messzeit abgeflossene Ladung:
 | @color(_optional_, darkgrey) | 10                 | 2200 | 0,0045 | 41,4 | .. |
 ************
 
-{{4-5}}
+{{4}}
 ************
 <!-- data-type="none" -->
 |         | Ladespannung in V  | Widerstand in $\Omega$ | Maximale Stromstärke | Entladezeit in s | Gespeicherte Ladung in C | 
@@ -2961,7 +2961,7 @@ Während Messzeit abgeflossene Ladung:
 
 {{7}}
 ********
-@color(Der Zusammenhang von Widerstand R Ladespannung U und maximaler Stromstärke folgt dem ohmschen Gesetz $R=\frac{u}{I_{max}}$. , orange)
+@color(Der Zusammenhang von Widerstand R Ladespannung U und maximaler Stromstärke folgt dem ohmschen Gesetz $R=\frac{U}{I_{max}}$. , orange)
 ********
 
 
