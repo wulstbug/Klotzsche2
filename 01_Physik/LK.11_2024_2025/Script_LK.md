@@ -5060,7 +5060,7 @@ __Aus Simulation:__
 
 - nutze die Tabellenansicht @color("Datei -> Druckereinrichtung", blue), um die Werte entsprechend zu vergleichen
 
-- wenn du die Simulation zu deiner Zufriedenheit angepasst hast, soll die Simulation ausgedruckt werden
+- wenn du die Simulation zu deiner Zufriedenheit angepasst hast, speichere sie ab
 
 __Ausdrucken:__
 
