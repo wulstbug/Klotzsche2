@@ -1241,6 +1241,8 @@ __5. Messwerte:__
 
 - [ ] @color(Übernimm die Messwert-Tabelle in deinen Hefter. Stelle für die Messpunkte 1-6 jeweils das angegebene Übersetzungsverhältnis ein. <br> Wähle für die Primärspannung die __Einstellung 6 V__. <br> Ermittle mit Hilfe der Messgeräte die Spannungen $U_p$ und $U_s$., blue)
 
+{{0-1}}
+************
 > | | | | | |
 > | # | $N_p$ | $N_s$  | $U_p$ | $U_s$ |
 > | 1. | 2400 | 2400   | .. | .. |
@@ -1253,6 +1255,13 @@ __5. Messwerte:__
 > | 7. | 1600 | 800 | .. | .. |
 > | 8. | 1600 | 1600 | .. | .. |
 > | 9. | 1600 | 2400 | .. | .. |
+************
+
+{{1}}
+************
+![Messwerte_9b_MarieSophie](https://diversewolken.ddns.net/nextcloud/index.php/s/6j5byTT6GdcdKcP/download)
+************
+
 
 __6. Auswertung:__
 
