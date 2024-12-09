@@ -934,7 +934,9 @@ Bearbeite Aufgabe
 
 ### Protokoll - Brechung und Reflexion
 
-{0-1}{![Protokoll_2](https://diversewolken.ddns.net/nextcloud/index.php/s/W3YBoZLHXJya9Ee/download)}
+@timer(30,00)
+
+{0-1}{![Protokoll_1](https://diversewolken.ddns.net/nextcloud/index.php/s/W3YBoZLHXJya9Ee/download)}
 
 {1-2}{![Protokoll_2](https://diversewolken.ddns.net/nextcloud/index.php/s/mx88CHDFiGdSmHE/download)}
 
