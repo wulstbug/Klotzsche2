@@ -1235,7 +1235,7 @@ __4. Durchführung:__
 
 __5. Messwerte:__
 
-- [ ] @color(Übernimm die Messwert-Tabelle in deinen Hefter. Stelle für die Messpunkte 1-6 jeweils das angegebene Übersetzungsverhältnis ein. <br> Wähle für die Primärspannung die __Einstellung 8 V__. <br> Ermittle mit Hilfe der Messgeräte die Spannungen $U_p$ und $U_s$., blue)
+- [ ] @color(Übernimm die Messwert-Tabelle in deinen Hefter. Stelle für die Messpunkte 1-6 jeweils das angegebene Übersetzungsverhältnis ein. <br> Wähle für die Primärspannung die __Einstellung 6 V__. <br> Ermittle mit Hilfe der Messgeräte die Spannungen $U_p$ und $U_s$., blue)
 
 > | | | | | |
 > | # | $N_p$ | $N_s$  | $U_p$ | $U_s$ |

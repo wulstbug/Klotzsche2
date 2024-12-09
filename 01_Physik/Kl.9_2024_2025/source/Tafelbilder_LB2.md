@@ -1038,6 +1038,10 @@ __2. Idealer Transformator: Berechnen__
 
 !?[WasIStEinTransformator](https://diversewolken.ddns.net/nextcloud/index.php/s/Z6E3QPJyaTccksw/download)
 
+### Wiederholungsvideo Transformator
+
+!?[WasIStEinTransformator](https://diversewolken.ddns.net/nextcloud/index.php/s/Z6E3QPJyaTccksw/download)
+
 ### Widerholung Transformator
 
 1. Bei einem idealen Transformator sei die Sekundärwindungszahl größer als die Primärwindungszahl. Kreuze die richtige Aussage an.
@@ -1089,7 +1093,7 @@ $N_p=100; N_s=100$
 
 </p>
 
-4. ![TrafoHaus](https://de.wikipedia.org/wiki/Datei:Elfmorgenbruch_220kV-Transformator.jpg) In Transformatorstationen wird die Elektrizität des regionalen Verteilnetzes mit der Mittelspannung ca. 20 kV zur Versorgung der Niederspannungsendkunden auf die im Ortsnetz verwendeten 400-V-Leiter-Leiter-Spannung transformiert. Wähle die Transformator-Einstellungen aus, die hier verwendet werden können. <br> _Hinweise: 1kV = 1000 V_
+4. ![TrafoHaus](https://upload.wikimedia.org/wikipedia/commons/1/19/Elfmorgenbruch_220kV-Transformator.jpg) In Transformatorstationen wird die Elektrizität des regionalen Verteilnetzes mit der Mittelspannung ca. 20 kV zur Versorgung der Niederspannungsendkunden auf die im Ortsnetz verwendeten 400-V-Leiter-Leiter-Spannung transformiert. Wähle die Transformator-Einstellungen aus, die hier verwendet werden können. <br> _Hinweise: 1kV = 1000 V_
 
 <p style="margin-left:5%;margin-right:5%">
 
@@ -1105,14 +1109,14 @@ $N_p=100; N_s=100$
 <!-- data-solution-button="off" -->
 - [[ ]] $n=0,1$
 - [[ ]] $n=10$
-- [[ ]] $n=50$
+- [[x]] $n=50$
 
 <p class="cb">
 
 <!-- data-solution-button="off" -->
 - [[x]] $N_p=50000; N_s=1000$
 - [[ ]] $N_p=20000; N_s=100$
-- [[x]] $N_p=10000; N_s=200$
+- [[ ]] $N_p=10000; N_s=200$
 
 </p>
 
@@ -1235,7 +1239,7 @@ __4. Durchführung:__
 
 __5. Messwerte:__
 
-- [ ] @color(Übernimm die Messwert-Tabelle in deinen Hefter. Stelle für die Messpunkte 1-6 jeweils das angegebene Übersetzungsverhältnis ein. <br> Wähle für die Primärspannung die __Einstellung 8 V__. <br> Ermittle mit Hilfe der Messgeräte die Spannungen $U_p$ und $U_s$., blue)
+- [ ] @color(Übernimm die Messwert-Tabelle in deinen Hefter. Stelle für die Messpunkte 1-6 jeweils das angegebene Übersetzungsverhältnis ein. <br> Wähle für die Primärspannung die __Einstellung 6 V__. <br> Ermittle mit Hilfe der Messgeräte die Spannungen $U_p$ und $U_s$., blue)
 
 > | | | | | |
 > | # | $N_p$ | $N_s$  | $U_p$ | $U_s$ |
