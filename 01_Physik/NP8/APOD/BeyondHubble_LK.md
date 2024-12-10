@@ -913,18 +913,42 @@ __Ergebnis:__ An einem Parabolspiegel treffen sich die reflektierten Lichtstrahl
 
 Bearbeite Aufgabe 
 
-1) Schattenbildung in Perspektive
+1) Reflexion ebener Spiegel
 
-{1-2}{![Loesung_Schattenwurf](https://diversewolken.ddns.net/nextcloud/index.php/s/53LJk4rx2gqDxtD/download)}
-{2-3}{![Loesung_Schattenwurf](https://diversewolken.ddns.net/nextcloud/index.php/s/3dEXqgmxW3qidZ2/download)}
-{3-4}{![Loesung_Schattenwurf](https://diversewolken.ddns.net/nextcloud/index.php/s/XrHMPEx3X47ATwW/download)}
-{4-5}{![Loesung_Schattenwurf](https://diversewolken.ddns.net/nextcloud/index.php/s/JDskcJoj4ec5Xjy/download)}
-{5-6}{![Loesung_Schattenwurf](https://diversewolken.ddns.net/nextcloud/index.php/s/yjFWegDNrEeJDAa/download)}
-{6}{![Loesung_Schattenwurf](https://diversewolken.ddns.net/nextcloud/index.php/s/BRrxKaWPLrDPGZB/download)}
+![Aufgabe_1](https://diversewolken.ddns.net/nextcloud/index.php/s/kEtMqHHgkpA6bio/download)
+
+{{1}}
+********
+![Loesung_1a](https://diversewolken.ddns.net/nextcloud/index.php/s/PJgQxSnsBoEqnmD/download)
+********
+
+{{2}}
+********
+![Loesung_1b](https://diversewolken.ddns.net/nextcloud/index.php/s/z2ykof8SPKxfoPf/download)
+********
+
+{{3}}
+********
+![Loesung_1c](https://diversewolken.ddns.net/nextcloud/index.php/s/st5TZgSmiAx95i5/download)
+********
+
+{{4}}
+********
+![Loesung_1d](https://diversewolken.ddns.net/nextcloud/index.php/s/RCTeZ3zgmFfTZLA/download)
+********
+
+3) Schattenbildung in Perspektive
+
+{5-6}{![Loesung_Schattenwurf](https://diversewolken.ddns.net/nextcloud/index.php/s/53LJk4rx2gqDxtD/download)}
+{6-7}{![Loesung_Schattenwurf](https://diversewolken.ddns.net/nextcloud/index.php/s/3dEXqgmxW3qidZ2/download)}
+{7-8}{![Loesung_Schattenwurf](https://diversewolken.ddns.net/nextcloud/index.php/s/XrHMPEx3X47ATwW/download)}
+{8-9}{![Loesung_Schattenwurf](https://diversewolken.ddns.net/nextcloud/index.php/s/JDskcJoj4ec5Xjy/download)}
+{9-10}{![Loesung_Schattenwurf](https://diversewolken.ddns.net/nextcloud/index.php/s/yjFWegDNrEeJDAa/download)}
+{10}{![Loesung_Schattenwurf](https://diversewolken.ddns.net/nextcloud/index.php/s/BRrxKaWPLrDPGZB/download)}
 
 2) Reflexion an verschiedenen Spiegeln
 
-{7}{![Loesung_Labyrinth](https://diversewolken.ddns.net/nextcloud/index.php/s/b2QD5XkAjpnzzoc/download)}
+{11}{![Loesung_Labyrinth](https://diversewolken.ddns.net/nextcloud/index.php/s/b2QD5XkAjpnzzoc/download)}
 
 ## Brechung
 
@@ -967,3 +991,22 @@ Bearbeite Aufgabe
 !?[Lichtbrechung_LEIFI](https://www.youtube.com/watch?v=ozyMa884rIo)
 
 
+### Übung Brechnung Arbeitsblatt / Aufgabe 4
+
+![Aufgabe_4](https://diversewolken.ddns.net/nextcloud/index.php/s/RCFzTYHSKEx7frp/download)
+
+
+{{1}}
+********
+![Loesung_4a](https://diversewolken.ddns.net/nextcloud/index.php/s/HGdbL3g5bTQ4Pwo/download)
+********
+
+{{2}}
+********
+![Loesung_4b](https://diversewolken.ddns.net/nextcloud/index.php/s/Ykxt2HJYcmBpZnT/download)
+********
+
+{{3}}
+********
+![Loesung_4c](https://diversewolken.ddns.net/nextcloud/index.php/s/B5dsSG2nYCrWsrF/download)
+********
