@@ -5091,3 +5091,106 @@ __Unterschiede zwischen Simulation und Experiment:__
 - diskutiere in der Gruppe die Unterschiede zwischen Experiment und Simulation
 
 </p>
+
+### 4.2.4 Modelierung Dachdecker-Aufzug
+
+![DDAufzug](https://www.kranzubehoer.com/images/product_images/info_images/Kranmeister_Dachdeckeraufzug.jpg) @color(Es wird ein Demonstationsexperiment zu einem Modell eines Dachdeckeraufzugs gezeigt., blue)
+
+__Aufgabenstellung:__ 
+
+1. Erstelle eine Skizze des Aufbaus und zeichne die auftretenden Kräfte und Messgrößen ein.
+
+2. Untersuche mit einer Handstopuhr die beschleunigte Bewegung.
+
+3. Nutze den CAS und ermittle eine quadratische Funktion (Quadratische Regression), welche die experimentellen Bewegungsdaten möglichst gut wiederspiegelt.
+
+4. Ermittle aus der Regressionsfunktion die Beschleunigung $a_{reg}$.
+
+5. Nutze das Simulationstool _Moebius_ und erstelle einen Programmcode, welcher die Kräfte und die daraus resultierende Bewegung simuliert
+
+6. Ändere den auftretenden Reibungskoeffizienten derart, dass die simulierten Daten mit den experimentellen Messwerten übereinstimmen
+
+7. Ermittle aus den simulierten Daten den Reibungskoeffizient $\mu_R$, die Reibungskraft $F_r$ und die Beschleunigung $a_{sim}$.
+
+8. Vergleiche die ermittelten Beschleunigungen $a_{reg} und $a_{sim}$.
+
+9. Untersuche für den Messaufbau wesentliche Fehlerquellen.
+
+__Vorbetrachtung:__ Physikalische Grundlagen + Programmcode
+
+<p class="newspaper">
+
+__Formeln:__
+
+Gewichtskraft:
+
+$$ F_g = m_1 \cdot g$$
+
+Reibungskraft:
+
+$$ F_r = F_g \cdot \cos\alpha \cdot \mu_r $$
+
+Beschleunigende Kraft:
+
+$$ F = F_g - F_r $$
+
+Beschleunigung:
+
+$$ a = \frac{F}{(m_1 + m_2)} $$
+
+Geschwindigkeitsänderung:
+
+$$ \mathrm{d}v = a \cdot \mathrm{d}t $$
+
+Ortsänderung:
+
+$$ \mathrm{d}s = v \cdot \mathrm{d}t $$
+
+
+<p class="cb">
+
+__Moebius - Programmcode__ <br> (_erstmal selbst probieren, dann kontrollieren_)
+
+<details>
+
+<summary> Moebius - Code </summary>
+
+```
+
+Fg = m * g
+
+Fr = Fg * cosa * mu
+
+F = Fg - Fr
+
+a = F/(m1+m2)
+
+v = v + a*dt
+
+s = s + v*dt
+
+t = t + dt
+
+```
+
+</details>
+
+</p>
+
+</p>
+
+__Versuchsaufbau/Materialien:__
+
+![VersuchsAufbau](https://diversewolken.ddns.net/nextcloud/index.php/s/zbAYMGQggBjzkN5/download)
+
+__Messwerte:__
+
+![VersuchsAufbau]https://diversewolken.ddns.net/nextcloud/index.php/s/XCJG3WKTt5mwkos/download)
+
+__Auswertung:__
+
+_Regression:_
+
+![VersuchsAufbau](https://diversewolken.ddns.net/nextcloud/index.php/s/zbAYMGQggBjzkN5/download)
+
+_Simulation:_
