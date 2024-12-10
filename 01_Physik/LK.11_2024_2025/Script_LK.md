@@ -5096,11 +5096,11 @@ __Unterschiede zwischen Simulation und Experiment:__
 
 ![DDAufzug](https://www.kranzubehoer.com/images/product_images/info_images/Kranmeister_Dachdeckeraufzug.jpg) @color(Es wird ein Demonstationsexperiment zu einem Modell eines Dachdeckeraufzugs gezeigt., blue)
 
-__Aufgabenstellung:__ 
+__Aufgabenstellung:__ (1-4) gemeinsam | (5-9) selbsständig
 
 1. Erstelle eine Skizze des Aufbaus und zeichne die auftretenden Kräfte und Messgrößen ein.
 
-2. Untersuche mit einer Handstopuhr die beschleunigte Bewegung.
+2. Untersuche mit einer Handstopuhr Strecke und Zeit an vier Messpunkten.
 
 3. Nutze den CAS und ermittle eine quadratische Funktion (Quadratische Regression), welche die experimentellen Bewegungsdaten möglichst gut wiederspiegelt.
 
@@ -5112,7 +5112,7 @@ __Aufgabenstellung:__
 
 7. Ermittle aus den simulierten Daten den Reibungskoeffizient $\mu_R$, die Reibungskraft $F_r$ und die Beschleunigung $a_{sim}$.
 
-8. Vergleiche die ermittelten Beschleunigungen $a_{reg} und $a_{sim}$.
+8. Vergleiche die ermittelten Beschleunigungen $a_{reg}$ und $a_{sim}$. Diskutiere Gründe für eventuelle Unterschiede.
 
 9. Untersuche für den Messaufbau wesentliche Fehlerquellen.
 
@@ -5128,7 +5128,7 @@ $$ F_g = m_1 \cdot g$$
 
 Reibungskraft:
 
-$$ F_r = F_g \cdot \cos\alpha \cdot \mu_r $$
+$$ F_r = m_2 \cdot g \cdot \cos\alpha \cdot \mu_r $$
 
 Beschleunigende Kraft:
 
@@ -5157,9 +5157,9 @@ __Moebius - Programmcode__ <br> (_erstmal selbst probieren, dann kontrollieren_)
 
 ```
 
-Fg = m * g
+Fg = m1 * g
 
-Fr = Fg * cosa * mu
+Fr = m2 * g * cosa * mu
 
 F = Fg - Fr
 
@@ -5185,12 +5185,18 @@ __Versuchsaufbau/Materialien:__
 
 __Messwerte:__
 
-![VersuchsAufbau]https://diversewolken.ddns.net/nextcloud/index.php/s/XCJG3WKTt5mwkos/download)
+![Messwerte](https://diversewolken.ddns.net/nextcloud/index.php/s/XCJG3WKTt5mwkos/download)
 
 __Auswertung:__
 
+<p style="margin-left:5%">
+
 _Regression:_
 
-![VersuchsAufbau](https://diversewolken.ddns.net/nextcloud/index.php/s/zbAYMGQggBjzkN5/download)
+![Regression](https://diversewolken.ddns.net/nextcloud/index.php/s/zbAYMGQggBjzkN5/download)
 
 _Simulation:_
+
+![Simulation](https://diversewolken.ddns.net/nextcloud/index.php/s/FpZnAFjmqEKpWjo/download)
+
+</p>
