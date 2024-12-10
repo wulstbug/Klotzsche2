@@ -222,3 +222,59 @@ __Auswertung Option 2 (ausreichend Restzeit):__
 __Unterschiede zwischen Simulation und Experiment:__
 
 - diskutiere in der Gruppe die Unterschiede zwischen Experiment und Simulation
+
+### 4.2.3. Auswertung Experiment Freier Fall Muffin-Förmchen
+
+Die experimentellen Daten der letzten Unterrichtsstunde können [hier](https://diversewolken.ddns.net/nextcloud/index.php/s/JSBai3W7eQAHstr) abgerufen werden.
+
+__Arbeitsaufträge:__
+
+<p style="margin-left:5%">
+
+__Aus Experiment:__
+
+- öffne zunächst die CSV-Datei deiner experimentellen Messwerte mit Excel <br> (_Hinweis: Wenn du keine experimentellen Daten vorliegen hast, kannst du die Demo-Daten in der Datei @color(Demo_Exp.csv, orange) nutzen_)
+
+- überprüfe, welche Koordinate (x oder y) in deinem Versuch entlang der Bewegungsrichtung gesetzt worden ist
+
+- notiere für deinen Versuch die gesamte Flugzeit ($t_{flug}$) und die gesamte Flugstrecke $x_{flug}$ bzw.$y_{flug}$
+
+__Aus Simulation:__
+
+- öffne deine Simulation der letzten Unterrichtsstunde <br>(_Hinweis: Wenn du keine Simulation aus der letzten Stunde vorliegen hast, kannst du die die Datei @color(Demo_Sim.prg, orange) nutzen._)
+
+- der Parameter $c_w$-Wert der Simulation soll nun derart angepasst werden, dass $t_{flug}$ und $x_{flug}$ bzw. $y_{flug}$ übereinstimmen
+
+- nutze die Tabellenansicht @color("Datei -> Druckereinrichtung", blue), um die Werte entsprechend zu vergleichen
+
+- wenn du die Simulation zu deiner Zufriedenheit angepasst hast, speichere sie ab
+
+__Ausdrucken:__
+
+- die simulierten Graphen können direkt in ein PDF gedruckt werden
+
+- wähle dazu im Menu: @color("Datei -> Druckereinrichtung -> PDCCreator", blue)
+
+- wähle anschließend: @color("Name -> PDF-Drucken", blue)
+
+- __deaktiviere die Tabellensicht__
+
+- wähle @color("Datei->Drucken", blue)
+
+- ![Einstellungen](https://diversewolken.ddns.net/nextcloud/index.php/s/3MGSwtD8H5dB6dd/download) achte darauf dass @color(__NUR__, red) die Boxen @color("__Programm  Startwerte und Schaubild__",blue) aktiviert sind
+
+- speichere das PDF unter deinem Namen (z.B. ) und lade es anschließend [hier](https://diversewolken.ddns.net/nextcloud/index.php/s/JSBai3W7eQAHstr) wieder hoch 
+
+- lass es dir von der Lehrkraft ausdrucken
+
+__Vergleich von Simulation und Experiment:__
+
+- trage in deine Simulation die experimentellen Datenpunkte (CSV-Datei oben) in einem zeitlichen Abstand von 0,1s per Hand ein
+
+- verbinde diese experimentellen Messwerte mit einer Freihandkurve
+
+__Unterschiede zwischen Simulation und Experiment:__
+
+- diskutiere in der Gruppe die Unterschiede zwischen Experiment und Simulation
+
+</p>
