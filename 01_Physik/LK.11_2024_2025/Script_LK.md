@@ -5181,7 +5181,23 @@ t = t + dt
 
 __Versuchsaufbau/Materialien:__
 
+<p class="newspaper">
+
+__Foto:__
+
+![Foto](https://diversewolken.ddns.net/nextcloud/index.php/s/zbAYMGQggBjzkN5/download)
+
+<p class="cb">
+
+__Skizze:__
+
 ![VersuchsAufbau](https://diversewolken.ddns.net/nextcloud/index.php/s/zbAYMGQggBjzkN5/download)
+
+</p>
+
+</p>
+
+
 
 __Messwerte:__
 
