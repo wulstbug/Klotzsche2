@@ -354,6 +354,21 @@ __Moebius - Programmcode__
 
 ```
 
+Fg = m1 * g
+
+Fr = m2 * g * cosa * mu
+
+Fh = m2 * g * sina
+
+F = Fg - Fr
+
+a = F/(m1+m2)
+
+v = v + a*dt
+
+s = s + v*dt
+
+t = t + dt
 
 
 ```
