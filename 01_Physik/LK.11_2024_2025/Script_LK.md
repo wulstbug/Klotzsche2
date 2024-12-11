@@ -5098,6 +5098,10 @@ __Unterschiede zwischen Simulation und Experiment:__
 
 __Aufgabenstellung:__ (1-4) gemeinsam | (5-9) selbsständig
 
+<details style="margin-left:5%">
+
+<summary> </summary>
+
 1. Erstelle eine Skizze des Aufbaus und zeichne die auftretenden Kräfte und Messgrößen ein.
 
 2. Untersuche mit einer Handstopuhr Strecke und Zeit an vier Messpunkten.
@@ -5116,7 +5120,15 @@ __Aufgabenstellung:__ (1-4) gemeinsam | (5-9) selbsständig
 
 9. Untersuche für den Messaufbau wesentliche Fehlerquellen.
 
+10. Diagramm (@color(mit Namen,red)) können [hier](https://diversewolken.ddns.net/nextcloud/index.php/s/EsCQXsMK5kwK7ia) hochgeladen und ausgedruckt werden
+
+</details>
+
 __Vorbetrachtung:__ Physikalische Grundlagen + Programmcode
+
+<details style="margin-left:5%">
+
+<summary> </summary>
 
 <p class="newspaper">
 
@@ -5149,7 +5161,7 @@ $$ \mathrm{d}s = v \cdot \mathrm{d}t $$
 
 <p class="cb">
 
-__Moebius - Programmcode__ <br> (_erstmal selbst probieren, dann kontrollieren_)
+__Moebius - Programmcode__ 
 
 <details>
 
@@ -5179,13 +5191,20 @@ t = t + dt
 
 </p>
 
+</details>
+
+
 __Versuchsaufbau/Materialien:__
+
+<details style="margin-left:5%">
+
+<summary> </summary>
 
 <p class="newspaper">
 
 __Foto:__
 
-![Foto](https://diversewolken.ddns.net/nextcloud/index.php/s/zbAYMGQggBjzkN5/download)
+![Foto](https://diversewolken.ddns.net/nextcloud/index.php/s/4tkfQFenHKaKmFk/download)
 
 <p class="cb">
 
@@ -5197,15 +5216,23 @@ __Skizze:__
 
 </p>
 
-
+</details>
 
 __Messwerte:__
 
+<details style="margin-left:5%">
+
+<summary> </summary>
+
 ![Messwerte](https://diversewolken.ddns.net/nextcloud/index.php/s/XCJG3WKTt5mwkos/download)
+
+</details>
 
 __Auswertung:__
 
-<p style="margin-left:5%">
+<details style="margin-left:5%">
+
+<summary> </summary>
 
 _Regression:_
 
@@ -5215,4 +5242,4 @@ _Simulation:_
 
 ![Simulation](https://diversewolken.ddns.net/nextcloud/index.php/s/FpZnAFjmqEKpWjo/download)
 
-</p>
+</details>

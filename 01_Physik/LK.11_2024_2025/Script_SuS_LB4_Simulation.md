@@ -279,7 +279,6 @@ __Unterschiede zwischen Simulation und Experiment:__
 
 </p>
 
-
 ### 4.2.4 Modelierung Dachdecker-Aufzug
 
 ![DDAufzug](https://www.kranzubehoer.com/images/product_images/info_images/Kranmeister_Dachdeckeraufzug.jpg) @color(Es wird ein Demonstationsexperiment zu einem Modell eines Dachdeckeraufzugs gezeigt., blue)
@@ -303,6 +302,8 @@ __Aufgabenstellung:__ (1-4) gemeinsam | (5-9) selbsständig
 8. Vergleiche die ermittelten Beschleunigungen $a_{reg}$ und $a_{sim}$. Diskutiere Gründe für eventuelle Unterschiede.
 
 9. Untersuche für den Messaufbau wesentliche Fehlerquellen.
+
+10. Diagramm (@color(mit Namen,red)) können [hier](https://diversewolken.ddns.net/nextcloud/index.php/s/EsCQXsMK5kwK7ia) hochgeladen und ausgedruckt werden
 
 __Vorbetrachtung:__ Physikalische Grundlagen + Programmcode
 
@@ -337,7 +338,7 @@ $$ \mathrm{d}s = v \cdot \mathrm{d}t $$
 
 <p class="cb">
 
-__Moebius - Programmcode__ <br> (_erstmal selbst probieren, dann kontrollieren_)
+__Moebius - Programmcode__
 
 <details>
 
@@ -345,19 +346,7 @@ __Moebius - Programmcode__ <br> (_erstmal selbst probieren, dann kontrollieren_)
 
 ```
 
-Fg = m1 * g
 
-Fr = m2 * g * cosa * mu
-
-F = Fg - Fr
-
-a = F/(m1+m2)
-
-v = v + a*dt
-
-s = s + v*dt
-
-t = t + dt
 
 ```
 
@@ -369,7 +358,21 @@ t = t + dt
 
 __Versuchsaufbau/Materialien:__
 
+<p class="newspaper">
+
+__Foto:__
+
+![Foto](https://diversewolken.ddns.net/nextcloud/index.php/s/4tkfQFenHKaKmFk/download)
+
+<p class="cb">
+
+__Skizze:__
+
 ![VersuchsAufbau](https://diversewolken.ddns.net/nextcloud/index.php/s/zbAYMGQggBjzkN5/download)
+
+</p>
+
+</p>
 
 __Messwerte:__
 
@@ -388,3 +391,7 @@ _Simulation:_
 ![Simulation](https://diversewolken.ddns.net/nextcloud/index.php/s/FpZnAFjmqEKpWjo/download)
 
 </p>
+
+__Fehlerbetrachtung:__
+
+__Ergebnis:__
