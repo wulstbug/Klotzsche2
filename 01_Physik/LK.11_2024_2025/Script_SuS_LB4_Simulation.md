@@ -313,6 +313,7 @@ __Vorbetrachtung:__ Physikalische Grundlagen + Programmcode
 
 <p class="newspaper">
 
+
 __Formeln:__
 
 Gewichtskraft:
@@ -323,9 +324,13 @@ Reibungskraft:
 
 $$ F_r = m_2 \cdot g \cdot \cos\alpha \cdot \mu_r $$
 
+Hangabtriebskraft:
+
+$$ F_h = m_2 \cdot g \cdot \sin\alpha $$
+
 Beschleunigende Kraft:
 
-$$ F = F_g - F_r $$
+$$ F = F_g - F_r - F_h $$
 
 Beschleunigung:
 
@@ -338,7 +343,6 @@ $$ \mathrm{d}v = a \cdot \mathrm{d}t $$
 Ortsänderung:
 
 $$ \mathrm{d}s = v \cdot \mathrm{d}t $$
-
 
 <p class="cb">
 
