@@ -5183,7 +5183,7 @@ Fr = m2 * g * cosa * mu
 
 Fh = m2 * g * sina
 
-F = Fg - Fr
+F = Fg - Fr - Fh
 
 a = F/(m1+m2)
 
