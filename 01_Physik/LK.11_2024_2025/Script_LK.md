@@ -4922,6 +4922,10 @@ __Umformung:__
 
 ![ModellierungSimulation](https://diversewolken.ddns.net/nextcloud/index.php/s/ETBrpgNNii6A2gE/download)
 
+**Download-Link der Simulationssofter _Moebius_:**
+
+[Moebius-Lizenz-Sachsen](https://www.primtext.de/moebius/moeb-setup-sachsen.exe)
+
 </p>
 
 ## 4.1 Einführung
@@ -5243,3 +5247,60 @@ _Simulation:_
 ![Simulation](https://diversewolken.ddns.net/nextcloud/index.php/s/FpZnAFjmqEKpWjo/download)
 
 </details>
+
+## 4.3 Hinweise zur Erstellung eines Protokolls
+
+<p class="newspaper">
+
+Beim **Auswerten eines Experiments** werden Vergleiche durchgeführt, Diagramme angefertigt und interpretiert, Berechnungen vorgenommen und analysiert.  
+Bestandteil der Auswertung vieler Experimente sind Fehlerbetrachtungen zur Abschätzung der Genauigkeit der Messungen.
+
+__Zu jedem Experiment gehört ein Protokoll__
+
+Bestandteile eines solchen Protokolls sind neben Name und Datum:
+
+- **Aufgabe**
+
+- **Vorbereitung** (theoretische Grundlagen, Geräte und Hilfsmittel, experimentierte Ordnung, Messwertetabellen)
+
+- **Durchführung** (Erfassung der Beobachtungen und der Messungen)
+
+- **Auswertung** mit Fehlerbetrachtung und Formulierung eines Ergebnisses mit Bezug auf die Aufgabe
+
+<p class="cb">
+
+<!-- style="width:50%" -->
+``` ascii 
+
+o------------------o
+|                  |
+| Aufgabenstellung |<-o
+|                  |  |
+o--------o---------o  |
+         |            |
+         v            |
+o------------------o  |
+|                  |  |
+|   Vorbereitung   |  |
+|                  |  |
+o--------o---------o  |
+         |            |
+         v            |
+o------------------o  |
+|                  |  |
+|   Durchführung   |  |
+|                  |  |
+o--------o---------o  |
+         |            |
+         v            |
+o------------------o  |
+|                  |  |
+|    Auswertung    o--o
+|                  |
+o------------------o
+
+```
+
+</p>
+
+</p>
