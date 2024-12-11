@@ -111,7 +111,7 @@ window.LIA.settings.font_size = 2
 
 ![ModellierungSimulation](https://diversewolken.ddns.net/nextcloud/index.php/s/ETBrpgNNii6A2gE/download)
 
-**Download-Link der Simulationssofter _Moebius_:**
+**Download-Link der Simulationssoftware _Moebius_:**
 
 [Moebius-Lizenz-Sachsen](https://www.primtext.de/moebius/moeb-setup-sachsen.exe)
 
@@ -388,7 +388,7 @@ __Auswertung:__
 
 _Regression:_
 
-![Regression](https://diversewolken.ddns.net/nextcloud/index.php/s/zbAYMGQggBjzkN5/download)
+![Regression](https://diversewolken.ddns.net/nextcloud/index.php/s/Ax9rHc78wEPsEBH/download)
 
 _Simulation:_
 
