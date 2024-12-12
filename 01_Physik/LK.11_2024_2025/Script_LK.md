@@ -5248,9 +5248,76 @@ _Regression:_
 
 ![Regression](https://diversewolken.ddns.net/nextcloud/index.php/s/Ax9rHc78wEPsEBH/download)
 
+__Überprüfen:__
+
+<p style="margin-left:5%">
+
+__Beschleunigung:__
+
+@rangeQuiz2($a_{reg}$, 0.0676 , $\frac{m}{s^2}$)
+
+</p>
+
 _Simulation:_
 
 ![Simulation](https://diversewolken.ddns.net/nextcloud/index.php/s/FpZnAFjmqEKpWjo/download)
+
+__Überprüfen 7.:__
+
+<p style="margin-left:5%">
+
+__Reibungskoeffizient:__
+
+@rangeQuiz20( $\mu_r$, 0.226 ,  )
+
+__Reibungskraft:__
+
+@rangeQuiz20( $F_r$, 0.4937 , $N$ )
+
+__Beschleunigung:__
+
+@rangeQuiz20( $a_{sim}$, 0 , $\frac{m}{s^2}$ )
+
+</p>
+
+__Weitere Auswertung:__
+
+<p style="margin-left:5%">
+
+__11. Ermitteln Sie aus der Simulation die Geschwindigkeit des Körpers 2 bei $t=1s$ und $t=2s$.__
+
+<br>
+
+@rangeQuiz20( $t=1s$ -> $v$, 0.126 , $\frac{m}{s}$ )
+
+@rangeQuiz20( $t=2s$ -> $v$, 0.253 , $\frac{m}{s}$ )
+
+__12. Ermitteln Sie die Geschwindigkeiten nach $t=1s$ und $t=2s$ für den reibungsfreien Fall.__
+
+<br>
+
+@rangeQuiz20( $t=1s$ -> $v$, 1.387 , $\frac{m}{s}$ )
+
+@rangeQuiz20( $t=2s$ -> $v$, 2.75 , $\frac{m}{s}$ )
+
+<details>
+
+<summary> Hinweis: </summary>
+
+Nutzen Sie das zweite Newton'sche Gesetz
+
+</details>
+
+<details>
+
+<summary> Lösung </summary>
+
+![Lsg_ReibFreier_Fall](https://diversewolken.ddns.net/nextcloud/index.php/s/xadm5FofzDyi9RN/download)
+
+</details>
+
+</p>
+
 
 </details>
 
