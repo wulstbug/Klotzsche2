@@ -1042,7 +1042,7 @@ __2. Idealer Transformator: Berechnen__
 
 !?[WasIStEinTransformator](https://diversewolken.ddns.net/nextcloud/index.php/s/Z6E3QPJyaTccksw/download)
 
-### Widerholung Transformator
+### Wiederholung Transformator
 
 1. Bei einem idealen Transformator sei die Sekundärwindungszahl größer als die Primärwindungszahl. Kreuze die richtige Aussage an.
 
@@ -1235,7 +1235,7 @@ __4. Durchführung:__
 >
 > - ändere am Cassy-Messgerät 2 ebenfalls die Erfassung auf @color(effektive Werte AC, orange)
 >
-> - ändere den __Bereich__ auf @color(0 .. 30 V, orange)
+> - ändere den __Bereich__ auf @color(0 .. 21 V, orange)
 
 __5. Messwerte:__
 
