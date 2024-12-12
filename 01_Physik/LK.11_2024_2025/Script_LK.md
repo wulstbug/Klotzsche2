@@ -5276,7 +5276,7 @@ __Reibungskraft:__
 
 __Beschleunigung:__
 
-@rangeQuiz20( $a_{sim}$, 0 , $\frac{m}{s^2}$ )
+@rangeQuiz20( $a_{sim}$, 0.126 , $\frac{m}{s^2}$ )
 
 </p>
 
