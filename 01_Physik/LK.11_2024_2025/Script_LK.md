@@ -5377,3 +5377,31 @@ o------------------o
 </p>
 
 </p>
+
+## Rückgabe Protokoll
+
+@uhr
+
+<details>
+
+<summary> Verteilung </summary>
+
+![Ergebnisse](https://diversewolken.ddns.net/nextcloud/index.php/s/b9cBeyfeaDi2ZzE/download)
+
+</details>
+
+<details>
+
+<summary> Hinweise </summary>
+
+- Hinweise zu Grenzen beachten $\Delta h  \geqq 0,4 m$ 
+
+- bei der Erstellung von Regressions-Graphen auf die Zuordnung von x-Achse (oft Zeit) und y-Achse (oft s, v, a) achten
+
+- richtig runden
+
+- physikalische Größen @color{mit Einheiten, red} angeben
+
+- Energieumwandlungen
+
+</details>
