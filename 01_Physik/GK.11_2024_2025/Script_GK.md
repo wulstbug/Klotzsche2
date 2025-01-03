@@ -18,6 +18,11 @@ language: de
         column-gap: 40px;
         column-rule: 1px solid lightblue;
     }
+    .newspaper3 {
+        column-count: 3;
+        column-gap: 20px;
+        column-rule: 1px solid lightblue;
+    }
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -2968,3 +2973,211 @@ Während Messzeit abgeflossene Ladung:
 </p>
 
 </details>
+
+## Rückgabe Protokoll 11.1
+
+@uhr
+
+<details>
+
+<summary> Notenspiegel </summary>
+
+![Verteilung](https://diversewolken.ddns.net/nextcloud/index.php/s/LDXKwH4bE47Ak5M/download)
+
+__Korrekturzeichen:__
+
+- __ug:__ ungenau
+
+- __uv:__ unvollständig
+
+- __Bg:__ fehlende oder falsche Begründung
+
+</details>
+
+# Grundkurs Physik 2024/2025 - LB III Das Magnetische Feld
+
+![MagnetischesFeld](https://www.mozaweb.com/de/mozaik3D/FOL/termeszet/foldi_magneses_mezo/960.jpg)
+
+{{1}}
+***********
+> __Das magnetische Feld__ ist, ebenso wie das elektrische Feld, @color(ein Modell, red) um den Einfluss von @color(magnetischen Kräften im Raum um einen Magneten, blue) darzustellen.
+***********
+
+## 1.1 Vergleich von elektrischen und magnetischen Feldern
+
+<p class="newspaper3">
+
+__Name__
+
+<p class="cb">
+
+__Elektrisches Feld__
+
+
+<p class="cb">
+
+__Magnetisches Feld__
+
+</p>
+
+</p>
+
+</p>
+
+---
+
+<p class="newspaper3">
+
+_Ursache sind_
+
+<p class="cb">
+
+__elektrische Ladungen Q__.
+
+<p class="cb">
+
+__Dauermagnete__ und __bewegte elektrische Ladungen (elektrischer Strom)__
+
+</p>
+
+</p>
+
+</p>
+
+---
+
+<p class="newspaper3">
+
+_Darstellung durch_
+
+<p class="cb">
+
+Elektrische Feldlinien
+
+![Dipolfeld](https://diversewolken.ddns.net/nextcloud/index.php/s/RoDMrztJdHLrSyN/download)
+
+<p class="cb">
+
+Magnetische Feldlinien
+
+![WikimediaMagnetischesFeld](https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/VFPt_cylindrical_magnet_thumb.svg/1280px-VFPt_cylindrical_magnet_thumb.svg.png)
+
+</p>
+
+</p>
+
+</p>
+
+---
+
+<p class="newspaper3">
+
+_Verdeutlicht wird die_
+
+<p class="cb">
+
+__Wirkung der elektrischen Kraft__ auf eine <span style="color:orange">positive Probeladung</span>.
+
+<p class="cb">
+
+__Wirkung der magnetischen Kraft__ auf einen @color(anderen Magneten,orange) oder auf @color(eine bewegte Ladung, orange).
+
+</p>
+
+</p>
+
+</p>
+
+---
+
+<p class="newspaper3">
+
+_Eigenschaften sind_
+
+<p class="cb">
+
+- Feldlinien verlaufen von @color($\oplus$, red) nach @color($\ominus$, blue)
+
+<br>
+
+- elektrischen Kräfte wirken __entlang (d.h. tangetial)__ der Feldlinien
+
+- je dichter die Feldlinien, desto größer die Kraft
+
+<p class="cb">
+
+- Feldlinien verlaufen vom @color(Nordpol, red) zum @color(Südpol, blue)
+
+- magnetischen Kräfte wirken __entlang (d.h. tangetial)__ der Feldlinien
+
+- je dichter die Feldlinien, desto größer die Kraft
+
+</p>
+
+</p>
+
+</p>
+
+---
+
+@color(Selbstständiges Arbeiten, blue)
+
+<p style="margin-left:5%">
+
+<br>
+
+@color(__Aufgabe:1.1__ Ergänze diese Übersicht magnetischen Feldern durch eine eigene Recherche. Zeichne dazu einige Arten von Magneten und die zugehörigen Felder in deinen Hefter., blue)
+
+<br>
+
+@color(__Aufgabe 1.2.__ Ergänze diese Übersicht mit zwei Beispielen für homogene magnetische Felder, blue)
+
+<br>
+
+@color(__Aufgabe 1.3.__ Ergänze diese Übersicht mit Erklärungen zur Kraftwirkung zwischen Magneten., blue)
+
+<br><br>
+
+@color(Nutze hierfür z.B. folgende Links:, blue)
+
+<br>
+
+- [Arten von Magneten](https://www.abi-physik.de/buch/das-magnetfeld/dauer--und-elektromagnete/)
+
+- [Homogene Felder](https://www.abi-physik.de/buch/das-magnetfeld/homogenes-magnetfeld/)
+
+---
+
+
+!?[XeniusMagnetismusUnsichtbareKraft](https://www.youtube.com/watch?v=mlt9JcRpzYg)
+
+</p>
+
+<p class="newspaper3">
+
+_Arten von Feldern_
+
+<p class="cb">
+
+homogenes Feld (im Plattenkondensator)
+
+![HomogenesFeld](https://diversewolken.ddns.net/nextcloud/index.php/s/fpKSpwGykqjMJZP/download)
+
+
+<p class="cb">
+
+homogenes Feld (im Inneren eines Hufeisenmagneten)
+
+![HomogenesFeld](https://www.abi-physik.de/images/devpages/homogenes-magnetfeld-spule.png)
+
+homogenes Feld (im Inneren einer Spule)
+
+![HomogenesFeldHufeisenmagnet](https://www.abi-physik.de/images/devpages/homogenes-magnetfeld-1.png)
+
+</p>
+
+</p>
+
+</p>
+
+---
