@@ -3212,57 +3212,119 @@ homogenes Feld (im Inneren einer Spule)
 
 ### Aufgaben zur Überprüfung
 
-1. Das Magnetfeld der Erde gleich dem eines .. <br>
+1. Das Magnetfeld der Erde gleich dem eines/r .. <br>
 _Hinweis: Die folgenden Formen der magnetischen Felder solltest du im Hefter haben._
 
 <!-- data-solution-button="off" -->
-[[ ]] Hufeisenmagneten
-[[x]] Stabmagneten
-[[ ]] Stromdurchflossenen Leites
-[[ ]] Stromdurchflossenen Spule
+[( )] Hufeisenmagneten
+[(x)] Stabmagneten
+[( )] Stromdurchflossenen Leites
+[( )] Stromdurchflossenen Spule
 
 ---
 
-2. Das hier gezeigte Magnetfeld gehört zu einem
+2. Das hier gezeigte Magnetfeld gehört zu einem/r
 
 ![Hufeisenmagnet](https://www.abi-physik.de/images/devpages/hufeisenmagnet.png)
 
 <!-- data-solution-button="off" -->
-[[x]] Hufeisenmagneten
-[[ ]] Stabmagneten
-[[ ]] Stromdurchflossenen Leites
-[[ ]] Stromdurchflossenen Spule
+[(x)] Hufeisenmagneten
+[( )] Stabmagneten
+[( )] Stromdurchflossenen Leiters
+[( )] Stromdurchflossenen Spule
 
 ---
 
-3. Das hier gezeigte Magnetfeld ähnelt dem eines
+3. Welche der folgenden Aussagen über das Erdmagnetfeld ist falsch?
 
-![Erdmagnetfeld](https://www.mozaweb.com/de/mozaik3D/FOL/termeszet/foldi_magneses_mezo/960.jpg)
+<!-- data-solution-button="off" -->
+[[ ]] Der magnetische Nordpol der Erde befindet sich nahe dem geografischen Südpol.
+[[ ]] Das Erdmagnetfeld schützt die Erde vor kosmischer Strahlung.
+[[C]] Die Stärke des Erdmagnetfelds ist überall auf der Erde gleich.
+[[ ]] Die Polarität des Erdmagnetfelds kann sich im Laufe der Zeit umkehren.
+
+---
+
+4. Erkunden Sie, ob auch andere Planeten ein Magnetfeld besitzen.
+
+---
+
+5. Markieren Sie das Magnetfeld eines stromdurchflossenen Leiters.
+
+<!-- data-solution-button="off" -->
+[( )] ![Hufeisenmagnet](https://www.abi-physik.de/images/devpages/hufeisenmagnet.png)
+[( )] ![Stabmagnet](https://www.abi-physik.de/images/devpages/stabmagnet.png)
+[(x)] ![Leiter](https://www.abi-physik.de/images/devpages/leiter.png)
+[( )] ![Spule](https://www.abi-physik.de/images/devpages/spule.png)
+
+---
+
+6. Dauermagnete (Permanentmagnete) sind Stoffe, die ihre Umgebung dauerhaft magnetisch beeinflussen. Sie bestehen aus.. (_Vgl. LB S. 102_)
+
+<!-- data-solution-button="off" -->
+[[x]] Magnesium
+[[ ]] Eisen
+[[ ]] Aluminium
+[[ ]] Zink
+[[ ]] Kupfer
+[[ ]] Zinn
+[[x]] Cobalt
+[[x]] Nickel
+
+---
+
+7. Der magnetische Nordpol der Erde befindet sich in der Nähe des
+
+<!-- data-solution-button="off" -->
+[( )] geographischen Nordpols
+[(x)] geographischen Südpols
+[( )] Nullmeridians
+[( )] Äquators
+
+---
+
+8. Durch welche Anordnung könnten die abgebildeten Magnetfelder erzeugt worden sein (siehe LB S. 124/Aufgabe 27).
+
+a)
+
+<!-- data-solution-button="off" -->
+[[ ]] Hufeisenmagneten
+[[x]] Stabmagneten
+[[ ]] Stromdurchflossener Leiter
+[[x]] Stromdurchflossene Spule
+
+b)
 
 <!-- data-solution-button="off" -->
 [[x]] Hufeisenmagneten
 [[ ]] Stabmagneten
-[[ ]] Stromdurchflossenen Leites
-[[ ]] Stromdurchflossenen Spule
+[[ ]] Stromdurchflossener Leiter
+[[x]] Stromdurchflossene Spule
 
 ---
 
-4. Dauermagnete (Permanentmagnete) sind Stoffe, die ihre Umgebung dauerhaft magnetisch beeinflussen. Sie bestehen aus.. (_Vgl. LB S. 102_)
+9. Welcher der folgenden Prozesse erzeugt kein Magnetfeld?
 
 <!-- data-solution-button="off" -->
-[(x)] Magnesium
-[( )] Eisen
-[( )] Aluminium
-[( )] Zink
-[( )] Kupfer
-[( )] Zinn
-[(x)] Cobalt
-[(x)] Nickel
+[[ ]] Ein elektrisch geladenes Teilchen bewegt sich mit konstanter Geschwindigkeit.
+[[ ]] Ein stromdurchflossener Leiter.
+[[x]] Ein statischer elektrischer Dipol.
+[[ ]] Eine Spule mit wechselndem Strom.
 
-5. Der magnetische Nordpol der Erde befindet sich in der Nähe des
+---
+
+10. Welche Aussage über Magnetfeldlinien ist falsch?
 
 <!-- data-solution-button="off" -->
-[[ ]] geographischen Nordpols
-[[x]] geographischen Südpols
-[[ ]] Nullmeridians
-[[ ]] Äquators
+[[ ]] Magnetfeldlinien sind geschlossene Kurven und haben keinen Anfang und kein Ende.
+[[ ]] Magnetfeldlinien verlaufen außerhalb eines Magneten vom Nordpol zum Südpol.
+[[x]] Magnetfeldlinien können sich in einem homogenen Magnetfeld überschneiden.
+[[ ]] Die Dichte der Magnetfeldlinien gibt die Stärke des Magnetfeldes an.
+
+11. Welche der folgenden Aussagen ist korrekt?
+
+<!-- data-solution-button="off" -->
+[[ ]] Das Magnetfeld um einen stromdurchflossenen Leiter ist entlang der Leiterachse ausgerichtet.
+[[ ]] Das Magnetfeld um einen stromdurchflossenen Leiter ist radial nach außen gerichtet.
+[[x]] Das Magnetfeld um einen stromdurchflossenen Leiter ist kreisförmig und konzentrisch um den Leiter angeordnet.
+[[ ]] Das Magnetfeld um einen stromdurchflossenen Leiter existiert nur, wenn der Strom sinusförmig wechselt.
