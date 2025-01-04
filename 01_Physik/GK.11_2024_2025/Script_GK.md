@@ -3240,7 +3240,7 @@ _Hinweis: Die folgenden Formen der magnetischen Felder solltest du im Hefter hab
 <!-- data-solution-button="off" -->
 [[ ]] Der magnetische Nordpol der Erde befindet sich nahe dem geografischen Südpol.
 [[ ]] Das Erdmagnetfeld schützt die Erde vor kosmischer Strahlung.
-[[C]] Die Stärke des Erdmagnetfelds ist überall auf der Erde gleich.
+[[x]] Die Stärke des Erdmagnetfelds ist überall auf der Erde gleich.
 [[ ]] Die Polarität des Erdmagnetfelds kann sich im Laufe der Zeit umkehren.
 
 ---
@@ -3262,8 +3262,8 @@ _Hinweis: Die folgenden Formen der magnetischen Felder solltest du im Hefter hab
 6. Dauermagnete (Permanentmagnete) sind Stoffe, die ihre Umgebung dauerhaft magnetisch beeinflussen. Sie bestehen aus.. (_Vgl. LB S. 102_)
 
 <!-- data-solution-button="off" -->
-[[x]] Magnesium
-[[ ]] Eisen
+[[ ]] Magnesium
+[[x]] Eisen
 [[ ]] Aluminium
 [[ ]] Zink
 [[ ]] Kupfer
