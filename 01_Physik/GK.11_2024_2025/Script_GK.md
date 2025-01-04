@@ -3032,11 +3032,11 @@ _Ursache sind_
 
 <p class="cb">
 
-__elektrische Ladungen Q__.
+{1}{__elektrische Ladungen Q__}
 
 <p class="cb">
 
-__Dauermagnete__ und __bewegte elektrische Ladungen (elektrischer Strom)__
+{2}{__Dauermagnete__ und __bewegte elektrische Ladungen (elektrischer Strom)__}
 
 </p>
 
@@ -3051,17 +3051,19 @@ __Dauermagnete__ und __bewegte elektrische Ladungen (elektrischer Strom)__
 _Darstellung durch_
 
 <p class="cb">
-
+{{3}}
+********
 Elektrische Feldlinien
 
 ![Dipolfeld](https://diversewolken.ddns.net/nextcloud/index.php/s/RoDMrztJdHLrSyN/download)
-
+********
 <p class="cb">
-
+{{4}}
+********
 Magnetische Feldlinien
 
 ![WikimediaMagnetischesFeld](https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/VFPt_cylindrical_magnet_thumb.svg/1280px-VFPt_cylindrical_magnet_thumb.svg.png)
-
+********
 </p>
 
 </p>
@@ -3076,11 +3078,11 @@ _Verdeutlicht wird die_
 
 <p class="cb">
 
-__Wirkung der elektrischen Kraft__ auf eine <span style="color:orange">positive Probeladung</span>.
+{5}{__Wirkung der elektrischen Kraft__ auf eine <span style="color:orange">positive Probeladung</span>.}
 
 <p class="cb">
 
-__Wirkung der magnetischen Kraft__ auf einen @color(anderen Magneten,orange) oder auf @color(eine bewegte Ladung, orange).
+{6}{__Wirkung der magnetischen Kraft__ auf einen @color(anderen Magneten,orange) oder auf @color(eine bewegte Ladung, orange).}
 
 </p>
 
@@ -3095,7 +3097,8 @@ __Wirkung der magnetischen Kraft__ auf einen @color(anderen Magneten,orange) ode
 _Eigenschaften sind_
 
 <p class="cb">
-
+{{7}}
+********
 - Feldlinien verlaufen von @color($\oplus$, red) nach @color($\ominus$, blue)
 
 <br>
@@ -3103,14 +3106,22 @@ _Eigenschaften sind_
 - elektrischen Kräfte wirken __entlang (d.h. tangetial)__ der Feldlinien
 
 - je dichter die Feldlinien, desto größer die Kraft
+********
 
 <p class="cb">
 
+{{8}}
+********
 - Feldlinien verlaufen vom @color(Nordpol, red) zum @color(Südpol, blue)
 
-- magnetischen Kräfte wirken __entlang (d.h. tangetial)__ der Feldlinien
+- magnetische Kräfte mit Hilfe der Feldlinien ableitbar (siehe __Lorentzkraft__)
 
 - je dichter die Feldlinien, desto größer die Kraft
+
+- Feldlinien sind @color(__immer__,red) geschlossen (kein Anfang oder Ende)
+
+- sie verlaufen außerhalb des Magneten von @color(__N__,red)->@color(__S__, blue) und innerhalb von @color(__S__, blue)->@color(__N__,red)
+********
 
 </p>
 
@@ -3119,6 +3130,9 @@ _Eigenschaften sind_
 </p>
 
 ---
+
+{{9}}
+********
 
 @color(Selbstständiges Arbeiten, blue)
 
@@ -3126,19 +3140,23 @@ _Eigenschaften sind_
 
 <br>
 
-@color(__Aufgabe:1.1__ Ergänze diese Übersicht magnetischen Feldern durch eine eigene Recherche. Zeichne dazu einige Arten von Magneten und die zugehörigen Felder in deinen Hefter., blue)
+@color(__Aufgabe:1.1__ Ergänze diese Übersicht zu magnetischen Feldern durch eine eigene Recherche. Zeichne dazu einige Arten von Magneten und die zugehörigen Felder in deinen Hefter., blue)
 
 <br>
 
-@color(__Aufgabe 1.2.__ Ergänze diese Übersicht mit zwei Beispielen für homogene magnetische Felder, blue)
+@color(__Aufgabe 1.2.__ Ergänze diese Übersicht mit zwei Beispielen für homogene magnetische Felder. Wiederhole die Definition von __homogen__., blue)
 
 <br>
 
-@color(__Aufgabe 1.3.__ Ergänze diese Übersicht mit Erklärungen zur Kraftwirkung zwischen Magneten., blue)
+@color(__Aufgabe 1.3.__ Ergänze diese Übersicht mit Erklärungen zur anziehenden und abstoßenden Kraftwirkung zwischen Magneten., blue)
+
+<br>
+
+<bdi style="color:blue">__Aufgabe 1.4.__ Notiere Stichpunkte zum Erdmagnetfeld. Gehe dabei auf die Lage der magnetischen Pole, das Feldlinienbild und die Funktion als Schutzschild für die Erde ein.</bdi>
 
 <br><br>
 
-@color(Nutze hierfür z.B. folgende Links:, blue)
+@color(Nutze hierfür z.B. folgende Quellen:, blue)
 
 <br>
 
@@ -3146,13 +3164,22 @@ _Eigenschaften sind_
 
 - [Homogene Felder](https://www.abi-physik.de/buch/das-magnetfeld/homogenes-magnetfeld/)
 
----
-
-
-!?[XeniusMagnetismusUnsichtbareKraft](https://www.youtube.com/watch?v=mlt9JcRpzYg)
+- LB S. 102, 103, 104
 
 </p>
 
+---
+
+********
+
+
+{{10}}
+********
+!?[XeniusMagnetismusUnsichtbareKraft](https://www.youtube.com/watch?v=mlt9JcRpzYg)
+********
+
+{{11}}
+********
 <p class="newspaper3">
 
 _Arten von Feldern_
@@ -3181,3 +3208,61 @@ homogenes Feld (im Inneren einer Spule)
 </p>
 
 ---
+********
+
+### Aufgaben zur Überprüfung
+
+1. Das Magnetfeld der Erde gleich dem eines .. <br>
+_Hinweis: Die folgenden Formen der magnetischen Felder solltest du im Hefter haben._
+
+<!-- data-solution-button="off" -->
+[[ ]] Hufeisenmagneten
+[[x]] Stabmagneten
+[[ ]] Stromdurchflossenen Leites
+[[ ]] Stromdurchflossenen Spule
+
+---
+
+2. Das hier gezeigte Magnetfeld gehört zu einem
+
+![Hufeisenmagnet](https://www.abi-physik.de/images/devpages/hufeisenmagnet.png)
+
+<!-- data-solution-button="off" -->
+[[x]] Hufeisenmagneten
+[[ ]] Stabmagneten
+[[ ]] Stromdurchflossenen Leites
+[[ ]] Stromdurchflossenen Spule
+
+---
+
+3. Das hier gezeigte Magnetfeld ähnelt dem eines
+
+![Erdmagnetfeld](https://www.mozaweb.com/de/mozaik3D/FOL/termeszet/foldi_magneses_mezo/960.jpg)
+
+<!-- data-solution-button="off" -->
+[[x]] Hufeisenmagneten
+[[ ]] Stabmagneten
+[[ ]] Stromdurchflossenen Leites
+[[ ]] Stromdurchflossenen Spule
+
+---
+
+4. Dauermagnete (Permanentmagnete) sind Stoffe, die ihre Umgebung dauerhaft magnetisch beeinflussen. Sie bestehen aus.. (_Vgl. LB S. 102_)
+
+<!-- data-solution-button="off" -->
+[(x)] Magnesium
+[( )] Eisen
+[( )] Aluminium
+[( )] Zink
+[( )] Kupfer
+[( )] Zinn
+[(x)] Cobalt
+[(x)] Nickel
+
+5. Der magnetische Nordpol der Erde befindet sich in der Nähe des
+
+<!-- data-solution-button="off" -->
+[[ ]] geographischen Nordpols
+[[x]] geographischen Südpols
+[[ ]] Nullmeridians
+[[ ]] Äquators
