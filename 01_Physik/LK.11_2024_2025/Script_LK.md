@@ -5472,7 +5472,7 @@ Visualisierung zufälliger Fehler beim 110m Hürdenlauf
 
 <p class="cb">
 
-!?[Hürdenlauf](https://diversewolken.ddns.net/nextcloud/index.php/f/146626)
+!?[Hürdenlauf](https://diversewolken.ddns.net/nextcloud/index.php/f/146626/download)
 
 ??[Messwert-Eingabe](https://diversewolken.ddns.net:8080/survey/access/y7aftu2z)
 
