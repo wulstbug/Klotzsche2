@@ -5447,7 +5447,7 @@ o------------------o
 
 Visualisierung zufälliger Fehler beim 110m Hürdenlauf
 
-- wähle auf deinem Handy die Stoppuhr
+- wähle auf deinem Tablet die Stoppuhr
 
 - nutze für folgende Messung die Rundenfunktion
 
