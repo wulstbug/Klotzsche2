@@ -569,7 +569,42 @@ o------------------o
 
 </p>
 
-## 4.4 Fehler
+## 4.4 Fehlerbetrachtung und Fehlerrechnung
+
+> Der Begriff @color(__Fehler__, red) wird in physikalischen Experimenten als Synonym für @color(__Messungenauigkeit__, red) genutzt. <br> Hierbei handelt es sich __nicht__, um Rechenfehler oder Ablesefehler, d.h. um _Schludrigkeit des/r Experimentierenden_.
+
+> Die Summer aller nicht erfassbaren __systematischen__ und __zufälligen__ Fehler ergibt den Größtfehler der Messung.
+
+``` ascii
+
+                       .------------------------------------.
+                       |  Messwerte xᵢ der physik. Größe x  |
+                       .------------------.-----------------.
+                                          |
+       .----------------------------------.-------------------------------------.
+       |                                                                        |
+       v                                                                        v
+.------------------.                                                   .------------------.
+| systematische    |                                                   | zufällige Fehler |
+| Fehler           |                                                   .------------------.
+.--------.---------.                                                            | 
+         |                                                                      |
+     .----------------------------------------------.                           | 
+     |                                              |                           |
+     v                                              v                           |
+.-------------------------.               .--------------------------.          |
+| erfassbare              |               | nicht erfassbare         |          |
+| systematische Fehler    |               | systematische Fehler     |          |
+.-------------------------.               └------------.-------------.          |
+                                                                   |            |
+                                                                   v            v
+                                                                .--------------------------.
+                                                                |  Größtfehler der Messung |
+                                                                .--------------------------.
+
+```
+
+### SE - Messfehler Zeitmessung
 
 Visualisierung zufälliger Fehler beim 110m Hürdenlauf
 
@@ -603,5 +638,3 @@ Visualisierung zufälliger Fehler beim 110m Hürdenlauf
 </p>
 
 </p>
-
-??[Link zu Ergebnisse](https://diversewolken.ddns.net:8080/survey/results/y7aftu2z)

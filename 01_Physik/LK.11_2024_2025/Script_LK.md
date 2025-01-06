@@ -5441,3 +5441,43 @@ o------------------o
                                                                 .--------------------------.
 
 ```
+
+
+### SE - Messfehler Zeitmessung
+
+Visualisierung zufälliger Fehler beim 110m Hürdenlauf
+
+- wähle auf deinem Handy die Stoppuhr
+
+- nutze für folgende Messung die Rundenfunktion
+
+- bestimme bei jedem Sprung über die Hürden die Rundenzeit
+
+<p class="newspaper">
+
+| # | Zeit t in s | Strecke s in m |
+| ---------: | :--------- | :--------- |
+| 0 | 0 | 0 |
+| 1 |  | 13,72 |
+| 2 |  | 22,86 |
+| 3 |  | 32 |
+| 4 |  | 41,14 |
+| 5 |  | 50,28 |
+| 6 |  | 59,42 |
+| 7 |  | 68,56 |
+| 8 |  | 77,7 |
+| 9 |  | 86,84 |
+| 10 |  | 95,98 |
+| 11 |  | 110 |
+
+<p class="cb">
+
+!?[Hürdenlauf](https://diversewolken.ddns.net/nextcloud/index.php/f/146626)
+
+??[Messwert-Eingabe](https://diversewolken.ddns.net:8080/survey/access/y7aftu2z)
+
+</p>
+
+</p>
+
+??[Link zu Ergebnisse](https://diversewolken.ddns.net:8080/survey/results/y7aftu2z)
