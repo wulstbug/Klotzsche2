@@ -579,6 +579,8 @@ Visualisierung zufälliger Fehler beim 110m Hürdenlauf
 
 - bestimme bei jedem Sprung über die Hürden die Rundenzeit
 
+<p class="newspaper">
+
 | # | Zeit t in s | Strecke s in m |
 | ---------: | :--------- | :--------- |
 | 0 | 0 | 0 |
@@ -594,10 +596,12 @@ Visualisierung zufälliger Fehler beim 110m Hürdenlauf
 | 10 |  | 95,98 |
 | 11 |  | 110 |
 
----
+<p class="cb">
 
 ??[Link zur Umfrage](https://diversewolken.ddns.net:8080/survey/access/y7aftu2z)
 
----
+</p>
 
-??[Link zu Ergebnisse](https://diversewolken.ddns.net:8080/survey/access/y7aftu2z)
+</p>
+
+??[Link zu Ergebnisse](https://diversewolken.ddns.net:8080/survey/results/y7aftu2z)
