@@ -598,7 +598,7 @@ Visualisierung zufälliger Fehler beim 110m Hürdenlauf
 
 <p class="cb">
 
-??[Link zur Umfrage](https://diversewolken.ddns.net:8080/survey/access/y7aftu2z)
+[qr-code](https://diversewolken.ddns.net:8080/survey/access/y7aftu2z)
 
 </p>
 
