@@ -206,7 +206,7 @@ Wandle die folgenden Prozentangaben in Brüche und Dezimalzahlen um:__
 
 ---
 
-Viel Erfolg bei den__Aufgaben! Überprüfe deine Ergebnisse, indem du die Zahlen in den Klammern kontrollierst.
+Viel Erfolg bei den__Aufgaben! 
 
 </p>
 
