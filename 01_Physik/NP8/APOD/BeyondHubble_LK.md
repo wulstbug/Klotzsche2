@@ -1010,3 +1010,27 @@ Bearbeite Aufgabe
 ********
 ![Loesung_4c](https://diversewolken.ddns.net/nextcloud/index.php/s/B5dsSG2nYCrWsrF/download)
 ********
+
+## Lichtweg an Sammel- und Zerstreuungslinsen
+
+> Aufgabe: Konstruiere den Lichtweg in verschiedenen Konfigurationen auf Geogebra.
+>
+> Hinweise: Wechsle im Chromium-Browser zu ogy.de/golnik -> Nawi8 2024-2025 -> Einfache Konstruktionsumgebung
+
+<p class="newspaper">
+
+Konstruiere die Aufgaben a) bis d). Nutze für jede neue Konstruktion einen neuen Tab
+
+![Lichtwege](https://diversewolken.ddns.net/nextcloud/index.php/s/awrkZSn4rQH7ocp/download)
+
+<p class="cb">
+
+- Nutze __Strecke__ für die optische Achse und Linsenebene
+
+- Konstruiere Lichtstrahlen, die (je nach Aufgabe) an der optischen Achse gebrochen werden
+
+- um mehrere Lichtstrahlen anzuzeigen, wähle den Strahl -> Rechtsklick -> Spur anzeigen
+
+</p>
+
+</p>
