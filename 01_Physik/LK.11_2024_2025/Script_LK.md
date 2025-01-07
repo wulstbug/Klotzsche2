@@ -5414,23 +5414,6 @@ o------------------o
 > Die Summer aller nicht erfassbaren __systematischen__ und __zufälligen__ Fehler ergibt den Größtfehler der Messung.
 
 
-{{1}}
-************
-> Der @color(absolute Fehler $\Delta x$, orange) ist ein Maß für die Abweichung der Messwerte vom wahren Wert x
->
-> $\hspace{1cm}$_Beispiel: $\boxed{t = 3s \pm 0,3 s}$ => Hier beträgt der absolute Fehler $\Delta t=0,3s$_
-************
-
-{{2}}
-************
-> Der @color(relative Fehler $\frac{\Delta x}{x}$, orange) ist ein Maß für die Abweichung der Messwerte vom wahren Wert x
->
-> $\hspace{1cm}$_Beispiel: $\boxed{t = 3s \pm 0,3s}$ => Hier beträgt der relative Fehler $\frac{\Delta t}{t}=\frac{0,3s}{3s}=0,1=10\%$_
->
-> _Hinweis: Bei Messgeräten wird häufig der relative Fehler angegeben, typisch sind 2%. D.h. der vom Messgerät_
-************
-
-
 ``` ascii
 
                        .------------------------------------.
@@ -5493,6 +5476,18 @@ __Begriffe:__
 ************
 
 
+{{3}}
+************
+<p style="margin-left:5%;color:blue">
+    Aufgabe: Nutze Duden LB S. 47. 
+    
+    Schau dir das Beispiel zur Zeitmessung an (S.47 oben).
+    
+    Erarbeite dir anschließend die Regeln zur Fehlerfortpflanzung für berechnete Größen. __Notiere__ die Übersicht in der Tabelle in deinen Hefter.
+</p>
+************
+
+
 ### SE - Messfehler Zeitmessung
 
 Visualisierung zufälliger Fehler beim 110m Hürdenlauf
@@ -5535,3 +5530,119 @@ Visualisierung zufälliger Fehler beim 110m Hürdenlauf
 ### OffTopic Tag der offenen Hochschultür
 
 ??[uniLive](https://tud.lineupr.com/unilive/lineup)
+
+### Beispiele zur Fehlerrechnung
+
+
+<p style="margin-left:10%">
+
+Beispiel 1: Der Hersteller eines Spannungsmessgerätes gibt eine Toleranz (Genauigkeit) von 2% auf sein Messgerät an.
+
+Entscheide, um welche Art von Fehler es sich handelt?
+
+[(x)] systematischer Fehler
+[( )] zufälliger Fehler
+
+Bei einer Messung wird eine Spannung von 20 V gemessen. Bestimme 
+
+- den absoluten Fehler der Messung
+
+@rangeQuiz2($\Delta U$, 0.4 , V)
+
+- den relativen Fehler der Messung
+
+@rangeQuiz2($\frac{\Delta U}{U}$, 0.02 , . )
+
+- ab welcher Spannung der absolute Fehler mind. 1V beträgt
+
+@rangeQuiz2($U_{min}$, 50 , V)
+
+---
+
+Beispiel 2: Bei einer Zeitmessung mit einer Stoppuhr, wird der absolute Fehler der Zeitmessung auf 0,2s geschätzt.
+
+Bestimme
+
+- den relativen Fehler in %, bei einer Messzeit von 10 s
+
+@rangeQuiz2($\frac{\Delta t}{t}$, 2 , %)
+
+- die minimale Messzeit, damit der relative Fehler kleiner als 10% ist
+
+@rangeQuiz2($\frac{\Delta t}{t}$, 2 , s)
+
+---
+
+Beispiel 3: Zur Bestimmung des Volumen eines Quaders, wird die Seitenlänge mit einem handelsüblichen Lineal gemessen. Nimm an, dass man die Länge mit einer Genauigkeit von $\pm 0,5 mm$ messen kann. Als Ergebnisse erhält man a=3cm, b=4cm, c=5cm.
+
+- zunächst soll der relative Fehler auf die Messung der Seitenlänge a bestimmt werden
+
+@rangeQuiz2($\frac{\Delta a}{a}$, 0.0167 , . )
+
+Für die Volumenbestimmung wird die Formel $V=a\cdot b \cdot c$ genutzt. Bestimme
+
+- den relativen Fehler auf die Messungen von b und c.
+
+@rangeQuiz2($\frac{\Delta b}{b}$, 0.0167 , . )
+
+@rangeQuiz2($\frac{\Delta c}{c}$, 0.0125 , . )
+
+@rangeQuiz2($\frac{\Delta c}{c}$, 0.01 , . )
+
+- den relativen Fehler auf das Messergebnis Volumen
+
+@rangeQuiz2($\frac{\Delta V}{V}$, 0.039 , . )
+
+<details style="margin-left:5%">
+
+<summary> Hinweis 1 </summary>
+
+Das Volumen V berechnet sich aus dem Produkt von a, b und c. Daher addieren sich die relativen Fehler der Messung zum relativen Gesamtfehler.
+
+<details style="margin-left:5%">
+
+<summary> Hinweis 2 </summary>
+
+$$\frac{\Delta V}{V} = \frac{\Delta a}{a} + \frac{\Delta b}{b} + \frac{\Delta c}{c}$$
+
+</details>
+
+</details>
+
+---
+
+Beispiel 4*: Für die Bestimmung der Dichte $\rho$ eines Würfels wird für die Messung der Masse eine Waage (Genauigkeit 2,5%) und für das Volumen die Überlaufmethode mit einer Genauigkeit des Messbechers von 20ml genutzt.
+
+Bei der Massebestimmung zeigt die Waage den Wert 300g. Das Volumen wird zu 200cm³ bestimmt. Die Dichte kann mit der Formel $\rho = \frac{m}{V}$ berechnet werden.
+
+Bestimme den absoluten und den relativen Fehler der Dichtemessung. Notieren sie das Messergebnis inklusive absoutem Fehler.
+
+<details style="margin-left:5%">
+
+<summary> Zwischenwerte 1</summary>
+
+@rangeQuiz2($ \frac{\Delta m}{m} $, 0.025 , $.$)
+
+@rangeQuiz2($ \frac{\Delta V}{V} $, 0.1 , $.$)
+
+</details>
+
+<details style="margin-left:5%">
+
+<summary> Zwischenwerte 2 </summary>
+
+@rangeQuiz2($ \frac{\Delta \rho}{\rho} $, 0.125 , $.$)
+
+@rangeQuiz2($ \Delta \rho $, 0.188 , $\frac{g}{cm^3}$)
+
+</details>
+
+<details style="margin-left:5%">
+
+<summary> Messergebnis </summary>
+
+$$ \boxed{\rho = (1,50 \pm 0,19) \frac{g}{cm^3}} $$
+
+</details>
+
+</p>
