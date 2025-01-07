@@ -5413,6 +5413,24 @@ o------------------o
 
 > Die Summer aller nicht erfassbaren __systematischen__ und __zufälligen__ Fehler ergibt den Größtfehler der Messung.
 
+
+{{1}}
+************
+> Der @color(absolute Fehler $\Delta x$, orange) ist ein Maß für die Abweichung der Messwerte vom wahren Wert x
+>
+> $\hspace{1cm}$_Beispiel: $\boxed{t = 3s \pm 0,3 s}$ => Hier beträgt der absolute Fehler $\Delta t=0,3s$_
+************
+
+{{2}}
+************
+> Der @color(relative Fehler $\frac{\Delta x}{x}$, orange) ist ein Maß für die Abweichung der Messwerte vom wahren Wert x
+>
+> $\hspace{1cm}$_Beispiel: $\boxed{t = 3s \pm 0,3s}$ => Hier beträgt der relative Fehler $\frac{\Delta t}{t}=\frac{0,3s}{3s}=0,1=10\%$_
+>
+> _Hinweis: Bei Messgeräten wird häufig der relative Fehler angegeben, typisch sind 2%. D.h. der vom Messgerät_
+************
+
+
 ``` ascii
 
                        .------------------------------------.
@@ -5422,11 +5440,15 @@ o------------------o
                          .----------------.-------------------------------------.
                          |                                                      |
                          v                                                      v
-                .------------------.                                  .------------------.
-                | systematische    |                                  | zufällige Fehler |
-                | Fehler           |                                  .------------------.
-                .--------.---------.                                            | 
-                         |                                                      |
+                .------------------.                                  .---------------------.
+                | systematische    |                                  | zufällige Fehler    |
+                | Fehler           |                                  |                     |
+                .--------.---------.                                  | z.B. Experimentator,|
+                         |                                            | Umwelteinflüsse     |
+                         |                                            |                     |
+                         |                                            |"$\Delta x_{zuf} $"  |
+                         |                                            |                     |
+                         |                                            .---------------------.
                          v                                                      |
      .-------------------------------------------------.                        | 
      |                                                 |                        |
@@ -5434,14 +5456,41 @@ o------------------o
 .-------------------------.               .--------------------------.          |
 | erfassbare              |               | nicht erfassbare         |          |
 | systematische Fehler    |               | systematische Fehler     |          |
-.-------------------------.               └------------.-------------.          |
+|                         |               |                          |          |
+.-------------------------.               | z.B. Genauigkeit         |          |
+                                          | des Messgerätes, Aufbau  |          |                        
+                                          |                          |          |  
+                                          |"$\Delta x_{sys}$"        |          |
+                                          |                          |          |  
+                                          .------------.-------------.          |
                                                        |                        |
                                                        v                        v
                                                    .---------------------------------------.
-                                                   |          Größtfehler der Messung      |
+                                                   | Größtfehler der Messung               |
+                                                   |                                       |
+                                                   |"$\Delta x = \Delta x_{sys} + x_{zuf}$"|
+                                                   |                                       |
                                                    .---------------------------------------.
 
 ```
+
+{{1}}
+************
+__Begriffe:__
+
+> Der @color(absolute Fehler $\Delta x$, orange) ist ein Maß für die Abweichung der Messwerte vom wahren Wert x
+>
+> $\hspace{1cm}$_Beispiel: $\boxed{t = 3s \pm 0,3 s}$ => Hier beträgt der absolute Fehler $\Delta t=0,3s$_
+************
+
+{{2}}
+************
+> Der @color(relative Fehler $\frac{\Delta x}{x}$, orange) ist ein Maß für die Abweichung der Messwerte vom wahren Wert x
+>
+> $\hspace{1cm}$_Beispiel: $\boxed{t = 3s \pm 0,3s}$ => Hier beträgt der relative Fehler $\frac{\Delta t}{t}=\frac{0,3s}{3s}=0,1=10\%$_
+>
+> _Hinweis: Bei Messgeräten wird häufig der relative Fehler angegeben, typisch sind 2%. D.h. der vom Messgerät_
+************
 
 
 ### SE - Messfehler Zeitmessung
@@ -5482,3 +5531,7 @@ Visualisierung zufälliger Fehler beim 110m Hürdenlauf
 </p>
 
 ??[Link zu Ergebnisse](https://diversewolken.ddns.net:8080/survey/results/y7aftu2z)
+
+### OffTopic Tag der offenen Hochschultür
+
+??[uniLive](https://tud.lineupr.com/unilive/lineup)
