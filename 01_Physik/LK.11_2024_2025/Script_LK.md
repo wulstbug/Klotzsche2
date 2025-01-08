@@ -5583,9 +5583,7 @@ Für die Volumenbestimmung wird die Formel $V=a\cdot b \cdot c$ genutzt. Bestimm
 
 - den relativen Fehler auf die Messungen von b und c.
 
-@rangeQuiz2($\frac{\Delta b}{b}$, 0.0167 , . )
-
-@rangeQuiz2($\frac{\Delta c}{c}$, 0.0125 , . )
+@rangeQuiz2($\frac{\Delta b}{b}$, 0.0125 , . )
 
 @rangeQuiz2($\frac{\Delta c}{c}$, 0.01 , . )
 
