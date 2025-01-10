@@ -159,6 +159,8 @@ try {
 
 - Anwenden der Bewegungsgleichungen beim Lösen von Fragestellungen zur Bewegung von einem oder zwei Körpern
 
+- Bewegungen und Reibungskräfte
+
 - Kinematik des senkrechten und waagerechten Wurfes, Herleitung der Wurfparabel
 
 - Ermittlung der Momentangeschwindigkeit aus dem s(t)-Diagramm, sowie des zurückgelegten Wegs aus dem v(t)-Diagramm
@@ -169,4 +171,4 @@ try {
 
 - Fehlertypen und Fehlerfortpflanzung für berechnete physikalische Größen
 
-- Grundlagen der Lernbereiche I/II: Energie, Kräfte, Erhaltungsgrößen
+- Grundlagen der Lernbereiche I/II: Energie, Kräfte, Erhaltung
