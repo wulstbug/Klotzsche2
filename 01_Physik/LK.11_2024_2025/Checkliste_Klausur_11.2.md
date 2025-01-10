@@ -157,6 +157,8 @@ try {
 
 - verschiedene Arten von Bewegungen, deren Gültigkeitsbedingung, deren Beschreibung in Form von Bewegungsgleichungen bzw. deren Darstellung in Diagrammen s(t), v(t), a(t)
 
+- Anwenden der Bewegungsgleichungen beim Lösen von Fragestellungen zur Bewegung von einem oder zwei Körpern
+
 - Kinematik des senkrechten und waagerechten Wurfes, Herleitung der Wurfparabel
 
 - Ermittlung der Momentangeschwindigkeit aus dem s(t)-Diagramm, sowie des zurückgelegten Wegs aus dem v(t)-Diagramm
