@@ -405,3 +405,219 @@ b)
 [[ ]] Das Magnetfeld um einen stromdurchflossenen Leiter ist radial nach außen gerichtet.
 [[x]] Das Magnetfeld um einen stromdurchflossenen Leiter ist kreisförmig und konzentrisch um den Leiter angeordnet.
 [[ ]] Das Magnetfeld um einen stromdurchflossenen Leiter existiert nur, wenn der Strom sinusförmig wechselt.
+
+
+## 1.2 Berechnungen des magnetischen Feldes - Die magnetische Flussdichte B
+
+<p class="newspaper">
+
+__Magnetisches Feld__
+
+<p class="cb">
+
+__Elektrisches Feld__
+
+</p>
+
+</p>
+
+---
+
+{{1}}
+********
+<p class="newspaper">
+
+Die __magnetische Flussdichte__ $B$ beschreibt die Stärke und Richtung des magnetischen Feldes in einem Punkt. Sie wird definiert durch die Kraft auf eine bewegte Ladung oder einen stromdurchflossenen Leiter:
+
+$$ \boxed{B = \frac{F}{I \cdot l}}$$
+
+- $F$: Magnetische Kraft [Newton, $N$]
+- $I$: Stromstärke [Ampere, $A$]
+- $l$: Leiterlänge [Meter, $m$]
+
+<p class="cb">
+
+Die elektrische Feldstärke $E$ berechnet sich aus der Kraft $F$ auf eine elektrische Ladung $Q$.
+
+$$ \boxed{E = \frac{F}{Q}} $$
+
+- $F$: Elektrische Kraft [Newton, $N$]
+- $Q$: Ladung im Feld [Coulomb, $C$]
+
+
+</p>
+
+</p>
+
+---
+********
+
+{{2}}
+********
+<p class="newspaper">
+
+__Einheit__: [1 Tesla = 1 T]
+
+$$\Big[T=\dfrac{N}{A \cdot m}\Big]$$
+
+<p class="cb">
+
+__Einheit__: $$\Big[\dfrac{N}{C}=\dfrac{V}{m}\Big]$$
+
+</p>
+
+</p>
+
+---
+********
+
+
+### 1.2.2 Übung: Berechnung der magnetischen Flussdichte
+
+<bdi style="color:blue">__Löse die folgenden Aufgaben, indem du die gegebene Formel anwendest__.</bdi>
+
+#### Aufgabe 1.2.1
+Ein gerader Leiter mit einer Länge von 2 m wird von einem Strom von 5 A durchflossen. Er befindet sich in einem Magnetfeld mit einer Flussdichte $B$. Die magnetische Kraft auf den Leiter beträgt 0,5 N. Berechne $B$!
+
+@rangeQuiz2(B, 0.05, T)
+
+#### Aufgabe 1.2.2
+Ein stromdurchflossener Leiter (Länge $l = 1,5 \, m$, Stromstärke $I = 3 \, A$) befindet sich in einem Magnetfeld mit $B = 0,2 \, T$. Berechne die magnetische Kraft $F$ auf den Leiter.
+
+@rangeQuiz2(F, 0.9, N)
+
+
+#### Aufgabe 1.2.3
+Ein Leiter der Länge $l = 3 \, m$ und Stromstärke $I = 2 \, A$ erfährt eine magnetische Kraft von $F = 0,6 \, N$. Berechne die magnetische Flussdichte $B$, wenn der Winkel zwischen Leiter und Feldlinien $\sin\theta = 1$ beträgt.
+
+@rangeQuiz2(B, 0.1, T)
+
+#### Aufgabe 1.2.4 
+
+__Analyse von Änderungen__
+
+Ein stromdurchflossener Leiter befindet sich in einem Magnetfeld. Die Stromstärke $I$ wird verdoppelt, während die Leiterlänge $l$ und die magnetische Flussdichte $B$ unverändert bleiben. Wie ändert sich die magnetische Kraft $F$?
+
+<!-- data-solution-button="off" -->
+[[ ]] Sie bleibt gleich.  
+[[x]] Sie verdoppelt sich.  
+[[ ]] Sie halbiert sich.  
+[[ ]] Sie vervierfacht sich. 
+
+---
+
+<!-- data-solution-button="off" -->
+Die magnetische Flussdichte $B$ wird auf das Doppelte erhöht, während Stromstärke $I$ und Leiterlänge $l$ konstant bleiben. Was passiert mit der magnetischen Kraft $F$?
+
+[[ ]] Sie bleibt gleich.  
+[[ ]] Sie halbiert sich.  
+[[x]] Sie verdoppelt sich.  
+[[ ]] Sie vervierfacht sich.  
+
+
+
+## 1.3 Berechnungen der magnetischen Flussdichte B in einer langen Spule
+
+<p class="newspaper">
+
+__Magnetisches Feld__
+
+![FeldInSpule](https://diversewolken.ddns.net/nextcloud/index.php/s/z7CNJzqkxjf4bf7/download)
+
+<p class="cb">
+
+__Elektrisches Feld__
+
+![Plattenkondensator](https://diversewolken.ddns.net/nextcloud/index.php/s/Sw39rmgGTYbZL7S/download) <!--style="display:block;margin-left:auto;margin-right:auto; max-width:400px"-->
+
+</p>
+
+</p>
+
+---
+
+
+
+{{1}}
+********
+
+<p class="newspaper">
+
+Die magnetische Flussdichte $B$ innerhalb einer __langen, stromdurchflossenen Spule__ wird durch folgende Formel beschrieben:
+
+$$
+\boxed{B = \mu_0 \cdot \mu_r \cdot \frac{N\cdot I}{ℓ}}
+$$
+
+- $B$: Magnetische Flussdichte [ Tesla, $T$]
+- $\mu_0$: Magnetische Feldkonstante $\boxed{\mu_0 = 1,26 \cdot 10^-6 \frac{V \cdot s}{A \cdot m}}$
+- $\mu_r$: Magnetische Permeabilität des Mediums [einheitenlos -> FS S.54]
+- $N$: Anzahl der Windungen der Spule
+- $ℓ$: Länge der Spule [Meter, $m$]
+- $I$: Stromstärke [Ampere, $A$]
+
+<p class="cb">
+
+{{2}}
+********
+
+Die elektrische Feldstärke E innerhalb eines Plattenkondensators wird durch folgende Formel beschrieben:
+
+$$ \boxed{E = \dfrac{U}{d}} $$
+
+- $U$: Spannung zwischen den Platten $\big[ V \big]$ 
+- $d$: Abstand der Platten $\big[ m \big]$ 
+
+********
+
+</p>
+
+</p>
+
+********
+
+### Aufgaben zur B-Feld Berechnung an Spulen
+
+<bdi style="color:blue">__Löse die folgenden Aufgaben, indem du die gegebene Formel zur _langen Spule_ anwendest__.</bdi>
+
+
+#### Aufgabe 1.3.1  
+Eine Spule hat $N = 800$ Windungen und eine Länge von $L = 0,4 \, m$. Sie wird von einem Strom mit $I = 3 \, A$ durchflossen. Die Spule ist luftgefüllt ($\mu_r = 1$). Berechne die magnetische Flussdichte $B$ im Inneren der Spule.  
+
+@rangeQuiz2(B, 0.00754, T)
+
+#### Aufgabe 1.3.2  
+Eine Spule mit $N = 500$ Windungen und $L = 0,5 \, m$ erzeugt eine magnetische Flussdichte von $B = 2,51 \, mT$. Berechne die Stromstärke $I$, die durch die Spule fließt.  
+
+@rangeQuiz2(I, 2, A)
+
+#### Aufgabe 1.3.3  
+
+Eine Spule hat $N = 1000$ Windungen und eine Länge von $L = 1 \, m$. Der Strom beträgt $I = 4 \, A$. Wie verändert sich die magnetische Flussdichte $B$, wenn: 
+
+1. Die Anzahl der Windungen $N$ verdoppelt wird?  
+2. Der Strom $I$ halbiert wird?  
+3. Die Länge der Spule $L$ verdreifacht wird?
+
+<!-- data-solution-button="off" -->
+[[x]] 1. Verdoppelt sich, 2. halbiert sich, 3. verringert sich auf ein Drittel.  
+[[ ]] 1. Verdoppelt sich, 2. bleibt gleich, 3. verringert sich auf die Hälfte.  
+[[ ]] 1. Bleibt gleich, 2. halbiert sich, 3. verringert sich auf ein Viertel.  
+[[ ]] 1. Verringert sich, 2. bleibt gleich, 3. bleibt gleich.
+
+#### Aufgabe 1.3.4  
+
+Eine luftgefüllte Spule hat $N = 1000$ Windungen, $L = 0,8 \, m$ und $I = 2 \, A$. Im Innenraum der Spule wird ein Material mit einer unbekannten relativen Permeabilität $\mu_r$ ersetzt, wodurch die magnetische Flussdichte $B$ auf $1,7 \, T$ ansteigt. Berechne $\mu_r$.  
+
+@rangeQuiz2($\mu_r$, 680, -)
+
+Um welchen ferromagnetischen Stoff könnte es sich handeln?
+
+<!-- data-solution-button="off" -->
+[[Eisen]]
+
+#### Aufgabe 1.3.5
+
+Die magnetische Flussdichte $B$ in einer luftgefüllten Spule beträgt $1,26 \, mT$. Die Spule hat $N = 400$ Windungen und eine Länge von $L = 0,5 \, m$. Berechne den Strom $I$, der durch die Spule fließt?  
+
+@rangeQuiz2(I, 1, A)
