@@ -5727,6 +5727,6 @@ __Fehlerfortpflanzung__
 {{12}}
 *********
 
-_Wiederhole die Arten von Messfehlern und die Fehlerfortpflanzung bei berechneten physikalischen Größen._
+_Wiederhole die Arten von Messfehlern und die Fehlerfortpflanzung bei berechneten physikalischen Größen (z.B. Aufgabe 4.4 Beispiele zur Fehlerrechnung)._
 
 *********
