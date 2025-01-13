@@ -3405,13 +3405,13 @@ Ein gerader Leiter mit einer Länge von 2 m wird von einem Strom von 5 A durchfl
 @rangeQuiz2(B, 0.05, T)
 
 #### Aufgabe 1.2.2
-Ein stromdurchflossener Leiter (Länge $l = 1,5 \, m$, Stromstärke $I = 3 \, A$) befindet sich in einem Magnetfeld mit $B = 0,2 \, T$. Berechne die magnetische Kraft $F$ auf den Leiter.
+Ein stromdurchflossener Leiter (Länge $ℓ = 1,5 \, m$, Stromstärke $I = 3 \, A$) befindet sich in einem Magnetfeld mit $B = 0,2 \, T$. Berechne die magnetische Kraft $F$ auf den Leiter.
 
 @rangeQuiz2(F, 0.9, N)
 
 
 #### Aufgabe 1.2.3
-Ein Leiter der Länge $l = 3 \, m$ und Stromstärke $I = 2 \, A$ erfährt eine magnetische Kraft von $F = 0,6 \, N$. Berechne die magnetische Flussdichte $B$.
+Ein Leiter der Länge $ℓ = 3 \, m$ und Stromstärke $I = 2 \, A$ erfährt eine magnetische Kraft von $F = 0,6 \, N$. Berechne die magnetische Flussdichte $B$.
 
 @rangeQuiz2(B, 0.1, T)
 
@@ -3419,7 +3419,7 @@ Ein Leiter der Länge $l = 3 \, m$ und Stromstärke $I = 2 \, A$ erfährt eine m
 
 __Analyse von Änderungen__
 
-Ein stromdurchflossener Leiter befindet sich in einem Magnetfeld. Die Stromstärke $I$ wird verdoppelt, während die Leiterlänge $l$ und die magnetische Flussdichte $B$ unverändert bleiben. Wie ändert sich die magnetische Kraft $F$?
+Ein stromdurchflossener Leiter befindet sich in einem Magnetfeld. Die Stromstärke $I$ wird verdoppelt, während die Leiterlänge $ℓ$ und die magnetische Flussdichte $B$ unverändert bleiben. Wie ändert sich die magnetische Kraft $F$?
 
 <!-- data-solution-button="off" -->
 [[ ]] Sie bleibt gleich.  
@@ -3430,12 +3430,13 @@ Ein stromdurchflossener Leiter befindet sich in einem Magnetfeld. Die Stromstär
 ---
 
 <!-- data-solution-button="off" -->
-Die magnetische Flussdichte $B$ wird auf das Doppelte erhöht, während Stromstärke $I$ und Leiterlänge $l$ konstant bleiben. Was passiert mit der magnetischen Kraft $F$?
+Die magnetische Flussdichte $B$ wird auf das Doppelte erhöht, während Stromstärke $I$ und Leiterlänge $ℓ$ konstant bleiben. Was passiert mit der magnetischen Kraft $F$?
 
 [[ ]] Sie bleibt gleich.  
 [[ ]] Sie halbiert sich.  
 [[x]] Sie verdoppelt sich.  
 [[ ]] Sie vervierfacht sich.  
+
 
 
 
