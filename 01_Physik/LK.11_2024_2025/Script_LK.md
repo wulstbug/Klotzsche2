@@ -4621,6 +4621,8 @@ Setzt man hier die Zeit $t_1 = 61,579s$ ein, so ergibt sich der Weg des Lw zu 10
 
 ---
 
+</p>
+
 1. 3. Auf der Richtungsfahrbahn West hat sich ein Stau wegen eines defekten Lkw gebildet. Der defekte Lkw steht genau in der Mitte des Baustellenbereichs und blockiert die beiden nördlichen Fahrstreifen. Ein Fahrzeug des Pannendienstes (Pd) durchfährt die Rettungsgasse mit der konstanten Geschwindigkeit 25km∙h⁻¹. Zum Zeitpunkt t=0 ist es noch 500 m von dem defekten Lkw entfernt. <br> Ermitteln Sie den Abstand $s_2$ vom defekten Lkw, wo sich Pd und Lw treffen.
 
 <p style="margin-left:10%">
@@ -5644,3 +5646,87 @@ $$ \boxed{\rho = (1,50 \pm 0,19) \frac{g}{cm^3}} $$
 </details>
 
 </p>
+
+### Vorbereitung zur Klausur
+
+__Schreibweise von Einheiten oder Formeln:__
+
+{{1-2}}
+***********
+$$ a = 1\, m \cdot s^{-2} $$
+***********
+
+{{2}}
+***********
+$$ a = 1\, m \cdot s^{-2} = 1 \frac{m}{s^2} $$
+***********
+
+__Newton'sche Gesetze__
+
+{{3}}
+**********
+_Ergänze die im folgenden Text fehlenden [] :_
+
+1. Newton'sches Gesetz
+
+     > Wenn die Summe aller auf einen Körper wirkenden Kräfte [{4}{@color(gleich Null,orange)}] ist, so bleibt dessen Geschwindigkeit [{5}{@color(konstant,orange)}].
+
+**********
+
+{{5}}
+**********
+2. Newton'sches Gesetz
+
+     > Mit der Summe aller auf einen Körper der Masse $m$ wirkenden Kräfte $F_{ges}$ lässt sich die [{6}{@color(Beschleunigung $a$,orange)}] berechnen mit der Formel
+
+{{7}}
+*********
+$$ a = \frac{F_{ges}}{m} $$
+*********
+
+**********
+
+__Wirkende Kräfte bei bewegten Körpern an schiefer Ebene__
+
+{{8}}
+*********
+
+_Wiederhole die Kräfte, die auf einen Körper wirken, der sich auf einer schiefen Ebene bewegt. Wiederhole die Arten von Reibungskräften und von welchen physikalischen Größen sie abhängen (z.B. 2.8.1 Aufgabe 4)._
+
+*********
+
+__Diagramm-Darstellung von Bewegungen__
+
+{{9}}
+*********
+
+_Wiederhole die Darstellung von gleichmäßig beschleunigter Bewegung und gleichförmiger Bewegung in $s(t)$, $v(t)$ und $a(t)$ Diagrammen. (z.B. Übung Zuordnung Graphen nach 3.6.1)_
+
+*********
+
+__Zerlegung von Vektoren__
+
+{{10}}
+*********
+
+_Wiederhole die Zerlegung von Kraft- und Geschwindigkeitsvektoren in geeignete Komponenten (z.B. Aufgabe 3.6.1)._
+
+*********
+
+__Eindimensionale Kinematik zweier Körper__
+
+{{11}}
+*********
+
+_Wiederhole die Berechnung für eindimensionaler Bewegungen zweier Körper mit Hilfe der Bewegungsgleichungen (z.B. Abituraufgabe 3.8)._
+
+*********
+
+__Fehlerfortpflanzung__
+
+{{12}}
+*********
+
+_Wiederhole die Arten von Messfehlern und die Fehlerfortpflanzung bei berechneten physikalischen Größen._
+
+*********
