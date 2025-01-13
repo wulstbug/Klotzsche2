@@ -488,7 +488,7 @@ Ein stromdurchflossener Leiter (Länge $l = 1,5 \, m$, Stromstärke $I = 3 \, A$
 
 
 #### Aufgabe 1.2.3
-Ein Leiter der Länge $l = 3 \, m$ und Stromstärke $I = 2 \, A$ erfährt eine magnetische Kraft von $F = 0,6 \, N$. Berechne die magnetische Flussdichte $B$, wenn der Winkel zwischen Leiter und Feldlinien $\sin\theta = 1$ beträgt.
+Ein Leiter der Länge $l = 3 \, m$ und Stromstärke $I = 2 \, A$ erfährt eine magnetische Kraft von $F = 0,6 \, N$. Berechne die magnetische Flussdichte $B$.
 
 @rangeQuiz2(B, 0.1, T)
 
