@@ -620,4 +620,4 @@ Um welchen ferromagnetischen Stoff könnte es sich handeln?
 
 Die magnetische Flussdichte $B$ in einer luftgefüllten Spule beträgt $1,26 \, mT$. Die Spule hat $N = 400$ Windungen und eine Länge von $ℓ = 0,5 \, m$. Berechne den Strom $I$, der durch die Spule fließt?  
 
-@rangeQuiz2(I, 1, A)
+@rangeQuiz2(I, 1.25, A)
