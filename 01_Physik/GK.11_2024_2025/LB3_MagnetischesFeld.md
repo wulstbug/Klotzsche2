@@ -550,7 +550,7 @@ $$
 $$
 
 - $B$: Magnetische Flussdichte [ Tesla, $T$]
-- $\mu_0$: Magnetische Feldkonstante $\boxed{\mu_0 = 1,26 \cdot 10^-6 \frac{V \cdot s}{A \cdot m}}$
+- $\mu_0$: Magnetische Feldkonstante $\boxed{\mu_0 = 1,26 \cdot 10^{-6} \frac{V \cdot s}{A \cdot m}}$
 - $\mu_r$: Magnetische Permeabilität des Mediums [einheitenlos -> FS S.54]
 - $N$: Anzahl der Windungen der Spule
 - $ℓ$: Länge der Spule [Meter, $m$]
