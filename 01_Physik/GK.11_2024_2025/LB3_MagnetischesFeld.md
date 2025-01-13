@@ -582,22 +582,22 @@ $$ \boxed{E = \dfrac{U}{d}} $$
 
 
 #### Aufgabe 1.3.1  
-Eine Spule hat $N = 800$ Windungen und eine Länge von $L = 0,4 \, m$. Sie wird von einem Strom mit $I = 3 \, A$ durchflossen. Die Spule ist luftgefüllt ($\mu_r = 1$). Berechne die magnetische Flussdichte $B$ im Inneren der Spule.  
+Eine Spule hat $N = 800$ Windungen und eine Länge von $ℓ = 0,4 \, m$. Sie wird von einem Strom mit $I = 3 \, A$ durchflossen. Die Spule ist luftgefüllt ($\mu_r = 1$). Berechne die magnetische Flussdichte $B$ im Inneren der Spule.  
 
 @rangeQuiz2(B, 0.00754, T)
 
 #### Aufgabe 1.3.2  
-Eine Spule mit $N = 500$ Windungen und $L = 0,5 \, m$ erzeugt eine magnetische Flussdichte von $B = 2,51 \, mT$. Berechne die Stromstärke $I$, die durch die Spule fließt.  
+Eine Spule mit $N = 500$ Windungen und $ℓ = 0,5 \, m$ erzeugt eine magnetische Flussdichte von $B = 2,51 \, mT$. Berechne die Stromstärke $I$, die durch die Spule fließt.  
 
 @rangeQuiz2(I, 2, A)
 
 #### Aufgabe 1.3.3  
 
-Eine Spule hat $N = 1000$ Windungen und eine Länge von $L = 1 \, m$. Der Strom beträgt $I = 4 \, A$. Wie verändert sich die magnetische Flussdichte $B$, wenn: 
+Eine Spule hat $N = 1000$ Windungen und eine Länge von $ℓ = 1 \, m$. Der Strom beträgt $I = 4 \, A$. Wie verändert sich die magnetische Flussdichte $B$, wenn: 
 
 1. Die Anzahl der Windungen $N$ verdoppelt wird?  
 2. Der Strom $I$ halbiert wird?  
-3. Die Länge der Spule $L$ verdreifacht wird?
+3. Die Länge der Spule $ℓ$ verdreifacht wird?
 
 <!-- data-solution-button="off" -->
 [[x]] 1. Verdoppelt sich, 2. halbiert sich, 3. verringert sich auf ein Drittel.  
@@ -607,7 +607,7 @@ Eine Spule hat $N = 1000$ Windungen und eine Länge von $L = 1 \, m$. Der Strom 
 
 #### Aufgabe 1.3.4  
 
-Eine luftgefüllte Spule hat $N = 1000$ Windungen, $L = 0,8 \, m$ und $I = 2 \, A$. Im Innenraum der Spule wird ein Material mit einer unbekannten relativen Permeabilität $\mu_r$ ersetzt, wodurch die magnetische Flussdichte $B$ auf $1,7 \, T$ ansteigt. Berechne $\mu_r$.  
+Eine luftgefüllte Spule hat $N = 1000$ Windungen, $ℓ = 0,8 \, m$ und $I = 2 \, A$. Im Innenraum der Spule wird ein Material mit einer unbekannten relativen Permeabilität $\mu_r$ ersetzt, wodurch die magnetische Flussdichte $B$ auf $1,7 \, T$ ansteigt. Berechne $\mu_r$.  
 
 @rangeQuiz2($\mu_r$, 539.7, -)
 
@@ -618,6 +618,6 @@ Um welchen ferromagnetischen Stoff könnte es sich handeln?
 
 #### Aufgabe 1.3.5
 
-Die magnetische Flussdichte $B$ in einer luftgefüllten Spule beträgt $1,26 \, mT$. Die Spule hat $N = 400$ Windungen und eine Länge von $L = 0,5 \, m$. Berechne den Strom $I$, der durch die Spule fließt?  
+Die magnetische Flussdichte $B$ in einer luftgefüllten Spule beträgt $1,26 \, mT$. Die Spule hat $N = 400$ Windungen und eine Länge von $ℓ = 0,5 \, m$. Berechne den Strom $I$, der durch die Spule fließt?  
 
 @rangeQuiz2(I, 1, A)
