@@ -5649,6 +5649,15 @@ $$ \boxed{\rho = (1,50 \pm 0,19) \frac{g}{cm^3}} $$
 
 ### Vorbereitung zur Klausur
 
+@color(__Allgemein:__ Nutze folgende Anreize um nochmal ein paar Dinge zu wiederholen., red)
+
+<br>
+
+@color(__Zeit:__ Morgen keine Zeit verlieren. Nicht aufhalten lassen. Nicht verzetteln. Zügig bekannte Aufgaben rechnen. Zum Schluss zurück zu Problemfällen., orange)
+
+<br>
+<br>
+
 __Schreibweise von Einheiten oder Formeln:__
 
 {{1-2}}
