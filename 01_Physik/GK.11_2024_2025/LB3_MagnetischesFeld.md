@@ -609,7 +609,7 @@ Eine Spule hat $N = 1000$ Windungen und eine Länge von $L = 1 \, m$. Der Strom 
 
 Eine luftgefüllte Spule hat $N = 1000$ Windungen, $L = 0,8 \, m$ und $I = 2 \, A$. Im Innenraum der Spule wird ein Material mit einer unbekannten relativen Permeabilität $\mu_r$ ersetzt, wodurch die magnetische Flussdichte $B$ auf $1,7 \, T$ ansteigt. Berechne $\mu_r$.  
 
-@rangeQuiz2($\mu_r$, 680, -)
+@rangeQuiz2($\mu_r$, 539.7, -)
 
 Um welchen ferromagnetischen Stoff könnte es sich handeln?
 
