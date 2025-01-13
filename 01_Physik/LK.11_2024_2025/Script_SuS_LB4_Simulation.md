@@ -804,13 +804,23 @@ $$ \boxed{\rho = (1,50 \pm 0,19) \frac{g}{cm^3}} $$
 
 </p>
 
-### Vorbereitung zur Klausur
+## Vorbereitung zur Klausur
 
-__Schreibweise von Einheiten oder Formeln:__
+@color(__Allgemein:__ Nutze folgende Anreize um nochmal ein paar Dinge zu wiederholen., red)
+
+<br>
+
+@color(__Zeit:__ Morgen keine Zeit verlieren. Nicht aufhalten lassen. Nicht verzetteln. Zügig bekannte Aufgaben rechnen. Zum Schluss zurück zu Problemfällen., orange)
+
+<br>
+<br>
+
+
+__Schreibweise von Einheiten__
 
 {{1-2}}
 ***********
-$$ a = 1\, m \cdot s^{-2} $$
+$$ a = 1\, m \cdot s^{-2} \,\, ??$$
 ***********
 
 {{2}}
@@ -822,11 +832,11 @@ __Newton'sche Gesetze__
 
 {{3}}
 **********
-_Ergänze die im folgenden Text fehlenden [] :_
+Ergänze die im folgenden Text fehlenden [], _(frage deinen Nachbarn):_
 
 1. Newton'sches Gesetz
 
-     > Wenn die Summe aller auf einen Körper wirkenden Kräfte [{4}{@color(gleich Null,orange)}] ist, so bleibt dessen Geschwindigkeit [{5}{@color(konstant,orange)}].
+     Wenn die Summe aller auf einen Körper wirkenden Kräfte [{4}{@color(gleich Null,lightgrey)}] ist, so bleibt dessen Geschwindigkeit [{5}{@color(konstant,lightgrey)}].
 
 **********
 
@@ -834,11 +844,13 @@ _Ergänze die im folgenden Text fehlenden [] :_
 **********
 2. Newton'sches Gesetz
 
-     > Mit der Summe aller auf einen Körper der Masse $m$ wirkenden Kräfte $F_{ges}$ lässt sich die [{6}{@color(Beschleunigung $a$,orange)}] berechnen mit der Formel
+     Mit der Summe aller auf einen Körper der Masse $m$ wirkenden Kräfte $F_{ges}$ lässt sich die [{6}{@color(Beschleunigung $a$,lightgrey)}] berechnen mit der Formel
 
 {{7}}
 *********
+<p style="color:lightgrey">
 $$ a = \frac{F_{ges}}{m} $$
+</p>
 *********
 
 **********
@@ -848,7 +860,7 @@ __Wirkende Kräfte bei bewegten Körpern an schiefer Ebene__
 {{8}}
 *********
 
-_Wiederhole die Kräfte, die auf einen Körper wirken, der sich auf einer schiefen Ebene bewegt. Wiederhole die Arten von Reibungskräften und von welchen physikalischen Größen sie abhängen (z.B. 2.8.1 Aufgabe 4)._
+     >_Wiederhole die Kräfte, die auf einen Körper wirken, der sich auf einer schiefen Ebene bewegt. Wiederhole die Arten von Reibungskräften und von welchen physikalischen Größen sie abhängen (z.B. 2.8.1 Aufgabe 4)._
 
 *********
 
@@ -857,7 +869,7 @@ __Diagramm-Darstellung von Bewegungen__
 {{9}}
 *********
 
-_Wiederhole die Darstellung von gleichmäßig beschleunigter Bewegung und gleichförmiger Bewegung in $s(t)$, $v(t)$ und $a(t)$ Diagrammen. (z.B. Übung Zuordnung Graphen nach 3.6.1)_
+     >_Wiederhole die Darstellung von gleichmäßig beschleunigter Bewegung und gleichförmiger Bewegung in $s(t)$, $v(t)$ und $a(t)$ Diagrammen. (z.B. Übung Zuordnung Graphen nach 3.6.1)_
 
 *********
 
@@ -866,7 +878,7 @@ __Zerlegung von Vektoren__
 {{10}}
 *********
 
-_Wiederhole die Zerlegung von Kraft- und Geschwindigkeitsvektoren in geeignete Komponenten (z.B. Aufgabe 3.6.1)._
+     >_Wiederhole die Zerlegung von Kraft- und Geschwindigkeitsvektoren in geeignete Komponenten (z.B. Aufgabe 3.6.1)._
 
 *********
 
@@ -875,7 +887,7 @@ __Eindimensionale Kinematik zweier Körper__
 {{11}}
 *********
 
-_Wiederhole die Berechnung für eindimensionaler Bewegungen zweier Körper mit Hilfe der Bewegungsgleichungen (z.B. Abituraufgabe 3.8)._
+     >_Wiederhole die Berechnung für eindimensionaler Bewegungen zweier Körper mit Hilfe der Bewegungsgleichungen (z.B. Abituraufgabe 3.8)._
 
 *********
 
@@ -884,6 +896,6 @@ __Fehlerfortpflanzung__
 {{12}}
 *********
 
-_Wiederhole die Arten von Messfehlern und die Fehlerfortpflanzung bei berechneten physikalischen Größen (z.B. Aufgabe 4.4 Beispiele zur Fehlerrechnung)._
+     >_Wiederhole die Arten von Messfehlern und die Fehlerfortpflanzung bei berechneten physikalischen Größen (z.B. Aufgabe 4.4 Beispiele zur Fehlerrechnung)._
 
 *********
