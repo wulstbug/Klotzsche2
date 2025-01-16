@@ -108,102 +108,6 @@ window.LIA.settings.font_size = 2
 
 # LB 3 Kinematik und Dynamik - Praktikum
 
-__Vorbereitung zur Klausur__
-
-@color(__Allgemein:__ Nutze folgende Anreize um nochmal ein paar Dinge zu wiederholen., red)
-
-<br>
-
-@color(__Zeit:__ Morgen keine Zeit verlieren. Nicht aufhalten lassen. Nicht verzetteln. Zügig bekannte Aufgaben rechnen. Zum Schluss zurück zu Problemfällen., orange)
-
-<br>
-<br>
-
-
-__Schreibweise von Einheiten__
-
-{{1-2}}
-***********
-$$ a = 1\, m \cdot s^{-2} \,\, ??$$
-***********
-
-{{2}}
-***********
-$$ a = 1\, m \cdot s^{-2} = 1 \frac{m}{s^2} $$
-***********
-
-__Newton'sche Gesetze__
-
-{{3}}
-**********
-Ergänze die im folgenden Text fehlenden [], _(frage deinen Nachbarn):_
-
-1. Newton'sches Gesetz
-
-     Wenn die Summe aller auf einen Körper wirkenden Kräfte [{4}{@color(gleich Null,lightgrey)}] ist, so bleibt dessen Geschwindigkeit [{5}{@color(konstant,lightgrey)}].
-
-**********
-
-{{5}}
-**********
-2. Newton'sches Gesetz
-
-     Mit der Summe aller auf einen Körper der Masse $m$ wirkenden Kräfte $F_{ges}$ lässt sich die [{6}{@color(Beschleunigung $a$,lightgrey)}] berechnen mit der Formel
-
-{{7}}
-*********
-<p style="color:lightgrey">
-$$ a = \frac{F_{ges}}{m} $$
-</p>
-*********
-
-**********
-
-__Wirkende Kräfte bei bewegten Körpern an schiefer Ebene__
-
-{{8}}
-*********
-
-     >_Wiederhole die Kräfte, die auf einen Körper wirken, der sich auf einer schiefen Ebene bewegt. Wiederhole die Arten von Reibungskräften und von welchen physikalischen Größen sie abhängen (z.B. 2.8.1 Aufgabe 4)._
-
-*********
-
-__Diagramm-Darstellung von Bewegungen__
-
-{{9}}
-*********
-
-     >_Wiederhole die Darstellung von gleichmäßig beschleunigter Bewegung und gleichförmiger Bewegung in $s(t)$, $v(t)$ und $a(t)$ Diagrammen. (z.B. Übung Zuordnung Graphen nach 3.6.1)_
-
-*********
-
-__Zerlegung von Vektoren__
-
-{{10}}
-*********
-
-     >_Wiederhole die Zerlegung von Kraft- und Geschwindigkeitsvektoren in geeignete Komponenten (z.B. Aufgabe 3.6.1)._
-
-*********
-
-__Eindimensionale Kinematik zweier Körper__
-
-{{11}}
-*********
-
-     >_Wiederhole die Berechnung für eindimensionaler Bewegungen zweier Körper mit Hilfe der Bewegungsgleichungen (z.B. Abituraufgabe 3.8)._
-
-*********
-
-__Fehlerfortpflanzung__
-
-{{12}}
-*********
-
-     >_Wiederhole die Arten von Messfehlern und die Fehlerfortpflanzung bei berechneten physikalischen Größen (z.B. Aufgabe 4.4 Beispiele zur Fehlerrechnung)._
-
-*********
-
 ![KinematikUndDynamik](https://www.online-wissensdatenbank.de/wp-content/uploads/2023/12/kinematik-grundlagen-der-bewegungslehre.jpg "Bild-Quelle: https://www.online-wissensdatenbank.de")
 
 ## 3.1. Einführung in die Analyse von Bewegungen
@@ -247,18 +151,6 @@ __Erläuterung:__ Das folgende Diagramm wurde mit Hilfe der App Phyfox auf einer
 Die farbig gekennzeichneten Bereiche können als gleichmäßig beschleunigte Bewegungen betrachtet werden.
 
 ![Diagramm_PraktischeFahrt](https://diversewolken.ddns.net/nextcloud/index.php/s/K9XZ7yMM9n9AtLT/download)
-
-> __Vorbetrachtung:__ Für die Bestimmung der Beschleunigung $a$ bei einer gleichmäßig beschleunigten Bewegung lässt sich auch die Formel
->
-> $$ a = \frac{\Delta v}{\Delta t} $$
->
-> verwenden. Hier bei ist $\Delta v$ die Geschwindkeitsänderung während des Zeitintervals $\Delta t$.
->
-> Dabei ist $\Delta v$ definiert als 
->
-> $$ \Delta v = v_{2} - v_{1}, $$
->
-> also die Differenz der Geschwindigkeiten am Ende des Zeitintervals ($v_2$) und der Geschwindigkeit am Anfang des Zeitintervals ($v_1$).
 
 __Löse folgende Aufgaben. Zur Selbstüberprüfung gibt es die Kontrollkästchen. Bei fehlerhaften Lösungen bitte per E-Mail rückmelden.__
 
@@ -608,8 +500,6 @@ In der Auswertung des Diagramms ergab sich eine Beschleunigung von ca. $-11,5 \f
 </div>
 
 ## 3.7 Die Momentangeschwindigkeit
-
-![Tafelbild_Momentangeschwindigkeit](https://diversewolken.ddns.net/nextcloud/index.php/s/2gC5MmDGj7DoSqy/download)
 
 
 ### Übung: Zuordnung Graphen
@@ -1078,13 +968,6 @@ $$ \mathrm{Geschwindigkeit}: 22,2 \frac{m}{s} = a \cdot t + 36,1 \frac{m}{s} $$
 
 ## 3.8 Der zurückgelegte Weg
 
-![Tafelbild_ZurückGelegterWeg1](https://diversewolken.ddns.net/nextcloud/index.php/s/9tGYWwXJPn6ZL5C/download)
-
-![Tafelbild_ZurückGelegterWeg2](https://diversewolken.ddns.net/nextcloud/index.php/s/nesaB4QNpTNKrs8/download)
-
-![Tafelbild_ZurückGelegterWeg3](https://diversewolken.ddns.net/nextcloud/index.php/s/B6qat3Gjn7tA5DG/download)
-
-
 ### Aufgabe 4 - Zurückgelegter Weg
 
 > 4. 1. Zu einer geradlinigen Bewegung gehört das Zeit-Geschwindigkeits-Diagramm der folgenden Abbildung: <br> ![v-t-Diagramm](https://diversewolken.ddns.net/nextcloud/index.php/s/8PB92pbssc5MoMo/download)<!-- style="max-width:80%"-->
@@ -1495,11 +1378,7 @@ __Wurfparabeln: Experiment (Viana2) vs. Bewegungsgleichgung__
 
 ## 3.10 Herleitung der Wurfparabel y(x) für waagerechten Wurf
 
-![Tafelbild_HerleitungWp](https://diversewolken.ddns.net/nextcloud/index.php/s/eWNsWrs6NSEgxPG/download)
-
 ## 3.11 Zerlegung des Geschwindigkeitsvektors für den waagerechten Wurf
-
-![Tafelbild_ZerlegungV](https://diversewolken.ddns.net/nextcloud/index.php/s/NGJLZ9ifYLfEeyR/download)
 
 ### Aufgaben Wurfbewegungen
 
