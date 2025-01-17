@@ -139,11 +139,11 @@ Lernschwerpunkte sind:
 
 - 2.7. Funktionsweise eines Generators (Aufbau, Bezeichnungen, Funktionsprinzip) (Übung: Fragen zum Generator 2)
 
-- 2.8. Induktionsgesetz (Gesetz können, Einflussfaktoren auf induzierte Spannung, Grundprinzip der Energieumwandlung bei Induktion)
+- 2.8. Induktionsgesetz (Gesetz, Einflussfaktoren auf induzierte Spannung, Grundprinzip der Energieumwandlung bei Induktion)
 
 - 2.9. Induktion am Generator -> Wechselspannung
 
-    - Eigenschaften der Wechselspannung (z.B. am Beispiel Haushaltssteckdose -> Aufgabe 2.8.1)
+    - Eigenschaften der Wechselspannung (z.B. Haushaltssteckdose -> Aufgabe 2.8.1)
 
     - -> Aufgaben zur Wechselspannung 1-4
 
