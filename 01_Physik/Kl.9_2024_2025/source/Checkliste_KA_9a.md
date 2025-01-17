@@ -108,9 +108,9 @@ mode: presentation
 
 > Liebe 9a,
 >
-> die KA Physik enthält das Stoffgebiet 2. Energieversorgung komplett. Auf dieser Seite sind die Schwerpunkte, in Klammern die Nummern der Überschriften. 
+> die KA Physik enthält das Stoffgebiet 2. Energieversorgung komplett. Auf dieser Seite sind die Schwerpunkte mit Nummern der Überschriften. 
 >
-> Die Übungsaufgaben aus dem Unterricht findet ihr auf den folgenden Seiten.
+> Die angegeben Übungsaufgaben aus dem Unterricht findet ihr auf den folgenden Seiten.
 
 Grundlagen sind: 
 
