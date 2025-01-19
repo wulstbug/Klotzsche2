@@ -5744,3 +5744,33 @@ __Fehlerfortpflanzung__
      >_Wiederhole die Arten von Messfehlern und die Fehlerfortpflanzung bei berechneten physikalischen Größen (z.B. Aufgabe 4.4 Beispiele zur Fehlerrechnung)._
 
 *********
+
+# Rückgabe Klausur 2
+
+__Verteilung__
+
+{{1}}
+***************
+__Hinweise:__
+
+- insgesamt positive Entwicklung zur 1. Klausur, Durchschnitt +2 NP
+
+- sehr viele haben sich verbessert
+
+- ich freue mich über exakte physikalische Ausdrucksweise (keine Umgangssprache)
+
+- keinen Unterkurs in 11Ph2
+
+- was wünscht ihr euch für den nächsten Abschnitt?
+
+
+
+***************
+
+{{2}}
+***************
+![Verteilung_Kl2](https://diversewolken.ddns.net/nextcloud/index.php/s/zBesiEnQHNNccbq/download)
+
+***************
+
+
