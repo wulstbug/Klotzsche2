@@ -3586,3 +3586,4 @@ __Teil 2: Überprüfung der Proportionalität $B ~ N$ (magn. Flussdichte ~ Windu
 
 __Teil 3: Bestimmung der magnetischen Feldkonstante $\mu_0$__
 
+> Aufgabe: Bestimme die magnetische Feldkonstante $\mu_0$ mit Hilfe der Messung der magnetischen Flussdichte B an einer Spule.
