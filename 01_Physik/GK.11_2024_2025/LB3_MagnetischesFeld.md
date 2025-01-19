@@ -621,3 +621,254 @@ Um welchen ferromagnetischen Stoff könnte es sich handeln?
 Die magnetische Flussdichte $B$ in einer luftgefüllten Spule beträgt $1,26 \, mT$. Die Spule hat $N = 400$ Windungen und eine Länge von $ℓ = 0,5 \, m$. Berechne den Strom $I$, der durch die Spule fließt?  
 
 @rangeQuiz2(I, 1.25, A)
+
+
+### Übungen zum magnetischen Feld allgemein
+
+@timer(15,00)
+
+<br>
+
+<br>
+
+<br>
+
+__Grundwissen Magnetismus__
+
+??[LueckentextMagnetismus](https://learningapps.org/1319776)
+
+__Grundwissen magnetisches Feld__
+
+??[LueckentextMagnetfeld](https://learningapps.org/35523603)
+
+__Fragen zu magnetischen Experimenten__
+
+??[MagnetischeExperimente](https://www.leifiphysik.de/elektrizitaetslehre/permanentmagnetismus/aufgabe/quiz-zu-magnetischen-eigenschaften)
+
+## 1.4 Schülerexperiment: Messungen der magnetischen Flussdichte
+
+__Teil 1: Bestimmung der magnetischen Flussdichte des Erdmagnetfeldes__
+
+> Aufgabe: Bestimme mit Hilfe des Magnetfeldsensors an dem Cassy-Gerät die magnetische Flussdichte $B_{Erde} des Erdmagnetfeldes.
+
+__Teil 2: Bestimmung der magnetischen Feldkonstante $\mu_0$__
+
+> Aufgabe: Bestimme die magnetische Feldkonstante $\mu_0$ mit Hilfe der Messung der magnetischen Flussdichte B an einer Spule.
+
+@color(Führe die beiden Messungen durch. Erstelle jeweils ein Kurzprotokoll, blue).
+
+_optional (min. 15min)_
+
+__Teil 3: Überprüfung der Proportionalität von $B$ ~ $N$__
+
+> Aufgabe: Überprüfe experimentell die Proportionalität der magnetischen Flussdichte $B$ und der Windungszahl $N$
+
+
+### Experiment Teil 1: Erdmagnetfeld
+
+@color(__ACHTUNG: Der Magnetfeld-Sensor ist sehr empfindlich und teuer. Bitte geht sorgsam damit um.__,red)
+
+<br>
+
+@color(_Fertige auf Basis der folgenden Arbeitsschritte ein Kurzprotokoll an._, blue)
+
+<br>
+
+__1.1 Vorbereitung:__
+
+> - recherchiere im Internet die Stärke der magnetischen Flussdichte $B_{Erde}$ des Erdmagnetfeldes in Deutschland
+>
+> - notiere den Wert und die Quelle
+>
+> $$ B_{Erde} = ... $$
+>
+> - erhalte von der Lehrkraft einen Magnetfeldsensor und ein Cassy-Messgerät
+>
+> - schließe de Magnetfeldsensor an das Cassy-Messgerät an und lass dir die aktuelle magnetische Flussdichte B anzeigen
+>
+> - wechsle im Menu zu den Einstellungen von B und
+>
+>      - wähle als Messmethode tangential
+>
+>      - wähle als Messbereich 0 - 10 mT
+
+__1.2 Durchführung:__
+
+> - bestimme mit dem Cassy-Messgerät die natürliche magnetische Feldstärke an zwei Punkten im Physikraum und an anderen Orten im Schulhaus
+>
+> - notiere dir kurz Stichpunkte zu deinem Messablauf
+>
+> - erstelle dabei folgende Tabelle
+>
+> - fülle die Messwerte mit den Ergebnissen
+
+__1.3 Ergebnisse:__
+
+|    | Ort der Messung | magnetische Flussdichte B |
+|:--:|:---------------:|:-------------------------:|
+| 1  | |
+| 2  | |
+| 3  | |
+| 4  | |
+
+__1.4 Auswertung:__
+
+> - ermittle den Mittelwert deiner Messungen und notiere dein Ergebnis:
+>
+> Das natürliche Magnetfeld der Erde hat am Gym.Klotzsche den mittleren Wert:
+> $$B_{Erde} \approx ... $$
+>
+> Vergleiche den Wert mit dem recherchierten Ergebnis aus den Vorbetrachtungen in 1.1 in einem Satz.
+
+### Experiment Teil 2: Bestimmung der magnetischen Feldkonstante $\mu_0$
+
+@color(__ACHTUNG: Der Magnetfeld-Sensor ist sehr empfindlich und teuer. Bitte geht sorgsam damit um.__,red)
+
+<br>
+
+@color(_Fertige auf Basis der folgenden Arbeitsschritte ein Kurzprotokoll an._, blue)
+
+<br>
+
+__2.1 Vorbetrachtung:__
+
+> Die magnetische Flussdichte im Inneren eine langen, schlanken, luftgefüllten Spule kann mit der Formel 
+>
+> $$ B = ... $$ 
+>
+> berechnet werden. 
+>
+> - ermittle diese Formel (siehe Hefter oder Formelsammlung)
+>
+> - stelle die Formel nach $\mu_0$ um und notiere die Berechnungsvorschrift für $\mu_0$
+>
+> $$ \boxed{\mu_0 = ... } $$
+>
+> - notiere die Bedeutung der Formelzeichen
+>
+> Die magnetische Feldkonstante $\mu_0$ hat den theoretischen Wert
+>
+> $$ \boxed{\mu_0 = ... } $$
+>
+> - emittle mit Hilfe der Formelsammlung den Wert von $\mu_0$ und notiere ihn
+>
+>> Um die magnetische Feldkonstante $\mu_0$ zu bestimmen, müssen die fehlenden Werte der Formel aus 1.1 gemessen werden. Um den Einfluss von Messfehlern zu reduzieren, wird die Messung für __dreimal__ durchgeführt.
+
+__2.2 Durchführung:__
+
+> - erhalte von der Lehrkraft eine Spule, ein Stromversorgungsgerät und einige Experimentierkabel
+>
+> - schließe die Spule und das Cassy so an die Stromversorgung an, dass die Stromstärke $I$, die durch die Spule fließt, und die magnetische Flussdichte mit dem Cassy-Messgerät gemessen werden kann
+>
+> - nutze dafür folgenden Schaltkreis, zeichne diesen in dein Kurzprotokoll
+>
+> - ![Schaltkreis_BestimmungMu0](https://diversewolken.ddns.net/nextcloud/index.php/s/ndXRogTZJCCDByY/download)
+>
+> - @color(__lass dir die Schaltung vor dem Einschalten abnehmen__, red)
+>
+> - wähle als Spannung 5 V
+>
+> - bestimme für drei verschiedene Windungszahlen ($N=800,\, 1600,\, 2400$):
+>
+>     - die Länge $ℓ$ der Spule (achte hier auf die Windungen: die Windungszahlen 800 und 1600 sind jeweils auf die halbe Spule aufgewickelt)
+>
+>     - die Stromstärke $I$ 
+>
+>     - die magnetische Flussdichte $B$ -> @color(suche im Inneren der Spule vorsichtig nach dem Ort mit der maximalen Flussdichte, red)
+>
+> - notiere alle Messwerte in einer Tabelle
+
+__2.3 Messwerte:__
+
+> - erstelle eine Tabelle mit folgenden Einträgen.
+
+| # | $N$ | $ℓ$ in m | $I$ in A | $B$ in T |
+|:--:|:--:|:--:|:--:|:--:|
+| 1 | 800  | .. | .. | .. |
+| 2 | 1600 | .. | .. | .. |
+| 3 | 2400 | .. | .. | .. |
+
+__2.4 Auswertung:__
+
+> - ermittle aus den Messungen #1-3 und der Formel aus 2.1 jeweils die magnetische Feldkonstante $\mu_0$ und notiere deine Ergebnisse
+>
+> - ermittle aus den Werten für $\mu_0$ den Mittelwert, notiere dein Endergebnis und vergleiche ihn mit dem theoretischen Wert aus 2.1 (in einem Satz)
+
+__wenn noch min. 15 min Zeit ist:__
+
+> - schau dir Experiment Teil 3 an, du kannst direkt mit der Durchführung (unterhalb der Abnahme) beginnen und die Werte notieren
+
+### Experiment Teil 3: Überprüfung der Proportionalität $B$ ~ $N$
+
+@color(__ACHTUNG: Der Magnetfeld-Sensor ist sehr empfindlich und teuer. Bitte geht sorgsam damit um.__,red)
+
+<br>
+
+@color(_Fertige auf Basis der folgenden Arbeitsschritte ein Kurzprotokoll an._, blue)
+
+<br>
+
+__3.1 Vorbetrachtung:__
+
+> Die magnetische Flussdichte im Inneren eine langen, schlanken, luftgefüllten Spule kann mit der Formel 
+>
+> $$ B = ... $$ 
+>
+> berechnet werden. 
+>
+> - ermittle diese Formel (siehe Hefter oder Formelsammlung)
+>
+> - notiere die Bedeutung der Formelzeichen
+>
+> - aufgrund der Formel kann man erkennen, dass die Flussdichte $B$ im Inneren der Spule proportional zur Anzahl der Windungen $N$ sein sollte
+>
+> - um die Proportionalität von $B$ ~ $N$ zu überprüfen, muss die magnetische Flussdichte $B$ für verschiedene Windungszahlen $N$ bestimmt werden. Dabei muss die Stromstärke $I$ konstant gehalten werden. In einem $B(N)$-Diagramm sollte sich näherungsweise eine Ursprungsgerade ergeben.
+
+__3.2 Durchführung:__
+
+> - erhalte von der Lehrkraft eine Spule, ein Stromversorgungsgerät und einige Experimentierkabel
+>
+> - schließe die Spule und das Cassy so an die Stromversorgung an, dass die Stromstärke $I$, die durch die Spule fließt, und die magnetische Flussdichte mit dem Cassy-Messgerät gemessen werden kann
+>
+> - nutze dafür folgenden Schaltkreis, zeichne diesen in dein Kurzprotokoll
+>
+> - ![Schaltkreis_BpN](https://diversewolken.ddns.net/nextcloud/index.php/s/e5eGt4GAqkdK7ws/download)
+>
+> - @color(__lass dir die Schaltung vor dem Einschalten abnehmen__, red)
+>
+> - wähle als Spannung 5 V zunächst
+>
+> - bestimme für drei verschiedene Windungszahlen ($N=2400,\, 1600,\, 800$):
+>
+>     - die Länge $ℓ$ der Spule (achte hier auf die Windungen: die Windungszahlen 800 und 1600 sind jeweils auf die halbe Spule aufgewickelt)
+>
+>     - bestimme die Stromstärke $I$ für die erste Messung mit $N=2400$
+>
+>     - bestimme die magnetische Flussdichte $B$ -> @color(suche im Inneren der Spule nach dem Ort mit der maximalen Flussdichte, red)
+>
+>     - verändere bei deiner zweiten Messung mit $N=1600$ die Spannung soweit, dass die Stromstärke $I$ mit der ersten Messung identisch ist
+>
+>     - wiederhole die Messung für $N=800$
+>
+> - notiere alle Messwerte in einer Tabelle
+
+__3.3 Messwerte:__
+
+> - erstelle eine Tabelle mit folgenden Einträgen.
+
+| # | $N$ | $ℓ$ in m | $I$ in A | $B$ in T |
+|:--:|:--:|:--:|:--:|:--:|
+| 1 | 2400  | .. | .. | .. |
+| 2 | 1600  | .. | .. | .. |
+| 3 | 800   | .. | .. | .. |
+
+__3.4 Auswertung:__
+
+> - erstelle aus den Messwerten ein Diagramm in dem du die Windungszahl $N$ auf der x-Achse und die magnetische Flussdichte auf der y-Achse einträgst
+>
+> - markiere in deinem Diagramm die drei Messpunkte #1-3, sowie den Punkt (0|0)
+>
+> - verbinde die Messpunkte mit einer Ausgleichsgeraden
+>
+> - überprüfe ob diese Ausgleichsgerade die Messergebnisse in guter Näherung darstellt, notiere einen Ergebnissatz
+
