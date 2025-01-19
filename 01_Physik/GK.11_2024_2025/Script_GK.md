@@ -3551,3 +3551,38 @@ Um welchen ferromagnetischen Stoff könnte es sich handeln?
 Die magnetische Flussdichte $B$ in einer luftgefüllten Spule beträgt $1,26 \, mT$. Die Spule hat $N = 400$ Windungen und eine Länge von $ℓ = 0,5 \, m$. Berechne den Strom $I$, der durch die Spule fließt?  
 
 @rangeQuiz2(I, 1.25, A)
+
+### Übungen zum magnetischen Feld allgemein
+
+@timer(15,00)
+
+<br>
+
+<br>
+
+<br>
+
+__Grundwissen Magnetismus__
+
+??[LueckentextMagnetismus](https://learningapps.org/1319776)
+
+__Grundwissen magnetisches Feld__
+
+??[LueckentextMagnetfeld](https://learningapps.org/35523603)
+
+__Fragen zu magnetischen Experimenten__
+
+??[MagnetischeExperimente](https://www.leifiphysik.de/elektrizitaetslehre/permanentmagnetismus/aufgabe/quiz-zu-magnetischen-eigenschaften)
+
+## 1.4 Schülerexperiment: Messungen der magnetischen Flussdichte
+
+__Teil 1: Bestimmung der magnetischen Flussdichte des Erdmagnetfeldes__
+
+> Aufgabe: Bestimme mit Hilfe des Magnetfeldsensors an dem Cassy-Gerät die magnetische Flussdichte $B_{Erde} des Erdmagnetfeldes.
+
+__Teil 2: Überprüfung der Proportionalität $B ~ N$ (magn. Flussdichte ~ Windungszahl)__
+
+> Aufgabe: Untersuche mit Hilfe des Magnetfeldsensors die Proportionalität zwischen der Windungszahl und der magnetischen Flussdichte.
+
+__Teil 3: Bestimmung der magnetischen Feldkonstante $\mu_0$__
+
