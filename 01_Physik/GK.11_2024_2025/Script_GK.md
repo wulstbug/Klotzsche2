@@ -3701,7 +3701,7 @@ __2.2 Durchführung:__
 >
 > - bestimme für drei verschiedene Windungszahlen ($N=800,\, 1600,\, 2400$):
 >
->     - die Länge $ℓ$ der Spule (achte hier auf die Windungen: die Windungszahlen 800 und 1600 sind jeweils auf die halbe Spule aufgewickelt)
+>     - die Länge $ℓ$ der Spule (achte hier auf die Windungen: die Windungszahlen 800 und 1600 sind jeweils auf die @color(gesamte,red) Spule aufgewickelt)
 >
 >     - die Stromstärke $I$ 
 >
