@@ -3687,6 +3687,8 @@ __2.2 Durchführung:__
 
 > - erhalte von der Lehrkraft eine Spule, ein Stromversorgungsgerät und einige Experimentierkabel
 >
+> - nutze in den Einstellungen des Cassy-Messgerätes zur magnetischen Flussdichte B die Möglichekeit, dass Erdmagnetfeld zu korrigieren: Wähle dazu: __Korrektur: Offset und stelle den Wert so ein, dass das Gerät ungefähr $\pm$ 0,01 mT anzeigt__
+>
 > - schließe die Spule und das Cassy so an die Stromversorgung an, dass die Stromstärke $I$, die durch die Spule fließt, und die magnetische Flussdichte mit dem Cassy-Messgerät gemessen werden kann
 >
 > - nutze dafür folgenden Schaltkreis, zeichne diesen in dein Kurzprotokoll
