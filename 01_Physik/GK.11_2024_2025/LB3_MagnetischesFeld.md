@@ -684,7 +684,7 @@ __1.1 Vorbereitung:__
 >
 > - erhalte von der Lehrkraft einen Magnetfeldsensor und ein Cassy-Messgerät
 >
-> - schließe de Magnetfeldsensor an das Cassy-Messgerät an und lass dir die aktuelle magnetische Flussdichte B anzeigen
+> - schließe de Magnetfeldsensor an das Cassy-Messgerät an (__linke Seite -> Kanal A__) und lass dir die aktuelle magnetische Flussdichte B anzeigen
 >
 > - wechsle im Menu zu den Einstellungen von B und
 >
