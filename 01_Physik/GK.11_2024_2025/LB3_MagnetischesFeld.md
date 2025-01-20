@@ -625,14 +625,6 @@ Die magnetische Flussdichte $B$ in einer luftgefüllten Spule beträgt $1,26 \, 
 
 ### Übungen zum magnetischen Feld allgemein
 
-@timer(15,00)
-
-<br>
-
-<br>
-
-<br>
-
 __Grundwissen Magnetismus__
 
 ??[LueckentextMagnetismus](https://learningapps.org/1319776)
@@ -758,7 +750,7 @@ __2.2 Durchführung:__
 
 > - erhalte von der Lehrkraft eine Spule, ein Stromversorgungsgerät und einige Experimentierkabel
 >
-> - nutze in den Einstellungen des Cassy-Messgerätes zur magnetischen Flussdichte B die Möglichekeit, dass Erdmagnetfeld zu korrigieren: Wähle dazu: __Korrektur: Offset und stelle den Wert so ein, dass das Gerät ungefähr $\pm$ 0,01 mT anzeigt__
+> - nutze in den Einstellungen des Cassy-Messgerätes zur magnetischen Flussdichte B die Möglichekeit, dass Erdmagnetfeld zu korrigieren: Wähle dazu: __Korrektur: Offset und stelle den Wert so ein, dass das Gerät ungefähr $\pm$ 0,01 mT anzeigt. Der Offset muss mit OK bestätigt werden (kleines Häkchen).__
 >
 > - schließe die Spule und das Cassy so an die Stromversorgung an, dass die Stromstärke $I$, die durch die Spule fließt, und die magnetische Flussdichte mit dem Cassy-Messgerät gemessen werden kann
 >
