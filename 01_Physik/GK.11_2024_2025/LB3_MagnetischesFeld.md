@@ -641,7 +641,7 @@ __Fragen zu magnetischen Experimenten__
 
 __Teil 1: Bestimmung der magnetischen Flussdichte des Erdmagnetfeldes__
 
-> Aufgabe: Bestimme mit Hilfe des Magnetfeldsensors an dem Cassy-Gerät die magnetische Flussdichte $B_{Erde} des Erdmagnetfeldes.
+> Aufgabe: Bestimme mit Hilfe des Magnetfeldsensors an dem Cassy-Gerät die magnetische Flussdichte $B_{Erde}$ des Erdmagnetfeldes.
 
 __Teil 2: Bestimmung der magnetischen Feldkonstante $\mu_0$__
 
