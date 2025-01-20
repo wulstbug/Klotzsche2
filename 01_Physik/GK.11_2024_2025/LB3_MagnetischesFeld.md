@@ -688,7 +688,7 @@ __1.1 Vorbereitung:__
 >
 > - wechsle im Menu zu den Einstellungen von B und
 >
->      - wähle als Messmethode tangential
+>      - wähle als Messmethode axial
 >
 >      - wähle als Messbereich 0 - 10 mT
 
