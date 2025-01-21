@@ -1303,3 +1303,15 @@ __7. Ergebnis:__
 - [ ] <bdi style="color:blue">An einem idealen Transformator gilt für das Übersetzungsverhält $n = \frac{N_p}{N_s} = \frac{U_p}{U_s} = n'$. Überprüfe anhand deiner Berechnungen (oben), ob der hier untersuchte Transformator als idealer Transformator betrachtet werden kann. Formuliere ein Ergebnis dieses Experiments.</bdi>
 
 
+# Klassenarbeit - Operatoren
+
+| | |
+|__Operatoren:__    |      __Bedeutung:__|
+| __Nenne/Notiere:__| -> Geforderten Begriff oder Satz notieren (keine Begründung nötig)|
+| __Ermittle:__     | -> Berechnen oder anderweitig Ergebnis ermitteln, __Lösungsweg__ muss erkennbar sein|
+| __Beschreibe:__   | -> Notieren, was zu beobachten ist/was passiert|
+| __Begründe:__     | -> Antwort durch geeignete Argumente/Berechnungen belegen|
+| __Erkläre:__      | -> Beschreiben __und__ Begründen|
+| __Vergleiche:__   | -> Erkläre Gemeinsamkeiten und Unterschiede. |
+| __Skizziere:__    | -> Ungefähre Zeichnung anfertigen|
+| __Zeichne:__      | -> Diagramm mit Zahlenwerten anfertigen oder maßstabsgetreue (exakte) Darstellung|
