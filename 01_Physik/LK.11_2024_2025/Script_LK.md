@@ -5769,8 +5769,16 @@ __Hinweise:__
 
 {{2}}
 ***************
-![Verteilung_Kl2](https://diversewolken.ddns.net/nextcloud/index.php/s/zBesiEnQHNNccbq/download)
+__Verteilung:__
 
+![Verteilung_Kl2](https://diversewolken.ddns.net/nextcloud/index.php/s/zBesiEnQHNNccbq/download)
 ***************
 
 
+{{3}}
+***************
+__Feedback Physik LK__
+
+[qr-code](https://forms.office.com/Pages/ResponsePage.aspx?id=OYkUKbuZEE6zqVVLeyuod-N98JNwJnhAr0ZoZo5y2cdUNlJCUUhJMUkzQ1ROTVFGNzhDTlJPWURRWC4u)
+
+***************
