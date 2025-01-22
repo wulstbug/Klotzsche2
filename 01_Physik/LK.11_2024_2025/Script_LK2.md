@@ -415,7 +415,7 @@ Im Raumbereich um einen __geladenen KÃ¶rper__ wirkt auf einen anderen geladen KÃ
 
 {{2}}
 ***********
-> Das __elektrische Feld__ verdeutlicht die Kraftwirkung auf eine <span style="color:orange">positive Probeladung</span>, dargestellt durch so genannte <span style="color:orange">Feldlinien.</span> 
+> Das __elektrische Feld__ verdeutlicht die Kraftwirkung auf eine <span style="color:orange">positive Probeladung</span>, dargestellt durch <span style="color:orange">Feldlinien.</span> 
 ***********
 
 
