@@ -376,3 +376,206 @@ Die Masse des $\alpha$-Teilchens beträgt
 $$ m_\alpha = 6,64 \cdot 10^{-27} kg $$
 
 </details>
+
+
+### Einschub: Einheitenvorsätze und 10er-Potenzen
+
+@color(vgl. FS S. 50, orange)
+
+![TB_Einheitenvorzeichen](https://diversewolken.ddns.net/nextcloud/index.php/s/iSnpGbWo5yCkJG9/download)
+
+[GSI_SCRIPT_ELEHRE](https://web-docs.gsi.de/~wolle/TELEKOLLEG/ELEKTRIK/elektrik.html)
+
+## 5.2 Das elektrische Feld
+
+![DasElektrischeFeld](https://web-docs.gsi.de/~wolle/TELEKOLLEG/ELEKTRIK/E-FELD/e-1.jpg)
+
+
+
+### 5.2.1 Definition und elektrische Feldlinien
+
+Im Raumbereich um einen __geladenen Körper__ wirkt auf einen anderen geladen Körper eine elektrische __Kraft__ ([Simulation elektrischer Kräfte](https://www.geogebra.org/classic/vbw299uv?embed)).
+
+{{1}}
+***********
+> Um die Kraftwirkung im gesamten Raum zu __illustrieren__ wird der Begriff <span style="color:orange">elektrisches Feld</span> eingeführt.
+***********
+
+{{2}}
+***********
+> Das __elektrische Feld__ verdeutlicht die Kraftwirkung auf eine <span style="color:orange">positive Probeladung</span>, dargestellt durch <span style="color:orange">Feldlinien.</span> 
+***********
+
+
+{{3}}
+***********
+__Beispiele für elektrische Felder:__
+
+| Radialfeld<br>(_inhomogenes Feld_) |  Dipolfeld<br>(_inhomogenes Feld_) | Plattenkondensator<br> (homogenes Feld) |
+| {4}{![Radialfeld](https://diversewolken.ddns.net/nextcloud/index.php/s/3r6ngsjZkRr4RD6/download)} | {5}{![Dipolfeld](https://diversewolken.ddns.net/nextcloud/index.php/s/RoDMrztJdHLrSyN/download)} | {6}{![HomogenesFeld](https://diversewolken.ddns.net/nextcloud/index.php/s/fpKSpwGykqjMJZP/download)} |
+| {4}{einzelne Punktladung} | {5}{zwei ungleichnamige Punktladungen} | {6}{Plattenkondensator} |
+
+***********
+
+{{7}}
+***********
+__Es gelten folgende Vereinbahrungen:__
+
+- Feldlinien verlaufen von <span style="color:red">__Plus__</span> nach <span style="color:darkgreen">__Minus__</span>.
+
+- die Richtung der Feldlinie gibt die __Kraftrichtung__ auf eine <span style="color:red">__positive Probeladung__</span> an
+
+- je dichter die Feldlinien in einem bestimmten Gebiet, desto größer ist die dort wirkende Kraft
+
+- in einem __homogenen Feld__ (z.B. innerhalb eines Plattenkondensators) ist der Betrag der wirkenden Kraft überall gleich
+
+- elektrische Feldlinien beginnen/enden __senkrecht__ an/auf einer Oberfläche
+***********
+
+{{8}}
+***********
+> __Quellen und Senken elektrischer Felder:__
+>
+> Elektrische Feldlinien beginnen an positiven Ladungen <span style="color:red">__(Quelle)__</span> und enden an negativen Ladungen <span style="color:darkgreen">__(Senke)__</span>
+***********
+
+#### Video zum elektrischen Feld
+
+<p style="color:orange"> Bitte schau dir folgendes Video an. Bis zur Minute 3:00 ist es Wiederholung, dann folgenden Fakten zum elektrischen Feld, welche wir noch nicht besprochen haben. Du kannst es dir zur Information ansehen, musst du aber nicht. </p>
+
+!?[ElektischesFeld](https://www.youtube.com/watch?v=EN6dTZH-HDs)
+
+### 5.2.2 Berechnung des elektrischen Feldes
+
+Die Stärke des elektrischen Feldes $\vec{E}$ berechnet sich aus der Kraft $\vec{F}$ auf eine elektrische Ladung $Q$.
+
+> $$ \vec{E} = \frac{\vec{F_{el}}}{Q} $$
+>
+> <div style="color:orange">_Hinweis: Die Pfeile über $\vec{E}$ und $\vec{F}$ bedeuten, dass es sich um Vektoren mit einer Richtung und einem Wert (auch Betrag genannt) handelt. Kräfte haben wir bereits als Vektoren gezeichnet._ </div> <br>
+>
+> Einheit: $$\Big[\dfrac{N}{C} = \dfrac{V}{m}\Big]$$
+>
+> $\hspace{1cm}$  <div style="color:orange">_Hinweis: $N$ (Newton) ist die Einheit der Kraft und $C$ (Coulomb) ist die Einheit der elektrischen Ladung._ </div>
+
+### Aufgaben zu 5.2
+
+<div style="color:orange">_Hinweis: Löse folgende Augaben. Du kannst auf das Glühlampensymbol klicken, wenn du Tipps benötigst, auch mehrfach._ </div>
+
+1. Die Erde bestitz in zur Oberfläche gerichtetes elektrisches Feld, das an der Oberfläche eine Stärke von $ 130 \dfrac{N}{C} $ besitzt.
+
+1. 1. Welches Vorzeichen hat die demzufolge die Ladung der Erde.
+
+        <!-- data-solution-button="off" -->
+        [( )] positiv
+        [(X)] negativ
+        [( )] kann man nicht sagen
+        [[?]] Achte auf die Richtung der Feldlinien im Aufgabentext. Vergleiche die Richtung mit der Richtungsvorgabe für Feldlinien (siehe 1.2)
+        [[?]] Feldlinien beginnen bei positiven und enden bei negativen Ladungen
+
+---
+
+
+1. 2. Eine Tischtennisball mit einer metallischen Oberfläche sei elektrisch negativ aufgeladen. Entscheide, ob der Tischtennisball von der Erde abgestoßen oder angezogen wird.
+
+        <!-- data-solution-button="off" -->
+        [( )] angezogen
+        [(X)] abgestoßen
+        [[?]] Die Erde ist, wie in 1.1. überlegt negativ geladen. Überprüfe die Kraftwirkung auf den negativ geladenen Tischtennisball.
+
+---
+
+1. 3. Die Ladung des Tischtennisballs beträgt $Q = 0,1\cdot10^{-3} C =  5 mC $. Ermittle den Wert der Kraft $\vec{F_{el}}$, mit welche auf den TT-Ball wirkt.<br>(_Hinweis: Zwischen Zahl und Einheit bitte kein Leerzeichen._)
+
+        [[ 0,013N ]]
+        [[?]] Die Formel zur Berechnung der Kraft findest du in Abschnitt 1.2.1.
+        [[?]] Stelle die Formel $\vec{E} = \frac{\vec{F}}{Q} $ nach $\vec{F}$ um.
+
+---
+
+1. 4. *Der Ball hat eine Masse von 5g. Ermittle die Ladung Q, die er haben müsste, damit er über dem Erdboden schweben könnte.<br>_Gib die Antwort in der Einheit mC (Millicoulomb) an. Runde auf 2 Kommastellen._
+
+        [[ 0,38mC ]]
+        [[?]] Wenn der Ball schweben soll, muss Gewichtskraft $F_g$ und abstoßende elektrische Kraft $F_{el}$ gleich groß sein.
+        [[?]] Es gilt: $F_g = m \cdot g$ und $F_{el} = E \cdot Q$.
+        [[?]] Umgestellt nach $Q$: $Q=\frac{m \cdot g}{E}$
+        [[?]] Lösung $Q = 0,0003773 C \approx 0,38mC$
+
+---
+
+2. Entscheide für die folgenden Felder, um welche Art von Feld es sich handelt.
+
+2. 1. ![Dipolfeld](https://diversewolken.ddns.net/nextcloud/index.php/s/RoDMrztJdHLrSyN/download)
+
+        <!-- data-solution-button="off" -->
+        [( )] Radialfeld
+        [(X)] Dipolfeld
+        [( )] Homogenes Feld
+        [[?]] Vergleiche Feldtypen unter 1.2.
+
+---
+
+2. 2. ![HomogenesFeld](https://diversewolken.ddns.net/nextcloud/index.php/s/fpKSpwGykqjMJZP/download)
+
+        <!-- data-solution-button="off" -->
+        [( )] Radialfeld
+        [( )] Dipolfeld
+        [(X)] Homogenes Feld
+        [[?]] Vergleiche Feldtypen unter 1.2.
+
+---
+
+2. 3. ![Radialfeld](https://diversewolken.ddns.net/nextcloud/index.php/s/3r6ngsjZkRr4RD6/download)
+
+        <!-- data-solution-button="off" -->
+        [(X)] Radialfeld
+        [( )] Dipolfeld
+        [( )] Homogenes Feld
+        [[?]] Vergleiche Feldtypen unter 1.2.
+
+
+3. Zeichne das elektrische Feld einer positiv geladenen Punktladung, welche zentral vor einer negativ geladenen Kondensatorplatte positioniert ist. Bei Fragen nutze folgende Hinweise.
+
+<details style="margin-left:10%">
+
+<summary> Hinweis: Anordnung der Ladungen </summary>
+
+![Aufgabe_1_L1](https://diversewolken.ddns.net/nextcloud/index.php/s/3mH8ApKdxxj52dJ/download)
+
+</details>
+
+<details style="margin-left:10%">
+
+<summary> Hinweis: Lage der Feldlinien </summary>
+
+![Aufgabe_1_L2](https://diversewolken.ddns.net/nextcloud/index.php/s/DF6TktoF9Xgyg5A/download)
+
+</details>
+
+4. An den acht Ecken eines Würfels mit der Kantenlänge 1 mm ist jeweils ein Proton angeheftet (es ist fest). Ermittle die Feldstärke im Mittelpunkte des Würfels.
+
+<details style="margin-left:10%">
+
+<summary> Hinweis </summary>
+
+Stell dir vor im Mittelpunkt des Würfels würde ein Elektron sitzen.
+Überlege dir zunächst die Kraftrichtung, die eins der Protonen auf das Elektron ausübt. Addiere dann die Kraftwirkung des gegenüberliegenden Protons dazu, usw.
+
+</details>
+
+<details style="margin-left:10%">
+
+<summary> Lösung </summary>
+
+Die Feldstärke im Mittelpunkt des Würfels wäre Null, denn die Kräfte auf eine Probeladung heben sich jeweils von den gegenüberliegenden Ecken auf. Somit wirkt auf eine Ladung (z.B. ein Elektron) im Mittelpunkt in der Summe keine Kraft und somit ist auch das elektrische Feld Null.
+
+</details>
+
+5.(*) Leite die Formel für das elektrische Feld einer Punktladung her. 
+
+<details style="margin-left-left:10%">
+
+<summary> Hinweis </summary>
+
+Nutze die allgemeine Gleichung für das das elektrische Feld und setze für die Kraft den Wert der elektrischen Kraft zwischen zwei Ladungen ein.
+
+</details>
