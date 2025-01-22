@@ -423,7 +423,7 @@ Im Raumbereich um einen __geladenen Körper__ wirkt auf einen anderen geladen K�
 ***********
 __Beispiele für elektrische Felder:__
 
-| Radialfeld<br>(_inhomogen_) |  Dipolfeld<br>(_inhomogen_) | Homogenes Feld |
+| Radialfeld<br>(_inhomogenes Feld_) |  Dipolfeld<br>(_inhomogenes Feld_) | Plattenkondensator<br> (homogenes Feld) |
 | {4}{![Radialfeld](https://diversewolken.ddns.net/nextcloud/index.php/s/3r6ngsjZkRr4RD6/download)} | {5}{![Dipolfeld](https://diversewolken.ddns.net/nextcloud/index.php/s/RoDMrztJdHLrSyN/download)} | {6}{![HomogenesFeld](https://diversewolken.ddns.net/nextcloud/index.php/s/fpKSpwGykqjMJZP/download)} |
 | {4}{einzelne Punktladung} | {5}{zwei ungleichnamige Punktladungen} | {6}{Plattenkondensator} |
 
@@ -435,13 +435,13 @@ __Es gelten folgende Vereinbahrungen:__
 
 - Feldlinien verlaufen von <span style="color:red">__Plus__</span> nach <span style="color:darkgreen">__Minus__</span>.
 
-- die Richtung der Feldlinie gibt die Kraftrichtung auf eine <span style="color:red">__positive Probeladung__</span> an
+- die Richtung der Feldlinie gibt die __Kraftrichtung__ auf eine <span style="color:red">__positive Probeladung__</span> an
 
 - je dichter die Feldlinien in einem bestimmten Gebiet, desto größer ist die dort wirkende Kraft
 
 - in einem __homogenen Feld__ (z.B. innerhalb eines Plattenkondensators) ist der Betrag der wirkenden Kraft überall gleich
 
-- elektrische Feldlinien beginnen/enden senkrecht an einer Oberfläche
+- elektrische Feldlinien beginnen/enden __senkrecht__ an/auf einer Oberfläche
 ***********
 
 {{8}}
