@@ -208,9 +208,6 @@ Das Kohlenstoffatom besitzt [[ 6 ]] Protonen im Kern, wohingegen ein Aluminiumat
 
 ### 5.1.2 Die elektrische Ladung
 
-
-<span style="color:orange">*Nutze LB S. 88. Ergänze und übernimm dieses Tafelbild.*</span>
-
 > Definition: Die elektrische Ladung eines Körpers gibt an, wie groß sein Elektronenüberschuss oder sein Elektronenmangel ist.
 >
 > __Formelzeichen: [[ Q ]]__
