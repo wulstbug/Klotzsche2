@@ -279,7 +279,7 @@ Der Atomkern eines Heliumatoms (ohne Elektronen) wird als $\alpha$-Teilchen beze
 
 1. Geben Sie die elektrische Ladung des $\alpha$-Teilchens in der Einheit Coulomb an.
 
-@rangeQuiz2($\hspace{1cm}$ $Q_{\alpha}$, 3.604e-19 ,$C$)
+@rangeQuiz2($\hspace{1cm}$ $Q_{\alpha}$, 3.204e-19 ,$C$)
 
 <details style="margin-left:10%">
 
@@ -331,7 +331,7 @@ Der Atomkern eines Heliumatoms (ohne Elektronen) wird als $\alpha$-Teilchen beze
 
 6. Berechnen Sie den Betrag der elektrischen Kraft, die auf jedes $\alpha$-Teilchen wirkt.
 
-@rangeQuiz2( $\hspace{1cm}$ $F_{el}$, 4.6696E-17 , $N$)
+@rangeQuiz2( $\hspace{1cm}$ $F_{el}$, 3.68E-17 , $N$)
 
 <details style="margin-left:10%">
 
@@ -378,7 +378,7 @@ Es ist keine gleichmäßig beschleunigte Bewegung, da sich die beschleunigende K
 
 9. Ermitteln Sie den Wert der Beschleunigung für die $\alpha$-Teilchen im Abstand $r=5\,\mu m$.
 
-@rangeQuiz2($\hspace{1cm}$ a, 7.0325E9 , $\dfrac{m}{s^2}$)
+@rangeQuiz2($\hspace{1cm}$ a, 5.541E9 , $\dfrac{m}{s^2}$)
 
 <details style="margin-left:10%">
 
@@ -396,7 +396,7 @@ Nutzen Sie das 2. Newton'sche Gesetz zur Ermittlung der Beschleunigung.
 
 $$ a = \frac{F}{m} $$
 
-$$ F_{el} = 4,67 \cdot 10^{-17} N\,\mathrm{(siehe\,5.)}$$
+$$ F_{el} = 3,68 \cdot 10^{-17} N\,\mathrm{(siehe\,5.)}$$
 
 Die Masse des $\alpha$-Teilchens beträgt
 
