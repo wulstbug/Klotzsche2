@@ -278,35 +278,75 @@ __Übung:__
 
 #### Aufgabe zu 1.4
 
-Der Atomkern eines Heliumatoms (ohne Elektronen) wird als $\alpha$-Teilchen bezeichnet. In der folgenden Aufgabe befinden sich zwei $\alpha$-Teilchen ruhend im Vakuum im Abstand von 5 pm.
+Der Atomkern eines Heliumatoms (ohne Elektronen) wird als $\alpha$-Teilchen bezeichnet. In der folgenden Aufgabe befinden sich zwei $\alpha$-Teilchen ruhend im Vakuum im Abstand von 5 µm.
 
 1. Geben Sie die elektrische Ladung des $\alpha$-Teilchens in der Einheit Coulomb an.
 
-@rangeQuiz2($\hspace{1cm}$ $Q_{\alpha}$, 3.604e-19 ,C)
+@rangeQuiz2($\hspace{1cm}$ $Q_{\alpha}$, 3.604e-19 ,$C$)
 
-2. Nennen Sie die Art des Ions bei einem $\alpha$-Teilchen.
+<details style="margin-left:10%">
+
+<summary> Hinweis </summary>
+
+Überprüfe die Anzahl der Ladungsträger in einem Heliumkern.
+
+</details>
+
+---
+
+2. Ermitteln Sie die Masse eines $\alpha$-Teilchens.
+
+@rangeQuiz2($\hspace{1cm}$ $m_{\alpha}$, 6.644e-27 ,$kg$)
+
+<details style="margin-left:10%">
+
+<summary> Hinweis </summary>
+
+Überprüfe die Masse des Teilchens in der Formelsammlung.
+
+</details>
+
+---
+
+3. Nennen Sie die Art des Ions bei einem $\alpha$-Teilchen.
 
 <div style="margin-left:10%">
 [[ Kation ]]
 </div>
 
-3. Geben Sie den Abstand der beiden Teilchen in der Einheit Meter an.
+---
 
-@rangeQuiz2($\hspace{1cm}$ $r$, 5e-12 ,m)
+4. Geben Sie den Abstand der beiden Teilchen in der Einheit Meter an.
 
-4. Nennen Sie die Art der Kraftwirkung zwischen den $\alpha$-Teilchen.
+@rangeQuiz2($\hspace{1cm}$ $r$, 5e-6 ,$m$)
+
+---
+
+5. Nennen Sie die Art der Kraftwirkung zwischen den $\alpha$-Teilchen.
 
 <div style="margin-left:10%">
 [( )] keine Kraftwirkung
 [( )] anziehende Kraftwirkung
-[(x)] bestoßende Kraftwirkung
+[(x)] abstoßende Kraftwirkung
 </div>
 
-5. Berechnen Sie den Betrag der Kraft, der auf jedes $\alpha$-Teilchen wirkt.
+---
 
-@rangeQuiz2( $\hspace{1cm}$ $F_{el}$, 2.3348E-16 , N)
+6. Berechnen Sie den Betrag der elektrischen Kraft, die auf jedes $\alpha$-Teilchen wirkt.
 
-6. Beschreiben Sie, was mit den $\alpha$-Teilchen geschieht.
+@rangeQuiz2( $\hspace{1cm}$ $F_{el}$, 4.6696E-17 , $N$)
+
+<details style="margin-left:10%">
+
+<summary> Hinweis </summary>
+
+Nutze die Formel für die elektrische Kraft zwischen zwei Ladungen.
+
+</details>
+
+---
+
+7. Beschreiben Sie wie sich die $\alpha$-Teilchen bewegen.
 
 <details style="margin-left:10%">
 
@@ -316,9 +356,56 @@ Durch die abstoßende Kraftwirkung werden die Teilchen voneinander weg beschleun
 
 </details>
 
-7. Ermitteln Sie den Wert der Beschleunigung für die $\alpha$-Teilchen im Abstand $r$.
+---
+
+8. Aufgrund der wirkenden elektrischen Kräfte werden die $\alpha$-Teilchen beschleunigt. Entscheiden Sie, ob es sich dabei um eine gleichmäßig beschleunigte Bewegung handelt. Begründen Sie Ihre Entscheidung.
+
+<details style="margin-left:10%">
+
+<summary> Hinweis </summary>
+
+Überprüfe, ob sich die beschleunigende Kraft während der Bewegung ändert.
+
+</details>
 
 
+<details style="margin-left:10%">
+
+<summary> Lösung </summary>
+
+Es ist keine gleichmäßig beschleunigte Bewegung, da sich die beschleunigende Kraft mit zunehmendem Abstand (die Teilchen bewegen sich von einander weg) verringert.
+
+</details>
+
+---
+
+9. Ermitteln Sie den Wert der Beschleunigung für die $\alpha$-Teilchen im Abstand $r=5\,\mu m$.
+
+@rangeQuiz2($\hspace{1cm}$ a, 7.0325E9 , $\dfrac{m}{s^2}$)
+
+<details style="margin-left:10%">
+
+<summary> Hinweis </summary>
+
+Nutzen Sie das 2. Newton'sche Gesetz zur Ermittlung der Beschleunigung.
+
+</details>
+
+<details style="margin-left:10%">
+
+<summary> Lösung </summary>
+
+-> 2. Newton'sches Gesetz
+
+$$ a = \frac{F}{m} $$
+
+$$ F_{el} = 4,67 \cdot 10^{-17} N\,\mathrm{(siehe\,5.)}$$
+
+Die Masse des $\alpha$-Teilchens beträgt
+
+$$ m_\alpha = 6,64 \cdot 10^{-27} kg $$
+
+</details>
 
 ## 5.2 Das elektrische Feld
 

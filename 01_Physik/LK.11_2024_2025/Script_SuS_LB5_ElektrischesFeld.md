@@ -130,7 +130,6 @@ window.LIA.settings.font_size = 2
 
 -->
 
-
 # LB5 - Elektrisches Feld
 
 ![Blitzeinschläge](https://img.welt.de/img/wirtschaft/webwelt/mobile218083858/8146580597-ci23x11-w2000/Out-Of-The-Blue.jpg)
@@ -250,76 +249,131 @@ __Übung:__
 
 #### Aufgabe zu 1.4
 
-Der Atomkern eines Heliumatoms (ohne Elektronen) wird als $\alpha$-Teilchen bezeichnet. In der folgenden Aufgabe befinden sich zwei $\alpha$-Teilchen ruhend im Vakuum im Abstand von 5 pm.
+Der Atomkern eines Heliumatoms (ohne Elektronen) wird als $\alpha$-Teilchen bezeichnet. In der folgenden Aufgabe befinden sich zwei $\alpha$-Teilchen ruhend im Vakuum im Abstand von 5 µm.
 
-1. Geben sie die elektrische Ladung des $\alpha$-Teilchens in der Einheit Coulomb an.
+1. Geben Sie die elektrische Ladung des $\alpha$-Teilchens in der Einheit Coulomb an.
 
-@rangeQuiz2($\hspace{1cm}$ $Q_{\alpha}$, 3.604e-19 ,C)
+@rangeQuiz2($\hspace{1cm}$ $Q_{\alpha}$, 3.604e-19 ,$C$)
 
-## 5.2 Das elektrische Feld
+<details style="margin-left:10%">
 
-Im Raumbereich um einen __geladenen Körper__ wirkt auf einen anderen geladen Körper eine elektrische __Kraft__ ([Simulation elektrischer Kräfte](https://www.geogebra.org/classic/vbw299uv?embed)).
+<summary> Hinweis </summary>
 
-{{1}}
-***********
-> Um die Kraftwirkung im gesamten Raum zu __illustrieren__ wird der Begriff <span style="color:orange">elektrisches Feld</span> eingeführt.
-***********
-
-{{2}}
-***********
-> Das __elektrische Feld__ verdeutlicht die Kraftwirkung auf eine <span style="color:orange">positive Probeladung</span>, dargestellt durch so genannte <span style="color:orange">Feldlinien.</span> 
-***********
-
-
-{{3}}
-***********
-__Beispiele für elektrische Felder:__
-
-| Radialfeld<br>(_inhomogen_) |  Dipolfeld<br>(_inhomogen_) | Homogenes Feld |
-| {4}{![Radialfeld](https://diversewolken.ddns.net/nextcloud/index.php/s/3r6ngsjZkRr4RD6/download)} | {5}{![Dipolfeld](https://diversewolken.ddns.net/nextcloud/index.php/s/RoDMrztJdHLrSyN/download)} | {6}{![HomogenesFeld](https://diversewolken.ddns.net/nextcloud/index.php/s/fpKSpwGykqjMJZP/download)} |
-| {4}{einzelne Punktladung} | {5}{zwei ungleichnamige Punktladungen} | {6}{Plattenkondensator} |
-
-***********
-
-{{7}}
-***********
-__Es gelten folgende Vereinbahrungen:__
-
-- Feldlinien verlaufen von <span style="color:red">__Plus__</span> nach <span style="color:darkgreen">__Minus__</span>.
-
-- die Richtung der Feldlinie gibt die Kraftrichtung auf eine <span style="color:red">__positive Probeladung__</span> an
-
-- je dichter die Feldlinien in einem bestimmten Gebiet, desto größer ist die dort wirkende Kraft
-
-- in einem __homogenen Feld__ (z.B. innerhalb eines Plattenkondensators) ist der Betrag der wirkenden Kraft überall gleich
-
-- elektrische Feldlinien beginnen/enden senkrecht an einer Oberfläche
-***********
-
-{{8}}
-***********
-> __Quellen und Senken elektrischer Felder:__
->
-> Elektrische Feldlinien beginnen an positiven Ladungen <span style="color:red">__(Quelle)__</span> und enden an negativen Ladungen <span style="color:darkgreen">__(Senke)__</span>
-***********
-
-{{9}}
-***********
-<span style="color:orange">_Aufgabe: Zeichne das elektrische Feld einer positiv geladenen Punktladung, welche zentral vor einer negativ geladenen Kondensatorplatte positioniert ist. Bei Fragen nutze folgende Hinweise._</span>
-
-<details>
-
-<summary> Hinweis: Anordnung der Ladungen </summary>
-
-![Aufgabe_1_L1](https://diversewolken.ddns.net/nextcloud/index.php/s/3mH8ApKdxxj52dJ/download)
+Überprüfe die Anzahl der Ladungsträger in einem Heliumkern.
 
 </details>
 
-<details>
+---
 
-<summary> Hinweis: Lage der Feldlinien </summary>
+2. Ermitteln Sie die Masse eines $\alpha$-Teilchens.
 
-![Aufgabe_1_L2](https://diversewolken.ddns.net/nextcloud/index.php/s/DF6TktoF9Xgyg5A/download)
+@rangeQuiz2($\hspace{1cm}$ $m_{\alpha}$, 6.644e-27 ,$kg$)
+
+<details style="margin-left:10%">
+
+<summary> Hinweis </summary>
+
+Überprüfe die Masse des Teilchens in der Formelsammlung.
 
 </details>
-***********
+
+---
+
+3. Nennen Sie die Art des Ions bei einem $\alpha$-Teilchen.
+
+<div style="margin-left:10%">
+[[ Kation ]]
+</div>
+
+---
+
+4. Geben Sie den Abstand der beiden Teilchen in der Einheit Meter an.
+
+@rangeQuiz2($\hspace{1cm}$ $r$, 5e-6 ,$m$)
+
+---
+
+5. Nennen Sie die Art der Kraftwirkung zwischen den $\alpha$-Teilchen.
+
+<div style="margin-left:10%">
+[( )] keine Kraftwirkung
+[( )] anziehende Kraftwirkung
+[(x)] abstoßende Kraftwirkung
+</div>
+
+---
+
+6. Berechnen Sie den Betrag der elektrischen Kraft, die auf jedes $\alpha$-Teilchen wirkt.
+
+@rangeQuiz2( $\hspace{1cm}$ $F_{el}$, 4.6696E-17 , $N$)
+
+<details style="margin-left:10%">
+
+<summary> Hinweis </summary>
+
+Nutze die Formel für die elektrische Kraft zwischen zwei Ladungen.
+
+</details>
+
+---
+
+7. Beschreiben Sie wie sich die $\alpha$-Teilchen bewegen.
+
+<details style="margin-left:10%">
+
+<summary> Antwort </summary>
+
+Durch die abstoßende Kraftwirkung werden die Teilchen voneinander weg beschleunigt.
+
+</details>
+
+---
+
+8. Aufgrund der wirkenden elektrischen Kräfte werden die $\alpha$-Teilchen beschleunigt. Entscheiden Sie, ob es sich dabei um eine gleichmäßig beschleunigte Bewegung handelt. Begründen Sie Ihre Entscheidung.
+
+<details style="margin-left:10%">
+
+<summary> Hinweis </summary>
+
+Überprüfe, ob sich die beschleunigende Kraft während der Bewegung ändert.
+
+</details>
+
+
+<details style="margin-left:10%">
+
+<summary> Lösung </summary>
+
+Es ist keine gleichmäßig beschleunigte Bewegung, da sich die beschleunigende Kraft mit zunehmendem Abstand (die Teilchen bewegen sich von einander weg) verringert.
+
+</details>
+
+---
+
+9. Ermitteln Sie den Wert der Beschleunigung für die $\alpha$-Teilchen im Abstand $r=5\,\mu m$.
+
+@rangeQuiz2($\hspace{1cm}$ a, 7.0325E9 , $\dfrac{m}{s^2}$)
+
+<details style="margin-left:10%">
+
+<summary> Hinweis </summary>
+
+Nutzen Sie das 2. Newton'sche Gesetz zur Ermittlung der Beschleunigung.
+
+</details>
+
+<details style="margin-left:10%">
+
+<summary> Lösung </summary>
+
+-> 2. Newton'sches Gesetz
+
+$$ a = \frac{F}{m} $$
+
+$$ F_{el} = 4,67 \cdot 10^{-17} N\,\mathrm{(siehe\,5.)}$$
+
+Die Masse des $\alpha$-Teilchens beträgt
+
+$$ m_\alpha = 6,64 \cdot 10^{-27} kg $$
+
+</details>
