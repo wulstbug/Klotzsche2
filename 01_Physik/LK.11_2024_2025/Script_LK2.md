@@ -280,9 +280,45 @@ __Übung:__
 
 Der Atomkern eines Heliumatoms (ohne Elektronen) wird als $\alpha$-Teilchen bezeichnet. In der folgenden Aufgabe befinden sich zwei $\alpha$-Teilchen ruhend im Vakuum im Abstand von 5 pm.
 
-1. Geben sie die elektrische Ladung des $\alpha$-Teilchens in der Einheit Coulomb an.
+1. Geben Sie die elektrische Ladung des $\alpha$-Teilchens in der Einheit Coulomb an.
 
 @rangeQuiz2($\hspace{1cm}$ $Q_{\alpha}$, 3.604e-19 ,C)
+
+2. Nennen Sie die Art des Ions bei einem $\alpha$-Teilchen.
+
+<div style="margin-left:10%">
+[[ Kation ]]
+</div>
+
+3. Geben Sie den Abstand der beiden Teilchen in der Einheit Meter an.
+
+@rangeQuiz2($\hspace{1cm}$ $r$, 5e-12 ,m)
+
+4. Nennen Sie die Art der Kraftwirkung zwischen den $\alpha$-Teilchen.
+
+<div style="margin-left:10%">
+[( )] keine Kraftwirkung
+[( )] anziehende Kraftwirkung
+[(x)] bestoßende Kraftwirkung
+</div>
+
+5. Berechnen Sie den Betrag der Kraft, der auf jedes $\alpha$-Teilchen wirkt.
+
+@rangeQuiz2( $\hspace{1cm}$ $F_{el}$, 2.3348E-16 , N)
+
+6. Beschreiben Sie, was mit den $\alpha$-Teilchen geschieht.
+
+<details style="margin-left:10%">
+
+<summary> Antwort </summary>
+
+Durch die abstoßende Kraftwirkung werden die Teilchen voneinander weg beschleunigt.
+
+</details>
+
+7. Ermitteln Sie den Wert der Beschleunigung für die $\alpha$-Teilchen im Abstand $r$.
+
+
 
 ## 5.2 Das elektrische Feld
 
