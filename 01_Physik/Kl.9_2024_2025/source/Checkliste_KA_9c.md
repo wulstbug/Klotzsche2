@@ -106,7 +106,7 @@ mode: presentation
 
 # Checkliste Klassenarbeit Physik 21.01.25
 
-> Liebe 9b,
+> Liebe 9c,
 >
 > die KA Physik enthält das Stoffgebiet 2. Energieversorgung komplett. Auf dieser Seite sind die Schwerpunkte mit Nummern der Überschriften. 
 >
