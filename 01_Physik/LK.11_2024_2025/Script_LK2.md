@@ -510,7 +510,7 @@ Die Stärke des elektrischen Feldes $\vec{E}$ berechnet sich aus der Kraft $\vec
 
 ---
 
-1. 3. Die Ladung des Tischtennisballs beträgt $Q = 0,1\cdot10^{-3} C =  5 mC $. Ermittle den Wert der Kraft $\vec{F_{el}}$, mit welche auf den TT-Ball wirkt.<br>(_Hinweis: Zwischen Zahl und Einheit bitte kein Leerzeichen._)
+1. 3. Die Ladung des Tischtennisballs beträgt $Q = 0,1\cdot10^{-3} C =  0,1 mC $. Ermittle den Wert der Kraft $\vec{F_{el}}$, mit welche auf den TT-Ball wirkt.<br>(_Hinweis: Zwischen Zahl und Einheit bitte kein Leerzeichen._)
 
         [[ 0,013N ]]
         [[?]] Die Formel zur Berechnung der Kraft findest du in Abschnitt 1.2.1.
