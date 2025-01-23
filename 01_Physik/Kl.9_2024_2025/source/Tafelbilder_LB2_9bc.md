@@ -1270,3 +1270,18 @@ __7. Ergebnis:__
 - [ ] <bdi style="color:blue">An einem idealen Transformator gilt für das Übersetzungsverhält $n = \frac{N_p}{N_s} = \frac{U_p}{U_s} = n'$. Überprüfe anhand deiner Berechnungen (oben), ob der hier untersuchte Transformator als idealer Transformator betrachtet werden kann. Formuliere ein Ergebnis dieses Experiments.</bdi>
 
 
+## 2.13 Kernkraftwerk
+
+### 2.13.1 Aufbau Kernkraftwerk
+
+??[Übung_Aufbau_KKW](https://diversewolken.ddns.net/moodle/mod/quiz/view.php?id=551)
+
+{{1}}
+************
+Ein langsames __Neutron__ kann einen schweren Uran-235-Kern spalten, dabei bildet sich kurz Uran-236, das in  __zwei__ mittelschwere __Kerne__ und mehrere Neutronen zerfällt. Bei dieser __Kernspaltung__ wird __Energie__ frei. Die frei gewordenen Neutronen können weitere __Urankerne__ spalten. Die bei der Spaltung entstandenen Tochterkerne sind __radioaktiv__ und zerfallen weiter.
+************
+
+### 2.13.2 Übung Nuklide und Zerfallsgleichungen
+
+??[Übung_Zerfallsgleichungen](https://diversewolken.ddns.net/moodle/mod/quiz/view.php?id=550)
+
