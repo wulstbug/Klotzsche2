@@ -153,7 +153,7 @@ Lernschwerpunkte sind:
 
 - Wiederholung Transformator -> Übung 2.12.4
 
-- Funktionsweise Kernkraftwerk, Kernspaltung (Was ist das?), Kettenreaktion (wie funktioniert diese) -> Übung 2.13
+- Funktionsweise Kernkraftwerk, Kernspaltung (Was ist das?), Kettenreaktion (wie funktioniert diese), Nuklidschreibweise -> Übung 2.13
 
 - Schutz vor radioaktiver Strahlung (s. Hefter)
 
