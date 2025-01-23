@@ -590,4 +590,4 @@ c)
 
 ### 2.13.2 Übung AKW und Kettenreaktion
 
-??[Übung_Zerfallsgleichungen](https://diversewolken.ddns.net/moodle/mod/quiz/view.php?id=550)
+??[Übung_Zerfallsgleichungen](https://diversewolken.ddns.net/moodle/mod/quiz/view.php?id=552)

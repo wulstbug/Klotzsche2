@@ -1283,5 +1283,5 @@ Ein langsames __Neutron__ kann einen schweren Uran-235-Kern spalten, dabei bilde
 
 ### 2.13.2 Übung Nuklide und Zerfallsgleichungen
 
-??[Übung_Zerfallsgleichungen](https://diversewolken.ddns.net/moodle/mod/quiz/view.php?id=550)
+??[Übung_Zerfallsgleichungen](https://diversewolken.ddns.net/moodle/mod/quiz/view.php?id=552)
 
