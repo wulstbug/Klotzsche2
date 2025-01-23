@@ -396,7 +396,7 @@ Nutzen Sie das 2. Newton'sche Gesetz zur Ermittlung der Beschleunigung.
 
 $$ a = \frac{F}{m} $$
 
-$$ F_{el} = 3,68 \cdot 10^{-17} N\,\mathrm{(siehe\,5.)}$$
+$$ F_{el} = 3,69 \cdot 10^{-17} N\,\mathrm{(siehe\,5.)}$$
 
 Die Masse des $\alpha$-Teilchens beträgt
 
