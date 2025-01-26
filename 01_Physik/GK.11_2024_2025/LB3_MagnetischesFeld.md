@@ -866,3 +866,189 @@ __3.4 Auswertung:__
 >
 > - überprüfe ob diese Ausgleichsgerade die Messergebnisse in guter Näherung darstellt, notiere einen Ergebnissatz
 
+
+## 1.5 Materie im magnetischen und elektrischen Feld
+
+<p class="newspaper">
+
+__Magnetisches Feld__
+
+<p class="cb">
+
+__Elektrisches Feld__
+
+</p>
+
+</p>
+
+---
+
+Wird eine __Stoff (d.h. Materie)__ in ein magnetisches oder elektrisches Feld eingefügt, so verändert der Stoff die Stärke des Feldes, beschrieben durch 
+
+<p class="newspaper">
+
+die @color(magnetische Permeabilität $\mu_r$, orange) (-> FS. S 54).
+
+<p class="cb">
+
+die @color(Dielektrizitätszahl $\varepsilon_r$, orange) (-> FS. S 54).
+
+</p>
+
+</p>
+
+---
+
+__Beispiele:__
+
+<p class="newspaper">
+
+Cobalt: $\mu_r \approx 80-200$
+
+Eisen: $\mu_r \approx 250-680$
+
+Nickel: $\mu_r \approx 280-2500$
+
+<p class="cb">
+
+Glas: $\varepsilon_r \approx 5-16$
+
+Bariumtitanat: $\varepsilon_r \approx 100-1000$
+
+Wasser: $\varepsilon_r \approx 81$
+
+</p>
+
+</p>
+
+---
+
+__In beiden Beispielen__ richten sich elementare Strukturen des Material im umliegenden Feld aus.
+
+<p class="newspaper">
+
+@color(Elementar,red)@color(magnete,green) richten sich aus (__Magnetisierung__)
+
+![ElementarMagnete](https://diversewolken.ddns.net/nextcloud/index.php/s/7H9rDQfp9fsAixS/download)
+
+<p class="cb">
+
+@color(Elementare,red) @color(Dipole, green) richten sich aus (__Polarisierung__)
+
+![ElementareDipole](https://diversewolken.ddns.net/nextcloud/index.php/s/XfwLBXEkJSMJPTL/download)
+
+</p>
+
+</p>
+
+---
+
+__Unterschied:__
+
+Während ferromagnetische Stoffe (Eisen, Cobalt, Nickel) das magnetische Feld __verstärken__, wird das elektrische Feld durch ein Dielektrikum (z.B. Glas, Wasser) __geschwächt/gedämpft__.
+
+### Aufgabe zum magnetischen Feld
+
+1. Eine Spule ist 9cm lang, hat 1500 Windungen und wird von einem Strom der Stärke 1,52 A durchflossen. Im Innern der Spule wird die magnetische Flussdichte 2,54 T gemessen.<br> Weise rechnerisch nach, dass sich im Innern der Spule nicht ausschließlich Luft befindet.
+
+<details style="margin-left:10%">
+
+<summary> Hilfe: Hinweis Zur Lösung</summary>
+
+Ermitteln Sie die magnetische Flussdichte im Inneren der Spule unter der Annahme, dass diese mit Luft gefüllt ist. Vergleichen Sie Ihr Ergebnis mit der Angabe aus der Aufgabe und schlussfolgern Sie auf das vorhandene $\mu_r$.
+
+</details>
+
+<details style="margin-left:10%">
+
+<summary> Rechenweg </summary>
+
+![Abi21_Lsg2.1_Rechnung](https://diversewolken.ddns.net/nextcloud/index.php/s/4dsX4QKj4FgWz6q/download)
+
+</details>
+
+<details style="margin-left:10%">
+
+<summary> Begründung </summary>
+
+![Abi21_Lsg2.1_Begründung](https://diversewolken.ddns.net/nextcloud/index.php/s/som5GarSYN8yHPR/download)
+
+</details>
+
+---
+
+2. Eine andere Spule hat 50 Windungen, ist 20 cm lang und ist ausschließlich mit Luft gefüllt. Die Flussdichte im Inneren der Spule beträgt 0,63 mT. Gib die Stromstärke an. <br> Die Spule wird nun auf 40 cm gedehnt, dabei ändert sich die Flussdichte im Inneren der Spule, Stromstärke und Windungszahl bleiben konstant.<br> Zeiche den Graphen $B = B(ℓ)$ für das Intervall 20cm bis 40cm.
+
+@rangeQuiz2($\hspace{1cm}$ $I$, 2, $A$)
+
+<details style="margin-left:10%">
+
+<summary> Hilfe: Hinweis zur Stromstärke</summary>
+
+Nutzen Sie die Formel zur Berechnung der magnetischen Flussdichte und ermitteln Sie den fehlenden Wert der elektrischen Stromstärke.
+
+</details>
+
+<details style="margin-left:10%">
+
+<summary> Rechenweg Stromstärke </summary>
+
+![Abi21_Lsg2.2_Rechnung](https://diversewolken.ddns.net/nextcloud/index.php/s/Xd5nS692Wwd97cD/download)
+
+</details>
+
+<details style="margin-left:10%">
+
+<summary> Hilfe: Hinweis zum Graph</summary>
+
+Nutze Sie die Formel für die magnetische Flussdichte, ermittlen Sie die Funktion $B(ℓ)$, setzen Sie die gegebenen Werten ein und erstellen Sie eine Datentabelle | $ℓ$ | $B(ℓ)$ | für den Bereich 20cm bis 40 cm.
+
+</details>
+
+<details style="margin-left:10%">
+
+<summary> Berechnungen für den Graph $B(ℓ)$ </summary>
+
+![Abi21_Lsg2.2_Berechnung_Graph](https://diversewolken.ddns.net/nextcloud/index.php/s/mddY9WFHAT59ofx/download)
+
+</details>
+
+<details style="margin-left:10%">
+
+<summary> Datentabelle und Graph $B(ℓ)$ </summary>
+
+<p class="newspaper">
+
+<!-- data-type="none" -->
+| $ℓ$ in m | $B(ℓ)$ in mT |
+| :---: | :---: |
+| 0.2 | 0.63 |
+| 0.25 | 0.50 |
+| 0.3 | 0.42 |
+| 0.35 | 0.36 |
+| 0.4 | 0.31 |
+
+<p class="cb">
+
+<!--
+     data-show
+     data-title=""
+     data-type="line"
+     data-xlabel="ℓ in m"
+     data-ylabel="B in mT"
+-->
+| $ℓ$ in m | $B(ℓ)$ in mT |
+| :---: | :---: |
+| 0.2 | 0.63 |
+| 0.25 | 0.50 |
+| 0.3 | 0.42 |
+| 0.35 | 0.36 |
+| 0.4 | 0.31 |
+
+
+</p>
+
+</p>
+
+</details>
+
