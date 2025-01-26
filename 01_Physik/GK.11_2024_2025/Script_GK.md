@@ -3837,7 +3837,7 @@ __3.4 Auswertung:__
 >
 > - überprüfe ob diese Ausgleichsgerade die Messergebnisse in guter Näherung darstellt, notiere einen Ergebnissatz
 
-## 1.5 Materie im magnetischen (und elektrischen) Feld
+## 1.5 Materie im magnetischen und elektrischen Feld
 
 <p class="newspaper">
 
