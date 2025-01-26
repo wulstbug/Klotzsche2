@@ -1315,3 +1315,4 @@ __7. Ergebnis:__
 | __Vergleiche:__   | -> Erkläre Gemeinsamkeiten und Unterschiede. |
 | __Skizziere:__    | -> Ungefähre Zeichnung anfertigen|
 | __Zeichne:__      | -> Diagramm mit Zahlenwerten anfertigen oder maßstabsgetreue (exakte) Darstellung|
+

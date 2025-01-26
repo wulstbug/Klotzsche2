@@ -3715,9 +3715,43 @@ __2.3 Messwerte:__
 
 | # | $N$ | $ℓ$ in m | $I$ in A | $B$ in T |
 |:--:|:--:|:--:|:--:|:--:|
-| 1 | 800  | .. | .. | .. |
-| 2 | 1600 | .. | .. | .. |
-| 3 | 2400 | .. | .. | .. |
+| 1 | 800 | <input type="number" default="0" id="l" min="0" max="10" size="5"> | <input type="number" default="0" id="I" min="0" max="10" size="5"> | <input type="number" default="0" id="B" min="0" max="10" size="5"> |
+| 2 | 1600 |  |  |
+| 3 | 2400 |  |  |
+
+{{1}}
+***************
+__2.4 Gemeinsame Auswertung:__
+
+>__Lsg.:__
+>
+> $\hspace{0.2cm}$ $\mu_0 =$ {2}{$\frac{B \cdot ℓ}{I \cdot N}$}
+{{3}}
+***********
+> $\hspace{0.2cm}$ __Für Messung #1:__
+>
+> $\hspace{0.2cm}$ $\mu_0 = $ <script input="button">
+    let N = 800;
+    let I = document.getElementById("I").value;
+    let l = document.getElementById("l").value;
+    let B = document.getElementById("B").value;
+    let mu = (B*l)/(I*N) 
+    if ((isNaN(mu))||(mu==0)) "..."
+    else mu.toExponential(2)
+ </script> $\frac{V\cdot s}{A \cdot m}$
+
+<details style="margin-left:0.2cm">
+
+<summary> Tabellenwert </summary>
+
+> $\mu_0 = 1,26\cdot 10^{-6} \frac{V\cdot s}{A \cdot m}$
+
+</details>
+***********
+
+
+
+***************
 
 __2.4 Auswertung:__
 
@@ -3787,11 +3821,11 @@ __3.3 Messwerte:__
 
 > - erstelle eine Tabelle mit folgenden Einträgen.
 
-| # | $N$ | $ℓ$ in m | $I$ in A | $B$ in T |
-|:--:|:--:|:--:|:--:|:--:|
-| 1 | 2400  | .. | .. | .. |
-| 2 | 1600  | .. | .. | .. |
-| 3 | 800   | .. | .. | .. |
+| $N$ | $ℓ$ in m | $I$ in A | $B$ in T |
+| :---: | :---: | :---: | :---: |
+| 2400  | 0 | 0 | 0 |
+| 1600  | 0 | 0 | 0 |
+| 800   | 0 | 0 | 0 |
 
 __3.4 Auswertung:__
 
@@ -3803,3 +3837,82 @@ __3.4 Auswertung:__
 >
 > - überprüfe ob diese Ausgleichsgerade die Messergebnisse in guter Näherung darstellt, notiere einen Ergebnissatz
 
+## 1.5 Materie im magnetischen (und elektrischen) Feld
+
+<p class="newspaper">
+
+__Magnetisches Feld__
+
+<p class="cb">
+
+__Elektrisches Feld__
+
+</p>
+
+</p>
+
+---
+
+Wird eine __Stoff (d.h. Materie)__ in ein magnetisches oder elektrisches Feld eingefügt, so verändert der Stoff die Stärke des Feldes, beschrieben durch 
+
+<p class="newspaper">
+
+die @color(magnetische Permeabilität $\mu_r$, orange) (-> FS. S 54).
+
+<p class="cb">
+
+die @color(Dielektrizitätszahl $\varepsilon_r$, orange) (-> FS. S 54).
+
+</p>
+
+</p>
+
+---
+
+__Beispiele:__
+
+<p class="newspaper">
+
+Cobalt: $\mu_r \approx 80-200$
+
+Eisen: $\mu_r \approx 250-680$
+
+Nickel: $\mu_r \approx 280-2500$
+
+<p class="cb">
+
+Glas: $\varepsilon_r \approx 5-16$
+
+Bariumtitanat: $\varepsilon_r \approx 100-1000$
+
+Wasser: $\varepsilon_r \approx 81$
+
+</p>
+
+</p>
+
+---
+
+__In beiden Beispielen__ richten sich elementare Strukturen des Material im umliegenden Feld aus.
+
+<p class="newspaper">
+
+@color(Elementar,red)@color(magnete,green) richten sich aus (__Magnetisierung__)
+
+![ElementarMagnete](https://diversewolken.ddns.net/nextcloud/index.php/s/7H9rDQfp9fsAixS/download)
+
+<p class="cb">
+
+@color(Elementare,red) @color(Dipole, green) richten sich aus (__Polarisierung__)
+
+![ElementareDipole](https://diversewolken.ddns.net/nextcloud/index.php/s/XfwLBXEkJSMJPTL/download)
+
+</p>
+
+</p>
+
+---
+
+__Unterschied:__
+
+Während ferromagnetische Stoffe (Eisen, Cobalt, Nickel) das magnetische Feld __verstärken__, wird das elektrische Feld durch ein Dielektrikum (z.B. Glas, Wasser) __geschwächt/gedämpft__.
