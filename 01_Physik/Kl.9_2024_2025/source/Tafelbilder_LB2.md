@@ -1436,7 +1436,7 @@ __Teil C__
      [[ ]] Es kann eventuell all seine Elektronen freisetzen.
      [[x]] Es kann eventuell Energie freisetzen.
 
-## 2.14 E = mc² - oder - Woher kommt die Energie bei Kernspaltung bzw. bei Kernfusion
+## 2.14 E = mc² - oder - Woher kommt die Energie bei Kernspaltung und Kernfusion
 
 Die berühmte Formel
 
