@@ -188,7 +188,7 @@ __1.1 Vorbereitung:__
 >
 >      - wähle als Messmethode axial
 >
->      - wähle als Messbereich 0 - 10 mT
+>      - wähle als Messbereich -10 - 10 mT
 
 __1.2 Durchführung:__
 
