@@ -897,3 +897,283 @@ __Bring dein Tablet zurück in den Tabletschrank!__
 
 </p>
 
+
+
+## 2.14 E = mc² - Was bedeutet das?
+
+![Emc2](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjvaU4S7ZdTFeYPO_Y35x5BTvwXeKgnYSXqzDKfg6mvkyEp-o0wNR4lt8PhZTomPbP-kXhcNNWJYegNFO3k_4ZO_x2uyv_7h7HRSPie0xc9XxNsuHz_IrMJQOtPQeLtLmZoc1DubOQ5xWQ/s1600/energy+mass+equivalence+albert+einstein+history+science+physics.jpg)
+
+### Quiz Kernspaltung und Kernfusion
+
+__Teil A:__
+
+1. Die Explosion einer Atombombe wird durch eine unkontrollierte Kettenreaktion verursacht.
+
+     [(x)] wahr
+     [( )] falsch
+
+2. Es ist möglich, Quecksilber mithilfe von Kernspaltung in Gold zu verwandeln.
+
+     [(x)] wahr
+     [( )] falsch
+
+3. Die meisten Kernkraftwerke verwenden Lithium als Brennstoff.
+
+     [( )] wahr
+     [(x)] falsch
+
+4. Kernfusionsreaktoren beziehen ihre Energie durch kontrollierte Kettenreaktionen.
+
+     [(x)] wahr
+     [( )] falsch
+
+
+__Teil B:__
+
+1. Was ist eine Kettenreaktion?
+
+     [( )] Eine Reihe von chemischen Reaktionen, von denen jede das Produkt einer vorangegangenen Reaktion als eine ihrer Reaktionsmittel verwendet.
+     [( )] Eine Reihe von Reaktionen auf verschiedene Reize von außen.
+     [(x)] Eine Reihe von Kernspaltungsreaktionen, von denen jede mit einem Neutron begann, das während einer vorhergegangenen Kernspaltungsreaktion freigesetzt wurde.
+     [( )] Eine Reihe von Kernfusionsreaktionen, von denen jede die Bindung eines Atomkerns beinhaltet, welcher in einer vorhergegangenen Kernfusionsreaktion erzeugt wurde.
+
+2. Was sind Quellen von Kernenergie?
+
+     [[ ]] Zellteilung
+     [[x]] Kernspaltung
+     [[ ]] Freisetzung von Elektronen
+     [[x]] Kernfusion
+
+3. Was ist die Wärme- und Lichtquelle eines Sterns?
+
+     [( )] Verbrennung von fossilen Brennstoffen
+     [( )] Kernspaltung
+     [(X)] Kernfusion 
+     [( )] Potentielle Energie
+
+4. Wie nennen wir den Vorgang, in dem zwei kleine Atomkerne zu einem größeren Kern verschmelzen?
+
+     [( )] Kernspaltung
+     [( )] Redundanz
+     [(x)] Kernfusion
+     [( )] Alchemie
+
+
+__Teil C__
+
+1. Wie nennt man den Vorgang, in dem ein schwerer Atomkern sich in zwei oder mehrere kleinere Kerne spaltet und dabei Neutronen und Energie freigegeben werden?
+
+     [[Kernspaltung]]
+
+2. Welche der folgenden Optionen sind Schritte in der Elektrizitätserzeugung durch eine Kernspaltungsreaktion mit Uran?
+
+     [[x]] Der Dampf treibt eine Turbine an, die einen Generator mit Energie versorgt.
+     [[ ]] Zwei Uran-Atomkerne verschmelzen miteinander und bilden einen schwereren Kern. Dieser Vorgang setzt einige freie Neutronen und eine große Menge an Energie frei.
+     [[x]] Der Uran-Atomkern wird von einem Neutron getroffen. Er spaltet sich und gibt zwei leichtere Kerne sowie einige freie Neutronen frei.
+     [[x]] Die kinetische Energie der neuen Atomkerne und der freien Neutronen wird in Wärme umgewandelt.
+     [[x]] Die Wärme wird zum Wasserkochen verwendet, wodurch Dampf entsteht.
+     [[ ]] Die freien Neutronen prallen gegen eine Turbine, wodurch die Turbine sich dreht und einen Generator mit Energie versorgt.
+
+3. Aluminium weist die Ordnungszahl 13 auf, Eisen die Ordnungszahl 26 und Tellur die Ordnungszahl 52. Welche der folgenden Reaktionen können thypothetisch Eisen produzieren?
+
+     [[x]] Kernspaltung von Tellur.
+     [[ ]] Kernspaltung von Aluminium.
+     [[ ]] Kernfusion von Tellur.
+     [[x]] Kernfusion von Aluminium.
+
+4. Wie nennt man den Vorgang, in dem zwei leichte Atomkerne zu einem schwereren Kern verschmelzen und dabei große Energiemengen freigegeben werden?
+
+     [[Kernfusion]]
+
+5. Welche dieser Optionen stellen Produkte aus der Kernfusion von Wasserstoff in der Sonne dar?
+
+     [[ ]] Gold
+     [[x]] Energie in Form von Wärme und Strahlung
+     [[x]] Helium
+     [[ ]] Uran
+     
+6. Welche der folgenden Optionen können mit einem Atom geschehen, nachdem es ein Neutron absorbiert hat?
+
+     [[x]] Es kann eventuell instabil werden und sich in zwei oder mehrere kleinere Atomkerne spalten.
+     [[x]] Es kann eventuell Neutronen freisetzen.
+     [[ ]] Es kann eventuell all seine Elektronen freisetzen.
+     [[x]] Es kann eventuell Energie freisetzen.
+
+## 2.14 E = mc² - oder - Woher kommt die Energie bei Kernspaltung und Kernfusion
+
+Die berühmte Formel
+
+> $$ \boxed{E=m \cdot c^2} $$
+
+bedeutet in Worten, dass {1}{@color(Energie und Masse identisch sind, red)}. {2}{Anders ausgedrückt, steckt in der Masse eines Körpers seine Energie.}
+
+{{3}}
+***********
+[LEIFI-Massendefekt](https://www.leifiphysik.de/kern-teilchenphysik/kernreaktionen/grundwissen/masse-energie-beziehung)
+
+__Beispiel: [Kernspaltung-U-235](https://www.leifiphysik.de/kern-teilchenphysik/kernspaltung-und-kernfusion/grundwissen/kernspaltung)__
+
+| __Ausgangskerne__ | | __Reaktionsprodukte__ |
+| $$ ^{235}_{92}\mathrm{U} + ^{1}_{0}n $$ | $\rightarrow$ | $$ ^{144}_{56}\mathrm{Ba} + ^{89}_{36}{\mathrm{Kr}}  + 3 \cdot ^{1}_0n + \mathrm{Energie} $$ |
+| {5}{235,044u<br>+1,009u<br>---------} | {5}{$\rightarrow$}| {8}{143,923u<br>+88,918u<br>+3∙1,009u<br>---------}|
+| {6}{<bdi style="color:blue">236,053u</bdi>} | {10}{__>__} | {9}{<bdi style="color:red">235,868u</bdi>} | 
+***********
+
+<p class="newspaper">
+
+{{4}}
+************
+_Masse eines U-235 Atoms:_
+
+> $m_{\mathrm{U-235}} = 235,044 u$
+>
+> _Hinweis: Die Einheit u heißt @color(atomare Masseneinheit,blue)_:
+>
+> $1u = 1,6605 \cdot 10^{-27} kg$
+
+_Masse eines Neutrons:_
+
+> $m_{\mathrm{n}} = 1,009 u$
+************
+
+
+<p class="cb">
+
+{{7}}
+************
+_Masse eines Ba-144 Atoms_
+
+> $m_{\mathrm{Ba-144}} = 143,923 u$
+
+_Masse eines Kr-89 Atoms_
+
+> $m_{\mathrm{Ba-144}} = 88,918 u$
+************
+
+</p>
+
+</p>
+
+
+{{10}}
+********
+> __Bei der Kernspaltung ging eine Masse von__
+>
+> $\Delta m$ = <bdi style="color:blue">236.053u</bdi> - <bdi style="color:red">235,868u</bdi> = __0,185 u__
+>
+> __verloren. Nach E=mc² ist Masse gleich Energie. Die verlorene Masse $\Delta m$ wird in Form von Energie freigesetzt.__
+********
+
+{{11}}
+********
+
+> $ E = \Delta m \cdot c^2 $
+>
+> $ E = 0,185 \cdot 1,6605 \cdot 10^{-27} kg \cdot (3 \cdot 10^8 \frac{m}{s})^2 $$
+>
+> $ E = 2,764\cdot 10^{-11} J$
+
+Für jedes U-235 Atom, dass gespaltet wird, wird die Energie $2,764\cdot 10^{-11} J$ frei.
+********
+
+<p class="newspaper">
+
+{{12}}
+********
+1kg angereichertes Uran (5% U-235) enthält ca. $1,28 \cdot 10^{23}$ Atome. <br> D.h. 1kg Uran-235 enthält potentiell die freisetzbare Energie von
+********
+
+{{13}}
+********
+> $ E = 2,764\cdot 10^{-11} J \cdot 1,38 \cdot 10^{23}$
+>
+> $ E = 3,81 \cdot 10^{12} J \approx 3`800`000 MJ$
+********
+
+<p class="cb">
+
+{{14}}
+********
+Zum Vergleich: 
+
+1kg TNT Sprengstoff enthällt eine Energie von ca.
+
+> $ E = 4,18 \cdot 10^6 J$
+>
+> $ E = 4,18 MJ$
+********
+
+</p>
+
+</p>
+
+### Aufgaben zu 2.14
+
+In [dieser Formelsammlung](https://www.iqb.hu-berlin.de/abitur/abitur/dokumente/naturwissenschaften/N_Mathematischna.pdf) findest du ab Seite 65 die Atommassen ausgewählter Nuklide.
+
+Ziel ist es, den Massendefekt folgender Reaktion zu ermitteln.
+
+$$ ^{239}_{94}\mathrm{Pu} + ^{1}_{0}n \rightarrow ^{144}_{56}\mathrm{Ba} + ^{94}_{38}{\mathrm{Sr}}  + 2 \cdot ^{1}_0n + \mathrm{Energie} $$ 
+
+
+1. Ermittle die Atommasse der folgenden Nuklide.
+
+1. 1. Pu-239: 
+
+@rangeQuiz2($\hspace{1cm}$ $m_{\mathrm{Pu-239}}$, 239.052 , $u$)
+
+1. 2. Neutron
+
+@rangeQuiz2($\hspace{1cm}$ $m_{\mathrm{n}}$, 1.009 , $u$)
+
+1. 3. Ba-144
+
+@rangeQuiz2($\hspace{1cm}$ $m_{\mathrm{Ba-144}}$, 143.923, $u$)
+
+1. 4. Sr-94
+
+@rangeQuiz2($\hspace{1cm}$ $m_{\mathrm{Sr-94}}$, 93.915, $u$)
+
+2. 1. Addiere nun die Massen der linken und der rechten Seite zusammen.
+
+<p style="margin-left:10%">
+
+<p class="newspaper">
+
+__Ausgangskerne__ 
+
+$$ ^{239}_{94}\mathrm{Pu} + ^{1}_{0}n $$
+
+@rangeQuiz2($m_{\mathrm{ausg}}$, 240.061, $u$)
+
+<p class="cb">
+
+__Reaktionsprodukte__ 
+
+$$ ^{144}_{56}\mathrm{Ba} + ^{94}_{38}{\mathrm{Sr}}  + 2 \cdot ^{1}_0n $$
+
+@rangeQuiz2($m_{\mathrm{reakt}}$, 239.856, $u$)
+
+</p>
+
+</p>
+
+</P>
+
+2. 2. Ermittle den Massendefekt $\Delta m$ (Massenverlust)
+
+@rangeQuiz2($\hspace{1cm}$ $\Delta m$ ,0.205 ,$u$)
+
+2. 3. Ermittle aus dem Massendefekt die Energie
+
+<p style = "margin-left:10%">
+
+$ E = \Delta m \cdot c^2 $
+
+$ c = 3 \cdot 10^8 \frac{m}{s} $
+
+$ u = 1,66 \cdot 10^{-27} kg$
+
+@rangeQuiz2($E$ , 3.0627e-11 ,$J$)
+
+</p>
