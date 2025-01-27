@@ -3945,6 +3945,17 @@ Ermitteln Sie die magnetische Flussdichte im Inneren der Spule unter der Annahme
 
 </details>
 
+<details style="margin-left:10%">
+
+<summary> Alternativer Lösungsweg </summary>
+
+Stelle die Formel für $B$ nach $\mu_r$ um, nutze für für B=2,54T und zeige, dass $\mu_r > 1$ gilt.
+
+Hier ist: $\mu_r \approx 85$ 
+
+</details>
+
+
 ---
 
 2. Eine andere Spule hat 50 Windungen, ist 20 cm lang und ist ausschließlich mit Luft gefüllt. Die Flussdichte im Inneren der Spule beträgt 0,63 mT. Gib die Stromstärke an. <br> Die Spule wird nun auf 40 cm gedehnt, dabei ändert sich die Flussdichte im Inneren der Spule, Stromstärke und Windungszahl bleiben konstant.<br> Zeiche den Graphen $B = B(ℓ)$ für das Intervall 20cm bis 40cm.

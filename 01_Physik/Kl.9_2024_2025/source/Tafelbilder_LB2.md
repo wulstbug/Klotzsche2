@@ -1552,4 +1552,4 @@ Bearbeite folgende Aufgaben:
 
 1. Ermittle die Atommasse der folgenden Nuklide.
 
-a) 
+1. 1. U-238: 
