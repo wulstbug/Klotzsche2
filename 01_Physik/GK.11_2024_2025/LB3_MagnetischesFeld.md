@@ -883,7 +883,7 @@ __Elektrisches Feld__
 
 ---
 
-Wird eine __Stoff (d.h. Materie)__ in ein magnetisches oder elektrisches Feld eingefügt, so verändert der Stoff die Stärke des Feldes, beschrieben durch 
+Wird ein __Stoff (d.h. Materie)__ in ein magnetisches oder elektrisches Feld eingefügt, so verändert der Stoff die Stärke des Feldes, beschrieben durch 
 
 <p class="newspaper">
 
