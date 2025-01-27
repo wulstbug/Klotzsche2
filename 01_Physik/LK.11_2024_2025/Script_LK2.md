@@ -598,10 +598,56 @@ Die Feldstärke im Mittelpunkt des Würfels wäre Null, denn die Kräfte auf ein
 
 5.(*) Leite die Formel für das elektrische Feld einer Punktladung her. 
 
-<details style="margin-left-left:10%">
+<details style="margin-left:10%">
 
 <summary> Hinweis </summary>
 
 Nutze die allgemeine Gleichung für das das elektrische Feld und setze für die Kraft den Wert der elektrischen Kraft zwischen zwei Ladungen ein.
 
 </details>
+
+### Wie entsteht das elektrische Feld mehrerer Punktladungen
+
+__Kraftwirkung im Radialfeld und im homogenen Feld__
+
+[LEIFI_EFeldlinien](https://www.leifiphysik.de/elektrizitaetslehre/ladungen-elektrisches-feld/grundwissen/elektrisches-feld-und-feldliniendarstellung)
+
+__Überlagerung elektrischer Felder__
+
+[LEIFI_ÜberlagerungenElektrischerFelder](https://www.leifiphysik.de/elektrizitaetslehre/ladungen-elektrisches-feld/grundwissen/ueberlagerung-elektrischer-felder)
+
+__Feldlinienbild mehrerer Ladungen__
+
+??[LEIFI-SIMULATION_FELDLINIEN](https://www.didaktikonline.physik.uni-muenchen.de/programme/e_feld/E_Feld_leifi.html)
+
+### Weitere Aufgaben zu 5.2
+
+@color(__Löse Aufgabe 6. & 7. sowie 8. oder 9.__, blue)
+
+<br>
+
+<br>
+
+6. @color(Quiz zur elektrischen Kraft [_leichte Aufgabe_], darkgreen)
+
+     [Quiz](https://www.leifiphysik.de/elektrizitaetslehre/ladungen-elektrisches-feld/aufgabe/quiz-zur-elektrischen-kraft)
+
+7. @color(Kraft zwischen zwei Ladungen [_leichte Aufgabe_], darkgreen)
+
+     [Aufgabe-zwei-Ladungen](https://www.leifiphysik.de/elektrizitaetslehre/ladungen-elektrisches-feld/aufgabe/kraft-zwischen-zwei-ladungen)
+
+8. @color(Pendel im homogenen elektrischen Feld [mittelschwere Aufgabe], orange)
+
+     _Themen:_ homogenes elektrisches Feld, Kraftvektoren, Kraftzerlegung, Kräftegleichgewicht
+
+     __Fokus: a), b)__
+
+     [Aufgabe-Pendel-Homogenes-Feld](https://www.leifiphysik.de/elektrizitaetslehre/ladungen-elektrisches-feld/aufgabe/auslenkung-im-homogenen-elektrischen-feld)
+
+9. @color(Geladenes Doppelpende [mittelschwere Aufgabe], orange)
+
+     _Themen:_ elektrische Ladung, Kräfte zwischen elektrischen Ladungen, Kraftvektoren, Kräftegleichgewicht
+
+     __Fokus: a)__
+
+     [Aufgabe-Geladenes-Doppelpendel](https://www.leifiphysik.de/elektrizitaetslehre/ladungen-elektrisches-feld/aufgabe/doppelpendel)
