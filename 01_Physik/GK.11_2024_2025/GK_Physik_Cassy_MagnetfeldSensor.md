@@ -144,7 +144,7 @@ try {
 -->
 
 
-### 1.1 Schüler-Experiment: U-I-Kennlinie mit Cassy - Manuelle Messwertaufnahme
+## 1.1 Schüler-Experiment: U-I-Kennlinie mit Cassy - Manuelle Messwertaufnahme
 
 __Aufgabenstellung:__ Nimm mit die U-I-Kennlinie für einen ohmschen Widerstand ($R=512\Omega$) auf. Variiere die Spannung in Schritten von 1 V im Intervall 0 - 10 V.
 
@@ -242,7 +242,7 @@ _(muss nicht notiert werden)_
 
 !?[Einführung-Mobile-Cassy2](https://www.youtube.com/watch?v=2gPGb_NdbqM)
 
-### 1.2 Schüler-Experiment: U-I-Kennlinie mit Cassy - Automatische Messwertaufnahme
+## 1.2 Schüler-Experiment: U-I-Kennlinie mit Cassy - Automatische Messwertaufnahme
 
 In dieser Messreihe wird die Kennlinie vom Cassy-Messgerät automatisch aufgenommen.
 
