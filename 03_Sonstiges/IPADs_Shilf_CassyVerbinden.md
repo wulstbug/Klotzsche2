@@ -6,11 +6,11 @@ __Arbeitsablauf:__
 
 - nach Einschalten von _Cassy_ baut das Gerät selbstständig eine W-Lan Verbinung auf
 
-- wechseln Sie auf dem Cassy zum Menu Einstellungen (oben rechts) 
-
-- wählen Sie QR-Code anzeigen, wechseln Sie zu AP-Daten und scannen Sie den angezeigten QR-Code mit dem Tablet -> das Tablet wird sich mit dem Cassy verbinden
+- wechseln Sie mit den Pfeilen auf dem roten runden Bedienfeld des Cassy zum Menu Einstellungen (oben rechts, Kreis mit Ausrufezeichen 
 
 ![Cassy-Einstellungen](https://diversewolken.ddns.net/nextcloud/index.php/s/cbw8JJBd7AAetEz/download)<!-- style="max-width:300px; margin-left:20%"-->
+
+- wählen Sie QR-Code anzeigen, wechseln Sie zu AP-Daten und scannen Sie den angezeigten QR-Code mit dem Tablet -> das Tablet wird sich mit dem Cassy verbinden
 
 - wenn ihr Tablet mit dem _Cassy_-WLan verbunden ist, öffnen Sie einen neuen Tab im Safari-Webbrowser und öffnen Sie folgende Adresse [http://10.10.10.1](http://10.10.10.1)
 
