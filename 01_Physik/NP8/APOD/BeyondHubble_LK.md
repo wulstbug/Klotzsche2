@@ -534,7 +534,7 @@ __Webseite:__ ogy.de/golnik -> Nawi 8 2024-2025 -> Einfache Konstruktionsumgebun
 
 <summary> Lösung Bild </summary>
 
-![Vergleich16](https://diversewolken.ddns.net/nextcloud/index.php/s/TZF8iAzBDn9DKG8) <!-- style="max-width:80%" -->
+![Vergleich16](https://diversewolken.ddns.net/nextcloud/index.php/s/TZF8iAzBDn9DKG8/download) <!-- style="max-width:80%" -->
 
 </details>
 
