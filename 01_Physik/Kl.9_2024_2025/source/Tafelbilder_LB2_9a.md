@@ -1061,7 +1061,7 @@ _Masse eines Kr-89 Atoms_
 >
 > $\Delta m$ = <bdi style="color:blue">236.053u</bdi> - <bdi style="color:red">235,868u</bdi> = __0,185 u__
 >
-> __verloren. Nach E=mc² ist Masse gleich Energie. Die verlorene Masse $\Delta m$ wird in Form von Energie freigesetzt.__
+> __verloren. Nach E=mc² ist Masse gleich Energie. Die verlorene Masse $\Delta m$ nennt man @color(Massendefekt ,red) und wird in Form von Energie freigesetzt.__
 ********
 
 {{11}}
