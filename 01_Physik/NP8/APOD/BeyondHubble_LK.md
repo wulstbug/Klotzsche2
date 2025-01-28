@@ -560,9 +560,7 @@ __Aufgaben:__
 
 19. Probiere nun die Konstruktion eines Gegenstandes an @color(zwei Sammellinsen SLA+ SLB,orange).
 
-    1. Gehe dazu auf: @color(https://ogy.de/golnik,blue) und
-
-    wähle: __Zwei Sammellinsen__
+    1. Gehe dazu auf: [GEOGEBRA-ZweiSammellinsen](https://www.geogebra.org/classroom/aqmuddw8)
 
     2. Konstruiere zunächst das __Zwischenbild (Bild hinter der ersten Linse A)__. 
 
