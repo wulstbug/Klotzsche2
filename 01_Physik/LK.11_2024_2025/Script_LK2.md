@@ -680,7 +680,7 @@ __Eigenschaften eines Plattenkondensators:__
 
 {{4}}
 *******
-- __das elektrische Feld__ $\vec{E}$ eines Plattenkondensators berechnet sich mit
+- __die elektrische Feldstärke__ $\vec{E}$ innerhalb eines Plattenkondensators berechnet sich mit
 *******
 
 {{5}}
@@ -691,5 +691,6 @@ __Eigenschaften eines Plattenkondensators:__
 >
 > $\hspace{1cm}$ $d$ ... Abstand der Platten $\big[ m \big]$ 
 
-- wird in das elektrische Feld eine elektrische Ladung eingebracht, so wirkt auf die Ladung eine elektrische Kraft die mit $\vec{F}=\vec{E}\cdot q$ berechnet werden kann
+- wird in das elektrische Feld eine elektrische Ladung eingebracht, so wirkt auf die Ladung eine elektrische Kraft die mit $\vec{F_{el}}=\vec{E}\cdot q$ berechnet werden kann
 *******
+
