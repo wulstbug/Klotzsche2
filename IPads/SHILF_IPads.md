@@ -170,6 +170,8 @@ try {
 
 2. 4. [Schülerexperiment: Messungen der magnetischen Flussdichte](#2.4-schülerexperiment:-messungen-der-magnetischen-flussdichte)
 
+2. 5. [Schülerexperiment: Videoanalyse mit VIANA2 - Dynamik](#2.5.-schülerexperiment:-videoanalyse-mit-viana2)
+
 
 # 1. SHILF - IPads
 
@@ -921,3 +923,34 @@ __3.4 Auswertung:__
 > - verbinde die Messpunkte mit einer Ausgleichsgeraden
 >
 > - überprüfe ob diese Ausgleichsgerade die Messergebnisse in guter Näherung darstellt, notiere einen Ergebnissatz
+
+
+## 2.5. Schülerexperiment: Videoanalyse mit VIANA2
+
+![Experiment](https://diversewolken.ddns.net/nextcloud/index.php/s/XHwzajk8jjrRjkG/download)
+
+@color(_Hinweise zur Handhabung:_,blue)
+
+__Arbeitsschritte:__
+
+0. Öffne das Videoanalyse-Tool VIANA2 auf dem IPad
+
+1. Positioniere die Kamera so, dass sie sich nicht bewegt.
+
+2. Achte auf einen guten Kontrast zwischen bewegtem Objekt und Hintergrund während der gesamten Bewegung.
+
+3. Führe vor der Aufnahme ein paar Beispielabläufe durch.
+
+4. Markiere die vorab einen möglichst großen Streckenabschnitt im Bewegungsraum.
+
+5. Nimm eine Bewegung auf und nutze die automatische Erfassung (siehe oben)
+
+6. Ergänze den Maßstab (anhand der Markierung aus 4.) sowie ein Koordinatensystem.
+
+     -> Bei eindimensionalen Bewegungen sollte das Koordinatensystem so ausgerichtet werden, dass sich das Objekt entlang der x-Achse bewegt.
+
+7. Schau dir das y(t) oder v(t)-Diagramm an
+
+__Ergebnis:__
+
+![TennisBall](https://diversewolken.ddns.net/nextcloud/index.php/s/72oyGXjfT2i38cw/download)
