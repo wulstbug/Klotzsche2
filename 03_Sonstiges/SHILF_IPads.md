@@ -145,23 +145,25 @@ try {
 
 # SHILF IPADs und Cassy
 
-0. [Einführungsvideo zu Mobile-Cassy 2](#0.-einführungsvideo-zu-mobile-cassy-2)
 
-1. [Anleitung zur Verbindung von Cassy und Tablet](#1.-anleitung-zur-verbindung-von-cassy-und-tablet)
 
-1. 1. [Schüler-Experiment: U-I-Kennlinie mit Cassy - Manuelle Messwertaufnahme](#1.1-schülerexperiment:-u-i-kennlinie-mit-cassy-manuelle-messwertaufnahme)
+[Einführungsvideo zu Mobile-Cassy 2](#einführungsvideo-zu-mobile-cassy-2)
 
-1. 2. [Schülerexperiment: U-I-Kennlinie mit Cassy - Automatische Messwertaufnahme](#1.2-schülerexperiment:-u-i-kennlinie-mit-cassy-automatische-messwertaufnahme)
+2. [Anleitung zur Verbindung von Cassy und Tablet](#2.-anleitung-zur-verbindung-von-cassy-und-tablet)
 
-1. 3. [Schülerexperiment: Entladekurve Kondensator](#1.3-schülerexperiment:-entladekurve-kondensator)
+2. 1. [Schüler-Experiment: U-I-Kennlinie mit Cassy - Manuelle Messwertaufnahme](#2.1-schülerexperiment:-u-i-kennlinie-mit-cassy-manuelle-messwertaufnahme)
 
-1. 4. [Schülerexperiment: Messungen der magnetischen Flussdichte](#1.4-schülerexperiment:-messungen-der-magnetischen-flussdichte)
+2. 2. [Schülerexperiment: U-I-Kennlinie mit Cassy - Automatische Messwertaufnahme](#2.2-schülerexperiment:-u-i-kennlinie-mit-cassy-automatische-messwertaufnahme)
 
-# 0. Einführungsvideo zu Mobile-Cassy 2
+2. 3. [Schülerexperiment: Entladekurve Kondensator](#2.3-schülerexperiment:-entladekurve-kondensator)
+
+2. 4. [Schülerexperiment: Messungen der magnetischen Flussdichte](#2.4-schülerexperiment:-messungen-der-magnetischen-flussdichte)
+
+# Einführungsvideo zu Mobile-Cassy 2
 
 !?[Einführung-Mobile-Cassy2](https://www.youtube.com/watch?v=2gPGb_NdbqM)
 
-# 1. Anleitung zur Verbindung von Cassy und Tablet
+# 2. Anleitung zur Verbindung von Cassy und Tablet
 
 __Grundlage:__ Jedes __Mobile Cassy 2__-Messgerät (im Folgenden mit _Cassy_ bezeichnet) kann mit Hilfe einer W-Lan Verbindung über das Tablet ferngestuert werden. Dabei können Messparameter eingestellt, Messungen gestartet und Messdaten abgespeichert werden. Hier wird das Tablet mit dem Cassy verbunden.
 
@@ -181,7 +183,7 @@ __Arbeitsablauf:__
 
 - zu sehen ist die Live-Anzeige der aktiven Sensoren
 
-## 1.1 Schülerexperiment: U-I-Kennlinie mit Cassy - Manuelle Messwertaufnahme
+## 2.1 Schülerexperiment: U-I-Kennlinie mit Cassy - Manuelle Messwertaufnahme
 
 __Aufgabenstellung:__ Nimm mit die U-I-Kennlinie für einen ohmschen Widerstand ($R=512\Omega$) auf. Variiere die Spannung in Schritten von 1 V im Intervall 0 - 10 V.
 
@@ -277,7 +279,7 @@ _(muss nicht notiert werden)_
 
 !?[Einführung-Mobile-Cassy2](https://www.youtube.com/watch?v=2gPGb_NdbqM)
 
-## 1.2 Schülerexperiment: U-I-Kennlinie mit Cassy - Automatische Messwertaufnahme
+## 2.2 Schülerexperiment: U-I-Kennlinie mit Cassy - Automatische Messwertaufnahme
 
 In dieser Messreihe wird die Kennlinie vom Cassy-Messgerät automatisch aufgenommen.
 
@@ -309,7 +311,7 @@ In dieser Messreihe wird die Kennlinie vom Cassy-Messgerät automatisch aufgenom
 
 9. @color(Dieses Diagramm und dein Messwertdiagramm sollten übereinstimmen., red)
 
-## 1.3 Schülerexperiment: Entladekurve Kondensator
+## 2.3 Schülerexperiment: Entladekurve Kondensator
 
 __Aufgabenstellung:__ Untersuche den Entladevorgang eines Kondesators mit Hilfe der elektronischen Messwerterfassung ***Mobile Cassy 2***.
 
@@ -540,7 +542,7 @@ __Diagramm zeichnen aus einzelnen Messwerten:__
 - zeichnen Sie anschließend den I(t)-Graph für Ihre Messwerte in das Protokoll
 
 
-## 1.4 Schülerexperiment: Messungen der magnetischen Flussdichte
+## 2.4 Schülerexperiment: Messungen der magnetischen Flussdichte
 
 __Teil 1: Bestimmung der magnetischen Flussdichte des Erdmagnetfeldes__
 
