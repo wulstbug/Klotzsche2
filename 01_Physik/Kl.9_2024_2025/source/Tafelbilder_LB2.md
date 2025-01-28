@@ -1484,7 +1484,7 @@ _Masse eines Ba-144 Atoms_
 
 _Masse eines Kr-89 Atoms_
 
-> $m_{\mathrm{Ba-144}} = 88,918 u$
+> $m_{\mathrm{Kr-89}} = 88,918 u$
 ************
 
 </p>
