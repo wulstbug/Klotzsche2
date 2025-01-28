@@ -484,7 +484,7 @@ __Webseite:__ ogy.de/golnik -> Nawi 8 2024-2025 -> Einfache Konstruktionsumgebun
 
 ## Geogebra: Abbildung an einer Sammellinse
 
-1. Gehe zu @color(ogy.de/golnik,blue) und nutze @color(Einfache Konstruktionsumgebung, orange)
+1. Geogebra: [Klicke hier für eine einfache GEOGEBRA-Konstruktionsumgebung](https://www.geogebra.org/classroom/dmvmdyvu) -> Wähle __Weiter ohne Anmeldung__ und nutze deine Initialien
 
 2. Blende das Koordinatensystem ein und platziere den Ursprung mittig.
 
@@ -560,7 +560,7 @@ __Aufgaben:__
 
 19. Probiere nun die Konstruktion eines Gegenstandes an @color(zwei Sammellinsen SLA+ SLB,orange).
 
-    1. Gehe dazu auf: @color(ogy.de/golnik,blue) und
+    1. Gehe dazu auf: @color(https://ogy.de/golnik,blue) und
 
     wähle: __Zwei Sammellinsen__
 
