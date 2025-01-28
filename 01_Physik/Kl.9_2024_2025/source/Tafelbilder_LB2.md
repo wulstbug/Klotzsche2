@@ -1614,3 +1614,7 @@ $ u = 1,66 \cdot 10^{-27} kg$
 @rangeQuiz2($E$ , 3.0627e-11 ,$J$)
 
 </p>
+
+## Fukushima - Dokumentation Quarks & CO
+
+!?[Youtube-Link](https://www.youtube.com/watch?v=aM_HbyIBbwc)
