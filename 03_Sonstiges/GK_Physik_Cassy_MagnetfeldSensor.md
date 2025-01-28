@@ -143,6 +143,24 @@ try {
 
 -->
 
+# SHILF IPADs und Cassy
+
+0. [Einführungsvideo zu Mobile-Cassy 2](#0.-einführungsvideo-zu-mobile-cassy-2)
+
+1. [Anleitung zur Verbindung von Cassy und Tablet](#1.-anleitung-zur-verbindung-von-cassy-und-tablet)
+
+1. 1. [Schüler-Experiment: U-I-Kennlinie mit Cassy - Manuelle Messwertaufnahme](#1.1-schülerexperiment:-u-i-kennlinie-mit-cassy-manuelle-messwertaufnahme)
+
+1. 2. [Schülerexperiment: U-I-Kennlinie mit Cassy - Automatische Messwertaufnahme](#1.2-schülerexperiment:-u-i-kennlinie-mit-cassy-automatische-messwertaufnahme)
+
+1. 3. [Schülerexperiment: Entladekurve Kondensator](#1.3-schülerexperiment:-entladekurve-kondensator)
+
+1. 4. [Schülerexperiment: Messungen der magnetischen Flussdichte](#1.4-schülerexperiment:-messungen-der-magnetischen-flussdichte)
+
+# 0. Einführungsvideo zu Mobile-Cassy 2
+
+!?[Einführung-Mobile-Cassy2](https://www.youtube.com/watch?v=2gPGb_NdbqM)
+
 # 1. Anleitung zur Verbindung von Cassy und Tablet
 
 __Grundlage:__ Jedes __Mobile Cassy 2__-Messgerät (im Folgenden mit _Cassy_ bezeichnet) kann mit Hilfe einer W-Lan Verbindung über das Tablet ferngestuert werden. Dabei können Messparameter eingestellt, Messungen gestartet und Messdaten abgespeichert werden. Hier wird das Tablet mit dem Cassy verbunden.
@@ -163,8 +181,7 @@ __Arbeitsablauf:__
 
 - zu sehen ist die Live-Anzeige der aktiven Sensoren
 
-
-## 1.1 Schüler-Experiment: U-I-Kennlinie mit Cassy - Manuelle Messwertaufnahme
+## 1.1 Schülerexperiment: U-I-Kennlinie mit Cassy - Manuelle Messwertaufnahme
 
 __Aufgabenstellung:__ Nimm mit die U-I-Kennlinie für einen ohmschen Widerstand ($R=512\Omega$) auf. Variiere die Spannung in Schritten von 1 V im Intervall 0 - 10 V.
 
@@ -258,11 +275,9 @@ _(muss nicht notiert werden)_
 
 </p>
 
-#### Einführungsvideo zu Mobile-Cassy 2
-
 !?[Einführung-Mobile-Cassy2](https://www.youtube.com/watch?v=2gPGb_NdbqM)
 
-## 1.2 Schüler-Experiment: U-I-Kennlinie mit Cassy - Automatische Messwertaufnahme
+## 1.2 Schülerexperiment: U-I-Kennlinie mit Cassy - Automatische Messwertaufnahme
 
 In dieser Messreihe wird die Kennlinie vom Cassy-Messgerät automatisch aufgenommen.
 
