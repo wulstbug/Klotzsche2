@@ -651,3 +651,45 @@ __Feldlinienbild mehrerer Ladungen__
      __Fokus: a)__
 
      [Aufgabe-Geladenes-Doppelpendel](https://www.leifiphysik.de/elektrizitaetslehre/ladungen-elektrisches-feld/aufgabe/doppelpendel)
+
+## 1.3. Der Kondensator
+
+__Definition:__ Ein Kondenstator ist ein Bauelement zur __Speicherung von elektrischer Ladung__. Er besteht aus zwei leitenden Schichten, die durch einen Isolator (@color(Dielektrikum,orange)) voneinander getrennt sind, darkgrey).
+
+Einfachste Bauform: @color(__Plattenkondensator__, orange) 
+
+
+![Plattenkondensator](https://diversewolken.ddns.net/nextcloud/index.php/s/Sw39rmgGTYbZL7S/download) <!--style="display:block;margin-left:auto;margin-right:auto; max-width:400px"-->
+
+{{1}}
+*******
+__Eigenschaften eines Plattenkondensators:__
+
+- auf den beiden Platten eines Plattenkondensators werden __elektrische Ladungen $Q$__ gespeichert
+*******
+
+{{2}}
+*******
+- __das elektrische Feld__ zwischen den Platten ist @color(homogen, orange), d.h. es hat an jedem Punkt dieselbe Feldstärke $\vec{E}$
+*******
+
+{{3}}
+*******
+- __die Feldlinien__ zeigen von der @color(positiven, red) Platte zur @color(negativen, blue) Platte
+*******
+
+{{4}}
+*******
+- __das elektrische Feld__ $\vec{E}$ eines Plattenkondensators berechnet sich mit
+*******
+
+{{5}}
+*******
+> $$ \boxed{\vec{E} = \dfrac{U}{d}} $$
+>
+> $\hspace{1cm}$ $U$ ... Spannung zwischen den Platten $\big[ V \big]$ 
+>
+> $\hspace{1cm}$ $d$ ... Abstand der Platten $\big[ m \big]$ 
+
+- wird in das elektrische Feld eine elektrische Ladung eingebracht, so wirkt auf die Ladung eine elektrische Kraft die mit $\vec{F}=\vec{E}\cdot q$ berechnet werden kann
+*******
