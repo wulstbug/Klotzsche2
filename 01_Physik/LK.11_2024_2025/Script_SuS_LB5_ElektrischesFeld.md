@@ -625,3 +625,168 @@ __Feldlinienbild mehrerer Ladungen__
      __Fokus: a)__
 
      [Aufgabe-Geladenes-Doppelpendel](https://www.leifiphysik.de/elektrizitaetslehre/ladungen-elektrisches-feld/aufgabe/doppelpendel)
+
+
+## 5.3. Der Kondensator
+
+__Definition:__ Ein Kondenstator ist ein Bauelement zur __Speicherung von elektrischer Ladung__. Er besteht aus zwei leitenden Schichten, die durch einen Isolator (@color(Dielektrikum,orange)) voneinander getrennt sind, darkgrey).
+
+Einfachste Bauform: @color(__Plattenkondensator__, orange) 
+
+
+![Plattenkondensator](https://diversewolken.ddns.net/nextcloud/index.php/s/Sw39rmgGTYbZL7S/download) <!--style="display:block;margin-left:auto;margin-right:auto; max-width:400px"-->
+
+{{1}}
+*******
+__Eigenschaften eines Plattenkondensators:__
+
+- auf den beiden Platten eines Plattenkondensators werden __elektrische Ladungen $Q$__ gespeichert
+*******
+
+{{2}}
+*******
+- __das elektrische Feld__ zwischen den Platten ist @color(homogen, orange), d.h. es hat an jedem Punkt dieselbe Feldstärke $\vec{E}$
+*******
+
+{{3}}
+*******
+- __die Feldlinien__ zeigen von der @color(positiven, red) Platte zur @color(negativen, blue) Platte
+*******
+
+{{4}}
+*******
+- __die elektrische Feldstärke__ $\vec{E}$ innerhalb eines Plattenkondensators berechnet sich mit
+*******
+
+{{5}}
+*******
+> $$ \boxed{\vec{E} = \dfrac{U}{d}} $$
+>
+> $\hspace{1cm}$ $U$ ... Spannung zwischen den Platten $\big[ V \big]$ 
+>
+> $\hspace{1cm}$ $d$ ... Abstand der Platten $\big[ m \big]$ 
+
+- wird in das elektrische Feld eine elektrische Ladung eingebracht, so wirkt auf die Ladung eine elektrische Kraft die mit $\vec{F_{el}}=\vec{E}\cdot q$ berechnet werden kann
+*******
+
+### Aufgaben zu 5.3
+
+1. __Elektrisches Feld und elektrische Ladung__ <br> Der Kern eines Helium-Atoms enthält vier Elementarteilchen: zwei Protonen und zwei Neutronen. <br> Man nennt diesen Kern α-Teilchen (Elektronen sind hier nicht enthalten).
+
+1.1. Geben Sie die elektrische Ladung $q_α$ und die Masse $m_α$ eines solchen Alpha-Teilchens an.
+
+<p style="margin-left:10%">
+
+@rangeQuiz2($q_{\alpha}$, 0, $C$)
+
+@rangeQuiz2($m_{\alpha}$, 0, $kg$)
+
+</p>
+
+---
+
+1.2. Zeichnen Sie das elektrische Feld eines einzelnen Alpha-Teilchens. Sie können das Alpha-Teilchen als Kugel betrachten, die Elementarteilchen müssen nicht extra gezeichnet werden.
+
+<details style="margin-left:10%">
+
+<summary> Lösung </summary>
+
+</details>
+
+---
+
+1.3. Notieren Sie die Art des elektrischen Feldes. Begründen Sie Ihre Aussage anhand 4.2.
+
+<p style="margin-left:10%">
+
+Feldform: [[ Radialfeld ]]
+
+Feldart: [[ homogen ]]
+
+</p>
+
+---
+
+2. __Elektronenröhre__ <br> Elektronenröhren sind sehr nützliche elektronische Bauelemente, welche entscheidend für die Entwicklung der ersten Computer Waren. Eine Elektronenröhre ähnelt einem einem kleinen Plattenkondensator, welcher sich Inneren einer evakuierten Glaskugel befindet. Abb.1 zeigt eine stark vereinfachte seitliche Skizze. Dabei ist der negative Pol der Spannungsquelle an die Kathode angeschlossen und der positive Teil an die Anode. ![Elektronenröhre](https://diversewolken.ddns.net/nextcloud/index.php/s/27yGykN3XxZ27gJ/download "Abb.1: Schema Elektronenröhre") 
+
+2.1. Zeichnen Sie die elektrischen Feldlinien in die Skizze ein.
+
+2.2. Erläutern Sie qualitativ, was mit einem Elektron geschieht, welches zwischen Kathode und Anode befindet.
+
+2.3. Ermitteln Sie den Wert der elektrischen Feldstärke zwischen Kathode und Anode. 
+
+2.4. Im Betrieb wird die Kathode geheizt und Elektronen treten mit ca. 2∙10⁶ m/s aus der Kathode aus. Ermitteln Sie die Geschwindigkeit, welche ein Elektron an der Anode besitzt.
+
+2.5. Im Betrieb wird die Kathode geheizt und Elektronen treten mit ca. 2∙10⁶ m/s aus der Kathode aus. Ermitteln Sie die Geschwindigkeit, welche ein Elektron an der Anode besitzt.
+
+
+## 1.4. Die Kapazität
+
+__Definition:__ Die @color(Kapazität, orange) eines Kondensators beschreibt seine Fähigkeit eine __Ladungsmenge Q__ zu speichern, wenn eine bestimmte __Spannung U__ angelegt wird.
+
+{{1}}
+*********
+> __Formel:__ 
+>
+> $$ \boxed{ C = \dfrac{Q}{U} } $$
+>
+> $\hspace{1cm}$ $C$ ... Kapazität  
+>
+> $\hspace{1cm}$ $Q$ ... im Kondensator gespeicherte Ladung $\big[ C \big]$ 
+>
+> $\hspace{1cm}$ @color(_Hinweis: Im folgenden werden wir den Buchstaben **Q** für die Ladung auf dem Kondensator und den Buchstaben **q** für die Ladung eines Teilchens im elektrischen Feld verwenden_, orange)
+>
+> $\hspace{1cm}$ $U$ ... angelegte Spannung $\big[ V \big]$ 
+*********
+
+{{2}}
+*********
+> __Einheit der Kapazität:__  $$\textbf{1 Farad = 1 F}$$
+>
+> $$\Big[ F = \dfrac{C}{V} \Big] $$
+*********
+
+{{3}}
+*********
+> _Für die einfachste Bauform eines Kondensators [siehe 5.3](#5.3.-der-kondensator) kann man die Kapazität wie folgt berechnen:_
+> 
+> __Kapazität eines @color(Plattenkondensators, orange):__
+>
+> $$ \boxed{ C = \varepsilon_0 \cdot \varepsilon_r \cdot \dfrac{A}{d} } $$
+>
+> <p style="text-align:center">[IQB-Formelsammlung](https://www.iqb.hu-berlin.de/abitur/abitur/dokumente/naturwissenschaften/N_Mathematischna.pdf) (S.28+54)</p>
+*********
+
+{{4}}
+*********
+> $\hspace{1cm}$ $C$ ... Kapazität  
+>
+> $\hspace{1cm}$ $\varepsilon_0$ ... elektrische Feldkonstante $\boxed{\varepsilon_0 = 8,854 \cdot 10^{-12}\,\dfrac{A\cdot s}{V \cdot m}}$
+>
+> $\hspace{1cm}$ $\varepsilon_r$ ... Dielektrizitätszahl [Einheitenlos] @color( - Luft/Vakuum: $\varepsilon_r=1$,blue)
+>
+> $\hspace{1cm}$ $A$ ... Flächeninhalt der Platte $[m^2]$
+>
+> $\hspace{1cm}$ $d$ ... Abstand der Platten $[m]$
+*********
+
+{{5}}
+*********
+__Beispiel:__ _Ermittle die Kapazität des Plattenkondensators auf dem Lehrertisch. Komm dazu in kleiner Gruppe nach vorn und bestimme die notwendigen Werte._
+*********
+
+### Aufgabe zu 5.3/5.4
+
+3. __Wolkenkondensator__ ![Wolkenkondensator](https://diversewolken.ddns.net/nextcloud/index.php/s/F3xsbZknJ3PPqme/download) Eine positiv geladene Wolke in 400 m Höhe bildet zusammen mit dem Erdboden einen Plattenkondensator (Fläche einer „Platte“ 8,0 km²). Läd sich die elektrisch Wolke auf, so entsteht zwischen Wolke und Erdboden ein elektrisches Feld. Die elektrische Feldstärke ist in dieser Aufgabe 1,2∙105 V/m, was so hoch ist, dass eine Entladung durch die Luft (Blitz) unmittelbar bevorsteht.
+
+3.1. Zeigen Sie, dass die Spannung zwischen der Wolke und dem Boden etwa 50 Millionen Volt beträgt.
+
+3.2. Zeigen Sie, dass sich auf der Wolke eine Ladung von 8,5 C befindet.
+
+3.3. Ermittle die Ladung, die ein kugelförmiges Wassertröpfchen mit 2,0 mm Durchmesser haben müsste, wenn es vor Entladung der Wolke zwischen dieser und der Erde bei Windstille gerade schweben würde? <br> (Der Auftrieb in Luft ist zu vernachlässigen.)
+
+3.3. Ermitteln Sie die Ladung Q, welche sich in den Wolken befindet.
+
+3.4. Wie lange würde die Entladung der Wolke dauern, wenn die mittlere Stromstärke des Blitzes 4,0 kA betragen würde?
+
+3.5. Noch bevor es zu einer Entladung kommt, drückt ein Fallwind die Wolke auf eine niedrigere Höhe herab. Die Ladung der Wolke bleibe dabei konstant. <br> Wie ändert sich qualitativ die elektrische Feldstärke zwischen Wolke und Erde? Wird eine Entladung der Wolke dadurch wahrscheinlicher? <br> Geben Sie eine kurze Begründung.

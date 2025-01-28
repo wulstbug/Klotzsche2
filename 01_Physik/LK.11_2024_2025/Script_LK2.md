@@ -495,7 +495,7 @@ Die Stärke des elektrischen Feldes $\vec{E}$ berechnet sich aus der Kraft $\vec
         [( )] positiv
         [(X)] negativ
         [( )] kann man nicht sagen
-        [[?]] Achte auf die Richtung der Feldlinien im Aufgabentext. Vergleiche die Richtung mit der Richtungsvorgabe für Feldlinien (siehe 1.2)
+        [[?]] Achte auf die Richtung der Feldlinien im Aufgabentext. Vergleiche die Richtung mit der Richtungsvorgabe für Feldlinien (siehe 5.2)
         [[?]] Feldlinien beginnen bei positiven und enden bei negativen Ladungen
 
 ---
@@ -773,7 +773,7 @@ __Definition:__ Die @color(Kapazität, orange) eines Kondensators beschreibt sei
 
 {{3}}
 *********
-> _Für die einfachste Bauform eines Kondensators [siehe 1.3](#13-der-kondensator) kann man die Kapazität wie folgt berechnen:_
+> _Für die einfachste Bauform eines Kondensators [siehe 5.3](#5.3.-der-kondensator) kann man die Kapazität wie folgt berechnen:_
 > 
 > __Kapazität eines @color(Plattenkondensators, orange):__
 >
@@ -798,7 +798,10 @@ __Definition:__ Die @color(Kapazität, orange) eines Kondensators beschreibt sei
 {{5}}
 *********
 __Beispiel:__ _Ermittle die Kapazität des Plattenkondensators auf dem Lehrertisch. Komm dazu in kleiner Gruppe nach vorn und bestimme die notwendigen Werte._
+*********
 
+{{6}}
+*********
 <p class="newspaper">
 
 geg.:
@@ -813,8 +816,6 @@ $\varepsilon_r$ = <bdi style="color:orange"> $ = 1$ </bdi>
 
 </div>
 
-<p class="cb">
-
 ges.:
 
 <div style="text-indent:10%">
@@ -822,6 +823,8 @@ ges.:
 $C$
 
 </div>
+
+<p class="cb">
 
 Lsg.:
 
