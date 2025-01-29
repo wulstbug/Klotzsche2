@@ -771,7 +771,7 @@ __Definition:__ Die @color(Kapazität, orange) eines Kondensators beschreibt sei
 >
 > $$ \boxed{ C = \varepsilon_0 \cdot \varepsilon_r \cdot \dfrac{A}{d} } $$
 >
-> <p style="text-align:center">[IQB-Formelsammlung](https://www.iqb.hu-berlin.de/abitur/abitur/dokumente/naturwissenschaften/N_Mathematischna.pdf) (S.28+54)</p>
+> <p style="text-align:center">[Formelsammlung](https://www.iqb.hu-berlin.de/abitur/abitur/dokumente/naturwissenschaften/N_Mathematischna.pdf) (S.28+54)</p>
 *********
 
 {{4}}
@@ -792,18 +792,130 @@ __Definition:__ Die @color(Kapazität, orange) eines Kondensators beschreibt sei
 __Beispiel:__ _Ermittle die Kapazität des Plattenkondensators auf dem Lehrertisch. Komm dazu in kleiner Gruppe nach vorn und bestimme die notwendigen Werte._
 *********
 
+{{6}}
+*********
+<p class="newspaper">
+
+geg.:
+
+<div style="text-indent:10%">
+
+$A$ = <bdi style="color:orange"> $28\,cm \cdot 28\,cm = 0,28 \cdot 0,28\,m^2 = 0,0784 m^2$</bdi>
+
+$d$  <bdi style="color:orange"> $\approx 1,5\,cm = 0,015 m$ </bdi>
+
+$\varepsilon_r$ = <bdi style="color:orange"> $ = 1$ </bdi>
+
+</div>
+
+ges.:
+
+<div style="text-indent:10%">
+
+$C$
+
+</div>
+
+<p class="cb">
+
+Lsg.:
+
+<div style="text-indent:10%">
+
+$C = \varepsilon_0 \cdot \varepsilon_r \cdot \dfrac{A}{d} $
+
+$C \approx $  <bdi style="color:orange"> $ 4,6 \cdot 10^{-11} F $ = $ 46\,pF$  </bdi>
+
+<bdi style="color:orange">Lösungen $ C = 2 \cdot 10^{-11}\,F$ bis $ 8 \cdot 10^{-11}\,F $ sind akzeptabel</bdi>
+
+Beispiel: Taschenrechner:
+
+![GTR](https://diversewolken.ddns.net/nextcloud/index.php/s/939gMiCMEoNn7bL/download)<!-- style="width:80%" -->
+
+</div>
+
+</p>
+
+</p>
+
+*********
+
 ### Aufgabe zu 5.3/5.4
 
-3. __Wolkenkondensator__ ![Wolkenkondensator](https://diversewolken.ddns.net/nextcloud/index.php/s/F3xsbZknJ3PPqme/download) Eine positiv geladene Wolke in 400 m Höhe bildet zusammen mit dem Erdboden einen Plattenkondensator (Fläche einer „Platte“ 8,0 km²). Läd sich die elektrisch Wolke auf, so entsteht zwischen Wolke und Erdboden ein elektrisches Feld. Die elektrische Feldstärke ist in dieser Aufgabe 1,2∙105 V/m, was so hoch ist, dass eine Entladung durch die Luft (Blitz) unmittelbar bevorsteht.
+3. __Wolkenkondensator__ ![Wolkenkondensator](https://diversewolken.ddns.net/nextcloud/index.php/s/F3xsbZknJ3PPqme/download) Eine positiv geladene Wolke in 400 m Höhe bildet zusammen mit dem Erdboden einen Plattenkondensator (Fläche einer „Platte“ 8,0 km²). Läd sich die elektrisch Wolke auf, so entsteht zwischen Wolke und Erdboden ein elektrisches Feld. Die elektrische Feldstärke ist in dieser Aufgabe 1,2∙10⁵ V/m, was so hoch ist, dass eine Entladung durch die Luft (Blitz) unmittelbar bevorsteht.
 
-3.1. Zeigen Sie, dass die Spannung zwischen der Wolke und dem Boden etwa 50 Millionen Volt beträgt.
+---
 
-3.2. Zeigen Sie, dass sich auf der Wolke eine Ladung von 8,5 C befindet.
+3.1. Zeigen Sie, dass die Spannung zwischen der Wolke und dem Boden etwa 50 Millionen Volt beträgt. Bestimmen Sie den genauen Wert.
 
-3.3. Ermittle die Ladung, die ein kugelförmiges Wassertröpfchen mit 2,0 mm Durchmesser haben müsste, wenn es vor Entladung der Wolke zwischen dieser und der Erde bei Windstille gerade schweben würde? <br> (Der Auftrieb in Luft ist zu vernachlässigen.)
+@rangeQuiz2($ \hspace{1cm}$ $Q$, 48e6, $V$)
 
-3.3. Ermitteln Sie die Ladung Q, welche sich in den Wolken befindet.
+<details style="margin-left:10%">
+
+<summary> Lösung </summary>
+
+![Lsg_3_1](https://diversewolken.ddns.net/nextcloud/index.php/s/WCbLJTRp7Z22fG7/download)
+
+</details>
+
+---
+
+3.2. Ermitteln Sie die Ladung, die sich in den Wolken befindet.
+
+@rangeQuiz2($ \hspace{1cm}$ $Q$, 8.5 , $C$)
+
+<details style="margin-left:10%">
+
+<summary>Zwischenergebnisse</summary>
+
+@rangeQuiz2( $C$ , 1.77e-7, $F$)
+
+</details>
+
+<details style="margin-left:10%">
+
+<summary> Lösung </summary>
+
+![Lsg_3_2](https://diversewolken.ddns.net/nextcloud/index.php/s/od6j7Cpr8a5bPRX/download)
+
+</details>
+
+---
+
+3.3. Ermittle die Ladung $q$, die ein kugelförmiges Wassertröpfchen mit 2,0 mm Durchmesser haben müsste, wenn es vor Entladung der Wolke zwischen dieser und der Erde bei Windstille gerade schweben würde? <br> (Der Auftrieb in Luft ist zu vernachlässigen.)
+
+@rangeQuiz2($ \hspace{1cm}$ $q$, 3.42E-10 , $C$)
+
+<details style="margin-left:10%">
+
+<summary> Lösung </summary>
+
+![Lsg_3_3](https://diversewolken.ddns.net/nextcloud/index.php/s/a3nHxzzENECm5GX/download)
+
+</details>
+
+---
 
 3.4. Wie lange würde die Entladung der Wolke dauern, wenn die mittlere Stromstärke des Blitzes 4,0 kA betragen würde?
 
+@rangeQuiz2($ \hspace{1cm}$ $t$, 2.1e-3 , $s$)
+
+<details style="margin-left:10%">
+
+<summary> Lösung </summary>
+
+![Lsg_3_4](https://diversewolken.ddns.net/nextcloud/index.php/s/HLGPAkXt3TwCE5H/download)
+
+</details>
+
+---
+
 3.5. Noch bevor es zu einer Entladung kommt, drückt ein Fallwind die Wolke auf eine niedrigere Höhe herab. Die Ladung der Wolke bleibe dabei konstant. <br> Wie ändert sich qualitativ die elektrische Feldstärke zwischen Wolke und Erde? Wird eine Entladung der Wolke dadurch wahrscheinlicher? <br> Geben Sie eine kurze Begründung.
+
+<details style="margin-left:10%">
+
+<summary> Lösung </summary>
+
+![Lsg_3_5](https://diversewolken.ddns.net/nextcloud/index.php/s/4ZegS5AXFdZgXwY/download)
+
+</details>
