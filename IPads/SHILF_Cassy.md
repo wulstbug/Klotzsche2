@@ -186,8 +186,6 @@ _(muss nicht notiert werden)_
 
 </p>
 
-!?[Einführung-Mobile-Cassy2](https://www.youtube.com/watch?v=2gPGb_NdbqM)
-
 ## 2.2 Schülerexperiment: U-I-Kennlinie mit Cassy - Automatische Messwertaufnahme
 
 In dieser Messreihe wird die Kennlinie vom Cassy-Messgerät automatisch aufgenommen.
