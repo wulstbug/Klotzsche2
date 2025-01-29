@@ -702,9 +702,9 @@ __Eigenschaften eines Plattenkondensators:__
 
 <p style="margin-left:10%">
 
-@rangeQuiz2($q_{\alpha}$, 0, $C$)
+@rangeQuiz2($q_{\alpha}$, 3.204e-19 , $C$)
 
-@rangeQuiz2($m_{\alpha}$, 0, $kg$)
+@rangeQuiz2($m_{\alpha}$, 6.645e-27 , $kg$)
 
 </p>
 
@@ -716,6 +716,8 @@ __Eigenschaften eines Plattenkondensators:__
 
 <summary> Lösung </summary>
 
+-> siehe Radialfeld
+
 </details>
 
 ---
@@ -726,7 +728,7 @@ __Eigenschaften eines Plattenkondensators:__
 
 Feldform: [[ Radialfeld ]]
 
-Feldart: [[ homogen ]]
+Feldart: [[ inhomogen ]]
 
 </p>
 
@@ -744,8 +746,23 @@ Feldart: [[ homogen ]]
 
 2.5. Im Betrieb wird die Kathode geheizt und Elektronen treten mit ca. 2∙10⁶ m/s aus der Kathode aus. Ermitteln Sie die Geschwindigkeit, welche ein Elektron an der Anode besitzt.
 
+### 5.3.1 Demonstrationsexperiment - Metallischer TT-Ball zwischen Kondensatorplatten
 
-## 1.4. Die Kapazität
+![TB_TT_Ball_Kondensator1](https://diversewolken.ddns.net/nextcloud/index.php/s/CHp3Z5AZi6FnyFy/download)
+
+![TB_TT_Ball_Kondensator2](https://diversewolken.ddns.net/nextcloud/index.php/s/RFGE7nr44G3qjEs/download)
+
+![TB_TT_Ball_Kondensator3](https://diversewolken.ddns.net/nextcloud/index.php/s/axm4xbD5AwT4ock/download)
+
+<details>
+
+<summary> Foto vom Aufbau </summary>
+
+![Foto_TT_Ball_Kondesator](https://diversewolken.ddns.net/nextcloud/index.php/s/XGmC5NgE4zEo3T7/download)
+
+</details>
+
+## 5.4. Die Kapazität
 
 __Definition:__ Die @color(Kapazität, orange) eines Kondensators beschreibt seine Fähigkeit eine __Ladungsmenge Q__ zu speichern, wenn eine bestimmte __Spannung U__ angelegt wird.
 
