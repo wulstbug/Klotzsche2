@@ -744,8 +744,6 @@ Feldart: [[ inhomogen ]]
 
 2.4. Im Betrieb wird die Kathode geheizt und Elektronen treten mit ca. 2∙10⁶ m/s aus der Kathode aus. Ermitteln Sie die Geschwindigkeit, welche ein Elektron an der Anode besitzt.
 
-2.5. Im Betrieb wird die Kathode geheizt und Elektronen treten mit ca. 2∙10⁶ m/s aus der Kathode aus. Ermitteln Sie die Geschwindigkeit, welche ein Elektron an der Anode besitzt.
-
 ### 5.3.1 Demonstrationsexperiment - Metallischer TT-Ball zwischen Kondensatorplatten
 
 ![TB_TT_Ball_Kondensator1](https://diversewolken.ddns.net/nextcloud/index.php/s/CHp3Z5AZi6FnyFy/download)
