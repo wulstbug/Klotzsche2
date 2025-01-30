@@ -742,6 +742,8 @@ Feldart: [[ inhomogen ]]
 
 2.3. Ermitteln Sie den Wert der elektrischen Feldstärke zwischen Kathode und Anode. 
 
+@rangeQuiz2($\hspace{1cm}$  $E_{el}$, 40000, $\frac{V}{m}$)
+
 2.4. Im Betrieb wird die Kathode geheizt und Elektronen treten mit ca. 2∙10⁶ m/s aus der Kathode aus. Ermitteln Sie die Geschwindigkeit, welche ein Elektron an der Anode besitzt.
 
 ### 5.3.1 Demonstrationsexperiment - Metallischer TT-Ball zwischen Kondensatorplatten
