@@ -891,7 +891,7 @@ Beispiel: Taschenrechner:
 
 3.1. Zeigen Sie, dass die Spannung zwischen der Wolke und dem Boden etwa 50 Millionen Volt beträgt. Bestimmen Sie den genauen Wert.
 
-@rangeQuiz2($ \hspace{1cm}$ $Q$, 48e6, $V$)
+@rangeQuiz2($ \hspace{1cm}$ $U$, 48e6, $V$)
 
 <details style="margin-left:10%">
 
