@@ -708,7 +708,6 @@ Feldart: [[ inhomogen ]]
 </p>
 
 ---
-
 2. __Elektronenröhre__ <br> Elektronenröhren sind sehr nützliche elektronische Bauelemente, welche entscheidend für die Entwicklung der ersten Computer Waren. Eine Elektronenröhre ähnelt einem einem kleinen Plattenkondensator, welcher sich Inneren einer evakuierten Glaskugel befindet. Abb.1 zeigt eine stark vereinfachte seitliche Skizze. Dabei ist der negative Pol der Spannungsquelle an die Kathode angeschlossen und der positive Teil an die Anode. ![Elektronenröhre](https://diversewolken.ddns.net/nextcloud/index.php/s/27yGykN3XxZ27gJ/download "Abb.1: Schema Elektronenröhre") 
 
 2.1. Zeichnen Sie die elektrischen Feldlinien in die Skizze ein.
@@ -717,7 +716,27 @@ Feldart: [[ inhomogen ]]
 
 2.3. Ermitteln Sie den Wert der elektrischen Feldstärke zwischen Kathode und Anode. 
 
+@rangeQuiz2($\hspace{1cm}$  $E_{el}$, 40000, $\frac{V}{m}$)
+
 2.4. Im Betrieb wird die Kathode geheizt und Elektronen treten mit ca. 2∙10⁶ m/s aus der Kathode aus. Ermitteln Sie die Geschwindigkeit, welche ein Elektron an der Anode besitzt.
+
+@rangeQuiz2($\hspace{1cm}$  $v$, 8.61e6, $\frac{m}{s}$)
+
+<details>
+
+<summary> Hilfestellung zur Lösung </summary>
+
+Stellen Sie die Bewegungsgleichung für das Elektron auf. Ermitteln Sie aus dem zweiten Newton'schen Gesetz die Beschleunigung.
+
+</details>
+
+<details>
+
+<summary> Lösungsweg1 </summary>
+
+![Lsg_2.4](https://diversewolken.ddns.net/nextcloud/index.php/s/Xas4Gr5sMZYsLGP/download)
+
+</details>
 
 ### 5.3.1 Demonstrationsexperiment - Metallischer TT-Ball zwischen Kondensatorplatten
 

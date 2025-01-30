@@ -748,6 +748,22 @@ Feldart: [[ inhomogen ]]
 
 @rangeQuiz2($\hspace{1cm}$  $v$, 8.61e6, $\frac{m}{s}$)
 
+<details>
+
+<summary> Hilfestellung zur Lösung </summary>
+
+Stellen Sie die Bewegungsgleichung für das Elektron auf. Ermitteln Sie aus dem zweiten Newton'schen Gesetz die Beschleunigung.
+
+</details>
+
+<details>
+
+<summary> Lösungsweg1 </summary>
+
+![Lsg_2.4](https://diversewolken.ddns.net/nextcloud/index.php/s/Xas4Gr5sMZYsLGP/download)
+
+</details>
+
 ### 5.3.1 Demonstrationsexperiment - Metallischer TT-Ball zwischen Kondensatorplatten
 
 ![TB_TT_Ball_Kondensator1](https://diversewolken.ddns.net/nextcloud/index.php/s/CHp3Z5AZi6FnyFy/download)
