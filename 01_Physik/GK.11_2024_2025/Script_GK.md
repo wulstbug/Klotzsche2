@@ -4041,15 +4041,17 @@ Nutze Sie die Formel für die magnetische Flussdichte, ermittlen Sie die Funktio
 
 _Tafelbildvideo zur Lorentzkraft:_
 
+!?[TB_Video_Lorentzkraft](https://youtu.be/f0BNQ6uSvIQ)
+
+<br>
+
 <details>
 
-<summary> Fertiges Tafelbild zum Nachschlagen </summary>
+<summary> __Fertiges Tafelbild zum Nachschlagen__ </summary>
 
 ![TB_Lorentzkraft](https://diversewolken.ddns.net/nextcloud/index.php/s/tE56E3MWpqtozxx/download)
 
 </details>
-
-!?[TB_Video_Lorentzkraft](https://youtu.be/f0BNQ6uSvIQ)
 
 ## 1.2. Hand-Regel zur Richtungsbestimmung der Lorentzkraft
 
