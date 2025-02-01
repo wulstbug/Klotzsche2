@@ -767,3 +767,5 @@ __3.4 Auswertung:__
 > - verbinde die Messpunkte mit einer Ausgleichsgeraden
 >
 > - überprüfe ob diese Ausgleichsgerade die Messergebnisse in guter Näherung darstellt, notiere einen Ergebnissatz
+
+
