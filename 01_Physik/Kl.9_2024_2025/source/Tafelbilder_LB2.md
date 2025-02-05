@@ -1618,3 +1618,32 @@ $ u = 1,66 \cdot 10^{-27} kg$
 ## Fukushima - Dokumentation Quarks & CO
 
 !?[Youtube-Link](https://www.youtube.com/watch?v=aM_HbyIBbwc)
+
+## 2.15 Schutz vor radioaktiver Strahlung
+
+Einfache Regeln zum Schutz vor radioaktiver Strahlung kann man sich mit der @color(_Schwiegermutterregel_, orange) merken
+
+1. Abstand zur radioaktiven Quelle
+
+2. Wenn nötig, nur wenig Zeit in der Nähe der rad. Quelle
+
+3. Material zwischen Körper und Quelle (z.B. Blei) zur Abschirmung der Strahlung
+
+## 2.16 Vor- und Nachteile der Kernenergie
+
+| | |
+| Vorteile Kernenergie | Nachteile Kernenergie |
+| {1}{kein CO$_2$ Ausstoß (Treibhausgas) } | {3}{Gefahr rad. Verseuchung durch Unfälle} |
+| {2}{wetterunabhängige stabile E-Versorgung} | {4}{rad. Müll (100.000 Jahr aktiv)}|
+| | {5}{nicht erneuerbar}|
+
+{{5}}
+***********
+@color(Notiere eine begründete Stellungnahme zur Kernenergie in deinem Hefter., blue)
+***********
+
+
+
+## Energiewende - DL ARD Doku
+
+[Youtube-Link](https://www.youtube.com/watch?v=JXmkXvUX5Bk)
