@@ -1644,7 +1644,7 @@ Einfache Regeln zum Schutz vor radioaktiver Strahlung kann man sich mit der @col
 
 ## Fragen zur Kernenergie
 
-{{1}}
+{{1-2}}
 ************
 ``` ascii
 
@@ -1656,7 +1656,7 @@ gut <------        weiß nicht            --------------> schlecht
 ```
 ************
 
-{{2}}
+{{2-3}}
 ************
 ``` ascii
 
@@ -1668,7 +1668,7 @@ Ja <------        weiß nicht            --------------> Nein
 ```
 ************
 
-{{3}}
+{{3-4}}
 ************
 ``` ascii
 
@@ -1680,7 +1680,7 @@ gut <------        weiß nicht            --------------> schlecht
 ```
 ************
 
-{{4}}
+{{4-5}}
 ************
 ``` ascii
 
