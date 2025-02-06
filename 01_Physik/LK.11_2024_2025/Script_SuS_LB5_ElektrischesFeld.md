@@ -1144,7 +1144,7 @@ __Durchführung:__ _(muss nicht notiert werden)_
 
 5. Zeichne eine U-I-Kennlinie: Zeichne dazu ein Diagramm (x-Achse: U in V | y-Achse: I in A).
 
-6. Öffne die nächste Seite: @color(_1.7.2 Automatische Messwert-Erfassung mit Cassy_,darkgreen). Folge den Anweisungen und wiederhole die Messung mit einer Automatischen Messwert-Aufname.
+6. Öffne die nächste Seite: @color(_5.7.2 Automatische Messwert-Erfassung mit Cassy_,darkgreen). Folge den Anweisungen und wiederhole die Messung mit einer Automatischen Messwert-Aufname.
 
 </p>
 
