@@ -1642,6 +1642,68 @@ Einfache Regeln zum Schutz vor radioaktiver Strahlung kann man sich mit der @col
 @color(Notiere eine begründete Stellungnahme zur Kernenergie in deinem Hefter., blue)
 ***********
 
+## Fragen zur Kernenergie
+
+{{1}}
+************
+``` ascii
+
+In Deutschland wurden im Jahr 2023 alle Kernkraftwerke abgeschaltet. 
+Das finde ich
+
+gut <------        weiß nicht            --------------> schlecht
+
+```
+************
+
+{{2}}
+************
+``` ascii
+
+Ich finde dieses Datum war zu früh. 
+Wir müssten Kernenergie länger nutzen.
+
+Ja <------        weiß nicht            --------------> Nein
+
+```
+************
+
+{{3}}
+************
+``` ascii
+
+Stell dir vor hinter dem Flughafen sollten ein AKW installiert werden.
+Das finde ich ..
+
+gut <------        weiß nicht            --------------> schlecht
+
+```
+************
+
+{{4}}
+************
+``` ascii
+
+Der Ausstieg aus der Atomenergie hat ein Loch in die Energieversorgung gerissen.
+Teilweise wird das durch Atomstrom aus anderen Ländern (z.B. Frankreich) kompensiert.
+Das finde ich ..
+
+gut <------        weiß nicht            --------------> schlecht
+
+```
+************
+
+{{5}}
+************
+``` ascii
+
+Um das Energieloch zu stopfen sollen gegenüber der Schule auf der großen Wiese 5 große Windräder aufgebaut werden.
+Das finde ich ..
+
+gut <------        weiß nicht            --------------> schlecht
+
+```
+************
 
 
 ## Energiewende - DL ARD Doku
