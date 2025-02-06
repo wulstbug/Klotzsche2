@@ -1411,7 +1411,7 @@ __Teil C__
      [[x]] Die Wärme wird zum Wasserkochen verwendet, wodurch Dampf entsteht.
      [[ ]] Die freien Neutronen prallen gegen eine Turbine, wodurch die Turbine sich dreht und einen Generator mit Energie versorgt.
 
-3. Aluminium weist die Ordnungszahl 13 auf, Eisen die Ordnungszahl 26 und Tellur die Ordnungszahl 52. Welche der folgenden Reaktionen können thypothetisch Eisen produzieren?
+3. Aluminium weist die Ordnungszahl 13 auf, Eisen die Ordnungszahl 26 und Tellur die Ordnungszahl 52. Welche der folgenden Reaktionen können hypothetisch Eisen produzieren?
 
      [[x]] Kernspaltung von Tellur.
      [[ ]] Kernspaltung von Aluminium.
@@ -1506,7 +1506,7 @@ _Masse eines Kr-89 Atoms_
 
 > $ E = \Delta m \cdot c^2 $
 >
-> $ E = 0,185 \cdot 1,6605 \cdot 10^{-27} kg \cdot (3 \cdot 10^8 \frac{m}{s})^2 $$
+> $ E = 0,185 \cdot 1,6605 \cdot 10^{-27} kg \cdot (3 \cdot 10^8 \frac{m}{s})^2 $
 >
 > $ E = 2,764\cdot 10^{-11} J$
 
