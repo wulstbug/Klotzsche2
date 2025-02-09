@@ -131,6 +131,17 @@ _Bitte anschauen und ausprobieren_
 
 !?[HandRegel](https://www.youtube.com/watch?v=snM3g4zWeNw)
 
+__Bemerkungen zur Lorentzkraft:__
+
+_Bitte Lückentext und weiteres probieren_
+
+@color(siehe LB. S. 110, blue)
+
+??[Lorentzkraft_LearningApps](https://learningapps.org/4454537)
+
+__Tafelbild:__
+
+![TB_KräfteAufBewegteElektrischeLadungen](https://diversewolken.ddns.net/nextcloud/index.php/s/aBZZK9rneamRSyf/download)
 
 
 ### Übungsaufgaben zur Lorentzkraft
@@ -193,6 +204,8 @@ $$ \underline{F_L = 3,204\cdot 10^{-18} N}$$
 
 </p>
 
+---
+
 4. Die Flugbahn eines Elektrons in einem statischen magnetischen Feld ist eine Kreisbahn. Die Lorentzkraft $F_L$ wirkt als Zentritedalkraft $F_Z$ (siehe LB I, Kreisbewegung). Ermittle den Radius der Kreisbahn für die Aufgabe 2.
 
 <p style="margin-left:10%">
@@ -251,6 +264,274 @@ $$ v_e = 1 \cdot 10^5 \frac{m}{s}$$
 $$ B = 0,2 mT = 0,2 \cdot 10^{-3} T$$
 
 $$\boxed{\underline{\Rightarrow r = 2,84\cdot10^{-3} m}}$$
+
+</details>
+
+</p>
+
+### Demonstrationsexperiment: Kräfte auf bewegte elektrische Ladungen in Magnetfeldern
+
+@color(siehe LB. S. 110, blue)
+
+![FotoLorentzkraft](https://diversewolken.ddns.net/nextcloud/index.php/s/mLFceeEL2jP7BDC/download)
+
+
+## 1.3. Flugbahn von Elektronen in einem statischen, homogenen Magnetfeld
+
+@color(siehe LB. S. 110, blue)
+
+![TB_Flugbahn_Elektron_Magnetfeld](https://diversewolken.ddns.net/nextcloud/index.php/s/gmPT93dWaFALw3f/download "Herleitung des Flugbahnradius")
+
+
+
+### Aufgaben zur Vorbereitung der LK
+
+#### 1. Vermischte Aufgaben
+
+1. 1. Welche Eigenschaften muss ein Elektromagnet haben, der ein möglichst starkes Magnetfeld erzeugt?
+
+<p style="margin-left:10%">
+
+<details>
+
+<summary> Hinweis </summary>
+
+Untersuchen Sie den Einfluss der physikalischen Größen zur Berechnung der magnetischen Flussdichte $B$ in einer schlanken Spule.
+
+</details>
+
+<details>
+
+<summary> Lösung </summary>
+
+- Große Windungszahl $N$
+- Kurze Baulänge $ℓ$
+- Eisenkern
+- Große Stromstärke $I$ (dicker Draht)
+
+</details>
+
+</p>
+
+1. 2. In einer Spule (relative Dielektrizitätszahl = 1) mit 800 Windungen, einer Länge von 5 cm und einem Widerstand von 45 Ohm soll ein magnetisches Feld mit einer magnetischen Flussdichte von 12mT erzeugt werden. <br> a) Berechne die Spannung, die an die Spule angelegt werden muss. <br> b) Geben Sie zwei Möglichkeiten an, mit der man die magnetische Flussdichter verdoppeln kann.
+
+<p style="margin-left:10%">
+
+@rangeQuiz2($U$,26.786,$V$)
+
+<details>
+
+<summary> Zwischenergebnis </summary>
+
+@rangeQuiz2($I$,0.595, $A$)
+
+</details>
+
+<details>
+
+<summary> Hinweis a) </summary>
+
+Ermittlen Sie zunächst die elektrische Stromstärke $I$, die fließen muss, damit das geforderte Magnetfeld erzeugt werden kann. <br> Nutzen Sie im Anschluss den Zusammenhang von Spannung $U$, Stromstärke $I$ und Widerstand $R$ um die Spannung zu ermittlen.
+
+</details>
+
+<details>
+
+<summary> Lösung a) </summary>
+
+<p class="newspaper">
+
+geg.: 
+
+<p style="margin-left:10%">
+
+$B = 12 mT = 12 \cdot 10^{-3} T$
+
+$N = 800$
+
+$\mu_r = 1$
+
+$R = 45 \Omega$
+
+$ℓ=5cm = 5\cdot10^{-2}m$
+
+</p>
+
+ges.: $I$, $U$
+
+<p class="cb">
+
+Lsg.:
+
+$B = \mu_0 \cdot \mu_r \cdot \frac{N\cdot I}{ℓ}$
+
+$I = \dfrac{B \cdot ℓ}{\mu_0\cdot \mu_r \cdot N}$
+
+$I=0,595 A$
+
+$R=\frac{U}{I}$
+
+$U=26,8V$
+
+</p>
+
+</p>
+
+</details>
+
+<details>
+
+<summary> Lösung b) </summary>
+
+Aus der Gleichung der magnetischen Flussdichte für eine lange Spule kann man entnehmen:
+
+1. Die Stromstärke kann verdoppelt werden (entspricht einer Spannungsverdopplung, da I ~ U)
+
+2. Die Windungszahl kann verdoppelt werden.
+
+3. Die Länge der Spule kann halbiert werden.
+
+4. In die Spule kann ein Stoff mit µ = 2 eingeführt werden. 
+
+Bei jeder der 4 Möglichkeiten bleiben die anderen Größen konstant.
+
+</details>
+
+</p>
+
+1. 3. LB S. 126 / 37 a)
+
+<details style="margin-left:10%">
+
+<summary> Lösung </summary>
+
+Treten die Elektronen senkrecht zu den Feldlinien des homogenen Magnetfelds ein (Bild 1 und 2), so bewegen sie sich auf einer Kreisbahn. -> Kreisbewegung
+
+Werden die Ladungsträger parallel zum Magnetfeld eingeschossen (Bild 3), dann ist die auf die Elektronen wirkende Lorentzkraft und somit die Ablenkung null. Die Bahnform ist eine Gerade. -> gleichförmige Bewegung
+
+Treten die Elektronen schräg in das Magnetfeld ein (Bild 4), so bewegen sie sich auf einer spiralförmigen Bahn. Es liegt eine ungestörte Überlagerung einer gleichförmigen geradlinigen Bewegung und einer gleichförmigen Kreisbewegung vor.
+</details>
+
+#### 2. Aus Abi GK-2013
+
+2. ![Kreisbahn](https://diversewolken.ddns.net/nextcloud/index.php/s/yZwLi4z7RWqTDkG/download) Geladene Teilchen bewegen sich im zeitlich konstanten homogenen Magnetfeld senkrecht zu den Feldlinien auf einer Kreisbahn. 
+
+2. 1. Entscheiden Sie, ob es sich um ein positiv oder negativ geladenes Ion handelt. (1BE)
+
+<p style="margin-left:10%">
+
+[[negativ]]
+
+</p>
+
+2. 2. Übernehmen Sie diese Abbildung und tragen Sie am Punkt P der Bahn die Vektoren der Bahngeschwindigkeit und der wirkenden Lorentzkraft an. Begründen Sie, dass sich der Betrag der Bahngeschwindigkeit durch diese Kraft nicht ändert. (3BE)
+
+<p style="margin-left:10%">
+
+<details>
+
+<summary> Hinweis </summary>
+
+Überprüfe die Handregel und die Richtung der Lorentzkraft mit Hilfe von __1.2.__
+
+</details>
+
+<details>
+
+<summary> Lösung Zeichnung </summary>
+
+![Abi13_2_Lsg](https://diversewolken.ddns.net/nextcloud/index.php/s/SbMnFEaMHdqcEPn/download)
+
+</details>
+
+<details>
+
+<summary> Lösung Begründung </summary>
+
+Die Lorentzkraft @color($F_L$,purple) wirkt immer senkrecht zur Bewegungsrichtung. Eine Kraft, die auf einen Körper senkrecht zur Bewegungsrichtung wirkt, ändert nur die Richtung der Geschwindigkeit, nicht aber der Betrag (d.h. den Wert). Der Körper bewegt sich auf einer Kreisbahn.
+
+</details>
+
+</p>
+
+2. 3. Ein einfach geladenes Ion der Masse $4,98\cdot 10^{−27} kg$ bewegt sich in einem Magnetfeld der Flussdichte $0,045 T$ auf einer Bahn mit dem Radius $0,15 m$. Berechnen Sie dessen Bahngeschwindigkeit. (3 BE)
+
+<p style="margin-left:10%">
+
+@rangeQuiz2($v$, 216867.5, $\frac{m}{s}$)
+
+<details>
+
+<summary> Hinweis 1 </summary>
+
+Eine Information zur Ladung des Ions steckt im Text.
+
+</details>
+
+<details>
+
+<summary> Hinweis 2 </summary>
+
+Das Ion ist einfach geladen.
+
+</details>
+
+<details>
+
+<summary> Hinweis 3 </summary>
+
+Die Ladung des Ions beträgt eine Elementarladung.
+
+</details>
+
+<details>
+
+<summary> Hinweis 4 </summary>
+
+Nutzen Sie die hergeleitete Formel zur Berechnung des Bahnradius.
+
+</details>
+
+<details>
+
+<summary> Lösung </summary>
+
+<p class="newspaper">
+
+geg.: 
+
+<p style="margin-left:10%">
+
+$B = 0,045 T$
+
+$m = 4,98 \cdot 10^{-27} kg$
+
+$r = 0,15 m$
+
+$q = 1e = 1,6\cdot10{-19} C$
+
+</p>
+
+ges.: $v$
+
+<p class="cb">
+
+Lsg.:
+
+<p style="margin-left:10%">
+
+$r = \dfrac{v}{B\cdot \frac{q}{m}} \hspace{0.5cm}\Big | \cdot \Big(B\cdot \frac{q}{m}\Big)$
+
+$v = \dfrac{r \cdot B \cdot q}{m}$
+
+$v = 216867,5 \frac{m}{s} \approx 2,17\cdot 10^5 \frac{m}{s}$
+
+</p>
+
+</p>
+
+</p>
+
 
 </details>
 

@@ -4063,6 +4063,8 @@ __Bemerkungen zur Lorentzkraft:__
 
 _Bitte Lückentext und weiteres probieren_
 
+@color(siehe LB. S. 110, blue)
+
 ??[Lorentzkraft_LearningApps](https://learningapps.org/4454537)
 
 __Tafelbild:__
@@ -4197,14 +4199,146 @@ $$\boxed{\underline{\Rightarrow r = 2,84\cdot10^{-3} m}}$$
 
 ### Demonstrationsexperiment: Kräfte auf bewegte elektrische Ladungen in Magnetfeldern
 
+@color(siehe LB. S. 110, blue)
+
 ![FotoLorentzkraft](https://diversewolken.ddns.net/nextcloud/index.php/s/mLFceeEL2jP7BDC/download)
 
 
 ## 1.3. Flugbahn von Elektronen in einem statischen, homogenen Magnetfeld
 
+@color(siehe LB. S. 110, blue)
+
 ![TB_Flugbahn_Elektron_Magnetfeld](https://diversewolken.ddns.net/nextcloud/index.php/s/gmPT93dWaFALw3f/download "Herleitung des Flugbahnradius")
 
+
+
 ### Aufgaben zur Vorbereitung der LK
+
+#### 1. Vermischte Aufgaben
+
+1. 1. Welche Eigenschaften muss ein Elektromagnet haben, der ein möglichst starkes Magnetfeld erzeugt?
+
+<p style="margin-left:10%">
+
+<details>
+
+<summary> Hinweis </summary>
+
+Untersuchen Sie den Einfluss der physikalischen Größen zur Berechnung der magnetischen Flussdichte $B$ in einer schlanken Spule.
+
+</details>
+
+<details>
+
+<summary> Lösung </summary>
+
+- Große Windungszahl $N$
+- Kurze Baulänge $ℓ$
+- Eisenkern
+- Große Stromstärke $I$ (dicker Draht)
+
+</details>
+
+</p>
+
+1. 2. In einer Spule (relative Dielektrizitätszahl = 1) mit 800 Windungen, einer Länge von 5 cm und einem Widerstand von 45 Ohm soll ein magnetisches Feld mit einer magnetischen Flussdichte von 12mT erzeugt werden. <br> a) Berechne die Spannung, die an die Spule angelegt werden muss. <br> b) Geben Sie zwei Möglichkeiten an, mit der man die magnetische Flussdichter verdoppeln kann.
+
+<p style="margin-left:10%">
+
+@rangeQuiz2($U$,26.786,$V$)
+
+<details>
+
+<summary> Zwischenergebnis </summary>
+
+@rangeQuiz2($I$,0.595, $A$)
+
+</details>
+
+<details>
+
+<summary> Hinweis a) </summary>
+
+Ermittlen Sie zunächst die elektrische Stromstärke $I$, die fließen muss, damit das geforderte Magnetfeld erzeugt werden kann. <br> Nutzen Sie im Anschluss den Zusammenhang von Spannung $U$, Stromstärke $I$ und Widerstand $R$ um die Spannung zu ermittlen.
+
+</details>
+
+<details>
+
+<summary> Lösung a) </summary>
+
+<p class="newspaper">
+
+geg.: 
+
+<p style="margin-left:10%">
+
+$B = 12 mT = 12 \cdot 10^{-3} T$
+
+$N = 800$
+
+$\mu_r = 1$
+
+$R = 45 \Omega$
+
+$ℓ=5cm = 5\cdot10^{-2}m$
+
+</p>
+
+ges.: $I$, $U$
+
+<p class="cb">
+
+Lsg.:
+
+$B = \mu_0 \cdot \mu_r \cdot \frac{N\cdot I}{ℓ}$
+
+$I = \dfrac{B \cdot ℓ}{\mu_0\cdot \mu_r \cdot N}$
+
+$I=0,595 A$
+
+$R=\frac{U}{I}$
+
+$U=26,8V$
+
+</p>
+
+</p>
+
+</details>
+
+<details>
+
+<summary> Lösung b) </summary>
+
+Aus der Gleichung der magnetischen Flussdichte für eine lange Spule kann man entnehmen:
+
+1. Die Stromstärke kann verdoppelt werden (entspricht einer Spannungsverdopplung, da I ~ U)
+
+2. Die Windungszahl kann verdoppelt werden.
+
+3. Die Länge der Spule kann halbiert werden.
+
+4. In die Spule kann ein Stoff mit µ = 2 eingeführt werden. 
+
+Bei jeder der 4 Möglichkeiten bleiben die anderen Größen konstant.
+
+</details>
+
+</p>
+
+1. 3. LB S. 126 / 37 a)
+
+<details style="margin-left:10%">
+
+<summary> Lösung </summary>
+
+Treten die Elektronen senkrecht zu den Feldlinien des homogenen Magnetfelds ein (Bild 1 und 2), so bewegen sie sich auf einer Kreisbahn. -> Kreisbewegung
+
+Werden die Ladungsträger parallel zum Magnetfeld eingeschossen (Bild 3), dann ist die auf die Elektronen wirkende Lorentzkraft und somit die Ablenkung null. Die Bahnform ist eine Gerade. -> gleichförmige Bewegung
+
+Treten die Elektronen schräg in das Magnetfeld ein (Bild 4), so bewegen sie sich auf einer spiralförmigen Bahn. Es liegt eine ungestörte Überlagerung einer gleichförmigen geradlinigen Bewegung und einer gleichförmigen Kreisbewegung vor.
+</details>
 
 #### 2. Aus Abi GK-2013
 
