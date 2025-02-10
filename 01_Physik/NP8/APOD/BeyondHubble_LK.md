@@ -1032,3 +1032,29 @@ Konstruiere die Aufgaben a) bis d). Nutze für jede neue Konstruktion einen neue
 </p>
 
 </p>
+
+## Planeten und Umlaufgeschwindigkeiten
+
+| Planet   | Geschwindigkeit (km/h) |
+|----------|------------------------|
+| Merkur   | 172.332                |
+| Venus    | 126.072                |
+| Erde     | 107.226                |
+| Mars     | 86.868                 |
+| Jupiter  | 47.052                 |
+| Saturn   | 34.884                 |
+| Uranus   | 24.516                 |
+| Neptun   | 19.548                 |
+
+
+
+| Planet   |Sonnenabstand (Mio. km) |
+|----------|------------------------|
+| Merkur   |57.9                    |
+| Venus    |108.2                   |
+| Erde     |149.6                   |
+| Mars     |227.9                   |
+| Jupiter  |778.3                   |
+| Saturn   |1427.0                 |
+| Uranus   |2871.0                 |
+| Neptun   |4498.0                |
