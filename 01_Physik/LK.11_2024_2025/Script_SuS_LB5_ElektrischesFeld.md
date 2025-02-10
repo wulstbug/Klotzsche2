@@ -15,6 +15,11 @@ language: de
         column-gap: 40px;
         column-rule: 1px solid lightblue;
     }
+    .newspaper3 {
+        column-count: 3;
+        column-gap: 20px;
+        column-rule: 1px solid lightblue;
+    }        
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -1282,26 +1287,35 @@ Ziel der folgenden Einheit ist die __theoretische, simulierte und experimentelle
 
 </p>
 
-
-### 5.8.1 Theoretische Beschreibung des Ladevorgangs an einem Kondensator
+### 5.8.1 Theoretische Beschreibung des Lade- und Entladevorgangs an einem Kondensator
 
 __Schaltplan:__ Lade- und Entladevorgang eines Kondensators
 
-<p class="newspaper">
+<p class="newspaper3">
 
-![Kondensator_Ladekreis_2](https://diversewolken.ddns.net/nextcloud/index.php/s/mK4zfakTRqYPmG3/download)
+![Kondensator_Ladekreis_2](https://diversewolken.ddns.net/nextcloud/index.php/s/TGLpw4dssYj6WQ3/download)
 
 <p class="cb">
 
-__Ladekreis__ 
+@color(__Aufladen des Kondensators__, darkgreen)
 
-- Wird der Ladekreis geschlossen, so fließen elektrische Ladungen (angetrieben durch die Spannung) von den Polen auf die Platten des Kondensators <br> @color(-> die Ladung $Q$ auf den Kondensatorplatten wird größer, orange)
+- wird der Ladekreis geschlossen, so fließen elektrische Ladungen von den Polen auf die Platten des Kondensators <br> @color(-> die Ladung $Q$ auf den Kondensatorplatten wird größer, orange)
 
-- da sich gleichnamige Ladungen auf den Kondensatorplatten abstoßen, sinkt die Anzahl der Ladungsträger die pro Sekunde auf die Kondensatorplatten fließen <br> @color(-> während des Ladevorgangs nimmt die Ladestromstärke $I$ ab, orange)
+- für den zeitlichen Verlauf von Spannung $U(t)$ und Stromstärke $I(t)$ gilt: <br> <br> $ \boxed{U(t) = U_0 \cdot \Big[ 1-e^{-\frac{1}{R\cdot C}\cdot t} \Big] }$ <br> <br>  $\boxed{ I(t) = I_0 \cdot e^{-\frac{1}{R\cdot C}\cdot t}} $ <br> <br>  $ \boxed{I_0 = \dfrac{U_0}{R}} $
 
-- der zeitliche Verlauf der Stromstärke $I(t)$ kann mit <br> $$ I(t) = I_0 \cdot e^{-\frac{1}{R\cdot C}\cdot t} $$ <br> beschrieben werden. Hierbei gilt $ \hspace{0.5cm} I_0 = \dfrac{U}{R} $
+- $U_0$ .. Ladespannung
 
-- Beispielhafter Graph $I(t)$ -> die Stromstärke I nimmt mit der Zeit exponentiell ab <br> ![Ladekurve_1](https://diversewolken.ddns.net/nextcloud/index.php/s/knoEKKZaKBL9q6w/download)
+<p class="cb">
+
+@color(__Entladen des Kondensators__, purple)
+
+- wird der Entladekreis geschlossen, so wirkt der Kondensator wie eine kurzzeitige Spannungsquelle <br> @color(-> mit sinkender Ladungszahl sinken Spannung und Stromstärke, orange)
+
+- für den zeitlichen Verlauf von Spannung $U(t)$ und Stromstärke $I(t)$ gilt: <br> <br> $ \boxed{U(t) = U_0 \cdot e^{-\frac{1}{R\cdot C}\cdot t}} $ <br> <br> $ \boxed{I(t) = I_0 \cdot e^{-\frac{1}{R\cdot C}\cdot t}} $ <br> <br> $ \boxed{I_0 = \dfrac{U_0}{R}}$
+
+- $U_0$ .. Spannung am Kondensator zum Zeitpunkt t=0
+
+</p>
 
 </p>
 
