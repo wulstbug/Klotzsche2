@@ -1330,6 +1330,8 @@ __Schaltplan:__ Lade- und Entladevorgang eines Kondensators
 
 - $U_0$ .. Ladespannung
 
+![Ladekurven](https://diversewolken.ddns.net/nextcloud/index.php/s/fdwCnPzcogDqriE/download)
+
 <p class="cb">
 
 @color(__Entladen des Kondensators__, purple)
@@ -1339,6 +1341,8 @@ __Schaltplan:__ Lade- und Entladevorgang eines Kondensators
 - für den zeitlichen Verlauf von Spannung $U(t)$ und Stromstärke $I(t)$ gilt: <br> <br> $ \boxed{U(t) = U_0 \cdot e^{-\frac{1}{R\cdot C}\cdot t}} $ <br> <br> $ \boxed{I(t) = I_0 \cdot e^{-\frac{1}{R\cdot C}\cdot t}} $ <br> <br> $ \boxed{I_0 = \dfrac{U_0}{R}}$
 
 - $U_0$ .. Spannung am Kondensator zum Zeitpunkt t=0
+
+![EntLadekurven](https://diversewolken.ddns.net/nextcloud/index.php/s/xBsiTSYozHKMNs4/download)
 
 </p>
 
