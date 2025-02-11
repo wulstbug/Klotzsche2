@@ -1033,6 +1033,24 @@ Konstruiere die Aufgaben a) bis d). Nutze für jede neue Konstruktion einen neue
 
 </p>
 
+## Sonnensystem mit Geogebra
+
+Erstelle mit Hilfe von Geogebra dein eigenes Sonnensystem.
+
+1. Wechsle in einem weiteren Fenster [hier zu Geogebra](https://www.geogebra.org/classroom/dmvmdyvu) und bearbeite folgende Anleitung. Gehe zu @color(Weiter ohne Anmeldung, orange) und nutze deinen Vornamen oder deine Initialien.
+
+2. Blende das Koordinatensystem ein und platziere den Ursprung mittig.
+
+![Koord](https://diversewolken.ddns.net/nextcloud/index.php/s/pGEcgSo6YKCakip/download)
+
+3. Erstelle die Sonne als zentralen Punkt im Koordinatenursprung. Setze die Farbe auf ein kräftiges gelb und gib dem Punkt den Namen __Sonne__.
+
+![Sonne](https://diversewolken.ddns.net/nextcloud/index.php/s/ZkKEG8A5F8rZGSE/download)
+
+4. Erstelle nun die erste Planetenbahn. Zur Vereinfachung nehmen wir an, dass es sich um eine Kreisbahn handelt. Den Radius geben wir in Millionen-Kilometern an. Auf der nächsten Seite findest du die Angaben zum Merkur.
+
+
+
 ## Planeten und Umlaufgeschwindigkeiten
 
 Sonnenradius: 696.000 km
