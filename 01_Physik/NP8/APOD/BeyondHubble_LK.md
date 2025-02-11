@@ -1059,7 +1059,23 @@ Erstelle mit Hilfe von Geogebra dein eigenes Sonnensystem.
 
 ![Merkurbahn2](https://diversewolken.ddns.net/nextcloud/index.php/s/WdFZ2KMMpZ9JScH/download)
 
+7. Nun ergänzen wir einen Schieberegler _Beschleunigung_, mit welchem wir die Animationsgeschwindigkeit erhöhen können. Erstelle dazu eine Variable mit dem Namen __Beschleunigung__. 
 
+![Beschleunigung1](https://diversewolken.ddns.net/nextcloud/index.php/s/WdFZ2KMMpZ9JScH/download)
+
+8. Erstelle aus der Variable einen Schieberegler und passe die Grenzen an: __Min: 0,5 Max: 20 Schrittweite: 0,5__ (auswählbar im Einstellungsmenu oder in der Algebra-Ansicht.) Blende den Regler anschließend ein.
+
+![Beschleunigung2](https://diversewolken.ddns.net/nextcloud/index.php/s/WdFZ2KMMpZ9JScH/download)
+
+8. Um die Bewegung des Mekur zu animieren wird als nächstes die _Bewegungsgeschwindigkeit_ eingestellt. Nutze dazu in den Einstellungen des Merkur-Punktes den Reiter _Algebra_. Die Beschleunigung des Merkur ergibt sich aus der Bewegungsgeschwindigkeit (Angabe auf der nächsten Seite). Hier müssen wir die Geschwindigkeit in Millionen-Km-Pro-Stunde angeben. <br> In der Tabelle steht der Wert $\approx$ 172000 km/h, dass sind 0,172332 Mio km/h. <br> <br> Trage bei Geschwindigkeit folgendes ein: <br> <br> @color(0.172*Beschleunigung ,red).
+
+![Beschleunigung2](https://diversewolken.ddns.net/nextcloud/index.php/s/WdFZ2KMMpZ9JScH/download)
+
+9. Wechsle nun zum Reiter _Grundeinstellungen_ und klicke: _Animation ein_ Der Punkt sollte sich zu bewegen beginnen.
+
+10. Ergänze nun die Planeten Venus, Erde und Mars, indem du die Punkte 4-9 wiederholst.
+
+11. Ändere die Hintergrundfarbe zu schwarz. Klicke dazu auf den Hintergrund, wähle Einstellungen und suche im unteren Bereich der Grundeinstellungen die _Hintergrundfarbe_.
 
 ### Planeten und Umlaufgeschwindigkeiten
 
