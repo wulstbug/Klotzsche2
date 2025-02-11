@@ -1330,7 +1330,9 @@ __Schaltplan:__ Lade- und Entladevorgang eines Kondensators
 
 - $U_0$ .. Ladespannung
 
-![Ladekurven](https://diversewolken.ddns.net/nextcloud/index.php/s/fdwCnPzcogDqriE/download)
+<p style="margin-left:15%">
+![Ladekurven](https://diversewolken.ddns.net/nextcloud/index.php/s/fdwCnPzcogDqriE/download)<!--style="max-width:70%" -->
+</p>
 
 <p class="cb">
 
@@ -1342,7 +1344,9 @@ __Schaltplan:__ Lade- und Entladevorgang eines Kondensators
 
 - $U_0$ .. Spannung am Kondensator zum Zeitpunkt t=0
 
-![EntLadekurven](https://diversewolken.ddns.net/nextcloud/index.php/s/xBsiTSYozHKMNs4/download)
+<p style="margin-left:15%">
+![EntLadekurven](https://diversewolken.ddns.net/nextcloud/index.php/s/xBsiTSYozHKMNs4/download)<!--style="max-width:70%" -->
+</p>
 
 </p>
 
