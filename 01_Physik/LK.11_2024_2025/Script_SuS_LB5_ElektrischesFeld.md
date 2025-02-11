@@ -1762,7 +1762,7 @@ __Numerische Emittlung (Integral):__
 
 Aus der Entladekurve
 
-$$Q_{int} = \int_{0}^{T} I_0 \cdot e^{-\frac{1}{R\cdot C}t}$$
+$$Q_{int} = \int_{0}^{T} I_0 \cdot e^{-\frac{1}{R\cdot C}t}\,\,\mathrm{d}t$$
 
 ergibt sich mittels Integral auf dem CAS geflossene Ladung $Q_{int}$ zu
 
@@ -1783,7 +1783,7 @@ $$ Q_{lad} = \boxed{..^{\,}}\,C $$
 
 <p class="cb">
 
-$$Q_{theor} = \boxed{..^{\,}} \, C $$
+$$Q_{int} = \boxed{..^{\,}} \, C $$
 
 </p>
 
@@ -1793,4 +1793,4 @@ $$Q_{theor} = \boxed{..^{\,}} \, C $$
 
 <br>
 
-@color(Diskutieren Sie diese Werte und die relativen (prozentualen) Abweichungen voneinander., blue)
+@color(Diskutieren Sie diese Werte und die relativen d.h. prozentualen Abweichungen voneinander., blue)
