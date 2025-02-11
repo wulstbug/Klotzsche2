@@ -1051,11 +1051,11 @@ Erstelle mit Hilfe von Geogebra dein eigenes Sonnensystem.
 
 ![Merkurbahn](https://diversewolken.ddns.net/nextcloud/index.php/s/wSMfk2kXKK6T67i/download)
 
-5. Klicke zunächte auf die @color(Sonne, orange) und trage für den Radius den Wert aus dem Diagramm ein, hier 57,9 (Mio-km). Es empfielt sich nun etwas heraus zu Zoomen um den Kreis zu sehen. Ändere die Farbe der Kreisbahn so, dass es zum Merkus passt.
+5. Klicke zunächte auf die @color(Sonne, orange) und trage für den Radius den Wert aus dem Diagramm ein, hier 57,9 (Mio-km). Es empfielt sich nun etwas heraus zu Zoomen um den Kreis zu sehen. Ändere die Farbe der Kreisbahn so, dass es zum Merkur passt.
 
 ![Merkurbahn2](https://diversewolken.ddns.net/nextcloud/index.php/s/746Y27XgfrgWxFe/download)
 
-6. Nun muss der Merkus als Punkt auf der Kreisbahn gesetzt werden. Wähle dazu Punkt setzen und klicke auf die Kreisbahn. Ändere die Farbe und den Namen des Punktes entsprechend.
+6. Nun muss der Merkur als Punkt auf der Kreisbahn gesetzt werden. Wähle dazu Punkt setzen und klicke auf die Kreisbahn. Ändere die Farbe und den Namen des Punktes entsprechend.
 
 ![Merkurbahn2](https://diversewolken.ddns.net/nextcloud/index.php/s/WdFZ2KMMpZ9JScH/download)
 

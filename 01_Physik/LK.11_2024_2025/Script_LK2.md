@@ -1354,35 +1354,86 @@ __Schaltplan:__ Lade- und Entladevorgang eines Kondensators
 
 </p>
 
-### Experimentierüberblick
+### 5.8.2 Der Zusammenhang von geflossener Ladung $Q$, Zeit $t$ und momentaner Stromstärke $I(t)$
 
-__Lernziele:__
+<p class="newspaper3">
+
+__Grundlage__
+
+{{1}}
+**********
+_Stromstärke ist definiert als geflossene Ladung je Zeitintervall._
+**********
+
+{{2}}
+**********
+Die momentane Stromstärke $I(t)$ zum Zeitpunkt $t$ ergibt sich aus der geflossenen Ladungsmenge $\mathrm{d}Q$ im Zeitintervall $\mathrm{d}t$.
+
+$$ \boxed{I(t) = \dfrac{\mathrm{d}Q}{\mathrm{d}t}} $$
+**********
+
+<p class="cb">
+
+__Darstellung im $I(t)$-Diagramm__
+
+{{3-4}}
+*****
+![I(t)_Graph](https://diversewolken.ddns.net/nextcloud/index.php/s/Q9MwZdw5ZxwfrcN/download)<!-- style="max-width:80%; margin:5%"-->
+*****
+
+{{4}}
+*****
+![I(t)_Graph](https://diversewolken.ddns.net/nextcloud/index.php/s/GSN44xxcqTH4HH6/download)<!-- style="max-width:80%; margin:5%"-->
+
+Die Fläche unter dem $I(t)$-Diagramm entspricht der im Zeitinverall $T$ geflossenen Ladung $Q$
+
+*****
+
+<p class="cb">
+
+__Theoretische Beschreibung:__
+
+
+{{5}}
+*****
+Die im Zeitintervall $T$ geflossene Ladung $Q$ ergibt sich aus dem Integral:
+
+$$ \boxed{ \red{Q_{int}} = \int_0^{\red{T}}{I(t) \mathrm{d}t}} $$
+*****
+
+
+</p>
+
+</p>
+
+</p>
+
+## 5.9 Experiment Entladevorgang eines Kondensators
+
+
+__Experimentierüberblick__
+
+_Lernziele:_
+
+- Versuchsablauf in Vorbetrachtungen bearbeiten
+
+- sinnvolle Messzeit $T$ für Kombination aus $R$ und $C$ bestimmen
 
 - Cassy mit Tablet verbinden
 
-- Ladekurve im Cassy mit Osszilloskopmodus aufnehmen
+- Messparameter einstellen lernen (__ohne Trigger__)
 
-- Zeitkonstante berechnen
+- Entladekurve im Cassy automatisiert aufnehmen
 
-- Messparameter einstellen lernen (ohne Trigger)
+- im Zeitintervall T geflossene Ladung bestimmen
 
-- gespeicherte Ladung bestimmen
+- Vergleich der geflossenen Ladung mit theoretischer Berechnung
 
-- Auswertung der Messdaten
+_Experimentelle Bauelemente:_
 
-__Physikalische Inhalte:__
+- Kondensator $C = 4600 \mu F$, Ohmscher Widerstand $R = 1 k\Omega$
 
-- Kondensator C = 4600 µF, Ohmscher Widerstand R = 1 kOhm
-
-- Zeitkonstante für Laden/Entladen $\tau=R\cdot C$
-
-- Ladungsbestimmung via Berechnung $Q=C\cdot U$
-
-- Ladungsbestimmung bei verschiedenen Spannungen mit Hilfe der Ladekurve
-
-- Vergleichendes Diagramm erstellen
-
-__Lernhilfen:__
+_Anleitungen:_
 
 - Anleitung für Verbindung von Tablet und Cassy
 
@@ -1390,33 +1441,12 @@ __Lernhilfen:__
 
 - Anleitung zum Aufbauen des Versuchs
 
-## 5.9 Experiment Entladevorgang eines Kondensators
+- Anleitung zur experimentellen Auswertung
 
-__Aufgabenstellung:__ Untersuche den Entladevorgang eines Kondesators mit Hilfe der elektronischen Messwerterfassung ***Mobile Cassy 2***.
+- Anleitung zur theoretischen Auswertung
 
-__Teilaufgaben:__ (_können_ in selbst gewählter Reihenfolge bearbeitet werden)
 
-- [ ] Inhalten eines Protokolls notieren
-
-- [ ] Vorbetrachtungen zum Versuch vornehmen und notieren
-
-- [ ] ***Mobile Cassy 2*** mit Tablet verbinden
-
-- [ ] Einstellen der Parameter am Cassy
-
-- [ ] Schaltkreis zur Messung aufbauen @color(und von Lehrkraft abnehmen lassen, red)
-
-- [ ] Messwerte aufzeichnen
-
-- [ ] Daten auswerten und Ergebnisse analysieren
-
-- [ ] Ergebnisse formulieren
-
-### Inhalte eines Protokolls
-
-Nutzen Sie Lehrbuch Seite 75 und erarbeiten Sie sich die wesentlichen Inhalte eines Protokolls
-
-### Vorbetrachtungen zum Versuch
+### 5.9.1. Vorbetrachtungen zum Versuch
 
 <p class="newspaper">
 
@@ -1428,11 +1458,18 @@ __Schaltplan:__
 
 __Ladekreis__ 
 
-Der Kondensator wird in dieser Schaltung direkt über die Spannungsquelle und ohne ohmschen Widerstand aufgeladen.
+Der Kondensator wird in dieser Schaltung direkt über die Spannungsquelle und @color(ohne ohmschen Widerstand, red) aufgeladen.
+
+@color(-> siehe Abschnitt _Laden des Kondesators_, orange)
+<br>
 
 __Entladekreis:__
 
-Wird der Entladekreis geschlossen, fließt die auf dem Kondensator gespeicherte Ladung $Q$ über den ohmschen Widerstand $R$ ab. Dabei wird mit der elektronischen Messwerterfassung _Cassy_ der Entladestrom $I$ in Abhängigkeit der Zeit $t$ aufgenommen. Die gesamte Messzeit wird mit $T$ bezeichnet (s.u.).
+Wird der Entladekreis geschlossen, fließt die auf dem Kondensator gespeicherte Ladung $Q$ über den ohmschen Widerstand $R$ ab. Dabei wird mit der elektronischen Messwerterfassung _Cassy_ der Entladestrom $I(t)$ aufgenommen. Die gesamte Messzeit wird mit $T$ bezeichnet (s.u.).
+
+@color(-> siehe Abschnitt _Ermittlung einer sinvollen Messzeit T_, orange)
+<br>
+
 
 {{1}}
 *****
@@ -1450,26 +1487,147 @@ Die vom Kondensator abgeflossene Ladung $Q$ entspricht im @color(Zeit-Stromstär
 *****
 ![I(t)_Graph](https://diversewolken.ddns.net/nextcloud/index.php/s/GSN44xxcqTH4HH6/download)<!-- style="max-width:80%; margin:5%"-->
 
-Die Fläche unter dem $I(t)$ Graphen kann mit Hilfe des Cassy-Messgerätes ausgewertet werden.
+<bdi style="color:orange">->siehe Abschnitt _Auswertung der Messkurve $I(t)$_</bdi>
+<br>
 
 *****
 
-{{3}}
-*****
-__Ermittlung der Messdauer $T$ für Cassy:__
+</p>
+
+</p>
+
+### 5.9.2. Berechnung: Laden des Kondensators
+
+@color(Ergänzen Sie hier die fehlenden Werte und notieren Sie sich die grundlegenden Fakten, blue)
+
+_Vorüberlegung:_
+
+Der Kondensator soll zunächst mit der Ladespannung
+
+$$ U = 10 V $$ 
+
+aufgeladen werden. Mit Hilfe der gegebenen Kapazität $C$, lässt sich die Ladung auf dem Kondensator $Q_{lad}$ berechenen.
+
+<br>
+
+<p style="margin-left:10%">
+
+@rangeQuiz2($Q_{lad}$, 0.046 ,$C$)
+
+<details>
+
+<summary> Lösung </summary>
+
+$Q_{lad} = C \cdot U = 4600 \cdot 10^{-6} \cdot 10 V = 0,046 C$
+
+
+
+</details>
+
+</p>
+
+### 5.9.3. Ermittlung einer sinnvollen Messzeit $T$
 
 Für die Kombination aus Kondensator (Kapazität $C$) und ohmscher Widerstand (Widerstand $R$) kann eine Zeitkonstante $\tau$ ermittelt werden: 
 
-$$ \boxed{\tau = R \cdot C} \Rightarrow \boxed{T = 4 \cdot \tau} $$
+$$ \boxed{\tau = R \cdot C} $$
 
-Als Messdauer $T$ für die elektronische Erfassung wird eine Zeit von @color($4\tau$,red) empfohlen. Nach dieser Zeit sind ca. $98,2\%$  der Gesamtladung Q abgeflossen.
-*****
+Als Messdauer $T$ für die elektronische Erfassung wird eine Gesamtzeit von @color($4\tau$,red) empfohlen. Nach dieser Zeit sind ca. $98,2\%$  der Gesamtladung Q abgeflossen.
+
+$$ \Rightarrow \boxed{T = 4 \cdot \tau} $$
+
+
+
+@color(Aufgabe: Ermitteln und notieren Sie für die vorliegende Kombination aus $R$ und $C$ die Zeitkonstante $\tau$ und daraus eine sinnvolle Entladezeit $T$, blue)
+
+<br>
+
+<br>
+
+<p style="margin-left:10%">
+
+@rangeQuiz2($\tau$,4.6,$s$)
+
+@rangeQuiz2($T$, 18.4, $s$)
+
+<details>
+
+<summary> Lösung </summary>
+
+Für das vorliegende Experiment gilt $R=1000\Omega$ und $C=4600\mu F$.
+
+Demzufolge ergibt sich für die Zeitkonstante $\tau = R \cdot C$
+
+$\tau = 1000 \Omega \cdot 4600 \cdot 10^{-6} F = 4,6 s \hspace{1cm}\Big[ \orange{\Omega} \cdot \green{F} \overset{5.4}{=} \orange{\dfrac{V}{A}} \cdot \green{\dfrac{C}{V}} \overset{C = A\cdot s}{=} s \Big]$
+
+Als Faustregel ergibt sich eine sinnvolle Entladezeit $T=4\cdot\tau$ und somit:
+
+$\boxed{ T = 4 \cdot 4,6s = 18,4 s}$
+
+Damit $98,2\%$ der Ladung vom Kondensator abgeflossen sind, sollte eine Messzeit von $T=18,2s$ genutzt werden.
+
+</details>
 
 </p>
 
+### 5.9.4. Berechnung: Integral der Entladekurve $I(t)$
+
+Die im Zeitintervall $T$ geflossene Ladung $Q$ ergibt sich aus dem Integral:
+
+$$ Q_{int} = \int_0^{T}{I(t) \mathrm{d}t} $$
+
+Ermitteln Sie mit Hilfe des CAS das Integral für die Entladekurve mit Ihrer Messzeit $T$ und den gegebenen experimentellen Werten für $C$ und $R$.
+
+<p style="margin-left:10%">
+
+@rangeQuiz2($Q_{int}$, 0.0452 ,$\ C$)
+
+<details>
+
+<summary> Hinweis 1 </summary>
+
+Um das Integral $ Q_{int} = \int_0^{T}{I(t) \mathrm{d}t} $ mit dem CAS zu berechnen muss sowohl die Messzeit $T$ (siehe vorheriger Abschnitt) und die Funktion $I(t)$ (siehe 5.8.1) bekannt sein. Setzen Sie in $I(t)$ die Werte für $U$,$R$ und $C$ ein und berechnen Sie mit dem CAS $Q_{int}$.
+</details>
+
+<details>
+
+<summary> Hinweis 2 </summary>
+
+Eine sinnvolle Messzeit aus dem vorherigen Abschnitt lautet 
+
+$$ T=18,6 s$$
+
+Die Funktion $I(t)$ für die Entladekurve am Kondensator lautet
+
+$$ I(t) = I_0 \cdot e^{-\frac{1}{R\cdot C}\cdot t} $$ 
+
+mit den Werten $R=1000\Omega$, $C=4600\cdot10^{-6}F$ und $I_0=\frac{U}{R}$. Das gesamte Integral für die Ladung $Q_{int}$ lautet:
+
+$$ Q_{int} = \int_0^{T} \frac{U}{R} \cdot e^{-\frac{1}{R\cdot C}\cdot t} \mathrm{d}t $$ 
+
+Bzw. mit Zahlenwerten für den CAS:
+
+$$ Q_{int} = \int_0^{18,6} \frac{10}{1000} \cdot e^{-\frac{1}{1000 \cdot 0,0046}\cdot t} \,\,\mathrm{d}t $$
+
+</details>
+
+<details>
+
+<summary> Lösung im CAS </summary>
+
+Geben Sie folgendes in den CAS ein:
+
+![IntegralLadung_CAS](https://diversewolken.ddns.net/nextcloud/index.php/s/Eaf4zSJBqERerZd/download)
+
+Als Ergebnis ergibt sich:
+
+$\boxed{Q_{int} = 0,0452\,C}$
+
+</details>
+
 </p>
 
-### Anleitung zur Verbindung von Cassy und Tablet
+### 5.9.5. Anleitung zur Verbindung von Cassy und Tablet
 
 __Grundlage:__ Jedes __Mobile Cassy 2__-Messgerät (im Folgenden mit _Cassy_ bezeichnet) kann mit Hilfe einer W-Lan Verbindung über das Tablet ferngestuert werden. Dabei können Messparameter eingestellt, Messungen gestartet und Messdaten abgespeichert werden. Hier wird das Tablet mit dem Cassy verbunden.
 
@@ -1491,7 +1649,7 @@ __Arbeitsablauf:__
 
 ![Cassy-WLan2](https://diversewolken.ddns.net/nextcloud/index.php/s/8ZjcN5DZqk6frXw/download)<!-- style="max-width:80%; margin:5%"-->
 
-### Einstellen der Messparameter am Cassy
+### 5.9.6. Einstellen der Messparameter am Cassy
 
 __Grundlage:__ Hier werden die Messparameter eingestellt
 
@@ -1503,17 +1661,19 @@ __Arbeitsablauf:__
 
 ![Cassy-Einstellungen](https://diversewolken.ddns.net/nextcloud/index.php/s/KQLjMB5CoYRR34o/download)<!-- style="max-width:80%; margin:5%"-->
 
+- <bdi style="color:red">_Hinweis:_ Da zunächst ohne Trigger [automatischer Auslöser] gearbeitet wird, belassen Sie die _Messzeit_ auf manuell </bdi>
+
 - wechseln Sie auf der linken Seite zu ***Diagramm*** und vergleichen Sie Ihre Anzeige
 
 ![Cassy-Diagramm_1](https://diversewolken.ddns.net/nextcloud/index.php/s/9APdepf3in8wQ86/download)<!-- style="max-width:80%; margin:5%"-->
 
-### Aufbau der Messchaltung
+### 5.9.7. Aufbau der Messchaltung
 
 $ \red{\boxed{\mathrm{Es\ muss\ keine\ Gewalt\ angewendet\ werden.}}}$
 
 __Grundlage:__ Für diesen Versuch ist der Schaltplan in den Vorbetrachtungen des Versuchs gezeichnet. 
 
-__Materialien:__ Sie erhalten einen Kondensator mit der Kapazität $4700 \mu F$ und einen ohmschen Widerstand mit $1000 \Omega$.
+__Materialien:__ Sie erhalten einen Kondensator mit der Kapazität $4600 \mu F$ und einen ohmschen Widerstand mit $1000 \Omega$.
 
 ---
 
@@ -1557,7 +1717,7 @@ Entladekreis:
 
 - lassen Sie sich die Schaltung von der Lehrkraft abnehmen
 
-### Aufnahme der Entladekurve
+### 5.9.8. Aufnahme der Entladekurve
 
 $ \red{\boxed{\mathrm{Die Schaltung\ muss\ abgenommen\ worden\ sein.}}}$
 
@@ -1573,10 +1733,10 @@ __Grundlage:__ Hier wird der Kondensator zunächst geladen. Dann wird die automa
 
 - stoppen Sie die Messung nach etwa $T=4\tau$ (4 charaktieristischen Zeiteinheiten)
 
-- achten Sie darauf, dass die eigentliche Entladung erst beginnt, wenn Sie den Schalter umlegen
+- <bdi style="color:red">_Hinweis:_ Die Entladung (und somit die Messzeit $T$) beginnt erst, wenn sie den Schalter auf Entladen umlegen.</bdi>
 
 
-### Auswertung einer Messung
+### 5.9.9. Auswertung der Messkurve $I(t)$
 
 __Grundlage:__ Hier werden die Messdaten ausgewertet.
 
@@ -1586,14 +1746,75 @@ __Ermittlung der geflossenen Ladung:__
 
 - angezeigt wird die geflossene Ladung in der Einheit $A\cdot s = C$ 
 
-- notieren Sie den Messwert
+- notieren Sie diesen experimentell ermittelten Messwert als geflossene Ladung $Q_{exp}$ und
+
+- $ \red{\boxed{\mathrm{Erstellen\ Sie\ einen\ Screeshot\ von\ Ihrer\ Messung\ INKLUSIVE\ Auswertung.}}}$
 
 ![Cassy_-_Auswertung_1](https://diversewolken.ddns.net/nextcloud/index.php/s/BXHx8eeCy8oXBSD/download)<!-- style="max-width:80%; margin:5%"-->
 
-__Diagramm zeichnen aus einzelnen Messwerten:__
+### 5.9.10. Übersicht: Vergleich aller Ergebnisse
 
-- wechseln Sie auf der linken Seit zum Reiter __Tabelle__
+@color(Notieren und ergänzen Sie diese Übersicht als Ergebnis im Hefter, blue)
 
-- notieren Sie in einer Messwerttabelle __t in s__ und __I in A__ und übernehmen Sie 10 charakteristische Messwerte
+<br>
 
-- zeichnen Sie anschließend den I(t)-Graph für Ihre Messwerte in das Protokoll
+Gegeben: $R = 1000 \Omega$, $C=4600 \mu F$
+
+<p class="newspaper3">
+
+__Experimentelle Auswertung:__
+
+Mit Hilfe von Cassy wurde im Zeitintervall
+
+$$ T = \boxed{..^{\,}}\,s $$
+
+die geflossene Ladung $Q_{exp}$ ermittelt.
+
+<p class="cb">
+
+__Aufladen des Kondesators:__
+
+Der Kondensator wurde mit der Ladung 
+
+$$ Q_{lad} = \dfrac{\boxed{..^{\,}}}{\boxed{..^{\,}}} $$
+
+aufgeladen. 
+
+<p class="cb">
+
+__Numerische Emittlung (Integral):__
+
+Aus der Entladekurve
+
+$$Q_{int} = \int_{0}^{T} I_0 \cdot e^{-\frac{1}{R\cdot C}t}$$
+
+ergibt sich mittels Integral auf dem CAS geflossene Ladung $Q_{int}$ zu
+
+</p>
+
+</p>
+
+</p>
+
+
+<p class="newspaper3">
+
+$$ Q_{exp} = \boxed{..^{\,}}\,C $$
+
+<p class="cb">
+
+$$ Q_{lad} = \boxed{..^{\,}}\,C $$
+
+<p class="cb">
+
+$$Q_{theor} = \boxed{..^{\,}} \, C $$
+
+</p>
+
+</p>
+
+</p>
+
+<br>
+
+@color(Diskutieren Sie diese Werte und die relativen (prozentualen) Abweichungen voneinander., blue)
