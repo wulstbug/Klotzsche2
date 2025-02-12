@@ -1595,7 +1595,7 @@ Um das Integral $ Q_{int} = \int_0^{T}{I(t) \mathrm{d}t} $ mit dem CAS zu berech
 
 Eine sinnvolle Messzeit aus dem vorherigen Abschnitt lautet 
 
-$$ T=18,6 s$$
+$$ T=18,4 s$$
 
 Die Funktion $I(t)$ für die Entladekurve am Kondensator lautet
 
@@ -1607,7 +1607,7 @@ $$ Q_{int} = \int_0^{T} \frac{U}{R} \cdot e^{-\frac{1}{R\cdot C}\cdot t} \mathrm
 
 Bzw. mit Zahlenwerten für den CAS:
 
-$$ Q_{int} = \int_0^{18,6} \frac{10}{1000} \cdot e^{-\frac{1}{1000 \cdot 0,0046}\cdot t} \,\,\mathrm{d}t $$
+$$ Q_{int} = \int_0^{18,4} \frac{10}{1000} \cdot e^{-\frac{1}{1000 \cdot 0,0046}\cdot t} \,\,\mathrm{d}t $$
 
 </details>
 
