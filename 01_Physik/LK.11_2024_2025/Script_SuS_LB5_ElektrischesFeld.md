@@ -1345,7 +1345,7 @@ _Stromstärke ist definiert als geflossene Ladung je Zeitintervall._
 **********
 Die momentane Stromstärke $I(t)$ zum Zeitpunkt $t$ ergibt sich aus der geflossenen Ladungsmenge $\mathrm{d}Q$ im Zeitintervall $\mathrm{d}t$.
 
-$$ \boxed{I(t) = \dfrac{\mathrm{d}Q}{\mathrm{d}t}} $$
+$$ \boxed{I = \dfrac{\mathrm{d}Q}{\mathrm{d}t}} $$
 **********
 
 <p class="cb">
