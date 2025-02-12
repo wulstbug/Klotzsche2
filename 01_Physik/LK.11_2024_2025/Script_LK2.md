@@ -1736,7 +1736,7 @@ __Grundlage:__ Hier wird der Kondensator zunächst geladen. Dann wird die automa
 - <bdi style="color:red">_Hinweis:_ Die Entladung (und somit die Messzeit $T$) beginnt erst, wenn sie den Schalter auf Entladen umlegen.</bdi>
 
 
-### 5.9.9. Auswertung der Messkurve $I(t)$
+### 5.9.9. Auswertung der Messkurve
 
 __Grundlage:__ Hier werden die Messdaten ausgewertet.
 
@@ -1951,6 +1951,125 @@ __Aufgaben__
 <summary> Loesung </summary>
 
 ![Abi21_Loesung5](https://diversewolken.ddns.net/nextcloud/index.php/s/DiL85geCyAEjg5x/download)
+
+</details>
+
+---
+
+### Experimentieren am Kondensator
+
+Ermitteln Sie unter Nutzung des angegebenen Schaltplans experimentell die Kapazität des Kondensators.
+Die Einstellungen am Stromversorgungsgerät dürfen nicht verändert werden. Die anliegende Spannung U wird Ihnen nicht mitgeteilt und darf nicht gemessen werden. Erfragen Sie beim Aufsicht führenden Lehrer den Widerstand des Ohm’schen Bau-
+elements.
+
+- Verbinden Sie Ihr Tablet mit dem Cassy-Messgerät (_Hilfe_-> [5.9.5 CassyVerbinden](#5.9.5.-anleitung-zur-verbindung-von-cassy-und-tablet)) @color(_Hinweis: Das Cassy-Messgerät ist bereits eingestellt. Parameter müssen nicht mehr geändert werden._, blue)
+
+- ![Schaltplan_Exp](https://diversewolken.ddns.net/nextcloud/index.php/s/2QzYebzS4esXzrK/download) Schließen Sie den Schalter. Der Kondensator ist jetzt geladen. Der Kondensator soll beginnend zum Zeitpunkt t=0 entladen werden. Öffnen Sie dazu den Schalter.
+
+1. Nehmen Sie eine vollständige Entladekurve des Kondensators auf.
+
+2. Ermitteln Sie mit Hilfe des Cassy-Messgerätes die abgeflossene Ladung $Q_{exp}$ und notieren Sie diese (_Hilfe_ -> [5.9.9. Auswertung der Messwertkurve](#5.9.9.-auswertung-der-messkurve)).
+
+3. Machen Sie von Ihrer Messung einen Screenshot. <br> @color(_Hinweis: Der experimentelle Teil ist beendet. Gehen Sie zu Ihrem Platz zurück._, blue)
+
+4. Ermitteln Sie aus Ihren Messdaten die Ladespannung $U$ und die Kapazität des Kondesators $C$.
+
+5. Ermittlen Sie aus Ihren Messwerten eine Entladezeit $T$, welche sinnvollerweise nicht unterschritten werden sollte, damit ein Großteil der Ladung vom Kondensator abgeflossen ist.
+
+6. Ermitteln Sie die zum Zeitpunkt t=0 im Kondensator gespeicherte elektrische Energie an.
+
+7. Die Kondensatorspannung wird für elektronische Schaltvorgänge genutzt. Ein Schaltvorgang wird ausgelöst, wenn der Kondensator entladen wird und die Kondensatorspannung den Wert $\frac{U}{2}$ unterschreitet. Ermitteln Sie rechnerisch diese Zeitdauer für die im Experiment untersuchten Kondensator-Widerstands-Kombination.
+
+
+### Experimentieren am Kondensator (mit Lösung)
+
+Ermitteln Sie unter Nutzung des angegebenen Schaltplans experimentell die Kapazität des Kondensators.
+Die Einstellungen am Stromversorgungsgerät dürfen nicht verändert werden. Die anliegende Spannung U wird Ihnen nicht mitgeteilt und darf nicht gemessen werden. Erfragen Sie beim Aufsicht führenden Lehrer den Widerstand des Ohm’schen Bau-
+elements.
+
+- Verbinden Sie Ihr Tablet mit dem Cassy-Messgerät (_Hilfe_-> [5.9.5 CassyVerbinden](#5.9.5.-anleitung-zur-verbindung-von-cassy-und-tablet)) @color(_Hinweis: Das Cassy-Messgerät ist bereits eingestellt. Parameter müssen nicht mehr geändert werden._, blue)
+
+- ![Schaltplan_Exp](https://diversewolken.ddns.net/nextcloud/index.php/s/2QzYebzS4esXzrK/download) Schließen Sie den Schalter. Der Kondensator ist jetzt geladen. Der Kondensator soll beginnend zum Zeitpunkt t=0 entladen werden. Öffnen Sie dazu den Schalter.
+
+1. Nehmen Sie eine vollständige Entladekurve des Kondensators auf.
+
+<details style="margin-left:10%;margin-right:10%">
+
+<summary> Loesung </summary>
+
+![Exp_Loesung1](https://diversewolken.ddns.net/nextcloud/index.php/s/MSzKXixiaKNBnW2/download)
+
+</details>
+
+---
+
+2. Ermitteln Sie mit Hilfe des Cassy-Messgerätes die abgeflossene Ladung $Q_{exp}$ und notieren Sie diese (_Hilfe_ -> [5.9.9. Auswertung der Messwertkurve](#5.9.9.-auswertung-der-messkurve)).
+
+<details style="margin-left:10%;margin-right:10%">
+
+<summary> Loesung </summary>
+
+![Exp_Loesung2](https://diversewolken.ddns.net/nextcloud/index.php/s/5zJjPAZWHR4KpQb/download)
+
+</details>
+
+---
+
+3. Machen Sie von Ihrer Messung einen Screenshot. <br> @color(_Hinweis: Der experimentelle Teil ist beendet. Gehen Sie zu Ihrem Platz zurück._, blue)
+
+<details style="margin-left:10%;margin-right:10%">
+
+<summary> Loesung </summary>
+
+![Exp_Loesung3](https://diversewolken.ddns.net/nextcloud/index.php/s/CCE5eCQxTxtqTMH/download)
+
+</details>
+
+---
+
+4. Ermitteln Sie aus Ihren Messdaten die Ladespannung $U$ und die Kapazität des Kondesators $C$.
+
+<details style="margin-left:10%;margin-right:10%">
+
+<summary> Loesung </summary>
+
+![Exp_Loesung4](https://diversewolken.ddns.net/nextcloud/index.php/s/2RNc35nfFdw24Mi/download)
+
+</details>
+
+---
+
+5. Ermittlen Sie aus Ihren Messwerten eine Entladezeit $T$, welche sinnvollerweise nicht unterschritten werden sollte, damit ein Großteil der Ladung vom Kondensator abgeflossen ist.
+
+<details style="margin-left:10%;margin-right:10%">
+
+<summary> Loesung </summary>
+
+![Exp_Loesung5](https://diversewolken.ddns.net/nextcloud/index.php/s/NofXcH6GfgcZ5fX/download)
+
+</details>
+
+---
+
+6. Ermitteln Sie die zum Zeitpunkt t=0 im Kondensator gespeicherte elektrische Energie an.
+
+<details style="margin-left:10%;margin-right:10%">
+
+<summary> Loesung </summary>
+
+![Exp_Loesung6](https://diversewolken.ddns.net/nextcloud/index.php/s/wDkmoBLiWeAPi4K/download)
+
+</details>
+
+---
+
+7. Die Kondensatorspannung wird für elektronische Schaltvorgänge genutzt. Ein Schaltvorgang wird ausgelöst, wenn der Kondensator entladen wird und die Kondensatorspannung den Wert $\frac{U}{2}$ unterschreitet. Ermitteln Sie rechnerisch diese Zeitdauer für die im Experiment untersuchten Kondensator-Widerstands-Kombination.
+
+<details style="margin-left:10%;margin-right:10%">
+
+<summary> Loesung </summary>
+
+![Exp_Loesung7](https://diversewolken.ddns.net/nextcloud/index.php/s/xxe4r8EZD5HwQE3/download)
 
 </details>
 
