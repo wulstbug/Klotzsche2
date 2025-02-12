@@ -1820,3 +1820,138 @@ $$Q_{int} = \boxed{..^{\,}} \, C $$
 <br>
 
 @color(Diskutieren Sie diese Werte und die relativen d.h. prozentualen Abweichungen voneinander., blue)
+
+## Selbstständiges Arbeiten: Berechnungen am Kondensator
+
+### Kondensatorversuch
+
+Die kreisförmigen Platten eines Kondensators besitzen einen Radius von **8,5 cm** und haben einen Abstand von **3,0 mm**. Der Raum zwischen den Platten ist mit einem der in Tabelle 1 genannten Dielektrika vollständig ausgefüllt.
+
+__Tabelle 1: Dielektrika und Permittivität__
+
+
+<!-- data-type="none" -->
+| Dielektrikum | Gummi | Glas | Polystyrol |
+|-------------|------|------|------------|
+| relative Permittivität ($\varepsilon_r$) | 3,5  | 10  | 2,5 |
+
+In einer Messreihe wird der Kondensator mit verschiedenen Spannungen _U_ aufgeladen. Für jede Spannung wird die auf dem Kondensator befindliche Ladung _Q_ gemessen. Tabelle 2 zeigt die zugehörigen Messwerte:
+
+
+**Tabelle 2: Messwerte der Ladung _Q_ in Abhängigkeit der Spannung _U_**
+
+<!-- data-type="none" -->
+| _U_ in kV  | 0,5  | 1,0  | 2,0  | 3,0  | 4,0  |
+|------------|------|------|------|------|------|
+| _Q_ in nC | 83,0 | 168  | 325  | 510  | 655  |
+
+__Aufgaben__
+
+1. **Darstellung der Messwerte**
+    - Stelle die Ladung _Q_ in Abhängigkeit von der Spannung _U_ in einem geeigneten Schaubild dar und begründe den Kurvenverlauf.
+
+2. **Kapazitätsberechnung**
+    - Ermittle unter Verwendung aller Messwerte die Kapazität des mit dem Dielektrikum gefüllten Kondensators.
+
+3. **Bestimmung des Dielektrikums**
+    - Bestimme das verwendete Dielektrikum.
+
+4. **Veränderte Messung mit Glas**
+    - In einem neuen Versuch ist der Kondensator vollständig mit Glas gefüllt. Der Abstand der Kondensatorplatten beträgt nun **6,0 mm**. Die oben stehende Messung wird mit den gleichen Spannungswerten wiederholt.
+    - Ermittle, wie sich die Ladungen auf den Platten gegenüber Tabelle 2 verändern.
+
+5. **Erklärung der Dielektrikum-Wirkung**
+    - Erläutere, weshalb ein Dielektrikum die Kapazität eines Kondensators erhöht.
+
+### Kondensatorversuch (mit Loesungen)
+
+Die kreisförmigen Platten eines Kondensators besitzen einen Radius von **8,5 cm** und haben einen Abstand von **3,0 mm**. Der Raum zwischen den Platten ist mit einem der in Tabelle 1 genannten Dielektrika vollständig ausgefüllt.
+
+__Tabelle 1: Dielektrika und Permittivität__
+
+
+<!-- data-type="none" -->
+| Dielektrikum | Gummi | Glas | Polystyrol |
+|-------------|------|------|------------|
+| relative Permittivität ($\varepsilon_r$) | 3,5  | 10  | 2,5 |
+
+In einer Messreihe wird der Kondensator mit verschiedenen Spannungen _U_ aufgeladen. Für jede Spannung wird die auf dem Kondensator befindliche Ladung _Q_ gemessen. Tabelle 2 zeigt die zugehörigen Messwerte:
+
+
+**Tabelle 2: Messwerte der Ladung _Q_ in Abhängigkeit der Spannung _U_**
+
+<!-- data-type="none" -->
+| _U_ in kV  | 0,5  | 1,0  | 2,0  | 3,0  | 4,0  |
+|------------|------|------|------|------|------|
+| _Q_ in nC | 83,0 | 168  | 325  | 510  | 655  |
+
+__Aufgaben__
+
+1. **Darstellung der Messwerte**
+    - Stelle die Ladung _Q_ in Abhängigkeit von der Spannung _U_ in einem geeigneten Schaubild dar und begründe den Kurvenverlauf.
+
+<details style="margin-left:10%;margin-right:10%">
+
+<summary> Loesung </summary>
+
+![Abi21_Loesung1](https://diversewolken.ddns.net/nextcloud/index.php/s/qnpT9nHgETS2E4o/download)
+
+</details>
+
+---
+
+2. **Kapazitätsberechnung**
+    - Ermittle unter Verwendung aller Messwerte die Kapazität des mit dem Dielektrikum gefüllten Kondensators.
+
+<details style="margin-left:10%;margin-right:10%">
+
+<summary> Loesung </summary>
+
+![Abi21_Loesung2](https://diversewolken.ddns.net/nextcloud/index.php/s/iTHMxL3ADM7oJCf/download)
+
+</details>
+
+---
+
+
+3. **Bestimmung des Dielektrikums**
+    - Bestimme das verwendete Dielektrikum.
+
+<details style="margin-left:10%;margin-right:10%">
+
+<summary> Loesung </summary>
+
+![Abi21_Loesung3](https://diversewolken.ddns.net/nextcloud/index.php/s/zfyWnpnadqBNwHD/download)
+
+</details>
+
+---
+
+
+4. **Veränderte Messung mit Glas**
+    - In einem neuen Versuch ist der Kondensator vollständig mit Glas gefüllt. Der Abstand der Kondensatorplatten beträgt nun **6,0 mm**. Die oben stehende Messung wird mit den gleichen Spannungswerten wiederholt.
+    - Ermittle, wie sich die Ladungen auf den Platten gegenüber Tabelle 2 verändern.
+
+<details style="margin-left:10%;margin-right:10%">
+
+<summary> Loesung </summary>
+
+![Abi21_Loesung4](https://diversewolken.ddns.net/nextcloud/index.php/s/6ndABxptiNCyQdY/download)
+
+</details>
+
+---
+
+
+5. **Erklärung der Dielektrikum-Wirkung**
+    - Erläutere, weshalb ein Dielektrikum die Kapazität eines Kondensators erhöht.
+
+<details style="margin-left:10%;margin-right:10%">
+
+<summary> Loesung </summary>
+
+![Abi21_Loesung5](https://diversewolken.ddns.net/nextcloud/index.php/s/DiL85geCyAEjg5x/download)
+
+</details>
+
+---
