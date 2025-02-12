@@ -1846,7 +1846,7 @@ elements.
 
 - Verbinden Sie Ihr Tablet mit dem Cassy-Messgerät (_Hilfe_-> [5.9.5 CassyVerbinden](#5.9.5.-anleitung-zur-verbindung-von-cassy-und-tablet)) @color(_Hinweis: Das Cassy-Messgerät ist bereits eingestellt. Parameter müssen nicht mehr geändert werden._, blue)
 
-- ![Schaltplan_Exp](https://diversewolken.ddns.net/nextcloud/index.php/s/2QzYebzS4esXzrK/download) Schließen Sie den Schalter. Der Kondensator ist jetzt geladen. Der Kondensator soll beginnend zum Zeitpunkt t=0 entladen werden. Öffnen Sie dazu den Schalter.
+- ![Schaltplan_Exp](https://diversewolken.ddns.net/nextcloud/index.php/s/2QzYebzS4esXzrK/download) Laden Sie den Kondensator zunächst auf. Der Kondensator soll nun entladen und dabei die I(t)-Entladekurve aufgezeichnet werden.
 
 1. Nehmen Sie eine vollständige Entladekurve des Kondensators auf.
 
