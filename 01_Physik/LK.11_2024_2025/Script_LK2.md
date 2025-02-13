@@ -1823,7 +1823,7 @@ $$Q_{int} = \boxed{..^{\,}} \, C $$
 
 ## Selbstständiges Arbeiten: Berechnungen am Kondensator
 
-### Kondensatorversuch
+### Berechnungen am Kondensator
 
 Die kreisförmigen Platten eines Kondensators besitzen einen Radius von **8,5 cm** und haben einen Abstand von **3,0 mm**. Der Raum zwischen den Platten ist mit einem der in Tabelle 1 genannten Dielektrika vollständig ausgefüllt.
 
@@ -1863,7 +1863,7 @@ __Aufgaben__
 5. **Erklärung der Dielektrikum-Wirkung**
     - Erläutere, weshalb ein Dielektrikum die Kapazität eines Kondensators erhöht.
 
-### Kondensatorversuch (mit Loesungen)
+### Berechnungen am Kondensator (mit Loesungen)
 
 Die kreisförmigen Platten eines Kondensators besitzen einen Radius von **8,5 cm** und haben einen Abstand von **3,0 mm**. Der Raum zwischen den Platten ist mit einem der in Tabelle 1 genannten Dielektrika vollständig ausgefüllt.
 
