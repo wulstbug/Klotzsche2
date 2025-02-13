@@ -2017,14 +2017,6 @@ elements.
 
 3. Machen Sie von Ihrer Messung einen Screenshot. <br> @color(_Hinweis: Der experimentelle Teil ist beendet. Gehen Sie zu Ihrem Platz zurück._, blue)
 
-<details style="margin-left:10%;margin-right:10%">
-
-<summary> Loesung </summary>
-
-![Exp_Loesung3](https://diversewolken.ddns.net/nextcloud/index.php/s/CCE5eCQxTxtqTMH/download)
-
-</details>
-
 ---
 
 4. Ermitteln Sie aus Ihren Messdaten die Ladespannung $U$ und die Kapazität des Kondesators $C$.
@@ -2057,7 +2049,7 @@ elements.
 
 <summary> Loesung </summary>
 
-![Exp_Loesung6](https://diversewolken.ddns.net/nextcloud/index.php/s/wDkmoBLiWeAPi4K/download)
+$ E = \frac{1}{2}\cdot C \cdot U^2 =\approx 0,14 J $
 
 </details>
 
