@@ -2049,7 +2049,7 @@ elements.
 
 <summary> Loesung </summary>
 
-$ E = \frac{1}{2}\cdot C \cdot U^2 =\approx 0,14 J $
+$ E = \frac{1}{2}\cdot C \cdot U^2 \approx 0,14 J $
 
 </details>
 

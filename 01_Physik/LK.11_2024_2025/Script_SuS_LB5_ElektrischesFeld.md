@@ -1795,7 +1795,7 @@ $$Q_{int} = \boxed{..^{\,}} \, C $$
 
 @color(Diskutieren Sie diese Werte und die relativen d.h. prozentualen Abweichungen voneinander., blue)
 
-## Selbstständiges Arbeiten Berechnungen am Kondensator
+## Selbstständiges Arbeiten: Berechnungen am Kondensator
 
 ### Berechnungen am Kondensator
 
@@ -1837,6 +1837,98 @@ __Aufgaben__
 5. **Erklärung der Dielektrikum-Wirkung**
     - Erläutere, weshalb ein Dielektrikum die Kapazität eines Kondensators erhöht.
 
+### Berechnungen am Kondensator (mit Loesungen)
+
+Die kreisförmigen Platten eines Kondensators besitzen einen Radius von **8,5 cm** und haben einen Abstand von **3,0 mm**. Der Raum zwischen den Platten ist mit einem der in Tabelle 1 genannten Dielektrika vollständig ausgefüllt.
+
+__Tabelle 1: Dielektrika und Permittivität__
+
+
+<!-- data-type="none" -->
+| Dielektrikum | Gummi | Glas | Polystyrol |
+|-------------|------|------|------------|
+| relative Permittivität ($\varepsilon_r$) | 3,5  | 10  | 2,5 |
+
+In einer Messreihe wird der Kondensator mit verschiedenen Spannungen _U_ aufgeladen. Für jede Spannung wird die auf dem Kondensator befindliche Ladung _Q_ gemessen. Tabelle 2 zeigt die zugehörigen Messwerte:
+
+
+**Tabelle 2: Messwerte der Ladung _Q_ in Abhängigkeit der Spannung _U_**
+
+<!-- data-type="none" -->
+| _U_ in kV  | 0,5  | 1,0  | 2,0  | 3,0  | 4,0  |
+|------------|------|------|------|------|------|
+| _Q_ in nC | 83,0 | 168  | 325  | 510  | 655  |
+
+__Aufgaben__
+
+1. **Darstellung der Messwerte**
+    - Stelle die Ladung _Q_ in Abhängigkeit von der Spannung _U_ in einem geeigneten Schaubild dar und begründe den Kurvenverlauf.
+
+<details style="margin-left:10%;margin-right:10%">
+
+<summary> Loesung </summary>
+
+![Abi21_Loesung1](https://diversewolken.ddns.net/nextcloud/index.php/s/qnpT9nHgETS2E4o/download)
+
+</details>
+
+---
+
+2. **Kapazitätsberechnung**
+    - Ermittle unter Verwendung aller Messwerte die Kapazität des mit dem Dielektrikum gefüllten Kondensators.
+
+<details style="margin-left:10%;margin-right:10%">
+
+<summary> Loesung </summary>
+
+![Abi21_Loesung2](https://diversewolken.ddns.net/nextcloud/index.php/s/iTHMxL3ADM7oJCf/download)
+
+</details>
+
+---
+
+
+3. **Bestimmung des Dielektrikums**
+    - Bestimme das verwendete Dielektrikum.
+
+<details style="margin-left:10%;margin-right:10%">
+
+<summary> Loesung </summary>
+
+![Abi21_Loesung3](https://diversewolken.ddns.net/nextcloud/index.php/s/zfyWnpnadqBNwHD/download)
+
+</details>
+
+---
+
+
+4. **Veränderte Messung mit Glas**
+    - In einem neuen Versuch ist der Kondensator vollständig mit Glas gefüllt. Der Abstand der Kondensatorplatten beträgt nun **6,0 mm**. Die oben stehende Messung wird mit den gleichen Spannungswerten wiederholt.
+    - Ermittle, wie sich die Ladungen auf den Platten gegenüber Tabelle 2 verändern.
+
+<details style="margin-left:10%;margin-right:10%">
+
+<summary> Loesung </summary>
+
+![Abi21_Loesung4](https://diversewolken.ddns.net/nextcloud/index.php/s/6ndABxptiNCyQdY/download)
+
+</details>
+
+---
+
+
+5. **Erklärung der Dielektrikum-Wirkung**
+    - Erläutere, weshalb ein Dielektrikum die Kapazität eines Kondensators erhöht.
+
+<details style="margin-left:10%;margin-right:10%">
+
+<summary> Loesung </summary>
+
+![Abi21_Loesung5](https://diversewolken.ddns.net/nextcloud/index.php/s/DiL85geCyAEjg5x/download)
+
+</details>
+
+---
 
 ### Experimentieren am Kondensator
 
@@ -1848,7 +1940,7 @@ elements.
 
 - ![Schaltplan_Exp](https://diversewolken.ddns.net/nextcloud/index.php/s/2QzYebzS4esXzrK/download) Laden Sie den Kondensator zunächst auf. Der Kondensator soll nun entladen und dabei die I(t)-Entladekurve aufgezeichnet werden.
 
-1. Nehmen Sie eine vollständige Entladekurve des Kondensators auf.
+1. Nehmen Sie eine Entladekurve I(t) des Kondensators auf.
 
 2. Ermitteln Sie mit Hilfe des Cassy-Messgerätes die abgeflossene Ladung $Q_{exp}$ und notieren Sie diese (_Hilfe_ -> [5.9.9. Auswertung der Messwertkurve](#5.9.9.-auswertung-der-messkurve)).
 
@@ -1861,3 +1953,90 @@ elements.
 6. Ermitteln Sie die zum Zeitpunkt t=0 im Kondensator gespeicherte elektrische Energie an.
 
 7. Die Kondensatorspannung wird für elektronische Schaltvorgänge genutzt. Ein Schaltvorgang wird ausgelöst, wenn der Kondensator entladen wird und die Kondensatorspannung den Wert $\frac{U}{2}$ unterschreitet. Ermitteln Sie rechnerisch diese Zeitdauer für die im Experiment untersuchten Kondensator-Widerstands-Kombination.
+
+
+### Experimentieren am Kondensator (mit Lösung)
+
+Ermitteln Sie unter Nutzung des angegebenen Schaltplans experimentell die Kapazität des Kondensators.
+Die Einstellungen am Stromversorgungsgerät dürfen nicht verändert werden. Die anliegende Spannung U wird Ihnen nicht mitgeteilt und darf nicht gemessen werden. Erfragen Sie beim Aufsicht führenden Lehrer den Widerstand des Ohm’schen Bau-
+elements.
+
+- Verbinden Sie Ihr Tablet mit dem Cassy-Messgerät (_Hilfe_-> [5.9.5 CassyVerbinden](#5.9.5.-anleitung-zur-verbindung-von-cassy-und-tablet)) @color(_Hinweis: Das Cassy-Messgerät ist bereits eingestellt. Parameter müssen nicht mehr geändert werden._, blue)
+
+- ![Schaltplan_Exp](https://diversewolken.ddns.net/nextcloud/index.php/s/2QzYebzS4esXzrK/download) Laden Sie den Kondensator zunächst auf. Der Kondensator soll nun entladen und dabei die I(t)-Entladekurve aufgezeichnet werden.
+
+1. Nehmen Sie eine vollständige Entladekurve des Kondensators auf.
+
+<details style="margin-left:10%;margin-right:10%">
+
+<summary> Loesung </summary>
+
+![Exp_Loesung1](https://diversewolken.ddns.net/nextcloud/index.php/s/MSzKXixiaKNBnW2/download)
+
+</details>
+
+---
+
+2. Ermitteln Sie mit Hilfe des Cassy-Messgerätes die abgeflossene Ladung $Q_{exp}$ und notieren Sie diese (_Hilfe_ -> [5.9.9. Auswertung der Messwertkurve](#5.9.9.-auswertung-der-messkurve)).
+
+<details style="margin-left:10%;margin-right:10%">
+
+<summary> Loesung </summary>
+
+![Exp_Loesung2](https://diversewolken.ddns.net/nextcloud/index.php/s/5zJjPAZWHR4KpQb/download)
+
+</details>
+
+---
+
+3. Machen Sie von Ihrer Messung einen Screenshot. <br> @color(_Hinweis: Der experimentelle Teil ist beendet. Gehen Sie zu Ihrem Platz zurück._, blue)
+
+---
+
+4. Ermitteln Sie aus Ihren Messdaten die Ladespannung $U$ und die Kapazität des Kondesators $C$.
+
+<details style="margin-left:10%;margin-right:10%">
+
+<summary> Loesung </summary>
+
+![Exp_Loesung4](https://diversewolken.ddns.net/nextcloud/index.php/s/2RNc35nfFdw24Mi/download)
+
+</details>
+
+---
+
+5. Ermittlen Sie aus Ihren Messwerten eine Entladezeit $T$, welche sinnvollerweise nicht unterschritten werden sollte, damit ein Großteil der Ladung vom Kondensator abgeflossen ist.
+
+<details style="margin-left:10%;margin-right:10%">
+
+<summary> Loesung </summary>
+
+![Exp_Loesung5](https://diversewolken.ddns.net/nextcloud/index.php/s/NofXcH6GfgcZ5fX/download)
+
+</details>
+
+---
+
+6. Ermitteln Sie die zum Zeitpunkt t=0 im Kondensator gespeicherte elektrische Energie an.
+
+<details style="margin-left:10%;margin-right:10%">
+
+<summary> Loesung </summary>
+
+$ E = \frac{1}{2}\cdot C \cdot U^2 \approx 0,14 J $
+
+</details>
+
+---
+
+7. Die Kondensatorspannung wird für elektronische Schaltvorgänge genutzt. Ein Schaltvorgang wird ausgelöst, wenn der Kondensator entladen wird und die Kondensatorspannung den Wert $\frac{U}{2}$ unterschreitet. Ermitteln Sie rechnerisch diese Zeitdauer für die im Experiment untersuchten Kondensator-Widerstands-Kombination.
+
+<details style="margin-left:10%;margin-right:10%">
+
+<summary> Loesung </summary>
+
+![Exp_Loesung7](https://diversewolken.ddns.net/nextcloud/index.php/s/xxe4r8EZD5HwQE3/download)
+
+</details>
+
+---
