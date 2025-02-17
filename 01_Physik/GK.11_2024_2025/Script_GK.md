@@ -4464,3 +4464,39 @@ $v = 216867,5 \frac{m}{s} \approx 2,17\cdot 10^5 \frac{m}{s}$
 </details>
 
 </p>
+
+## Checkliste LK 03.03.25
+
+__Zugelassene Hilfsmittel:__ Formelsammlung, CAS
+
+- Grundlagen zum elektrischen Feld (Kraftwirkung auf ein geladenes Teilchen $E=F/q$, elektrisches Feld im Plattenkondensator _Art und Berechnung_)
+
+- allgemeine Definition, Beschreibung, Eigenschaften magnetisches Feld
+
+- Arten magnetischer Felder, Arten von Magneten, Feldlinien
+
+- Kraftwirkung zwischen Magneten
+
+- Eigenschaften Erdmagnetfeld (Zahlenwerte müssen nicht auswendig gelernt werdne)
+
+- Definition und Berechnung der magnetischen Flussdichte $\vec{B}$
+
+- Berechnung der magnetischen Flussdichte innerhalb eine langen Spule
+
+- magnetische Flussdichte mit dem Cassy-Messgerät bestimmen (Handhabung des Messgerätes, Idee des Experiments Bestimmung der magnetischen Feldkonstante $\mu_0$ verstehen)
+
+     __nicht notwendig:__ technische Details (Verbindung Cassy-Tablet, Aufbau eines Experiments)
+
+- Materie im magnetischen Feld (Begriff Ferromagnetikum), elementare Wirkung eines äußeren Magnetfeldes auf einen ferromagnetischen Stoff (-> Elementarmagnete)
+
+- Unterschiede und Gemeinsamkeiten zu einem Stoff im elektrischen/magnetischen Feld
+
+- Kräfte auf bewegte geladene Teilchen in einem Magnetfeld -> Lorentzkraft
+
+- Kraft auf einen Stromdurchflossenen Leiter in einem Magnetfeld -> __Handregel zur Richtungsbestimmung__ 
+
+- Flugbahn geladener Teilchen in einem homogenen, statischen Magnetfeld 
+
+     _Hinweis: Herleitung des Flugbahnradius muss nicht auswendig gewusst werden, nur der Ansatz sollte verstanden sein_
+
+---

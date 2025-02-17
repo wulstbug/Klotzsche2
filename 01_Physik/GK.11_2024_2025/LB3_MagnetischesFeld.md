@@ -135,7 +135,11 @@ __Zugelassene Hilfsmittel:__ Formelsammlung, CAS
 
 - Kraft auf einen Stromdurchflossenen Leiter in einem Magnetfeld -> __Handregel zur Richtungsbestimmung__ 
 
-- Flugbahn geladener Teilchen in einem homogenen, statischen Magnetfeld
+- Flugbahn geladener Teilchen in einem homogenen, statischen Magnetfeld 
+
+     _Hinweis: Herleitung des Flugbahnradius muss nicht auswendig gewusst werden, nur der Ansatz sollte verstanden sein_
+
+---
 
 
 
