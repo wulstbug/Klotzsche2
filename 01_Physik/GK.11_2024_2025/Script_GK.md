@@ -4500,3 +4500,7 @@ __Zugelassene Hilfsmittel:__ Formelsammlung, CAS
      _Hinweis: Herleitung des Flugbahnradius muss nicht auswendig gewusst werden, nur der Ansatz sollte verstanden sein_
 
 ---
+
+### Zur Erinnerung: Experimentvideo aus der letzten Stunde (bis 3:24 min)
+
+!?[Fadenstrahlrohr](https://youtu.be/j5y64SPRnH0?si=MxXy0qlxifHUnRlz)

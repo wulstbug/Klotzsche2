@@ -536,3 +536,7 @@ $v = 216867,5 \frac{m}{s} \approx 2,17\cdot 10^5 \frac{m}{s}$
 </details>
 
 </p>
+
+### Zur Erinnerung: Experimentvideo aus der letzten Stunde (bis 3:24 min)
+
+!?[Fadenstrahlrohr](https://youtu.be/j5y64SPRnH0?si=MxXy0qlxifHUnRlz)
