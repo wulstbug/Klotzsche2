@@ -58,9 +58,14 @@ print("Verschlüsselung:\t", vigenere_encrypt(text1, password1))
 
 <script input="button">
     function vigenereEncrypt(text, key) {
-        text = text.toUpperCase().replace(/[^A-Z]/g, "");
-        key = key.toUpperCase().replace(/[^A-Z]/g, "");
-        if (key.length === 0) return "Fehler: Passwort kann nicht leer sein";        
+        if (key.length === 0)
+        return "";        
+        else
+            text = text.toUpperCase().replace(/[^A-Z]/g, "");
+            document.getElementById("text").value = text.match(/.{1,4}/g).join(" ");
+            key = key.toUpperCase().replace(/[^A-Z]/g, "");
+            document.getElementById("password").value = key;
+        
         let encryptedText = "";
         let keyIndex = 0;        
         for (let i = 0; i < text.length; i++) {
@@ -70,7 +75,7 @@ print("Verschlüsselung:\t", vigenere_encrypt(text1, password1))
             encryptedText += String.fromCharCode(encryptedChar + 64);
             keyIndex++;
         }        
-        return encryptedText;
+        return encryptedText.match(/.{1,4}/g).join(" ");
     }
     function encrypt() {
         let text = document.getElementById("text").value;
