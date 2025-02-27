@@ -47,3 +47,37 @@ print ("PASSWORT:\t\t", formatted_pass)
 print("Verschlüsselung:\t", vigenere_encrypt(text1, password1))
 ```
 @LIA.eval(`["data.txt", "main.py"]`, `none`, `python3 main.py`)
+
+# Vignere-JavaScript
+
+<label for="text">Text:</label>
+<input type="text" id="text">
+<br>
+<label for="password">Passwort:</label>
+<input type="text" id="password">
+<br>
+<button onclick="encrypt()">Encrypt</button>
+<p>Encrypted Text: <span id="output"></span></p>
+<script>
+    function vigenereEncrypt(text, key) {
+        text = text.toUpperCase().replace(/[^A-Z]/g, "");
+        key = key.toUpperCase().replace(/[^A-Z]/g, "");
+        if (key.length === 0) return "ERROR: Key cannot be empty";        
+        let encryptedText = "";
+        let keyIndex = 0;        
+        for (let i = 0; i < text.length; i++) {
+            let textChar = text.charCodeAt(i) - 64;
+            let keyChar = key.charCodeAt(keyIndex % key.length) - 64;
+            let encryptedChar = ((textChar + keyChar - 1) % 26) + 1;
+            encryptedText += String.fromCharCode(encryptedChar + 64);
+            keyIndex++;
+        }        
+        return encryptedText;
+    }
+    function encrypt() {
+        let text = document.getElementById("text").value;
+        let password = document.getElementById("password").value;
+        let encrypted = vigenereEncrypt(text, password);
+        document.getElementById("output").innerText = encrypted;
+    }
+</script>
