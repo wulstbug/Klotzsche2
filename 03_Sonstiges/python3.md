@@ -50,17 +50,17 @@ print("Verschlüsselung:\t", vigenere_encrypt(text1, password1))
 
 # Vignere-JavaScript
 
-<label for="text">Text:</label>
-<input type="text" id="text">
-<br>
-<label for="password">Passwort:</label>
-<input type="text" id="password">
-<br>
-<script>
+<!-- style="background-color:coral"-->
+| | |
+| <label for="text">Text:</label> | <input type="text" id="text"> |
+| <label for="password">Passwort:</label> | <input type="text" id="password"> |
+| <label for="encr"> Verschlüsselter Text:</label> | <span id="output"></span> |
+
+<script input="button">
     function vigenereEncrypt(text, key) {
         text = text.toUpperCase().replace(/[^A-Z]/g, "");
         key = key.toUpperCase().replace(/[^A-Z]/g, "");
-        if (key.length === 0) return "ERROR: Key cannot be empty";        
+        if (key.length === 0) return "Fehler: Passwort kann nicht leer sein";        
         let encryptedText = "";
         let keyIndex = 0;        
         for (let i = 0; i < text.length; i++) {
@@ -78,6 +78,7 @@ print("Verschlüsselung:\t", vigenere_encrypt(text1, password1))
         let encrypted = vigenereEncrypt(text, password);
         document.getElementById("output").innerText = encrypted;
     }
+    encrypt();
+    
+    "Verschlüsseln"
 </script>
-<button onclick="encrypt()">Encrypt</button>
-<p>Encrypted Text: <span id="output"></span></p>
