@@ -56,8 +56,6 @@ print("Verschlüsselung:\t", vigenere_encrypt(text1, password1))
 <label for="password">Passwort:</label>
 <input type="text" id="password">
 <br>
-<button onclick="encrypt()">Encrypt</button>
-<p>Encrypted Text: <span id="output"></span></p>
 <script>
     function vigenereEncrypt(text, key) {
         text = text.toUpperCase().replace(/[^A-Z]/g, "");
@@ -81,3 +79,5 @@ print("Verschlüsselung:\t", vigenere_encrypt(text1, password1))
         document.getElementById("output").innerText = encrypted;
     }
 </script>
+<button onclick="encrypt()">Encrypt</button>
+<p>Encrypted Text: <span id="output"></span></p>
