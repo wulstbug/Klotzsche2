@@ -43,6 +43,17 @@ window.LIA.settings.font_size = 2
 
 <iframe src="https://www.br.de/fernsehen/ard-alpha/sendungen/alpha-lernen/was-ist-kommunikation-sprache-definiton-100~player.html" width="512" height="288" allowfullscreen frameBorder="0" scrolling="no"></iframe>
 
+---
+
+Modelle sind nicht die Wirklichkeit.
+
+[[x]] stimmt
+[[ ]] stimmt nicht
+
+---
+
+??[QuizKommunikation](https://www.ardalpha.de/lernen/alpha-lernen/faecher/deutsch/kommunikation-uebungsaufgabe-einfuehrung100.html)
+
 ## Die 5 Axiome nach Paul Watzlawick
 
 <iframe src="https://www.br.de/fernsehen/ard-alpha/sendungen/alpha-lernen/kommunikation-paul-watzlawick-axiome-102~player.html" width="512" height="288" allowfullscreen frameBorder="0" scrolling="no"></iframe>

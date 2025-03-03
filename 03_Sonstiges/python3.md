@@ -48,7 +48,7 @@ print("Verschlüsselung:\t", vigenere_encrypt(text1, password1))
 ```
 @LIA.eval(`["data.txt", "main.py"]`, `none`, `python3 main.py`)
 
-# Vignere-JavaScript
+# Vignere-JavaScript (Verschlüsseln)
 
 <!-- style="background-color:coral"-->
 | | |
@@ -86,4 +86,86 @@ print("Verschlüsselung:\t", vigenere_encrypt(text1, password1))
     encrypt();
     
     "Verschlüsseln"
+</script>
+
+# Vignere-JavaScript (Entschlüsseln)
+
+<!-- style="background-color:coral"-->
+| | |
+| <label for="encr">Verschlüsserlter Text:</label> | <input type="text" id="encr"> |
+| <label for="password">Passwort:</label> | <input type="text" id="password"> |
+| <label for="encr"> Entschlüsselter Text:</label> | <span id="output"></span> |
+<script input="button">
+    function vigenereDecrypt(ciphertext, key) {
+        const alphabet = "ABCDEFGHIJKLMNOPQRSTUVWXYZ";
+        let plaintext = "";
+        let keyIndex = 0;
+        ciphertext = ciphertext.toUpperCase();
+        key = key.toUpperCase();
+
+        for (let i = 0; i < ciphertext.length; i++) {
+            let cipherChar = ciphertext[i];
+            if (alphabet.includes(cipherChar)) {
+                let shift = alphabet.indexOf(key[keyIndex % key.length]);
+                let plainIndex = (alphabet.indexOf(cipherChar) - shift + 26-1) % 26;
+                plaintext += alphabet[plainIndex];
+                keyIndex++;
+            } else {
+                plaintext += cipherChar;
+            }
+        }
+        return plaintext;
+    }
+    function decrypt() {
+        let encrtext = document.getElementById("encr").value;
+        let password = document.getElementById("password").value;
+        let decrypted = vigenereDecrypt(encrtext, password);
+        document.getElementById("output").innerText = decrypted;
+    }
+    decrypt();
+
+    "Entschlüsseln"
+</script>
+
+# Vignere-JavaScript (Check)
+
+<!-- style="background-color:coral"-->
+| | |
+| <label for="text">Entschlüsselter Text:</label> | <input type="text" id="decr"> |
+| <label for="password">Passwort:</label> | <input type="text" id="password"> |
+| <label for="encr"> Verschlüsselter Text:</label> | <input type="text" id="encr"> |
+<script input="button">
+    function vigenereEncrypt(text, key) {
+        if (key.length === 0)
+            return "CHECK";        
+        else
+            text = text.toUpperCase().replace(/[^A-Z]/g, "");
+            key = key.toUpperCase().replace(/[^A-Z]/g, "");
+        
+        let encryptedText = "";
+        let keyIndex = 0;        
+        for (let i = 0; i < text.length; i++) {
+            let textChar = text.charCodeAt(i) - 64;
+            let keyChar = key.charCodeAt(keyIndex % key.length) - 64;
+            let encryptedChar = ((textChar + keyChar - 1) % 26) + 1;
+            encryptedText += String.fromCharCode(encryptedChar + 64);
+            keyIndex++;
+        }        
+        return encryptedText;
+    }
+    function encrypt() {
+        let decr = document.getElementById("decr").value;
+        let password = document.getElementById("password").value;
+        let encr = document.getElementById("encr").value;
+        let encr_check = vigenereEncrypt(decr, password);
+
+        if (decr.length === 0 || password.length === 0 || encr.length === 0)
+            return "Check"
+        else
+            if (encr === encr_check)
+                return "Richtig"
+            else
+                return "Falsch"
+    }
+    encrypt();
 </script>
