@@ -125,4 +125,3 @@ __Partnerarbeit: Wechsle die Rollen mit jeder Übung:__
 
 ??[WatzlawikFragen](https://www.ardalpha.de/lernen/alpha-lernen/faecher/deutsch/3-uebungen-paul-watzlawick-axiome-100.html)
 ***********
-s
