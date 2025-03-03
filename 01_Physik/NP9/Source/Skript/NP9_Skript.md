@@ -43,102 +43,70 @@ window.LIA.settings.font_size = 2
 
 <iframe src="https://www.br.de/fernsehen/ard-alpha/sendungen/alpha-lernen/was-ist-kommunikation-sprache-definiton-100~player.html" width="512" height="288" allowfullscreen frameBorder="0" scrolling="no"></iframe>
 
-{{1}}
-***********
+### Quiz - Grundlagen Kommunikation
+
 ??[QuizKommunikation](https://www.ardalpha.de/lernen/alpha-lernen/faecher/deutsch/kommunikation-uebungsaufgabe-einfuehrung100.html)
-***********
 
----
-
-{{2}}
-**********
+### Mimik/Gestik 1
 __Entscheide, wo die Verhaltensweisen einzuordnen sind und deute sie.__
 
 | | | |
 | 1. Verhalten                                 |	Gestik / Mimik              | Deutung               |
 | mit den Augen rollen		                |   [[ (Mimik) | Gestik ]]      | [[ ( genervt sein ) | Durchsetzungsvermögen, starker Wille, Tatendrang, Imponierhaltung | nachdenken, skeptisch sein | nachdenken, Ratlosigkeit |  Verlegenheit, Unsicherheit, mangelnde Sympathie |  Unsicherheit, Nervosität |  Begrüßung, Verabschiedung, Danksagung, Gratulation |  	Desinteresse, Gleichgültigkeit, Ratlosigkeit |  	erschrocken sein, sich für etwas schämen, etwas zurücknehmen wollen |  nachdenken, grübeln ]] |
-**********
 
----
+### Mimik/Gestik 2
 
-{{3}}
-**********
 | | | |
 | 2. Verhalten                                 |	Gestik / Mimik              | Deutung               |
 | Hände schütteln		                    |   [[ Mimik | (Gestik) ]]      | [[ genervt sein | Durchsetzungsvermögen, starker Wille, Tatendrang, Imponierhaltung | nachdenken, skeptisch sein | nachdenken, Ratlosigkeit |  Verlegenheit, Unsicherheit, mangelnde Sympathie |  Unsicherheit, Nervosität |  (Begrüßung, Verabschiedung, Danksagung, Gratulation) |  	Desinteresse, Gleichgültigkeit, Ratlosigkeit |  	erschrocken sein, sich für etwas schämen, etwas zurücknehmen wollen |  nachdenken, grübeln ]] |
-**********
 
----
+### Mimik/Gestik 3
 
-{{4}}
-**********
 | | | |
 | 3. Verhalten                                 |	Gestik / Mimik              | Deutung               |
 | den Mund mit der Hand verdecken		    |   [[ Mimik | (Gestik) ]]      | [[ genervt sein | Durchsetzungsvermögen, starker Wille, Tatendrang, Imponierhaltung | nachdenken, skeptisch sein | nachdenken, Ratlosigkeit |  Verlegenheit, Unsicherheit, mangelnde Sympathie |  Unsicherheit, Nervosität |  Begrüßung, Verabschiedung, Danksagung, Gratulation |  	Desinteresse, Gleichgültigkeit, Ratlosigkeit |  	(erschrocken sein, sich für etwas schämen, etwas zurücknehmen wollen) |  nachdenken, grübeln ]] |
-**********
 
----
+### Mimik/Gestik 4
 
-{{5}}
-**********
 | | | |
 | 4. Verhalten                                 |	Gestik / Mimik              | Deutung               |
 | Stirn runzeln		                        |   [[ (Mimik) | Gestik ]]      |[[ genervt sein | Durchsetzungsvermögen, starker Wille, Tatendrang, Imponierhaltung | (nachdenken, skeptisch sein) | nachdenken, Ratlosigkeit |  Verlegenheit, Unsicherheit, mangelnde Sympathie |  Unsicherheit, Nervosität |  Begrüßung, Verabschiedung, Danksagung, Gratulation |  	Desinteresse, Gleichgültigkeit, Ratlosigkeit |  	erschrocken sein, sich für etwas schämen, etwas zurücknehmen wollen |  nachdenken, grübeln ]] |
-**********
 
----
+### Mimik/Gestik 5
 
-{{6}}
-**********
 | | | |
 | 5. Verhalten                                 |	Gestik / Mimik              | Deutung               |
 | mit den Schultern zucken		            |   [[ Mimik | (Gestik) ]]      |[[ genervt sein | Durchsetzungsvermögen, starker Wille, Tatendrang, Imponierhaltung | nachdenken, skeptisch sein | nachdenken, Ratlosigkeit |  Verlegenheit, Unsicherheit, mangelnde Sympathie |  Unsicherheit, Nervosität |  Begrüßung, Verabschiedung, Danksagung, Gratulation |  	(Desinteresse, Gleichgültigkeit, Ratlosigkeit) |  	erschrocken sein, sich für etwas schämen, etwas zurücknehmen wollen |  nachdenken, grübeln ]] |
-**********
 
----
+### Mimik/Gestik 6
 
-{{7}}
-**********
 | | | |
 | 6. Verhalten                                 |	Gestik / Mimik              | Deutung               |
 | am Kopf kratzen		                    |   [[ Mimik | (Gestik) ]]      |[[ genervt sein | Durchsetzungsvermögen, starker Wille, Tatendrang, Imponierhaltung | nachdenken, skeptisch sein | (nachdenken, Ratlosigkeit) |  Verlegenheit, Unsicherheit, mangelnde Sympathie |  Unsicherheit, Nervosität |  Begrüßung, Verabschiedung, Danksagung, Gratulation |  	Desinteresse, Gleichgültigkeit, Ratlosigkeit |  	erschrocken sein, sich für etwas schämen, etwas zurücknehmen wollen |  nachdenken, grübeln ]] |
-**********
 
----
+### Mimik/Gestik 7
 
-{{8}}
-**********
 | | | |
 | 7. Verhalten                                 |	Gestik / Mimik              | Deutung               |
 | mit den Augen schräg nach oben blicken	|   [[ (Mimik) | Gestik ]]      |[[ genervt sein | Durchsetzungsvermögen, starker Wille, Tatendrang, Imponierhaltung | nachdenken, skeptisch sein | nachdenken, Ratlosigkeit |  Verlegenheit, Unsicherheit, mangelnde Sympathie |  Unsicherheit, Nervosität |  Begrüßung, Verabschiedung, Danksagung, Gratulation |  	Desinteresse, Gleichgültigkeit, Ratlosigkeit |  	erschrocken sein, sich für etwas schämen, etwas zurücknehmen wollen |  (nachdenken, grübeln) ]] |
-**********
 
----
+### Mimik/Gestik 8
 
-{{9}}
-**********
 | | | |
 | 8. Verhalten                                 |	Gestik / Mimik              | Deutung               |
 | häufiges Wegblicken		                |   [[ (Mimik) | Gestik ]]      |[[ genervt sein | Durchsetzungsvermögen, starker Wille, Tatendrang, Imponierhaltung | nachdenken, skeptisch sein | nachdenken, Ratlosigkeit |  (Verlegenheit, Unsicherheit, mangelnde Sympathie) |  Unsicherheit, Nervosität |  Begrüßung, Verabschiedung, Danksagung, Gratulation |  	Desinteresse, Gleichgültigkeit, Ratlosigkeit |  	erschrocken sein, sich für etwas schämen, etwas zurücknehmen wollen |  nachdenken, grübeln ]] |
-**********
 
----
+### Mimik/Gestik 9
 
-{{10}}
-**********
 | | | |
 | 9. Verhalten                                 |	Gestik / Mimik              | Deutung               |
 | auf der Unterlippe kauen		            |   [[ (Mimik) | Gestik ]]      |[[ genervt sein | Durchsetzungsvermögen, starker Wille, Tatendrang, Imponierhaltung | nachdenken, skeptisch sein | nachdenken, Ratlosigkeit |  Verlegenheit, Unsicherheit, mangelnde Sympathie |  (Unsicherheit, Nervosität) |  Begrüßung, Verabschiedung, Danksagung, Gratulation |  	Desinteresse, Gleichgültigkeit, Ratlosigkeit |  	erschrocken sein, sich für etwas schämen, etwas zurücknehmen wollen |  nachdenken, grübeln ]] |
-**********
 
----
+### Mimik/Gestik 10
 
-{{11}}
-**********
 | | | |
 | 10. Verhalten                                 |	Gestik / Mimik              | Deutung               |
 | Hände in die Hüfte stemmen		        |   [[ Mimik | (Gestik) ]]      |[[ genervt sein | (Durchsetzungsvermögen, starker Wille, Tatendrang, Imponierhaltung) | nachdenken, skeptisch sein | nachdenken, Ratlosigkeit |  Verlegenheit, Unsicherheit, mangelnde Sympathie |  Unsicherheit, Nervosität |  Begrüßung, Verabschiedung, Danksagung, Gratulation |  	Desinteresse, Gleichgültigkeit, Ratlosigkeit |  	erschrocken sein, sich für etwas schämen, etwas zurücknehmen wollen |  nachdenken, grübeln ]] |    
-**********
 
 
 
