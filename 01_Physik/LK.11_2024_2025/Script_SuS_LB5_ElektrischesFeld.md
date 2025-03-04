@@ -2040,3 +2040,7 @@ $ E = \frac{1}{2}\cdot C \cdot U^2 \approx 0,14 J $
 </details>
 
 ---
+
+## 5.11 Potentielle Energie eines geladenen Teilchens im elektr. Feld
+
+![TB_Herleitung_E_pot_el](https://diversewolken.ddns.net/nextcloud/index.php/s/TTfNQpdec65NNZC/download)
