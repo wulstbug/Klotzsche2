@@ -763,9 +763,17 @@ Stellen Sie die Bewegungsgleichung für das Elektron auf. Ermitteln Sie aus dem 
 
 <details>
 
-<summary> Lösungsweg1 </summary>
+<summary> Lösungsweg Newton'sche Gesetze / Kinematik </summary>
 
 ![Lsg_2.4](https://diversewolken.ddns.net/nextcloud/index.php/s/Xas4Gr5sMZYsLGP/download)
+
+</details>
+
+<details>
+
+<summary> Lösungsweg Energieansatz </summary>
+
+![Lsg_2.4](https://diversewolken.ddns.net/nextcloud/index.php/s/pXJdL873F8pX9bj/download)
 
 </details>
 
@@ -2071,3 +2079,11 @@ $ E = \frac{1}{2}\cdot C \cdot U^2 \approx 0,14 J $
 ## 5.11 Potentielle Energie eines geladenen Teilchens im elektr. Feld
 
 ![TB_Herleitung_E_pot_el](https://diversewolken.ddns.net/nextcloud/index.php/s/TTfNQpdec65NNZC/download)
+
+<details>
+
+<summary> Lösungsweg zu 5.3 / Aufgabe 2 (Elektronenröhre) - Energieansatz </summary>
+
+![Lsg_2.4E](https://diversewolken.ddns.net/nextcloud/index.php/s/pXJdL873F8pX9bj/download)
+
+</details>
