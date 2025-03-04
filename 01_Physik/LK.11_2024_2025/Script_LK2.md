@@ -2087,3 +2087,17 @@ $ E = \frac{1}{2}\cdot C \cdot U^2 \approx 0,14 J $
 ![Lsg_2.4E](https://diversewolken.ddns.net/nextcloud/index.php/s/pXJdL873F8pX9bj/download)
 
 </details>
+
+## 5.12 Dielektrikum - Ein Medium (Material) im Plattenkondensator
+
+> Ein __Dielektrikum__ ist ein @color(nichtleitendes Material, orange), welches zwischen die Platten eines Plattenkondensators eingebracht wird. Dabei verändert sich die Kapazität des Kondensators.
+
+![Dielektrikum1](https://diversewolken.ddns.net/nextcloud/index.php/s/LjstxnWtmJbaGJY/download) 
+
+> Legt man an den Kondensator nun eine Spannung an, so richten sich die @color(elementaren Dipole, orange) innerhalb des Dielektrikums im elektrischen Feld des Kondensators aus (__Polarisierung__).
+
+![ElementareDipole](https://diversewolken.ddns.net/nextcloud/index.php/s/XfwLBXEkJSMJPTL/download)
+
+> Innerhalb des Dielektrikums entsteht ein @color(inneres elektrisches Feld, orange), welches dem @color(äußeren elektrischen Feld, blue) des Kondensators entgegen gerichtet ist und es schwächt.
+
+![Dielektrikum2](https://diversewolken.ddns.net/nextcloud/index.php/s/KwkZD7myWYGePT4/download) 
