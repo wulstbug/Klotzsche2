@@ -228,19 +228,3 @@ __Aufgabe:__ Ergänze die Bewegungsarten
     [(X)] gleichförmige Bewegung
     [( )] gleichmäßig beschleunigte Bewegung
 
-## 3. 2. Gleichförmige Bewegungen
-
-
-> __Definition__: Eine @color(gleichförmige Bewegung, red) liegt vor, wenn sich die Geschwindigkeit des Körpers nicht ändert.
->
-> Beispiele: Förderbänder, Rolltreppen
-
-![ErgebnisGleichförmigeBewegungen](https://diversewolken.ddns.net/nextcloud/index.php/s/WTeKrtEccdTL7C5/download)
-
-{{1}}
-***********
-> Der Zeit-Weg-Graph ( $s(t)$-Graph) einer gleichförmigen Bewegung ist eine @color(Gerade, red).
->
-> Je @color(steiler, red) die Gerade ansteigt, desto @color(größer, red) ist die Geschwindigkeit.
-***********
-
