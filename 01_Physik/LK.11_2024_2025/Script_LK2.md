@@ -2163,9 +2163,17 @@ Lösung 3.
 
 <details style="margin-left:10%">
 
-<summary> Lösungsweg 3. </summary>
+<summary> Lösungsweg 3.a </summary>
 
-![MetzlerS221_3](/download)
+![MetzlerS221_3](https://diversewolken.ddns.net/nextcloud/index.php/s/erNfkkbssMPTstf/download)
+
+</details>
+
+<details style="margin-left:10%">
+
+<summary> Lösungsweg 3.b </summary>
+
+![MetzlerS221_3](https://diversewolken.ddns.net/nextcloud/index.php/s/NnySNYYcrmz236c/download)
 
 </details>
 
@@ -2177,6 +2185,6 @@ Lösung 4.
 
 <summary> Lösungsweg 4. </summary>
 
-![MetzlerS221_4](/download)
+![MetzlerS221_4](https://diversewolken.ddns.net/nextcloud/index.php/s/6ycm4BFAzFiPeGt/download)
 
 </details>
