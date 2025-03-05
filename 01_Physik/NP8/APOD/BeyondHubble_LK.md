@@ -1061,15 +1061,15 @@ Erstelle mit Hilfe von Geogebra dein eigenes Sonnensystem.
 
 7. Nun ergänzen wir einen Schieberegler _Beschleunigung_, mit welchem wir die Animationsgeschwindigkeit erhöhen können. Erstelle dazu eine Variable mit dem Namen __Beschleunigung__. 
 
-![Beschleunigung1](https://diversewolken.ddns.net/nextcloud/index.php/s/WdFZ2KMMpZ9JScH/download)
+![Beschleunigung1](https://diversewolken.ddns.net/nextcloud/index.php/s/oEqe2iZzQH7gLPT/download)
 
 8. Erstelle aus der Variable einen Schieberegler und passe die Grenzen an: __Min: 0,5 Max: 20 Schrittweite: 0,5__ (auswählbar im Einstellungsmenu oder in der Algebra-Ansicht.) Blende den Regler anschließend ein.
 
-![Beschleunigung2](https://diversewolken.ddns.net/nextcloud/index.php/s/WdFZ2KMMpZ9JScH/download)
+![Beschleunigung2](https://diversewolken.ddns.net/nextcloud/index.php/s/6CjQnzoFMoCG3fZ/download)
 
 8. Um die Bewegung des Mekur zu animieren wird als nächstes die _Bewegungsgeschwindigkeit_ eingestellt. Nutze dazu in den Einstellungen des Merkur-Punktes den Reiter _Algebra_. Die Beschleunigung des Merkur ergibt sich aus der Bewegungsgeschwindigkeit (Angabe auf der nächsten Seite). Hier müssen wir die Geschwindigkeit in Millionen-Km-Pro-Stunde angeben. <br> In der Tabelle steht der Wert $\approx$ 172000 km/h, dass sind 0,172332 Mio km/h. <br> <br> Trage bei Geschwindigkeit folgendes ein: <br> <br> @color(0.172*Beschleunigung ,red).
 
-![Beschleunigung2](https://diversewolken.ddns.net/nextcloud/index.php/s/WdFZ2KMMpZ9JScH/download)
+![Beschleunigung3](https://diversewolken.ddns.net/nextcloud/index.php/s/bcEy9jWS4S7kXF3/download)
 
 9. Wechsle nun zum Reiter _Grundeinstellungen_ und klicke: _Animation ein_ Der Punkt sollte sich zu bewegen beginnen.
 
