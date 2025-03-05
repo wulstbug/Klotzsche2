@@ -2083,7 +2083,7 @@ $ E = \frac{1}{2}\cdot C \cdot U^2 \approx 0,14 J $
 
 {{1}}
 ********
-> ![Dielektrikum1](https://diversewolken.ddns.net/nextcloud/index.php/s/LjstxnWtmJbaGJY/download)<!-- style="width:200px" --> Ein __Dielektrikum__ ist ein @color(nichtleitendes Material, orange), welches zwischen die Platten eines Plattenkondensators eingebracht wird. Dabei verändert sich die Kapazität des Kondensators. <br> Das Verhältnis aus Kapazität mit - ($C$) und Kapazität ohne ($C_0$) Dielektrikum nennt man Dielektrizitätszahl $\varepsilon_r$. <br> $$ \varepsilon_r = \dfrac{C}{C_0}$$
+> ![Dielektrikum1](https://diversewolken.ddns.net/nextcloud/index.php/s/LjstxnWtmJbaGJY/download)<!-- style="width:300px" --> Ein __Dielektrikum__ ist ein @color(nichtleitendes Material, orange), welches zwischen die Platten eines Plattenkondensators eingebracht wird. Dabei verändert sich die Kapazität des Kondensators. <br> Das Verhältnis aus Kapazität mit - ($C$) und Kapazität ohne ($C_0$) Dielektrikum nennt man Dielektrizitätszahl $\varepsilon_r$. <br> $$ \varepsilon_r = \dfrac{C}{C_0}$$
 ********
 
 {{2}}
@@ -2093,7 +2093,7 @@ $ E = \frac{1}{2}\cdot C \cdot U^2 \approx 0,14 J $
 
 {{3}}
 ********
-> ![Dielektrikum2](https://diversewolken.ddns.net/nextcloud/index.php/s/KwkZD7myWYGePT4/download)<!-- style="width:200px" -->  Innerhalb des Dielektrikums entsteht ein @color(inneres elektrisches Feld, orange), welches dem @color(äußeren elektrischen Feld, blue) des Kondensators entgegen gerichtet ist und es schwächt.
+> ![Dielektrikum2](https://diversewolken.ddns.net/nextcloud/index.php/s/KwkZD7myWYGePT4/download)<!-- style="width:300px" -->  Innerhalb des Dielektrikums entsteht ein @color(inneres elektrisches Feld, darkgreen), welches dem @color(äußeren elektrischen Feld, blue) des Kondensators entgegen gerichtet ist und es schwächt.
 ********
 
 {{4}}
