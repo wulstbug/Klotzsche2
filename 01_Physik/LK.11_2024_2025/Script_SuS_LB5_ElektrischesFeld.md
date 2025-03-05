@@ -2113,7 +2113,7 @@ Lösung 1.
 
 <p style="margin-left:10%">
 
-@rangeQuiz2($C$, 0 , $F$)
+@rangeQuiz2($C$, 8e-12 , $F$)
 
 </p>
 

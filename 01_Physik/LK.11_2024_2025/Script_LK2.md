@@ -2139,7 +2139,7 @@ Lösung 1.
 
 <p style="margin-left:10%">
 
-@rangeQuiz2($C$, 0 , $F$)
+@rangeQuiz2($C$, 8e-12 , $F$)
 
 </p>
 
@@ -2249,8 +2249,15 @@ Machen Sie sich zunächst mit der Schaltung vertraut. Diskutieren Sie in Ihrer G
 
 1. c) Die Leuchtdiode (LED) im Rücklicht soll nach Ende der Fahrt noch für mindestens 1 Minute leuchten. Nehmen Sie __vereinfachend__ an, dass die LED vom Kondensator über 1 Minute mit einer konstanten Spannung von U = 2,5 V versorgt wird und dabei ein Strom der Stärke I = 0,2 mA fließt. <br> Berechnen Sie die elektrische Ladung, die durch die LED fließen muss und ermitteln Sie die mininmale Kapazität des Kondensators.
 
+<p style="margin-left:10%">
+
+@rangeQuiz2($Q$, 0.012 ,$C$)
+
+@rangeQuiz2($C$, 4.8e-3 ,$F$)
+
 </p>
 
+</p>
 
 <details style="margin-left:10%">
 
@@ -2266,9 +2273,11 @@ $$ C = \dfrac{Q}{U} = 4,8 \cdot 10^{-3} F $$
 
 </details>
 
+---
+
 <p style="color:blue">
 
-1. d) Begründen Sie, dass der vereinfachte Ansatz von Aufgabe c) auf einen realen Schaltkreis mit Kondensator nicht angewendet werden kann.
+1. d) Begründen Sie, dass der vereinfachte Ansatz von Aufgabe c) auf einen realen Schaltkreis mit Kondensator nur sehr begrenzt angewendet werden kann. D.h. diskutieren Sie inwiefern die Annahme nicht der Realität entspricht.
 
 </p>
 
@@ -2280,6 +2289,48 @@ Beim Entladen eines Kondensators ist die Entladespannung zeitlich nicht konstant
 
 </details>
 
-### Experimenteller Teil I
+### Experimenteller Teil
 
+<p style="color:blue">
 
+Sie erhalten von der Lehrkraft eine LED (rot), einen Kondensator, ein Cassy-Messgerät und einige ohmsche Widerstände. 
+
+Erfragen Sie von der Lehrkraft die Ladespannung $U$.
+
+Bauen Sie den Schaltkreis (5.14) auf. Wählen Sie zunächst einen der ohmschen Widerstände. 
+
+@color(Lassen Sie sich den Schaltkreis abnehmen., red)
+
+Schalten Sie probehalber die Spannungsversorgung bei geschlossenem Schalter ein. Öffnen Sie den Schalter und beobachten Sie das Leucht-Verhalten der LED.
+
+---
+
+__Abhängigkeit vom ohmschen Widerstand__
+
+1. Beobachten Sie für verschiedene ohmsche Widerstände die Zeitdauer, wie lange die LED nachleuchtet, zunächst qualitativ. Formulieren Sie eine Aussage zum Einfluss des ohmschen Widerstands auf das Leuchtverhalten.
+
+2. Die Leuchtdauer der LED soll nun in Abhängigkeit des ohmschen Widerstands quantitativ untersucht werden. Überlegen Sie zunächst, mit welcher physikalisch messbaren Größe, man die Leuchtdauer (d.h. das Erlöschen) der LED definieren könnte. Formulieren Sie Ihre Vermutung. <br> @color(_Hinweis: "Hinschauen wann Sie ausgeht" ist keine quantitative Messung._, orange)
+
+3. Bauen Sie den Schaltkreis so um, dass eine quantitative Messung der Leuchtdauer ermöglich wird.
+
+4. Nehmen Sie mit Ihrem Messaufbau für alle bereitgestellten ohmschen Widerstände die Leuchtdauer auf.
+
+5. Zeichnen Sie ein Diagramm in welchem Sie die Leuchtdauer in Abhängigkeit des ohmschen Widerstands auftragen.
+
+6. Interpretieren Sie das Diagramm und begründen Sie den Kurvenverlauf physikalisch.
+
+</p>
+
+### Aufgaben II
+
+Ein Kondensator besteht aus zwei dünnen Metallfolien mit einer isolierenden Schicht (mit der Dielektrizitätszahl $\varepsilon = 9,6$ und der Dicke d = 0,70 μm) als Dielektrikum.
+
+1. Berechnen Sie den benötigten Flächeninhalt pro Kondensatorplatte, um die Kapazität von $C=4,8\cdot10^{-3} F$ in einem Plattenkondensator mit diesem Dielektrikum zu erhalten.
+
+<p style="margin-left:10%">
+
+@rangeQuiz2($A$, 277.78 ,$m^2$)
+
+</p>
+
+2. Diskutieren Sie, welches Material als Dielektrikum sich eher eignen würde, damit sich für die Platten des Kondensators ein praktisch umsetzbarer Wert ergibt. Berechnen Sie eine mögliche Kondensatorfläche.
