@@ -2205,16 +2205,81 @@ Machen Sie sich zunächst mit der Schaltung vertraut. Diskutieren Sie in Ihrer G
 
 </p>
 
-### Aufgaben 1
+### Aufgaben I
 
 <p style="color:blue">
 
-1. a) Beschreiben Sie die Vorgängen beim Anschließen eines Plattenkondensators an eine Batterie, zunächst ohne Dielektrikum Kondensator
+1. a) Beschreiben Sie die Vorgängen beim Anschließen eines Plattenkondensators an eine Spannungsquelle, zunächst ohne Dielektrikum Kondensator.
+
+</p>
+
+<details style="margin-left:10%">
+
+<summary> Lösung 1.a) </summary>
+
+- legt man an einen Plattenkkondensator eine Spannung an, so fließen elektrische Ladungen auf die Platten des Kondesators.
+
+- da sich gleichnahmige Ladungen abstoßen, ist die Ladestromstärke zunächst hoch und sinkt dann exponentiell ab
+
+</details>
+
+---
+
+<p style="color:blue">
 
 1. b) Erläutern Sie, wie sich das Einfügen eines Dielektrikums zwischen den Platten auswirkt.
 
+</p>
 
-1. c) Die Leuchtdiode (LED) im Rücklicht soll nach Ende der Fahrt noch für mindestens 1 Minute leuchten. Nehmen Sie vereinfachend an, dass die LED vom Kondensator über 1 Minute mit einer konstanten Spannung von U = 2,5 V versorgt wird und dabei ein Strom der Stärke I = 2 mA fließt.
+<details style="margin-left:10%">
+
+<summary> Lösung 1.b) </summary>
+
+- bei Verwendung eines Dielektrikums ruft das entstehende elektrische Feld eine Ladungsverschiebung im Dielektrikum hervor (Polarisation)
+
+- es entsteht ein inneres elektrisches Feld, welches dem äußerden elektrischen Feld entgegen gerichtet ist und dieses schwächt. 
+
+- durch die Verringerung der elektrischen Feldstärke im Inneren des Kondensators erhöht sich die auf den Platten speicherbare Ladung (bei gleicher Ladespannung) und somit erhöht sich auch die Kapazität.
+
+</details>
+
+---
+
+<p style="color:blue">
+
+1. c) Die Leuchtdiode (LED) im Rücklicht soll nach Ende der Fahrt noch für mindestens 1 Minute leuchten. Nehmen Sie __vereinfachend__ an, dass die LED vom Kondensator über 1 Minute mit einer konstanten Spannung von U = 2,5 V versorgt wird und dabei ein Strom der Stärke I = 0,2 mA fließt. <br> Berechnen Sie die elektrische Ladung, die durch die LED fließen muss und ermitteln Sie die mininmale Kapazität des Kondensators.
 
 </p>
+
+
+<details style="margin-left:10%">
+
+<summary> Lösung 1.c) </summary>
+
+Bei einer @color(konstanten, red) Stromstärke von 0,2 mA während einer Zeit von 1 Minute, kann die Ladung ermittelt werden mit
+
+$$ Q = I \cdot t = 2 \cdot 10^{-3} A \cdot 60 s = 0,012 C  $$
+
+Die zugehörige Kapazität wäre dann
+
+$$ C = \dfrac{Q}{U} = 4,8 \cdot 10^{-3} F $$
+
+</details>
+
+<p style="color:blue">
+
+1. d) Begründen Sie, dass der vereinfachte Ansatz von Aufgabe c) auf einen realen Schaltkreis mit Kondensator nicht angewendet werden kann.
+
+</p>
+
+<details style="margin-left:10%">
+
+<summary> Lösung 1.d) </summary>
+
+Beim Entladen eines Kondensators ist die Entladespannung zeitlich nicht konstant. Die Spannung sinkt mit zunehmend abgeflossener Ladung. Somit sinkt auch die Stromstärke beim Entladen des Kondensators.
+
+</details>
+
+### Experimenteller Teil I
+
 
