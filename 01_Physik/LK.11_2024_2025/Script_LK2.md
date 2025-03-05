@@ -2191,3 +2191,30 @@ Lösung 4.
 
 ## 5.14 Fachpraktische Übung Fahrradlicht
 
+![FahrradLicht](https://diversewolken.ddns.net/nextcloud/index.php/s/WjpAnRMmgnWJXpN/download) Zur Sicherheitsausrüstung jedes Fahrrads gehört ein Rücklicht, das seine Energie entweder von einem Dynamo oder von einer Batterie bzw. Akkumulator bekommt. Heutige Fahrradrücklichter enthalten oft anstelle einer Batterie
+einen Kondensator. Wenn der Dynamo aufhört, elektrische
+Energie zu liefern, leuchtet ein solches Rücklicht noch einige Zeit weiter.
+
+__Schaltung__
+
+![FahrradLichtSchaltung](https://diversewolken.ddns.net/nextcloud/index.php/s/rd4XonE8LgTLLJW/download)Der folgende Aufbau soll modelhaft eine solche Rücklichtschaltung untersuchen. <br> Dabei wird anstelle des Dynamos eine Spannungsquelle verwendet, welche mit Hilfe des Schalters von der Versorgung getrennt werden kann.
+
+<p style="color:blue">
+
+Machen Sie sich zunächst mit der Schaltung vertraut. Diskutieren Sie in Ihrer Gruppe, warum die LED bei geschlossenem Schalter leuchtet und warum Sie bei geöffnetem Schalter noch eine Weile weiter leuchtet.
+
+</p>
+
+### Aufgaben 1
+
+<p style="color:blue">
+
+1. a) Beschreiben Sie die Vorgängen beim Anschließen eines Plattenkondensators an eine Batterie, zunächst ohne Dielektrikum Kondensator
+
+1. b) Erläutern Sie, wie sich das Einfügen eines Dielektrikums zwischen den Platten auswirkt.
+
+
+1. c) Die Leuchtdiode (LED) im Rücklicht soll nach Ende der Fahrt noch für mindestens 1 Minute leuchten. Nehmen Sie vereinfachend an, dass die LED vom Kondensator über 1 Minute mit einer konstanten Spannung von U = 2,5 V versorgt wird und dabei ein Strom der Stärke I = 2 mA fließt.
+
+</p>
+
