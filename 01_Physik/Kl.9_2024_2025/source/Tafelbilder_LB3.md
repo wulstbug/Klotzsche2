@@ -270,4 +270,4 @@ __Aufgabe:__ Ergänze die Bewegungsarten
 
 ## Bewegungsanalyse - Video
 
-!?[Telekolleg_bis_10:00](https://diversewolken.ddns.net/nextcloud/index.php/s/QycTfGXXTDPn2aa/download)
+!?[Telekolleg_bis_13:40](https://diversewolken.ddns.net/nextcloud/index.php/s/QycTfGXXTDPn2aa/download)
