@@ -194,7 +194,7 @@ _Beispiele:_
 
 {{2}}
 ***********
-__Aufgaben:__
+__Aufgaben  (ca. 35 min):__
 
 1. Erstelle eine Tabelle mit vier Spalten und zehn Zeilen.
 
