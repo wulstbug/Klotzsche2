@@ -2265,7 +2265,7 @@ Machen Sie sich zunächst mit der Schaltung vertraut. Diskutieren Sie in Ihrer G
 
 Bei einer @color(konstanten, red) Stromstärke von 0,2 mA während einer Zeit von 1 Minute, kann die Ladung ermittelt werden mit
 
-$$ Q = I \cdot t = 2 \cdot 10^{-3} A \cdot 60 s = 0,012 C  $$
+$$ Q = I \cdot t = 0,2 \cdot 10^{-3} A \cdot 60 s = 0,012 C  $$
 
 Die zugehörige Kapazität wäre dann
 
