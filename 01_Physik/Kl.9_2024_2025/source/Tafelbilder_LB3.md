@@ -119,6 +119,30 @@ mode: presentation
 
 ![KinematikUndDynamik](https://www.online-wissensdatenbank.de/wp-content/uploads/2023/12/kinematik-grundlagen-der-bewegungslehre.jpg "Bild-Quelle: https://www.online-wissensdatenbank.de")
 
+<details style="margin-left:10%">
+
+<summary> Tablets 9a </summary>
+
+![Tablets9a](https://diversewolken.ddns.net/nextcloud/index.php/s/K46eDTyd9EkFMSr/download)
+
+</details>
+
+<details style="margin-left:10%">
+
+<summary> Tablets 9b </summary>
+
+![Tablets9b](https://diversewolken.ddns.net/nextcloud/index.php/s/MiN3PTGWnDJRKWe/download)
+
+</details>
+
+<details style="margin-left:10%">
+
+<summary> Tablets 9c </summary>
+
+![Tablets9c](https://diversewolken.ddns.net/nextcloud/index.php/s/f9mzGsqKXPNzkFa/download)
+
+</details>
+
 ## 3.1. Einführung in die Analyse von Bewegungen
 
 Die __Kinematik__ (altgriechisch κίνημα kinema, deutsch ‚Bewegung‘) ist das Gebiet der Mechanik, in dem die Bewegung von Körpern rein geometrisch mit den Größen <bdi style="color:red">Ort, Zeit, Geschwindigkeit und Beschleunigung</bdi> beschrieben wird.
