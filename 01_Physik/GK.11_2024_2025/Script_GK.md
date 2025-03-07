@@ -4505,7 +4505,7 @@ __Zugelassene Hilfsmittel:__ Formelsammlung, CAS
 
 !?[Fadenstrahlrohr](https://youtu.be/j5y64SPRnH0?si=MxXy0qlxifHUnRlz)
 
-# Grundkurs Physik 2024/2025 - LB IV - Geladene Teilchen im elektrischen Feld
+##  2. Geladene Teilchen im elektrischen Feld
 
 ![Elektrisches Feld](https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/VFPt_charged_parallel_plates.svg/640px-VFPt_charged_parallel_plates.svg.png)
 
@@ -4523,18 +4523,71 @@ _Tafelbildvideo zum Millikan-Versuch:_
 
 </details>
 
+---
+
 __Erklärung:__
 
-Robert Millikan führte einen berühmten Versuch durch, um die Elementarladung $e$ zu bestimmen. Dabei wurden geladene Öltröpfchen in einem homogenen elektrischen Feld zwischen zwei Platten gehalten.
+Robert Millikan führte einen berühmten Versuch durch, um die Elementarladung $q_e$ zu bestimmen. Dabei wurden geladene Öltröpfchen in einem homogenen elektrischen Feld zwischen zwei Platten zum Schweben gebracht, indem sich die elektrische Kraft und die Gewichtskraft gegenseitig kompensieren. 
 
-__Formel zur Bestimmung der Elementarladung:__
+---
 
-$$q = mg \frac{d}{U}$$
+<p style="color:blue">
 
-### Quizfrage:
-Die Elementarladung wurde von Millikan zu etwa $1.602 \cdot 10^{-19} C$ bestimmt. Berechne die Ladung eines Öltröpfchens mit der Masse $m = 2.5 \cdot 10^{-15} kg$, Plattenabstand $d = 0.005 m$ und angelegter Spannung $U = 500 V$.
+__1. Gleichung ableiten:__ 
 
-@rangeQuiz2($q$, 1.602e-19, $C$)
+ - notieren Sie das genannte Kräftegleichgewicht als Gleichung
+
+ - stellen Sie die Gleichung nach der Ladung $q$ um
+
+ - notieren Sie die Gleichung in Ihrem Hefter
+</p>
+
+---
+
+<details>
+
+<summary> __Lösung: Formel zur Bestimmung Ladung q des Öltröpfchens:__ </summary>
+
+$$\boxed{q = m \cdot g \cdot \frac{d}{U}}$$
+
+<p style="margin-left:10%">
+
+$q$ ... Ladung des Öltröpfchens
+
+$m$ ... Masse des Öltröpfchens
+
+$U$ ... angelegte Spannung
+
+$d$ ... Plattenabstand
+
+</p>
+
+</details>
+
+---
+
+<p style="color:blue">
+
+__2. Berechnung der Ladung (+)__
+
+Die Elementarladung wurde von Millikan bestimmt. Berechne die Ladung eines Öltröpfchens im Gleichgewicht, wenn die Masse $m = 2.5 \cdot 10^{-15} kg$ beträgt, Plattenabstand $d = 5 mm$ und die angelegte Spannung $U = 750 V$.
+
+@rangeQuiz2($q$, 1.6e-19, $C$)
+
+</p>
+
+<p style="color:blue">
+
+__3. Präzisierung des Experiments I (++)__
+
+__Hintergrund:__ Tatsächlich konnte Milikan die Masse der Öltröpfchen nicht messen, da sie viel zu klein waren. Anstelle dessen versuchte er, den Durchmesser der Tröpfchen zu bestimmen und so mittels Kugelvolumen und der Dichte von Öl, die Masse der Öltröpfchen zu bestimmen.
+
+
+
+@rangeQuiz2($q$, 1.6e-19, $C$)
+
+</p>
+
 
 ---
 
