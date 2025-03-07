@@ -4537,6 +4537,8 @@ __1. Gleichung ableiten:__
 
  - notieren Sie das genannte Kräftegleichgewicht als Gleichung
 
+ - setzen Sie für beide Kräfte die gegebenen Formeln ein, notieren Sie für die elektrische Feldstärke die Formel im Plattenkondensator
+
  - stellen Sie die Gleichung nach der Ladung $q$ um
 
  - notieren Sie die Gleichung in Ihrem Hefter
