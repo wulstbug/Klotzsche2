@@ -4504,3 +4504,96 @@ __Zugelassene Hilfsmittel:__ Formelsammlung, CAS
 ### Zur Erinnerung: Experimentvideo aus der letzten Stunde (bis 3:24 min)
 
 !?[Fadenstrahlrohr](https://youtu.be/j5y64SPRnH0?si=MxXy0qlxifHUnRlz)
+
+# Grundkurs Physik 2024/2025 - LB IV - Geladene Teilchen im elektrischen Feld
+
+![Elektrisches Feld](https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/VFPt_charged_parallel_plates.svg/640px-VFPt_charged_parallel_plates.svg.png)
+
+## 1.1. Der Millikan-Versuch
+
+_Tafelbildvideo zum Millikan-Versuch:_
+
+!?[Millikan-Experiment](https://www.youtube.com/watch?v=XMfYHag7Liw)
+
+<details>
+
+<summary> __Fertiges Tafelbild zum Nachschlagen__ </summary>
+
+![TB_Millikan](https://upload.wikimedia.org/wikipedia/commons/3/35/Oil_drop_experiment.svg)
+
+</details>
+
+__Erklärung:__
+
+Robert Millikan führte einen berühmten Versuch durch, um die Elementarladung $e$ zu bestimmen. Dabei wurden geladene Öltröpfchen in einem homogenen elektrischen Feld zwischen zwei Platten gehalten.
+
+__Formel zur Bestimmung der Elementarladung:__
+
+$$q = mg \frac{d}{U}$$
+
+### Quizfrage:
+Die Elementarladung wurde von Millikan zu etwa $1.602 \cdot 10^{-19} C$ bestimmt. Berechne die Ladung eines Öltröpfchens mit der Masse $m = 2.5 \cdot 10^{-15} kg$, Plattenabstand $d = 0.005 m$ und angelegter Spannung $U = 500 V$.
+
+@rangeQuiz2($q$, 1.602e-19, $C$)
+
+---
+
+## 1.2. Bewegung geladener Teilchen im elektrischen Feld
+
+_Bitte anschauen:_
+
+!?[Elektronen in E-Feld](https://www.youtube.com/watch?v=CUX4j4LudXo)
+
+__Grundlagen:__
+
+Ein geladenes Teilchen im elektrischen Feld erfährt eine konstante Kraft:
+
+$$F = qE$$
+
+Da die Kraft konstant ist, folgt eine gleichmäßige Beschleunigung gemäß dem zweiten Newtonschen Gesetz:
+
+$$a = \frac{F}{m} = \frac{qE}{m}$$
+
+__Beispielrechnung:__
+Ein Elektron $(q = -1.602 \cdot 10^{-19} C, m = 9.109 \cdot 10^{-31} kg)$ bewegt sich in einem Feld der Stärke $E = 5000 \frac{V}{m}$.
+
+@rangeQuiz2($a$, 8.79e14, $\frac{m}{s^2}$)
+
+---
+
+## 1.3. Bahnkurve eines geladenen Teilchens
+
+_Bitte anschauen:_
+
+!?[Parabelbahn im E-Feld](https://www.youtube.com/watch?v=3X1IxK8zIsE)
+
+Wenn ein geladenes Teilchen mit einer Anfangsgeschwindigkeit senkrecht zum elektrischen Feld in das Feld eintritt, folgt seine Bahn einer __Parabel__, analog zur Wurfparabel in der Mechanik.
+
+### Quizfrage:
+Ein Elektron wird mit einer Geschwindigkeit von $v_x = 2 \cdot 10^6 \frac{m}{s}$ in ein elektrisches Feld der Stärke $E = 10000 \frac{V}{m}$ eingeschossen. Berechne die Ablenkung $y$ nach einer Flugzeit von $t = 2 \cdot 10^{-8} s$.
+
+@rangeQuiz2($y$, 1.76e-4, $m$)
+
+---
+
+## 1.4. Zusammenfassung
+
+- Der Millikan-Versuch bewies die Existenz der Elementarladung.
+- Geladene Teilchen werden im elektrischen Feld beschleunigt.
+- Die Bewegung eines geladenen Teilchens kann je nach Anfangsbedingungen geradlinig oder parabolisch sein.
+
+__Zusätzliche Aufgaben:__
+
+1. Ein Proton $(q = 1.602 \cdot 10^{-19} C, m = 1.672 \cdot 10^{-27} kg)$ bewegt sich durch ein elektrisches Feld von $E = 5000 \frac{V}{m}$. Berechne die Beschleunigung.
+
+@rangeQuiz2($a_p$, 4.79e11, $\frac{m}{s^2}$)
+
+2. Ein Elektron mit einer Geschwindigkeit von $v_x = 3 \cdot 10^6 \frac{m}{s}$ tritt in ein Feld der Stärke $E = 2000 \frac{V}{m}$ ein. Bestimme die Bahnkurve.
+
+![Bahnkurve](https://upload.wikimedia.org/wikipedia/commons/6/65/Electric_Field_Parabola.svg)
+
+---
+
+__Experiment zur Demonstration:__
+
+!?[Kathodenstrahlrohr](https://www.youtube.com/watch?v=3X1IxK8zIsE)
