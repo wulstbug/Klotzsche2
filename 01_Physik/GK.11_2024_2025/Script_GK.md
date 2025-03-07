@@ -4519,7 +4519,7 @@ _Tafelbildvideo zum Millikan-Versuch:_
 
 <summary> __Fertiges Tafelbild zum Nachschlagen__ </summary>
 
-![TB_Millikan](https://upload.wikimedia.org/wikipedia/commons/3/35/Oil_drop_experiment.svg)
+![TB_Millikan](https://diversewolken.ddns.net/nextcloud/index.php/s/ocNCHdfqgfNNt44/download)
 
 </details>
 
