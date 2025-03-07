@@ -4533,7 +4533,7 @@ Robert Millikan führte einen berühmten Versuch durch, um die Elementarladung $
 
 <p style="color:blue">
 
-__1. Gleichung ableiten:__ 
+__1. Gleichung für Ladung ableiten:__ 
 
  - notieren Sie das genannte Kräftegleichgewicht als Gleichung
 
@@ -4572,26 +4572,69 @@ $d$ ... Plattenabstand
 
 __2. Berechnung der Ladung (+)__
 
-Die Elementarladung wurde von Millikan bestimmt. Berechne die Ladung eines Öltröpfchens im Gleichgewicht, wenn die Masse $m = 2.5 \cdot 10^{-15} kg$ beträgt, Plattenabstand $d = 5 mm$ und die angelegte Spannung $U = 750 V$.
+Die Elementarladung wurde von Millikan bestimmt. Berechnen Sie die Ladung eines Öltröpfchens im Gleichgewicht, wenn die Masse $m = 2.5 \cdot 10^{-15} kg$ beträgt, Plattenabstand $d = 6 mm$ und die angelegte Spannung $U = 900 V$.
 
-@rangeQuiz2($q$, 1.6e-19, $C$)
+@rangeQuiz2($q$, 1.635e-19, $C$)
 
 </p>
+
+---
 
 <p style="color:blue">
 
 __3. Präzisierung des Experiments I (++)__
 
-__Hintergrund:__ Tatsächlich konnte Milikan die Masse der Öltröpfchen nicht messen, da sie viel zu klein waren. Anstelle dessen versuchte er, den Durchmesser der Tröpfchen zu bestimmen und so mittels Kugelvolumen und der Dichte von Öl, die Masse der Öltröpfchen zu bestimmen.
+__Hintergrund:__ Tatsächlich konnte Milikan die Masse der Öltröpfchen nicht messen, da sie viel zu klein waren. Anstelle dessen versuchte er, den Durchmesser der Tröpfchen zu bestimmen und so mittels Kugelvolumen und der Dichte von Öl, die Masse der Öltröpfchen zu bestimmen. Ermittln Sie für ein Tröpfchen, dass einen Durchmesser von 1,2µm besitzt und bei einer Spannung von 674 V (d=6mm) schwebt, die elektrische Ladung. Als Dichte kann $\rho_{Öl}=0,875 \frac{g}{cm^3}$ angenommen werden.
 
-
-
-@rangeQuiz2($q$, 1.6e-19, $C$)
+@rangeQuiz2($q$, 3.2e-19, $C$)
 
 </p>
 
+<details style="margin-left:10%">
+
+<summary> __Lösungshinweise:__ </summary>
+
+- ermitteln Sie aus der Formelsammlung die Formel für das Volumen einer Kugel 
+
+- nutzen Sie den Durchmesser des Tröpfchens um dessen Volumen zu bestimmen 
+
+- ermitteln Sie mit Hilfe von Volumen und Dichte die Masse des Tröpfchens
+
+- berechnen Sie mit Hilfe von Masse, Spannung und Plattenabstand die Ladung
+
+</details>
+
+<details style="margin-left:10%">
+
+<summary> __Lösungen:__ </summary>
+
+$V=\frac{4}{3}\pi r^3$ 
+
+@rangeQuiz2($V$, 4.19e-18 , $m^3$) 
+
+@rangeQuiz2($m$,  3.67E-15 , $kg$)
+
+Hinweis: $\rho_{Öl} = 0,875 \frac{g}{cm^3} = 875 \frac{kg}{m^3}$
+
+@rangeQuiz2($q$, 3.2e-19, $C$)
+
+</details>
 
 ---
+
+<p style="color:blue">
+
+__3. Präzisierung des Experiments II (+++)__
+
+__Hintergrund:__ Wie man in der vorhigen Analyse sehen konnte, war es bei dem Versuch nicht sicher, dass das Öltröpfchen mit genau einer Elementarladung geladen war. Tatsächlich variierte die Anzahl an Elementarladungen von Tröpfchen zu Tröpfchen. Millikan konnte bei seiner Analyse allerdings zeigen, dass die Ladung der Tröpfchen keine beliebigen Werte annehmen konnte. 
+
+__Analyse einer Simulation:__ Nutzen Sie die Simulation auf LEIFI-Physik. Bringen Sie mindesten fünf Tröpfchen in einen Schwebezustand, notieren Sie Spannung und Tröpfchenradius und tragen Sie die ermittelten Ladungen in ein Diagramm ein. 
+
+[SIMULATION_MILIKAN](https://www.leifiphysik.de/elektrizitaetslehre/ladungen-elektrisches-feld/versuche/millikan-versuch-schwebemethode-simulation)
+
+![MILIKAN_FOTO](https://diversewolken.ddns.net/nextcloud/index.php/s/RgskbsAYNLX2ibX/download)<!-- style="max-width=500px" -->
+
+</p>
 
 ## 1.2. Bewegung geladener Teilchen im elektrischen Feld
 
