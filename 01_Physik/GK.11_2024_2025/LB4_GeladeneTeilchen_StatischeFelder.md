@@ -540,3 +540,131 @@ $v = 216867,5 \frac{m}{s} \approx 2,17\cdot 10^5 \frac{m}{s}$
 ### Zur Erinnerung: Experimentvideo aus der letzten Stunde (bis 3:24 min)
 
 !?[Fadenstrahlrohr](https://youtu.be/j5y64SPRnH0?si=MxXy0qlxifHUnRlz)
+
+
+## 1.1. Der Millikan-Versuch
+
+_Tafelbildvideo zum Millikan-Versuch:_
+
+!?[Millikan-Experiment](https://www.youtube.com/watch?v=XMfYHag7Liw)
+
+<details>
+
+<summary> __Fertiges Tafelbild zum Nachschlagen__ </summary>
+
+![TB_Millikan](https://diversewolken.ddns.net/nextcloud/index.php/s/ocNCHdfqgfNNt44/download)
+
+</details>
+
+---
+
+__Erklärung:__
+
+Robert Millikan führte einen berühmten Versuch durch, um die Elementarladung $q_e$ zu bestimmen. Dabei wurden geladene Öltröpfchen in einem homogenen elektrischen Feld zwischen zwei Platten zum Schweben gebracht, indem sich die elektrische Kraft und die Gewichtskraft gegenseitig kompensieren. 
+
+---
+
+<p style="color:blue">
+
+__1. Gleichung für Ladung ableiten:__ 
+
+ - notieren Sie das genannte Kräftegleichgewicht als Gleichung
+
+ - setzen Sie für beide Kräfte die gegebenen Formeln ein, notieren Sie für die elektrische Feldstärke die Formel im Plattenkondensator
+
+ - stellen Sie die Gleichung nach der Ladung $q$ um
+
+ - notieren Sie die Gleichung in Ihrem Hefter
+</p>
+
+---
+
+<details>
+
+<summary> __Lösung: Formel zur Bestimmung Ladung q des Öltröpfchens:__ </summary>
+
+$$\boxed{q = m \cdot g \cdot \frac{d}{U}}$$
+
+<p style="margin-left:10%">
+
+$q$ ... Ladung des Öltröpfchens
+
+$m$ ... Masse des Öltröpfchens
+
+$U$ ... angelegte Spannung
+
+$d$ ... Plattenabstand
+
+</p>
+
+</details>
+
+---
+
+<p style="color:blue">
+
+__2. Berechnung der Ladung (+)__
+
+Die Elementarladung wurde von Millikan bestimmt. Berechnen Sie die Ladung eines Öltröpfchens im Gleichgewicht, wenn die Masse $m = 2.5 \cdot 10^{-15} kg$ beträgt, Plattenabstand $d = 6 mm$ und die angelegte Spannung $U = 900 V$.
+
+@rangeQuiz2($q$, 1.635e-19, $C$)
+
+</p>
+
+---
+
+<p style="color:blue">
+
+__3. Präzisierung des Experiments I (++)__
+
+__Hintergrund:__ Tatsächlich konnte Milikan die Masse der Öltröpfchen nicht messen, da sie viel zu klein waren. Anstelle dessen versuchte er, den Durchmesser der Tröpfchen zu bestimmen und so mittels Kugelvolumen und der Dichte von Öl, die Masse der Öltröpfchen zu bestimmen. 
+
+__Aufgabenstellung:__ Ermittln Sie für ein Tröpfchen, dass einen Durchmesser von 1,2µm besitzt und bei einer Spannung von 674 V (d=6mm) schwebt, die elektrische Ladung. Als Dichte kann $\rho_{Öl}=0,875 \frac{g}{cm^3}$ angenommen werden.
+
+@rangeQuiz2($q$, 3.2e-19, $C$)
+
+</p>
+
+<details style="margin-left:10%">
+
+<summary> __Lösungshinweise:__ </summary>
+
+- ermitteln Sie aus der Formelsammlung die Formel für das Volumen einer Kugel 
+
+- nutzen Sie den Durchmesser des Tröpfchens um dessen Volumen zu bestimmen 
+
+- ermitteln Sie mit Hilfe von Volumen und Dichte die Masse des Tröpfchens
+
+- berechnen Sie mit Hilfe von Masse, Spannung und Plattenabstand die Ladung
+
+</details>
+
+<details style="margin-left:10%">
+
+<summary> __Lösungen:__ </summary>
+
+$V=\frac{4}{3}\pi r^3$ 
+
+@rangeQuiz2($V$, 4.19e-18 , $m^3$) 
+
+@rangeQuiz2($m$,  3.67E-15 , $kg$)
+
+Hinweis: $\rho_{Öl} = 0,875 \frac{g}{cm^3} = 875 \frac{kg}{m^3}$
+
+@rangeQuiz2($q$, 3.2e-19, $C$)
+
+</details>
+
+---
+
+<p style="color:blue">
+
+__3. Simualtion des Experiments II (++)__
+
+__Hintergrund:__ Wie man in der vorhigen Analyse sehen konnte, war es bei dem Versuch nicht sicher, dass das Öltröpfchen mit genau einer Elementarladung geladen war. Tatsächlich variierte die Anzahl an Elementarladungen von Tröpfchen zu Tröpfchen. Millikan konnte bei seiner Analyse allerdings zeigen, dass die Ladung der Tröpfchen keine beliebigen Werte annehmen konnte. 
+
+__Aufgabenstellung:__ Nutzen Sie die Simulation auf LEIFI-Physik ([SIMULATION_MILIKAN](https://www.leifiphysik.de/elektrizitaetslehre/ladungen-elektrisches-feld/versuche/millikan-versuch-schwebemethode-simulation)). Bringen Sie mindestens fünf Tröpfchen nacheinander in einen Schwebezustand, notieren Sie Spannung und Tröpfchenradius und ermitteln Sie die zugehörigen Ladungen. Tragen Sie anschließend die Datenpunkte in ein Diagramm ein. 
+
+![MILIKAN_FOTO](https://diversewolken.ddns.net/nextcloud/index.php/s/RgskbsAYNLX2ibX/download)<!-- style="max-width=500px" -->
+
+</p>
