@@ -4584,7 +4584,9 @@ Die Elementarladung wurde von Millikan bestimmt. Berechnen Sie die Ladung eines 
 
 __3. Präzisierung des Experiments I (++)__
 
-__Hintergrund:__ Tatsächlich konnte Milikan die Masse der Öltröpfchen nicht messen, da sie viel zu klein waren. Anstelle dessen versuchte er, den Durchmesser der Tröpfchen zu bestimmen und so mittels Kugelvolumen und der Dichte von Öl, die Masse der Öltröpfchen zu bestimmen. Ermittln Sie für ein Tröpfchen, dass einen Durchmesser von 1,2µm besitzt und bei einer Spannung von 674 V (d=6mm) schwebt, die elektrische Ladung. Als Dichte kann $\rho_{Öl}=0,875 \frac{g}{cm^3}$ angenommen werden.
+__Hintergrund:__ Tatsächlich konnte Milikan die Masse der Öltröpfchen nicht messen, da sie viel zu klein waren. Anstelle dessen versuchte er, den Durchmesser der Tröpfchen zu bestimmen und so mittels Kugelvolumen und der Dichte von Öl, die Masse der Öltröpfchen zu bestimmen. 
+
+__Aufgabenstellung:__ Ermittln Sie für ein Tröpfchen, dass einen Durchmesser von 1,2µm besitzt und bei einer Spannung von 674 V (d=6mm) schwebt, die elektrische Ladung. Als Dichte kann $\rho_{Öl}=0,875 \frac{g}{cm^3}$ angenommen werden.
 
 @rangeQuiz2($q$, 3.2e-19, $C$)
 
@@ -4624,13 +4626,11 @@ Hinweis: $\rho_{Öl} = 0,875 \frac{g}{cm^3} = 875 \frac{kg}{m^3}$
 
 <p style="color:blue">
 
-__3. Präzisierung des Experiments II (+++)__
+__3. Simualtion des Experiments II (++)__
 
 __Hintergrund:__ Wie man in der vorhigen Analyse sehen konnte, war es bei dem Versuch nicht sicher, dass das Öltröpfchen mit genau einer Elementarladung geladen war. Tatsächlich variierte die Anzahl an Elementarladungen von Tröpfchen zu Tröpfchen. Millikan konnte bei seiner Analyse allerdings zeigen, dass die Ladung der Tröpfchen keine beliebigen Werte annehmen konnte. 
 
-__Analyse einer Simulation:__ Nutzen Sie die Simulation auf LEIFI-Physik. Bringen Sie mindesten fünf Tröpfchen in einen Schwebezustand, notieren Sie Spannung und Tröpfchenradius und tragen Sie die ermittelten Ladungen in ein Diagramm ein. 
-
-[SIMULATION_MILIKAN](https://www.leifiphysik.de/elektrizitaetslehre/ladungen-elektrisches-feld/versuche/millikan-versuch-schwebemethode-simulation)
+__Aufgabenstellung:__ :__ Nutzen Sie die Simulation auf LEIFI-Physik ([SIMULATION_MILIKAN](https://www.leifiphysik.de/elektrizitaetslehre/ladungen-elektrisches-feld/versuche/millikan-versuch-schwebemethode-simulation)). Bringen Sie mindestens fünf Tröpfchen nacheinander in einen Schwebezustand, notieren Sie Spannung und Tröpfchenradius und ermitteln Sie die zugehörigen Ladungen. Tragen Sie anschließend die Datenpunkte in ein Diagramm ein. 
 
 ![MILIKAN_FOTO](https://diversewolken.ddns.net/nextcloud/index.php/s/RgskbsAYNLX2ibX/download)<!-- style="max-width=500px" -->
 
