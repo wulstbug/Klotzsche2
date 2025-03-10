@@ -619,7 +619,7 @@ __3. Präzisierung des Experiments I (++)__
 
 __Hintergrund:__ Tatsächlich konnte Milikan die Masse der Öltröpfchen nicht messen, da sie viel zu klein waren. Anstelle dessen versuchte er, den Durchmesser der Tröpfchen zu bestimmen und so mittels Kugelvolumen und der Dichte von Öl, die Masse der Öltröpfchen zu bestimmen. 
 
-__Aufgabenstellung:__ Ermittln Sie für ein Tröpfchen, dass einen Durchmesser von 1,2µm besitzt und bei einer Spannung von 674 V (d=6mm) schwebt, die elektrische Ladung. Als Dichte kann $\rho_{Öl}=0,875 \frac{g}{cm^3}$ angenommen werden.
+__Aufgabenstellung:__ Ermittln Sie für ein Tröpfchen, dass einen Durchmesser von 1,2µm besitzt und bei einer Spannung von 165 V (d=6mm) schwebt, die elektrische Ladung. Als Dichte kann $\rho_{Öl}=0,875 \frac{g}{cm^3}$ angenommen werden.
 
 @rangeQuiz2($q$, 3.2e-19, $C$)
 
@@ -651,7 +651,7 @@ $V=\frac{4}{3}\pi r^3$
 
 Hinweis: $\rho_{Öl} = 0,875 \frac{g}{cm^3} = 875 \frac{kg}{m^3}$
 
-@rangeQuiz2($q$, 6.914e-20, $C$)
+@rangeQuiz2($q$, 3.2e-19, $C$)
 
 </details>
 
