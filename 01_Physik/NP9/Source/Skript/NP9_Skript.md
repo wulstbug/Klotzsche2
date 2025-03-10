@@ -35,6 +35,10 @@ mode: presentation
 window.LIA.settings.font_size = 2
 @end
 
+@color
+<bdi style="color:@1">@0</bdi>
+@end
+
 -->
 
 # Kommunikation
@@ -127,15 +131,134 @@ __Partnerarbeit: Wechsle die Rollen mit jeder Übung:__
 ??[WatzlawikFragen](https://www.ardalpha.de/lernen/alpha-lernen/faecher/deutsch/3-uebungen-paul-watzlawick-axiome-100.html)
 ***********
 
-## Das vier Ohren-Modell nach F. Schulz von Thun
+## Das Vier-Ohren-Modell nach F. Schulz von Thun
 
 Schau dir folgendes Video an. Notiere in Stichpunkten die Inhalte des _Vier-Ohren-Modells_ nach Friedemann Schulz von Thun
 
 !?[4OhremModellAlphaLErnen](https://www.youtube.com/watch?v=9VJn1cPbf1A)
 
-## Quiz-Kommunikation
+## Übung- Vier-Ohrenmodell nach F. Schulz von Thun
 
-[qr-code](https://www.ardalpha.de/lernen/alpha-lernen/faecher/deutsch/kommunikation-uebungsaufgabe-einfuehrung100.html)
+> __Situation 1:__ Ein Mann schaut auf seinen Teller, hält den Kopf schräg und fragt: "Was ist das Grüne in der Soße?". <br> Seine Frau, die zu diesem Zeitpunkt, aus dem Fenster gesehen hat, entgegnet: "Mein Gott, wenn es dir hier nicht schmeckt, kannst du ja woanders essen gehen." <br> _Quelle: In Anlehnung an Friedemann Schulz von Thun: Miteinander reden. Störungen und Klärungen. Reinbek 2004. S. 62._
+
+---
+
+@color(Analysiere die folgende Kommunikationssituation mithilfe des Modells von Schulz von Thun. <br> 1. Analysiere die vier Seiten des Senders. <br> 2. Analysiere die vier Seiten des Empfängers. <br> 3. Überlegt gemeinsam. Mit welchem Ohr hat die Frau wohl überwiegend gehört?<br> 4. Überlegt euch eine angemessene Reaktion des Mannes. , blue) 
+
+---
+
+@color(__Lösung:__ Sender, orange)
+
+<details style="margin-left:5%">
+
+<summary> Hinweise zur Unterstützung </summary>
+
+Die vier Seiten sind Sachinhalt, Selbstkundgabe, Beziehungshinweis und Apell. Überprüfe in der Aussage des Mannes die vier _Schnäbel_.
+
+</details>
+
+
+<details style="margin-left:5%">
+
+<summary> Lösung </summary>
+
+<details style="margin-left:5%">
+
+<summary> Sachinhalt </summary>
+
+__Sachinhalt:__ Es ist etwas Grünes in der Soße.
+
+</details>
+
+<details style="margin-left:5%">
+
+<summary> Selbstkundgabe </summary>
+
+__Selbstkundgabe:__ Ich weiß nicht, was das Grüne ist. Ich bin unwissend/interessiert. <br> Normalerweise weiß ich, was du kochst, aber heute nicht.
+
+</details>
+
+<details style="margin-left:5%">
+
+<summary> Beziehungshinweis: </summary>
+
+__Beziehungshinweis:__  Ich habe Vertrauen in dich, dass du es weißt. <br> Unsere Beziehung ist stark genug, dass ich dich etwas zum essen fragen kann.
+
+</details>
+
+<details style="margin-left:5%">
+
+<summary> Apell: </summary>
+
+__Apell:__  Sag mir was es ist.
+
+</details>
+
+</details>
+
+---
+
+@color(__Lösung:__ Empfänger, orange)
+
+<details style="margin-left:5%">
+
+<summary> Hinweise zur Unterstützung </summary>
+
+Die vier Seiten sind Sachinhalt, Selbstkundgabe, Beziehungshinweis und Apell. Überprüfe in der Antwort der Frau die vier _Ohren_.
+
+</details>
+
+
+<details style="margin-left:5%">
+
+<summary> Lösung </summary>
+
+<details style="margin-left:5%">
+
+<summary> Sachinhalt </summary>
+
+__Sachinhalt:__ Ja, es ist tatsächlich etwas Grünes in der Soße. <br> _oder_ <br> Du kannst etwas anderes Essen.
+
+</details>
+
+<details style="margin-left:5%">
+
+<summary> Selbstkundgabe </summary>
+
+__Selbstkundgabe:__ Ihm schmeckt es nicht. <br> _oder_ <br> Ich glaube, du hast Angst, dass es dir nicht schmeckt.
+
+</details>
+
+<details style="margin-left:5%">
+
+<summary> Beziehungshinweis: </summary>
+
+__Beziehungshinweis:__  Er hält mich für eine schlechte Köchin. <br> _oder_ <br> Das Thema Essen ist in unser Beziehung eine sensible Angelegenheit. <br> _oder_ <br> Wir sind zusammen und ich habe für dich gekocht. Wenn du es nicht magst, stört das unsere Beziehung.
+
+</details>
+
+<details style="margin-left:5%">
+
+<summary> Apell: </summary>
+
+__Apell:__  Ich soll das Grüne weglassen, etwas anderes kochen. Ich soll meine Kochfähigkeiten verbessern. <br> _oder_ <br> Ich soll keine Sachen kochen, die ihm nicht schmecken. <br> _oder_ <br> Hör auf zu fragen. Iss oder iss woanders.
+
+</details>
+
+</details>
+
+---
+
+@color(__Lösung:__ Hauptohr, orange)
+
+
+<details style="margin-left:5%">
+
+<summary> Lösung </summary>
+
+Die Frau hört vor allem auf dem Beziehungsohr.
+
+</details>
 
 ## KI-Gespräch
 
