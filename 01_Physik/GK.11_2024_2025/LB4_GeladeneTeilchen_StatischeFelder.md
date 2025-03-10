@@ -669,6 +669,12 @@ __Aufgabenstellung:__ Nutzen Sie die Simulation auf LEIFI-Physik ([SIMULATION_MI
 
 </p>
 
-> Ergebnis: Die kleinste mögliche Ladung, die für das Experiment ermittelt werden konnte betrug $1,6\cdot10^{-19}C$. Alle höheren Ladungen sind immer Vielfache dieser @color(Elementarladung $e$, red)
+<details>
+
+<summary> Ergebnis des Versuchs </summary>
+
+> Die kleinste mögliche Ladung, die für das Experiment ermittelt werden konnte betrug $1,6\cdot10^{-19}C$. Alle höheren Ladungen sind immer Vielfache dieser @color(Elementarladung $e$, red)
 >
-> $$ e = 1,602\cdot10^{-19}C$$
+> $$ \boxed{e = 1,602\cdot10^{-19}C}$$
+
+</details>

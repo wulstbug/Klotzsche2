@@ -4636,7 +4636,15 @@ __Aufgabenstellung:__ Nutzen Sie die Simulation auf LEIFI-Physik ([SIMULATION_MI
 
 </p>
 
+<details>
 
+<summary> Ergebnis des Versuchs </summary>
+
+> Die kleinste mögliche Ladung, die für das Experiment ermittelt werden konnte betrug $1,6\cdot10^{-19}C$. Alle höheren Ladungen sind immer Vielfache dieser @color(Elementarladung $e$, red)
+>
+> $$ \boxed{e = 1,602\cdot10^{-19}C}$$
+
+</details>
 
 ## 1.2. Bewegung geladener Teilchen im elektrischen Feld
 
