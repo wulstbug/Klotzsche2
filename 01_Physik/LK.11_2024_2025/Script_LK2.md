@@ -2346,8 +2346,8 @@ Kriterium LED
 @LIA.eval()
 
 <!-- 
-    data-xlabel=""R in Ω" 
-    data-ylabel="t in s"
+    data-xlabel="R in Ω" 
+    data-ylabel="t in s" 
     data-title="Leuchtdauer LED"
 -->
 | R in Ω| t in s |
@@ -2358,3 +2358,12 @@ Kriterium LED
 | 1000 | 0 |
 | 2200 | 0 |
 | 10000 | 0 |
+
+__Probleme für eine relle Messung:__
+
+```text data.txt
+Probleme:
+
+
+```
+@LIA.eval()
