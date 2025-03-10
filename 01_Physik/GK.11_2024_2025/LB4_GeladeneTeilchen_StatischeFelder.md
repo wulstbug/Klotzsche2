@@ -668,3 +668,7 @@ __Aufgabenstellung:__ Nutzen Sie die Simulation auf LEIFI-Physik ([SIMULATION_MI
 ![MILIKAN_FOTO](https://diversewolken.ddns.net/nextcloud/index.php/s/RgskbsAYNLX2ibX/download)<!-- style="max-width=500px" -->
 
 </p>
+
+> Ergebnis: Die kleinste mögliche Ladung, die für das Experiment ermittelt werden konnte betrug $1,6\cdot10^{-19}C$. Alle höheren Ladungen sind immer Vielfache dieser @color(Elementarladung $e$, red)
+>
+> $$ e = 1,602\cdot10^{-19}C$$
