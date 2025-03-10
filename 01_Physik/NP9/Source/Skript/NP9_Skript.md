@@ -116,7 +116,7 @@ __Entscheide, wo die Verhaltensweisen einzuordnen sind und deute sie.__
 
 ## Die 5 Axiome nach Paul Watzlawick
 
-<iframe src="https://www.br.de/fernsehen/ard-alpha/sendungen/alpha-lernen/kommunikation-paul-watzlawick-axiome-102~player.html" width="512" height="288" allowfullscreen frameBorder="0" scrolling="no"></iframe>
+??[5-Axiome-Watzlawik](https://youtu.be/GydVGIDyEQ0?feature=shared)
 
 {{1}}
 ***********
