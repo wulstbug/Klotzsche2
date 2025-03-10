@@ -4612,13 +4612,13 @@ __Aufgabenstellung:__ Ermittln Sie für ein Tröpfchen, dass einen Durchmesser v
 
 $V=\frac{4}{3}\pi r^3$ 
 
-@rangeQuiz2($V$, 4.19e-18 , $m^3$) 
+@rangeQuiz2($V$, 9.05e-19 , $m^3$) 
 
-@rangeQuiz2($m$,  3.67E-15 , $kg$)
+@rangeQuiz2($m$,  7.972e-16 , $kg$)
 
 Hinweis: $\rho_{Öl} = 0,875 \frac{g}{cm^3} = 875 \frac{kg}{m^3}$
 
-@rangeQuiz2($q$, 3.2e-19, $C$)
+@rangeQuiz2($q$, 6.914e-20, $C$)
 
 </details>
 

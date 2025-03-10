@@ -3,6 +3,8 @@ author: Christian Golnik
 
 language: de
 
+import: https://raw.githubusercontent.com/LiaScript/CodeRunner/master/README.md
+
 @style
 .lia-effect__circle {
     display: none !important;
@@ -2334,3 +2336,25 @@ Ein Kondensator besteht aus zwei dünnen Metallfolien mit einer isolierenden Sch
 </p>
 
 2. Diskutieren Sie, welches Material als Dielektrikum sich eher eignen würde, damit sich für die Platten des Kondensators ein praktisch umsetzbarer Wert ergibt. Berechnen Sie eine mögliche Kondensatorfläche.
+
+### Auswertung des Experiments
+
+
+```text data.txt
+Kriterium LED
+```
+@LIA.eval()
+
+<!-- 
+    data-xlabel=""R in Ω" 
+    data-ylabel="t in s"
+    data-title="Leuchtdauer LED"
+-->
+| R in Ω| t in s |
+| ---- | ---- | ---- |
+| 100 | 0 |
+| 220 | 0 |
+| 470 | 0 |
+| 1000 | 0 |
+| 2200 | 0 |
+| 10000 | 0 |
