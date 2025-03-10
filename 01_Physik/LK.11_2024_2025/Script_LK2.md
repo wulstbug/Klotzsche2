@@ -2339,9 +2339,10 @@ Ein Kondensator besteht aus zwei dünnen Metallfolien mit einer isolierenden Sch
 
 ### Auswertung des Experiments
 
+__Kriterium LED__
 
-```text data.txt
-Kriterium LED
+```text Kriterium
+
 ```
 @LIA.eval()
 
@@ -2359,10 +2360,10 @@ Kriterium LED
 | 2200 | 0 |
 | 10000 | 0 |
 
-__Probleme für eine relle Messung:__
+__Probleme für Realität:__
 
-```text data.txt
-Probleme:
+```text Probleme
+
 
 
 ```
