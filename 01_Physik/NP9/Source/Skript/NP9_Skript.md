@@ -143,7 +143,21 @@ Schau dir folgendes Video an. Notiere in Stichpunkten die Inhalte des _Vier-Ohre
 
 ---
 
-@color(Analysiere die folgende Kommunikationssituation mithilfe des Modells von Schulz von Thun. <br> 1. Analysiere die vier Seiten des Senders. <br> 2. Analysiere die vier Seiten des Empfängers. <br> 3. Überlegt gemeinsam. Mit welchem Ohr hat die Frau wohl überwiegend gehört?<br> 4. Überlegt euch eine angemessene Reaktion des Mannes. , blue) 
+---
+
+<p style="color:blue">
+
+Analysiere die folgende Kommunikationssituation mithilfe des Modells von Schulz von Thun. 
+
+1. Analysiere die vier Seiten des Senders. 
+
+2. Analysiere die vier Seiten des Empfängers. 
+
+3. Überlegt gemeinsam. Mit welchem Ohr hat die Frau wohl überwiegend gehört?
+
+4. Überlegt euch eine angemessene Reaktion des Mannes. Mit welchem Schnabel sollte er überwiegend antworten,  damit ein Streit vermieden werden kann?
+
+</p>
 
 ---
 
@@ -259,6 +273,74 @@ __Apell:__  Ich soll das Grüne weglassen, etwas anderes kochen. Ich soll meine 
 Die Frau hört vor allem auf dem Beziehungsohr.
 
 </details>
+
+## Quiz - Kommunikationsstörungen
+
+Wahrnehmung, Interpretation oder Gefühl? Entscheide, auf welchen Vorgängen die Äußerungen beruhen.
+
+1. Du bist desinteressiert.
+
+     <!-- data-solution-button="off" -->
+     [( )] Wahrnehmung
+     [(x)] Interpretation
+     [( )] Gefühl
+
+2. Du warst 60 Minuten im Bad.
+
+     <!-- data-solution-button="off" -->
+     [(x)] Wahrnehmung
+     [( )] Interpretation
+     [( )] Gefühl
+
+3. Ich habe dich gestern mit einem anderen Mädchen gesehen.
+
+     <!-- data-solution-button="off" -->
+     [(x)] Wahrnehmung
+     [( )] Interpretation
+     [( )] Gefühl
+
+4. Ich bin heute schlecht drauf.
+
+     <!-- data-solution-button="off" -->
+     [( )] Wahrnehmung
+     [( )] Interpretation
+     [(x)] Gefühl
+
+5. Er hat nichts gesagt.
+
+     <!-- data-solution-button="off" -->
+     [(x)] Wahrnehmung
+     [( )] Interpretation
+     [( )] Gefühl
+
+6. Du liebst mich nicht mehr so sehr wie am ersten Tag.
+
+     <!-- data-solution-button="off" -->
+     [( )] Wahrnehmung
+     [(x)] Interpretation
+     [( )] Gefühl
+
+7. Du kritisierst mich.
+
+     <!-- data-solution-button="off" -->
+     [( )] Wahrnehmung
+     [(x)] Interpretation
+     [( )] Gefühl
+
+8. Deine Aussage verletzt mich.
+
+     <!-- data-solution-button="off" -->
+     [( )] Wahrnehmung
+     [( )] Interpretation
+     [(x)] Gefühl
+
+9. Ich fühle mich hintergangen.
+
+     <!-- data-solution-button="off" -->
+     [( )] Wahrnehmung
+     [( )] Interpretation
+     [(x)] Gefühl
+
 
 ## KI-Gespräch
 
