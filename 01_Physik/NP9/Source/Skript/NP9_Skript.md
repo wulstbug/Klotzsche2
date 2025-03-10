@@ -131,6 +131,13 @@ __Partnerarbeit: Wechsle die Rollen mit jeder Übung:__
 ??[WatzlawikFragen](https://www.ardalpha.de/lernen/alpha-lernen/faecher/deutsch/3-uebungen-paul-watzlawick-axiome-100.html)
 ***********
 
+{{2}}
+***********
+__Klassenraum-Übung__
+
+[Dialog-Trump-Selenskyj](https://www.spiegel.de/ausland/donald-trump-und-wolodymyr-selenskyj-eklat-im-weissen-haus-das-wortgefecht-im-video-a-a5c13d13-ba23-4670-87fe-c4f710a141a4)
+***********
+
 ## Das Vier-Ohren-Modell nach F. Schulz von Thun
 
 Schau dir folgendes Video an. Notiere in Stichpunkten die Inhalte des _Vier-Ohren-Modells_ nach Friedemann Schulz von Thun
