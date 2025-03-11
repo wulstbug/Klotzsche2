@@ -309,7 +309,7 @@ _Eigenschaften sind_
 
 - [Homogene Felder](https://www.abi-physik.de/buch/das-magnetfeld/homogenes-magnetfeld/)
 
-- LB S. 102, 103, 104
+- LB Duden S. 277-279
 
 </p>
 
