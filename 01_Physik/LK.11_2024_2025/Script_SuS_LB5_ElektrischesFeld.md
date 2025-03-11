@@ -2299,7 +2299,7 @@ __Abhängigkeit vom ohmschen Widerstand__
 
 ### Aufgaben II
 
-Ein Kondensator besteht aus zwei dünnen Metallfolien mit einer isolierenden Schicht (mit der Dielektrizitätszahl $\varepsilon = 9,6$ und der Dicke d = 0,70 μm) als Dielektrikum.
+Ein Kondensator besteht aus zwei dünnen Metallfolien mit einer isolierenden Schicht (mit der Dielektrizitätszahl $\varepsilon_r = 9,6$ und der Dicke d = 0,70 μm) als Dielektrikum.
 
 1. Berechnen Sie den benötigten Flächeninhalt pro Kondensatorplatte, um die Kapazität von $C=4,8\cdot10^{-3} F$ in einem Plattenkondensator mit diesem Dielektrikum zu erhalten.
 
