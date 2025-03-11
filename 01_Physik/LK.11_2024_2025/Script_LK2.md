@@ -2331,7 +2331,7 @@ Ein Kondensator besteht aus zwei dünnen Metallfolien mit einer isolierenden Sch
 
 <p style="margin-left:10%">
 
-@rangeQuiz2($A$, 277.78 ,$m^2$)
+@rangeQuiz2($A$, 39.5 ,$m^2$)
 
 </p>
 
