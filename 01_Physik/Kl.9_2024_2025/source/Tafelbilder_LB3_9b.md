@@ -274,6 +274,6 @@ Momentangeschwindigkeit gibt die @color(__aktuellle__,red) Geschwindigkeit zu ei
 
 Link zum [Arbeitsblatt](https://diversewolken.ddns.net/nextcloud/index.php/s/S4zs3zybdcyf4Fx)
 
-Löse die Aufgaben auf dem Arbeitsblatt. Vergleich deine Lösungen dann mit Moodle.
+Löse die Aufgaben auf dem Arbeitsblatt. Vergleich deine Lösungen dann mit den Aufgaben bei Moodle.
 
-??[Moodle_EineRealistischeAutofahrt](https://diversewolken.ddns.net/moodle/mod/quiz/view.php?id=557)
+[Moodle_EineRealistischeAutofahrt](https://diversewolken.ddns.net/moodle/mod/quiz/view.php?id=557)
