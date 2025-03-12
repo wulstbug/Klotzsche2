@@ -228,3 +228,53 @@ __Aufgabe:__ Ergänze die Bewegungsarten
     [(X)] gleichförmige Bewegung
     [( )] gleichmäßig beschleunigte Bewegung
 
+
+## 3. 3. Geschwindigkeit
+
+[Geogebra_Autofahrt](https://www.geogebra.org/m/hdkrad92)
+
+> Definition: Wir definieren __Bewegung__ als Änderung des Ortes in einer bestimmten Zeit. Die __Geschwindigkeit__ gibt an, wie groß die Ortsänderung pro Zeiteinheit ist.
+>
+> Formelzeichen: $v$
+>
+> Einheit: $\hspace{1cm} \large{\Big[ \dfrac{m}{s} \Big] \hspace{1cm}\overset{\cdot 3,6}{\underset{:3,6}\rightleftarrows}  \hspace{1cm}\Big[ \dfrac{km}{h} \Big]}$
+>
+> Formel: $\hspace{1cm} \boxed{\large{v = \dfrac{\Delta s}{\Delta t}}}$
+
+---
+
+<p class="newspaper">
+__Durchschnittsgeschwindigkeit $\bar{v}$__
+<p class="cb">
+__Momentangeschwindigkeit $v(t)$__
+</p>
+</p>
+
+
+
+<p class="newspaper">
+Die Durchschnittsgeschwindigkeit gibt einen @color(Mittelwert,red) der Geschwindigkeit über den betrachteten Zeitraum an.
+
+
+> Die Durchschnittsgeschwindigkeit wird mit der Formel $v = \frac{\Delta s}{\Delta t}$ für beliebiges Zeitintervall $\Delta t$ (z.B. für die gesamte Fahrt).
+
+<p class="cb">
+Momentangeschwindigkeit gibt die @color(__aktuellle__,red) Geschwindigkeit zu einem bestimmten Zeitpunkt t an.
+
+
+> Die Momentangeschwindigkeit wird mit der Formel $v = \frac{\Delta s}{\Delta t}$ für ein sehr kleines Zeitintervall $\Delta t$ berechnet.
+
+</p>
+</p>
+
+
+### Übung: Eine realistische Autofahrt
+
+![8](https://diversewolken.ddns.net/nextcloud/index.php/s/7LXaxmwTBorb4cj/download)
+
+Link zum [Arbeitsblatt](https://diversewolken.ddns.net/nextcloud/index.php/s/S4zs3zybdcyf4Fx)
+
+Löse die Aufgaben auf dem Arbeitsblatt. Vergleich deine Lösungen dann mit den Aufgaben bei Moodle.
+
+[Moodle_EineRealistischeAutofahrt](https://diversewolken.ddns.net/moodle/mod/quiz/view.php?id=559)
+
