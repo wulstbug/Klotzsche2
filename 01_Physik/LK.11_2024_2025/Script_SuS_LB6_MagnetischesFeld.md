@@ -476,3 +476,138 @@ b)
 [[x]] Das Magnetfeld um einen stromdurchflossenen Leiter ist kreisförmig und konzentrisch um den Leiter angeordnet.
 [[ ]] Das Magnetfeld um einen stromdurchflossenen Leiter existiert nur, wenn der Strom sinusförmig wechselt.
 
+
+## Demonstrationsexperiment: Kräfte auf bewegte elektrische Ladungen in Magnetfeldern
+
+![FotoLorentzkraft](https://diversewolken.ddns.net/nextcloud/index.php/s/mLFceeEL2jP7BDC/download)
+
+## 6.2. Hand-Regel zur Richtungsbestimmung der Lorentzkraft
+
+!?[HandRegel](https://www.youtube.com/watch?v=snM3g4zWeNw)
+
+__Bemerkungen zur Lorentzkraft:__
+
+??[Lorentzkraft_LearningApps](https://learningapps.org/4454537)
+
+_Bitte schau dir zunächst dieses kleine Quiz zur Richtungsbestimmung der Lorentz-Kraft an._
+
+      [QuizZurLorentzkraftRichtung](https://www.leifiphysik.de/elektrizitaetslehre/bewegte-ladungen-feldern/aufgabe/quiz-zu-bewegten-ladungen-im-magnetfeld)
+
+      _Hinweis: Die magnetischen Feldlinien verlaufen vom @color(Nordpol, red) zum @color(Südpol, green)._
+
+## 6.3 Berechnung des magnetischen Feldes - Die magnetische Flussdichte B
+
+<p class="newspaper">
+
+__Elektrisches Feld__
+
+<p class="cb">
+
+__Magnetisches Feld__
+
+</p>
+
+</p>
+
+---
+
+<p class="newspaper">
+
+{{1}}
+********
+
+Die elektrische Feldstärke $E$ berechnet sich aus der Kraft $F$ auf eine elektrische Ladung $Q$.
+
+$$ \boxed{E = \frac{F_{el}}{Q}} $$
+
+- $F$: Elektrische Kraft [Newton, $N$]
+- $Q$: Ladung im Feld [Coulomb, $C$]
+
+> Hinweis: Das elektrische Feld ist eine vektorielle Größe $\vec{E}$, ebenso wie die Kraft $\vec{F_{el}}$. Kraft und Feld wirken entlang einer Linie.
+
+********
+
+<p class="cb">
+
+{{2}}
+********
+
+Die __magnetische Flussdichte__ $B$ beschreibt die Stärke und Richtung des magnetischen Feldes in einem Punkt. Sie wird definiert durch die Kraft auf eine bewegte Ladung oder einen stromdurchflossenen Leiter:
+
+$$ \boxed{B = \frac{F}{I \cdot l}}$$
+
+- $F$: Magnetische Kraft [Newton, $N$]
+- $I$: Stromstärke [Ampere, $A$]
+- $l$: Leiterlänge [Meter, $m$]
+
+> Hinweis: Die magnetische Flussdichte ist eine vektorielle Größe ($\vec{B}$), ebenso wie die Lorentzkraft $\vec{F_L}$. Die Richtungen von $\vec{B}$ bzw. $\vec{F}$ ergeben sich aus der Handregel.
+
+********
+
+</p>
+
+</p>
+
+---
+
+{{3}}
+********
+<p class="newspaper">
+
+__Einheit__: $$\Big[\dfrac{N}{C}=\dfrac{V}{m}\Big]$$
+
+<p class="cb">
+
+__Einheit__: [1 Tesla = 1 T]
+
+$$\Big[T=\dfrac{N}{A \cdot m}\Big]$$
+
+</p>
+
+</p>
+
+---
+********
+
+
+### 6.2.2 Übung: Berechnung der magnetischen Flussdichte
+
+#### Aufgabe 6.2.1
+Ein gerader Leiter mit einer Länge von 2 m wird von einem Strom von 5 A durchflossen. Er befindet sich in einem Magnetfeld mit einer Flussdichte $B$. Die magnetische Kraft auf den Leiter beträgt 0,5 N. Berechne $B$!
+
+@rangeQuiz2(B, 0.05, T)
+
+#### Aufgabe 6.2.2
+Ein stromdurchflossener Leiter (Länge $ℓ = 1,5 \, m$, Stromstärke $I = 3 \, A$) befindet sich in einem Magnetfeld mit $B = 0,2 \, T$. Berechne die magnetische Kraft $F$ auf den Leiter.
+
+@rangeQuiz2(F, 0.9, N)
+
+#### Aufgabe 6.2.3
+Ein Leiter der Länge $ℓ = 3 \, m$ und Stromstärke $I = 2 \, A$ erfährt eine magnetische Kraft von $F = 0,6 \, N$. Berechne die magnetische Flussdichte $B$.
+
+@rangeQuiz2(B, 0.1, T)
+
+#### Aufgabe 6.2.4 
+
+__Analyse von Änderungen__
+
+Ein stromdurchflossener Leiter befindet sich in einem Magnetfeld. Die Stromstärke $I$ wird verdoppelt, während die Leiterlänge $ℓ$ und die magnetische Flussdichte $B$ unverändert bleiben. Wie ändert sich die magnetische Kraft $F$?
+
+<!-- data-solution-button="off" -->
+[[ ]] Sie bleibt gleich.  
+[[x]] Sie verdoppelt sich.  
+[[ ]] Sie halbiert sich.  
+[[ ]] Sie vervierfacht sich. 
+
+---
+
+<!-- data-solution-button="off" -->
+Die magnetische Flussdichte $B$ wird auf das Doppelte erhöht, während Stromstärke $I$ und Leiterlänge $ℓ$ konstant bleiben. Was passiert mit der magnetischen Kraft $F$?
+
+[[ ]] Sie bleibt gleich.  
+[[ ]] Sie halbiert sich.  
+[[x]] Sie verdoppelt sich.  
+[[ ]] Sie vervierfacht sich.  
+
+
+

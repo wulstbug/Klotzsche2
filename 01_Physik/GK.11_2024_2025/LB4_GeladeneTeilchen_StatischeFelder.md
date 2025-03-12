@@ -542,7 +542,7 @@ $v = 216867,5 \frac{m}{s} \approx 2,17\cdot 10^5 \frac{m}{s}$
 !?[Fadenstrahlrohr](https://youtu.be/j5y64SPRnH0?si=MxXy0qlxifHUnRlz)
 
 
-## 1.1. Der Millikan-Versuch
+## 2.1. Der Millikan-Versuch
 
 _Tafelbildvideo zum Millikan-Versuch:_
 

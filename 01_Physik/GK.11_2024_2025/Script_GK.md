@@ -4509,7 +4509,7 @@ __Zugelassene Hilfsmittel:__ Formelsammlung, CAS
 
 ![Elektrisches Feld](https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/VFPt_charged_parallel_plates.svg/640px-VFPt_charged_parallel_plates.svg.png)
 
-## 1.1. Der Millikan-Versuch
+## 2.1. Der Millikan-Versuch
 
 _Tafelbildvideo zum Millikan-Versuch:_
 
