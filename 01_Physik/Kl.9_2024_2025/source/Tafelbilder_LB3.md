@@ -271,3 +271,7 @@ __Aufgabe:__ Ergänze die Bewegungsarten
 ## Bewegungsanalyse - Video
 
 !?[Telekolleg_bis_13:40](https://diversewolken.ddns.net/nextcloud/index.php/s/QycTfGXXTDPn2aa/download)
+
+## 3. 3. Zusammengesetzt gleichförmige Bewegungen
+
+??[Geogebra_Autofahrt](https://www.geogebra.org/m/hdkrad92)

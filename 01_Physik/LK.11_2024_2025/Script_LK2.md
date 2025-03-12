@@ -2659,7 +2659,9 @@ _Hinweis: Die folgenden Formen der magnetischen Felder solltest du im Hefter hab
 
 ---
 
-8. Durch welche Anordnung könnten die abgebildeten Magnetfelder erzeugt worden sein (siehe LB S. 124/Aufgabe 27).
+8. Durch welche Anordnung könnten die abgebildeten Magnetfelder erzeugt worden sein.
+
+![GK_Duden_S124_A20](https://diversewolken.ddns.net/nextcloud/index.php/s/gDybkgMkALZHmoq/download)
 
 a)
 
