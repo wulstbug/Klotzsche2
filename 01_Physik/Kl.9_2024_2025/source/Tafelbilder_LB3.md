@@ -272,6 +272,41 @@ __Aufgabe:__ Ergänze die Bewegungsarten
 
 !?[Telekolleg_bis_13:40](https://diversewolken.ddns.net/nextcloud/index.php/s/QycTfGXXTDPn2aa/download)
 
-## 3. 3. Zusammengesetzt gleichförmige Bewegungen
-
+## 3. 3. Geschwindigkeit
+{{0-1}}
+*******
 ??[Geogebra_Autofahrt](https://www.geogebra.org/m/hdkrad92)
+*******
+
+{{1}}
+**********
+> Definition: Wir definieren __Bewegung__ als Änderung des Ortes in einer bestimmten Zeit. Die __Geschwindigkeit__ gibt an, wie groß die Ortsänderung pro Zeiteinheit ist.
+>
+> Formelzeichen: $v$
+>
+> Einheit: $\hspace{1cm} \large{\Big[ \dfrac{m}{s} \Big] \hspace{1cm}\overset{\cdot 3,6}{\underset{:3,6}\rightleftarrows}  \hspace{1cm}\Big[ \dfrac{km}{h} \Big]}$
+>
+> Formel: $\hspace{1cm} \boxed{\large{v = \dfrac{\Delta s}{\Delta t}}}$
+**********
+
+---
+
+{{2}}
+**********
+<p class="newspaper">
+__Durchschnittsgeschwindigkeit $\bar{v}$__
+<p class="cb">
+__Momentangeschwindigkeit $v(t)$__
+</p>
+</p>
+**********
+
+{{3}}
+**********
+<p class="newspaper">
+Die Durchschnittsgeschwindigkeit gibt einen @color(Mittelwert,red) der Geschwindigkeit über den betrachteten Zeitraum an.
+<p class="cb">
+Momentangeschwindigkeit gibt die @color(__aktuellle__,red) Geschwindigkeit zu einem bestimmten Zeitpunkt t an.
+</p>
+</p>
+**********
