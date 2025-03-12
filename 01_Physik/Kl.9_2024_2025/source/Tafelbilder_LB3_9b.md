@@ -229,6 +229,10 @@ __Aufgabe:__ Ergänze die Bewegungsarten
     [( )] gleichmäßig beschleunigte Bewegung
 
 
+### Übung zur zusammengesetzt gleichförmigen Bewegung
+
+??[Moodle_Übung_Zusammengesetzte_Gleichförmige_Bewegungen](https://diversewolken.ddns.net/moodle/mod/quiz/view.php?id=561)
+
 ## 3. 3. Geschwindigkeit
 
 [Geogebra_Autofahrt](https://www.geogebra.org/m/hdkrad92)

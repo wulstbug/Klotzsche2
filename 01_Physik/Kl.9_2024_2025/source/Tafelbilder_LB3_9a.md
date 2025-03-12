@@ -228,6 +228,10 @@ __Aufgabe:__ Ergänze die Bewegungsarten
     [(X)] gleichförmige Bewegung
     [( )] gleichmäßig beschleunigte Bewegung
 
+### Übung zur zusammengesetzt gleichförmigen Bewegung
+
+[Moodle_Übung_Zusammengesetzte_Gleichförmige_Bewegungen](https://diversewolken.ddns.net/moodle/mod/quiz/view.php?id=562)
+
 
 ## 3. 3. Geschwindigkeit
 
@@ -276,5 +280,5 @@ Link zum [Arbeitsblatt](https://diversewolken.ddns.net/nextcloud/index.php/s/S4z
 
 Löse die Aufgaben auf dem Arbeitsblatt. Vergleich deine Lösungen dann mit den Aufgaben bei Moodle.
 
-[Moodle_EineRealistischeAutofahrt](https://diversewolken.ddns.net/moodle/mod/quiz/view.php?id=558)
+[Moodle_EineRealistischeAutofahrt_2](https://diversewolken.ddns.net/moodle/mod/quiz/view.php?id=558)
 

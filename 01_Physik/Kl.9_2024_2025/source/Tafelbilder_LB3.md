@@ -274,12 +274,19 @@ Bis 12:00
 
 !?[Telekolleg_bis_13:40](https://diversewolken.ddns.net/nextcloud/index.php/s/QycTfGXXTDPn2aa/download)
 
-## 3. 3. Geschwindigkeit
-{{0-1}}
-*******
-??[Geogebra_Autofahrt](https://www.geogebra.org/m/hdkrad92)
-*******
+### Übung zur zusammengesetzt gleichförmigen Bewegung
 
+??[Geogebra_Autofahrt](https://www.geogebra.org/m/hdkrad92)
+
+---
+
+{{1}}
+*************
+??[Moodle_Übung_Zusammengesetzte_Gleichförmige_Bewegungen](https://diversewolken.ddns.net/moodle/mod/quiz/view.php?id=562)
+*************
+
+
+## 3. 3. Geschwindigkeit
 {{1}}
 **********
 > Definition: Wir definieren __Bewegung__ als Änderung des Ortes in einer bestimmten Zeit. Die __Geschwindigkeit__ gibt an, wie groß die Ortsänderung pro Zeiteinheit ist.
