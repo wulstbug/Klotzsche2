@@ -270,6 +270,8 @@ __Aufgabe:__ Ergänze die Bewegungsarten
 
 ## Bewegungsanalyse - Video
 
+Bis 12:00
+
 !?[Telekolleg_bis_13:40](https://diversewolken.ddns.net/nextcloud/index.php/s/QycTfGXXTDPn2aa/download)
 
 ## 3. 3. Geschwindigkeit
@@ -305,8 +307,55 @@ __Momentangeschwindigkeit $v(t)$__
 **********
 <p class="newspaper">
 Die Durchschnittsgeschwindigkeit gibt einen @color(Mittelwert,red) der Geschwindigkeit über den betrachteten Zeitraum an.
+
+{{5}}
+******
+> Die Durchschnittsgeschwindigkeit wird mit der Formel $v = \frac{\Delta s}{\Delta t}$ für beliebiges Zeitintervall $\Delta t$ (z.B. für die gesamte Fahrt).
+******
 <p class="cb">
 Momentangeschwindigkeit gibt die @color(__aktuellle__,red) Geschwindigkeit zu einem bestimmten Zeitpunkt t an.
+
+{{6}}
+******
+> Die Momentangeschwindigkeit wird mit der Formel $v = \frac{\Delta s}{\Delta t}$ für ein sehr kleines Zeitintervall $\Delta t$ berechnet.
+******
 </p>
 </p>
 **********
+
+{{4-5}}
+**********
+Ab: 11:00
+
+!?[Telekolleg_bis_13:40](https://diversewolken.ddns.net/nextcloud/index.php/s/QycTfGXXTDPn2aa/download)
+**********
+
+### Übung: Eine realistische Autofahrt
+
+{0-1}{![0](https://diversewolken.ddns.net/nextcloud/index.php/s/E3qZoZqZrAteJ8P/download)}
+
+{1-2}{![1](https://diversewolken.ddns.net/nextcloud/index.php/s/kXtSMWDKiAJ2RQt/download)}
+
+{2-3}{![2](https://diversewolken.ddns.net/nextcloud/index.php/s/NdBgcyXZfJnsxaz/download)}
+
+{3-4}{![3](https://diversewolken.ddns.net/nextcloud/index.php/s/Py3SJjkc6sSTgkY/download)}
+
+{4-5}{![4](https://diversewolken.ddns.net/nextcloud/index.php/s/XpMWtHsK2H8B7nR/download)}
+
+{5-6}{![5](https://diversewolken.ddns.net/nextcloud/index.php/s/76zKEaeqPrMgA6K/download)}
+
+{6-7}{![6](https://diversewolken.ddns.net/nextcloud/index.php/s/fc7mWYL4CXTqNAd/download)}
+
+{7-8}{![7](https://diversewolken.ddns.net/nextcloud/index.php/s/tkMAS53nT4WDjKT/download)}
+
+{8}{![8](https://diversewolken.ddns.net/nextcloud/index.php/s/7LXaxmwTBorb4cj/download)}
+
+{{9}}
+********
+Link zum [Arbeitsblatt](https://diversewolken.ddns.net/nextcloud/index.php/s/S4zs3zybdcyf4Fx)
+
+Löse die Aufgaben auf dem Arbeitsblatt. Vergleich deine Lösungen dann mit Moodle.
+
+??[Moodle_EineRealistischeAutofahrt](https://diversewolken.ddns.net/moodle/mod/quiz/view.php?id=557)
+
+********
