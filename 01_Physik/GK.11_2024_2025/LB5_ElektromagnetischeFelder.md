@@ -202,6 +202,8 @@ $E_{pot.,el.} = E_{el} \cdot q \cdot d \overset{E_{el}=\frac{U}{d}}{=} U \cdot q
 
 </p>
 
+---
+
 1. 2. Ermittle die Geschwindigkeit $v_2$ solcher Elektronen an der Öffnung C, welche die Katodenoberfläche in Richtung C mit der kinetischen Energie $E_{kin} = 3,2 \cdot 10^{-17} Ws$ verlassen.
 
 <p style="margin-left:10%">
@@ -226,7 +228,9 @@ __Lösungsüberprüfung:__
 
 </details>
 
-</p>
+</p> 
+
+---
 
 1. 3. __Partnerübung:__ Die Elektronen treten nach der Öffnung C in den Bereich elektrisches/magnetisches Feld ein. Begründen Sie, dass die Kräfte, die auf ein bewegtes Elektron unter dem Einfluss beider Felder wirken, unterschiedliche Richtungen haben.
 
@@ -252,6 +256,8 @@ linken-Hand-Regel bestimmt und zeigt nach oben.
 
 </p>
 
+---
+
 1. 4. Stellen Sie eine Gleichung zur Berechnung des Betrages (des Wertes) der Gesamtkraft auf, wenn bekannt ist, dass sich die Einzelkräfte in der Richtung unterscheiden. (Die Gewichtskraft wird vernachlässigt).
 
 
@@ -276,6 +282,8 @@ $F_{ges} = E_{el} \cdot q - q \cdot v \cdot B $
 </details>
 
 </p>
+
+---
 
 1. 5. Berechnen Sie die notwendige elektrische Feldstärke, damit die Elektronen, die an der Oberfläche der Kathode keine kinetische Energie hatten, die Anordnung geradlinig durchfliegen.
 
@@ -331,6 +339,164 @@ Plattenkondensators der Breite 8,0 cm und der
 Länge 10,0 cm ein. An den Plattenkondensator wird eine Spannung
 von 12 kV angelegt.
 
-2. 1. Leiten Sie eine Gleichung für die Elektronenbahn im Feld her.
+2. 1. __Partnerübung*:__ Nennen Sie die Art der Flugbahn der Elektronen. Leiten Sie eine Gleichung für die Elektronenbahn im Feld her.
 
-2. 2. Ermitteln Sie die Eintrittsgeschwindigkeit $v_0$, bei welcher die Elektronen genau die hinteren Rand der Platte erreichen.
+<p style="margin-left:10%">
+
+<details style="margin-left:10%">
+
+<summary> __Hinweise zur Lösungfindung__ </summary>
+
+Auf die Elektronen wirkt die elektrische Kraft immer senkrecht zur den Kondensatorplatten, hier senkrecht nach oben. Das elektrische Feld ist homogen, demzufolge ist die elektrische Kraft konstant.
+
+Dieser Effekt ist ähnlich dem horizontalen Wurf eines Körpers (nur nach oben statt nach unten). 
+
+</details>
+
+<details style="margin-left:10%">
+
+<summary> __Hinweise zur Bahnform__ </summary>
+
+In horizontaler Richtung (x-Richtung) wirkt keine Kraft auf das Elektron. Nach dem 1. Newton'schen Gesetz ist die Bewegung in x-Richtung daher __gleichförmig__.
+
+In vertikaler Richtung (y-Richtung) wirkt auf das Elektron die konstante elektrische Kraft. Daher führt es in dieser Richtung nach dem zweiten Newton'schen Gesetz eine __gleichmäßig beschleunigte Bewegung__ aus.
+
+</details>
+
+<details style="margin-left:10%">
+
+<summary> __Hinweise zu Bewegungsgleichungen__ </summary>
+
+In horizontaler Richtung (x-Richtung): 
+
+$x(t) = v_0 \cdot t$
+
+In vertikaler Richtung (y-Richtung): 
+
+$y(t) = \frac{1}{2} \cdot a \cdot t^2 $ wobei $a=\frac{F_{el}}{m}$
+
+Ermitteln Sie nun die Wurfparabel $y(x)$. Stellen Sie dazu $x(t)$ nach der Größe $t$ um und setzen Sie diese in die Gleichung $y(t)$ ein.
+
+</details>
+
+<details style="margin-left:10%">
+
+<summary> __Lösungsweg__ </summary>
+
+Bewegungsgleichungen:
+
+$x(t) = v_0 \cdot t$
+
+$y(t) = \frac{1}{2} \cdot \frac{F_{el}}{m_e} \cdot t^2 $
+
+Stelle $x(t)$ nach $t$ um: 
+
+$t = \frac{x}{v_0}$
+
+Setze $t$ in $y(t)$ ein, es ergibt sich die Wurfparabel y(x):
+
+$ y(x) = \frac{1}{2} \cdot \frac{F_{el}}{m_e} \cdot \frac{x^2}{v_0^2}$
+
+Die elektrische Kraft $F_{el}= \frac{U}{b} \cdot q_e$, wobei b der Plattenabstand des Kondensators ist. Setzt man das noch in y(x) ein, so ergibt sich
+
+$ y(x) = \frac{1}{2} \cdot \frac{U\cdot q_e}{b\cdot m_e} \cdot \frac{x^2}{v_0^2}$
+
+</details>
+
+<details style="margin-left:10%">
+
+<summary> __Lösung__ </summary>
+
+$ \boxed{y(x) = \frac{1}{2} \cdot \frac{U\cdot q_e}{b\cdot m_e \cdot v_0^2} \cdot x^2}$
+
+Dies ist die Gleichung für eine Parabel. Die Größen im Bruch sind alle gegeben, es gilt y~x2.
+
+</details>
+
+</p>
+
+---
+
+2. 2. Ermitteln Sie die Eintrittsgeschwindigkeit $v_0$, bei welcher die Elektronen genau die hinteren Rand der Platte erreichen. 
+
+
+<p style="margin-left:10%">
+
+@rangeQuiz2($v_0$, 5.74e7 , $\frac{m}{s}$)
+
+<details style="margin-left:10%">
+
+<summary> __Hinweise zur Lösungfindung__ </summary>
+
+Nutzen Sie die Lösung aus 2.1. Verwenden Sie die Bahnform. Legen Sie ein _geeignetes_ Koordinatensystem fest und überprüfen Sie, welche Korrdinaten die obere rechte Ecke des Kondensators hat.
+
+</details>
+
+<details style="margin-left:10%">
+
+<summary> __Hinweise zum Koordinatensystem__ </summary>
+
+Ein geeignetes Koordinatensystem wäre mit dem Ursprung am Eintrittsort des Elektrons in den Plattenkondensator (in der Abbildung der rote Punkt).
+
+Die rechte obere Ecke des Kondensators wäre dann bei x=10cm und y=4cm.
+
+</details>
+
+<details style="margin-left:10%">
+
+<summary> __Lösungsweg: Hinweise zur Nutzung der Gleichung y(x) __ </summary>
+
+Die obere rechte Ecke des Kondensators besitzt die Koordinate (0,1 m | 0,04 m). Für die Bahngleichung (Wurfparabel) des Elektrons gilt:
+
+$y(x) = \frac{1}{2} \cdot \frac{U\cdot q_e}{b\cdot m_e \cdot v_0^2} \cdot x^2$
+
+Mit $y=0,04m$ und $x=0,1m$. Stellt man die Gleichung nach $v_0$ um, so ergibt sich:
+
+$v_0 = \sqrt{\frac{1}{2} \cdot \frac{U\cdot q_e}{b\cdot m_e \cdot y}}\cdot x$
+
+</details>
+
+<details style="margin-left:10%">
+
+<summary> __Lösung__ </summary>
+
+geg.: 
+
+<p style="margin-left:10%">
+
+$x=0,1m$
+
+$y=0,04m$
+
+$U=12\cdot10^3 V$
+
+$|q_e|=1,602\cdot10^{-19}C$
+
+$m_e=9,11\cdot10^{-31}kg$
+
+$b=0,08 m$
+
+</p>
+
+ges.: $v_0$
+
+Lsg.: _(Herleitung siehe Lösungsweg)_
+
+$ v_0 = \sqrt{\frac{1}{2} \cdot \frac{U\cdot q_e}{b\cdot m_e \cdot y}}\cdot x$
+
+$v_0 = 5,74 \cdot 10^7 \frac{m}{s}$
+
+</details>
+
+</p>
+
+
+---
+
+2. 3. __Partnerübung:__ Beschreiben Sie die Bewegung der Elektronen, wenn die Geschwindigkeit $v_0$ größer als der in 2.2. ermittelte Wert ist.
+
+---
+
+Zwischen den Kondensatorplatten soll dem elektrischen Feld ein homogenes Magnetfeld so überlagert werden, dass die Elektronen der Geschwindigkeit $1,8\cdot 10^7 \frac{m}{s}$ die Anordnung unabgelenkt durchfliegen.
+
+2. 4. __Partnerübung:__ Ermitteln Sie die Orientierung des Magnetfeldes. Begründen Sie Ihre Aussage.
