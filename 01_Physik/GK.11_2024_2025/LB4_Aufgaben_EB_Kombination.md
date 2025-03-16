@@ -102,7 +102,14 @@ try {
 
 -->
 
-# Grundkurs Physik 2024/2025 - LB V - Elektromagnetische Felder
+
+## 3. Übungen zur Kombination aus statischen E- und B-Feld
+
+@color(Löse aus den folgenden Aufgaben die __Grundlagen__ und wähle __eine__ der beiden Aufgaben I oder II., blue)
+
+_Hinweis: Es gibt einige Aufgaben die als **Partnerübung** gekennzeichnet sich. Hier empfiehlt es sichin einer kleinen Gruppe zu arbeiten._ <br>
+
+@color(-> Eine Person stellt die Frage und schaut sich die Lösung an. Die andere Person beantwortet die Frage und wird unterstützt., blue)
 
 ### Grundlagen
 
