@@ -1,0 +1,336 @@
+<!--
+author: Christian Golnik
+
+language: de
+
+@style
+.lia-effect__circle {
+    display: none !important;
+}
+
+@media (min-width: 600px) {
+    .newspaper {
+        column-count: 2;
+        column-gap: 40px;
+        column-rule: 1px solid lightblue;
+    }
+    .newspaper3 {
+        column-count: 3;
+        column-gap: 20px;
+        column-rule: 1px solid lightblue;
+    }
+}
+
+h1, h2, h3, h4, h5, h6 {
+  column-span: all;
+}
+
+.cb {
+    break-before: column;
+}
+
+.blue {
+    color:blue
+}
+
+.green {
+    color:darkgreen
+}
+
+.red {
+    color:darkgreen
+}
+@end
+
+@color
+<bdi style="color:@1">@0</bdi>
+@end
+
+@onload
+window.LIA.settings.font_size = 2
+@end
+
+@rangeQuiz2
+<div style="display: flex;flex-direction: row;flex-wrap: nowrap">
+<div style="float:left">
+@0$\ =\ $
+</div> 
+<div style="float:left">
+<!-- data-solution-button="off" -->
+[[ @1 ]]
+<script>
+let input = "@input".replace(",", ".")
+try {
+    input = Math.abs(eval(input)-@1)/Math.abs(@1)
+    input <= 0.03
+} catch (e) {
+    false
+}
+</script>
+</div> 
+<div style="float:left">
+@2
+</div>
+</div>
+@end
+
+@rangeQuiz20
+<div style="display: flex;flex-direction: row;flex-wrap: nowrap">
+<div style="float:left">
+@0 = 
+</div> 
+<div style="float:left">
+<!-- data-solution-button="off" -->
+[[ @1 ]]
+<script>
+let input = "@input".replace(",", ".")
+try {
+    input = Math.abs(eval(input)-@1)/Math.abs(@1)
+    input <= 0.2
+} catch (e) {
+    false
+}
+</script>
+</div> 
+<div style="float:left">
+@2
+</div>
+</div>
+@end
+
+@@@ ogy.de/11ph3 deaktivieren: https://ogy.de/del.cvv2y5l7old0u7gamlc1
+
+-->
+
+# Grundkurs Physik 2024/2025 - LB V - Elektromagnetische Felder
+
+### Grundlagen
+
+1. Notiere die Ladung des Elektrons, die Masse eines Protons, die Ladung und Masse eines Alpha-Teilchens
+
+<p style="margin-left:10%">
+
+<details>
+
+<summary> Hinweis zur Lösung </summary>
+
+Nutze die Formelsammlung unter der Rubrik: _Tabellierte Werte_
+
+</details>
+
+---
+
+@rangeQuiz2($q_e$, -1.602e-19 , $C$)
+
+@rangeQuiz2($m_p$, 1.67e-27, $kg$)
+
+@rangeQuiz2($q_\alpha$, 3.204e-19 , $C$)
+
+@rangeQuiz2($m_\alpha$, 6.64e-27, $kg$)
+
+</p>
+
+2. __Partnerübung__ 
+
+2. 1. Definiere den Begriff homogenes Feld.
+
+<details style="margin-left:10%">
+
+<summary> Lösung </summary>
+
+Ein homogenes Feld hat an jedem Ort (d.h. an jeder Stelle im Raum) den gleichen Wert (z.B. Feldstärke).
+
+</details>
+
+2. 2. Definiere den Begriff statisches Feld.
+
+<details style="margin-left:10%">
+
+<summary> Lösung </summary>
+
+Ein statisches Feld ist zeitlich konstant, d.h. es verändert sich mit der Zeit nicht.
+
+</details>
+
+### Übungsaufgabe I
+
+1. ![Geschwindigkeitsfilter](https://diversewolken.ddns.net/nextcloud/index.php/s/PfptPJcdpDkjDNX/download) (85) Elektronen treten aus einer Glühkathode K aus und werden durch ein Feld zwischen ihr und der Anode A (Spannung zwischen K und A beträgt U = 500,0 V) zu letzterer hin beschleunigt. Durch die Öffnung C in der Anode treten Elektronen in den Raum ein, in dem zwei Felder wirken:
+
+- ein elektrisches Feld mit der elektrischen Feldstärke E = konst. > 0, dessen Feldlinien parallel zur Zeichenebene verlaufen (in der Skizze weggelassen), und 
+
+- ein magnetisches Feld mit der magnetischen Flussdichte B = 0,012 T, dessen Feldlinien senkrecht aus der Zeichenebene heraus verlaufen (in der Skizze punktförmig dargestellt).
+
+1. 1. Ermittle die Geschwindigkeit $v_1$ derjenigen Elektronen, die an der Oberfläche der Kathode keine kinetische Energie hatten, wenn Sie an der Öffnung C ankommen.
+
+<p style="margin-left:10%">
+
+__Lösungsüberprüfung:__
+
+@rangeQuiz2($v_1$, 13.3e6 ,$\frac{m}{s}$)
+
+<details>
+
+<summary> __Hinweis zur Lösung__ </summary>
+
+Hier kann man die kinetische Energie, die die Elektronen dazu gewinnen gleich der potentiellen Energie der Ladung im elektrischen Feld gleichsetzen.
+
+<details style="margin-left:10%">
+
+<summary> __Hinweis zu Formeln__ </summary>
+
+Die kinetische Energie findet sich in der Formelsammlung. Die potentielle elektrische Energie wurde in Lernbereich II (elektrisches Feld) hergeleitet.
+
+<details style="margin-left:10%">
+
+<summary> _pot. elektr. Energie_ </summary>
+
+$E_{pot.,el.} = E_{el} \cdot q \cdot d \overset{E_{el}=\frac{U}{d}}{=} U \cdot q$
+
+</details>
+
+</details>
+
+</details>
+
+<details>
+
+<summary> __Lösung__ </summary>
+
+![85_Lsg_a](https://diversewolken.ddns.net/nextcloud/index.php/s/r9LweMS7dLMSWPk/download)
+
+</details>
+
+</p>
+
+1. 2. Ermittle die Geschwindigkeit $v_2$ solcher Elektronen an der Öffnung C, welche die Katodenoberfläche in Richtung C mit der kinetischen Energie $E_{kin} = 3,2 \cdot 10^{-17} Ws$ verlassen.
+
+<p style="margin-left:10%">
+
+__Lösungsüberprüfung:__
+
+@rangeQuiz2($v_2$, 15.7e6 ,$\frac{m}{s}$)
+
+<details style="margin-left:10%">
+
+<summary> __Hinweise zur Lösung__ </summary>
+
+Ähnlich zu a) muss hier zur potentiellen elektrischen Energie der Ladung noch die kinetische Energie der Anfangsgeschwindigkeit addiert werden. Dann wieder Energien gleichsetzen und auflösen.
+
+</details>
+
+<details style="margin-left:10%">
+
+<summary> __Lösung__ </summary>
+
+![85_Lsg_b](https://diversewolken.ddns.net/nextcloud/index.php/s/SGpjarRsK859zkA/download)
+
+</details>
+
+</p>
+
+1. 3. __Partnerübung:__ Die Elektronen treten nach der Öffnung C in den Bereich elektrisches/magnetisches Feld ein. Begründen Sie, dass die Kräfte, die auf ein bewegtes Elektron unter dem Einfluss beider Felder wirken, unterschiedliche Richtungen haben.
+
+<p style="margin-left:10%">
+
+<details style="margin-left:10%">
+
+<summary> __Hinweise zur Lösung__ </summary>
+
+Auf die Elektronen wirken sowohl die elektrische Kraft, als auch die magnetische Kraft (_Lorentzkraft_). Überprüfen Sie für beide Kräfte die Kraftrichtung.
+
+</details>
+
+<details style="margin-left:10%">
+
+<summary> __Lösung__ </summary>
+
+- die Kraft des elektrischen Feldes wirkt aufgrund der negativen Ladung des Elektrons und der Polung des Kondensators nach unten. 
+- das magnetische Feld wirkt senkrecht zur Geschwindigkeit des Elektrons (_Lorentzkraft_), die Richtung wird mit der
+linken-Hand-Regel bestimmt und zeigt nach oben.
+
+</details>
+
+</p>
+
+1. 4. Stellen Sie eine Gleichung zur Berechnung des Betrages (des Wertes) der Gesamtkraft auf, wenn bekannt ist, dass sich die Einzelkräfte in der Richtung unterscheiden. (Die Gewichtskraft wird vernachlässigt).
+
+
+<p style="margin-left:10%">
+
+<details style="margin-left:10%">
+
+<summary> __Hinweise zur Lösung__ </summary>
+
+Ermitteln Sie mit Hilfe der Formelsammlung die Formel für die elektrische Kraft innerhalb eines Plattenkondensators und Formel für die Lorentzkraft.
+
+</details>
+
+<details style="margin-left:10%">
+
+<summary> __Lösung__ </summary>
+
+$F_{ges} = F_{el} - F_L $
+
+$F_{ges} = E_{el} \cdot q - q \cdot v \cdot B $
+
+</details>
+
+</p>
+
+1. 5. Berechnen Sie die notwendige elektrische Feldstärke, damit die Elektronen, die an der Oberfläche der Kathode keine kinetische Energie hatten, die Anordnung geradlinig durchfliegen.
+
+<p style="margin-left:10%">
+
+__Lösungsüberprüfung:__
+
+@rangeQuiz2($E_{el}$, 159.1e3 ,$\frac{V}{m}$)
+
+<details style="margin-left:10%">
+
+<summary> __Hinweise zur Lösung__ </summary>
+
+Überlegen Sie, unter welcher Bedingung die Elektronen keine Ablenkung erfahren (d.h. geradlinig weiter fliegen).
+
+<details style="margin-left:10%">
+
+<summary> __Hinweise zu Kräften__ </summary>
+
+Keine Ablenkung erfolgt, wenn die Gesamtkraft (siehe 1.4.) gleich Null ist. Setzen Sie diese Gleichung gleich Null und ermitteln Sie daraus den Wert für $E_{el}$.
+
+</details>
+
+</details>
+
+<details style="margin-left:10%">
+
+<summary> __Lösung__ </summary>
+
+$0 = F_{el} - F_L $
+
+$ E_{el} \cdot q = q \cdot v \cdot B \Big| :q$
+
+$ E_{el} = v \cdot B $
+
+$ E_{el} = 13,3\cdot10^{6} \frac{m}{s} \cdot 0,012 T \hspace{0.5cm} \Big[ \frac{m\cdot V\cdot s}{s\cdot m^2} \Big]$
+
+$ E_{el} = 159,1 \cdot 10^{3} \frac{V}{m} $
+
+Alle Elektronen mit der oben berechneten Geschwindigkeit fliegen geradlinig durch die gekreuzten Felder hindurch. Alle anderen werden nach oben oder unten abgelenkt.
+
+Damit wirkt eine solche Anordnung als Geschwindigkeitsfilter für geladene Teilchen und wird z.B. beim Massenspektrographen 
+eingesetzt. Die Masse der Teilchen spielt dabei keine Rolle.
+
+</details>
+
+</p>
+
+### Übungsaufgabe II
+
+![Nr262_ElektronenbahnImElektrischenFeld.png](https://diversewolken.ddns.net/nextcloud/index.php/s/MMoMF6oKAeALQHs/download) Aus einer Elektronenquelle treten die Elektronen mit einer Geschwindigkeit $v_0$ senkrecht in das homogene elektrische Feld eines
+Plattenkondensators der Breite 8,0 cm und der
+Länge 10,0 cm ein. An den Plattenkondensator wird eine Spannung
+von 12 kV angelegt.
+
+2. 1. Leiten Sie eine Gleichung für die Elektronenbahn im Feld her.
+
+2. 2. Ermitteln Sie die Eintrittsgeschwindigkeit $v_0$, bei welcher die Elektronen genau die hinteren Rand der Platte erreichen.
