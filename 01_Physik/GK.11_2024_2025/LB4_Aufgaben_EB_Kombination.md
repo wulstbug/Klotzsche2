@@ -495,8 +495,126 @@ $v_0 = 5,74 \cdot 10^7 \frac{m}{s}$
 
 2. 3. __Partnerübung:__ Beschreiben Sie die Bewegung der Elektronen, wenn die Geschwindigkeit $v_0$ größer als der in 2.2. ermittelte Wert ist.
 
+
+<details style="margin-left:10%">
+
+<summary> __Lösung__ </summary>
+
+Ist $v_0$ größer, fliegen sie über die Kondensatorplatten hinweg. Durch die größere Geschwindigkeit ist weniger Zeit, sie zu der Platte _hin zu lenken_. Stellt man die Bahnkurve nach x um, ist x~v2. Eine größere Geschwindigkeit bedeutet bei gleichem y, also Plattenabstand, ein größeres x.
+
+</details>
+
 ---
 
 Zwischen den Kondensatorplatten soll dem elektrischen Feld ein homogenes Magnetfeld so überlagert werden, dass die Elektronen der Geschwindigkeit $1,8\cdot 10^7 \frac{m}{s}$ die Anordnung unabgelenkt durchfliegen.
 
 2. 4. __Partnerübung:__ Ermitteln Sie die Orientierung des Magnetfeldes. Begründen Sie Ihre Aussage.
+
+<details style="margin-left:10%">
+
+<summary> __Lösungshinweis__ </summary>
+
+Überprüfen Sie die Richtung der elektrischen Kraft. Die Lorentzkraft muss der elektrischen Kraft entgegen gerichtet sein.
+
+Überlegen Sie, welche Hand man für die Bestimmung der Lorentzkraft auf Elektronen nutzen muss.
+
+Nutzen Sie die Drei-Finger-Regel um die Richtung des magnetischen Feldes zu bestimmen.
+
+</details>
+
+<details style="margin-left:10%">
+
+<summary> __Lösung__ </summary>
+
+Die elektrische Kraft auf die Elektronen wirkt nach oben. Demzufolge muss die Lorentzkraft nach unten wirken. Nutzt man die Drei-Finger-Regel mit der linken Hand (Daumen=Elektronenbewegung; Zeigefinger=Magnetfeld; Mittelfinger=Kraftrichtung [nach unten]) so ergibt sich, dass das Magnetfeld in die Tafelebene hinein zeigen muss.
+
+</details>
+
+---
+
+2. 5. __Partnerübung:__ Zeigen Sie, dass der Betrag der magnetischen Flussdichte 8,3 mT sein muss.
+
+<details style="margin-left:10%">
+
+<summary> __Lösungshinweis__ </summary>
+
+Stellen Sie die Gleichung für die elektrische Kraft und die Lorentzkraft auf. Setzen Sie beide Kräfte gleich. Stellen Sie die Gleichung nach der magnetischen Flussdichte $B$ um.
+
+</details>
+
+<details style="margin-left:10%">
+
+<summary> __Kräftegleichungen__ </summary>
+
+Für die elektrische Kraft gilt:
+
+<p style="margin-left:10%">
+
+$F_{el} = E_{el} \cdot q_e$
+
+Die elektrische Feldstärke $E_{el}$ in einem Plattenkondensator errechnet man mit 
+
+$E_{el} = \frac{U}{d}$ mit d .. Plattenabstand.
+
+Daher ist
+
+$F_{el} = \frac{U}{d} \cdot q_e$
+
+</p>
+
+Für die Lorentzkraft $F_L$ gilt:
+
+<p style="margin-left:10%">
+
+$F_L = q_e \cdot v \cdot B$
+
+</p>
+
+</details>
+
+<details style="margin-left:10%">
+
+<summary> __Lösung__ </summary>
+
+Setzt man die elektrische Kraft gleich der Lorentzkraft so ergibt sich
+
+$F_{el} = F_L$
+
+$ \frac{U}{d} \cdot q_e = q_e \cdot v \cdot B$
+
+Diese Gleichung muss noch nach B umgestellt werden.
+
+$\boxed{B= \frac{U}{v\cdot d}}$
+
+Setzt man die gegebenen Wert $U=12\cdot10^3 V$, $v=1,8\cdot10^7\frac{m}{s}$ und $d=0,08m$ ein, so ergibt sich
+
+$B = 0,0083 T$
+
+</details>
+
+---
+
+
+2. 6. Erklären Sie, in welche Richtung Elektronen mit einer kleineren Geschwindigkeit unmittelbar nach dem Einschuss in den Feldbereich abgelenkt werden.
+
+<details style="margin-left:10%">
+
+<summary> __Lösung__ </summary>
+
+Wenn die Elektronen langsamer fliegen, ändert sich die elektrische Kraft nicht. Die magnetische Kraft (_Lorentzkraft_) wird jedoch geringer, so dass die Elektronen nach oben abgelenkt werden.
+
+</details>
+
+---
+
+Nun wird die Ablenkspannung ausgeschaltet, so dass nur noch das magnetische Feld vorhanden ist.
+
+2. 7. *Ermitteln Sie minimale Eintrittsgeschwindigkeit der Elektronen in das magnetische Feld, damit Sie den Feldbereich wieder verlassen, ohne auf eine Kondensatorplatte zu treffen.<br>_Hinweis: Hier müssen zur Vollständigkeit zwei Fälle betrachtet werden._
+
+<details style="margin-left:10%">
+
+<summary> __Lösung__ </summary>
+
+![262_Lsg_f](https://diversewolken.ddns.net/nextcloud/index.php/s/qNeT5R6rQDm5DQ7/download)
+
+</details>
