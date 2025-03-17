@@ -2801,24 +2801,24 @@ $$\Big[T=\dfrac{N}{A \cdot m}\Big]$$
 ********
 
 
-### 6.2.2 Übung: Berechnung der magnetischen Flussdichte
+### 6.3.2 Übung: Berechnung der magnetischen Flussdichte
 
-#### Aufgabe 6.2.1
+#### Aufgabe 6.3.1
 Ein gerader Leiter mit einer Länge von 2 m wird von einem Strom von 5 A durchflossen. Er befindet sich in einem Magnetfeld mit einer Flussdichte $B$. Die magnetische Kraft auf den Leiter beträgt 0,5 N. Berechne $B$!
 
 @rangeQuiz2(B, 0.05, T)
 
-#### Aufgabe 6.2.2
+#### Aufgabe 6.3.2
 Ein stromdurchflossener Leiter (Länge $ℓ = 1,5 \, m$, Stromstärke $I = 3 \, A$) befindet sich in einem Magnetfeld mit $B = 0,2 \, T$. Berechne die magnetische Kraft $F$ auf den Leiter.
 
 @rangeQuiz2(F, 0.9, N)
 
-#### Aufgabe 6.2.3
+#### Aufgabe 6.3.3
 Ein Leiter der Länge $ℓ = 3 \, m$ und Stromstärke $I = 2 \, A$ erfährt eine magnetische Kraft von $F = 0,6 \, N$. Berechne die magnetische Flussdichte $B$.
 
 @rangeQuiz2(B, 0.1, T)
 
-#### Aufgabe 6.2.4 
+#### Aufgabe 6.3.4 
 
 __Analyse von Änderungen__
 
