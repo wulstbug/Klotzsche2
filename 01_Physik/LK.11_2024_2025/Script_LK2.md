@@ -2904,18 +2904,23 @@ $$ \boxed{E = \dfrac{U}{d}} $$
 
 <bdi style="color:blue">__Löse die folgenden Aufgaben, indem du die gegebene Formel zur _langen Spule_ anwendest__.</bdi>
 
+---
 
-#### Aufgabe 6.4.1  
+__Aufgabe 6.4.1 __ 
+
 Eine Spule hat $N = 800$ Windungen und eine Länge von $ℓ = 0,4 \, m$. Sie wird von einem Strom mit $I = 3 \, A$ durchflossen. Die Spule ist luftgefüllt ($\mu_r = 1$). Berechne die magnetische Flussdichte $B$ im Inneren der Spule.  
 
 @rangeQuiz2(B, 0.00754, T)
 
-#### Aufgabe 6.4.2  
+---
+
+__Aufgabe 6.4.2__
+
 Eine Spule mit $N = 500$ Windungen und $ℓ = 0,5 \, m$ erzeugt eine magnetische Flussdichte von $B = 2,51 \, mT$. Berechne die Stromstärke $I$, die durch die Spule fließt.  
 
 @rangeQuiz2(I, 2, A)
 
-#### Aufgabe 6.4.3  
+__Aufgabe 6.4.3__  
 
 Eine Spule hat $N = 1000$ Windungen und eine Länge von $ℓ = 1 \, m$. Der Strom beträgt $I = 4 \, A$. Wie verändert sich die magnetische Flussdichte $B$, wenn: 
 
@@ -2929,7 +2934,7 @@ Eine Spule hat $N = 1000$ Windungen und eine Länge von $ℓ = 1 \, m$. Der Stro
 [[ ]] 1. Bleibt gleich, 2. halbiert sich, 3. verringert sich auf ein Viertel.  
 [[ ]] 1. Verringert sich, 2. bleibt gleich, 3. bleibt gleich.
 
-#### Aufgabe 6.4.4  
+__Aufgabe 6.4.4__
 
 Eine luftgefüllte Spule hat $N = 1000$ Windungen, $ℓ = 0,8 \, m$ und $I = 2 \, A$. Im Innenraum der Spule wird ein Material mit einer unbekannten relativen Permeabilität $\mu_r$ ersetzt, wodurch die magnetische Flussdichte $B$ auf $1,7 \, T$ ansteigt. Berechne $\mu_r$.  
 
@@ -2940,7 +2945,7 @@ Um welchen ferromagnetischen Stoff könnte es sich handeln?
 <!-- data-solution-button="off" -->
 [[Eisen]]
 
-#### Aufgabe 6.4.5
+__Aufgabe 6.4.5__
 
 Die magnetische Flussdichte $B$ in einer luftgefüllten Spule beträgt $1,26 \, mT$. Die Spule hat $N = 400$ Windungen und eine Länge von $ℓ = 0,5 \, m$. Berechne den Strom $I$, der durch die Spule fließt?  
 
