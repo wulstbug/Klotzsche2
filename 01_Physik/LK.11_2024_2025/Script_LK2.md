@@ -2840,5 +2840,123 @@ Die magnetische Flussdichte $B$ wird auf das Doppelte erhöht, während Stromst�
 [[x]] Sie verdoppelt sich.  
 [[ ]] Sie vervierfacht sich.  
 
+## 6.4. Berechnungen der magnetischen Flussdichte B in einer langen Spule
+
+<p class="newspaper">
+
+__Magnetisches Feld__
+
+![FeldInSpule](https://diversewolken.ddns.net/nextcloud/index.php/s/z7CNJzqkxjf4bf7/download)
+
+<p class="cb">
+
+__Elektrisches Feld__
+
+![Plattenkondensator](https://diversewolken.ddns.net/nextcloud/index.php/s/Sw39rmgGTYbZL7S/download) <!--style="display:block;margin-left:auto;margin-right:auto; max-width:400px"-->
+
+</p>
+
+</p>
+
+---
 
 
+
+{{1}}
+********
+
+<p class="newspaper">
+
+Die magnetische Flussdichte $B$ innerhalb einer __langen, stromdurchflossenen Spule__ wird durch folgende Formel beschrieben:
+
+$$
+\boxed{B = \mu_0 \cdot \mu_r \cdot \frac{N\cdot I}{ℓ}}
+$$
+
+- $B$: Magnetische Flussdichte [ Tesla, $T$]
+- $\mu_0$: Magnetische Feldkonstante $\boxed{\mu_0 = 1,26 \cdot 10^{-6} \frac{V \cdot s}{A \cdot m}}$
+- $\mu_r$: Magnetische Permeabilität des Mediums [einheitenlos -> FS S.54]
+- $N$: Anzahl der Windungen der Spule
+- $ℓ$: Länge der Spule [Meter, $m$]
+- $I$: Stromstärke [Ampere, $A$]
+
+<p class="cb">
+
+{{2}}
+********
+
+Die elektrische Feldstärke E innerhalb eines Plattenkondensators wird durch folgende Formel beschrieben:
+
+$$ \boxed{E = \dfrac{U}{d}} $$
+
+- $U$: Spannung zwischen den Platten $\big[ V \big]$ 
+- $d$: Abstand der Platten $\big[ m \big]$ 
+
+********
+
+</p>
+
+</p>
+
+********
+
+### Aufgaben zur B-Feld Berechnung an Spulen
+
+<bdi style="color:blue">__Löse die folgenden Aufgaben, indem du die gegebene Formel zur _langen Spule_ anwendest__.</bdi>
+
+
+#### Aufgabe 6.4.1  
+Eine Spule hat $N = 800$ Windungen und eine Länge von $ℓ = 0,4 \, m$. Sie wird von einem Strom mit $I = 3 \, A$ durchflossen. Die Spule ist luftgefüllt ($\mu_r = 1$). Berechne die magnetische Flussdichte $B$ im Inneren der Spule.  
+
+@rangeQuiz2(B, 0.00754, T)
+
+#### Aufgabe 6.4.2  
+Eine Spule mit $N = 500$ Windungen und $ℓ = 0,5 \, m$ erzeugt eine magnetische Flussdichte von $B = 2,51 \, mT$. Berechne die Stromstärke $I$, die durch die Spule fließt.  
+
+@rangeQuiz2(I, 2, A)
+
+#### Aufgabe 6.4.3  
+
+Eine Spule hat $N = 1000$ Windungen und eine Länge von $ℓ = 1 \, m$. Der Strom beträgt $I = 4 \, A$. Wie verändert sich die magnetische Flussdichte $B$, wenn: 
+
+1. Die Anzahl der Windungen $N$ verdoppelt wird?  
+2. Der Strom $I$ halbiert wird?  
+3. Die Länge der Spule $ℓ$ verdreifacht wird?
+
+<!-- data-solution-button="off" -->
+[[x]] 1. Verdoppelt sich, 2. halbiert sich, 3. verringert sich auf ein Drittel.  
+[[ ]] 1. Verdoppelt sich, 2. bleibt gleich, 3. verringert sich auf die Hälfte.  
+[[ ]] 1. Bleibt gleich, 2. halbiert sich, 3. verringert sich auf ein Viertel.  
+[[ ]] 1. Verringert sich, 2. bleibt gleich, 3. bleibt gleich.
+
+#### Aufgabe 6.4.4  
+
+Eine luftgefüllte Spule hat $N = 1000$ Windungen, $ℓ = 0,8 \, m$ und $I = 2 \, A$. Im Innenraum der Spule wird ein Material mit einer unbekannten relativen Permeabilität $\mu_r$ ersetzt, wodurch die magnetische Flussdichte $B$ auf $1,7 \, T$ ansteigt. Berechne $\mu_r$.  
+
+@rangeQuiz2($\mu_r$, 539.7, -)
+
+Um welchen ferromagnetischen Stoff könnte es sich handeln?
+
+<!-- data-solution-button="off" -->
+[[Eisen]]
+
+#### Aufgabe 6.4.5
+
+Die magnetische Flussdichte $B$ in einer luftgefüllten Spule beträgt $1,26 \, mT$. Die Spule hat $N = 400$ Windungen und eine Länge von $ℓ = 0,5 \, m$. Berechne den Strom $I$, der durch die Spule fließt?  
+
+@rangeQuiz2(I, 1.25, A)
+
+
+### Übungen zum magnetischen Feld allgemein
+
+__Grundwissen Magnetismus__
+
+??[LueckentextMagnetismus](https://learningapps.org/1319776)
+
+__Grundwissen magnetisches Feld__
+
+??[LueckentextMagnetfeld](https://learningapps.org/35523603)
+
+__Fragen zu magnetischen Experimenten__
+
+??[MagnetischeExperimente](https://www.leifiphysik.de/elektrizitaetslehre/permanentmagnetismus/aufgabe/quiz-zu-magnetischen-eigenschaften)
