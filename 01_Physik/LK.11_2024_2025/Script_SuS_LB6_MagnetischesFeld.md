@@ -140,6 +140,24 @@ window.LIA.settings.font_size = 2
 
 # LB6 - Magnetisches Feld
 
+__Übungsaufgaben zur LK__
+
+![DreiFingerRegel](https://diversewolken.ddns.net/nextcloud/index.php/s/mnjjesXkkPMEGc8/download)
+
+---
+
+Übungen zur [Elektronenröhre](https://liascript.github.io/nightly/?https://raw.githubusercontent.com/wulstbug/Klotzsche2/2024_2025/01_Physik/LK.11_2024_2025/Script_SuS_LB5_ElektrischesFeld.md#16) und [Wolkenkondensator](https://liascript.github.io/nightly/?https://raw.githubusercontent.com/wulstbug/Klotzsche2/2024_2025/01_Physik/LK.11_2024_2025/Script_SuS_LB5_ElektrischesFeld.md#19).
+
+---
+
+Übungen zur [Berechnung an Kondensatoren](https://liascript.github.io/nightly/?https://raw.githubusercontent.com/wulstbug/Klotzsche2/2024_2025/01_Physik/LK.11_2024_2025/Script_SuS_LB5_ElektrischesFeld.md#42) und zum Kondensator in realen Schaltkreisen [1](https://liascript.github.io/nightly/?https://raw.githubusercontent.com/wulstbug/Klotzsche2/2024_2025/01_Physik/LK.11_2024_2025/Script_SuS_LB5_ElektrischesFeld.md#50) und [2](https://liascript.github.io/nightly/?https://raw.githubusercontent.com/wulstbug/Klotzsche2/2024_2025/01_Physik/LK.11_2024_2025/Script_SuS_LB5_ElektrischesFeld.md#52)
+
+
+
+---
+
+---
+
 ![MagnetischesFeld](https://www.mozaweb.com/de/mozaik3D/FOL/termeszet/foldi_magneses_mezo/960.jpg)
 
 {{1}}
