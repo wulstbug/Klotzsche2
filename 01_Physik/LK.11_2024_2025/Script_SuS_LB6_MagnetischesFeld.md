@@ -150,7 +150,7 @@ __Übungsaufgaben zur LK__
 
 ---
 
-Übungen zur [Berechnung an Kondensatoren](https://liascript.github.io/nightly/?https://raw.githubusercontent.com/wulstbug/Klotzsche2/2024_2025/01_Physik/LK.11_2024_2025/Script_SuS_LB5_ElektrischesFeld.md#42) und zum Kondensator in realen Schaltkreisen [1](https://liascript.github.io/nightly/?https://raw.githubusercontent.com/wulstbug/Klotzsche2/2024_2025/01_Physik/LK.11_2024_2025/Script_SuS_LB5_ElektrischesFeld.md#50) und [2](https://liascript.github.io/nightly/?https://raw.githubusercontent.com/wulstbug/Klotzsche2/2024_2025/01_Physik/LK.11_2024_2025/Script_SuS_LB5_ElektrischesFeld.md#52)
+Übungen zur [Berechnung an Kondensatoren](https://liascript.github.io/nightly/?https://raw.githubusercontent.com/wulstbug/Klotzsche2/2024_2025/01_Physik/LK.11_2024_2025/Script_SuS_LB5_ElektrischesFeld.md#42) und zum Kondensator in realen Schaltkreisen [Aufgabe I](https://liascript.github.io/nightly/?https://raw.githubusercontent.com/wulstbug/Klotzsche2/2024_2025/01_Physik/LK.11_2024_2025/Script_SuS_LB5_ElektrischesFeld.md#50) und [Aufgabe II](https://liascript.github.io/nightly/?https://raw.githubusercontent.com/wulstbug/Klotzsche2/2024_2025/01_Physik/LK.11_2024_2025/Script_SuS_LB5_ElektrischesFeld.md#52)
 
 
 
