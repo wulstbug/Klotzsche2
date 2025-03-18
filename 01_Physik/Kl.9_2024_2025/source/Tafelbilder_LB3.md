@@ -317,10 +317,10 @@ Die Durchschnittsgeschwindigkeit gibt einen @color(Mittelwert,red) der Geschwind
 
 {{5}}
 ******
-> Die Durchschnittsgeschwindigkeit wird mit der Formel $v = \frac{\Delta s}{\Delta t}$ für beliebiges Zeitintervall $\Delta t$ (z.B. für die gesamte Fahrt).
+> Die Durchschnittsgeschwindigkeit wird mit der Formel $v = \frac{\Delta s}{\Delta t}$ für beliebiges Zeitintervall $\Delta t$ (z.B. für die gesamte Fahrt) berechnet.
 ******
 <p class="cb">
-Momentangeschwindigkeit gibt die @color(__aktuellle__,red) Geschwindigkeit zu einem bestimmten Zeitpunkt t an.
+Momentangeschwindigkeit gibt die @color(__aktuelle__,red) Geschwindigkeit zu einem bestimmten Zeitpunkt t an.
 
 {{6}}
 ******
