@@ -2994,6 +2994,8 @@ __Elektrisches Feld__
 
 </p>
 
+{{1}}
+*******
 ---
 
 Wird ein __Stoff (d.h. Materie)__ in ein magnetisches oder elektrisches Feld eingefügt, so verändert der Stoff die Stärke des Feldes, beschrieben durch 
@@ -3011,7 +3013,10 @@ die @color(Dielektrizitätszahl $\varepsilon_r$, orange) (-> FS. S 54).
 </p>
 
 ---
+*******
 
+{{2}}
+*******
 __Beispiele:__
 
 <p class="newspaper">
@@ -3033,9 +3038,11 @@ Wasser: $\varepsilon_r \approx 81$
 </p>
 
 </p>
-
+*******
 ---
 
+{{3}}
+*******
 __In beiden Beispielen__ richten sich elementare Strukturen des Material im umliegenden Feld aus.
 
 <p class="newspaper">
@@ -3053,12 +3060,15 @@ __In beiden Beispielen__ richten sich elementare Strukturen des Material im umli
 </p>
 
 </p>
-
+*******
 ---
 
+{{4}}
+*******
 __Unterschied:__
 
 Während ferromagnetische Stoffe (Eisen, Cobalt, Nickel) das magnetische Feld __verstärken__, wird das elektrische Feld durch ein Dielektrikum (z.B. Glas, Wasser) __geschwächt/gedämpft__.
+*******
 
 ### Aufgabe zum magnetischen Feld
 
