@@ -513,5 +513,3 @@ Telekolleg_AllesImmerSchneller_Bis5:50
 
 !?[Telekolleg_AllesImmerSchneller](https://diversewolken.ddns.net/nextcloud/index.php/s/2QFxN89dLeXtMdT)
 
-### Videoanalyse einer Beschleunigten Bewegung
-
