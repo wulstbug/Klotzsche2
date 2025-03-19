@@ -445,18 +445,37 @@ geg.:
 
 <p style="margin-left:5%">
 
-$\Delta t = 25 s$
+$\Delta t = ... s$
 
-$\Delta v = 12,56 \frac{m}{s}$
+$\Delta v = ... \frac{m}{s}$
 
 </p>
 
-<br> <br> <br> <br> 
-...
-<br> <br> <br>
+ges.: 
+
+<p style="margin-left:5%">
+
+$a_{1->2}$
+
+</p>
+
+<details>
+
+<summary> Lsg.: </summary>
+
+<p style="margin-left:5%">
+
+$a_{1->2} = \dfrac{\Delta v}{\Delta t}$
+
+Die Geschwindigkeit ändert sich von $0\frac{m}{s}$ auf $8,6\frac{m}{s}$. Die benötigte Zeit ist $25s$.
+
+$a_{1->2} = \dfrac{8,6\frac{m}{s}}{25 s}$
 
 $a_{1->2}\approx 0,34 \frac{m}{s^2}$
 
+</p>
+
+</details>
 *************
 </p>
 
