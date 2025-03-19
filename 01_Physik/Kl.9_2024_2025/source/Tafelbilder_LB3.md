@@ -367,6 +367,14 @@ Löse die Aufgaben auf dem Arbeitsblatt. Vergleich deine Lösungen dann mit Mood
 
 ********
 
+### Tägliche Übung zur Beschleunigung
+
+[TÜ-Beschleunigung-PDF](https://diversewolken.ddns.net/nextcloud/index.php/s/aeGt4Bz9ZqT3kef/download)
+
+oder
+
+[PPT-Beschleunigung](https://gykl-my.sharepoint.com/:p:/g/personal/golnik_ch_gykl_onmicrosoft_com/EYV_CNu29v1Es0v6hxd5YLwBtw9lSEZsJ9Nh9pIE6mDl7A?e=RDmj0F)
+
 ## 3. 4. Beschleunigung
 {{1}}
 **********
@@ -498,3 +506,10 @@ __Aufgaben: __
 [Moodle-EineRealistischeAutofahrt-10-bis-13](https://diversewolken.ddns.net/moodle/mod/quiz/view.php?id=557)
 </p>
 **********
+
+### Video: Alles immer schneller
+
+Telekolleg_AllesImmerSchneller_Bis5:50
+
+!?[Telekolleg_AllesImmerSchneller](https://diversewolken.ddns.net/nextcloud/index.php/s/2QFxN89dLeXtMdT)
+
