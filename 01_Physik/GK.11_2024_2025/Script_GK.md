@@ -4648,60 +4648,6 @@ __Aufgabenstellung:__ Nutzen Sie die Simulation auf LEIFI-Physik ([SIMULATION_MI
 
 ## 1.2. Bewegung geladener Teilchen im elektrischen Feld
 
-_Bitte anschauen:_
+__Aufbau einer Elektronenkanone__
 
-!?[Elektronen in E-Feld](https://www.youtube.com/watch?v=CUX4j4LudXo)
-
-__Grundlagen:__
-
-Ein geladenes Teilchen im elektrischen Feld erfährt eine konstante Kraft:
-
-$$F = qE$$
-
-Da die Kraft konstant ist, folgt eine gleichmäßige Beschleunigung gemäß dem zweiten Newtonschen Gesetz:
-
-$$a = \frac{F}{m} = \frac{qE}{m}$$
-
-__Beispielrechnung:__
-Ein Elektron $(q = -1.602 \cdot 10^{-19} C, m = 9.109 \cdot 10^{-31} kg)$ bewegt sich in einem Feld der Stärke $E = 5000 \frac{V}{m}$.
-
-@rangeQuiz2($a$, 8.79e14, $\frac{m}{s^2}$)
-
----
-
-## 1.3. Bahnkurve eines geladenen Teilchens
-
-_Bitte anschauen:_
-
-!?[Parabelbahn im E-Feld](https://www.youtube.com/watch?v=3X1IxK8zIsE)
-
-Wenn ein geladenes Teilchen mit einer Anfangsgeschwindigkeit senkrecht zum elektrischen Feld in das Feld eintritt, folgt seine Bahn einer __Parabel__, analog zur Wurfparabel in der Mechanik.
-
-### Quizfrage:
-Ein Elektron wird mit einer Geschwindigkeit von $v_x = 2 \cdot 10^6 \frac{m}{s}$ in ein elektrisches Feld der Stärke $E = 10000 \frac{V}{m}$ eingeschossen. Berechne die Ablenkung $y$ nach einer Flugzeit von $t = 2 \cdot 10^{-8} s$.
-
-@rangeQuiz2($y$, 1.76e-4, $m$)
-
----
-
-## 1.4. Zusammenfassung
-
-- Der Millikan-Versuch bewies die Existenz der Elementarladung.
-- Geladene Teilchen werden im elektrischen Feld beschleunigt.
-- Die Bewegung eines geladenen Teilchens kann je nach Anfangsbedingungen geradlinig oder parabolisch sein.
-
-__Zusätzliche Aufgaben:__
-
-1. Ein Proton $(q = 1.602 \cdot 10^{-19} C, m = 1.672 \cdot 10^{-27} kg)$ bewegt sich durch ein elektrisches Feld von $E = 5000 \frac{V}{m}$. Berechne die Beschleunigung.
-
-@rangeQuiz2($a_p$, 4.79e11, $\frac{m}{s^2}$)
-
-2. Ein Elektron mit einer Geschwindigkeit von $v_x = 3 \cdot 10^6 \frac{m}{s}$ tritt in ein Feld der Stärke $E = 2000 \frac{V}{m}$ ein. Bestimme die Bahnkurve.
-
-![Bahnkurve](https://upload.wikimedia.org/wikipedia/commons/6/65/Electric_Field_Parabola.svg)
-
----
-
-__Experiment zur Demonstration:__
-
-!?[Kathodenstrahlrohr](https://www.youtube.com/watch?v=3X1IxK8zIsE)
+??[VirtuelleExperiment_Elektronenkanone_Aufbau](https://virtuelle-experimente.de/kanone/klassisch/aufbau.php)
