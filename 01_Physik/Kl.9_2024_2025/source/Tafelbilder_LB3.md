@@ -366,3 +366,116 @@ Löse die Aufgaben auf dem Arbeitsblatt. Vergleich deine Lösungen dann mit Mood
 ??[Moodle_EineRealistischeAutofahrt](https://diversewolken.ddns.net/moodle/mod/quiz/view.php?id=557)
 
 ********
+
+## 3. 4. Beschleunigung
+{{1}}
+**********
+> Definition: Die __Beschleunigung__ definieren wir als Änderung der Geschwindigkeit in einer bestimmten Zeit. <br> Die __Beschleunigung__ gibt an, um welchen Wert sich die Geschwindigkeit pro Sekunde ändert.
+{{2}}
+************
+> Formelzeichen:   $\hspace{1cm}a$
+> <br> <br>
+> Einheit: $\hspace{1cm} \large{\Big[ \frac{\frac{m}{s}}{s} =\frac{m}{s^2} \Big]}$
+> <br> <br>
+>
+> Formel: $\hspace{1cm} \boxed{\large{a = \dfrac{\Delta v}{\Delta t}}}$
+************
+
+**********
+
+---
+
+{{3}}
+**********
+<p class="newspaper">
+
+__Beispiel 1:__ Auf dem Arbeitsblatt der letzten Stunde (Aufgabe 8) wurde gefragt: Um welchen Betrag ändert sich die Geschwindigkeit von Punkt 5->6 pro Sekunde, oder <br> @color(Wie groß ist die Beschleunigung?, red)
+
+{{4}}
+**********
+
+__Lösung:__ Die Geschwindigkeit ändert sich in $25s$ von  $0\frac{m}{s} $ auf $12,56 \frac{m}{s}$. <br> Das heißt:
+
+geg.:
+
+<p style="margin-left:5%">
+
+$\Delta t = 25 s$
+
+$\Delta v = 12,56 \frac{m}{s}$
+
+</p>
+
+ges.: 
+
+<p style="margin-left:5%">
+
+$a_{5->6}$
+
+</p>
+
+**********
+
+
+{{5}}
+**********
+Lösung: 
+
+<p style="margin-left:5%">
+
+$ a_{5->6} = \dfrac{\Delta v}{\Delta t} = \dfrac{12,56 \frac{m}{s}}{25 s}$
+
+$a_{5->6}=0,5024 \frac{m}{s^2} \approx 0,5 \frac{m}{s^2}$
+
+</p>
+
+**********
+
+<p class="cb">
+{{3-6}}
+*************
+![8](https://diversewolken.ddns.net/nextcloud/index.php/s/7LXaxmwTBorb4cj/download)
+*************
+
+{{6}}
+*************
+__Beispiel 2__: Ermittle die Beschleunigung nach der ersten Ampel.
+
+geg.:
+
+<p style="margin-left:5%">
+
+$\Delta t = 25 s$
+
+$\Delta v = 12,56 \frac{m}{s}$
+
+</p>
+
+<br> <br> <br> <br> 
+...
+<br> <br> <br>
+
+$a_{1->2}\approx 0,34 \frac{m}{s^2}$
+
+*************
+</p>
+
+</p>
+
+**********
+
+{{7}}
+**********
+---
+<p style="color:blue">
+__Aufgaben: __
+
+- übernimm das Tafelbild
+
+- berechne Beispiel 2
+
+- löse bei Moodle die Aufgaben 10-13
+
+[Moodle-EineRealistischeAutofahrt-10-bis-13](https://diversewolken.ddns.net/moodle/mod/quiz/view.php?id=557)
+</p>
+**********
