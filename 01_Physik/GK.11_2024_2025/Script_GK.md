@@ -4768,7 +4768,7 @@ __Aufgaben:__
 
 </p>
 
-# Grundkurs Physik 2024/2025 - LB V - Elektromagnetische Felder
+# LB V - Elektromagnetische Felder
 
 !?[CG-Physics-Generator](https://www.youtube.com/watch?v=34z97ULvmpM)
 
@@ -4778,4 +4778,4 @@ __Aufgaben:__
 
 ## 1. Elektromagnetische Induktion
 
-Induktion: Eine Spannung wird induziert, wenn sich der \color(magnetische Fluss $\Phi$,red) einer Leiterschleife oder Spule @color(ändert, red).
+> Induktion: Eine Spannung wird induziert, wenn sich der @color(magnetische Fluss $\Phi$,red) einer Leiterschleife oder Spule @color(ändert, red).
