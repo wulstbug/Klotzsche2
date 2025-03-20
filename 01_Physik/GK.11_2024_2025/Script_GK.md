@@ -4778,4 +4778,28 @@ __Aufgaben:__
 
 ## 1. Elektromagnetische Induktion
 
-> Induktion: Eine Spannung wird induziert, wenn sich der @color(magnetische Fluss $\Phi$,red) einer Leiterschleife oder Spule @color(ändert, red).
+> __Induktion:__ Eine Spannung wird induziert, wenn sich der @color(magnetische Fluss $\Phi$,red) einer Leiterschleife oder Spule @color(ändert, red).
+
+> __Definition:__ Der magnetische Fluss @color($\Phi$, red) ist definiert als
+>
+> $$ \boxed{\Phi = B \cdot A} $$
+>
+> $\hspace{1cm}$ B .. magnetische Flussdichte
+>
+> $\hspace{1cm}$ A .. vom Magnetfeld durchsetzte Fläche
+
+> __Induktionsspannung:__ Der Betrag der Induktionsspannung $U_{ind}$ ist definiert ergibt sich aus der Windungszahl der Spule $N$ multipliziert mit der @color(zeitlichen Änderung des magnetischen Flusses $\frac{\Delta\Phi}{\Delta t}$, red).
+>
+> $$ \boxed{U_{ind} = N \cdot \dfrac{\Delta \Phi}{\Delta t}} $$
+
+<p class="newspaper">
+
+__Induktion durch Änderung der Fläche A__
+
+<p class="cb">
+
+__Induktion durch Änderung der Flussdichte B__ 
+
+</p>
+
+</p>
