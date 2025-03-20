@@ -4796,13 +4796,13 @@ __Aufgaben:__
 
 __Induktion durch Änderung der Fläche A__
 
-> $$ \boxed{U_{ind} = N \cdot B \dfrac{\Delta A}{\Delta t}} $$
+> $$ \boxed{U_{ind} = N \cdot B \cdot \dfrac{\Delta A}{\Delta t}} $$
 
 <p class="cb">
 
 __Induktion durch Änderung der Flussdichte B__ 
 
-> $$ \boxed{U_{ind} = N \cdot A \dfrac{\Delta B}{\Delta t}} $$
+> $$ \boxed{U_{ind} = N \cdot A \cdot \dfrac{\Delta B}{\Delta t}} $$
 
 </p>
 
