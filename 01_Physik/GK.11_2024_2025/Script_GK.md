@@ -4780,6 +4780,8 @@ __Aufgaben:__
 
 > __Induktion:__ Eine Spannung wird induziert, wenn sich der @color(magnetische Fluss $\Phi$,red) einer Leiterschleife oder Spule @color(ändert, red).
 
+---
+
 > __Definition:__ Der magnetische Fluss @color($\Phi$, red) ist definiert als
 >
 > $$ \boxed{\Phi = B \cdot A} $$
@@ -4788,20 +4790,24 @@ __Aufgaben:__
 >
 > $\hspace{1cm}$ A .. vom Magnetfeld durchsetzte Fläche
 
+---
+
 > __Induktionsspannung:__ Der Betrag der Induktionsspannung $U_{ind}$ ist definiert ergibt sich aus der Windungszahl der Spule $N$ multipliziert mit der @color(zeitlichen Änderung des magnetischen Flusses $\frac{\Delta\Phi}{\Delta t}$, red).
 >
 > $$ \boxed{U_{ind} = N \cdot \dfrac{\Delta \Phi}{\Delta t}} $$
 
+---
+
 <p class="newspaper">
 
-__Induktion durch Änderung der Fläche A__
-
+> __Induktion durch Änderung der Fläche A__
+>
 > $$ \boxed{U_{ind} = N \cdot B \cdot \dfrac{\Delta A}{\Delta t}} $$
 
 <p class="cb">
 
-__Induktion durch Änderung der Flussdichte B__ 
-
+> __Induktion durch Änderung der Flussdichte B__ 
+>
 > $$ \boxed{U_{ind} = N \cdot A \cdot \dfrac{\Delta B}{\Delta t}} $$
 
 </p>
