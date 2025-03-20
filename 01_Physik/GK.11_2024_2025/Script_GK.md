@@ -4798,6 +4798,10 @@ __Aufgaben:__
 
 ---
 
+__1. Schlussfolgerung:__ Je größer die Windungszahl $N$ der Spule, desto größer ist die induzierte Spannung $U_{ind}$.
+
+---
+
 <p class="newspaper">
 
 > __Induktion durch Änderung der Fläche A__
