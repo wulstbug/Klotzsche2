@@ -4821,3 +4821,9 @@ __1. Schlussfolgerung:__ Je größer die Windungszahl $N$ der Spule, desto grö�
 </p>
 
 </p>
+
+### Grundversuche Elektromagnetische Induktion
+
+@color(Nutze die drei Simulationen um die zugehörigen Lückentexte auszufüllen., blue)
+
+[LEIFI-Lückentexte](https://www.leifiphysik.de/elektrizitaetslehre/elektromagnetische-induktion/versuche/drei-grundversuche-zur-elektromagnetischen-induktion-simulationen)
