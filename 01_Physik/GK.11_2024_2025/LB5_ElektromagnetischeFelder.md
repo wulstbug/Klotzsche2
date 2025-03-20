@@ -114,3 +114,4 @@ try {
 
 ## 1. Elektromagnetische Induktion
 
+Induktion: Eine Spannung wird induziert, wenn sich der \color(magnetische Fluss $\Phi$,red) einer Leiterschleife oder Spule @color(ändert, red).

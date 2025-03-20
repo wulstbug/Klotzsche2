@@ -4767,3 +4767,15 @@ __Aufgaben:__
 </p>
 
 </p>
+
+# Grundkurs Physik 2024/2025 - LB V - Elektromagnetische Felder
+
+!?[CG-Physics-Generator](https://www.youtube.com/watch?v=34z97ULvmpM)
+
+## Motivation - Kraftwerke zur Energieversorgung
+
+![Waermekraftewerk](https://diversewolken.ddns.net/nextcloud/index.php/s/zq3twaoxKzLcwj7/download) ![Heizkrafttwerk](https://diversewolken.ddns.net/nextcloud/index.php/s/8qx3ERQmPMgmeqX/download) ![Wasserkraftwerk](https://diversewolken.ddns.net/nextcloud/index.php/s/Xbf7QmBSmwzN4GK/download)
+
+## 1. Elektromagnetische Induktion
+
+Induktion: Eine Spannung wird induziert, wenn sich der \color(magnetische Fluss $\Phi$,red) einer Leiterschleife oder Spule @color(ändert, red).
