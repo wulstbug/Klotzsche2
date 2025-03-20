@@ -475,11 +475,11 @@ $a_{1->2}$
 
 $a_{1->2} = \dfrac{\Delta v}{\Delta t}$
 
-Die Geschwindigkeit ändert sich von $0\frac{m}{s}$ auf $8,6\frac{m}{s}$. Die benötigte Zeit ist $25s$.
+Die Geschwindigkeit ändert sich von $0\frac{m}{s}$ auf $8,6\frac{m}{s}$. Die benötigte Zeit ist $5s$.
 
-$a_{1->2} = \dfrac{8,6\frac{m}{s}}{25 s}$
+$a_{1->2} = \dfrac{8,6\frac{m}{s}}{5 s}$
 
-$a_{1->2}\approx 0,34 \frac{m}{s^2}$
+$a_{1->2}\approx 1,72 \frac{m}{s^2}$
 
 </p>
 
