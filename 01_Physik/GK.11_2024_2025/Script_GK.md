@@ -4840,15 +4840,21 @@ __1. Schlussfolgerung:__ Je größer die Windungszahl $N$ der Spule, desto grö�
 
 ### Aufgaben zum Generator
 
+
+<p style="color:blue">
+
 - [ ] Notiere das Tafelbild _1. Elektromagnetische Induktion_ in deinen Hefter
 
 - [ ] Probiere die Aufgaben _Grundversuche Elektromagnetische Induktion_ und Fülle die Lückentexte
 
-- [ ] Diskutiere mit der KI im Abschnitt _Elektromagnetische Induktion_
-
 - [ ] Übernimm den Absatz _Aufbau eines Generators_ in deinen Hefter
 
+- [ ] Diskutiere mit der KI im Abschnitt _Elektromagnetische Induktion_
+
 - [ ] Nutze den Bausatz Generator und baue ein Generatormodell auf, schließe ein Cassy-Spannungsmessgerät an und miss die induzierte Spannung
+
+</p>
+
 
 ### Grundversuche Elektromagnetische Induktion
 
