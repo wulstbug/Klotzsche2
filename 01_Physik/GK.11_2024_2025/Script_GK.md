@@ -4853,7 +4853,7 @@ Passwort: phy-@color(xx,red)
 ---
 
 <div class="container">
-    1. <span class="text-box" id="textToCopy2">Ich habe folgende Aufgabe bekommen: Erkäre die Anwendung des Induktionsgesetzes am Beispiel eines Generators. Ich gebe dir meine Antwort im folgenden Prompt. Bitte bewerte meine Antwort auf seine Richtigkeit. Nutze als Formelzeichen für die Spannung U.</span>
+    2. <span class="text-box" id="textToCopy2">Ich habe folgende Aufgabe bekommen: Erkäre die Anwendung des Induktionsgesetzes am Beispiel eines Generators. Ich gebe dir meine Antwort im folgenden Prompt. Bitte bewerte meine Antwort auf seine Richtigkeit. Nutze als Formelzeichen für die Spannung U.</span>
 </div>
 <script input="button">
         const text = document.getElementById("textToCopy12").innerText;
