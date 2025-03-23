@@ -4828,7 +4828,41 @@ __1. Schlussfolgerung:__ Je größer die Windungszahl $N$ der Spule, desto grö�
 
 [LEIFI-Lückentexte](https://www.leifiphysik.de/elektrizitaetslehre/elektromagnetische-induktion/versuche/drei-grundversuche-zur-elektromagnetischen-induktion-simulationen)
 
-### Unterhalte dich mit der KI über die Induktion.
+### Unterhalte dich mit der KI über die Induktion am Generator und am Transformator.
+
+Login: phy-@color(xx,red)@gykl.ipads
+Passwort: phy-@color(xx,red)
 
 ??[OpenWebUI](https://subtle-corgi-firmly.ngrok-free.app)
 
+---
+
+<div class="container">
+    1. <span class="text-box" id="textToCopy1">Ich habe folgende Aufgabe bekommen: Erkäre die Anwendung des Induktionsgesetzes am Beispiel eines Transformators. Ich gebe dir meine Antwort im folgenden Prompt. Bitte bewerte meine Antwort auf seine Richtigkeit. Nutze als Formelzeichen für die Spannung U.</span>
+</div>
+<script input="button">
+        const text = document.getElementById("textToCopy1").innerText;
+        navigator.clipboard.writeText(text).then(() => {
+            alert("Text wurde in die Zwischenablage kopiert!");
+        }).catch(err => {
+            console.error("Fehler beim Kopieren: ", err);
+        });
+        "Kopieren"
+</script>
+
+---
+
+<div class="container">
+    1. <span class="text-box" id="textToCopy2">Ich habe folgende Aufgabe bekommen: Erkäre die Anwendung des Induktionsgesetzes am Beispiel eines Generators. Ich gebe dir meine Antwort im folgenden Prompt. Bitte bewerte meine Antwort auf seine Richtigkeit. Nutze als Formelzeichen für die Spannung U.</span>
+</div>
+<script input="button">
+        const text = document.getElementById("textToCopy12").innerText;
+        navigator.clipboard.writeText(text).then(() => {
+            alert("Text wurde in die Zwischenablage kopiert!");
+        }).catch(err => {
+            console.error("Fehler beim Kopieren: ", err);
+        });
+        "Kopieren"
+</script>
+
+---

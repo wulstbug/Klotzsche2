@@ -103,8 +103,7 @@ try {
 -->
 
 
-
-# Grundkurs Physik 2024/2025 - LB V - Elektromagnetische Felder
+# LB V - Elektromagnetische Felder
 
 !?[CG-Physics-Generator](https://www.youtube.com/watch?v=34z97ULvmpM)
 
@@ -114,4 +113,91 @@ try {
 
 ## 1. Elektromagnetische Induktion
 
-Induktion: Eine Spannung wird induziert, wenn sich der \color(magnetische Fluss $\Phi$,red) einer Leiterschleife oder Spule @color(ändert, red).
+> __Induktion:__ Eine Spannung wird induziert, wenn sich der @color(magnetische Fluss $\Phi$,red) einer Leiterschleife oder Spule @color(ändert, red).
+
+---
+
+> __Definition:__ Der @color(magnetische Fluss $\Phi$, red) ist definiert als
+>
+> $$ \boxed{\red{\Phi = B \cdot A}} $$
+>
+> $\hspace{1cm}$ B .. magnetische Flussdichte
+>
+> $\hspace{1cm}$ A .. vom Magnetfeld durchsetzte Fläche
+
+---
+
+> __Induktionsspannung:__ Der Betrag der Induktionsspannung $U_{ind}$ ist definiert ergibt sich aus der Windungszahl der Spule $N$ multipliziert mit der @color(zeitlichen Änderung des magnetischen Flusses $\frac{\Delta\Phi}{\Delta t}$, red).
+>
+> $$ \boxed{U_{ind} = N \cdot \dfrac{\red{\Delta \Phi}}{\Delta t}} $$
+
+---
+
+__1. Schlussfolgerung:__ Je größer die Windungszahl $N$ der Spule, desto größer ist die induzierte Spannung $U_{ind}$.
+
+---
+
+<p class="newspaper">
+
+> __Induktion durch Änderung der Fläche A__
+>
+> $$ \boxed{U_{ind} = N \cdot \red{B} \cdot \dfrac{\red{\Delta A}}{\Delta t}} $$
+>
+> __Beispiel:__ @color(Generator, blue)
+
+<p class="cb">
+
+> __Induktion durch Änderung der Flussdichte B__ 
+>
+> $$ \boxed{U_{ind} = N \cdot \red{A} \cdot \dfrac{\red{\Delta B}}{\Delta t}} $$
+>
+> __Beispiel:__ @color(Transformator, blue)
+
+</p>
+
+</p>
+
+### Grundversuche Elektromagnetische Induktion
+
+@color(Nutze die drei Simulationen um die zugehörigen Lückentexte auszufüllen., blue)
+
+[LEIFI-Lückentexte](https://www.leifiphysik.de/elektrizitaetslehre/elektromagnetische-induktion/versuche/drei-grundversuche-zur-elektromagnetischen-induktion-simulationen)
+
+### Unterhalte dich mit der KI über die Induktion am Generator und am Transformator.
+
+Login: phy-@color(xx,red)@gykl.ipads
+Passwort: phy-@color(xx,red)
+
+??[OpenWebUI](https://subtle-corgi-firmly.ngrok-free.app)
+
+---
+
+<div class="container">
+    1. <span class="text-box" id="textToCopy1">Ich habe folgende Aufgabe bekommen: Erkäre die Anwendung des Induktionsgesetzes am Beispiel eines Transformators. Ich gebe dir meine Antwort im folgenden Prompt. Bitte bewerte meine Antwort auf seine Richtigkeit. Nutze als Formelzeichen für die Spannung U.</span>
+</div>
+<script input="button">
+        const text = document.getElementById("textToCopy1").innerText;
+        navigator.clipboard.writeText(text).then(() => {
+            alert("Text wurde in die Zwischenablage kopiert!");
+        }).catch(err => {
+            console.error("Fehler beim Kopieren: ", err);
+        });
+        "Kopieren"
+</script>
+
+---
+
+<div class="container">
+    1. <span class="text-box" id="textToCopy2">Ich habe folgende Aufgabe bekommen: Erkäre die Anwendung des Induktionsgesetzes am Beispiel eines Generators. Ich gebe dir meine Antwort im folgenden Prompt. Bitte bewerte meine Antwort auf seine Richtigkeit. Nutze als Formelzeichen für die Spannung U.</span>
+</div>
+<script input="button">
+        const text = document.getElementById("textToCopy12").innerText;
+        navigator.clipboard.writeText(text).then(() => {
+            alert("Text wurde in die Zwischenablage kopiert!");
+        }).catch(err => {
+            console.error("Fehler beim Kopieren: ", err);
+        });
+        "Kopieren"
+</script>
+
+---
