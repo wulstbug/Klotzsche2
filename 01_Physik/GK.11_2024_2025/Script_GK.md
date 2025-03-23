@@ -4853,6 +4853,8 @@ __1. Schlussfolgerung:__ Je größer die Windungszahl $N$ der Spule, desto grö�
 
 - [ ] Nutze den Bausatz Generator und baue ein Generatormodell auf, schließe ein Cassy-Spannungsmessgerät an und miss die induzierte Spannung
 
+- [ ] Beantworte die Fragen zum Generator 2
+
 </p>
 
 
@@ -4942,3 +4944,52 @@ __Der Generator:__
 
 *******
 
+
+### Fragen zum Generator 2
+
+<p class="newspaper">
+
+3. Wahr oder falsch? Wenn sich der Generator schneller dreht, erhöht sich die elektrische Spannung.
+
+     [(X)] wahr
+     [( )] falsch
+
+4. Wahr oder falsch? Wenn man die elektrische Spannung am Generator erhöhen will, kann man das Magnetfeld verstärken.
+
+     [(X)] wahr
+     [( )] falsch
+
+5. Um die Spannung am Generator zu erhöhen, kann man
+
+     [[ ]] Die Anzahl der Windungen der Spule verringern
+     [[X]] Die Anzahl der Windungen der Spule vergrößern
+     [[ ]] Die Querschnittsfläche der Spule verkleinern
+     [[X]] Die Querschnittsfläche der Spule vergrößern
+
+<p class="cb">
+
+6. Wahr oder falsch? Bei einem Generator muss der Magnet fest sein (Stator) und die Spule drehend (Rotor).
+
+     [( )] wahr
+     [(X)] falsch
+     
+7. Welches Prinzip liegt der Stromerzeugung in einem Generator zugrunde?
+
+     [( )] Thermische Leitung
+     [(X)] Elektromagnetische Induktion
+     [( )] Kernspaltung
+     [( )] Schallwellen
+
+8. Was erzeugt in einem Generator die Spannung?
+
+     [( )]  Eine chemische Reaktion in der Spule
+     [( )]  Die Erwärmung des Magneten
+     [(X)] Die Bewegung einer Spule in einem Magnetfeld     
+     [( )]  Die Anwesenheit eines elektrischen Leiters
+
+
+</p>
+
+</p>
+
+</p>
