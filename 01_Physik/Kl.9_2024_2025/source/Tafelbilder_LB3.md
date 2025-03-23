@@ -511,7 +511,7 @@ __Aufgaben: __
 
 Telekolleg_AllesImmerSchneller_Bis5:50
 
-!?[Telekolleg_AllesImmerSchneller](https://diversewolken.ddns.net/nextcloud/index.php/s/2QFxN89dLeXtMdT)
+!?[Telekolleg_AllesImmerSchneller](https://diversewolken.ddns.net/nextcloud/index.php/s/2QFxN89dLeXtMdT/download)
 
 ### Videoanalyse mit VIANA2
 
