@@ -4835,12 +4835,14 @@ Passwort: phy-@color(xx,red)
 
 ??[OpenWebUI](https://subtle-corgi-firmly.ngrok-free.app)
 
----
+@color(Kopiere einen Prompt in das Feld der KI. Beantworte dann die gestellte Aufgabe. Wiederhole es mit der zweiten Aufgabe, blue)
 
-<div class="container">
-    1. <span class="text-box" id="textToCopy1">Ich habe folgende Aufgabe bekommen: Erkäre die Anwendung des Induktionsgesetzes am Beispiel eines Transformators. Ich gebe dir meine Antwort im folgenden Prompt. Bitte bewerte meine Antwort auf seine Richtigkeit. Nutze als Formelzeichen für die Spannung U.</span>
+---
+1. @color(__Generators:__ Erkäre die Anwendung des Induktionsgesetzes am Beispiel eines Transformators., blue)
+<div class="container" style="margin-left:10%">
+    <span class="text-box" id="textToCopy1">Ich habe folgende Aufgabe bekommen: Erkäre die Anwendung des Induktionsgesetzes am Beispiel eines Transformators. Ich gebe dir meine Antwort im folgenden Prompt. Bitte bewerte meine Antwort auf seine Richtigkeit. Nutze als Formelzeichen für die Spannung U.</span>
 </div>
-<script input="button">
+<script input="button" style="margin-left:10%">
         const text = document.getElementById("textToCopy1").innerText;
         navigator.clipboard.writeText(text).then(() => {
             alert("Text wurde in die Zwischenablage kopiert!");
@@ -4852,11 +4854,12 @@ Passwort: phy-@color(xx,red)
 
 ---
 
-<div class="container">
-    2. <span class="text-box" id="textToCopy2">Ich habe folgende Aufgabe bekommen: Erkäre die Anwendung des Induktionsgesetzes am Beispiel eines Generators. Ich gebe dir meine Antwort im folgenden Prompt. Bitte bewerte meine Antwort auf seine Richtigkeit. Nutze als Formelzeichen für die Spannung U.</span>
+2. @color(__Generators:__ Erkäre die Anwendung des Induktionsgesetzes am Beispiel eines Generators., blue)
+<div class="container" style="margin-left:10%">
+    <span class="text-box" id="textToCopy2">Ich habe folgende Aufgabe bekommen: Erkäre die Anwendung des Induktionsgesetzes am Beispiel eines Generators. Ich gebe dir meine Antwort im folgenden Prompt. Bitte bewerte meine Antwort auf seine Richtigkeit. Nutze als Formelzeichen für die Spannung U.</span>
 </div>
-<script input="button">
-        const text = document.getElementById("textToCopy12").innerText;
+<script input="button" style="margin-left:10%">
+        const text = document.getElementById("textToCopy2").innerText;
         navigator.clipboard.writeText(text).then(() => {
             alert("Text wurde in die Zwischenablage kopiert!");
         }).catch(err => {
