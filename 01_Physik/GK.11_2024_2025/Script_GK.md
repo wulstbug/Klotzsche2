@@ -4782,9 +4782,9 @@ __Aufgaben:__
 
 ---
 
-> __Definition:__ Der magnetische Fluss @color($\Phi$, red) ist definiert als
+> __Definition:__ Der @color(magnetische Fluss $\Phi$, red) ist definiert als
 >
-> $$ \boxed{\Phi = B \cdot A} $$
+> $$ \boxed{\red{\Phi = B \cdot A}} $$
 >
 > $\hspace{1cm}$ B .. magnetische Flussdichte
 >
@@ -4794,7 +4794,7 @@ __Aufgaben:__
 
 > __Induktionsspannung:__ Der Betrag der Induktionsspannung $U_{ind}$ ist definiert ergibt sich aus der Windungszahl der Spule $N$ multipliziert mit der @color(zeitlichen Änderung des magnetischen Flusses $\frac{\Delta\Phi}{\Delta t}$, red).
 >
-> $$ \boxed{U_{ind} = N \cdot \dfrac{\Delta \Phi}{\Delta t}} $$
+> $$ \boxed{U_{ind} = N \cdot \dfrac{\red{\Delta \Phi}}{\Delta t}} $$
 
 ---
 
@@ -4806,17 +4806,17 @@ __1. Schlussfolgerung:__ Je größer die Windungszahl $N$ der Spule, desto grö�
 
 > __Induktion durch Änderung der Fläche A__
 >
-> $$ \boxed{U_{ind} = N \cdot B \cdot \dfrac{\Delta A}{\Delta t}} $$
+> $$ \boxed{U_{ind} = N \cdot \red{B} \cdot \dfrac{\red{\Delta A}}{\Delta t}} $$
 >
-> __Beispiel:__ @color(Generator, red)
+> __Beispiel:__ @color(Generator, blue)
 
 <p class="cb">
 
 > __Induktion durch Änderung der Flussdichte B__ 
 >
-> $$ \boxed{U_{ind} = N \cdot A \cdot \dfrac{\Delta B}{\Delta t}} $$
+> $$ \boxed{U_{ind} = N \cdot \red{A} \cdot \dfrac{\red{\Delta B}}{\Delta t}} $$
 >
-> __Beispiel:__ @color(Transformator, red)
+> __Beispiel:__ @color(Transformator, blue)
 
 </p>
 
@@ -4827,3 +4827,8 @@ __1. Schlussfolgerung:__ Je größer die Windungszahl $N$ der Spule, desto grö�
 @color(Nutze die drei Simulationen um die zugehörigen Lückentexte auszufüllen., blue)
 
 [LEIFI-Lückentexte](https://www.leifiphysik.de/elektrizitaetslehre/elektromagnetische-induktion/versuche/drei-grundversuche-zur-elektromagnetischen-induktion-simulationen)
+
+### Unterhalte dich mit der KI über die Induktion.
+
+!![OpenWebUI](https://subtle-corgi-firmly.ngrok-free.app)
+
