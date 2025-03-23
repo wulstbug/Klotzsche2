@@ -4838,7 +4838,7 @@ Passwort: phy-@color(xx,red)
 @color(Kopiere einen Prompt in das Feld der KI. Beantworte dann die gestellte Aufgabe. Wiederhole es mit der zweiten Aufgabe, blue)
 
 ---
-1. @color(__Generators:__ Erkäre die Anwendung des Induktionsgesetzes am Beispiel eines Transformators., blue)
+1. __Transformator:__ Erkäre die Anwendung des Induktionsgesetzes am Beispiel eines Transformators.
 <div class="container" style="margin-left:10%">
     <span class="text-box" id="textToCopy1">Ich habe folgende Aufgabe bekommen: Erkäre die Anwendung des Induktionsgesetzes am Beispiel eines Transformators. Ich gebe dir meine Antwort im folgenden Prompt. Bitte bewerte meine Antwort auf seine Richtigkeit. Nutze als Formelzeichen für die Spannung U.</span>
 </div>
@@ -4854,7 +4854,7 @@ Passwort: phy-@color(xx,red)
 
 ---
 
-2. @color(__Generators:__ Erkäre die Anwendung des Induktionsgesetzes am Beispiel eines Generators., blue)
+2. __Generator:__ Erkäre die Anwendung des Induktionsgesetzes am Beispiel eines Generators.
 <div class="container" style="margin-left:10%">
     <span class="text-box" id="textToCopy2">Ich habe folgende Aufgabe bekommen: Erkäre die Anwendung des Induktionsgesetzes am Beispiel eines Generators. Ich gebe dir meine Antwort im folgenden Prompt. Bitte bewerte meine Antwort auf seine Richtigkeit. Nutze als Formelzeichen für die Spannung U.</span>
 </div>
