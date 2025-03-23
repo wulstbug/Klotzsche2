@@ -4832,17 +4832,3 @@ __1. Schlussfolgerung:__ Je größer die Windungszahl $N$ der Spule, desto grö�
 
 ??[OpenWebUI](https://subtle-corgi-firmly.ngrok-free.app)
 
-<div class="container">
-    <span class="text-box" id="textToCopy">Dies ist der zu kopierende Text.</span>
-    <button class="copy-btn" onclick="copyText()">Kopieren</button>
-</div>
-<script>
-    function copyText() {
-        const text = document.getElementById("textToCopy").innerText;
-        navigator.clipboard.writeText(text).then(() => {
-            alert("Text wurde in die Zwischenablage kopiert!");
-        }).catch(err => {
-            console.error("Fehler beim Kopieren: ", err);
-        });
-    }
-</script>
