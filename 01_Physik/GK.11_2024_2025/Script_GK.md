@@ -4830,5 +4830,5 @@ __1. Schlussfolgerung:__ Je größer die Windungszahl $N$ der Spule, desto grö�
 
 ### Unterhalte dich mit der KI über die Induktion.
 
-!![OpenWebUI](https://subtle-corgi-firmly.ngrok-free.app)
+??[OpenWebUI](https://subtle-corgi-firmly.ngrok-free.app)
 
