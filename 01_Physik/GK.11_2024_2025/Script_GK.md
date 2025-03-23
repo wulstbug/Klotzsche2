@@ -4778,8 +4778,13 @@ __Aufgaben:__
 
 ## 1. Elektromagnetische Induktion
 
+{{1}}
+********
 > __Induktion:__ Eine Spannung wird induziert, wenn sich der @color(magnetische Fluss $\Phi$,red) einer Leiterschleife oder Spule @color(ändert, red).
+********
 
+{{2}}
+********
 ---
 
 > __Definition:__ Der @color(magnetische Fluss $\Phi$, red) ist definiert als
@@ -4789,38 +4794,61 @@ __Aufgaben:__
 > $\hspace{1cm}$ B .. magnetische Flussdichte
 >
 > $\hspace{1cm}$ A .. vom Magnetfeld durchsetzte Fläche
+********
 
+{{3}}
+********
 ---
 
 > __Induktionsspannung:__ Der Betrag der Induktionsspannung $U_{ind}$ ist definiert ergibt sich aus der Windungszahl der Spule $N$ multipliziert mit der @color(zeitlichen Änderung des magnetischen Flusses $\frac{\Delta\Phi}{\Delta t}$, red).
 >
 > $$ \boxed{U_{ind} = N \cdot \dfrac{\red{\Delta \Phi}}{\Delta t}} $$
+********
 
+{{4}}
+********
 ---
 
 __1. Schlussfolgerung:__ Je größer die Windungszahl $N$ der Spule, desto größer ist die induzierte Spannung $U_{ind}$.
 
 ---
+********
 
 <p class="newspaper">
-
+{{5}}
+********
 > __Induktion durch Änderung der Fläche A__
 >
 > $$ \boxed{U_{ind} = N \cdot \red{B} \cdot \dfrac{\red{\Delta A}}{\Delta t}} $$
 >
 > __Beispiel:__ @color(Generator, blue)
+********
 
 <p class="cb">
+{{6}}
+********
 
 > __Induktion durch Änderung der Flussdichte B__ 
 >
 > $$ \boxed{U_{ind} = N \cdot \red{A} \cdot \dfrac{\red{\Delta B}}{\Delta t}} $$
 >
 > __Beispiel:__ @color(Transformator, blue)
-
+********
 </p>
 
 </p>
+
+### Aufgaben zum Generator
+
+- [ ] Notiere das Tafelbild _1. Elektromagnetische Induktion_ in deinen Hefter
+
+- [ ] Probiere die Aufgaben _Grundversuche Elektromagnetische Induktion_ und Fülle die Lückentexte
+
+- [ ] Diskutiere mit der KI im Abschnitt _Elektromagnetische Induktion_
+
+- [ ] Übernimm den Absatz _Aufbau eines Generators_ in deinen Hefter
+
+- [ ] Nutze den Bausatz Generator und baue ein Generatormodell auf, schließe ein Cassy-Spannungsmessgerät an und miss die induzierte Spannung
 
 ### Grundversuche Elektromagnetische Induktion
 
@@ -4828,34 +4856,51 @@ __1. Schlussfolgerung:__ Je größer die Windungszahl $N$ der Spule, desto grö�
 
 [LEIFI-Lückentexte](https://www.leifiphysik.de/elektrizitaetslehre/elektromagnetische-induktion/versuche/drei-grundversuche-zur-elektromagnetischen-induktion-simulationen)
 
-### Unterhalte dich mit der KI über die Induktion am Generator und am Transformator.
+### Aufbau eines Generators
+
+Ein einfacher __Generator__ besteht typischer Weise aus einem @color(Magneten, orange) und einer @color(Spule,orange), welche sich im Magnetfeld drehen kann.
+
+<p class="newspaper">
+
+__Skizze:__
+
+![Generator_Skizze](https://asset.conrad.com/media10/isa/160267/c1/-/de/Generator/grundfunktion-eines-generators.jpg)
+
+<p class="cb">
+
+1. Fester Dauermagnet (kann auch Elektromagnet sein) -> @color(__STATOR__,red)
+
+2. Magnetfeld des Dauermagneten (_nicht sichtbar_)
+
+3. Drehbare Spule (hier nur Leiterschleife) -> @color(__ROTOR__,red)
+
+4. Schleifringe
+
+5. Schleifkontakte zur Spannungsabführung
+
+_Hinweis: Magnet und Spule (d.h. **Rotor** und **Stator**) können auch vertauscht sein. Dann ist Magnet beweglich und die Spule fest._
+
+</p>
+
+</p>
+
+
+### KI: Elektromagnetische Induktion am Generator
 
 Login: phy-@color(xx,red)@gykl.ipads
 Passwort: phy-@color(xx,red)
 
 ??[OpenWebUI](https://subtle-corgi-firmly.ngrok-free.app)
 
-@color(Kopiere einen Prompt in das Feld der KI. Beantworte dann die gestellte Aufgabe. Wiederhole es mit der zweiten Aufgabe, blue)
-
----
-1. __Transformator:__ Erkäre die Anwendung des Induktionsgesetzes am Beispiel eines Transformators.
-<div class="container" style="margin-left:10%">
-    <span class="text-box" id="textToCopy1">Ich habe folgende Aufgabe bekommen: Erkäre die Anwendung des Induktionsgesetzes am Beispiel eines Transformators. Ich gebe dir meine Antwort im folgenden Prompt. Bitte bewerte meine Antwort auf seine Richtigkeit. Nutze als Formelzeichen für die Spannung U.</span>
-</div>
-<script input="button" style="margin-left:10%">
-        const text = document.getElementById("textToCopy1").innerText;
-        navigator.clipboard.writeText(text).then(() => {
-            alert("Text wurde in die Zwischenablage kopiert!");
-        }).catch(err => {
-            console.error("Fehler beim Kopieren: ", err);
-        });
-        "Kopieren"
-</script>
+<p style="color:blue">
+Kopiere den Prompt in das Feld der KI (nutze den Button _Kopieren_). Beantworte dann die gestellte Aufgabe. Verbessere deine Antwort, bis die KI deine Antwort akzeptiert. <br> Wiederhole es mit der zweiten Aufgabe.
+</p>
 
 ---
 
-2. __Generator:__ Erkäre die Anwendung des Induktionsgesetzes am Beispiel eines Generators.
+__Generator-Aufgabe:__<br> Erkäre die Anwendung des Induktionsgesetzes am Beispiel eines Generators.
 <div class="container" style="margin-left:10%">
+    __Prompt__ <br>
     <span class="text-box" id="textToCopy2">Ich habe folgende Aufgabe bekommen: Erkäre die Anwendung des Induktionsgesetzes am Beispiel eines Generators. Ich gebe dir meine Antwort im folgenden Prompt. Bitte bewerte meine Antwort auf seine Richtigkeit. Nutze als Formelzeichen für die Spannung U.</span>
 </div>
 <script input="button" style="margin-left:10%">
@@ -4865,7 +4910,29 @@ Passwort: phy-@color(xx,red)
         }).catch(err => {
             console.error("Fehler beim Kopieren: ", err);
         });
-        "Kopieren"
+        "Prompt Kopieren"
 </script>
 
 ---
+
+
+### Generator selber bauen
+
+__Aufgabenstellung:__ Nutze in einer Gruppe von zwei Leuten den Bausatz und baue den Generator auf. Am Lehrertisch gibt es ein Demogerät. Experimentiere mit dem Generator anhand folgender Aufgaben
+
+{{1}}
+*******
+__Der Generator:__
+
+1. Schließe an den Generator das Cassy-Messgerät zur Spannungsmessung an. (nur @color(roten,red) und @color(schwarzen, black) Pol verwenden.)
+
+2. Stelle das Cassy-Messgerät bei der Spannungseinstellung (__Messbereich__) auf -0,3 bis 0,3 V.
+
+3. Drehe an der Welle und überprüfe die angezeigte Spannung. <br> {2}{@color(-> Das Voltmeter sollte ausschlagen.,orange)}
+
+4. Überprüfe, ob du die maximale Spannung beeinflussen kannst.
+
+5. Wähle das Diagramm (oben rechts) und dann die Stoppuhr (oben links) und lass dir den zeitlichen Spannungsverlauf anzeigen.
+
+*******
+
