@@ -4899,8 +4899,6 @@ Login: phy-@color(xx,red)@gykl.ipads
 
 Passwort: phy-@color(xx,red)
 
-??[OpenWebUI](https://subtle-corgi-firmly.ngrok-free.app)
-
 <p style="color:blue">
 Kopiere den Prompt in das Feld der KI (nutze den Button _Kopieren_). Beantworte dann die gestellte Aufgabe. Verbessere deine Antwort, bis die KI deine Antwort akzeptiert. <br> Wiederhole es mit der zweiten Aufgabe.
 </p>
@@ -4923,6 +4921,8 @@ __Generator-Aufgabe:__<br> Erkäre die Anwendung des Induktionsgesetzes am Beisp
 </script>
 
 ---
+
+??[OpenWebUI](https://subtle-corgi-firmly.ngrok-free.app)
 
 
 ### Generator selber bauen
