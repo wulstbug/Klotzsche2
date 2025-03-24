@@ -226,7 +226,11 @@ __Generator-Aufgabe:__<br> Erkäre die Anwendung des Induktionsgesetzes am Beisp
 </div>
 <script input="button" style="margin-left:10%">
         const text = document.getElementById("textToCopy2").innerText;
-        navigator.clipboard.writeText(text);
+        navigator.clipboard.writeText(text).then(() => {
+            alert("Text wurde in die Zwischenablage kopiert!");
+        }).catch(err => {
+            console.error("Fehler beim Kopieren: ", err);
+        });
         "Prompt Kopieren"
 </script>
 
