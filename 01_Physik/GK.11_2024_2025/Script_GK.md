@@ -4668,7 +4668,7 @@ _35 min_
 
 </p>
 
-### 2.2.1 Beschleunigung im Längsfeld - ElLektronenkanone
+### 2.2.1 Beschleunigung im Längsfeld - Elektronenkanone
 
 @timer(35,00)
 
