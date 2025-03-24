@@ -4904,7 +4904,7 @@ Kopiere den Prompt in das Feld der KI (nutze den Button _Kopieren_). Beantworte 
 __Generator-Aufgabe:__<br> Erkäre die Anwendung des Induktionsgesetzes am Beispiel eines Generators.
 <div class="container" style="margin-left:10%">
     __Prompt__ <br>
-    <span class="text-box" id="textToCopy2">Ich habe folgende Aufgabe bekommen: Erkäre die Anwendung des Induktionsgesetzes am Beispiel eines Generators. Gib mir nicht die Antwort auf die Aufgabe, sonder ich gebe dir meine Antwort im folgenden Prompt und du bewertes meine Antwort auf seine Richtigkeit. Nutze als Formelzeichen für die Spannung U.</span>
+    <span class="text-box" id="textToCopy2">Ich habe folgende Aufgabe bekommen: Erkäre die Anwendung des Induktionsgesetzes am Beispiel eines Generators. Bitte warte auf meine Antwort und bewerte diese. Gib mir nicht die Lösung, sondern warte auf meine Aussagen.</span>
 </div>
 <script input="submit" style="margin-left:10%" default="Prompt Kopieren">
         const text = document.getElementById("textToCopy2").innerText;
