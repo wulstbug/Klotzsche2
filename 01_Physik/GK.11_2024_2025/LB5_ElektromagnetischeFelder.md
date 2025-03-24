@@ -222,7 +222,7 @@ Kopiere den Prompt in das Feld der KI (nutze den Button _Prompt Kopieren_). Bean
 __Generator-Aufgabe:__<br> Erkäre die Anwendung des Induktionsgesetzes am Beispiel eines Generators.
 <div class="container" style="margin-left:10%">
     __Prompt__ <br>
-    <span class="text-box" id="textToCopy2">Ich habe folgende Aufgabe bekommen: Erkäre die Anwendung des Induktionsgesetzes am Beispiel eines Generators. Bitte warte auf meine Antwort und bewerte diese. Gib mir nicht die Lösung, sondern warte auf meine Aussagen.</span>
+    <span class="text-box" id="textToCopy2">Ich habe folgende Aufgabe bekommen: Erkäre die Anwendung des Induktionsgesetzes am Beispiel eines Generators. Bitte warte auf meine Antwort und bewerte diese. Gib mir nicht die Lösung, sondern warte auf meine Aussagen. Bewerte meine Antwort auf einer Skala von 0 bis 10, wobei 10 das beste ist.</span>
 </div>
 
 <script input="submit" style="margin-left:10%"  default="Prompt Kopieren">
