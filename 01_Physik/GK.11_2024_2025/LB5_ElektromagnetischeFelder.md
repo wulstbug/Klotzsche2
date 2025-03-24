@@ -212,6 +212,7 @@ _Hinweis: Magnet und Spule (d.h. **Rotor** und **Stator**) können auch vertausc
 ### KI: Elektromagnetische Induktion am Generator
 
 Login: phy-@color(xx,red)@gykl.ipads
+
 Passwort: phy-@color(xx,red)
 
 ??[OpenWebUI](https://subtle-corgi-firmly.ngrok-free.app)
