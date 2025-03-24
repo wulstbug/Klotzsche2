@@ -280,3 +280,169 @@ Löse die Aufgaben auf dem Arbeitsblatt. Vergleich deine Lösungen dann mit den 
 
 [Moodle_EineRealistischeAutofahrt_2](https://diversewolken.ddns.net/moodle/mod/quiz/view.php?id=559)
 
+
+
+## 3. 4. Beschleunigung
+
+> Definition: Die __Beschleunigung__ definieren wir als Änderung der Geschwindigkeit in einer bestimmten Zeit. <br> Die __Beschleunigung__ gibt an, um welchen Wert sich die Geschwindigkeit pro Sekunde ändert.
+
+> Formelzeichen:   $\hspace{1cm}a$
+> <br> <br>
+> Einheit: $\hspace{1cm} \large{\Big[ \frac{\frac{m}{s}}{s} =\frac{m}{s^2} \Big]}$
+> <br> <br>
+>
+> Formel: $\hspace{1cm} \boxed{\large{a = \dfrac{\Delta v}{\Delta t}}}$
+
+---
+
+<p class="newspaper">
+
+__Beispiel 1:__ Auf dem Arbeitsblatt der letzten Stunde (Aufgabe 8) wurde gefragt: Um welchen Betrag ändert sich die Geschwindigkeit von Punkt 5->6 pro Sekunde, oder <br> @color(Wie groß ist die Beschleunigung?, red)
+
+__Lösung:__ Die Geschwindigkeit ändert sich in $25s$ von  $0\frac{m}{s} $ auf $12,56 \frac{m}{s}$. <br> Das heißt:
+
+geg.:
+
+<p style="margin-left:5%">
+
+$\Delta t = 25 s$
+
+$\Delta v = 12,56 \frac{m}{s}$
+
+</p>
+
+ges.: 
+
+<p style="margin-left:5%">
+
+$a_{5->6}$
+
+</p>
+
+Lösung: 
+
+<p style="margin-left:5%">
+
+$ a_{5->6} = \dfrac{\Delta v}{\Delta t} = \dfrac{12,56 \frac{m}{s}}{25 s}$
+
+$a_{5->6}=0,5024 \frac{m}{s^2} \approx 0,5 \frac{m}{s^2}$
+
+</p>
+
+
+
+<p class="cb">
+
+__Beispiel 2__: Ermittle die Beschleunigung nach der ersten Ampel.
+
+geg.:
+
+<p style="margin-left:5%">
+
+$\Delta t = ... s$
+
+$\Delta v = ... \frac{m}{s}$
+
+</p>
+
+ges.: 
+
+<p style="margin-left:5%">
+
+$a_{1->2}$
+
+</p>
+
+<details>
+
+<summary> Lsg.: </summary>
+
+<p style="margin-left:5%">
+
+$a_{1->2} = \dfrac{\Delta v}{\Delta t}$
+
+Die Geschwindigkeit ändert sich von $0\frac{m}{s}$ auf $8,6\frac{m}{s}$. Die benötigte Zeit ist $5s$.
+
+$a_{1->2} = \dfrac{8,6\frac{m}{s}}{5 s}$
+
+$a_{1->2}\approx 1,72 \frac{m}{s^2}$
+
+</p>
+
+</details>
+
+</p>
+
+<br>
+
+</p>
+
+---
+
+<p style="color:blue">
+__Aufgaben: __
+
+- übernimm das Tafelbild
+
+- berechne Beispiel 2
+
+- löse bei Moodle die Aufgaben 10-13
+
+- [Moodle-EineRealistischeAutofahrt-10-bis-13](https://diversewolken.ddns.net/moodle/mod/quiz/view.php?id=559)
+</p>
+
+
+#### KI: Unterschied zwischen Durchschnittsgeschwindigkeit und Momentangeschwindigkeit
+
+
+<p style="color:blue">
+Kopiere den Prompt in das Feld der KI (nutze den Button _Kopieren_). Beantworte dann die gestellte Aufgabe. Verbessere deine Antwort, bis die KI deine Antwort akzeptiert. <br> Wiederhole es mit der zweiten Aufgabe.
+</p>
+
+---
+
+__Generator-Aufgabe:__<br> Erkläre mit eigenen Worten den Unterschied zwischen der Durchschnittsgeschwindigkeit und der Momentangeschwindigkeit.
+
+<div class="container" style="margin-left:10%">
+    __Prompt__ <br>
+    <span class="text-box" id="textToCopy2">Ich habe folgende Aufgabe bekommen: Erkläre mit eigenen Worten den Unterschied zwischen der Durchschnittsgeschwindigkeit und der Momentangeschwindigkeit. Bitte warte auf meine Antwort und bewerte diese. Gib mir nicht die Lösung, sondern warte auf meine Aussagen. Mein Niveau ist 9. Klasse.</span>
+</div>
+<script input="submit" style="margin-left:10%" default="Prompt Kopieren">
+        const text = document.getElementById("textToCopy2").innerText;
+        navigator.clipboard.writeText(text).then(() => {
+            alert("Text wurde in die Zwischenablage kopiert!");
+        }).catch(err => {
+            console.error("Fehler beim Kopieren: ", err);
+        });
+        "Prompt Kopieren"
+</script>
+
+---
+
+Login: phy-@color(xx,red)@gykl.ipads
+
+Passwort: phy-@color(xx,red)
+
+??[OpenWebUI](https://subtle-corgi-firmly.ngrok-free.app)
+
+### Videoanalyse mit VIANA2
+
+__Arbeitsablauf__
+
+1. Besorge dir in deiner Gruppe ein Stahlkugel und ein großes Lineal.
+
+2. Positioniere das Tablet auf dem Tisch so, dass das Lineal zu sehen ist und die Kugel entlange des Lineals rollen kann.
+
+3. Öffne das Video-Analyse-Tool VIANA2 auf dem Tablet.
+
+4. Wähle: Neues Projekt. Nimm mit dem Tablet die gleichförmige Bewegung der Kugel entlang des Lineals auf.
+
+5. Ergänze in deiner Analyse den Maßstab und das Koordinatensystem
+
+6. Lass dir das s(t)-Diagramm und das v(t)-Diagramm darstellen.
+
+7. Zeige dein Ergebnis kurz dem Fachlehrer
+
+8. Lass dir zwei Holzblocks geben und stelle diese unter deinen Tisch.
+
+9. Wiederhole die Analyse mit einem neuen Projekt und einer __beschleunigten Bewegung__ der Kugel auf dem schrägen Tisch.
