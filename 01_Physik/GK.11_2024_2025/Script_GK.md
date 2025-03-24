@@ -4674,7 +4674,7 @@ _35 min_
 
 __Aufbau einer Elektronenkanone__
 
-??[VirtuelleExperiment_Elektronenkanone_Aufbau](https://virtuelle-experimente.de/kanone/klassisch/aufbau.php "Quelle: Stefan Richtberg, https://virtuelle-experimente.de, CC BY-NC-SA 3.0 DE")
+??[VirtuelleExperiment_Elektronenkanone_Aufbau](https://virtuelle-experimente.de/kanone/klassisch/aufbau.php "Quelle: Stefan Richtberg, https://virtuelle-experimente.de CC BY-NC-SA 3.0 DE")
 
 <p style="color:blue">
 
