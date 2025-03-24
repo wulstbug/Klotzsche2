@@ -225,7 +225,7 @@ __Generator-Aufgabe:__<br> Erkäre die Anwendung des Induktionsgesetzes am Beisp
     <span class="text-box" id="textToCopy2">Ich habe folgende Aufgabe bekommen: Erkäre die Anwendung des Induktionsgesetzes am Beispiel eines Generators. Ich gebe dir meine Antwort im folgenden Prompt. Bitte bewerte meine Antwort auf seine Richtigkeit. Nutze als Formelzeichen für die Spannung U.</span>
 </div>
 
-<script input="button" style="margin-left:10%"  default="Prompt Kopieren">
+<script input="submit" style="margin-left:10%"  default="Prompt Kopieren">
         const text = document.getElementById("textToCopy2").innerText;
         navigator.clipboard.writeText(text).then(() => {
             alert("Text wurde in die Zwischenablage kopiert!");
