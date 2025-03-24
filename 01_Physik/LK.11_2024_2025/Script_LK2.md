@@ -3185,3 +3185,57 @@ Nutze Sie die Formel für die magnetische Flussdichte, ermittlen Sie die Funktio
 </p>
 
 </details>
+
+---
+
+3. Es wird eine lange Spule der Länge $l = 21cm$ betrachtet. Fließt durch die Spule eine Stromstärke von 2A so erhällt man eine magnetische Flussdicht von $30\,mT$. Fügt man in die Spule einen ferromagnetischen Kern, so erhöht sich die magnetische Flussdichte auf den Wert $2,4\,T$.
+
+3. 1. Nennen Sie ein Material aus welchem der ferromagnetische Kern bestehen könnte. Begründen Sie Ihre Aussage. 
+
+     <!-- data-solution-button="off" -->
+     [[ Cobalt ]]
+
+<details style="margin-left:10%">
+
+<summary> Begründung </summary>
+
+Ohne Ferromagnetikum ist die magnetische Flussdichte $0,03 T$ und mit Ferromagnetikum erhöht sich die Flussdichte um das 80-fache auf $2,4 T$. Der Wert für $\mu_r$ muss demzufolge 80 betragen und dafür kommt aus der FS S. 54 nur Cobalt in Frage.
+
+</details>
+
+3. 2. Ermitteln Sie die Anzahl der Windungen der Spule.
+
+     <!-- data-solution-button="off" -->
+     [[ 2500 ]]
+
+<details style="margin-left:10%">
+
+<summary> Lösung </summary>
+
+Formel für magnetische Flussdichte im Inneren einer Spule nutzen und nach $N$ auflösen.
+
+</details>
+
+3. 3. __Partnerarbeit__ Geben Sie zwei Möglichkeiten an, mit der man die magnetische Flussdichte der Spule(inklusive Kern) verdoppeln kann.
+
+<details style="margin-left:10%">
+
+<summary> Möglichkeiten </summary>
+
+- Stromstärke verdoppeln
+- Windungszahl verdoppeln
+- Länge der Spule halbieren
+- Ferromagnetikum mit $\mu_r=2$ gibt es laut Tabelle nicht
+
+</details>
+
+3. 4. __Partnerarbeit__ Beschreiben Sie die Vorgänge, welche beim Einfügen eines ferromagnetischen Stoffes in ein äußeres Magnetfeld auf mikroskopischer Ebene im Ferromagnetikum ablaufen. Erklären Sie auch, warum sich die magnetische Flussdichte bei einem geeigneten Material erhöht.
+
+<details style="margin-left:10%">
+
+<summary> Lösungen </summary>
+
+Ein ferromagnetischer Stoff hat mikroskopische magnetische Elemente, genannt @color(Elementarmagnete, red). Diese sind im Normalzustand des Ferromagnetikums @color(ungeordnet, red). Unter dem Einluss eines @color(äußeren Feldes, red) ordnen sich Elementarmagnete mit Ihren Polen entlang der Feldlinien des äußeren Feldes, man nennt das @color(Magnetisierung, red). <br>
+Die geordneten Elementarmagnete verstärken mit ihren ausgerichteten Elementarmagneten das äußere Feld
+
+</details>
