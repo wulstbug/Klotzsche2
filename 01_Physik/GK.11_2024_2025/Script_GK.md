@@ -4722,7 +4722,7 @@ __Aufgaben:__
 
 __Aufbau einer Elektronen-Ablenkröhre__
 
-??[VirtuelleExperiment_ElektronenAblenkrhre](https://virtuelle-experimente.de/e-feld/hypothesen/versuchsaufbau.php "Quelle: Stefan Richtberg, https://virtuelle-experimente.de, CC BY-NC-SA 3.0 DE")
+??[VirtuelleExperiment_ElektronenAblenkrhre](https://virtuelle-experimente.de/e-feld/hypothesen/versuchsaufbau.php "Quelle: Stefan Richtberg, https://virtuelle-experimente.de CC BY-NC-SA 3.0 DE")
 
 <p style="color:blue">
 
