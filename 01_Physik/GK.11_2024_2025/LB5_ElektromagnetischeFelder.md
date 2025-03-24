@@ -239,6 +239,11 @@ __Generator-Aufgabe:__<br> Erkäre die Anwendung des Induktionsgesetzes am Beisp
 
 @button[Prompt Kopiere 2](copyText)
 
+@input
+<pre>
+<button onclick="copyText()">Starte das Script</button>
+</pre>
+
 ---
 
 Login: phy-@color(xx,red)@gykl.ipads
