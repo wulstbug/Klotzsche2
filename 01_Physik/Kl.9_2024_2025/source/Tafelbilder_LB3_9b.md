@@ -308,7 +308,7 @@ geg.:
 
 <p style="margin-left:5%">
 
-$\Delta t = 25 s$
+$\Delta t = 5 s$
 
 $\Delta v = 12,56 \frac{m}{s}$
 
@@ -326,9 +326,9 @@ Lösung:
 
 <p style="margin-left:5%">
 
-$ a_{5->6} = \dfrac{\Delta v}{\Delta t} = \dfrac{12,56 \frac{m}{s}}{25 s}$
+$ a_{5->6} = \dfrac{\Delta v}{\Delta t} = \dfrac{12,56 \frac{m}{s}}{5 s}$
 
-$a_{5->6}=0,5024 \frac{m}{s^2} \approx 0,5 \frac{m}{s^2}$
+$a_{5->6}=2,512 \frac{m}{s^2} \approx 2,5 \frac{m}{s^2}$
 
 </p>
 
