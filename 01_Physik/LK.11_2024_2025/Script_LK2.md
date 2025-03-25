@@ -3285,11 +3285,15 @@ Passwort: phy-@color(xx,red)
 
 <p class="newspaper">
 
-> Elektrische Kraft auf Teilchen (hier @color(Elektronen, darkgreen) ) wirkt __entlang der Bewegungsrichtung__ (Längsfeld).
+__Bewegung im Längsfeld__
+
+> Elektrische Kraft auf Teilchen (hier @color(Elektronen, darkgreen) ) wirkt __entlang der Bewegungsrichtung__
 
 <p class="cb">
 
-> Elektrische Kraft auf Teilchen (hier @color(Elektronen, darkgreen) ) wirkt __senkrecht zur Bewegungsrichtung__ (Querfeld).
+__Bewegung im Querfeld__
+
+> Elektrische Kraft auf Teilchen (hier @color(Elektronen, darkgreen) ) wirkt __senkrecht zur Bewegungsrichtung__
 
 </p>
 
@@ -3367,7 +3371,7 @@ __Aufgaben:__
 
 __Aufbau einer Elektronen-Ablenkröhre__
 
-??[VirtuelleExperiment_ElektronenAblenkrhre](https://virtuelle-experimente.de/e-feld/hypothesen/versuchsaufbau.php "Quelle: Stefan Richtberg, https://virtuelle-experimente.de, CC BY-NC-SA 3.0 DE")
+??[VirtuelleExperiment_ElektronenAblenkrhre](https://virtuelle-experimente.de/e-feld/hypothesen/versuchsaufbau.php "Quelle: Stefan Richtberg, https://virtuelle-experimente.de CC BY-NC-SA 3.0 DE")
 
 <p style="color:blue">
 
