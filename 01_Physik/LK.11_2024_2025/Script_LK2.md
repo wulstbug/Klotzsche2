@@ -3399,6 +3399,28 @@ __Aufgaben:__
 > Die Bahnform der Elektronen ist eine __Parabel__ mit der Gleichung
 >
 > $$\boxed{y(x) = \dfrac{U_p}{4 \cdot d \cdot U_b} \cdot x^2}$$
+>
+> Die parabelförmige Bewegung ist eine __Superposition__ (Überlagerung) aus einer gleichförmigen Bewegung (in x-Richtung) und einer gleichmäßig beschleunigten Bewegung in (y-Richtung). Es gelten die __Bewegungsgleichungen__:
+
+<p class="newspaper">
+
+> $x(t) = v_{0x} \cdot t$ 
+>
+> $v_x(t) = v_{0x} $
+>
+> $a_x(t) = 0 $
+
+<p class="cb">
+
+> $y(t) = \frac{1}{2} \cdot a_y \cdot t^2$
+>
+> $v_y(t) =  a_y \cdot t$
+> 
+> $a_y(t) \overset{\mathrm{2.NG}}{=} \frac{F_{el}}{m} = \frac{E_{el}\cdot q}{m} = \frac{U_p \cdot q}{d \cdot m} $
+
+</p>
+
+</p>
 
 </p>
 
