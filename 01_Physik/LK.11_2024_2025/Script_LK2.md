@@ -3251,7 +3251,7 @@ Kopiere den Prompt in das Feld der KI (nutze den Button _Prompt Kopieren_). Bean
 __Ferromagnetikum-Aufgabe:__<br> Beschreiben Sie die Vorgänge, welche beim Einfügen eines ferromagnetischen Stoffes in ein äußeres Magnetfeld auf mikroskopischer Ebene im Ferromagnetikum ablaufen. Erklären Sie auch, warum sich die magnetische Flussdichte bei einem geeigneten Material erhöht.
 <div class="container" style="margin-left:10%">
     __Prompt__ <br>
-    <span class="text-box" id="textToCopy2">Ich habe folgende Aufgabe bekommen: Beschreiben Sie die Vorgänge, welche beim Einfügen eines ferromagnetischen Stoffes in ein äußeres Magnetfeld auf mikroskopischer Ebene im Ferromagnetikum ablaufen. Erklären Sie auch, warum sich die magnetische Flussdichte bei einem geeigneten Material erhöht. Bitte warte auf meine Antwort und bewerte diese. Gib mir nicht die Lösung, sondern warte auf meine Aussagen. Bewerte meine Antwort auf einer Skala von 0 bis 10, wobei 10 das beste ist.</span>
+    <span class="text-box" id="textToCopy2">Gib mir keine Hinweise und nicht die Lösung, sondern warte auf meine Aussagen. Bewerte meine Antwort auf einer Skala von 0 bis 10, wobei 10 das beste ist. Ich habe folgende Aufgabe bekommen: Beschreiben Sie die Vorgänge, welche beim Einfügen eines ferromagnetischen Stoffes in ein äußeres Magnetfeld auf mikroskopischer Ebene im Ferromagnetikum ablaufen. Erklären Sie auch, warum sich die magnetische Flussdichte bei einem geeigneten Material erhöht. Bitte warte auf meine Antwort und bewerte diese.</span>
 </div>
 
 <script input="submit" style="margin-left:10%"  default="Prompt Kopieren">
