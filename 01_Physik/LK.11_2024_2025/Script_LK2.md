@@ -3399,6 +3399,8 @@ __Aufgaben:__
 >
 > $$\boxed{y(x) = \dfrac{U_p}{4 \cdot d \cdot U_b} \cdot x^2}$$
 
+</p>
+
 2. Wechsle zu den _Übungen_ (oberes Menü) und bearbeite:
 
 2. 1. Übung Fachbegriffe
@@ -3412,8 +3414,6 @@ __Aufgaben:__
       - Aufgabe 2
 
       - Aufgabe 5 (a, b, d)
-
-</p>
 
 </p>
 
