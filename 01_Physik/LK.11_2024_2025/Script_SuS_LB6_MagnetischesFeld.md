@@ -1038,5 +1038,4 @@ Login: phy-@color(xx,red)@gykl.ipads
 
 Passwort: phy-@color(xx,red)
 
-??[OpenWebUI](https://subtle-corgi-firmly.ngrok-free.app)
-
+??[OpenWebUI](http://10.102.1.3:3001 "OpenWebUI, alternativ: http://10.8.0.5:3001")
