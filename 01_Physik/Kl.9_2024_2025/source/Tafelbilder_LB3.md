@@ -513,7 +513,7 @@ Telekolleg_AllesImmerSchneller_Bis5:50
 
 !?[Telekolleg_AllesImmerSchneller](https://diversewolken.ddns.net/nextcloud/index.php/s/2QFxN89dLeXtMdT/download)
 
-#### KI: Unterschied zwischen Durchschnittsgeschwindigkeit und Momentangeschwindigkeit
+#### KI-Aufgaben: Erkläre Begriffe der Bewegungsgesetze
 
 
 <p style="color:blue">
@@ -522,7 +522,7 @@ Kopiere den Prompt in das Feld der KI (nutze den Button _Kopieren_). Beantworte 
 
 ---
 
-__Generator-Aufgabe:__<br> Erkläre mit eigenen Worten den Unterschied zwischen der Durchschnittsgeschwindigkeit und der Momentangeschwindigkeit.
+__1. Geschwindigkeit-Aufgabe:__<br> Erkläre mit eigenen Worten den Unterschied zwischen der Durchschnittsgeschwindigkeit und der Momentangeschwindigkeit.
 
 <div class="container" style="margin-left:10%">
     __Prompt__ <br>
