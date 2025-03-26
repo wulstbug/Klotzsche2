@@ -1038,4 +1038,4 @@ Login: phy-@color(xx,red)@gykl.ipads
 
 Passwort: phy-@color(xx,red)
 
-??[OpenWebUI](http://10.102.1.3:3001 "OpenWebUI http://10.102.1.3:3001")
+[KI-OpenWebUI](http://10.102.1.3:3001)
