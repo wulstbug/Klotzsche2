@@ -22,3 +22,4 @@ __Generator-Aufgabe:__<br> Erkäre die Anwendung des Induktionsgesetzes am Beisp
         });
         "Prompt Kopieren"
 </script>
+
