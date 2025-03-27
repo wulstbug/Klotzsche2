@@ -339,6 +339,11 @@ Passwort: phy-@color(xx,red)
 [KI-OpenWebUI](http://10.102.1.3:3001)
 
 
+alternativer Link für eigene Geräte
+
+[KI-OpenWebUI-BYOD](https://subtle-corgi-firmly.ngrok-free.app)
+
+
 ## 7.1.3. Der Millikan-Versuch
 
 _Tafelbildvideo zum Millikan-Versuch:_
@@ -476,3 +481,40 @@ __Aufgabenstellung:__ Nutzen Sie die Simulation auf LEIFI-Physik ([SIMULATION_MI
 
 </details>
 
+
+#### KI-Aufgabe: Erkläre den Milikan-Versuch
+
+
+<p style="color:blue">
+Kopiere den Prompt in das Feld der KI (nutze den Button _Kopieren_). Beantworte dann die gestellte Aufgabe. Verbessere deine Antwort, bis die KI deine Antwort akzeptiert.
+</p>
+
+---
+
+__Ladung-EFeld-Aufgabe:__<br> Erkläre mit eigenen Worten den Milikan-Versuch <br> 1. Erkläre das Ziel, mit welchem der Versuch durchgeführt wurde. <br> 2. Erkläre den Versuchsaufbau <br> 3. Beschreibe, was bei den Messungen als Ergebnisse heraus gekommen sind. <br> 4. Erkläre, wie man die Ergebnisse interpretieren konnte.
+
+<div class="container" style="margin-left:10%">
+    __Prompt__ <br>
+    <span class="text-box" id="textToCopy2">Ich habe folgende Aufgabe bekommen: Erkläre mit eigenen Worten den Milikan-Versuch <br> 1. Erkläre das Ziel, mit welchem der Versuch durchgeführt wurde. <br> 2. Erkläre den Versuchsaufbau <br> 3. Beschreibe, was bei den Messungen als Ergebnisse heraus gekommen sind. <br> 4. Erkläre, wie man die Ergebnisse interpretieren konnte. <br> Bitte warte auf meine Antwort und bewerte diese. Gib mir nicht die Lösung, sondern warte auf meine Aussagen. Mein Niveau ist Leistungskurs Physik Klasse 11. Bewerte meine Antwort jeweils auf einer Skala von 0 bis 10, wobei 10 das beste ist.</span>
+</div>
+<script input="submit" style="margin-left:10%" default="Prompt Kopieren">
+        const text = document.getElementById("textToCopy2").innerText;
+        navigator.clipboard.writeText(text).then(() => {
+            alert("Text wurde in die Zwischenablage kopiert!");
+        }).catch(err => {
+            console.error("Fehler beim Kopieren: ", err);
+        });
+        "Prompt Kopieren"
+</script>
+
+---
+
+Login: phy-@color(xx,red)@gykl.ipads
+
+Passwort: phy-@color(xx,red)
+
+[KI-OpenWebUI](http://10.102.1.3:3001)
+
+alternativer Link für eigene Geräte
+
+[KI-OpenWebUI-BYOD](https://subtle-corgi-firmly.ngrok-free.app)
