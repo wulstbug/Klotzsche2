@@ -602,3 +602,112 @@ __Arbeitsablauf__
 
 9. Wiederhole die Analyse mit einem neuen Projekt und einer __beschleunigten Bewegung__ der Kugel auf dem schrägen Tisch.
 
+### Tägliche Übung zur Beschleunigung 2
+
+@timer(10,00)
+
+__Seite 2__
+
+[TÜ-Beschleunigung-PDF](https://diversewolken.ddns.net/nextcloud/index.php/s/aeGt4Bz9ZqT3kef/download)
+
+oder
+
+[PPT-Beschleunigung](https://gykl-my.sharepoint.com/:p:/g/personal/golnik_ch_gykl_onmicrosoft_com/EYV_CNu29v1Es0v6hxd5YLwBtw9lSEZsJ9Nh9pIE6mDl7A?e=RDmj0F)
+
+## 3. 5. Gleichförmige und beschleunigte Bewegung in Diagrammen darstellen
+
+<p class="newspaper3">
+
+__Stillstand__
+
+<p class="cb">
+
+__Gleichförmige Bewegung__ 
+
+<p class="cb">
+
+__Gleichmäßig beschleunigte Bewegung__ 
+
+</p>
+
+</p>
+
+</p>
+
+---
+
+<p class="newspaper3">
+
+{{1}}
+******
+![Stillstand_Diagramm](https://diversewolken.ddns.net/nextcloud/index.php/s/zMpWeaaMACHY6HL/download)
+
+******
+
+<p class="cb">
+
+{{2}}
+***********
+![GleichfoermigeBewegung_Diagramm](https://diversewolken.ddns.net/nextcloud/index.php/s/dtrzEiGrk59cTgf/download)
+
+***********
+
+
+<p class="cb">
+
+{{3}}
+***********
+![GleichmäßigBeschleunigteBewegung_Diagramm](https://diversewolken.ddns.net/nextcloud/index.php/s/QQPDawMqpmgpr7t/download)
+
+***********
+
+</p>
+
+</p>
+
+</p>
+
+{{4}}
+************
+---
+
+<p class="newspaper3">
+
+> Beim Stillstand ist der Graph im s(t)-Diagramm eine horizontale Linie. Der Graph im v(t)-Diagramm ist eine Null-Linie.
+
+<p class="cb">
+
+> Bei einer gleichförmigen Bewegung ist der Graph im s(t)-Diagramm eine Gerade. Der Graph im v(t)-Diagramm ist eine horizontale Linie.
+
+<p class="cb">
+
+> Bei einer gleichmäßig beschleunigten Bewegung ist der s(t)-Diagramm eine Parabel. Der Graph im v(t)-Diagramm ist eine Gerade.
+
+</p>
+
+</p>
+
+</p>
+************
+
+### Gemeinsam: Arbeitsblatt Vorderseite
+
+{1-2}{![Seite_1](https://diversewolken.ddns.net/nextcloud/index.php/s/iMMbWwxzsJDwTCp/download)}
+
+{2-3}{![Seite_2](https://diversewolken.ddns.net/nextcloud/index.php/s/XX5dFGmcmZjLJxB/download)}
+
+{3-4}{![Seite_3](https://diversewolken.ddns.net/nextcloud/index.php/s/2KAej2AdQotYEC7/download)}
+
+{4-5}{![Seite_4](https://diversewolken.ddns.net/nextcloud/index.php/s/LH5is4YJnyj4nox/download)}
+
+{5}{![Seite_5](https://diversewolken.ddns.net/nextcloud/index.php/s/pLBdq4SR9biYb45/download)}
+
+### Einzelarbeit: Realistische Autofahrt
+
+Erstelle das v(t)-Diagramm der Autofahrt
+
+{0-1}{![Aufgabe_Autofahrt](https://diversewolken.ddns.net/nextcloud/index.php/s/2WmoJTDkfctD4jg/download)}
+
+{1-2}{![Loesung_Autofahrt](https://diversewolken.ddns.net/nextcloud/index.php/s/mAJSRTmqpLRraJc/download)}
+
+
