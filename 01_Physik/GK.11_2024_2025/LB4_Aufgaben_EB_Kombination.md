@@ -102,7 +102,7 @@ try {
 
 -->
 
-## Checkliste LK 11ph3
+## Checkliste LK 11ph2
 
 - Lorentzkraft auf eine bewegte Ladung im homogenen Magnetfeld (Formel und Handregeln)
 
