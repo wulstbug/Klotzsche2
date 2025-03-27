@@ -102,6 +102,27 @@ try {
 
 -->
 
+## Checkliste LK 11ph3
+
+- Lorentzkraft auf eine bewegte Ladung im homogenen Magnetfeld (Formel und Handregeln)
+
+- Bewegung einer Ladung im homogenen Magnetfeld (inkl. Bestimmung Kreisbahnradius)
+
+- Beschleunigung einer elektrischen Ladung im elektrischen Feld (Längsfeld / Elektronenkanone)
+
+    - Aufbau, Funktionsweise der einzelnen Bauteile
+    
+    - Energiezuwach bei der Beschleunigung mit der Spannung U
+
+    - Art der Bewegung
+
+    - Abhängigkeit der Endgeschwindigkeit von der Beschleunigungsspannung (qualitativ)
+
+- Verständnis des e/m-Versuch (Kombination aus Elektronenkanone und homogenem Magnetfeld in Helmholtzspulen)
+
+    - Formeln für das Magnetfeld einer Helmhotz-Spule müssen nicht auswendig gewusst werden
+
+    - Beschreiben des Versuchs und der zu messenden Größen
 
 ## 3. Übungen zur Kombination aus statischen E- und B-Feld
 
