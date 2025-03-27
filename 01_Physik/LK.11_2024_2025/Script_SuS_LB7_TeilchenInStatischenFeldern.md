@@ -301,7 +301,7 @@ __Aufgaben:__
 
       - Aufgabe 2
 
-      - Aufgabe 5 (a, b, d)
+      - Aufgabe 5 (b, d)
 
 </p>
 
