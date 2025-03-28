@@ -153,7 +153,7 @@ try {
 
 -->
 
-# Checkliste zur Klausur 03.04.2025
+# Checkliste Klausur 03.04.2025
 
 - Elektrisches Feld
 
