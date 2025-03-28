@@ -172,3 +172,43 @@ try {
 - Fehlertypen und Fehlerfortpflanzung für berechnete physikalische Größen
 
 - Grundlagen der Lernbereiche I/II: Energie, Kräfte, Erhaltung
+
+# Checkliste zur Klausur 03.04.2025
+
+- Elektrisches Feld
+
+    - homogene und inhomogene elektrische Felder, elektrische Feldlinien, Feldformen
+
+    - Feldformen (Plattenkondensator, Punktladung)
+
+    - Coulombkräfte zwischen Punktladungen
+
+    - Definition elektrisches Feld, elektrische Kraft auf Ladungen im elektrischen Feld
+
+    - Kraftwirkungen und elektrisches Feld im Plattenkondensator
+
+    - Energie im elektrischen Feld
+
+- Plattenkondensator
+
+    - Kapazitätsbegriff (allgemein und im Plattenkondensator)
+
+    - Dielektrikum (Matierie im elektrischen Feld, Polarisation)
+
+    - Lade- und Entladevorgänge (Spannung und Stromstärke)
+
+- Magnetisches Feld
+
+    - Kraftwirkungen im magnetischen Feld (stromdurchflossene Leiter, bewegte geladene Teilchen, andere Magnete)
+
+    - Berechnung magnetische Flussdichte
+
+    - Materie im magnetischen Feld (Ferromagnetika, Magnetisierung)
+
+- geladene Teilchen in statischen Feldern
+
+    - geladene Teilchen in elektrischen Felder (Querfeld, Längsfeld)
+
+    - Kräfte, Bahnform, Bewegungsgleichungen
+
+    - Milikan-Versuch
