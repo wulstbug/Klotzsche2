@@ -211,8 +211,6 @@ _Hinweis: Magnet und Spule (d.h. **Rotor** und **Stator**) können auch vertausc
 
 ### KI: Elektromagnetische Induktion am Generator
 
-
-
 <p style="color:blue">
 Kopiere den Prompt in das Feld der KI (nutze den Button _Prompt Kopieren_). Beantworte dann die gestellte Aufgabe. Verbessere deine Antwort, bis die KI deine Antwort akzeptiert. <br> Wiederhole es mit der zweiten Aufgabe.
 </p>
@@ -243,6 +241,9 @@ Passwort: phy-@color(xx,red)
 
 [KI-OpenWebUI](http://10.102.1.3:3001)
 
+für eigene Geräte:
+
+[KI-OpenWebUI-BYOD](https://subtle-corgi-firmly.ngrok-free.app)
 
 ### Generator selber bauen
 
