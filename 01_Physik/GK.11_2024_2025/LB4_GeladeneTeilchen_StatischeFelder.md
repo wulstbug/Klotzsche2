@@ -680,6 +680,46 @@ __Aufgabenstellung:__ Nutzen Sie die Simulation auf LEIFI-Physik ([SIMULATION_MI
 </details>
 
 
+### KI-Aufgabe: Erkläre den Milikan-Versuch
+
+<p style="color:blue">
+Kopiere den Prompt in das Feld der KI (nutze den Button _Prompt Kopieren_). Beantworte dann die gestellte Aufgabe. Verbessere deine Antwort, bis die KI deine Antwort akzeptiert. <br> Wiederhole es mit der zweiten Aufgabe.
+</p>
+
+---
+
+__Milikan-Aufgabe:__<br> Erkläre den Milikanversuch. Gehe dazu auf folgende drei Punkte ein. <br> 1. Erkläre den Aufbau des Versuchs. Erkläre auch, wie die Messungen durchgeführt wurden. <br> 2. Beschreibe die Messungen und die Ergebnisse des Milikan-Versuchs ohne zu interpretieren oder zu schlussfolgern. <br> 3. Nenne die Schlussfolgerungen, die man aus den Ergebnissen des Milikan-Versuchs ziehen kann.
+
+<details style="margin-left:10%">
+
+<summary> __Prompt__ </summary>
+
+<span class="text-box" id="textToCopy2">Ich habe folgende Aufgabe bekommen: Erkläre den Milikanversuch. Gehe dazu auf folgende drei Punkte ein. <br> 1. Erkläre den Aufbau des Versuchs. Erkläre auch, wie die Messungen durchgeführt wurden. <br> 2. Beschreibe die Messungen und die Ergebnisse des Milikan-Versuchs ohne zu interpretieren oder zu schlussfolgern. <br> 3. Nenne die Schlussfolgerungen, die man aus den Ergebnissen des Milikan-Versuchs ziehen kann. <br> Bitte warte auf meine Antwort und bewerte diese. Gib mir nicht die Lösung, sondern warte auf meine Aussagen. Bewerte meine Antwort auf einer Skala von 0 bis 10, wobei 10 das beste ist.</span>
+
+</details>
+
+<script input="submit" style="margin-left:10%"  default="Prompt Kopieren">
+        const text = document.getElementById("textToCopy2").innerText;
+        navigator.clipboard.writeText(text).then(() => {
+            alert("Text wurde in die Zwischenablage kopiert!");
+        }).catch(err => {
+            console.error("Fehler beim Kopieren: ", err);
+        });
+        "Prompt Kopieren"
+</script>
+
+---
+
+Login: phy-@color(xx,red)@gykl.ipads
+
+Passwort: phy-@color(xx,red)
+
+[KI-OpenWebUI](http://10.102.1.3:3001)
+
+für eigene Geräte:
+
+[KI-OpenWebUI-BYOD](https://subtle-corgi-firmly.ngrok-free.app)
+
 ## 2.2. Bewegung geladener Teilchen im elektrischen Feld
 
 <p class="newspaper">
@@ -750,6 +790,50 @@ __Aufgaben:__
 
 </p>
 
+
+#### KI-Aufgabe: Beschleunigung elektrischer Ladungen im Längsfeld
+
+
+<p style="color:blue">
+Kopiere den Prompt in das Feld der KI (nutze den Button _Kopieren_). Beantworte dann die gestellte Aufgabe. Verbessere deine Antwort, bis die KI deine Antwort akzeptiert.
+</p>
+
+---
+
+__Ladung-EFeld-Aufgabe:__<br> Erkläre mit eigenen Worten die Bewegung einer elektrischen Ladung im Einfluss eines homogenen elektrischen Feldes, wenn die Feldlinien in Bewegungsrichtung verlaufen (Längsfeld). Gehe dazu auf folgende Punkte ein: <br> 1. Beschreibe einen Aufbau, mit welchem Elektronen beschleunigt werden können. <br> 2. Nenne und begründe die Art der Bewegung der Elektronen. <br> 3. Gib an, wie die Intensität des Elektronenstrahls (d.h. die Anzahl an Elektronen pro Sekunde) beeinflusst werden kann. <br> 4. Gib an, wie die Endgeschwindigkeit der Elektronen beeinflusst werden kann.
+
+<details style="margin-left:10%">
+
+<summary> __Prompt__ </summary>
+
+<span class="text-box" id="textToCopy2">Ich habe folgende Aufgabe bekommen: Erkläre mit eigenen Worten die Bewegung einer elektrischen Ladung im Einfluss eines homogenen elektrischen Feldes, wenn die Feldlinien in Bewegungsrichtung verlaufen (Längsfeld). Gehe dazu auf folgende Punkte ein: <br> 1. Beschreibe einen Aufbau, mit welchem Elektronen beschleunigt werden können. <br> 2. Nenne und begründe die Art der Bewegung der Elektronen. <br> 3. Gib an, wie die Intensität des Elektronenstrahls (d.h. die Anzahl an Elektronen pro Sekunde) beeinflusst werden kann. <br> 4. Gib an, wie die Endgeschwindigkeit der Elektronen beeinflusst werden kann. <br> Bitte warte auf meine Antwort und bewerte diese. Gib mir nicht die Lösung, sondern warte auf meine Aussagen. Mein Niveau ist Grundkurs Physik Klasse 11. Bewerte meine Antwort jeweils auf einer Skala von 0 bis 10, wobei 10 das beste ist.</span>
+    
+</details>
+
+<script input="submit" style="margin-left:10%" default="Prompt Kopieren">
+        const text = document.getElementById("textToCopy2").innerText;
+        navigator.clipboard.writeText(text).then(() => {
+            alert("Text wurde in die Zwischenablage kopiert!");
+        }).catch(err => {
+            console.error("Fehler beim Kopieren: ", err);
+        });
+        "Prompt Kopieren"
+</script>
+
+---
+
+Login: phy-@color(xx,red)@gykl.ipads
+
+Passwort: phy-@color(xx,red)
+
+[KI-OpenWebUI](http://10.102.1.3:3001)
+
+
+alternativer Link für eigene Geräte
+
+[KI-OpenWebUI-BYOD](https://subtle-corgi-firmly.ngrok-free.app)
+
+
 ### 2.2.2 Ablenkung Querfeld - Ablenkröhre
 
 @timer(35, 00)
@@ -801,6 +885,50 @@ __Aufgaben:__
 </p>
 
 </p>
+
+
+#### KI-Aufgabe: Beschleunigung elektrischer Ladungen im Querfeld
+
+
+<p style="color:blue">
+Kopiere den Prompt in das Feld der KI (nutze den Button _Kopieren_). Beantworte dann die gestellte Aufgabe. Verbessere deine Antwort, bis die KI deine Antwort akzeptiert.
+</p>
+
+---
+
+__Ladung-EFeld-Aufgabe:__<br> Erkläre mit eigenen Worten die Bewegung eines geladenen Teilchens im Einfluss eines homogenen elektrischen Feldes, wenn die Feldlinien senkrecht zur Bewegungsrichtung verlaufen (Querfeld). Gehe dazu auf folgende Punkte ein: <br> 1. Beschreibe einen Aufbau, mit welchem eine solche Ablenkung erfolgen kann. <br> 2. Beschreibe die Art der Bewegung der elektrischen Ladungen. Gehe auf den Begriff Superposition ein. <br> 3. Gib qualitativ an, welcher Bahnform die geladenen Teilchen folgen. <br> 4. Gib an, wie die Stärke der Ablenkung der geladenen Teilchen beeinflusst werden kann.
+
+<details style="margin-left:10%">
+
+<summary> __Prompt__ </summary>
+
+<span class="text-box" id="textToCopy2">Ich habe folgende Aufgabe bekommen:<br> Erkläre mit eigenen Worten die Bewegung eines geladenen Teilchens im Einfluss eines homogenen elektrischen Feldes, wenn die Feldlinien senkrecht zur Bewegungsrichtung verlaufen (Querfeld). Gehe dazu auf folgende Punkte ein: <br> 1. Beschreibe einen Aufbau, mit welchem eine solche Ablenkung erfolgen kann. <br> 2. Beschreibe die Art der Bewegung der elektrischen Ladungen. Gehe auf den Begriff Superposition ein. <br> 3. Gib qualitativ an, welcher Bahnform die geladenen Teilchen folgen. <br> 4. Gib an, wie die Stärke der Ablenkung der geladenen Teilchen beeinflusst werden kann. <br> Bitte warte auf meine Antwort und bewerte diese. Gib mir nicht die Lösung, sondern warte auf meine Aussagen. Mein Niveau ist Grundkurs Physik Klasse 11. Bewerte meine Antwort jeweils auf einer Skala von 0 bis 10, wobei 10 das beste ist.</span>
+    
+</details>
+
+<script input="submit" style="margin-left:10%" default="Prompt Kopieren">
+        const text = document.getElementById("textToCopy2").innerText;
+        navigator.clipboard.writeText(text).then(() => {
+            alert("Text wurde in die Zwischenablage kopiert!");
+        }).catch(err => {
+            console.error("Fehler beim Kopieren: ", err);
+        });
+        "Prompt Kopieren"
+</script>
+
+---
+
+Login: phy-@color(xx,red)@gykl.ipads
+
+Passwort: phy-@color(xx,red)
+
+[KI-OpenWebUI](http://10.102.1.3:3001)
+
+
+alternativer Link für eigene Geräte
+
+[KI-OpenWebUI-BYOD](https://subtle-corgi-firmly.ngrok-free.app)
+
 
 
 ## 3. Übungen zur Kombination aus statischen E- und B-Feld
@@ -1326,3 +1454,4 @@ Nun wird die Ablenkspannung ausgeschaltet, so dass nur noch das magnetische Feld
 ![262_Lsg_f](https://diversewolken.ddns.net/nextcloud/index.php/s/qNeT5R6rQDm5DQ7/download)
 
 </details>
+
