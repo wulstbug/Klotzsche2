@@ -3442,9 +3442,9 @@ __Aufgaben:__
 
 ### 7.1.3. Milikan-Versuch
 
-__download__
+__download2__
 
-<embed src="https://diversewolken.ddns.net/nextcloud/index.php/s/f9Ei5rD7rdmLfm3/download" type="application/pdf" width="100%" height="600px">
+<embed src="https://www.iqb.hu-berlin.de/appsrc/taskpool/data/taskpools/getTaskFile?id=p03%5Emillikan%5Ef4498" type="application/pdf" width="100%" height="600px">
 
 
 
