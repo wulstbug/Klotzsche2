@@ -408,6 +408,9 @@ __Erklärung:__
 
 Robert Millikan führte einen berühmten Versuch durch, um die Elementarladung $q_e$ zu bestimmen. Dabei wurden geladene Öltröpfchen in einem homogenen elektrischen Feld zwischen zwei Platten zum Schweben gebracht, indem sich die elektrische Kraft und die Gewichtskraft gegenseitig kompensieren. 
 
+
+[IQB-Aufgabe-Milikan-Versuch](https://www.iqb.hu-berlin.de/appsrc/taskpool/data/taskpools/getTaskFile?id=p03%5Emillikan%5Ef4498)
+
 #### KI-Aufgabe: Erkläre den Milikan-Versuch
 
 
