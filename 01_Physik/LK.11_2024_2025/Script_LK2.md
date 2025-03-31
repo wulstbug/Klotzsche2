@@ -3442,9 +3442,7 @@ __Aufgaben:__
 
 ### 7.1.3. Milikan-Versuch
 
-__download2__
-
-<embed src="https://www.iqb.hu-berlin.de/appsrc/taskpool/data/taskpools/getTaskFile?id=p03%5Emillikan%5Ef4498" type="application/pdf" width="100%" height="600px">
+[IQB-Aufgabe-Milikan-Versuch](https://www.iqb.hu-berlin.de/appsrc/taskpool/data/taskpools/getTaskFile?id=p03%5Emillikan%5Ef4498)
 
 
 
