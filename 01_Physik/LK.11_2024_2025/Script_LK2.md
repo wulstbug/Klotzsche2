@@ -3440,6 +3440,10 @@ __Aufgaben:__
 
 </p>
 
+### 7.1.3. Milikan-Versuch
+
+<embed src="https://diversewolken.ddns.net/nextcloud/index.php/s/f9Ei5rD7rdmLfm3/download" type="application/pdf" width="100%" height="600px">
+
 
 
 ## 3. Übungen zur Kombination aus statischen E- und B-Feld
