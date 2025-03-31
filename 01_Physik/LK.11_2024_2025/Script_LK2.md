@@ -3529,6 +3529,102 @@ alternativer Link für eigene Geräte
 
 [KI-OpenWebUI-BYOD](https://subtle-corgi-firmly.ngrok-free.app)
 
+## Entwicklung Leistungen 11Ph2
+
+{{0-2}}
+*********
+<!--
+     data-show
+     data-title=""
+     data-type="line"
+     data-xlabel="Bewertung"
+     data-ylabel="Durchschnitt"
+-->
+| Test | Durchschnittsnote | Trend |
+| ---- | ---- | ---- |
+| LK1 | 7.9 | 7.88 |
+| KA1 | 6.3 | 8.2 |
+| EX1 | 11.9| 8.52 |
+| KA2 | 7.7 | 8.84 |
+| LK2 | 8.8 | 9.16 |
+*********
+
+{{2}}
+*********
+<!--
+     data-show
+     data-title=""
+     data-type="line"
+     data-xlabel="Bewertung"
+     data-ylabel="Durchschnitt"
+-->
+| Test | Durchschnittsnote | Trend |
+| ---- | ---- | ---- |
+| LK1 | 7.9 | 7.88 |
+| KA1 | 6.3 | 8.2 |
+| EX1 | 11.9| 8.52 |
+| KA2 | 7.7 | 8.84 |
+| LK2 | 8.8 | 9.16 |
+| KA3 |   | 9.5 |
+*********
+
+{{1}}
+*******
+> Trend: $$\boxed{f(n) = 0.32\cdot n + 7.56}$$
+*******
+
+## Aktuelle Informationen
+
+> Aufgrung der aktuellen politischen Lage, haben Deutschland und einige Nachbarländer beschlossen, @color(internationale Klassenfahrten nicht mehr zu genehmigen, red).
+
+- Kursfahrt wurde vom _Landesamt für Schule und Bildung_ storniert
+
+- Schweiz fällt daher aus
+
+{{1}}
+*******
+> Ich habe in __Chemnitz__ Ersatz gefunden
+
+<p class="newspaper3">
+
+__Schullandheim im Chemnitzer Küchenwald__
+
+![Chemnitzer Schullandheim](https://www.kjf-online.de/files/kjf/arbeitsbereiche/erholung-bildung/schullandheim-chemnitz/Impressionen/IMG_5706.JPG)
+
+![Chemnitzer Schullandheim2](https://www.kjf-online.de/assets/images/c/SLH1-8270065b.jpg)
+
+<p class="cb">
+
+__Karl Marx Monument__
+
+![Nischel](https://travelnating.com/wp-content/uploads/2023/01/Karl-Marx-Monument-in-Chemnitz.jpg)
+
+__Neues Rathaus (mit Stadtratsbesuch)__
+
+![Neue Rathaus](https://travelnating.com/wp-content/uploads/2023/01/Neues-Rathaus-Chemnitz.jpg)
+
+<p class="cb">
+
+__Industriemuseum Chemnitz__
+
+![IndustrieMuseum](https://travelnating.com/wp-content/uploads/2023/01/Industriemuseum-Chemnitz.jpg)
+
+__Küchenwald Parkeisenbahn__
+
+![Parkeisenbahn](https://img.dampfbahn-route.de/rubrik_xl/1920x1080/bahn_37_2.jpg)
+
+</p>
+
+</p>
+
+</p>
+*******
+
+{{2}}
+*******
+> Vorteil: Es wird nicht so teuer
+*******
+
 ## 7.1.3. Der Millikan-Versuch
 
 _Tafelbildvideo zum Millikan-Versuch:_
