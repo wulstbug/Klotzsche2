@@ -584,28 +584,6 @@ Passwort: phy-@color(xx,red)
         "Prompt Kopieren"
 </script>
 
-### Videoanalyse mit VIANA2
-
-__Arbeitsablauf__
-
-1. Besorge dir in deiner Gruppe ein Stahlkugel und ein großes Lineal.
-
-2. Positioniere das Tablet auf dem Tisch so, dass das Lineal zu sehen ist und die Kugel entlange des Lineals rollen kann.
-
-3. Öffne das Video-Analyse-Tool VIANA2 auf dem Tablet.
-
-4. Wähle: Neues Projekt. Nimm mit dem Tablet die gleichförmige Bewegung der Kugel entlang des Lineals auf.
-
-5. Ergänze in deiner Analyse den Maßstab und das Koordinatensystem
-
-6. Lass dir das s(t)-Diagramm und das v(t)-Diagramm darstellen.
-
-7. Zeige dein Ergebnis kurz dem Fachlehrer
-
-8. Lass dir zwei Holzblocks geben und stelle diese unter deinen Tisch.
-
-9. Wiederhole die Analyse mit einem neuen Projekt und einer __beschleunigten Bewegung__ der Kugel auf dem schrägen Tisch.
-
 ### Tägliche Übung zur Beschleunigung 2
 
 @timer(10,00)
@@ -716,7 +694,40 @@ Erstelle das v(t)-Diagramm der Autofahrt
 {1-2}{![Loesung_Autofahrt](https://diversewolken.ddns.net/nextcloud/index.php/s/mAJSRTmqpLRraJc/download)}
 
 
+### Videoanalyse mit VIANA2
 
+__Aufgabe 1: Gleichförmige Bewegung__
+
+1. Besorge dir in deiner Gruppe ein Stahlkugel und ein großes Lineal.
+
+2. Positioniere das Tablet auf dem Tisch so, dass das Lineal zu sehen ist und die Kugel entlange des Lineals rollen kann.
+
+3. Öffne das Video-Analyse-Tool VIANA2 auf dem Tablet.
+
+4. Wähle: Neues Projekt. Nimm mit dem Tablet die gleichförmige Bewegung der Kugel entlang des Lineals auf.
+
+5. Ergänze in deiner Analyse den Maßstab und das Koordinatensystem
+
+6. Lass dir das s(t)-Diagramm und das v(t)-Diagramm darstellen.
+
+7. Zeige dein Ergebnis kurz dem Fachlehrer
+
+
+__Aufgabe 2: Gleichmäßig beschleunigte Bewegung__
+
+1. Besorge dir in deiner Gruppe eine Kunststoffbahn (orange oder grau). Bestimme die Länge der Bahn.
+
+2. Positioniere das Tablet auf dem Tisch so, dass die Bahn zu sehen.
+
+3. Öffne das Video-Analyse-Tool VIANA2 auf dem Tablet.
+
+4. Wähle: Neues Projekt. Nimm mit dem Tablet die gleichförmige Bewegung der Kugel entlang des Lineals auf. @color(Achte darauf die Kugel mit einem kleinen Lineal o.ä. zu starten., red)
+
+5. Ergänze in deiner Analyse den Maßstab und das Koordinatensystem
+
+6. Lass dir das s(t)-Diagramm und das v(t)-Diagramm darstellen.
+
+7. Zeige dein Ergebnis kurz dem Fachlehrer
 
 #### KI-Aufgaben 2: Erkläre Begriffe der Bewegungsgesetze
 
