@@ -425,6 +425,140 @@ Passwort: phy-@color(xx,red)
 
 [KI-OpenWebUI](http://10.102.1.3:3001)
 
+
+## 3. 5. Gleichförmige und beschleunigte Bewegung in Diagrammen darstellen
+
+<p class="newspaper3">
+
+__Stillstand__
+
+<p class="cb">
+
+__Gleichförmige Bewegung__ 
+
+<p class="cb">
+
+__Gleichmäßig beschleunigte Bewegung__ 
+
+</p>
+
+</p>
+
+</p>
+
+---
+
+<p class="newspaper3">
+
+{{1}}
+******
+
+![Stillstand_Diagramm](https://diversewolken.ddns.net/nextcloud/index.php/s/zMpWeaaMACHY6HL/download) <!-- style="height:400px" -->
+
+******
+
+<p class="cb">
+
+{{2}}
+***********
+![GleichfoermigeBewegung_Diagramm](https://diversewolken.ddns.net/nextcloud/index.php/s/dtrzEiGrk59cTgf/download) <!-- style="height:400px" -->
+
+***********
+
+
+<p class="cb">
+
+{{3}}
+***********
+![GleichmäßigBeschleunigteBewegung_Diagramm](https://diversewolken.ddns.net/nextcloud/index.php/s/QQPDawMqpmgpr7t/download) <!-- style="height:400px" -->
+
+***********
+
+</p>
+
+</p>
+
+</p>
+
+{{4}}
+************
+---
+
+<p class="newspaper3">
+
+> Beim Stillstand ist der Graph im s(t)-Diagramm eine horizontale Linie. Der Graph im v(t)-Diagramm ist eine Null-Linie.
+
+<p class="cb">
+
+> Bei einer gleichförmigen Bewegung ist der Graph im s(t)-Diagramm eine Gerade. Der Graph im v(t)-Diagramm ist eine horizontale Linie.
+
+<p class="cb">
+
+> Bei einer gleichmäßig beschleunigten Bewegung ist der s(t)-Diagramm eine Parabel. Der Graph im v(t)-Diagramm ist eine Gerade.
+
+</p>
+
+</p>
+
+</p>
+************
+
+### Gemeinsam: Arbeitsblatt Vorderseite
+
+{1-2}{![Seite_1](https://diversewolken.ddns.net/nextcloud/index.php/s/iMMbWwxzsJDwTCp/download)}
+
+{2-3}{![Seite_2](https://diversewolken.ddns.net/nextcloud/index.php/s/XX5dFGmcmZjLJxB/download)}
+
+{3-4}{![Seite_3](https://diversewolken.ddns.net/nextcloud/index.php/s/2KAej2AdQotYEC7/download)}
+
+{4-5}{![Seite_4](https://diversewolken.ddns.net/nextcloud/index.php/s/LH5is4YJnyj4nox/download)}
+
+{5}{![Seite_5](https://diversewolken.ddns.net/nextcloud/index.php/s/pLBdq4SR9biYb45/download)}
+
+### Einzelarbeit: Realistische Autofahrt
+
+Erstelle das v(t)-Diagramm der Autofahrt
+
+{0-1}{![Aufgabe_Autofahrt](https://diversewolken.ddns.net/nextcloud/index.php/s/2WmoJTDkfctD4jg/download)}
+
+{1-2}{![Loesung_Autofahrt](https://diversewolken.ddns.net/nextcloud/index.php/s/mAJSRTmqpLRraJc/download)}
+
+
+
+
+### KI-Aufgaben 2: Erkläre Begriffe der Bewegungsgesetze
+
+<p style="color:blue">
+Kopiere den Prompt in das Feld der KI (nutze den Button _Kopieren_). Beantworte dann die gestellte Aufgabe. Verbessere deine Antwort, bis die KI deine Antwort akzeptiert. <br> Wiederhole es mit der zweiten Aufgabe.
+</p>
+
+---
+
+Login: phy-@color(xx,red)@gykl.ipads
+
+Passwort: phy-@color(xx,red)
+
+[KI-OpenWebUI](http://10.102.1.3:3001)
+
+---
+
+> __2. Beschleunigung:__<br> Erkläre mit eigenen Worten den Beschleunigung.
+
+<div class="container" style="margin-left:10%">
+    __Prompt__ <br>
+    <span class="text-box" id="textToCopy2">Ich habe folgende Aufgabe bekommen: Erkläre mit eigenen Worten den Begriff Beschleunigung. Bitte warte auf meine Antwort und bewerte diese. Gib mir nicht die Lösung, sondern warte auf meine Aussagen. Mein Niveau ist 9. Klasse. Bewerte meine Antwort auf einer Skala von 0 bis 10, wobei 10 das beste ist.</span>
+</div>
+<script input="submit" style="margin-left:10%" default="Prompt Kopieren">
+        const text = document.getElementById("textToCopy2").innerText;
+        navigator.clipboard.writeText(text).then(() => {
+            alert("Text wurde in die Zwischenablage kopiert!");
+        }).catch(err => {
+            console.error("Fehler beim Kopieren: ", err);
+        });
+        "Prompt Kopieren"
+</script>
+
+
 ### Videoanalyse mit VIANA2
 
 __Arbeitsablauf__

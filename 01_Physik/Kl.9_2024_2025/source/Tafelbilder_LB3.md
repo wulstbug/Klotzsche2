@@ -566,10 +566,14 @@ Passwort: phy-@color(xx,red)
 
 > __2. Beschleunigung:__<br> Erkläre mit eigenen Worten den Beschleunigung.
 
-<div class="container" style="margin-left:10%">
-    __Prompt__ <br>
-    <span class="text-box" id="textToCopy2">Ich habe folgende Aufgabe bekommen: Erkläre mit eigenen Worten den Beschleunigung. Bitte warte auf meine Antwort und bewerte diese. Gib mir nicht die Lösung, sondern warte auf meine Aussagen. Mein Niveau ist 9. Klasse. Bewerte meine Antwort auf einer Skala von 0 bis 10, wobei 10 das beste ist.</span>
-</div>
+<details style="margin-left:10%">
+    
+<summary> __Prompt__ </summary>
+
+<span class="text-box" id="textToCopy2">Ich habe folgende Aufgabe bekommen: Erkläre mit eigenen Worten den Beschleunigung. Bitte warte auf meine Antwort und bewerte diese. Gib mir nicht die Lösung, sondern warte auf meine Aussagen. Mein Niveau ist 9. Klasse. Bewerte meine Antwort auf einer Skala von 0 bis 10, wobei 10 das beste ist.</span>
+
+</details>
+
 <script input="submit" style="margin-left:10%" default="Prompt Kopieren">
         const text = document.getElementById("textToCopy2").innerText;
         navigator.clipboard.writeText(text).then(() => {
@@ -640,7 +644,8 @@ __Gleichmäßig beschleunigte Bewegung__
 
 {{1}}
 ******
-![Stillstand_Diagramm](https://diversewolken.ddns.net/nextcloud/index.php/s/zMpWeaaMACHY6HL/download)
+
+![Stillstand_Diagramm](https://diversewolken.ddns.net/nextcloud/index.php/s/zMpWeaaMACHY6HL/download) <!-- style="height:400px" -->
 
 ******
 
@@ -648,7 +653,7 @@ __Gleichmäßig beschleunigte Bewegung__
 
 {{2}}
 ***********
-![GleichfoermigeBewegung_Diagramm](https://diversewolken.ddns.net/nextcloud/index.php/s/dtrzEiGrk59cTgf/download)
+![GleichfoermigeBewegung_Diagramm](https://diversewolken.ddns.net/nextcloud/index.php/s/dtrzEiGrk59cTgf/download) <!-- style="height:400px" -->
 
 ***********
 
@@ -657,7 +662,7 @@ __Gleichmäßig beschleunigte Bewegung__
 
 {{3}}
 ***********
-![GleichmäßigBeschleunigteBewegung_Diagramm](https://diversewolken.ddns.net/nextcloud/index.php/s/QQPDawMqpmgpr7t/download)
+![GleichmäßigBeschleunigteBewegung_Diagramm](https://diversewolken.ddns.net/nextcloud/index.php/s/QQPDawMqpmgpr7t/download) <!-- style="height:400px" -->
 
 ***********
 
@@ -711,3 +716,36 @@ Erstelle das v(t)-Diagramm der Autofahrt
 {1-2}{![Loesung_Autofahrt](https://diversewolken.ddns.net/nextcloud/index.php/s/mAJSRTmqpLRraJc/download)}
 
 
+
+
+#### KI-Aufgaben 2: Erkläre Begriffe der Bewegungsgesetze
+
+<p style="color:blue">
+Kopiere den Prompt in das Feld der KI (nutze den Button _Kopieren_). Beantworte dann die gestellte Aufgabe. Verbessere deine Antwort, bis die KI deine Antwort akzeptiert. <br> Wiederhole es mit der zweiten Aufgabe.
+</p>
+
+---
+
+Login: phy-@color(xx,red)@gykl.ipads
+
+Passwort: phy-@color(xx,red)
+
+[KI-OpenWebUI](http://10.102.1.3:3001)
+
+---
+
+> __2. Beschleunigung:__<br> Erkläre mit eigenen Worten den Beschleunigung.
+
+<div class="container" style="margin-left:10%">
+    __Prompt__ <br>
+    <span class="text-box" id="textToCopy2">Ich habe folgende Aufgabe bekommen: Erkläre mit eigenen Worten den Begriff Beschleunigung. Bitte warte auf meine Antwort und bewerte diese. Gib mir nicht die Lösung, sondern warte auf meine Aussagen. Mein Niveau ist 9. Klasse. Bewerte meine Antwort auf einer Skala von 0 bis 10, wobei 10 das beste ist.</span>
+</div>
+<script input="submit" style="margin-left:10%" default="Prompt Kopieren">
+        const text = document.getElementById("textToCopy2").innerText;
+        navigator.clipboard.writeText(text).then(() => {
+            alert("Text wurde in die Zwischenablage kopiert!");
+        }).catch(err => {
+            console.error("Fehler beim Kopieren: ", err);
+        });
+        "Prompt Kopieren"
+</script>
