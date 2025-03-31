@@ -4663,6 +4663,8 @@ __Prompt__
 
 <span class="text-box" id="textToCopy2">Ich habe folgende Aufgabe bekommen: Erkläre den Milikanversuch. Gehe dazu auf folgende drei Punkte ein. <br> 1. Erkläre den Aufbau des Versuchs. Erkläre auch, wie die Messungen durchgeführt wurden. <br> 2. Beschreibe die Messungen und die Ergebnisse des Milikan-Versuchs ohne zu interpretieren oder zu schlussfolgern. <br> 3. Nenne die Schlussfolgerungen, die man aus den Ergebnissen des Milikan-Versuchs ziehen kann. <br> Bitte warte auf meine Antwort und bewerte diese. Gib mir nicht die Lösung, sondern warte auf meine Aussagen. Bewerte meine Antwort auf einer Skala von 0 bis 10, wobei 10 das beste ist.</span>
 
+</p>
+
 <script input="submit" style="margin-left:10%"  default="Prompt Kopieren">
         const text = document.getElementById("textToCopy2").innerText;
         navigator.clipboard.writeText(text).then(() => {
@@ -4673,7 +4675,7 @@ __Prompt__
         "Prompt Kopieren"
 </script>
 
-</p>
+
 
 ---
 
