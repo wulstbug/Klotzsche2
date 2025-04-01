@@ -187,7 +187,7 @@ try {
 
 - geladene Teilchen in statischen Feldern
 
-    - geladene Teilchen in elektrischen Felder (Querfeld, Längsfeld)
+    - geladene Teilchen in elektrischen Felder (nur Längsfeld)
 
     - Kräfte, Bahnform, Bewegungsgleichungen
 
