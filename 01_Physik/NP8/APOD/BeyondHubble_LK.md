@@ -802,9 +802,42 @@ __Aufgabe:__ Vervollständige den Strahlenverlauf auf dem Arbeitsblatt
 
 </p>
 
-## Reflexion am Parabolspiegel
 
-@timer(12,00)
+## Reflexion am Parabolspiegel - Demo
+
+<iframe src="https://www.geogebra.org/classic/d3nh8a3m?embed" width="800" height="600" allowfullscreen style="border: 1px solid #e4e4e4;border-radius: 4px;" frameborder="0"></iframe>
+
+## Reflexion am Parabolspiegel 
+
+<p style="margin-right:250px">
+
+__Anleitung zur Reflexion am Parabolspiegel:__
+
+1. Zeichne einen Parallelstrahl bis zum Spiegel
+
+2. Verlängere den Lichtstrahl gedanklich bis zur y-Achse und markiere den y-Wert
+
+3. Halbiere den y-Wert und zeichne eine Gerade (Tangente) zum Auftreffpunkt des einfallenden Lichtstrahls
+
+4. Zeichne das Lot als senkrechte Gerade zu 3.
+
+5. Bestimme den Einfallswinkel und konstruiere den Reflexionswinkel
+
+6. Wiederhole die Prozedur für zwei weitere Parallelstrahlen
+
+<iframe src="https://www.geogebra.org/classic/d3nh8a3m?embed" width="800" height="600" allowfullscreen style="border: 1px solid #e4e4e4;border-radius: 4px;" frameborder="0"></iframe>
+
+{{1}}
+**************
+@color( _Notiere das folgende Ergebnis auf dem Arbeitsblatt. Hefte das Arbeitsblatt ein._ , blue)
+
+__Ergebnis:__ An einem Parabolspiegel treffen sich die reflektierten Lichtstrahlen in einem gemeinsamen (scharfen) Brennpunkt.
+**************
+
+</p>
+
+
+## Reflexion am Parabolspiegel - Selbstständiges Arbeiten
 
 <p style="margin-right:250px">
 
