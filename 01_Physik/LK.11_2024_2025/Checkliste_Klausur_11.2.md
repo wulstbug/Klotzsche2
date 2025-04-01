@@ -187,9 +187,11 @@ try {
 
 - geladene Teilchen in statischen Feldern
 
-    - geladene Teilchen in elektrischen Felder (nur Längsfeld)
+    - geladene Teilchen in elektrischen Felder (Längsfeld, Elektronenkanone)
 
-    - Kräfte, Bahnform, Bewegungsgleichungen
+    - Herleitung: Endgeschwindigkeit der Elektronen
+
+    - Kräfte berechnen, Art der Bewegung
 
     - Milikan-Versuch
 
