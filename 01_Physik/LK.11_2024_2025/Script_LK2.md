@@ -3484,8 +3484,6 @@ __Aufgaben:__
 
 </p>
 
-
-
 #### KI-Aufgabe: Beschleunigung elektrischer Ladungen im Querfeld
 
 
