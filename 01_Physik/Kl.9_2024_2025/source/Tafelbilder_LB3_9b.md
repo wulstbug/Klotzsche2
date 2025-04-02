@@ -486,6 +486,6 @@ Passwort: phy-@color(xx,red)
 
 ### Übungsaufgaben zur Vorbereitung LK bei Moodle
 
-> Die ersten Aufgaben sind immer doppelt, sodass jeder abwechselnd eine Aufgabe lösen kann.
+> Einige Aufgaben sind immer doppelt, bitte abwechselnd lösen
 
 [Übungen zur LK](https://diversewolken.ddns.net/moodle/mod/quiz/view.php?id=564)
