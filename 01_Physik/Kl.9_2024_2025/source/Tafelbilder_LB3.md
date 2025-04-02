@@ -761,8 +761,6 @@ Passwort: phy-@color(xx,red)
         "Prompt Kopieren"
 </script>
 
-
-
 ### Übungsaufgaben zur Vorbereitung LK bei Moodle
 
 > Einige Aufgaben sind immer doppelt, bitte abwechselnd lösen
