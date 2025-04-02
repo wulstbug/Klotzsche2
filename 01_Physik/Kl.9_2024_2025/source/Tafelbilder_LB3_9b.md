@@ -483,3 +483,9 @@ Passwort: phy-@color(xx,red)
         });
         "Prompt Kopieren"
 </script>
+
+### Übungsaufgaben zur Vorbereitung LK bei Moodle
+
+> Die ersten Aufgaben sind immer doppelt, sodass jeder abwechselnd eine Aufgabe lösen kann.
+
+[Übungen zur LK](https://diversewolken.ddns.net/moodle/mod/quiz/view.php?id=564)

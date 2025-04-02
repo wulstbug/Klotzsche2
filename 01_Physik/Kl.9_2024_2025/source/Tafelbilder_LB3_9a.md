@@ -483,3 +483,10 @@ __Arbeitsablauf__
 
 9. Wiederhole die Analyse mit einem neuen Projekt und einer __beschleunigten Bewegung__ der Kugel auf dem schrägen Tisch.
 
+
+
+### Übungsaufgaben zur Vorbereitung LK bei Moodle
+
+> Einige Aufgaben sind immer doppelt, bitte abwechselnd lösen
+
+[Übungen zur LK](https://diversewolken.ddns.net/moodle/mod/quiz/view.php?id=564)
