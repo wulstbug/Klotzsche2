@@ -3646,6 +3646,14 @@ Robert Millikan führte einen berühmten Versuch durch, um die Elementarladung $
 
 [IQB-Aufgabe-Milikan-Versuch](https://www.iqb.hu-berlin.de/appsrc/taskpool/data/taskpools/getTaskFile?id=p03%5Emillikan%5Ef4498)
 
+### IQB-Aufgabe Milikan-Versuch
+
+1. __Aufgabenstellung:__  [Milikan-Aufgabenstellung](https://diversewolken.ddns.net/nextcloud/index.php/s/EzY4gat6pjTXD7b)
+
+2. __Hilfestellung:__ [Milikan-Hilfestellung](https://diversewolken.ddns.net/nextcloud/index.php/s/cizYee289ftPDQi)
+
+3. __Zusätzliches Material:__ [Milikan-Material](https://diversewolken.ddns.net/nextcloud/index.php/s/dAa869L72S2dLzo)
+
 #### KI-Aufgabe: Erkläre den Milikan-Versuch
 
 
