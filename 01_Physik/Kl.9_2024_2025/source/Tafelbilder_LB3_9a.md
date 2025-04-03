@@ -461,32 +461,87 @@ Passwort: phy-@color(xx,red)
         "Prompt Kopieren"
 </script>
 
-### Videoanalyse mit VIANA2
 
-__Arbeitsablauf__
+## 3. 5. Gleichförmige und beschleunigte Bewegung in Diagrammen darstellen
 
-1. Besorge dir in deiner Gruppe ein Stahlkugel und ein großes Lineal.
+<p class="newspaper3">
 
-2. Positioniere das Tablet auf dem Tisch so, dass das Lineal zu sehen ist und die Kugel entlange des Lineals rollen kann.
+__Stillstand__
 
-3. Öffne das Video-Analyse-Tool VIANA2 auf dem Tablet.
+<p class="cb">
 
-4. Wähle: Neues Projekt. Nimm mit dem Tablet die gleichförmige Bewegung der Kugel entlang des Lineals auf.
+__Gleichförmige Bewegung__ 
 
-5. Ergänze in deiner Analyse den Maßstab und das Koordinatensystem
+<p class="cb">
 
-6. Lass dir das s(t)-Diagramm und das v(t)-Diagramm darstellen.
+__Gleichmäßig beschleunigte Bewegung__ 
 
-7. Zeige dein Ergebnis kurz dem Fachlehrer
+</p>
 
-8. Lass dir zwei Holzblocks geben und stelle diese unter deinen Tisch.
+</p>
 
-9. Wiederhole die Analyse mit einem neuen Projekt und einer __beschleunigten Bewegung__ der Kugel auf dem schrägen Tisch.
+</p>
+
+---
+
+<p class="newspaper3">
+
+{{1}}
+******
+
+![Stillstand_Diagramm](https://diversewolken.ddns.net/nextcloud/index.php/s/zMpWeaaMACHY6HL/download) <!-- style="height:400px" -->
+
+******
+
+<p class="cb">
+
+{{2}}
+***********
+![GleichfoermigeBewegung_Diagramm](https://diversewolken.ddns.net/nextcloud/index.php/s/dtrzEiGrk59cTgf/download) <!-- style="height:400px" -->
+
+***********
 
 
+<p class="cb">
+
+{{3}}
+***********
+![GleichmäßigBeschleunigteBewegung_Diagramm](https://diversewolken.ddns.net/nextcloud/index.php/s/QQPDawMqpmgpr7t/download) <!-- style="height:400px" -->
+
+***********
+
+</p>
+
+</p>
+
+</p>
+
+{{4}}
+************
+---
+
+<p class="newspaper3">
+
+> Beim Stillstand ist der Graph im s(t)-Diagramm eine horizontale Linie. Der Graph im v(t)-Diagramm ist eine Null-Linie.
+
+<p class="cb">
+
+> Bei einer gleichförmigen Bewegung ist der Graph im s(t)-Diagramm eine Gerade. Der Graph im v(t)-Diagramm ist eine horizontale Linie.
+
+<p class="cb">
+
+> Bei einer gleichmäßig beschleunigten Bewegung ist der s(t)-Diagramm eine Parabel. Der Graph im v(t)-Diagramm ist eine Gerade.
+
+</p>
+
+</p>
+
+</p>
+************
 
 ### Übungsaufgaben zur Vorbereitung LK bei Moodle
 
 > Einige Aufgaben sind immer doppelt, bitte abwechselnd lösen
 
 [Übungen zur LK](https://diversewolken.ddns.net/moodle/mod/quiz/view.php?id=567)
+
