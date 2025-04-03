@@ -5126,8 +5126,6 @@ __Der Generator:__
 
 </p>
 
-</p>
-
 ### KI-Aufgaben zur Induktion
 
 <p style="color:blue">
