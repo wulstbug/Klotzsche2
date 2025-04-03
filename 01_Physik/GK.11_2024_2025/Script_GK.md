@@ -5128,6 +5128,8 @@ __Der Generator:__
 
 </p>
 
+### KI-Aufgaben zur Induktion
+
 <p style="color:blue">
 Kopiere den Prompt in das Feld der KI (nutze den Button _Kopieren_). Beantworte dann die gestellte Aufgabe. Verbessere deine Antwort, bis die KI deine Antwort akzeptiert. <br> Wiederhole es mit der zweiten Aufgabe.
 </p>
@@ -5165,3 +5167,6 @@ Login: phy-@color(xx,red)@gykl.ipads
 Passwort: phy-@color(xx,red)
 
 [KI-OpenWebUI](http://10.102.1.3:3001)
+
+### Aufgaben zum Transformator
+
