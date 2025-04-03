@@ -5167,3 +5167,8 @@ Passwort: phy-@color(xx,red)
 
 ### Aufgaben zum Transformator
 
+<p style="color:blue">
+
+1. Zeichne das Schema eines Transformators in deinen Hefter. Beschrifte die einzelnen Komponenten.
+
+</p>
