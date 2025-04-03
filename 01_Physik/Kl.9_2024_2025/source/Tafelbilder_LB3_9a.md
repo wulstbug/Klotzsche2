@@ -564,7 +564,7 @@ Passwort: phy-@color(xx,red)
 
 <div class="container" style="margin-left:10%">
     __Prompt__ <br>
-    <span class="text-box" id="textToCopy2">Ich werde dir jetzt 5 Aufgaben nennen. Bitte stelle mir diese Fragen in der Reihenfolge und warte nach jeder Frage auf meine Antwort. Bewerte mir jede meiner Antworten auf einer Skala von 0 bis 10.
+    <span class="text-box" id="textToCopy2">Ich werde dir jetzt 5 Aufgaben nennen. Bitte stelle mir diese Fragen in der Reihenfolge und warte nach jeder Frage auf meine Antwort. Bewerte mir jede meiner Antworten auf einer Skala von 0 bis 10. Frage mich jedes mal, ob ich meine Antwort verbessern möchte, oder zur nächsten Frage wechseln möchte.
     1. Beschreibe den Begriff Bewegung oder anders ausgedrückt, definiere Bewegung.
     2. Beschreibe den Begriff Geschwindigkeit oder anders ausgedrückt, definiere Geschwindigkeit.
     3. Beschreibe, was eine gleichförmige Bewegung charakterisiert.
