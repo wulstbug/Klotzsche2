@@ -802,3 +802,20 @@ Passwort: phy-@color(xx,red)
         });
         "Prompt Kopieren"
 </script>
+
+
+#### Experiment: Bestimmung der Beschleunigung einer Stahlkugel
+
+1. Notiere die Überschrift
+
+2. Skizziere den Versuchsaufbau von der Tafel
+
+3. Filme die Bewegung der Stahlkugel entlang der schiefen Ebene
+
+4. Erstelle eine Objektverfolgung
+
+5. Erstelle den Maßstab
+
+6. Verändere das Koordinatensytem so, dass die Kugel entlang der positiven x-Achse rollt. Startpunkt ist bei Null.
+
+7. Stelle das __t-x__ und das __t-vx__ Diagramm dar.
