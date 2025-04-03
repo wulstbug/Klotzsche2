@@ -5127,3 +5127,41 @@ __Der Generator:__
 </p>
 
 </p>
+
+<p style="color:blue">
+Kopiere den Prompt in das Feld der KI (nutze den Button _Kopieren_). Beantworte dann die gestellte Aufgabe. Verbessere deine Antwort, bis die KI deine Antwort akzeptiert. <br> Wiederhole es mit der zweiten Aufgabe.
+</p>
+
+---
+
+__Aufgabe:__<br> Beantworte die Aufträge der KI. Verbessere dein Ergebnis, wenn du es möchtest.
+
+<div class="container" style="margin-left:10%">
+__Prompt__ <br>
+<span class="text-box" id="textToCopy2">Ich werde dir jetzt 5 Aufgaben nennen. Bitte stelle mir diese Fragen in der Reihenfolge und warte nach jeder Frage auf meine Antwort. Bewerte mir jede meiner Antworten auf einer Skala von 0 bis 10. Frage mich nach jeder Einschätzung von dir, ob ich meine Antwort verbessern möchte, oder zur nächsten Frage wechseln.
+    1. Definiere den Begriff magnetischer Fluss.
+    2. Notiere, welche physikalischen Größen sich bezüglich des magnetischen Flusses ändern können, damit einer Induktionsspannung erzeugt wird.
+    3. Nenne eine technische Anwendung, bei dem eine Änderung der durchsetzten Fläche eine Spule in einem Magnetfeld zu einer Induktionsspannung führt.
+    3. Notiere Einflussfaktoren auf die Induktionsspannung in einem Generator.
+    4. Nenne eine technische Anwendung, bei dem die Änderung der magnetischen Flussdichte eine Spannung hervorruft.
+    5. Beschreibe den Begriff Beschleunigung oder anders ausgedrückt, definiere Beschleunigung.
+    Alle Fragen sind im Fach Physik im Niveau Grundkurs Klasse 11 zu beantworten. Schätze mir nach meiner 5. Antwort das Niveau meiner Antworten insgesamt ein.</span>
+</div>
+
+<script input="submit" style="margin-left:10%" default="Prompt Kopieren">
+        const text = document.getElementById("textToCopy2").innerText;
+        navigator.clipboard.writeText(text).then(() => {
+            alert("Text wurde in die Zwischenablage kopiert!");
+        }).catch(err => {
+            console.error("Fehler beim Kopieren: ", err);
+        });
+        "Prompt Kopieren"
+</script>
+
+---
+
+Login: phy-@color(xx,red)@gykl.ipads
+
+Passwort: phy-@color(xx,red)
+
+[KI-OpenWebUI](http://10.102.1.3:3001)
