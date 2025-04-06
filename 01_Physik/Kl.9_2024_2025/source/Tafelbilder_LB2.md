@@ -1038,10 +1038,6 @@ __2. Idealer Transformator: Berechnen__
 
 !?[WasIStEinTransformator](https://diversewolken.ddns.net/nextcloud/index.php/s/Z6E3QPJyaTccksw/download)
 
-### Wiederholungsvideo Transformator
-
-!?[WasIStEinTransformator](https://diversewolken.ddns.net/nextcloud/index.php/s/Z6E3QPJyaTccksw/download)
-
 ### Wiederholung Transformator
 
 1. Bei einem idealen Transformator sei die Sekundärwindungszahl größer als die Primärwindungszahl. Kreuze die richtige Aussage an.
