@@ -5034,10 +5034,18 @@ Kopiere den Prompt in das Feld der KI (nutze den Button _Kopieren_). Beantworte 
 
 ---
 
-__Generator-Aufgabe:__<br> Erkäre die Anwendung des Induktionsgesetzes am Beispiel eines Generators.
+__Aufgabe Induktion:__
+
 <div class="container" style="margin-left:10%">
-    __Prompt__ <br>
-    <span class="text-box" id="textToCopy2">Ich habe folgende Aufgabe bekommen: Erkäre die Anwendung des Induktionsgesetzes am Beispiel eines Generators. Bitte warte auf meine Antwort und bewerte diese. Gib mir nicht die Lösung, sondern warte auf meine Aussagen. Bewerte meine Antwort auf einer Skala von 0 bis 10, wobei 10 das beste ist.</span>
+__Prompt__ <br>
+<span class="text-box" id="textToCopy2">Ich werde dir jetzt 4 Aufgaben nennen. Bitte stelle mir diese Fragen in der Reihenfolge und warte nach jeder Frage auf meine Antwort. Bewerte mir jede meiner Antworten auf einer Skala von 0 bis 10. Frage mich nach jeder Einschätzung von dir, ob ich meine Antwort verbessern möchte, oder zur nächsten Frage wechseln.
+    1. Definiere den Begriff magnetischer Fluss.
+    2. Notiere, welche physikalischen Größen sich bezüglich des magnetischen Flusses ändern können, damit einer Induktionsspannung erzeugt wird.
+    3. Nenne eine technische Anwendung, bei dem eine Änderung der durchsetzten Fläche eine Spule in einem Magnetfeld zu einer Induktionsspannung führt.
+    4. Notiere Einflussfaktoren auf die Induktionsspannung in einem Generator.
+    Alle Fragen sind im Fach Physik im Niveau Grundkurs Klasse 11 zu beantworten. Schätze mir nach meiner 5. Antwort das Niveau meiner Antworten insgesamt ein.
+</span>
+</div>
 </div>
 <script input="submit" style="margin-left:10%" default="Prompt Kopieren">
         const text = document.getElementById("textToCopy2").innerText;
@@ -5285,17 +5293,18 @@ b)
 | $N_p$ | $N_s$ | $U_p$ | $U_s$ | n |
 | 250 | [[ 1000 ]] | [[ 10 ]] V | 40V   | 0,25 |
 
----
+</p>
+
 
 #### KI-Aufgaben zur Induktion
 
 <p style="color:blue">
-Kopiere den Prompt in das Feld der KI (nutze den Button _Kopieren_). Beantworte dann die gestellte Aufgabe. Verbessere deine Antwort, bis die KI deine Antwort akzeptiert. <br> Wiederhole es mit der zweiten Aufgabe.
+Kopiere den Prompt in das Feld der KI (nutze den Button _Kopieren_). Beantworte dann die gestellten Aufgabe.
 </p>
 
 ---
 
-__Aufgabe:__<br> Beantworte die Aufträge der KI. Verbessere dein Ergebnis, wenn du es möchtest.
+__Aufgabe:__<br> Beantworte die Aufträge der KI. Du kannst dein Ergebnis verbessern, oder zur nächsten Frage springen.
 
 <div class="container" style="margin-left:10%">
 __Prompt__ <br>
@@ -5303,8 +5312,8 @@ __Prompt__ <br>
     1. Definiere den Begriff magnetischer Fluss.
     2. Notiere, welche physikalischen Größen sich bezüglich des magnetischen Flusses ändern können, damit einer Induktionsspannung erzeugt wird.
     3. Nenne eine technische Anwendung, bei dem eine Änderung der durchsetzten Fläche eine Spule in einem Magnetfeld zu einer Induktionsspannung führt.
-    4. Notiere Einflussfaktoren auf die Induktionsspannung in einem Generator.
-    5. Nenne eine technische Anwendung, bei dem die Änderung der magnetischen Flussdichte eine Spannung hervorruft.
+    4. Nenne eine technische Anwendung, bei dem die Änderung der magnetischen Flussdichte eine Spannung hervorruft.
+    5. Erkläre, wie bei einem Transformator die Induktion Anwendung findet.
     Alle Fragen sind im Fach Physik im Niveau Grundkurs Klasse 11 zu beantworten. Schätze mir nach meiner 5. Antwort das Niveau meiner Antworten insgesamt ein.</span>
 </div>
 
