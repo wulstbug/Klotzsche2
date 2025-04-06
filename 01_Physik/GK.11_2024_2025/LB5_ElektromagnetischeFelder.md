@@ -248,7 +248,6 @@ __Prompt__ <br>
     Alle Fragen sind im Fach Physik im Niveau Grundkurs Klasse 11 zu beantworten. Schätze mir nach meiner 5. Antwort das Niveau meiner Antworten insgesamt ein.
 </span>
 </div>
-</div>
 <script input="submit" style="margin-left:10%" default="Prompt Kopieren">
         const text = document.getElementById("textToCopy2").innerText;
         navigator.clipboard.writeText(text).then(() => {
