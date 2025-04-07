@@ -109,6 +109,32 @@ try {
 </div>
 @end
 
+
+@rangeQuiz50
+<div style="display: flex;flex-direction: row;flex-wrap: nowrap">
+<div style="float:left">
+@0$\ =\ $
+</div> 
+<div style="float:left">
+<!-- data-solution-button="off" -->
+[[ @1 ]]
+<script>
+let input = "@input".replace(",", ".")
+try {
+    input = Math.abs(eval(input)-@1)/Math.abs(@1)
+    input <= 0.5
+} catch (e) {
+    false
+}
+</script>
+</div> 
+<div style="float:left">
+@2
+</div>
+</div>
+@end
+
+
 mode: presentation
 
 -->
@@ -565,7 +591,6 @@ Passwort: phy-@color(xx,red)
 
 [Übungen zur LK](https://diversewolken.ddns.net/moodle/mod/quiz/view.php?id=569)
 
-
 #### KI-Aufgabe: Fragen zu den Bewegungsgesetzen
 
 <p style="color:blue">
@@ -602,8 +627,6 @@ Passwort: phy-@color(xx,red)
         "Prompt Kopieren"
 </script>
 
-
-
 ### Videoanalyse mit VIANA2
 
 __Aufgabe 1: Gleichförmige Bewegung__
@@ -638,3 +661,17 @@ __Aufgabe 2: Gleichmäßig beschleunigte Bewegung__
 6. Lass dir das s(t)-Diagramm und das v(t)-Diagramm darstellen.
 
 7. Zeige dein Ergebnis kurz dem Fachlehrer
+
+8. Ermittle aus dem v(t)-Diagramm die Geschwindigkeitsänderung und die dafür benötigte Zeit
+
+9. Berechne die Beschleunigung der Stahlkugel
+
+10. Überprüfe dein Ergebnis hier:
+
+<p style="margin-left:5%">
+
+@rangeQuiz50($a$, 0.2 , $\dfrac{m}{s^2}$ )
+
+</p>
+
+
