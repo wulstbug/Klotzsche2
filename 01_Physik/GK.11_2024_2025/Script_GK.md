@@ -5396,7 +5396,7 @@ Zeichne einen Graphen mit $n=\dfrac{N_1}{N_2}$ auf der x-Achse und $n'= \dfrac{U
      data-xlabel="N1/N2"
      data-ylabel="U1/U2"
 -->
-| $n=\dfrac{N_1}{N_2} $ | $U_1$ in V | $U_2$ in V | $n' = \dfrac{U_1}{U_2}$ |
+| $n=\dfrac{N_1}{N_2}$ | $U_1$ in V | $U_2$ in V | $n' = \dfrac{U_1}{U_2}$ |
 | ---- | ---- | ---- | ---- |
 | $\dfrac{2400}{800}=3$ | 6,5 | 2,01 | .. |
 | $\dfrac{2400}{1600}=1,5$ | 6,5 | 4,05 | .. |
@@ -5419,8 +5419,8 @@ Zeichne einen Graphen mit $n=\dfrac{N_1}{N_2}$ auf der x-Achse und $n'= \dfrac{U
      data-xlabel="Bewertung"
      data-ylabel="Durchschnitt"
 -->
-| $n=\dfrac{N_1}{N_2} $| $n' = \dfrac{U_1}{U_2}$ | $n_{theror}$
-| ---- | ---- |
+| $n=\dfrac{N_1}{N_2} $| $n' = \dfrac{U_1}{U_2}$ | $n_{theror}$ |
+| ---- | ---- | ---- |
 | 3 | 3,23 | 3 |
 | 1,5 | 1,62 | 1,5 |
 | 1 | 1,07 | 1 |
