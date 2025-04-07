@@ -585,13 +585,13 @@ Passwort: phy-@color(xx,red)
 </script>
 
 
-### Übungsaufgaben zur Vorbereitung LK bei Moodle
+#### 1. Übungsaufgaben zur Vorbereitung LK bei Moodle
 
 > Einige Aufgaben sind immer doppelt, bitte abwechselnd lösen
 
 [Übungen zur LK](https://diversewolken.ddns.net/moodle/mod/quiz/view.php?id=569)
 
-#### KI-Aufgabe: Fragen zu den Bewegungsgesetzen
+#### 2. KI-Aufgabe: Fragen zu den Bewegungsgesetzen
 
 <p style="color:blue">
 Kopiere den Prompt in das Feld der KI (nutze den Button _Kopieren_). Beantworte dann die gestellten Fragen.
@@ -627,9 +627,9 @@ Passwort: phy-@color(xx,red)
         "Prompt Kopieren"
 </script>
 
-### Videoanalyse mit VIANA2
+#### 3. Videoanalyse mit VIANA2 
 
-__Aufgabe 1: Gleichförmige Bewegung__
+__Aufgabe 3.1.: Gleichförmige Bewegung__
 
 1. Besorge dir in deiner Gruppe ein Stahlkugel und ein großes Lineal.
 
@@ -646,7 +646,7 @@ __Aufgabe 1: Gleichförmige Bewegung__
 7. Zeige dein Ergebnis kurz dem Fachlehrer
 
 
-__Aufgabe 2: Gleichmäßig beschleunigte Bewegung__
+__Aufgabe 3.2.: Gleichmäßig beschleunigte Bewegung__
 
 1. Besorge dir in deiner Gruppe eine Kunststoffbahn (orange oder grau). Bestimme die Länge der Bahn.
 

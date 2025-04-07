@@ -821,7 +821,7 @@ Passwort: phy-@color(xx,red)
 7. Stelle das __t-x__ und das __t-vx__ Diagramm dar.
 
 
-#### __Aufgabe 2: Gleichmäßig beschleunigte Bewegung__
+#### __Aufgabe 3: Gleichmäßig beschleunigte Bewegung__
 
 1. Besorge dir in deiner Gruppe eine Kunststoffbahn (orange oder grau). Bestimme die Länge der Bahn.
 
