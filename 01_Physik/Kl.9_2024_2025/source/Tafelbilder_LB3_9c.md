@@ -563,7 +563,7 @@ Passwort: phy-@color(xx,red)
 
 > Einige Aufgaben sind immer doppelt, bitte abwechselnd lösen
 
-[Übungen zur LK](https://diversewolken.ddns.net/moodle/mod/quiz/view.php?id=564)
+[Übungen zur LK](https://diversewolken.ddns.net/moodle/mod/quiz/view.php?id=569)
 
 
 #### KI-Aufgabe: Fragen zu den Bewegungsgesetzen
