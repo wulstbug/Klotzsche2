@@ -5419,7 +5419,7 @@ Zeichne einen Graphen mit $n=\dfrac{N_1}{N_2}$ auf der x-Achse und $n'= \dfrac{U
      data-xlabel="Bewertung"
      data-ylabel="Durchschnitt"
 -->
-| $n=\dfrac{N_1}{N_2} $ | $n' = \dfrac{U_1}{U_2}$ | $n_{theror}$ |
+| n | n' | n(theor) |
 | ---- | ---- | ---- |
 | 3 | 3,23 | 3 |
 | 1,5 | 1,62 | 1,5 |
