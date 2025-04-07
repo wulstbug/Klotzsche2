@@ -761,13 +761,13 @@ Passwort: phy-@color(xx,red)
         "Prompt Kopieren"
 </script>
 
-#### Übungsaufgaben zur Vorbereitung LK bei Moodle
+#### 1. Übungsaufgaben zur Vorbereitung LK bei Moodle
 
 > Einige Aufgaben sind immer doppelt, bitte abwechselnd lösen
 
-[Übungen zur LK](https://diversewolken.ddns.net/moodle/mod/quiz/view.php?id=567)
+[Übungen zur LK](https://diversewolken.ddns.net/moodle/mod/quiz/view.php?id=569)
 
-#### KI-Aufgabe: Fragen zu den Bewegungsgesetzen
+#### 2. KI-Aufgabe: Fragen zu den Bewegungsgesetzen
 
 <p style="color:blue">
 Kopiere den Prompt in das Feld der KI (nutze den Button _Kopieren_). Beantworte dann die gestellten Fragen.
@@ -803,25 +803,26 @@ Passwort: phy-@color(xx,red)
         "Prompt Kopieren"
 </script>
 
+#### 3. Videoanalyse mit VIANA2 
 
-#### Experiment: Bestimmung der Beschleunigung einer Stahlkugel
+__Aufgabe 3.1.: Gleichförmige Bewegung__
 
-1. Notiere die Überschrift
+1. Besorge dir in deiner Gruppe ein Stahlkugel und ein großes Lineal.
 
-2. Skizziere den Versuchsaufbau von der Tafel
+2. Positioniere das Tablet auf dem Tisch so, dass das Lineal zu sehen ist und die Kugel entlange des Lineals rollen kann.
 
-3. Filme die Bewegung der Stahlkugel entlang der schiefen Ebene
+3. Öffne das Video-Analyse-Tool VIANA2 auf dem Tablet.
 
-4. Erstelle eine Objektverfolgung
+4. Wähle: Neues Projekt. Nimm mit dem Tablet die gleichförmige Bewegung der Kugel entlang des Lineals auf.
 
-5. Erstelle den Maßstab
+5. Ergänze in deiner Analyse den Maßstab und das Koordinatensystem
 
-6. Verändere das Koordinatensytem so, dass die Kugel entlang der positiven x-Achse rollt. Startpunkt ist bei Null.
+6. Lass dir das s(t)-Diagramm und das v(t)-Diagramm darstellen.
 
-7. Stelle das __t-x__ und das __t-vx__ Diagramm dar.
+7. Zeige dein Ergebnis kurz dem Fachlehrer
 
 
-#### __Aufgabe 3: Gleichmäßig beschleunigte Bewegung__
+__Aufgabe 3.2.: Gleichmäßig beschleunigte Bewegung__
 
 1. Besorge dir in deiner Gruppe eine Kunststoffbahn (orange oder grau). Bestimme die Länge der Bahn.
 
@@ -848,3 +849,5 @@ Passwort: phy-@color(xx,red)
 @rangeQuiz50($a$, 0.2 , $\dfrac{m}{s^2}$ )
 
 </p>
+
+
