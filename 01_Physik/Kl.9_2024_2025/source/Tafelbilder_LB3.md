@@ -819,3 +819,32 @@ Passwort: phy-@color(xx,red)
 6. Verändere das Koordinatensytem so, dass die Kugel entlang der positiven x-Achse rollt. Startpunkt ist bei Null.
 
 7. Stelle das __t-x__ und das __t-vx__ Diagramm dar.
+
+
+#### __Aufgabe 2: Gleichmäßig beschleunigte Bewegung__
+
+1. Besorge dir in deiner Gruppe eine Kunststoffbahn (orange oder grau). Bestimme die Länge der Bahn.
+
+2. Positioniere das Tablet auf dem Tisch so, dass die Bahn zu sehen.
+
+3. Öffne das Video-Analyse-Tool VIANA2 auf dem Tablet.
+
+4. Wähle: Neues Projekt. Nimm mit dem Tablet die gleichförmige Bewegung der Kugel entlang des Lineals auf. @color(Achte darauf die Kugel mit einem kleinen Lineal o.ä. zu starten., red)
+
+5. Ergänze in deiner Analyse den Maßstab und das Koordinatensystem
+
+6. Lass dir das s(t)-Diagramm und das v(t)-Diagramm darstellen.
+
+7. Zeige dein Ergebnis kurz dem Fachlehrer
+
+8. Ermittle aus dem v(t)-Diagramm die Geschwindigkeitsänderung und die dafür benötigte Zeit
+
+9. Berechne die Beschleunigung der Stahlkugel
+
+10. Überprüfe dein Ergebnis hier:
+
+<p style="margin-left:5%">
+
+@rangeQuiz50($a$, 0.2 , $\dfrac{m}{s^2}$ )
+
+</p>
