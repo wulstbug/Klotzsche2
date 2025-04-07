@@ -5182,7 +5182,7 @@ __Funktionsprinzip:__
 
 <p style="margin-left:10%">
 
-Auf der Primärseite wird eine @color(__Wechselspannung__, darkblue) angelegt. Diese Wechselspannung erzeugt ein @color(__zeitlich veränderliches Magnetfeld__, orange), welches im wesentlichen im @color(__Eisenkern__, darkgray) verläuft. <br> Die @color(Sekundärspule,crimson) wird von dem Magnetfeld durchsetzt. In dieser Spule ändert sich der Magnetische Fluss $\Phi$ und somit wird eine Spule induziert.
+Auf der Primärseite wird eine @color(__Wechselspannung__, darkblue) angelegt. Diese Wechselspannung erzeugt ein @color(__zeitlich veränderliches Magnetfeld__, orange), welches im wesentlichen im @color(__Eisenkern__, darkgray) verläuft. <br> Die @color(Sekundärspule,crimson) wird von dem Magnetfeld durchsetzt. In dieser Spule ändert sich der Magnetische Fluss $\Phi$ und somit wird eine Spannung induziert.
 
 </p>
 
