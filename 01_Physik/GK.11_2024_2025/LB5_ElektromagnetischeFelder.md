@@ -535,3 +535,47 @@ Passwort: phy-@color(xx,red)
 alternativer Link für eigene Geräte
 
 [KI-OpenWebUI-BYOD](https://subtle-corgi-firmly.ngrok-free.app)
+
+
+
+#### Experiment: Realer Transformator
+
+<p class="newspaper">
+
+__Aufgabe:__ 
+
+Baue einen Transformator nach folgendem Vorbild auf. Nutze die Cassy-Messgeräte um Primär- und Sekundärspannung für verschiedene Kominationen aus Primär- und Sekundärwindungszahl zu untersuchen.
+
+__Analyse:__ 
+
+Zeichne einen Graphen mit $n=\dfrac{N_1}{N_2}$ auf der x-Achse und $n'= \dfrac{U_1}{U_2}$ auf der y-Achse.
+
+<p class="cb">
+
+![Aufbau_Transformator](https://diversewolken.ddns.net/nextcloud/index.php/s/pmQD7JM7pBTG45k/download)
+
+</p>
+
+</p>
+
+{{0-2}}
+*********
+<!--
+     data-schow="false"
+     data-title=""
+     data-type="line"
+     data-xlabel="N1/N2"
+     data-ylabel="U1/U2"
+-->
+| $n=\dfrac{N_1}{N_2} $ | $U_1$ in V | $U_2$ in V | $n' = \dfrac{U_1}{U_2}$ |
+| ---- | ---- | ---- | ---- |
+| $\dfrac{2400}{800}=3$ | 5 | .. | .. |
+| $\dfrac{2400}{1600}=2$ | 5 | .. | .. |
+| $\dfrac{2400}{1600}=1$ | 5 | .. | .. |
+| $\dfrac{1600}{800}=2$ | 5 | .. | .. |
+| $\dfrac{1600}{1600}=1$ | 5 | .. | .. |
+| $\dfrac{1600}{2400}=0,67$ | 5 | .. | .. |
+| $\dfrac{800}{800}=1$ | 5 | .. | .. |
+| $\dfrac{800}{1600}=0,5$ | 5 | .. | .. |
+| $\dfrac{800}{2400}=0,33$ | 5 | .. | .. |
+*********

@@ -5339,13 +5339,17 @@ alternativer Link für eigene Geräte
 [KI-OpenWebUI-BYOD](https://subtle-corgi-firmly.ngrok-free.app)
 
 
-#### Experiment: Transformator
+#### Experiment: Realer Transformator
 
 <p class="newspaper">
 
-__Aufgabe:__ Baue einen Transformator nach folgendem Vorbild auf. Nutze die Cassy-Messgeräte um Primär- und Sekundärspannung für verschiedene Kominationen aus Primär- und Sekundärwindungszahl zu untersuchen.
+__Aufgabe:__ 
 
-__Analyse:__ Zeichne einen Graphen mit $n=\dfrac{N_1}{N_2}$ auf der x-Achse und $n'= \dfrac{U_1}{U_2}$.
+Baue einen Transformator nach folgendem Vorbild auf. Nutze die Cassy-Messgeräte um Primär- und Sekundärspannung für verschiedene Kominationen aus Primär- und Sekundärwindungszahl zu untersuchen.
+
+__Analyse:__ 
+
+Zeichne einen Graphen mit $n=\dfrac{N_1}{N_2}$ auf der x-Achse und $n'= \dfrac{U_1}{U_2}$ auf der y-Achse.
 
 <p class="cb">
 
