@@ -546,6 +546,10 @@ __Aufgabe:__
 
 Baue einen Transformator nach folgendem Vorbild auf. Nutze die Cassy-Messgeräte um Primär- und Sekundärspannung für verschiedene Kominationen aus Primär- und Sekundärwindungszahl zu untersuchen.
 
+__Einstellungen:__
+
+Nutze am Spannungsversorgungsgerät die Einstellung: __Wechselspannung, 6V__. Nutze am Cassy-Messgerät die Einstellung für die __Erfassung: Effektivwerte (AC+DC)__
+
 __Analyse:__ 
 
 Zeichne einen Graphen mit $n=\dfrac{N_1}{N_2}$ auf der x-Achse und $n'= \dfrac{U_1}{U_2}$ auf der y-Achse.
