@@ -5416,11 +5416,12 @@ Zeichne einen Graphen mit $n=\dfrac{N_1}{N_2}$ auf der x-Achse und $n'= \dfrac{U
      data-show="false"
      data-title=""
      data-type="line"
-     data-xlabel="Bewertung"
-     data-ylabel="Durchschnitt"
+     data-xlabel="N1/N2"
+     data-ylabel="U1/U2"
 -->
-| n | n' | n(theor) |
+| n | n' | n |
 | ---- | ---- | ---- |
+| 0 | 0 | 0 |
 | 3 | 3.23 | 3 |
 | 1.5 | 1.62 | 1.5 |
 | 1 | 1.07 | 1 |
