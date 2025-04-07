@@ -416,8 +416,8 @@ $n=5$
 $N_p=1000; N_s=50000$
 
 <!-- data-solution-button="off" -->
-- [[x]] Hochtransformieren
-- [[ ]] Heruntertransformieren
+- [[ ]] Hochtransformieren
+- [[x]] Heruntertransformieren
 - [[ ]] Weder noch
 
 <p class="cb">
