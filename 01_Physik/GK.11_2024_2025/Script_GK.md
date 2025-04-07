@@ -5147,6 +5147,8 @@ __Der Generator:__
 
 - [ ] Bearbeite die KI-Aufgaben zur Induktion
 
+- [ ] Experimentiere mit dem Transformator
+
 
 </p>
 
