@@ -1016,28 +1016,6 @@ __Aufgaben__
 
 ## 5.13 Dielektrikum - Ein Medium (Material) im Plattenkondensator
 
-{{1}}
-********
-> ![Dielektrikum1](https://diversewolken.ddns.net/nextcloud/index.php/s/LjstxnWtmJbaGJY/download)<!-- style="width:300px" --> Ein __Dielektrikum__ ist ein @color(nichtleitendes Material, orange), welches zwischen die Platten eines Plattenkondensators eingebracht wird. Dabei verändert sich die Kapazität des Kondensators. <br> Das Verhältnis aus Kapazität mit - ($C$) und Kapazität ohne ($C_0$) Dielektrikum nennt man Dielektrizitätszahl $\varepsilon_r$. <br> $$ \varepsilon_r = \dfrac{C}{C_0}$$
-********
-
-{{2}}
-********
-> ![ElementareDipole](https://diversewolken.ddns.net/nextcloud/index.php/s/XfwLBXEkJSMJPTL/download) Legt man an den Kondensator nun eine Spannung an, so richten sich die @color(elementaren Dipole, orange) innerhalb des Dielektrikums im elektrischen Feld des Kondensators aus (__Polarisierung__).
-********
-
-{{3}}
-********
-> ![Dielektrikum2](https://diversewolken.ddns.net/nextcloud/index.php/s/KwkZD7myWYGePT4/download)<!-- style="width:300px" -->  Innerhalb des Dielektrikums entsteht ein @color(inneres elektrisches Feld, darkgreen), welches dem @color(äußeren elektrischen Feld, blue) des Kondensators entgegen gerichtet ist und es schwächt.
-********
-
-{{4}}
-********
-> Die Kapazität eines __Plattenkondensators__ mit Dielektrikum, das den Plattenzwischenraum vollständig ausfüllt, beträgt
->
-> $$ C = \varepsilon_r \varepsilon_0 \dfrac{A}{d}$$
-********
-
 ### Aufgaben zu 5.12.
 
 @color(Löse Metzler S. 221 / A1-4, blue)
