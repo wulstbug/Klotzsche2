@@ -110,21 +110,6 @@ try {
 
 ## 1.1. Geladene Teilchen in statischen Magnetfeldern
 
-_Tafelbildvideo zur Lorentzkraft:_
-
-!?[TB_Video_Lorentzkraft](https://youtu.be/f0BNQ6uSvIQ)
-
-<br>
-
-<details>
-
-<summary> __Fertiges Tafelbild zum Nachschlagen__ </summary>
-
-![TB_Lorentzkraft](https://diversewolken.ddns.net/nextcloud/index.php/s/tE56E3MWpqtozxx/download)
-
-</details>
-
-
 ## 1.2. Hand-Regel zur Richtungsbestimmung der Lorentzkraft
 
 _Bitte anschauen und ausprobieren_
@@ -138,11 +123,6 @@ _Bitte Lückentext und weiteres probieren_
 @color(siehe LB. S. 110, blue)
 
 ??[Lorentzkraft_LearningApps](https://learningapps.org/4454537)
-
-__Tafelbild:__
-
-![TB_KräfteAufBewegteElektrischeLadungen](https://diversewolken.ddns.net/nextcloud/index.php/s/aBZZK9rneamRSyf/download)
-
 
 ### Übungsaufgaben zur Lorentzkraft
 
@@ -279,10 +259,6 @@ $$\boxed{\underline{\Rightarrow r = 2,84\cdot10^{-3} m}}$$
 ## 1.3. Flugbahn von Elektronen in einem statischen, homogenen Magnetfeld
 
 @color(siehe LB. S. 110, blue)
-
-![TB_Flugbahn_Elektron_Magnetfeld](https://diversewolken.ddns.net/nextcloud/index.php/s/gmPT93dWaFALw3f/download "Herleitung des Flugbahnradius")
-
-
 
 ### Aufgaben zur Vorbereitung der LK
 
@@ -541,28 +517,7 @@ $v = 216867,5 \frac{m}{s} \approx 2,17\cdot 10^5 \frac{m}{s}$
 
 !?[Fadenstrahlrohr](https://youtu.be/j5y64SPRnH0?si=MxXy0qlxifHUnRlz)
 
-
 ## 2.1. Der Millikan-Versuch
-
-_Tafelbildvideo zum Millikan-Versuch:_
-
-!?[Millikan-Experiment](https://www.youtube.com/watch?v=XMfYHag7Liw)
-
-<details>
-
-<summary> __Fertiges Tafelbild zum Nachschlagen__ </summary>
-
-![TB_Millikan](https://diversewolken.ddns.net/nextcloud/index.php/s/ocNCHdfqgfNNt44/download)
-
-</details>
-
----
-
-__Erklärung:__
-
-Robert Millikan führte einen berühmten Versuch durch, um die Elementarladung $q_e$ zu bestimmen. Dabei wurden geladene Öltröpfchen in einem homogenen elektrischen Feld zwischen zwei Platten zum Schweben gebracht, indem sich die elektrische Kraft und die Gewichtskraft gegenseitig kompensieren. 
-
----
 
 <p style="color:blue">
 
