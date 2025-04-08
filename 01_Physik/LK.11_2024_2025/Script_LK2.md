@@ -4214,3 +4214,4 @@ Nun wird die Ablenkspannung ausgeschaltet, so dass nur noch das magnetische Feld
 ![262_Lsg_f](https://diversewolken.ddns.net/nextcloud/index.php/s/qNeT5R6rQDm5DQ7/download)
 
 </details>
+
