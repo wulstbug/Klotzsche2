@@ -121,52 +121,9 @@ mode: presentation
 
 ## 3.1. Einführung in die Analyse von Bewegungen
 
-Die __Kinematik__ (altgriechisch κίνημα kinema, deutsch ‚Bewegung‘) ist das Gebiet der Mechanik, in dem die Bewegung von Körpern rein geometrisch mit den Größen <bdi style="color:red">Ort, Zeit, Geschwindigkeit und Beschleunigung</bdi> beschrieben wird.
-
-> Jeder Körper wird als eine @color(Punktmasse,red) betrachtet.
-
-{{1}}
-*******
-__Formelzeichen..[Einheit]:__
-
-<div style="text-indent:10%">
-
-> $t$ .. Zeit $\Big[ s \Big]$
->
-> $s, x$ .. Ort/Position/Koordinate des Körpers $\Big[ m \Big]$
->
-> $v$ .. Geschwindigkeit des Körpers $\Big[ \dfrac{m}{s} \Big]$
-> 
-> $a$ ..Beschleunigung $\Big[ \dfrac{m}{s^2} \Big]$
-
-</div>
-*******
-
-{{2}}
-*******
-__Abhängigkeiten:__ Um zu beschreiben, zu welcher Zeit sich ein Körper an welchem Ort aufhält, notiert man die Beziehung verschiedener kinematischer Größen folgender Art
-
-_Beispiele:_
-
-<div style="text-indent:10%">
-
-> $s(t)$ ..  @color(_gesprochen: s von t_,blue) bedeutet: Der Körper befindet sich zum Zeitpunkt $t$ am Ort $s$
->
-> $v(t)$ .. Der Körper besitzt zum Zeitpunkt $t$ die Geschwindigkeit $v$
-
-</div>
-*******
-
 ## 3. 2. Gleichförmige Bewegungen
 
 [LEIFI-GleichförmigeBewegung_1](https://www.leifiphysik.de/mechanik/gleichfoermige-bewegung/grundwissen/gleichfoermige-bewegung)
-
-{{1}}
-***********
-> __Definition__: Eine @color(gleichförmige Bewegung, red) liegt vor, wenn sich die Geschwindigkeit des Körpers nicht ändert.
->
-> Beispiele: Förderbänder, Rolltreppen
-***********
 
 {{2}}
 ***********
@@ -237,41 +194,6 @@ __Aufgabe:__ Ergänze die Bewegungsarten
 
 [Geogebra_Autofahrt](https://www.geogebra.org/m/hdkrad92)
 
-> Definition: Wir definieren __Bewegung__ als Änderung des Ortes in einer bestimmten Zeit. Die __Geschwindigkeit__ gibt an, wie groß die Ortsänderung pro Zeiteinheit ist.
->
-> Formelzeichen: $v$
->
-> Einheit: $\hspace{1cm} \large{\Big[ \dfrac{m}{s} \Big] \hspace{1cm}\overset{\cdot 3,6}{\underset{:3,6}\rightleftarrows}  \hspace{1cm}\Big[ \dfrac{km}{h} \Big]}$
->
-> Formel: $\hspace{1cm} \boxed{\large{v = \dfrac{\Delta s}{\Delta t}}}$
-
----
-
-<p class="newspaper">
-__Durchschnittsgeschwindigkeit $\bar{v}$__
-<p class="cb">
-__Momentangeschwindigkeit $v(t)$__
-</p>
-</p>
-
-
-
-<p class="newspaper">
-Die Durchschnittsgeschwindigkeit gibt einen @color(Mittelwert,red) der Geschwindigkeit über den betrachteten Zeitraum an.
-
-
-> Die Durchschnittsgeschwindigkeit wird mit der Formel $v = \frac{\Delta s}{\Delta t}$ für beliebiges Zeitintervall $\Delta t$ (z.B. für die gesamte Fahrt) berechnet.
-
-<p class="cb">
-Momentangeschwindigkeit gibt die @color(__aktuelle__,red) Geschwindigkeit zu einem bestimmten Zeitpunkt t an.
-
-
-> Die Momentangeschwindigkeit wird mit der Formel $v = \frac{\Delta s}{\Delta t}$ für ein sehr kleines Zeitintervall $\Delta t$ berechnet.
-
-</p>
-</p>
-
-
 ### Übung: Eine realistische Autofahrt
 
 ![8](https://diversewolken.ddns.net/nextcloud/index.php/s/7LXaxmwTBorb4cj/download)
@@ -282,20 +204,7 @@ Löse die Aufgaben auf dem Arbeitsblatt. Vergleich deine Lösungen dann mit den 
 
 [Moodle_EineRealistischeAutofahrt_2](https://diversewolken.ddns.net/moodle/mod/quiz/view.php?id=558)
 
-
-
 ## 3. 4. Beschleunigung
-
-> Definition: Die __Beschleunigung__ definieren wir als Änderung der Geschwindigkeit in einer bestimmten Zeit. <br> Die __Beschleunigung__ gibt an, um welchen Wert sich die Geschwindigkeit pro Sekunde ändert.
-
-> Formelzeichen:   $\hspace{1cm}a$
-> <br> <br>
-> Einheit: $\hspace{1cm} \large{\Big[ \frac{\frac{m}{s}}{s} =\frac{m}{s^2} \Big]}$
-> <br> <br>
->
-> Formel: $\hspace{1cm} \boxed{\large{a = \dfrac{\Delta v}{\Delta t}}}$
-
----
 
 <p class="newspaper">
 
@@ -463,81 +372,6 @@ Passwort: phy-@color(xx,red)
 
 
 ## 3. 5. Gleichförmige und beschleunigte Bewegung in Diagrammen darstellen
-
-<p class="newspaper3">
-
-__Stillstand__
-
-<p class="cb">
-
-__Gleichförmige Bewegung__ 
-
-<p class="cb">
-
-__Gleichmäßig beschleunigte Bewegung__ 
-
-</p>
-
-</p>
-
-</p>
-
----
-
-<p class="newspaper3">
-
-{{1}}
-******
-
-![Stillstand_Diagramm](https://diversewolken.ddns.net/nextcloud/index.php/s/zMpWeaaMACHY6HL/download) <!-- style="height:400px" -->
-
-******
-
-<p class="cb">
-
-{{2}}
-***********
-![GleichfoermigeBewegung_Diagramm](https://diversewolken.ddns.net/nextcloud/index.php/s/dtrzEiGrk59cTgf/download) <!-- style="height:400px" -->
-
-***********
-
-
-<p class="cb">
-
-{{3}}
-***********
-![GleichmäßigBeschleunigteBewegung_Diagramm](https://diversewolken.ddns.net/nextcloud/index.php/s/QQPDawMqpmgpr7t/download) <!-- style="height:400px" -->
-
-***********
-
-</p>
-
-</p>
-
-</p>
-
-{{4}}
-************
----
-
-<p class="newspaper3">
-
-> Beim Stillstand ist der Graph im s(t)-Diagramm eine horizontale Linie. Der Graph im v(t)-Diagramm ist eine Null-Linie.
-
-<p class="cb">
-
-> Bei einer gleichförmigen Bewegung ist der Graph im s(t)-Diagramm eine Gerade. Der Graph im v(t)-Diagramm ist eine horizontale Linie.
-
-<p class="cb">
-
-> Bei einer gleichmäßig beschleunigten Bewegung ist der s(t)-Diagramm eine Parabel. Der Graph im v(t)-Diagramm ist eine Gerade.
-
-</p>
-
-</p>
-
-</p>
-************
 
 ### Übungsaufgaben zur Vorbereitung LK bei Moodle
 
