@@ -442,8 +442,7 @@ Passwort: phy-@color(xx,red)
     2. Beschreibe den Begriff Geschwindigkeit oder anders ausgedrückt, definiere Geschwindigkeit.
     3. Beschreibe, was eine gleichförmige Bewegung charakterisiert.
     4. Beschreibe den Unterschied zwischen Durchschnittsgeschwindigkeit und Momentangeschwindigkeit.
-    5. Beschreibe den Begriff Beschleunigung oder anders ausgedrückt, definiere Beschleunigung.
-    Alle Fragen sind im Fach Physik im Niveau der 9. Klasse zu beantworten. Schätze mir nach meiner 5. Antwort das Niveau meiner Antworten insgesamt ein.</span>
+    5. Beschreibe den Begriff Beschleunigung oder anders ausgedrückt, definiere Beschleunigung. Frage mich nach jeder Antwort von mir, ob ich meine Antwort verbessern möchte oder zur nächsten Frage wechseln. Alle Fragen sind im Fach Physik im Niveau der 9. Klasse zu beantworten. Schätze mir nach meiner 5. Antwort das Niveau meiner Antworten insgesamt ein.</span>
 </div>
 <script input="submit" style="margin-left:10%" default="Prompt Kopieren">
         const text = document.getElementById("textToCopy2").innerText;
