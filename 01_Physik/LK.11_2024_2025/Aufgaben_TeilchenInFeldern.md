@@ -161,11 +161,21 @@ try {
 -->
 
 
-# QR-Code
-
-[qr-code]()
-
 # UNO-Registrierung
 
-[Registrierung-UNO](https://indico.un.org/event/1000169/registrations/)
+[qr-code](https://liascript.github.io/nightly/?https://api.allorigins.win/raw?url=https://raw.githubusercontent.com/wulstbug/Klotzsche2/2024_2025/01_Physik/LK.11_2024_2025/Aufgaben_TeilchenInFeldern.md)
+
+[UNO-Registrierung](https://indico.un.org/event/1000169/registrations/)
+
+
+__Anmeldung Besuch UNO__
+
+| | |
+| Name of Accompanying Adult: |	Christian Golnik |
+| Group‘s Name | Gymnasium Dresden-Klotzsche |
+| Booking Nr.  | 	268514429 |
+| Date of planned Tour |	08.05.2025 |
+| Time  | 	11:30 Uhr |
+
+
 
