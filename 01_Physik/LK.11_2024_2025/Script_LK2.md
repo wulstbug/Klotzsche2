@@ -4013,7 +4013,7 @@ Dies ist die Gleichung für eine Parabel. Die Größen im Bruch sind alle gegebe
 
 ---
 
-2. 2. Ermitteln Sie die Eintrittsgeschwindigkeit $v_0$, bei welcher die Elektronen genau die hinteren Rand der Platte erreichen. 
+2. 2. Ermitteln Sie die Eintrittsgeschwindigkeit $v_0$, bei welcher die Elektronen genau den hinteren Rand der Platte erreichen. 
 
 
 <p style="margin-left:10%">
@@ -4205,7 +4205,7 @@ Wenn die Elektronen langsamer fliegen, ändert sich die elektrische Kraft nicht.
 
 Nun wird die Ablenkspannung ausgeschaltet, so dass nur noch das magnetische Feld vorhanden ist.
 
-2. 7. *Ermitteln Sie minimale Eintrittsgeschwindigkeit der Elektronen in das magnetische Feld, damit Sie den Feldbereich wieder verlassen, ohne auf eine Kondensatorplatte zu treffen.<br>_Hinweis: Hier müssen zur Vollständigkeit zwei Fälle betrachtet werden._
+2. 7. *Ermitteln Sie die minimale Eintrittsgeschwindigkeit der Elektronen in das magnetische Feld, damit Sie den Feldbereich wieder verlassen, ohne auf eine Kondensatorplatte zu treffen.<br>_Hinweis: Hier müssen zur Vollständigkeit zwei Fälle betrachtet werden._
 
 <details style="margin-left:10%">
 
