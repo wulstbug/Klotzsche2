@@ -3928,11 +3928,11 @@ eingesetzt. Die Masse der Teilchen spielt dabei keine Rolle.
 
 </p>
 
-## 7. 2. Geschwindigkeitsfilter für geladene Teilchen - E-B-Kombination
+## 7.2. Geschwindigkeitsfilter für geladene Teilchen - E-B-Kombination
 
 ![TB_Geschwindigkeitsfilter](https://diversewolken.ddns.net/nextcloud/index.php/s/9LkfYcrrJTKZJFF/download)
 
-## Übungsaufgabe Querfeldablenkung - E-B-Kombination
+### Übungsaufgabe Querfeldablenkung - E-B-Kombination
 
 ![Nr262_ElektronenbahnImElektrischenFeld.png](https://diversewolken.ddns.net/nextcloud/index.php/s/MMoMF6oKAeALQHs/download) Aus einer Elektronenquelle treten die Elektronen mit einer Geschwindigkeit $v_0$ senkrecht in das homogene elektrische Feld eines
 Plattenkondensators der Breite 8,0 cm und der
@@ -4218,4 +4218,136 @@ Nun wird die Ablenkspannung ausgeschaltet, so dass nur noch das magnetische Feld
 ![262_Lsg_f](https://diversewolken.ddns.net/nextcloud/index.php/s/qNeT5R6rQDm5DQ7/download)
 
 </details>
+
+
+## 7.3. Bewegung geladener Teilchen im homogenen Magnetfeld
+
+![TB_HomogenesMagnetfeld](https://diversewolken.ddns.net/nextcloud/index.php/s/jJYF7kSL4p6rQrb/download)
+
+### Übungsaufgaben - Geladene Teilchen im homogenen Magnetfeld
+
+1. Aufgabe 2 a+b+c aus: [Abituraufgabe-2-abc](https://virtuelle-experimente.de/b-feld/uebungen/aufgaben.php)
+
+2. ![Kreisbahn](https://diversewolken.ddns.net/nextcloud/index.php/s/yZwLi4z7RWqTDkG/download) Geladene Teilchen bewegen sich im zeitlich konstanten homogenen Magnetfeld senkrecht zu den Feldlinien auf einer Kreisbahn. 
+
+2. 1. Entscheiden Sie, ob es sich um ein positiv oder negativ geladenes Ion handelt. (1BE)
+
+<p style="margin-left:10%">
+
+[[negativ]]
+
+</p>
+
+2. 2. Übernehmen Sie diese Abbildung und tragen Sie am Punkt P der Bahn die Vektoren der Bahngeschwindigkeit und der wirkenden Lorentzkraft an. Begründen Sie, dass sich der Betrag der Bahngeschwindigkeit durch diese Kraft nicht ändert. (3BE)
+
+<p style="margin-left:10%">
+
+<details>
+
+<summary> Hinweis </summary>
+
+Überprüfe die Handregel und die Richtung der Lorentzkraft mit Hilfe von __1.2.__
+
+</details>
+
+<details>
+
+<summary> Lösung Zeichnung </summary>
+
+![Abi13_2_Lsg](https://diversewolken.ddns.net/nextcloud/index.php/s/SbMnFEaMHdqcEPn/download)
+
+</details>
+
+<details>
+
+<summary> Lösung Begründung </summary>
+
+Die Lorentzkraft @color($F_L$,purple) wirkt immer senkrecht zur Bewegungsrichtung. Eine Kraft, die auf einen Körper senkrecht zur Bewegungsrichtung wirkt, ändert nur die Richtung der Geschwindigkeit, nicht aber der Betrag (d.h. den Wert). Der Körper bewegt sich auf einer Kreisbahn.
+
+</details>
+
+</p>
+
+2. 3. Ein einfach geladenes Ion der Masse $4,98\cdot 10^{−27} kg$ bewegt sich in einem Magnetfeld der Flussdichte $0,045 T$ auf einer Bahn mit dem Radius $0,15 m$. Berechnen Sie dessen Bahngeschwindigkeit. (3 BE)
+
+<p style="margin-left:10%">
+
+@rangeQuiz2($v$, 216867.5, $\frac{m}{s}$)
+
+<details>
+
+<summary> Hinweis 1 </summary>
+
+Eine Information zur Ladung des Ions steckt im Text.
+
+</details>
+
+<details>
+
+<summary> Hinweis 2 </summary>
+
+Das Ion ist einfach geladen.
+
+</details>
+
+<details>
+
+<summary> Hinweis 3 </summary>
+
+Die Ladung des Ions beträgt eine Elementarladung.
+
+</details>
+
+<details>
+
+<summary> Hinweis 4 </summary>
+
+Nutzen Sie die hergeleitete Formel zur Berechnung des Bahnradius.
+
+</details>
+
+<details>
+
+<summary> Lösung </summary>
+
+<p class="newspaper">
+
+geg.: 
+
+<p style="margin-left:10%">
+
+$B = 0,045 T$
+
+$m = 4,98 \cdot 10^{-27} kg$
+
+$r = 0,15 m$
+
+$q = 1e = 1,6\cdot10{-19} C$
+
+</p>
+
+ges.: $v$
+
+<p class="cb">
+
+Lsg.:
+
+<p style="margin-left:10%">
+
+$r = \dfrac{v}{B\cdot \frac{q}{m}} \hspace{0.5cm}\Big | \cdot \Big(B\cdot \frac{q}{m}\Big)$
+
+$v = \dfrac{r \cdot B \cdot q}{m}$
+
+$v = 216867,5 \frac{m}{s} \approx 2,17\cdot 10^5 \frac{m}{s}$
+
+</p>
+
+</p>
+
+</p>
+
+
+</details>
+
+</p>
 
