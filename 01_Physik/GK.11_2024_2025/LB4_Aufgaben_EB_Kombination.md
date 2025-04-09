@@ -122,7 +122,7 @@ __Bewegung elektrischer Ladungen im B-Feld oder E-Feld:__
 
 - Beschleunigung einer elektrischen Ladung im elektrischen Feld (Längsfeld / Elektronenkanone) [Übung-Elektronenkanone-Aufgabe-2](https://virtuelle-experimente.de/kanone/uebungen/aufgaben.php)
 
-- e/m-Versuch (Kombination aus Elektronenkanone und homogenem Magnetfeld in Helmholtzspulen) [Abituraufgabe-2-abc](https://virtuelle-experimente.de/b-feld/uebungen/aufgaben.php)
+- e/m-Versuch (Kombination aus Elektronenkanone und homogenem Magnetfeld in Helmholtzspulen) (Aufgabe 2 a,b,c: [Abituraufgabe-2-abc](https://virtuelle-experimente.de/b-feld/uebungen/aufgaben.php) )
 
 __Elektromagnetische Induktion:__
 
