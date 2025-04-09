@@ -740,3 +740,8 @@ Nun wird die Ablenkspannung ausgeschaltet, so dass nur noch das magnetische Feld
 ![262_Lsg_f](https://diversewolken.ddns.net/nextcloud/index.php/s/qNeT5R6rQDm5DQ7/download)
 
 </details>
+
+
+7. 2. Geschwindigkeitsfilter für geladene Teilchen - E-B-Kombination
+
+![TB_Geschwindigkeitsfilter](https://diversewolken.ddns.net/nextcloud/index.php/s/9LkfYcrrJTKZJFF/download)
