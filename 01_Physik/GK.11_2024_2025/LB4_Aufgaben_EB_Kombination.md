@@ -104,19 +104,19 @@ try {
 
 # Checkliste Klausur 11ph2 14.04.25
 
-- Lorentzkraft auf eine bewegte Ladung im homogenen Magnetfeld (Formel und Handregeln)
+- Lorentzkraft auf eine bewegte Ladung im homogenen Magnetfeld (Formel und Handregeln) [Übungsaufgabe-Lorentzkraft](https://liascript.github.io/nightly/?https://raw.githubusercontent.com/wulstbug/Klotzsche2/2024_2025/01_Physik/GK.11_2024_2025/LB4_GeladeneTeilchen_StatischeFelder.md#4)
 
-- Berechnung magnetische Flussdichte B einer langen Spule
+- Berechnung magnetische Flussdichte B einer langen Spule (Formel steht in der Formelsammlung, sollte verstanden sein) [Übungsaufgabe-Flussdichte](https://liascript.github.io/nightly/?https://raw.githubusercontent.com/wulstbug/Klotzsche2/2024_2025/01_Physik/GK.11_2024_2025/LB3_MagnetischesFeld.md#6)
 
 - Bewegung einer Ladung im homogenen Magnetfeld (inkl. Bestimmung Kreisbahnradius)
 
-- Berechnung der elektrischen Kraft auf eine Ladung im elektrischen Feld
+- Berechnung der elektrischen Kraft auf eine Ladung im elektrischen Feld (Formeln stehen in der Formelsammlung)
 
-- Berechnung des elektrischen Feldes in einem Plattenkondensator
+    - Berechnung des elektrischen Feldes in einem Plattenkondensator
 
 - Beschleunigung einer elektrischen Ladung im elektrischen Feld (Längsfeld / Elektronenkanone)
 
-- Verständnis des e/m-Versuch (Kombination aus Elektronenkanone und homogenem Magnetfeld in Helmholtzspulen)
+- e/m-Versuch (Kombination aus Elektronenkanone und homogenem Magnetfeld in Helmholtzspulen)
 
 - Elektromagnetische Induktion und der magnetische Fluss $Phi$ (Definition)
 
