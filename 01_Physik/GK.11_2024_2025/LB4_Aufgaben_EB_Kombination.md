@@ -102,6 +102,30 @@ try {
 
 -->
 
+# Checkliste Klausur 11ph2 14.04.25
+
+- Lorentzkraft auf eine bewegte Ladung im homogenen Magnetfeld (Formel und Handregeln)
+
+- Berechnung magnetische Flussdichte B einer langen Spule
+
+- Bewegung einer Ladung im homogenen Magnetfeld (inkl. Bestimmung Kreisbahnradius)
+
+- Berechnung der elektrischen Kraft auf eine Ladung im elektrischen Feld
+
+- Berechnung des elektrischen Feldes in einem Plattenkondensator
+
+- Beschleunigung einer elektrischen Ladung im elektrischen Feld (Längsfeld / Elektronenkanone)
+
+- Verständnis des e/m-Versuch (Kombination aus Elektronenkanone und homogenem Magnetfeld in Helmholtzspulen)
+
+- Elektromagnetische Induktion und der magnetische Fluss $Phi$ (Definition)
+
+- Anwendung des Induktionsprinzips bei Generator
+
+- Anwendung des Induktionsprinzips bei Transformator
+
+- Abhängigkeit der Induktionsspannung von der Windungszahl
+
 ## Checkliste LK 11ph2
 
 - Lorentzkraft auf eine bewegte Ladung im homogenen Magnetfeld (Formel und Handregeln)
