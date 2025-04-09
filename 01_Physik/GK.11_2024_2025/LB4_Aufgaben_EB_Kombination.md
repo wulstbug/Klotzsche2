@@ -106,19 +106,19 @@ try {
 
 - Lorentzkraft auf eine bewegte Ladung im homogenen Magnetfeld (Formel und Handregeln) [Übungsaufgabe-Lorentzkraft](https://liascript.github.io/nightly/?https://raw.githubusercontent.com/wulstbug/Klotzsche2/2024_2025/01_Physik/GK.11_2024_2025/LB4_GeladeneTeilchen_StatischeFelder.md#4)
 
-- Berechnung magnetische Flussdichte B einer langen Spule (Formel steht in der Formelsammlung, sollte verstanden sein) [Übungsaufgabe-Flussdichte](https://liascript.github.io/nightly/?https://raw.githubusercontent.com/wulstbug/Klotzsche2/2024_2025/01_Physik/GK.11_2024_2025/LB3_MagnetischesFeld.md#6)
+- Berechnung magnetische Flussdichte B einer langen Spule (Formel steht in der Formelsammlung, sollte verstanden sein) [Übungsaufgabe-Flussdichte](https://liascript.github.io/nightly/?https://raw.githubusercontent.com/wulstbug/Klotzsche2/2024_2025/01_Physik/GK.11_2024_2025/LB3_MagnetischesFeld.md#8)
 
-- Bewegung einer Ladung im homogenen Magnetfeld (inkl. Bestimmung Kreisbahnradius)
+- Bewegung einer Ladung im homogenen Magnetfeld (inkl. Bestimmung Kreisbahnradius) [Abituraufgabe](https://liascript.github.io/nightly/?https://raw.githubusercontent.com/wulstbug/Klotzsche2/2024_2025/01_Physik/GK.11_2024_2025/LB4_GeladeneTeilchen_StatischeFelder.md#9)
 
-- Berechnung der elektrischen Kraft auf eine Ladung im elektrischen Feld (Formeln stehen in der Formelsammlung)
+- Berechnung der elektrischen Kraft auf eine Ladung im elektrischen Feld (Formeln stehen in der Formelsammlung) [Übung-ElektrischeKraft](https://liascript.github.io/nightly/?https://raw.githubusercontent.com/wulstbug/Klotzsche2/2024_2025/01_Physik/GK.11_2024_2025/LB2_ElektrischesFeld.md#10)
 
-    - Berechnung des elektrischen Feldes in einem Plattenkondensator
+    - Berechnung des elektrischen Feldes in einem Plattenkondensator [Übungen-Plattenkondensator-6.1-6.3](https://liascript.github.io/nightly/?https://raw.githubusercontent.com/wulstbug/Klotzsche2/2024_2025/01_Physik/GK.11_2024_2025/LB2_ElektrischesFeld.md#21)
 
-- Beschleunigung einer elektrischen Ladung im elektrischen Feld (Längsfeld / Elektronenkanone)
+- Beschleunigung einer elektrischen Ladung im elektrischen Feld (Längsfeld / Elektronenkanone) [Übung-Elektronenkanone-Aufgabe-2](https://virtuelle-experimente.de/kanone/uebungen/aufgaben.php)
 
 - e/m-Versuch (Kombination aus Elektronenkanone und homogenem Magnetfeld in Helmholtzspulen)
 
-- Elektromagnetische Induktion und der magnetische Fluss $Phi$ (Definition)
+- Elektromagnetische Induktion und der magnetische Fluss $\Phi$ (Definition)
 
 - Anwendung des Induktionsprinzips bei Generator
 
