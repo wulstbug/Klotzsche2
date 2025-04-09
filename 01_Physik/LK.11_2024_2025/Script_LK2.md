@@ -3932,7 +3932,7 @@ eingesetzt. Die Masse der Teilchen spielt dabei keine Rolle.
 
 ![TB_Geschwindigkeitsfilter](https://diversewolken.ddns.net/nextcloud/index.php/s/9LkfYcrrJTKZJFF/download)
 
-### Übungsaufgabe II
+## Übungsaufgabe Querfeldablenkung - E-B-Kombination
 
 ![Nr262_ElektronenbahnImElektrischenFeld.png](https://diversewolken.ddns.net/nextcloud/index.php/s/MMoMF6oKAeALQHs/download) Aus einer Elektronenquelle treten die Elektronen mit einer Geschwindigkeit $v_0$ senkrecht in das homogene elektrische Feld eines
 Plattenkondensators der Breite 8,0 cm und der
