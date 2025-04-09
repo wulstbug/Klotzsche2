@@ -3928,6 +3928,10 @@ eingesetzt. Die Masse der Teilchen spielt dabei keine Rolle.
 
 </p>
 
+## 7. 2. Geschwindigkeitsfilter für geladene Teilchen - E-B-Kombination
+
+![TB_Geschwindigkeitsfilter](https://diversewolken.ddns.net/nextcloud/index.php/s/9LkfYcrrJTKZJFF/download)
+
 ### Übungsaufgabe II
 
 ![Nr262_ElektronenbahnImElektrischenFeld.png](https://diversewolken.ddns.net/nextcloud/index.php/s/MMoMF6oKAeALQHs/download) Aus einer Elektronenquelle treten die Elektronen mit einer Geschwindigkeit $v_0$ senkrecht in das homogene elektrische Feld eines
@@ -4215,6 +4219,3 @@ Nun wird die Ablenkspannung ausgeschaltet, so dass nur noch das magnetische Feld
 
 </details>
 
-7. 2. Geschwindigkeitsfilter für geladene Teilchen - E-B-Kombination
-
-![TB_Geschwindigkeitsfilter](https://diversewolken.ddns.net/nextcloud/index.php/s/9LkfYcrrJTKZJFF/download)
