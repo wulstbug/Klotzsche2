@@ -876,3 +876,44 @@ $v = 216867,5 \frac{m}{s} \approx 2,17\cdot 10^5 \frac{m}{s}$
 </details>
 
 </p>
+
+
+### KI-Aufgabe: Bewegung eines Elektrons im B-Feld
+
+
+<p style="color:blue">
+Kopiere den Prompt in das Feld der KI (nutze den Button _Kopieren_). Beantworte dann die gestellte Aufgabe. Verbessere deine Antwort, bis die KI deine Antwort akzeptiert.
+</p>
+
+---
+
+__Ladung im B-Feld-Aufgabe:__<br> 
+
+<div class="container" style="margin-left:10%">
+    __Prompt__ <br>
+    <span class="text-box" id="textToCopy2">
+Ich habe folgende 4 Aufgaben bekommen: <br> 1. Erkläre, warum sich ein geladenes Teilchen in einem homogenen Magnetfeld auf einer Kreisbahn bewegt.<br> 1. Gib begründet qualitativ an, wie sich der Kreisbahnradius mit zunehmender Geschwindigkeit verändert.<br> 2. Wiederhole Aufgabe. mit veränderter magnetischer Flussdichte.<br>3. Hat man Ionen identischer Geschwindigkeit und Ladung, kann man mit Hilfe eines homogenen Magnetfeldes einen Massenspektrograph, d.h. eine Trennung der Teilchen nach ihrer Masse erreichen. Erkläre, wie das funktionieren könnte.<br>
+Stelle mir nacheinander die 4 Aufgaben. Bitte warte auf meine Antwort und bewerte diese. Gib mir nicht die Lösung, sondern warte auf meine Aussagen. Mein Niveau ist Leistungskurs Physik Klasse 11. Bewerte meine Antwort jeweils auf einer Skala von 0 bis 10, wobei 10 das beste ist. Frage mich nach jeder meiner Antworten, ob ich meine Antwort verbessern möchte, oder zur nächsten Frage wechseln. Schätze meine Ergebnisse zusammenfassend ein.</span>
+</div>
+<script input="submit" style="margin-left:10%" default="Prompt Kopieren">
+        const text = document.getElementById("textToCopy2").innerText;
+        navigator.clipboard.writeText(text).then(() => {
+            alert("Text wurde in die Zwischenablage kopiert!");
+        }).catch(err => {
+            console.error("Fehler beim Kopieren: ", err);
+        });
+        "Prompt Kopieren"
+</script>
+
+---
+
+Login: phy-@color(xx,red)@gykl.ipads
+
+Passwort: phy-@color(xx,red)
+
+[KI-OpenWebUI](http://10.102.1.3:3001)
+
+alternativer Link für eigene Geräte
+
+[KI-OpenWebUI-BYOD](https://subtle-corgi-firmly.ngrok-free.app)
+
