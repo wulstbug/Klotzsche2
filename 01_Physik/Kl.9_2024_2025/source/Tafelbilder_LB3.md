@@ -850,7 +850,7 @@ __Aufgabe 3.2.: Gleichmäßig beschleunigte Bewegung__
 
 </p>
 
-# 3.6. Bewegungsgleichungen s(t) und v(t)
+## 3.6. Bewegungsgleichungen s(t) und v(t)
 
 {{1}}
 *************
@@ -1085,7 +1085,7 @@ $s = 250 m$
 
 *************
 
-## KI-Aufgabe Beschleunigte Bewegung
+### KI-Aufgabe Beschleunigte Bewegung
 
 
 <p style="color:blue">
@@ -1104,7 +1104,7 @@ Passwort: phy-@color(xx,red)
 
 <div class="container" style="margin-left:10%">
     __Prompt__ <br>
-    <span class="text-box" id="textToCopy2">Ich möchte, dass du dir eine Rechen-Aufgabe für mich ausdenkst, mich dann danach fragst und meine Antwort korrigierst. Die Aufgabe soll im Bereich Physik der 9. Klasse Bewegungsgesetze sein. Erfinde eine zufällige Beschleunigung und frage mich nach der Geschwindigkeit, die der Körper nach einer bestimmten Zeit erreicht hat. Wenn ich die Frage richtig beantwortet habe, stelle mir eine Folgefrage, welche ebenfalls eine Berechnung erfordert und an die vorherige Frage angelehnt ist. Wenn ich diese Frage beantwortet habe, dann gib mir eine Aufgabe, in der ich etwas begründen soll. Auch diese Aufgabe soll an die vorherigen angelehnt sein. Schreibe mir unter keinen Umständen die Antwort auf deine Frage. Verrate mir nicht die Lösung. <br> Wenn ich die Frage nicht richtig beantwortet habe, frage mich, ob ich es nochmal versuchen will oder einen Tipp möchte. Frage mich nach der dritten Frage, ob ich eine Bewertung auf einer Skala von 0 bis 10 meiner gesamten Antworten möchte. Wenn ich einwillige, dann bewerte meine Antworten auf einer Skala von 0 bis 10.</span>
+    <span class="text-box" id="textToCopy2">Ich möchte, dass du dir eine Rechen-Aufgabe für mich ausdenkst, mich dann danach fragst und meine Antwort überprüfst. Die Aufgabe soll im Bereich Physik der 9. Klasse Bewegungsgesetze sein. Erfinde eine zufällige Beschleunigung und frage mich nach der Geschwindigkeit, die der Körper nach einer bestimmten Zeit erreicht hat. Wenn ich die Frage richtig beantwortet habe, stelle mir eine Folgefrage, welche ebenfalls eine Berechnung erfordert und an die vorherige Frage angelehnt ist. Wenn ich diese Frage beantwortet habe, dann gib mir eine Folge-Aufgabe. Gib mir nicht die Lösungen oder Tipps, wenn ich nicht darum bitte. <br> Wenn ich die Frage nicht richtig beantwortet habe, frage mich, ob ich es nochmal versuchen will oder einen Tipp möchte. Frage mich nach der fünften Frage, ob ich eine Bewertung auf einer Skala von 0 bis 10 meiner gesamten Antworten möchte. Wenn ich einwillige, dann bewerte meine Antworten auf einer Skala von 0 bis 10.</span>
 </div>
 <script input="submit" style="margin-left:10%" default="Prompt Kopieren">
         const text = document.getElementById("textToCopy2").innerText;
@@ -1117,7 +1117,7 @@ Passwort: phy-@color(xx,red)
 </script>
 
 
-## Übungsaufgaben zu den Bewegungsgleichungen
+### Übungsaufgaben zu den Bewegungsgleichungen
 
 
 
