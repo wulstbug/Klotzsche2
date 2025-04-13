@@ -502,7 +502,6 @@ mit:
 
 </p>
 
-
 ### KI-Aufgabe Beschleunigte Bewegung
 
 <p style="color:blue">
@@ -535,7 +534,6 @@ Passwort: phy-@color(xx,red)
 
 
 ### Beispielaufgaben zu den Bewegungsgleichungen
-
 
 <p class="newspaper">
 
