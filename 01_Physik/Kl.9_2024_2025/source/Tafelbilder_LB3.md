@@ -1119,7 +1119,17 @@ Passwort: phy-@color(xx,red)
 
 ### Übungsaufgaben zu den Bewegungsgleichungen
 
+1. Der neue Golf ID3 beschleunigt von 0 km/h auf 100 km/h in 8,9s. Ermittle die Beschleunigung und die Strecke, die er für diese Beschleunigung benötigt.
 
+<p style ="margin-left:5%">
+
+@rangeQuiz2($a$, 3.12 ,$s$)
+
+@rangeQuiz2($s$, 123.619 ,$m$)
+
+</p>
+
+2. 
 
 3. Ein Schlitten fährt einen Hang hinunter. Der Hang ist 50m lang. Der Schlitten hat eine gleichmäßige Beschleunigung von 0,5 m/s². Ermittle die Zeit, die der Schlitten den Hang hinunter braucht und ermittle die Endgeschwindigkeit.
 
@@ -1127,6 +1137,6 @@ Passwort: phy-@color(xx,red)
 
 @rangeQuiz2($t$, 14.14 ,$s$)
 
-@rangeQuiz2($v$, 7.07 ,$s$)
+@rangeQuiz2($v$, 7.07 ,$\frac{m}{s}$)
 
 </p>
