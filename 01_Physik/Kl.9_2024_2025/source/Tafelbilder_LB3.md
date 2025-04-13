@@ -850,4 +850,240 @@ __Aufgabe 3.2.: Gleichmäßig beschleunigte Bewegung__
 
 </p>
 
+# 3.6. Bewegungsgleichungen s(t) und v(t)
 
+{{1}}
+*************
+<p class="newspaper3">
+
+@color(__Stillstand__, orange)
+
+<br> <br>
+
+| ![Stillstand_s](https://diversewolken.ddns.net/nextcloud/index.php/s/oZ3XsqSB3GRHsKD/download) | ![Still_v](https://diversewolken.ddns.net/nextcloud/index.php/s/rBGtSm48JYBGL7P/download) |
+
+<br> <br>
+
+{{4}}
+************
+
+$ \boxed{s(t) = s_0}$
+
+$ \boxed{v(t) = 0 } $
+
+mit:
+
+<p style="margin-left:5%">
+
+$s_0$ .. Anfangsweg
+
+$v = 0 $
+
+$ a = 0 $ 
+
+</p>
+
+************
+
+<p class="cb">
+
+@color(__gleichförmige Bewegung__, blue)
+
+<br> <br>
+
+| ![Stillstand_s](https://diversewolken.ddns.net/nextcloud/index.php/s/jTEtobWNAZmejEb/download) | ![Still_v](https://diversewolken.ddns.net/nextcloud/index.php/s/CXZSMBojQ94ZmH9/download) |
+
+<br> <br>
+
+{{3}}
+************
+
+$ \boxed{s(t) = v_0 \cdot t + s_0}$
+
+$ \boxed{v(t) = v_0} $
+
+mit:
+
+<p style="margin-left:5%">
+
+$s_0$ .. Anfangsweg
+
+$v_0$ .. Anfangsgeschwindigkeit
+
+$ a = 0 $ 
+
+</p>
+
+************
+
+<p class="cb">
+
+@color(__gleichmäßig beschleunigte Bewegung__, purple)
+
+<br> <br>
+
+| ![Beschl_s](https://diversewolken.ddns.net/nextcloud/index.php/s/aWLGbejN8i9Rzgj/download) | ![Beschl_v](https://diversewolken.ddns.net/nextcloud/index.php/s/FfS76JwYLYcJYtR/download) |
+
+<br> <br>
+
+{{2}}
+************
+$ \boxed{s(t) = \frac{1}{2} \cdot a \cdot t^2 + v_0 \cdot t + s_0}$
+
+$ \boxed{v(t) = a \cdot t + v_0} $
+
+mit:
+
+<p style="margin-left:5%">
+
+     $s_0$ .. Anfangsweg
+
+     $v_0$ .. Anfangsgeschwindigkeit
+
+     $a$ .. Beschleunigung
+
+</p>
+************
+
+</p>
+
+</p>
+
+</p>
+*************
+
+---
+
+{{5}}
+*************
+
+<p class="newspaper">
+
+__Beispiel 1:__
+
+Ein Fahrzeug beschleunigt mit 5 m/s² für 5 s. Ermittle die Geschwindigkeit und den zurück gelegten Weg.
+
+__geg.:__
+
+<p style="margin-left:5%">
+
+$a =  5 \frac{m}{s^2}$
+
+$t = 5 s$
+
+{{6}}
+**********
+$ v_0 = 0$
+
+$s_0 = 0$
+**********
+
+</p>
+
+__ges.:__
+
+<p style="margin-left:5%">
+
+s, v
+
+</p>
+
+__Lsg.:__
+
+<p style="margin-left:5%">
+
+{{7}}
+***********
+$ s = \frac{1}{2} \cdot a \cdot t^2$
+***********
+
+{{8}}
+***********
+$ v = a \cdot t$
+***********
+
+<details>
+
+<summary> Lösung </summary>
+
+$s = 62,5 m$
+
+$v = 25 \frac{m}{s}$
+
+</details>
+
+</p>
+
+<p class="cb">
+
+{{9}}
+****************
+__Beispiel 2:__
+
+
+Ein Fahrzeug fährt auf eine Autobahn. Es fährt auf den Beschleunigungsstreifen mit einer Geschwindigkeit von 36 km/h. Dann beschleunigt es innerhalb von 10s auf 144 km/h. Ermittle die Beschleunigung und den zurück gelegten Weg
+
+{{10}}
+************
+__geg.:__
+
+<p style="margin-left:5%">
+
+$v_{anf} = 36 \frac{km}{h} = 10 \frac{m}{s}$
+
+$v_{end} = 144 \frac{km}{h} = 40 \frac{m}{s}$
+
+$\Delta v = v_{end} - v_{anf} = 30 \frac{m}{s}$
+
+$t = 10 s$
+
+$s_0 = 0$
+
+</p>
+
+__ges.:__
+
+<p style="margin-left:5%">
+
+s, a
+
+</p>
+
+__Lsg.:__
+
+<p style="margin-left:5%">
+
+{{10}}
+***********
+$ a = \frac{\Delta v}{\Delta t} = \frac{30 \frac{m}{s}}{10 s}= 3 \frac{m}{s^2}$
+***********
+
+{{11}}
+***********
+$ s = \frac{1}{2} \cdot a \cdot t^2 + v_0 \cdot t$
+
+$ s = \frac{1}{2} \cdot 3 \frac{m}{s^2} \cdot 10s^2 + 10\frac{m}{s} \cdot 10 s$
+***********
+
+<details>
+
+<summary> Lösung </summary>
+
+$s = 250 m$
+
+</details>
+
+</p>
+
+************
+
+****************
+
+</p>
+
+</p>
+
+
+
+
+*************
