@@ -105,6 +105,40 @@ try {
 
 # LB V - Elektromagnetische Felder
 
+__Checkliste Klausur 11ph3 28.04.25__
+
+__Grundlagen magnetische Kraft/magnetisches Feld:__
+
+- Lorentzkraft auf eine bewegte Ladung im homogenen Magnetfeld (Formel und Handregeln) [Übungsaufgabe-Lorentzkraft](https://liascript.github.io/nightly/?https://raw.githubusercontent.com/wulstbug/Klotzsche2/2024_2025/01_Physik/GK.11_2024_2025/LB4_GeladeneTeilchen_StatischeFelder.md#4)
+
+- Berechnung magnetische Flussdichte B einer langen Spule (Formel steht in der Formelsammlung, sollte verstanden sein) [Übungsaufgabe-Flussdichte](https://liascript.github.io/nightly/?https://raw.githubusercontent.com/wulstbug/Klotzsche2/2024_2025/01_Physik/GK.11_2024_2025/LB3_MagnetischesFeld.md#8)
+
+__Grundlagen elektrische Kraft/elektrischen Feld:__
+
+- Berechnung der elektrischen Kraft auf eine Ladung im elektrischen Feld (Formeln stehen in der Formelsammlung) [Übung-ElektrischeKraft](https://liascript.github.io/nightly/?https://raw.githubusercontent.com/wulstbug/Klotzsche2/2024_2025/01_Physik/GK.11_2024_2025/LB2_ElektrischesFeld.md#10)
+
+    - Berechnung des elektrischen Feldes in einem Plattenkondensator (nur 6.1 bis 6.3: [Übungen-Plattenkondensator-6.1-6.3](https://liascript.github.io/nightly/?https://raw.githubusercontent.com/wulstbug/Klotzsche2/2024_2025/01_Physik/GK.11_2024_2025/LB2_ElektrischesFeld.md#21)
+
+__Bewegung elektrischer Ladungen im B-Feld oder E-Feld:__
+
+- Bewegung einer Ladung im homogenen Magnetfeld (inkl. Bestimmung Kreisbahnradius) [Abituraufgabe](https://liascript.github.io/nightly/?https://raw.githubusercontent.com/wulstbug/Klotzsche2/2024_2025/01_Physik/GK.11_2024_2025/LB4_GeladeneTeilchen_StatischeFelder.md#9)
+
+- Beschleunigung einer elektrischen Ladung im elektrischen Feld (Längsfeld / Elektronenkanone) [Übung-Elektronenkanone-Aufgabe-2](https://virtuelle-experimente.de/kanone/uebungen/aufgaben.php)
+
+- e/m-Versuch (Kombination aus Elektronenkanone und homogenem Magnetfeld in Helmholtzspulen) (Aufgabe 2 a,b,c: [Abituraufgabe-2-abc](https://virtuelle-experimente.de/b-feld/uebungen/aufgaben.php) )
+
+__Elektromagnetische Induktion:__
+
+- Elektromagnetische Induktion und der magnetische Fluss $\Phi$ (Definition)
+
+- Anwendung des Induktionsprinzips bei Generator
+
+- Anwendung des Induktionsprinzips bei Transformator
+
+- Abhängigkeit der Induktionsspannung von der Windungszahl
+
+- IQB: Aufgabe 1-5: [IQB-Aufgabe zur Elektro-Magnetischen-Induktion](https://www.iqb.hu-berlin.de/appsrc/taskpool/data/taskpools/getTaskFile?id=p12^InduktiversensorgA^f21968)
+
 !?[CG-Physics-Generator](https://www.youtube.com/watch?v=34z97ULvmpM)
 
 ## Motivation - Kraftwerke zur Energieversorgung
