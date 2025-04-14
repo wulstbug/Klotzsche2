@@ -918,7 +918,7 @@ $ a = 0 $
 
 <p class="cb">
 
-@color(__gleichmäßig beschleunigte Bewegung__, purple)
+@color(__gleichmäßig beschleunigte Bewegung__, green)
 
 <br> <br>
 
