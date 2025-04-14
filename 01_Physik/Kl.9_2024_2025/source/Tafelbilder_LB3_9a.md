@@ -643,3 +643,38 @@ $s = 250 m$
 
 </p>
 
+
+
+### Übungsaufgaben zu den Bewegungsgleichungen
+
+1. Der neue Golf ID3 beschleunigt von 0 km/h auf 100 km/h in 8,9s. Ermittle die Beschleunigung und die Strecke, die er für diese Beschleunigung benötigt.
+
+<p style ="margin-left:5%">
+
+@rangeQuiz2($a$, 3.12 ,$s$)
+
+@rangeQuiz2($s$, 123.619 ,$m$)
+
+</p>
+
+2. Ein Schlitten fährt einen Hang hinunter. Der Hang ist 50m lang. Der Schlitten hat eine gleichmäßige Beschleunigung von 0,5 m/s². Ermittle die Zeit, die der Schlitten den Hang hinunter braucht und ermittle die Endgeschwindigkeit.
+
+<p style ="margin-left:5%">
+
+@rangeQuiz2($t$, 14.14 ,$s$)
+
+@rangeQuiz2($v$, 7.07 ,$\frac{m}{s}$)
+
+</p>
+
+3. Ein Fahrzeug steht an einer Ampel. Als die Ampel auf grün schaltet fährt es mit einer Beschleunigung von 2 m/s² los. Im Moment des Losfahrens überholt ein zweites Auto auf der zweiten Spur mit einer Geschwindigkeit von 50 km/h. Es bewegt sich gleichförmig. Ermittle den Überhol-Zeitpunkt, die Strecke, an welchem das erste Auto, das zweite Auto überholt und die Überholgeschwindigkeit (in km/h).
+
+<p style ="margin-left:5%">
+
+@rangeQuiz2($t$, 13.89 ,$s$)
+
+@rangeQuiz2($s$, 192.917 ,$m$)
+
+@rangeQuiz2($v$, 100 ,$\frac{km}{h}$)
+
+</p>
