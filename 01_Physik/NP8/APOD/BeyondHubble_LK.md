@@ -870,7 +870,7 @@ __Ergebnis:__ An einem Parabolspiegel treffen sich die reflektierten Lichtstrahl
 
 [Arbeitsblatt](https://gykl-my.sharepoint.com/:p:/g/personal/golnik_ch_gykl_onmicrosoft_com/ERkbOv_FxqxAmzo8eDixY2QBoujnJPklxgFxJl_kivK1Iw?e=xBrmbQ)
 
-## Schattenwurf in 3D
+## Schattenwurf in 3D-Projektion
 
 @color(Konstruiere den Schattenwurf der Sonne an einem Würfel in drei dimensionaler Perspektive., blue)
 
