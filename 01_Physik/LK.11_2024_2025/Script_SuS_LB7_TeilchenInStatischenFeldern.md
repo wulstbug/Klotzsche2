@@ -917,3 +917,56 @@ alternativer Link für eigene Geräte
 
 [KI-OpenWebUI-BYOD](https://subtle-corgi-firmly.ngrok-free.app)
 
+
+## 7.4. e/m-Versuch mit Helmhotz-Spulen
+
+![e_m_TB1](https://diversewolken.ddns.net/nextcloud/index.php/s/dtPMS5294W8Qi4q/download)
+
+![e_m_TB2](https://diversewolken.ddns.net/nextcloud/index.php/s/MoMFPxGn8zjD4iL/download)
+
+![e_m_TB3](https://diversewolken.ddns.net/nextcloud/index.php/s/ct7BCE29PDo546B/download)
+
+![e_m_TB4](https://diversewolken.ddns.net/nextcloud/index.php/s/xM2z7xkdFfQXdes/download)
+
+### Fehlerrechnung am e/m-Versuch
+
+![Fehler_e_m1](https://diversewolken.ddns.net/nextcloud/index.php/s/3dMAx9wr4MTJxGQ/download)
+
+![Fehler_e_m2](https://diversewolken.ddns.net/nextcloud/index.php/s/wyRd2H84Cr8w2J6/download)
+
+
+## 7.5. Anwendung - Geladene Teilchen in elektrischen und magnetischen Feldern
+
+> Aufgabe: Erstelle innerhalb der nächsten 45 Minuten eine kurze Präsentation zu einem dieser Themen. Jede Präsentation sollte nicht mehr als 5 min dauern
+
+<p class="newspaper">
+
+__Mögliche Themen:__
+
+- Linearbeschleuniger
+
+- Zyklotron
+
+- Synchrotron
+
+- Massenspektrometer
+
+- magnetische Flaschen (Plasmaphysik)
+
+- Elektronenmikroskopie
+
+- Ionenantriebe (Raumfahrt)
+
+<p class="cb">
+
+__Inhalt:__
+
+- kurze Einführung -> _Worum handelt es sich?_
+
+- Anwendungsbereiche / Anwendungsbeispiele
+
+- Erklärung der grundlegenden Physik: Teilchenbewegung in Feldern
+
+</p>
+
+</p>
