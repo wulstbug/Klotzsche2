@@ -937,7 +937,7 @@ alternativer Link für eigene Geräte
 
 ## 7.5. Anwendung - Geladene Teilchen in elektrischen und magnetischen Feldern
 
-> Aufgabe: Erstelle innerhalb der nächsten 45 Minuten eine kurze Präsentation zu einem dieser Themen. Jede Präsentation sollte nicht mehr als 5 min dauern
+> __Aufgabe:__ Erstelle in einer kleinen Gruppe innerhalb der nächsten 45 Minuten eine kurze Präsentation zu einem dieser Themen. Jede Präsentation sollte nicht mehr als 5 min dauern.
 
 <p class="newspaper">
 
@@ -966,6 +966,8 @@ __Inhalt:__
 - Anwendungsbereiche / Anwendungsbeispiele
 
 - Erklärung der grundlegenden Physik: Teilchenbewegung in Feldern
+
+- interessante Details / aktuelle Informationen
 
 </p>
 
