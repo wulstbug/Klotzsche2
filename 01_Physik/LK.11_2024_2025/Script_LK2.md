@@ -4450,6 +4450,49 @@ alternativer Link für eigene Geräte
 
 ![Fehler_e_m2](https://diversewolken.ddns.net/nextcloud/index.php/s/wyRd2H84Cr8w2J6/download)
 
+### Lösung Übungsaufgabe Mikrotron
+
+<p class="newspaper">
+
+a) Die Lorentzkraft wirkt immer @color(senkrecht, red) zur Bewegungsrichtung der Elektronen, daher wirkt sie als Radialkraft (Zentripetalkraft) einer Kreisbewegung.
+
+b) Im Uhrzeigersinn
+
+c) $ r = \frac{m \cdot v}{B \cdot q} = 0,022 m$
+
+d) Zuwachs der kinetischen Energie ist pro Umlauf
+
+$$ E_{kin} = U \cdot e = 2,92 \cdot 10^{-17} J$$
+
+Damit ergibt sich nach 10 Umläufen eine kinetische Energie von
+
+$$ E_{kin-10} = U \cdot e = 2,92 \cdot 10^{-16} J$$
+
+Die zugehörige Geschwindigkeit beträgt
+
+$$ v = \sqrt{\frac{2\cdot E_{kin-10}}{m_e}} = 2,53 \cdot 10^7 \frac{m}{s}$$
+
+und der Radius ist
+
+$$ r = 7,1 cm$$
+
+@color(Der Platzbedarf ist somit 14.2 cm., red)
+
+<p class="cb">
+
+e) Für die Umlaufzeit gilt:  $T_n = \frac{u_n}{v_n}$, wobei $u_n$ der Umfang der n-ten Bahn und $v_n$ die Geschwindigkeit der n-ten Bahn ist.
+
+Für $u_n$ gilt: $u_n = 2 \pi r_n = 2 \pi \frac{m \cdot v_n}{B \cdot q}$
+
+Für $v_n$ gilt: $v_n = \sqrt{\frac{2 \cdot U \cdot e \cdot n}{m}}$
+
+Das heißt für $T_n$ gilt:
+
+$$ T_n = \frac{u_n}{v_n} = \frac{2\pi \frac{1}{B} \sqrt{\frac{n \cdot 2\cdot U\cdot m}{e}}}{\sqrt{\frac{n\cdot 2 \cdot U \cdot e}{m}}} = \frac{2\pi m}{e\cdot B}$$
+
+</p>
+
+</p>
 
 ## 7.5. Anwendung - Geladene Teilchen in elektrischen und magnetischen Feldern
 
