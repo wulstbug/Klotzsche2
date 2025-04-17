@@ -4502,19 +4502,19 @@ $$ T_n = \frac{u_n}{v_n} = \frac{2\pi \frac{1}{B} \sqrt{\frac{n \cdot 2\cdot U\c
 
 __Mögliche Themen:__
 
-- Linearbeschleuniger
+- Linearbeschleuniger [Johannes, Florian]
 
-- Zyklotron
+- Zyklotron [Gustav, Valentin W]
 
-- Synchrotron
+- Synchrotron [Egor, Hannah]
 
-- Massenspektrometer
+- Massenspektrometer [Oleg Torben]
 
-- magnetische Flaschen (Plasmaphysik)
+- magnetische Flaschen (Plasmaphysik) [Theo, Max]
 
-- Elektronenmikroskopie
+- Elektronenmikroskopie [Christopher, Theo]
 
-- Ionenantriebe (Raumfahrt)
+- Ionenantriebe (Raumfahrt) [Valentin G, Till]
 
 <p class="cb">
 
