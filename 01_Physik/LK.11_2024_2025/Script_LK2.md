@@ -4502,21 +4502,72 @@ $$ T_n = \frac{u_n}{v_n} = \frac{2\pi \frac{1}{B} \sqrt{\frac{n \cdot 2\cdot U\c
 
 __Mögliche Themen:__
 
-- Linearbeschleuniger [Johannes, Florian]
 
-- Zyklotron [Gustav, Valentin W]
 
-- Synchrotron [Egor, Hannah]
+<details>
 
-- Massenspektrometer [Oleg Torben]
+<summary> Linearbeschleuniger [Johannes, Florian]  </summary>
 
-- magnetische Flaschen (Plasmaphysik) [Theo, Max]
+[qr-code](https://forms.office.com/Pages/ResponsePage.aspx?id=OYkUKbuZEE6zqVVLeyuod-N98JNwJnhAr0ZoZo5y2cdUOUY0MVlTR1FUWE5NM003TEM3V1BXMlZVNy4u)
 
-- Elektronenmikroskopie [Christopher, Theo]
+</details>
 
-- Ionenantriebe (Raumfahrt) [Valentin G, Till]
+<details>
 
-- Protonentherapie [Fynn]
+<summary> Zyklotron [Gustav, Valentin W]  </summary>
+
+[qr-code](https://forms.office.com/Pages/ResponsePage.aspx?id=OYkUKbuZEE6zqVVLeyuod-N98JNwJnhAr0ZoZo5y2cdUMjQyS0dNOUNSUDRYQThXTEk3SklONUJXMi4u)
+
+</details>
+
+<details>
+
+<summary> Synchrotron [Egor, Hannah]  </summary>
+
+[qr-code](https://forms.office.com/Pages/ResponsePage.aspx?id=OYkUKbuZEE6zqVVLeyuod-N98JNwJnhAr0ZoZo5y2cdUQkZVREtXSVZMVFQwVjVRV1NWNkwzQTVIOS4u)
+
+</details>
+
+<details>
+
+<summary> Massenspektrometer [Oleg Torben] </summary>
+
+[qr-code](https://forms.office.com/Pages/ResponsePage.aspx?id=OYkUKbuZEE6zqVVLeyuod-N98JNwJnhAr0ZoZo5y2cdUMUk0M0NSQzQxMlFBOVBRUjBHVFBMQ0kyTS4u)
+
+</details>
+
+<details>
+
+<summary> magnetische Flaschen (Plasmaphysik) [Theo, Max]  </summary>
+
+[qr-code](https://forms.office.com/Pages/ResponsePage.aspx?id=OYkUKbuZEE6zqVVLeyuod-N98JNwJnhAr0ZoZo5y2cdURFhGRk9JTzJBUUZIWEtXTE1MMjQzODUxMS4u)
+
+</details>
+
+<details>
+
+<summary> Elektronenmikroskopie [Christopher, Theo]  </summary>
+
+[qr-code](https://forms.office.com/Pages/ResponsePage.aspx?id=OYkUKbuZEE6zqVVLeyuod-N98JNwJnhAr0ZoZo5y2cdURDZPNzNLMUtHR1EzMUdJMDZNT1IySFhUNC4u)
+
+</details>
+
+<details>
+
+<summary> Ionenantriebe (Raumfahrt) [Valentin G, Till]  </summary>
+
+[qr-code](https://forms.office.com/Pages/ResponsePage.aspx?id=OYkUKbuZEE6zqVVLeyuod-N98JNwJnhAr0ZoZo5y2cdUQzlDMDJONjNGOVdQU1pRTFFOSkNTM1BNOC4u)
+
+</details>
+
+<details>
+
+<summary> Protonentherapie [Fynn]  </summary>
+
+[qr-code](https://forms.office.com/Pages/ResponsePage.aspx?id=OYkUKbuZEE6zqVVLeyuod-N98JNwJnhAr0ZoZo5y2cdUQzJHN082TjBSUTlDSUNKQ1A4UjJPMFo4WC4u)
+
+</details>
+
 
 <p class="cb">
 
