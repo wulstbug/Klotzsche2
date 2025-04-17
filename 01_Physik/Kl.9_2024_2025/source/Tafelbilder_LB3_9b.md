@@ -431,7 +431,7 @@ Passwort: phy-@color(xx,red)
 </script>
 
 
-## 3.6. Bewegungsgleichungen s(t) und v(t)
+## 3.7. Bewegungsgleichungen s(t) und v(t)
 
 <p class="newspaper3">
 
