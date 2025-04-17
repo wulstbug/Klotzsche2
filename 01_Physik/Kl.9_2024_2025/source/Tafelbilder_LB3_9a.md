@@ -625,7 +625,7 @@ $ a = \frac{\Delta v}{\Delta t} = \frac{30 \frac{m}{s}}{10 s}= 3 \frac{m}{s^2}$
 
 $ s = \frac{1}{2} \cdot a \cdot t^2 + v_0 \cdot t$
 
-$ s = \frac{1}{2} \cdot 3 \frac{m}{s^2} \cdot 10s^2 + 10\frac{m}{s} \cdot 10 s$
+$ s = \frac{1}{2} \cdot 3 \frac{m}{s^2} \cdot (10s)^2 + 10\frac{m}{s} \cdot 10 s$
 
 </details>
 
@@ -651,7 +651,7 @@ $s = 250 m$
 
 <p style ="margin-left:5%">
 
-@rangeQuiz2($a$, 3.12 ,$s$)
+@rangeQuiz2($a$, 3.12 ,$\frac{m}{s^2}$)
 
 @rangeQuiz2($s$, 123.619 ,$m$)
 

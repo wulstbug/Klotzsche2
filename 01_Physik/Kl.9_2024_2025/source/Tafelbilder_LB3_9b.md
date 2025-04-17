@@ -665,7 +665,7 @@ Passwort: phy-@color(xx,red)
 
 <p style ="margin-left:5%">
 
-@rangeQuiz2($a$, 3.12 ,$s$)
+@rangeQuiz2($a$, 3.12 ,$\frac{m}{s^2}$)
 
 @rangeQuiz2($s$, 123.619 ,$m$)
 
