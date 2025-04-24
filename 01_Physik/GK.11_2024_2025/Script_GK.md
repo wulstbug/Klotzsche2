@@ -5434,7 +5434,7 @@ Zeichne einen Graphen mit $n=\dfrac{N_1}{N_2}$ auf der x-Achse und $n'= \dfrac{U
 *********
 
 
-## Checkliste Klausur 11ph3 14.04.25
+## Checkliste Klausur 11ph3 28.04.25
 
 __Grundlagen magnetische Kraft/magnetisches Feld:__
 
@@ -5454,7 +5454,7 @@ __Bewegung elektrischer Ladungen im B-Feld oder E-Feld:__
 
 - Beschleunigung einer elektrischen Ladung im elektrischen Feld (Längsfeld / Elektronenkanone) [Übung-Elektronenkanone-Aufgabe-2](https://virtuelle-experimente.de/kanone/uebungen/aufgaben.php)
 
-- e/m-Versuch (Kombination aus Elektronenkanone und homogenem Magnetfeld in Helmholtzspulen) (Aufgabe 2 a,b,c: [Abituraufgabe-2-abc](https://virtuelle-experimente.de/b-feld/uebungen/aufgaben.php) )
+- e/m-Versuch: [Wdh-Video-Zum-Versuch](https://youtu.be/A8mLTfc8W7c?si=nx-6LFE48FBjRmEn) (Kombination aus Elektronenkanone und homogenem Magnetfeld in Helmholtzspulen) (Aufgabe 2 a,b,c: [Abituraufgabe-2-abc](https://virtuelle-experimente.de/b-feld/uebungen/aufgaben.php) )
 
 __Elektromagnetische Induktion:__
 
@@ -5467,3 +5467,5 @@ __Elektromagnetische Induktion:__
 - Abhängigkeit der Induktionsspannung von der Windungszahl
 
 - IQB: Aufgabe 1-5: [IQB-Aufgabe zur Elektro-Magnetischen-Induktion](https://www.iqb.hu-berlin.de/appsrc/taskpool/data/taskpools/getTaskFile?id=p12^InduktiversensorgA^f21968)
+
+!?[CG-Physics-Generator](https://www.youtube.com/watch?v=34z97ULvmpM)
