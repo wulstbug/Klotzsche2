@@ -115,9 +115,12 @@ mode: presentation
 
 # LB3: Bewegungsgesetze (Kinematik)
 
-@uhr
+> @color(Diese Präsentation lässt sich mit den Pfeiltasten bewegen. Oder du klickst auf die Pfeile im unteren Bereich. Auf der linken Seite gibt es ein Menu. Auf den meisten Seiten findest du in violett Anweisungen. Probiere es aus. Als nächstes folgt hier das Bild zum Lernbereich., purple)
 
+{{1}}
+******
 ![KinematikUndDynamik](https://www.online-wissensdatenbank.de/wp-content/uploads/2023/12/kinematik-grundlagen-der-bewegungslehre.jpg "Bild-Quelle: https://www.online-wissensdatenbank.de")
+******
 
 ## 3.1. Einführung in die Analyse von Bewegungen
 
