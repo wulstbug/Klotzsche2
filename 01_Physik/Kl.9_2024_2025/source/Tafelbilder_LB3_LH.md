@@ -208,6 +208,7 @@ __Aufgaben  (ca. 35 min):__
 > @color(Schau dir folgende Diagrammdarstellung einer Bewegung an. Versuche die Aufgaben unter dem Diagramm zu lösen. Sie beziehen sich auf das Diagramm. Hier musst du nichts im Hefter notieren., purple)
 
 
+
 Häufig ist es __anschaulich__ die Bewegung eines Körpers in @color(Diagrammform, red) darzustellen.
 
 <bdi style="color:red">
@@ -645,7 +646,9 @@ __Gleichmäßig beschleunigte Bewegung__
 
 ### Gemeinsam: Arbeitsblatt Vorderseite
 
-> @color(Drucke dir folgendes Arbeitsblatt aus. Die Vorderseite wird hier Schritt für Schritt gelöst. Ergänze das untere Diagramm., purple)
+> @color(Drucke dir folgendes Arbeitsblatt aus. Die Vorderseite wird hier Schritt für Schritt gelöst. Ergänze das v-t-Diagramm., purple)
+>
+> [Arbeitsblatt-Vorderseite](https://diversewolken.ddns.net/nextcloud/index.php/s/BPH6J5DJiC93PeM)
 
 {1-2}{![Seite_1](https://diversewolken.ddns.net/nextcloud/index.php/s/iMMbWwxzsJDwTCp/download)}
 
@@ -659,7 +662,9 @@ __Gleichmäßig beschleunigte Bewegung__
 
 ### Einzelarbeit: Realistische Autofahrt
 
-> @color(Erstelle nun das v(t)-Diagramm der Autofahrt auf der Rückseite des Arbeitsblattes. , purple)
+> @color(Erstelle nun das v-t-Diagramm der Autofahrt auf der Rückseite des Arbeitsblattes. , purple)
+>
+> [Arbeitsblatt-Rückseite](https://diversewolken.ddns.net/nextcloud/index.php/s/N2cTKymGj5Jko5f)
 
 {0-1}{![Aufgabe_Autofahrt](https://diversewolken.ddns.net/nextcloud/index.php/s/2WmoJTDkfctD4jg/download)}
 
