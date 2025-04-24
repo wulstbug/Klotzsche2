@@ -119,30 +119,6 @@ mode: presentation
 
 ![KinematikUndDynamik](https://www.online-wissensdatenbank.de/wp-content/uploads/2023/12/kinematik-grundlagen-der-bewegungslehre.jpg "Bild-Quelle: https://www.online-wissensdatenbank.de")
 
-<details style="margin-left:10%">
-
-<summary> Tablets 9a </summary>
-
-![Tablets9a](https://diversewolken.ddns.net/nextcloud/index.php/s/K46eDTyd9EkFMSr/download)
-
-</details>
-
-<details style="margin-left:10%">
-
-<summary> Tablets 9b </summary>
-
-![Tablets9b](https://diversewolken.ddns.net/nextcloud/index.php/s/MiN3PTGWnDJRKWe/download)
-
-</details>
-
-<details style="margin-left:10%">
-
-<summary> Tablets 9c </summary>
-
-![Tablets9c](https://diversewolken.ddns.net/nextcloud/index.php/s/f9mzGsqKXPNzkFa/download)
-
-</details>
-
 ## 3.1. Einführung in die Analyse von Bewegungen
 
 Die __Kinematik__ (altgriechisch κίνημα kinema, deutsch ‚Bewegung‘) ist das Gebiet der Mechanik, in dem die Bewegung von Körpern rein geometrisch mit den Größen <bdi style="color:red">Ort, Zeit, Geschwindigkeit und Beschleunigung</bdi> beschrieben wird.
@@ -181,15 +157,20 @@ _Beispiele:_
 </div>
 *******
 
-## 3. 2. Gleichförmige Bewegungen
+{{4}}
+*******
+> @color(Notiere dieses Tafelbild in deinen Hefter. Nutze die Überschrift 3. Bewegungsgesetze und anschließende alle Teile dieser Seite., purple)
+*******
 
-[LEIFI-GleichförmigeBewegung_1](https://www.leifiphysik.de/mechanik/gleichfoermige-bewegung/grundwissen/gleichfoermige-bewegung)
+## 3. 2. Gleichförmige Bewegungen
 
 {{1}}
 ***********
 > __Definition__: Eine @color(gleichförmige Bewegung, red) liegt vor, wenn sich die Geschwindigkeit des Körpers nicht ändert.
 >
 > Beispiele: Förderbänder, Rolltreppen
+
+> @color(Übernimm diese Überschrift + Definition in deinen Hefter. Bearbeite anschließend die folgenden Aufgaben., purple)
 ***********
 
 {{2}}
@@ -203,7 +184,9 @@ __Aufgaben  (ca. 35 min):__
 | | | | |
 | $t$ in s | <p style="color:purple">$s_1$ in m</p> | <p style="color:darkgreen">$s_2$ in m</p> | <p style="color:blue">$s_3$ in m</p> |
 
-3. Übernimm die Messwerte aus der Simulation in deine Tabelle.
+3. Klicke auf den folgenden Link. Klicke anschließend auf den Abspielen Button (siehe Bild). Übernimm die Messwerte aus der Simulation der drei Bälle in deine Tabelle. 
+
+     ![LEIFI-Simulation-Anklicken](https://diversewolken.ddns.net/nextcloud/index.php/s/q4mDBg6NMPHMksE/download)<!-- style="width:300px" -->
 
      [LEIFI-Link-Simulation-GleichförmigeBewegung](https://www.leifiphysik.de/mechanik/gleichfoermige-bewegung/grundwissen/geschwindigkeit-bei-gleichfoermiger-bewegung)
 
@@ -214,10 +197,13 @@ __Aufgaben  (ca. 35 min):__
 
      [Link-Quiz-GleichförmigeBewegung](https://www.leifiphysik.de/mechanik/gleichfoermige-bewegung/aufgabe/quiz-zum-zeit-weg-gesetz-der-gleichfoermigen-bewegung)
 
-6. Schau dir die nächste Seite zur Darstellung von zusammen gesetzten Bewegungen an. Probiere die Lösungen.
+6. Schau dir die nächste Seite zur Darstellung von zusammen gesetzten Bewegungen an.
 ***********
 
 ## Darstellung in Diagrammform
+
+> @color(Schau dir folgende Diagrammdarstellung einer Bewegung an. Versuche die Aufgaben unter dem Diagramm zu lösen. Sie beziehen sich auf das Diagramm. Hier musst du nichts im Hefter notieren., purple)
+
 
 Häufig ist es __anschaulich__ die Bewegung eines Körpers in @color(Diagrammform, red) darzustellen.
 
@@ -228,6 +214,7 @@ Vereinbahrung: In der Kinematik wird die Zeit __immer__ auf der x-Achse dargeste
 Beispiel: s(t) Diagramm
 
 ![BeispielDiagramm](https://diversewolken.ddns.net/nextcloud/index.php/s/EsD2fMgGed8tjRC/download)
+
 
 __Aufgabe:__ Ergänze die Bewegungsarten
 
@@ -254,6 +241,7 @@ __Aufgabe:__ Ergänze die Bewegungsarten
 
 ## 3. 2. Gleichförmige Bewegungen
 
+> @color(Das hier dargestellte Diagramm ist die Lösung der Tabelle aus 3.2. Überprüfe deine Tabelle und das Diagramm. Übernimm anschließend unter dem Diagramm den Merksatz., purple)
 
 > __Definition__: Eine @color(gleichförmige Bewegung, red) liegt vor, wenn sich die Geschwindigkeit des Körpers nicht ändert.
 >
@@ -270,21 +258,19 @@ __Aufgabe:__ Ergänze die Bewegungsarten
 
 ## Bewegungsanalyse - Video
 
-Bis 12:00
+@color(Schau dir dieses Video bis zur Minute 12:00 an., purple)
 
 !?[Telekolleg_bis_13:40](https://diversewolken.ddns.net/nextcloud/index.php/s/QycTfGXXTDPn2aa/download)
 
 ### Übung zur zusammengesetzt gleichförmigen Bewegung
 
-??[Geogebra_Autofahrt](https://www.geogebra.org/m/hdkrad92)
+> @color(Ab hier wird es technich ein bisschen komplizierter. Du musst dich auf unserer Moodle-Webseite einloggen. Dort findest du die Aufgaben zu dieser Übung., purple)
 
----
+> @color(Dein Login und dein Passwort sind jeweils die E-Mail-Adresse mit der du geschrieben hast. Wenn du dich einloggst sollst du dein Passwort ändern., purple)
 
-{{1}}
-*************
-??[Moodle_Übung_Zusammengesetzte_Gleichförmige_Bewegungen](https://diversewolken.ddns.net/moodle/mod/quiz/view.php?id=562)
-*************
+??[Moodle_Übung_Zusammengesetzte_Gleichförmige_Bewegungen](https://diversewolken.ddns.net/moodle/mod/quiz/view.php?id=561)
 
+> @color(Nach dem Login: Klicke auf _Test jetzt starten_. Hier wird nichts bewertet. , purple)
 
 ## 3. 3. Geschwindigkeit
 {{1}}
@@ -330,50 +316,23 @@ Momentangeschwindigkeit gibt die @color(__aktuelle__,red) Geschwindigkeit zu ein
 </p>
 **********
 
-{{4-5}}
+{{7}}
 **********
-Ab: 11:00
-
-!?[Telekolleg_bis_13:40](https://diversewolken.ddns.net/nextcloud/index.php/s/QycTfGXXTDPn2aa/download)
+> @color(Übernimm nun dieses Tafelbild in deinen Hefter., purple)
 **********
 
 ### Übung: Eine realistische Autofahrt
 
-{0-1}{![0](https://diversewolken.ddns.net/nextcloud/index.php/s/E3qZoZqZrAteJ8P/download)}
+> @color(Hier sollst du ein Arbeitsblatt lösen. Du findest es unter dem Bild., purple) 
 
-{1-2}{![1](https://diversewolken.ddns.net/nextcloud/index.php/s/kXtSMWDKiAJ2RQt/download)}
+![8](https://diversewolken.ddns.net/nextcloud/index.php/s/7LXaxmwTBorb4cj/download)
 
-{2-3}{![2](https://diversewolken.ddns.net/nextcloud/index.php/s/NdBgcyXZfJnsxaz/download)}
-
-{3-4}{![3](https://diversewolken.ddns.net/nextcloud/index.php/s/Py3SJjkc6sSTgkY/download)}
-
-{4-5}{![4](https://diversewolken.ddns.net/nextcloud/index.php/s/XpMWtHsK2H8B7nR/download)}
-
-{5-6}{![5](https://diversewolken.ddns.net/nextcloud/index.php/s/76zKEaeqPrMgA6K/download)}
-
-{6-7}{![6](https://diversewolken.ddns.net/nextcloud/index.php/s/fc7mWYL4CXTqNAd/download)}
-
-{7-8}{![7](https://diversewolken.ddns.net/nextcloud/index.php/s/tkMAS53nT4WDjKT/download)}
-
-{8}{![8](https://diversewolken.ddns.net/nextcloud/index.php/s/7LXaxmwTBorb4cj/download)}
-
-{{9}}
-********
 Link zum [Arbeitsblatt](https://diversewolken.ddns.net/nextcloud/index.php/s/S4zs3zybdcyf4Fx)
 
-Löse die Aufgaben auf dem Arbeitsblatt. Vergleich deine Lösungen dann mit Moodle.
+> @color(Löse die Aufgaben auf dem Arbeitsblatt. Gib deine Lösungen bei Moodle ein und überprüfe sie., purple)
 
 ??[Moodle_EineRealistischeAutofahrt](https://diversewolken.ddns.net/moodle/mod/quiz/view.php?id=557)
 
-********
-
-### Tägliche Übung zur Beschleunigung
-
-[TÜ-Beschleunigung-PDF](https://diversewolken.ddns.net/nextcloud/index.php/s/aeGt4Bz9ZqT3kef/download)
-
-oder
-
-[PPT-Beschleunigung](https://gykl-my.sharepoint.com/:p:/g/personal/golnik_ch_gykl_onmicrosoft_com/EYV_CNu29v1Es0v6hxd5YLwBtw9lSEZsJ9Nh9pIE6mDl7A?e=RDmj0F)
 
 ## 3. 4. Beschleunigung
 {{1}}
@@ -494,7 +453,7 @@ $a_{1->2}\approx 1,72 \frac{m}{s^2}$
 {{7}}
 **********
 ---
-<p style="color:blue">
+<p style="color:purole">
 __Aufgaben: __
 
 - übernimm das Tafelbild
@@ -503,20 +462,28 @@ __Aufgaben: __
 
 - löse bei Moodle die Aufgaben 10-13
 
-[Moodle-EineRealistischeAutofahrt-10-bis-13](https://diversewolken.ddns.net/moodle/mod/quiz/view.php?id=557)
+??[Moodle-EineRealistischeAutofahrt-10-bis-13](https://diversewolken.ddns.net/moodle/mod/quiz/view.php?id=557)
 </p>
 **********
 
+### Tägliche Übung zur Beschleunigung
+
+> @color(Schau dir die tägliche Übung auf der ersten Seite in diesem PDF-Dokument an., purple)
+
+[TÜ-Beschleunigung-PDF](https://diversewolken.ddns.net/nextcloud/index.php/s/aeGt4Bz9ZqT3kef/download)
+
+
+
 ### Video: Alles immer schneller
 
-Telekolleg_AllesImmerSchneller_Bis5:50
+@color(Schau dir dieses Video an bis Minute 5:50., purple)
 
 !?[Telekolleg_AllesImmerSchneller](https://diversewolken.ddns.net/nextcloud/index.php/s/2QFxN89dLeXtMdT/download)
 
 #### KI-Aufgaben: Erkläre Begriffe der Bewegungsgesetze
 
-<p style="color:blue">
-Kopiere den Prompt in das Feld der KI (nutze den Button _Kopieren_). Beantworte dann die gestellte Aufgabe. Verbessere deine Antwort, bis die KI deine Antwort akzeptiert. <br> Wiederhole es mit der zweiten Aufgabe.
+<p style="color:purple">
+Kopiere den Prompt in das Feld der KI (nutze den Button _Kopieren_). Beantworte dann die gestellte Aufgabe. Verbessere deine Antwort, bis die KI deine Antwort akzeptiert.
 </p>
 
 ---
@@ -551,7 +518,7 @@ Passwort: phy-@color(xx,red)
 #### KI-Aufgaben 2: Erkläre Begriffe der Bewegungsgesetze
 
 <p style="color:blue">
-Kopiere den Prompt in das Feld der KI (nutze den Button _Kopieren_). Beantworte dann die gestellte Aufgabe. Verbessere deine Antwort, bis die KI deine Antwort akzeptiert. <br> Wiederhole es mit der zweiten Aufgabe.
+Kopiere den Prompt in das Feld der KI (nutze den Button _Kopieren_). Beantworte dann die gestellte Aufgabe. Verbessere deine Antwort, bis die KI deine Antwort akzeptiert.
 </p>
 
 ---
@@ -566,13 +533,12 @@ Passwort: phy-@color(xx,red)
 
 > __2. Beschleunigung:__<br> Erkläre mit eigenen Worten den Beschleunigung.
 
-<details style="margin-left:10%">
-    
-<summary> __Prompt__ </summary>
+<p style="margin-left:10%">
+__Prompt__
 
 <span class="text-box" id="textToCopy2">Ich habe folgende Aufgabe bekommen: Erkläre mit eigenen Worten den Beschleunigung. Bitte warte auf meine Antwort und bewerte diese. Gib mir nicht die Lösung, sondern warte auf meine Aussagen. Mein Niveau ist 9. Klasse. Bewerte meine Antwort auf einer Skala von 0 bis 10, wobei 10 das beste ist.</span>
 
-</details>
+</p>
 
 <script input="submit" style="margin-left:10%" default="Prompt Kopieren">
         const text = document.getElementById("textToCopy2").innerText;
@@ -586,15 +552,11 @@ Passwort: phy-@color(xx,red)
 
 ### Tägliche Übung zur Beschleunigung 2
 
-@timer(10,00)
-
 __Seite 2__
 
+@color(Schau dir die tägliche Übung auf der zweiten Seite dieser PDF an. Die Lösungen folgen auf den nächsten Seiten. , purple)
+
 [TÜ-Beschleunigung-PDF](https://diversewolken.ddns.net/nextcloud/index.php/s/aeGt4Bz9ZqT3kef/download)
-
-oder
-
-[PPT-Beschleunigung](https://gykl-my.sharepoint.com/:p:/g/personal/golnik_ch_gykl_onmicrosoft_com/EYV_CNu29v1Es0v6hxd5YLwBtw9lSEZsJ9Nh9pIE6mDl7A?e=RDmj0F)
 
 ## 3. 5. Gleichförmige und beschleunigte Bewegung in Diagrammen darstellen
 
@@ -673,7 +635,14 @@ __Gleichmäßig beschleunigte Bewegung__
 </p>
 ************
 
+{{5}}
+************
+> @color(Übernimm diese Diagramme skizzenhaft in den Hefter. Ergänze die Merksätze darunter. , purple)
+************
+
 ### Gemeinsam: Arbeitsblatt Vorderseite
+
+> @color(Drucke dir folgendes Arbeitsblatt aus. Die Vorderseite wird hier Schritt für Schritt gelöst. Ergänze das untere Diagramm., purple)
 
 {1-2}{![Seite_1](https://diversewolken.ddns.net/nextcloud/index.php/s/iMMbWwxzsJDwTCp/download)}
 
@@ -687,51 +656,16 @@ __Gleichmäßig beschleunigte Bewegung__
 
 ### Einzelarbeit: Realistische Autofahrt
 
-Erstelle das v(t)-Diagramm der Autofahrt
+> @color(Erstelle nun das v(t)-Diagramm der Autofahrt auf der Rückseite des Arbeitsblattes. , purple)
 
 {0-1}{![Aufgabe_Autofahrt](https://diversewolken.ddns.net/nextcloud/index.php/s/2WmoJTDkfctD4jg/download)}
 
 {1-2}{![Loesung_Autofahrt](https://diversewolken.ddns.net/nextcloud/index.php/s/mAJSRTmqpLRraJc/download)}
 
 
-### Videoanalyse mit VIANA2
-
-__Aufgabe 1: Gleichförmige Bewegung__
-
-1. Besorge dir in deiner Gruppe ein Stahlkugel und ein großes Lineal.
-
-2. Positioniere das Tablet auf dem Tisch so, dass das Lineal zu sehen ist und die Kugel entlange des Lineals rollen kann.
-
-3. Öffne das Video-Analyse-Tool VIANA2 auf dem Tablet.
-
-4. Wähle: Neues Projekt. Nimm mit dem Tablet die gleichförmige Bewegung der Kugel entlang des Lineals auf.
-
-5. Ergänze in deiner Analyse den Maßstab und das Koordinatensystem
-
-6. Lass dir das s(t)-Diagramm und das v(t)-Diagramm darstellen.
-
-7. Zeige dein Ergebnis kurz dem Fachlehrer
-
-
-__Aufgabe 2: Gleichmäßig beschleunigte Bewegung__
-
-1. Besorge dir in deiner Gruppe eine Kunststoffbahn (orange oder grau). Bestimme die Länge der Bahn.
-
-2. Positioniere das Tablet auf dem Tisch so, dass die Bahn zu sehen.
-
-3. Öffne das Video-Analyse-Tool VIANA2 auf dem Tablet.
-
-4. Wähle: Neues Projekt. Nimm mit dem Tablet die gleichförmige Bewegung der Kugel entlang des Lineals auf. @color(Achte darauf die Kugel mit einem kleinen Lineal o.ä. zu starten., red)
-
-5. Ergänze in deiner Analyse den Maßstab und das Koordinatensystem
-
-6. Lass dir das s(t)-Diagramm und das v(t)-Diagramm darstellen.
-
-7. Zeige dein Ergebnis kurz dem Fachlehrer
-
 #### KI-Aufgaben 2: Erkläre Begriffe der Bewegungsgesetze
 
-<p style="color:blue">
+<p style="color:purple">
 Kopiere den Prompt in das Feld der KI (nutze den Button _Kopieren_). Beantworte dann die gestellte Aufgabe. Verbessere deine Antwort, bis die KI deine Antwort akzeptiert. <br> Wiederhole es mit der zweiten Aufgabe.
 </p>
 
@@ -763,13 +697,13 @@ Passwort: phy-@color(xx,red)
 
 #### 1. Übungsaufgaben zur Vorbereitung LK bei Moodle
 
-> Einige Aufgaben sind immer doppelt, bitte abwechselnd lösen
+> @color(Löse diese Aufgaben bei Moodle. Einige Aufgaben sind immer doppelt., purple)
 
-[Übungen zur LK](https://diversewolken.ddns.net/moodle/mod/quiz/view.php?id=569)
+??[Übungen zur LK](https://diversewolken.ddns.net/moodle/mod/quiz/view.php?id=564)
 
 #### 2. KI-Aufgabe: Fragen zu den Bewegungsgesetzen
 
-<p style="color:blue">
+<p style="color:purple">
 Kopiere den Prompt in das Feld der KI (nutze den Button _Kopieren_). Beantworte dann die gestellten Fragen.
 </p>
 
@@ -802,53 +736,6 @@ Passwort: phy-@color(xx,red)
         });
         "Prompt Kopieren"
 </script>
-
-#### 3. Videoanalyse mit VIANA2 
-
-__Aufgabe 3.1.: Gleichförmige Bewegung__
-
-1. Besorge dir in deiner Gruppe ein Stahlkugel und ein großes Lineal.
-
-2. Positioniere das Tablet auf dem Tisch so, dass das Lineal zu sehen ist und die Kugel entlange des Lineals rollen kann.
-
-3. Öffne das Video-Analyse-Tool VIANA2 auf dem Tablet.
-
-4. Wähle: Neues Projekt. Nimm mit dem Tablet die gleichförmige Bewegung der Kugel entlang des Lineals auf.
-
-5. Ergänze in deiner Analyse den Maßstab und das Koordinatensystem
-
-6. Lass dir das s(t)-Diagramm und das v(t)-Diagramm darstellen.
-
-7. Zeige dein Ergebnis kurz dem Fachlehrer
-
-
-__Aufgabe 3.2.: Gleichmäßig beschleunigte Bewegung__
-
-1. Besorge dir in deiner Gruppe eine Kunststoffbahn (orange oder grau). Bestimme die Länge der Bahn.
-
-2. Positioniere das Tablet auf dem Tisch so, dass die Bahn zu sehen.
-
-3. Öffne das Video-Analyse-Tool VIANA2 auf dem Tablet.
-
-4. Wähle: Neues Projekt. Nimm mit dem Tablet die gleichförmige Bewegung der Kugel entlang des Lineals auf. @color(Achte darauf die Kugel mit einem kleinen Lineal o.ä. zu starten., red)
-
-5. Ergänze in deiner Analyse den Maßstab und das Koordinatensystem
-
-6. Lass dir das s(t)-Diagramm und das v(t)-Diagramm darstellen.
-
-7. Zeige dein Ergebnis kurz dem Fachlehrer
-
-8. Ermittle aus dem v(t)-Diagramm die Geschwindigkeitsänderung und die dafür benötigte Zeit
-
-9. Berechne die Beschleunigung der Stahlkugel
-
-10. Überprüfe dein Ergebnis hier:
-
-<p style="margin-left:5%">
-
-@rangeQuiz50($a$, 0.2 , $\dfrac{m}{s^2}$ )
-
-</p>
 
 ## 3.6. Bewegungsgleichungen s(t) und v(t)
 
@@ -1083,12 +970,17 @@ $s = 250 m$
 
 </p>
 
+{{12}}
+*************
+> @color(Übernimm das Tafelbild und diese beiden Beispiele in deinen Hefter. Berechne die Beispiele. Bei den kleinen Pfeilen kannst du die Lösung ausklappen., purple)
+*************
+
 *************
 
 ### KI-Aufgabe Beschleunigte Bewegung
 
 
-<p style="color:blue">
+<p style="color:purple">
 Kopiere den Prompt in das Feld der KI (nutze den Button _Kopieren_). Beantworte dann die gestellten Fragen.
 </p>
 
@@ -1118,6 +1010,8 @@ Passwort: phy-@color(xx,red)
 
 
 ### Übungsaufgaben zu den Bewegungsgleichungen
+
+> @color(Löse diese Aufgaben. Du kannst deine Berechnungen hier überprüfen. , purple)
 
 1. Der neue Golf ID3 beschleunigt von 0 km/h auf 100 km/h in 8,9s. Ermittle die Beschleunigung und die Strecke, die er für diese Beschleunigung benötigt.
 
