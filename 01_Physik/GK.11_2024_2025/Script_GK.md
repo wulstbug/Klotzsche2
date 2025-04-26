@@ -2726,7 +2726,7 @@ __Diagramm zeichnen aus einzelnen Messwerten:__
 
 @timer(60,00)
 
-<H4>Teil 1 - Wiederholung (ca. 20 min)</H4>
+### Teil 1 - Wiederholung (ca. 20 min)
 
 <details>
 
@@ -2785,7 +2785,7 @@ Während Messzeit abgeflossene Ladung:
 
 ---
 
-<H4>Teil 2 - neuer Widerstand (ca. 20min)</H4>
+### Teil 2 - neuer Widerstand (ca. 20min)
 
 <details>
 
@@ -2884,7 +2884,7 @@ Während Messzeit abgeflossene Ladung:
 
 ---
 
-<H4>Teil 3 - Vergleich (mind. 20 min) </H4>
+### Teil 3 - Vergleich (mind. 20 min)
 
 <details>
 
