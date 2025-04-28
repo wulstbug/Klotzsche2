@@ -502,3 +502,266 @@ __Aufgabe 3.2.: Gleichmäßig beschleunigte Bewegung__
 </p>
 
 
+
+## 3.6. Bewegungsgleichungen s(t) und v(t)
+
+<p class="newspaper3">
+
+@color(__Stillstand__, orange)
+
+<br> <br>
+
+| ![Stillstand_s](https://diversewolken.ddns.net/nextcloud/index.php/s/oZ3XsqSB3GRHsKD/download) | ![Still_v](https://diversewolken.ddns.net/nextcloud/index.php/s/rBGtSm48JYBGL7P/download) |
+
+<br> <br>
+
+$ \boxed{s(t) = s_0}$
+
+$ \boxed{v(t) = 0 } $
+
+mit:
+
+<p style="margin-left:5%">
+
+$s_0$ .. Anfangsweg
+
+$v = 0 $
+
+$ a = 0 $ 
+
+</p>
+
+<p class="cb">
+
+@color(__gleichförmige Bewegung__, blue)
+
+<br> <br>
+
+| ![Stillstand_s](https://diversewolken.ddns.net/nextcloud/index.php/s/jTEtobWNAZmejEb/download) | ![Still_v](https://diversewolken.ddns.net/nextcloud/index.php/s/CXZSMBojQ94ZmH9/download) |
+
+<br> <br>
+
+$ \boxed{s(t) = v_0 \cdot t + s_0}$
+
+$ \boxed{v(t) = v_0} $
+
+mit:
+
+<p style="margin-left:5%">
+
+$s_0$ .. Anfangsweg
+
+$v_0$ .. Anfangsgeschwindigkeit
+
+$ a = 0 $ 
+
+</p>
+
+<p class="cb">
+
+@color(__gleichmäßig beschleunigte Bewegung__, green)
+
+<br> <br>
+
+| ![Beschl_s](https://diversewolken.ddns.net/nextcloud/index.php/s/aWLGbejN8i9Rzgj/download) | ![Beschl_v](https://diversewolken.ddns.net/nextcloud/index.php/s/FfS76JwYLYcJYtR/download) |
+
+<br> <br>
+
+$ \boxed{s(t) = \frac{1}{2} \cdot a \cdot t^2 + v_0 \cdot t + s_0}$
+
+$ \boxed{v(t) = a \cdot t + v_0} $
+
+mit:
+
+<p style="margin-left:5%">
+
+     $s_0$ .. Anfangsweg
+
+     $v_0$ .. Anfangsgeschwindigkeit
+
+     $a$ .. Beschleunigung
+
+</p>
+
+</p>
+
+</p>
+
+</p>
+
+### KI-Aufgabe Beschleunigte Bewegung
+
+<p style="color:blue">
+Kopiere den Prompt in das Feld der KI (nutze den Button _Kopieren_). Beantworte dann die gestellten Fragen.
+</p>
+
+---
+
+Login: phy-@color(xx,red)@gykl.ipads
+
+Passwort: phy-@color(xx,red)
+
+[KI-OpenWebUI](http://10.102.1.3:3001)
+
+---
+
+<div class="container" style="margin-left:10%">
+    __Prompt__ <br>
+    <span class="text-box" id="textToCopy2">Ich möchte, dass du dir eine Rechen-Aufgabe für mich ausdenkst, mich dann danach fragst und meine Antwort überprüfst. Die Aufgabe soll im Bereich Physik der 9. Klasse Bewegungsgesetze sein. Erfinde eine zufällige Beschleunigung und frage mich nach der Geschwindigkeit, die der Körper nach einer bestimmten Zeit erreicht hat. Wenn ich die Frage richtig beantwortet habe, stelle mir eine Folgefrage, welche ebenfalls eine Berechnung erfordert und an die vorherige Frage angelehnt ist. Der Schwierigkeitsgrad der Fragen soll steigen. Wenn ich diese Frage beantwortet habe, dann gib mir eine Folge-Aufgabe. Gib mir nicht die Lösungen oder Tipps, wenn ich nicht darum bitte. <br> Wenn ich die Frage nicht richtig beantwortet habe, frage mich, ob ich es nochmal versuchen will oder einen Tipp möchte. Frage mich nach der dritten Frage, ob ich eine Bewertung auf einer Skala von 0 bis 10 meiner gesamten Antworten möchte. Wenn ich einwillige, dann bewerte meine Antworten auf einer Skala von 0 bis 10.</span>
+</div>
+<script input="submit" style="margin-left:10%" default="Prompt Kopieren">
+        const text = document.getElementById("textToCopy2").innerText;
+        navigator.clipboard.writeText(text).then(() => {
+            alert("Text wurde in die Zwischenablage kopiert!");
+        }).catch(err => {
+            console.error("Fehler beim Kopieren: ", err);
+        });
+        "Prompt Kopieren"
+</script>
+
+
+### Beispielaufgaben zu den Bewegungsgleichungen
+
+<p class="newspaper">
+
+__Beispiel 1:__
+
+Ein Fahrzeug beschleunigt mit 5 m/s² für 5 s. Ermittle die Geschwindigkeit und den zurück gelegten Weg.
+
+__geg.:__
+
+<p style="margin-left:5%">
+
+$a =  5 \frac{m}{s^2}$
+
+$t = 5 s$
+
+$ v_0 = 0$
+
+$s_0 = 0$
+
+</p>
+
+__ges.:__
+
+<p style="margin-left:5%">
+
+s, v
+
+</p>
+
+__Lsg.:__
+
+<p style="margin-left:5%">
+
+$ s = \frac{1}{2} \cdot a \cdot t^2$
+
+$ v = a \cdot t$
+
+<details>
+
+<summary> Lösung </summary>
+
+$s = 62,5 m$
+
+$v = 25 \frac{m}{s}$
+
+</details>
+
+</p>
+
+<p class="cb">
+
+__Beispiel 2:__
+
+Ein Fahrzeug fährt auf eine Autobahn. Es fährt auf den Beschleunigungsstreifen mit einer Geschwindigkeit von 36 km/h. Dann beschleunigt es innerhalb von 10s auf 144 km/h. Ermittle die Beschleunigung und den zurück gelegten Weg.
+
+__geg.:__
+
+<p style="margin-left:5%">
+
+$v_{anf} = 36 \frac{km}{h} = 10 \frac{m}{s}$
+
+$v_{end} = 144 \frac{km}{h} = 40 \frac{m}{s}$
+
+$\Delta v = v_{end} - v_{anf} = 30 \frac{m}{s}$
+
+$t = 10 s$
+
+$s_0 = 0$
+
+</p>
+
+__ges.:__
+
+<p style="margin-left:5%">
+
+s, a
+
+</p>
+
+__Lsg.:__
+
+<p style="margin-left:5%">
+
+<details>
+
+<summary> Lösungsweg </summary>
+
+$ a = \frac{\Delta v}{\Delta t} = \frac{30 \frac{m}{s}}{10 s}= 3 \frac{m}{s^2}$
+
+$ s = \frac{1}{2} \cdot a \cdot t^2 + v_0 \cdot t$
+
+$ s = \frac{1}{2} \cdot 3 \frac{m}{s^2} \cdot (10s)^2 + 10\frac{m}{s} \cdot 10 s$
+
+</details>
+
+<details>
+
+<summary> Lösung </summary>
+
+$s = 250 m$
+
+</details>
+
+</p>
+
+</p>
+
+</p>
+
+
+
+### Übungsaufgaben zu den Bewegungsgleichungen
+
+1. Der neue Golf ID3 beschleunigt von 0 km/h auf 100 km/h in 8,9s. Ermittle die Beschleunigung und die Strecke, die er für diese Beschleunigung benötigt.
+
+<p style ="margin-left:5%">
+
+@rangeQuiz2($a$, 3.12 ,$\frac{m}{s^2}$)
+
+@rangeQuiz2($s$, 123.619 ,$m$)
+
+</p>
+
+2. Ein Schlitten fährt einen Hang hinunter. Der Hang ist 50m lang. Der Schlitten hat eine gleichmäßige Beschleunigung von 0,5 m/s². Ermittle die Zeit, die der Schlitten den Hang hinunter braucht und ermittle die Endgeschwindigkeit.
+
+<p style ="margin-left:5%">
+
+@rangeQuiz2($t$, 14.14 ,$s$)
+
+@rangeQuiz2($v$, 7.07 ,$\frac{m}{s}$)
+
+</p>
+
+3. Ein Fahrzeug steht an einer Ampel. Als die Ampel auf grün schaltet fährt es mit einer Beschleunigung von 2 m/s² los. Im Moment des Losfahrens überholt ein zweites Auto auf der zweiten Spur mit einer Geschwindigkeit von 50 km/h. Es bewegt sich gleichförmig. Ermittle den Überhol-Zeitpunkt, die Strecke, an welchem das erste Auto, das zweite Auto überholt und die Überholgeschwindigkeit (in km/h).
+
+<p style ="margin-left:5%">
+
+@rangeQuiz2($t$, 13.89 ,$s$)
+
+@rangeQuiz2($s$, 192.917 ,$m$)
+
+@rangeQuiz2($v$, 100 ,$\frac{km}{h}$)
+
+</p>
