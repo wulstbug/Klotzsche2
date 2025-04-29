@@ -64,6 +64,20 @@ __iNFOS__
 
 ??[Plan](https://diversewolken.ddns.net/nextcloud/index.php/s/9BRb5nkXicbS854/preview)
 
+## Kursfahrt - Genf
+
+### Ausflug Mont Saleve
+
+__Wanderung auf dem Mont Saléve__
+
+Um zum Mont Saléve, einem Bergmassiv in den französischen Alpen, nur wenige Kilometer außerhalb von Genf, zu gelangen, nutzen Sie die Geneva Transport Card (bei Unterkunft in Genf kostenfrei). Ab dem Stadtzentrum fahren öffentliche Busse bis Veyrier-Douane oder Coix-de-Rozon. Ab da empfehlen wir den Rufbus Proxi´Pherigue zur Talstation. Hier fährt die Luftseilbahn zum Mont Saléve (ca. 9 € pro Person). Bitte kontaktieren Sie den Rufbus bis spätestens 2 Std. vor Ankunft. Notieren Sie die vereinbarte Zeit, die Ihnen von dem/der Mitarbeiter/-in der Reservierungszentrale mitgeteilt wurde. Bitte denken Sie auch daran den Rückweg zu reservieren. Eine Rückkehr nach 20:00 Uhr ist nicht möglich.
+Kontaktdaten Reservierungszentrale Rufbus: +33 0450398686.
+
+Eine Führung bzw. eine Route für die Wanderung muss in Eigenregie organisiert werden. Auf folgender Internetseite finden Sie weitere Informationen: https://www.telepherique-du-saleve.com/.
+
+
+
+
 ## Allgemeine Informationen
 
 
