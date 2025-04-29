@@ -1098,6 +1098,10 @@ Bearbeite Aufgabe
 </p>
 
 </p>
+{{8}}
+**************
+> Zeichne für __Teil 1__ ein Diagramm mit dem Einfallswinkel $\alpha$ auf der x-Achse und der Brechnungswinkel $\beta$ auf der y-Achse. Trage deine Messpunkte ein. Verbinde die Punkte mit einer __Freihandlinie__.
+**************
 
 ## Lichtbrechung Video
 
