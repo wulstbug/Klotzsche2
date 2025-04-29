@@ -1166,7 +1166,7 @@ __Diagramm zeichnen aus einzelnen Messwerten:__
 
 @timer(60,00)
 
-<H4>Teil 1 - Wiederholung (ca. 20 min)</H4>
+### Teil 1 - Wiederholung (ca. 20 min)
 
 <details>
 
@@ -1225,7 +1225,7 @@ Während Messzeit abgeflossene Ladung:
 
 ---
 
-<H4>Teil 2 - neuer Widerstand (ca. 20min)</H4>
+### Teil 2 - neuer Widerstand (ca. 20min)
 
 <details>
 
@@ -1324,7 +1324,7 @@ Während Messzeit abgeflossene Ladung:
 
 ---
 
-<H4>Teil 3 - Vergleich (mind. 20 min) </H4>
+### Teil 3 - Vergleich (mind. 20 min)
 
 <details>
 
@@ -1335,18 +1335,80 @@ Während Messzeit abgeflossene Ladung:
 
 - [ ] @color(Vergleichen Sie für beide Messungen folgende Werte in einer Tabelle. Ergänzen Sie diese Tabelle in Ihren Aufzeichnungen. , blue)
 
+
+{{0-1}}
+************
 <!-- data-type="none" -->
 |         | Ladespannung in V  | Widerstand in $\Omega$ | Maximale Stromstärke | Entladezeit in s | Gespeicherte Ladung in C | 
 |         | $U$ in V  | $R$ in $\Omega$ | $I_{max}$ in A | $T$ in s | $Q$ in C | 
 | Teil 1  | ..                 | .. | .. | .. | .. |
 | Teil 2  | ..                 | .. | .. | .. | .. |
 | @color(_optional_, darkgrey) | ..                 | .. | .. | .. | .. |
+************
+
+{{1-2}}
+************
+<!-- data-type="none" -->
+|         | Ladespannung in V  | Widerstand in $\Omega$ | Maximale Stromstärke | Entladezeit in s | Gespeicherte Ladung in C | 
+|         | $U$ in V  | $R$ in $\Omega$ | $I_{max}$ in A | $T$ in s | $Q$ in C | 
+| Teil 1  | 10                 | 1000 | .. | .. | .. |
+| Teil 2  | 10                 | 470 | .. | .. | .. |
+| @color(_optional_, darkgrey) | 10                 | 2200 | .. | .. | .. |
+************
+
+{{2-3}}
+************
+<!-- data-type="none" -->
+|         | Ladespannung in V  | Widerstand in $\Omega$ | Maximale Stromstärke | Entladezeit in s | Gespeicherte Ladung in C | 
+|         | $U$ in V  | $R$ in $\Omega$ | $I_{max}$ in A | $T$ in s | $Q$ in C | 
+| Teil 1  | 10                 | 1000 | 0,01 | .. | .. |
+| Teil 2  | 10                 | 470 | 0,021 | .. | .. |
+| @color(_optional_, darkgrey) | 10                 | 2200 | 0,0045 | .. | .. |
+************
+
+{{3-4}}
+************
+<!-- data-type="none" -->
+|         | Ladespannung in V  | Widerstand in $\Omega$ | Maximale Stromstärke | Entladezeit in s | Gespeicherte Ladung in C | 
+|         | $U$ in V  | $R$ in $\Omega$ | $I_{max}$ in A | $T$ in s | $Q$ in C | 
+| Teil 1  | 10                 | 1000 | 0,01 | 18,8 | .. |
+| Teil 2  | 10                 | 470 | 0,021 | 8,8 | .. |
+| @color(_optional_, darkgrey) | 10                 | 2200 | 0,0045 | 41,4 | .. |
+************
+
+{{4}}
+************
+<!-- data-type="none" -->
+|         | Ladespannung in V  | Widerstand in $\Omega$ | Maximale Stromstärke | Entladezeit in s | Gespeicherte Ladung in C | 
+|         | $U$ in V  | $R$ in $\Omega$ | $I_{max}$ in A | $T$ in s | $Q$ in C | 
+| Teil 1  | 10                 | 1000 | 0,01 | 18,8 | 0,047 |
+| Teil 2  | 10                 | 470 | 0,021 | 8,8 | 0,047 |
+| @color(_optional_, darkgrey) | 10                 | 2200 | 0,0045 | 41,4 | 0,047 |
+************
 
 - [ ] <bdi style="color:blue">Überprüfen Sie den Zusammenhang von Ladespannung, Kapazität und gespeicherter Ladung. Formulieren Sie ein Ergebnis.</bdi> 
 
+
+{{5}}
+********
+@color(Der Widerstand hat keinen Einfluss auf die gespeicherte Ladung. Die gespeicherte Ladung kann mit der Formel $Q=C\cdot U$ berechnet werden. , orange)
+********
+
 - [ ] <bdi style="color:blue">Stellen Sie anhand Ihrer Daten eine Vermutung über den Einfluss des eingesetzten Widerstands $R$ beim Entladen des Kondensators auf. Gehen Sie dabei auf Ladespannung, Entladezeit, maximale Stromstärke und gespeicherte Ladung ein. Formulieren Sie ein Ergebnis</bdi>
 
+{{6}}
+********
+@color(Je größer der Widerstand desto langsamer erfolgt die Entladung. Die Entladezeit kann mit $T=4\cdot \tau = 4 \cdot R \cdot C$ berechnet werden. , orange)
+********
+
+
 - [ ] @color(Überprüfen Sie den Zusammenhang von Ladespannung Widerstand und maximaler Stromstärke. Formulieren Sie ein Ergebnis, blue)
+
+{{7}}
+********
+@color(Der Zusammenhang von Widerstand R Ladespannung U und maximaler Stromstärke folgt dem ohmschen Gesetz $R=\frac{U}{I_{max}}$. , orange)
+********
+
 
 </p>
 
