@@ -249,13 +249,9 @@ __Hinweis 2:__ Das Vorzeichen "-" gibt die _Richtung_ der induzierten Spannung a
 
 #### Simlationen zum Generator
 
-__Grundaufbau / Prinzip Kommutator__
-
-     [LEIFI-Grundaufbau-Generator](https://www.leifiphysik.de/elektrizitaetslehre/induktion-und-transformator/versuche/generator)
-
-__Simulation Generator__
-
-     [FENDT-Simulation-Generator](https://www.leifiphysik.de/elektrizitaetslehre/elektromagnetische-induktion/downloads/generator-simulation)
+>__Simulation Generator__
+>
+>    [FENDT-Simulation-Generator](https://www.leifiphysik.de/elektrizitaetslehre/elektromagnetische-induktion/downloads/generator-simulation)
 
 
 #### Aufbau eines Generators
