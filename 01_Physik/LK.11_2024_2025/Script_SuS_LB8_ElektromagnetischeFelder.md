@@ -288,13 +288,13 @@ __Materialien:__ 1m Kabel, Cassy-Messgerät, Magnet
 
 1. Nutze ein 1m langes Kabel, wickle es zu einer einfachen Spule und schließe die Enden an das Cassy-Messgerät (Spannung messen) an.
 
-     ![Generator_Bild1](https://diversewolken.ddns.net/nextcloud/index.php/s/bR2nasCZSpW432d/download)
+     ![Generator_Bild1](https://diversewolken.ddns.net/nextcloud/index.php/s/bR2nasCZSpW432d/download)<!-- style="width:400px"-->
 
 2. Wähle am Cassy-Messgerät den kleinsten (empfindlichsten) Messbereich
 
 3. Bewege den Magneten in die Spule hinein und heraus und schau dir die induzierte Spannung an. Überprüfe auch das Vorzeichen beim Hinein-/Herausbewegen.
 
-     ![Generator_Bild2](https://diversewolken.ddns.net/nextcloud/index.php/s/RZpQZJ5RPFTStH9/download)
+     ![Generator_Bild2](https://diversewolken.ddns.net/nextcloud/index.php/s/RZpQZJ5RPFTStH9/download)<!-- style="width:400px"-->
 
 4. Lass dir von der Lehrkraft den Super-Stab-Magneten aushändigen und wiederhole den Versuch.
 
