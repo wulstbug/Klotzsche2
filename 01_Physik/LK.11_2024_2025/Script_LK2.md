@@ -4621,14 +4621,16 @@ __Inhalt:__
 
 > __Induktionsspannung:__ Der Betrag der Induktionsspannung $U_{ind}$ ist definiert ergibt sich aus der Windungszahl der Spule $N$ multipliziert mit der @color(zeitlichen Änderung des magnetischen Flusses $\frac{\Delta\Phi}{\Delta t}$, red).
 >
-> $$ \boxed{U_{ind} = N \cdot \dfrac{\red{\Delta \Phi}}{\Delta t}} $$
+> $$ \boxed{U_{ind} = - N \cdot \dfrac{\red{\Delta \Phi}}{\Delta t}} $$
 ********
 
 {{4}}
 ********
 ---
 
-__1. Schlussfolgerung:__ Je größer die Windungszahl $N$ der Spule, desto größer ist die induzierte Spannung $U_{ind}$.
+__Hinweis 1:__ Je größer die Windungszahl $N$ der Spule, desto größer ist die induzierte Spannung $U_{ind}$.
+
+__Hinweis 2:__ Das Vorzeichen "-" gibt die _Richtung_ der induzierten Spannung an und wird durch das @color(Lenz'sche Gesetz, orange) beschrieben (_später_).
 
 ---
 ********
@@ -4638,7 +4640,13 @@ __1. Schlussfolgerung:__ Je größer die Windungszahl $N$ der Spule, desto grö�
 ********
 > __Induktion durch Änderung der Fläche A__
 >
-> $$ \boxed{U_{ind} = N \cdot \red{B} \cdot \dfrac{\red{\Delta A}}{\Delta t}} $$
+> $$ \boxed{U_{ind} = -N \cdot \red{B} \cdot \dfrac{\red{\Delta A}}{\Delta t}} $$
+>
+> mit $A = A_0 \cdot \cos\varphi$
+>
+>      $A_0$ .. Grundfläche der Spule/Leiterschleife
+>
+>      $\varphi$ .. Drehwinkel bzgl. der Feldlinien
 >
 > __Beispiel:__ @color(Generator, blue)
 ********
@@ -4649,7 +4657,7 @@ __1. Schlussfolgerung:__ Je größer die Windungszahl $N$ der Spule, desto grö�
 
 > __Induktion durch Änderung der Flussdichte B__ 
 >
-> $$ \boxed{U_{ind} = N \cdot \red{A} \cdot \dfrac{\red{\Delta B}}{\Delta t}} $$
+> $$ \boxed{U_{ind} = - N \cdot \red{A} \cdot \dfrac{\red{\Delta B}}{\Delta t}} $$
 >
 > __Beispiel:__ @color(Transformator, blue)
 ********
@@ -4658,7 +4666,6 @@ __1. Schlussfolgerung:__ Je größer die Windungszahl $N$ der Spule, desto grö�
 </p>
 
 ### 8.1.1. Aufgaben zum Generator
-
 
 <p style="color:blue">
 
@@ -4683,6 +4690,17 @@ __1. Schlussfolgerung:__ Je größer die Windungszahl $N$ der Spule, desto grö�
 
 [LEIFI-Lückentexte](https://www.leifiphysik.de/elektrizitaetslehre/elektromagnetische-induktion/versuche/drei-grundversuche-zur-elektromagnetischen-induktion-simulationen)
 
+#### Simlationen zum Generator
+
+__Grundaufbau / Prinzip Kommutator__
+
+     [LEIFI-Grundaufbau-Generator](https://www.leifiphysik.de/elektrizitaetslehre/induktion-und-transformator/versuche/generator)
+
+__Simulation Generator__
+
+     [FENDT-Simulation-Generator](https://www.leifiphysik.de/elektrizitaetslehre/elektromagnetische-induktion/downloads/generator-simulation)
+
+
 #### Aufbau eines Generators
 
 Ein einfacher __Generator__ besteht typischer Weise aus einem @color(Magneten, orange) und einer @color(Spule,orange), welche sich im Magnetfeld drehen kann.
@@ -4703,7 +4721,7 @@ __Skizze:__
 
 4. Schleifringe
 
-5. Schleifkontakte zur Spannungsabführung
+5. Schleifkontakte zur Spannungsabführung (Kommutator)
 
 _Hinweis: Magnet und Spule (d.h. **Rotor** und **Stator**) können auch vertauscht sein. Dann ist Magnet beweglich und die Spule fest._
 
@@ -4711,6 +4729,21 @@ _Hinweis: Magnet und Spule (d.h. **Rotor** und **Stator**) können auch vertausc
 
 </p>
 
+#### Handversuch - Spannung induzieren
+
+__Materialien:__ 1m Kabel, Cassy-Messgerät, Magnet
+
+1. Nutze ein 1m langes Kabel, wickle es zu einer einfachen Spule und schließe die Enden an das Cassy-Messgerät (Spannung messen) an.
+
+     ![Generator_Bild1](https://diversewolken.ddns.net/nextcloud/index.php/s/bR2nasCZSpW432d/download)
+
+2. Wähle am Cassy-Messgerät den kleinsten (empfindlichsten) Messbereich
+
+3. Bewege den Magneten in die Spule hinein und heraus und schau dir die induzierte Spannung an. Überprüfe auch das Vorzeichen beim Hinein-/Herausbewegen.
+
+     ![Generator_Bild2](https://diversewolken.ddns.net/nextcloud/index.php/s/RZpQZJ5RPFTStH9/download)
+
+4. Lass dir von der Lehrkraft den Super-Stab-Magneten aushändigen und wiederhole den Versuch.
 
 #### KI: Elektromagnetische Induktion am Generator
 
@@ -4729,7 +4762,8 @@ __Prompt__ <br>
     2. Notiere, welche physikalischen Größen sich bezüglich des magnetischen Flusses ändern können, damit einer Induktionsspannung erzeugt wird.
     3. Nenne eine technische Anwendung, bei dem eine Änderung der durchsetzten Fläche eine Spule in einem Magnetfeld zu einer Induktionsspannung führt.
     4. Notiere Einflussfaktoren auf die Induktionsspannung in einem Generator.
-    Alle Fragen sind im Fach Physik im Niveau Grundkurs Klasse 11 zu beantworten. Schätze mir nach meiner 5. Antwort das Niveau meiner Antworten insgesamt ein.
+    5. Nenne und beschreibe die Kraft, die bei der Bewegung einer Leiterschleife oder Spule in einem Magnetfeld auf die Elektronen wirkt und somit die Spannung induziert.
+    Alle Fragen sind im Fach Physik im Niveau Leistungskurs Klasse 11 zu beantworten. Schätze mir nach meiner 5. Antwort das Niveau meiner Antworten insgesamt ein.
 </span>
 </div>
 <script input="submit" style="margin-left:10%" default="Prompt Kopieren">
