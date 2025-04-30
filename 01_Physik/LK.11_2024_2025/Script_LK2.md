@@ -4665,15 +4665,19 @@ __Hinweis 2:__ Das Vorzeichen "-" gibt die _Richtung_ der induzierten Spannung a
 
 </p>
 
-### 8.1.1. Aufgaben zum Generator
+### 8.1.1. Das Generator-Prinzip
 
 <p style="color:blue">
 
 - [ ] Notiere das Tafelbild _1. Elektromagnetische Induktion_ in deinen Hefter
 
-- [ ] Probiere die Aufgaben _Grundversuche Elektromagnetische Induktion_ und Fülle die Lückentexte
+- [ ] Probiere die Aufgaben _Grundversuche Elektromagnetische Induktion_ und fülle die Lückentexte
+
+- [ ] Schau dir kurz die Simulationen zum Generator an
 
 - [ ] Übernimm den Absatz _Aufbau eines Generators_ in deinen Hefter
+
+- [ ] Führe den Handversuch _Elektromagnetische Induktion_ durch
 
 - [ ] Diskutiere mit der KI im Abschnitt _Elektromagnetische Induktion_
 
