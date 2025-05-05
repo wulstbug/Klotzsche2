@@ -1,0 +1,27 @@
+# Liste SuS
+
+- [ ] Emil Mayer
+- [ ] Ference Kunte
+- [ ] Florian Pfeil
+- [ ] Fynn Weise
+- [ ] Gesa Ernst
+- [ ] Gustav Pech
+- [ ] Hannah Böhme
+- [ ] Johannes Schmalenberg
+- [ ] Jonathan Möbius
+- [ ] Konrad Pürsten
+- [ ] Konstantin Brech
+- [ ] Lucas Pekar
+- [ ] Lukas Wedel
+- [ ] Max Kahle
+- [ ] Nico Paul
+- [ ] Philip Jerosch
+- [ ] Theo Brech
+- [ ] Theo Kaiser
+- [ ] Theo Herrmann
+- [ ] Torben Garbe
+- [ ] Till Altmann
+- [ ] Till Karras
+- [ ] Till Wedemann
+- [ ] Valentin Groh
+- [ ] Valentin Weih 
