@@ -1,10 +1,12 @@
 # Liste SuS
 
+- [ ] Egor Halang
 - [ ] Emil Mayer
 - [ ] Ference Kunte
 - [ ] Florian Pfeil
 - [ ] Fynn Weise
 - [ ] Gesa Ernst
+- [ ] Gustav Feldmann
 - [ ] Gustav Pech
 - [ ] Hannah Böhme
 - [ ] Johannes Schmalenberg
@@ -15,6 +17,7 @@
 - [ ] Lukas Wedel
 - [ ] Max Kahle
 - [ ] Nico Paul
+- [ ] Oleg Gallmeister
 - [ ] Philip Jerosch
 - [ ] Theo Brech
 - [ ] Theo Kaiser
