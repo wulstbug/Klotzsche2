@@ -617,3 +617,35 @@ Zeichne einen Graphen mit $n=\dfrac{N_1}{N_2}$ auf der x-Achse und $n'= \dfrac{U
 | $\dfrac{800}{1600}=0,5$ | .. | .. | .. |
 | $\dfrac{800}{2400}=0,33$ | .. | .. | .. |
 *********
+
+### 1.3. Lenz'sche Regel - Richtung der Induktionsspannung
+
+#### Demonstrationsexperiment Kugelfall im Rohr
+
+> Eine magnetische Kugel fällt einerseits durch ein metallisches Rohr (Aluminium) und andererseits durch ein Kunststoffrohr.
+
+---
+
+@color(Zeichnen Sie eine Skizze des Versuchs. Beschreiben Sie jeweils Ihre Beobachtungen., blue)
+
+---
+
+__Skizze:__
+
+---
+
+__Beobachtung:__
+
+<p class="newspaper">
+
+__Metallrohr__
+
+<p class="cb">
+
+__Kunststoffrohr__
+
+</p>
+
+</p>
+
+---
