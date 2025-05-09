@@ -1163,7 +1163,7 @@ __Merke:__ Der Anstieg eines Graphen kann mit dem Anstiegsdreieck ermittelt werd
 
 <p class="cb">
 
-__Zurückgelegter Weg s aus dem v(t)-Diagramm ermitteln__
+__Zurückgelegten Weg s aus dem v(t)-Diagramm ermitteln__
 
 > Der zurück gelegte Weg entspricht in einem v(t)-Diagramm der @color(Fläche unter dem Graphen, red).
 
@@ -1179,15 +1179,16 @@ __Merke:__ Die Fläche unter dem Graph durch geometrische Berechnung durchgefüh
 
 __Anstieg (allgemein):__ $\boxed{m = \dfrac{\Delta y}{\Delta x}}$
 
-![Bild-Diagramm-x-y](https://www.canva.com/design/DAGm9tBDPQs/3-TTvOMqfXllnsqV8XnYFQ/edit?ui=eyJEIjp7IlQiOnsiQSI6IlBCN3NGVkNIak5KbGxGOE0ifX19)
+![Bild-Diagramm-x-y](https://diversewolken.ddns.net/nextcloud/index.php/s/2aRa2oZLNKQfdAg/download)
 
 <p class="cb">
 
 __Beispiel 1:__ @color(Gleichförmige Bewegung, blue)
 
-Fläche unter dem Graph ist ein Rechteck.
+Fläche unter dem Graph ist ein Trapez.
 
-![Bild-Diagramm-gleichf](https://www.canva.com/design/DAGm9tBDPQs/3-TTvOMqfXllnsqV8XnYFQ/edit?ui=eyJEIjp7IlQiOnsiQSI6IlBCblcxSzVaUDJCbWxmbjgifX19)
+![Bild-Diagramm-gleichf](https://diversewolken.ddns.net/nextcloud/index.php/s/Fp8yMpQgYN7ep7F/download)
+
 
 </p>
 
@@ -1199,7 +1200,7 @@ Fläche unter dem Graph ist ein Rechteck.
 
 __Anstieg in v(t):__ $\boxed{a = \dfrac{\Delta v}{\Delta t}}$
 
-![Bild-Diagramm-v-t](tba)
+![Bild-Diagramm-v-t](https://diversewolken.ddns.net/nextcloud/index.php/s/rsEJwBZknbyfGN2/download)
 
 <p class="cb">
 
@@ -1207,7 +1208,7 @@ __Beispiel 2:__ @color(Gleichmäßige Beschleunigung, blue)
 
 Fläche unter dem Graph ist ein rechtwinkliges Dreieck.
 
-![Bild-Diagramm-gleichmBeschl](tba)
+![Bild-Diagramm-gleichmBeschl](https://diversewolken.ddns.net/nextcloud/index.php/s/95wwXeFTf9omXGb/download)
 
 </p>
 
