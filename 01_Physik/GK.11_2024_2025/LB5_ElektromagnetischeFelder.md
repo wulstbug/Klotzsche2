@@ -682,4 +682,3 @@ _Hinweise:_
 
 2. __Magnetisches Pendel (Induktionsbremse)__
 
-3. 
