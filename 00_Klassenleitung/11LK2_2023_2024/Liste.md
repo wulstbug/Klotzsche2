@@ -1,5 +1,5 @@
 # Liste SuS
-
+- [ ] Christopher Johne
 - [ ] Egor Halang
 - [ ] Emil Mayer
 - [ ] Ference Kunte
@@ -12,7 +12,6 @@
 - [ ] Johannes Schmalenberg
 - [ ] Jonathan Möbius
 - [ ] Konrad Pürsten
-- [ ] Konstantin Brech
 - [ ] Lucas Pekar
 - [ ] Lukas Wedel
 - [ ] Max Kahle
