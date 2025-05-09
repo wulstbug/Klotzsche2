@@ -1159,19 +1159,7 @@ __Beschleunigung a aus dem v(t)-Diagramm ermitteln__
 
 > Die Beschleunigung entspricht in einem v(t)-Diagramm dem @color(Anstieg des Graphen, red).
 
-__Merke:__ Der Anstieg eines Graphen kann mit dem Anstiegsdreieck ermittelt werden. <br> <br> 
-
----
-
-__Anstieg (allgemein):__ $\boxed{m = \dfrac{\Delta y}{\Delta x}}$
-
-![Bild-Diagramm-x-y](tba)
-
----
-
-__Anstieg in v(t):__ $\boxed{a = \dfrac{\Delta v}{\Delta t}}$
-
-![Bild-Diagramm-v-t](tba)
+__Merke:__ Der Anstieg eines Graphen kann mit dem Anstiegsdreieck ermittelt werden.
 
 <p class="cb">
 
@@ -1179,25 +1167,49 @@ __Zurückgelegter Weg s aus dem v(t)-Diagramm ermitteln__
 
 > Der zurück gelegte Weg entspricht in einem v(t)-Diagramm der @color(Fläche unter dem Graphen, red).
 
+__Merke:__ Die Fläche unter dem Graph durch geometrische Berechnung durchgeführt werden.
+
 </p>
 
-__Merke:__ Für Kl.9 kann die Fläche unter dem Graph durch geometrische Berechnung durchgeführt werden.
+</p>
 
 ---
+
+<p class="newspaper">
+
+__Anstieg (allgemein):__ $\boxed{m = \dfrac{\Delta y}{\Delta x}}$
+
+![Bild-Diagramm-x-y](https://www.canva.com/design/DAGm9tBDPQs/3-TTvOMqfXllnsqV8XnYFQ/edit?ui=eyJEIjp7IlQiOnsiQSI6IlBCN3NGVkNIak5KbGxGOE0ifX19)
+
+<p class="cb">
 
 __Beispiel 1:__ @color(Gleichförmige Bewegung, blue)
 
 Fläche unter dem Graph ist ein Rechteck.
 
-![Bild-Diagramm-gleichf](tba)
+![Bild-Diagramm-gleichf](https://www.canva.com/design/DAGm9tBDPQs/3-TTvOMqfXllnsqV8XnYFQ/edit?ui=eyJEIjp7IlQiOnsiQSI6IlBCblcxSzVaUDJCbWxmbjgifX19)
+
+</p>
+
+</p>
 
 ---
 
+<p class="newspaper">
+
+__Anstieg in v(t):__ $\boxed{a = \dfrac{\Delta v}{\Delta t}}$
+
+![Bild-Diagramm-v-t](tba)
+
+<p class="cb">
+
 __Beispiel 2:__ @color(Gleichmäßige Beschleunigung, blue)
 
-Fläche unter dem Graph ist ein Rechteck.
+Fläche unter dem Graph ist ein rechtwinkliges Dreieck.
 
 ![Bild-Diagramm-gleichmBeschl](tba)
+
+</p>
 
 </p>
 
