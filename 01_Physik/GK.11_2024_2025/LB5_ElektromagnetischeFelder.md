@@ -618,9 +618,7 @@ Zeichne einen Graphen mit $n=\dfrac{N_1}{N_2}$ auf der x-Achse und $n'= \dfrac{U
 | $\dfrac{800}{2400}=0,33$ | .. | .. | .. |
 *********
 
-### 1.3. Lenz'sche Regel - Richtung der Induktionsspannung
-
-#### Demonstrationsexperiment Kugelfall im Rohr
+### Demonstrationsexperiment Kugelfall im Rohr
 
 > Eine magnetische Kugel fällt einerseits durch ein metallisches Rohr (Aluminium) und andererseits durch ein Kunststoffrohr.
 
@@ -649,3 +647,23 @@ __Kunststoffrohr__
 </p>
 
 ---
+
+__Vorläufige Erklärung:__
+
+> - das metallische Rohr wirkt wie eine Spule mit einer Windung
+>
+> - durch die Bewegung der magnetischen Kugel ändert sich _lokal_ der magnetische Fluss in der Röhre, es wird eine @color(Spannung induziert, red)
+>
+> - durch die induzierte Spannung @color(fließt _kreisförmig_ ein Strom und erzeugt ein Magnetfeld,red)
+>
+> - das @color(induzierte Magnetfeld, red) wechselwirkt mit dem Magnetfeld der Kugel und @color(bremst die Kugel, blue)
+
+### 1.3. Lenz'sche Regel - Richtung der Induktionsspannung
+
+> Die induzierte Spannung ist immer so gerichtet, dass sie ihrer Ursache entgegen wirkt
+
+__Beispiel:__ Fallende Kugel 
+
+__Ursache für Induktion:__ Bewegung der Kugel im Rohr
+
+__Anwendung der Lenz'schen Regel:__ Die induzierte Spanung (und daher das induzierte Magnetfeld) ist so gerichtet, dass es der Ursache (Bewegung) entgegen wirkt.
