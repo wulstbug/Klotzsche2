@@ -1153,21 +1153,30 @@ Passwort: phy-@color(xx,red)
 
 ## 3.7. Analyse in v(t)-Diagrammen
 
+[Anim](https://www.canva.com/design/DAGm9tBDPQs/3-TTvOMqfXllnsqV8XnYFQ/edit?utm_content=DAGm9tBDPQs&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+
 <p class="newspaper">
 
-__Beschleunigung a aus dem v(t)-Diagramm ermitteln__
+{1}{__Beschleunigung a aus dem v(t)-Diagramm ermitteln__}
 
+{{3}}
+********
 > Die Beschleunigung entspricht in einem v(t)-Diagramm dem @color(Anstieg des Graphen, red).
 
-__Merke:__ Der Anstieg eines Graphen kann mit dem Anstiegsdreieck ermittelt werden.
+__Merke:__ Der Anstieg eines Graphen kann mit dem @color(Anstiegsdreieck,red) ermittelt werden.
+
+********
 
 <p class="cb">
 
-__Zurückgelegten Weg s aus dem v(t)-Diagramm ermitteln__
+{2}{__Zurückgelegten Weg s aus dem v(t)-Diagramm ermitteln__}
 
+{{5}}
+********
 > Der zurück gelegte Weg entspricht in einem v(t)-Diagramm der @color(Fläche unter dem Graphen, red).
 
 __Merke:__ Die Fläche unter dem Graph durch geometrische Berechnung durchgeführt werden.
+********
 
 </p>
 
@@ -1177,18 +1186,23 @@ __Merke:__ Die Fläche unter dem Graph durch geometrische Berechnung durchgefüh
 
 <p class="newspaper">
 
+{{4}}
+********
 __Anstieg (allgemein):__ $\boxed{m = \dfrac{\Delta y}{\Delta x}}$
 
 ![Bild-Diagramm-x-y](https://diversewolken.ddns.net/nextcloud/index.php/s/2aRa2oZLNKQfdAg/download)
+********
 
 <p class="cb">
 
+{{6}}
+********
 __Beispiel 1:__ @color(Gleichförmige Bewegung, blue)
 
 Fläche unter dem Graph ist ein Trapez.
 
 ![Bild-Diagramm-gleichf](https://diversewolken.ddns.net/nextcloud/index.php/s/Fp8yMpQgYN7ep7F/download)
-
+********
 
 </p>
 
@@ -1198,17 +1212,22 @@ Fläche unter dem Graph ist ein Trapez.
 
 <p class="newspaper">
 
+{{4}}
+********
 __Anstieg in v(t):__ $\boxed{a = \dfrac{\Delta v}{\Delta t}}$
 
 ![Bild-Diagramm-v-t](https://diversewolken.ddns.net/nextcloud/index.php/s/rsEJwBZknbyfGN2/download)
+********
 
 <p class="cb">
-
+{{6}}
+********
 __Beispiel 2:__ @color(Gleichmäßige Beschleunigung, blue)
 
 Fläche unter dem Graph ist ein rechtwinkliges Dreieck.
 
 ![Bild-Diagramm-gleichmBeschl](https://diversewolken.ddns.net/nextcloud/index.php/s/95wwXeFTf9omXGb/download)
+********
 
 </p>
 
