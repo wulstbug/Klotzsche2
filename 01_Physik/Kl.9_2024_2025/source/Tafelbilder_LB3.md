@@ -1150,3 +1150,55 @@ Passwort: phy-@color(xx,red)
 @rangeQuiz2($v$, 100 ,$\frac{km}{h}$)
 
 </p>
+
+## 3.7. Analyse in v(t)-Diagrammen
+
+<p class="newspaper">
+
+__Beschleunigung a aus dem v(t)-Diagramm ermitteln__
+
+> Die Beschleunigung entspricht in einem v(t)-Diagramm dem @color(Anstieg des Graphen, red).
+
+__Merke:__ Der Anstieg eines Graphen kann mit dem Anstiegsdreieck ermittelt werden. <br> <br> 
+
+---
+
+__Anstieg (allgemein):__ $\boxed{m = \dfrac{\Delta y}{\Delta x}}$
+
+![Bild-Diagramm-x-y](tba)
+
+---
+
+__Anstieg in v(t):__ $\boxed{a = \dfrac{\Delta v}{\Delta t}}$
+
+![Bild-Diagramm-v-t](tba)
+
+<p class="cb">
+
+__Zurückgelegter Weg s aus dem v(t)-Diagramm ermitteln__
+
+> Der zurück gelegte Weg entspricht in einem v(t)-Diagramm der @color(Fläche unter dem Graphen, red).
+
+</p>
+
+__Merke:__ Für Kl.9 kann die Fläche unter dem Graph durch geometrische Berechnung durchgeführt werden.
+
+---
+
+__Beispiel 1:__ @color(Gleichförmige Bewegung, blue)
+
+Fläche unter dem Graph ist ein Rechteck.
+
+![Bild-Diagramm-gleichf](tba)
+
+---
+
+__Beispiel 2:__ @color(Gleichmäßige Beschleunigung, blue)
+
+Fläche unter dem Graph ist ein Rechteck.
+
+![Bild-Diagramm-gleichmBeschl](tba)
+
+</p>
+
+---
