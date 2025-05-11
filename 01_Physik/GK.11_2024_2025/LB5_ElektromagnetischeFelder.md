@@ -618,6 +618,7 @@ Zeichne einen Graphen mit $n=\dfrac{N_1}{N_2}$ auf der x-Achse und $n'= \dfrac{U
 | $\dfrac{800}{2400}=0,33$ | .. | .. | .. |
 *********
 
+
 ### Demonstrationsexperiment Kugelfall im Rohr
 
 > Eine magnetische Kugel fällt einerseits durch ein metallisches Rohr (Aluminium) und andererseits durch ein Kunststoffrohr.
@@ -657,6 +658,7 @@ __Vorläufige Erklärung:__
 > - durch die induzierte Spannung @color(fließt _kreisförmig_ ein Strom und erzeugt ein Magnetfeld,red)
 >
 > - das @color(induzierte Magnetfeld, red) wechselwirkt mit dem Magnetfeld der Kugel und @color(bremst die Kugel, blue)
+
 
 ### 1.3. Lenz'sche Regel - Richtung der Induktionsspannung
 

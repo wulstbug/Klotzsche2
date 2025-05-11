@@ -5470,11 +5470,12 @@ __Elektromagnetische Induktion:__
 
 !?[CG-Physics-Generator](https://www.youtube.com/watch?v=34z97ULvmpM)
 
-
 ### Demonstrationsexperiment Kugelfall im Rohr
 
 > Eine magnetische Kugel fällt einerseits durch ein metallisches Rohr (Aluminium) und andererseits durch ein Kunststoffrohr.
 
+{{1}}
+*********
 ---
 
 @color(Zeichnen Sie eine Skizze des Versuchs. Beschreiben Sie jeweils Ihre Beobachtungen., blue)
@@ -5482,7 +5483,10 @@ __Elektromagnetische Induktion:__
 ---
 
 __Skizze:__
+*********
 
+{{2}}
+*********
 ---
 
 __Beobachtung:__
@@ -5500,7 +5504,10 @@ __Kunststoffrohr__
 </p>
 
 ---
+*********
 
+{{3}}
+*********
 __Vorläufige Erklärung:__
 
 > - das metallische Rohr wirkt wie eine Spule mit einer Windung
@@ -5510,6 +5517,7 @@ __Vorläufige Erklärung:__
 > - durch die induzierte Spannung @color(fließt _kreisförmig_ ein Strom und erzeugt ein Magnetfeld,red)
 >
 > - das @color(induzierte Magnetfeld, red) wechselwirkt mit dem Magnetfeld der Kugel und @color(bremst die Kugel, blue)
+*********
 
 ### 1.3. Lenz'sche Regel - Richtung der Induktionsspannung
 
