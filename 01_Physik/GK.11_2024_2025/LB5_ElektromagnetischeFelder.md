@@ -680,5 +680,8 @@ _Hinweise:_
 
 #### Weitere Beispiele
 
+@color(Beschreibe und erkläre die beiden Experimente, blue)
+
 2. __Magnetisches Pendel (Induktionsbremse)__
 
+3. __Thomson'scher Ringversuch__
