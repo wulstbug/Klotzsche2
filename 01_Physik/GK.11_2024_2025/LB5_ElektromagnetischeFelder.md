@@ -680,7 +680,9 @@ _Hinweise:_
 
 #### Weitere Beispiele
 
-@color(Beschreibe und erkläre die beiden Experimente, blue)
+@color(Beschreibe und erkläre die beiden Experimente., blue)
+
+
 
 2. __Magnetisches Pendel (Induktionsbremse)__
 
