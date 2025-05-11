@@ -5469,3 +5469,72 @@ __Elektromagnetische Induktion:__
 - IQB: Aufgabe 1-5: [IQB-Aufgabe zur Elektro-Magnetischen-Induktion](https://www.iqb.hu-berlin.de/appsrc/taskpool/data/taskpools/getTaskFile?id=p12^InduktiversensorgA^f21968)
 
 !?[CG-Physics-Generator](https://www.youtube.com/watch?v=34z97ULvmpM)
+
+
+### Demonstrationsexperiment Kugelfall im Rohr
+
+> Eine magnetische Kugel fällt einerseits durch ein metallisches Rohr (Aluminium) und andererseits durch ein Kunststoffrohr.
+
+---
+
+@color(Zeichnen Sie eine Skizze des Versuchs. Beschreiben Sie jeweils Ihre Beobachtungen., blue)
+
+---
+
+__Skizze:__
+
+---
+
+__Beobachtung:__
+
+<p class="newspaper">
+
+__Metallrohr__
+
+<p class="cb">
+
+__Kunststoffrohr__
+
+</p>
+
+</p>
+
+---
+
+__Vorläufige Erklärung:__
+
+> - das metallische Rohr wirkt wie eine Spule mit einer Windung
+>
+> - durch die Bewegung der magnetischen Kugel ändert sich _lokal_ der magnetische Fluss in der Röhre, es wird eine @color(Spannung induziert, red)
+>
+> - durch die induzierte Spannung @color(fließt _kreisförmig_ ein Strom und erzeugt ein Magnetfeld,red)
+>
+> - das @color(induzierte Magnetfeld, red) wechselwirkt mit dem Magnetfeld der Kugel und @color(bremst die Kugel, blue)
+
+### 1.3. Lenz'sche Regel - Richtung der Induktionsspannung
+
+> Die induzierte Spannung ist immer @color(so gerichtet, red), dass sie ihrer Ursache @color(entgegen, red) wirkt.
+
+> $$ \boxed{U_{ind} = \red{\textbf{-}}\, N \cdot \dfrac{\mathrm{d}\Phi}{\mathrm{d}A}} $$
+
+__Beispiel:__ Fallende Kugel 
+
+__Ursache für Induktion:__ Bewegung der Kugel im Rohr
+
+__Anwendung der Lenz'schen Regel:__ Die induzierte Spanung (und daher das induzierte Magnetfeld) ist so gerichtet, dass es der Ursache (Bewegung) entgegen wirkt.
+
+---
+
+_Hinweise:_
+
+- betrachten wir den @color(Betrag, red) (also den Wert) der induzierten Spannung, so genügt die Formel $N \cdot \dfrac{\mathrm{d}\Phi}{\mathrm{d}A}$
+
+- betrachten wir die @color(Wirkung, red) der induzierten Spannung, so müssen wir die _Lenz'sche Regel_ beachten
+
+#### Weitere Beispiele
+
+@color(Beschreibe und erkläre die beiden Experimente., blue)
+
+2. __Magnetisches Pendel (Induktionsbremse)__
+
+3. __Thomson'scher Ringversuch__
