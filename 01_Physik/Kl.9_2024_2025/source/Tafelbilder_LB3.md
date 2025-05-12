@@ -1234,3 +1234,82 @@ Fläche unter dem Graph ist ein rechtwinkliges Dreieck.
 </p>
 
 ---
+
+#### Übungsaufgaben zu v(t)-Diagrammen
+
+![Übungsaufgabe](https://diversewolken.ddns.net/nextcloud/index.php/s/JEPGoaMHYYzbLyR/download)
+
+Bestimme zu jedem Abschnitt 
+
+- a) die Art der Bewegung
+
+- b) die Beschleunigung
+
+- c) den zurückgelegten Weg
+
+
+##### Lösungen a) Art der Bewegung
+
+__A-B__
+
+    <!-- data-solution-button="off" -->
+    [( )] Stillstand
+    [(X)] gleichförmige Bewegung
+    [( )] gleichmäßig beschleunigte Bewegung
+    [( )] gleichmäßig gebremste Bewegung
+
+__B-C__
+
+    <!-- data-solution-button="off" -->
+    [( )] Stillstand
+    [( )] gleichförmige Bewegung
+    [( )] gleichmäßig beschleunigte Bewegung
+    [(X)] gleichmäßig gebremste Bewegung
+
+__C-D__
+
+    <!-- data-solution-button="off" -->
+    [(X)] Stillstand
+    [( )] gleichförmige Bewegung
+    [( )] gleichmäßig beschleunigte Bewegung
+    [( )] gleichmäßig gebremste Bewegung
+
+__D-E__
+
+    <!-- data-solution-button="off" -->
+    [( )] Stillstand
+    [( )] gleichförmige Bewegung
+    [(X)] gleichmäßig beschleunigte Bewegung
+    [( )] gleichmäßig gebremste Bewegung
+
+__E-F__
+
+    <!-- data-solution-button="off" -->
+    [( )] Stillstand
+    [(X)] gleichförmige Bewegung
+    [( )] gleichmäßig beschleunigte Bewegung
+    [( )] gleichmäßig gebremste Bewegung
+
+##### Lösungen b) Art der Bewegung
+
+__A-B__
+
+@rangeQuiz2($a$, 0, $\frac{m}{s^2}$)
+
+---
+
+__B-C__
+
+@rangeQuiz2($a$, -6, $\frac{m}{s^2}$)
+
+__C-D__
+
+@rangeQuiz2($a$, 0, $\frac{m}{s^2}$)
+
+__D-E__
+
+@rangeQuiz2($a$, 1, $\frac{m}{s^2}$)
+
+__E-F__
+
+@rangeQuiz2($a$, 0, $\frac{m}{s^2}$)
