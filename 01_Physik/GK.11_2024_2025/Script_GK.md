@@ -5470,9 +5470,9 @@ __Elektromagnetische Induktion:__
 
 !?[CG-Physics-Generator](https://www.youtube.com/watch?v=34z97ULvmpM)
 
-#### Demonstrationsexperiment A Kugelfall im Rohr
+#### Demonstrationsexperiment A Freier Fall im Rohr
 
-> Eine magnetische Kugel fällt einerseits durch ein metallisches Rohr (Aluminium) und andererseits durch ein Kunststoffrohr.
+> Stabmagnet fällt einerseits durch ein metallisches Rohr (Aluminium) und andererseits durch ein Kunststoffrohr.
 
 {{1}}
 *********

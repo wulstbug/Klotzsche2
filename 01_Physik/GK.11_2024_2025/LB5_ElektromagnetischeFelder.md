@@ -619,9 +619,10 @@ Zeichne einen Graphen mit $n=\dfrac{N_1}{N_2}$ auf der x-Achse und $n'= \dfrac{U
 *********
 
 
-### Demonstrationsexperiment Kugelfall im Rohr
 
-> Eine magnetische Kugel fällt einerseits durch ein metallisches Rohr (Aluminium) und andererseits durch ein Kunststoffrohr.
+#### Demonstrationsexperiment A Freier Fall im Rohr
+
+> Stabmagnet fällt einerseits durch ein metallisches Rohr (Aluminium) und andererseits durch ein Kunststoffrohr.
 
 ---
 
