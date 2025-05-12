@@ -1290,11 +1290,19 @@ __E-F__
     [( )] gleichmäßig beschleunigte Bewegung
     [( )] gleichmäßig gebremste Bewegung
 
-##### Lösungen b) Art der Bewegung
+##### Lösungen b) Beschleunigung
 
 __A-B__
 
 @rangeQuiz2($a$, 0, $\frac{m}{s^2}$)
+
+<details style="margin-left:5%">
+
+<summary> Lösung </summary>
+
+Anstieg ist Null, d.h. $\Delta v=0$, d.h. a = 0.
+
+</details>
 
 ---
 
@@ -1302,14 +1310,138 @@ __B-C__
 
 @rangeQuiz2($a$, -6, $\frac{m}{s^2}$)
 
+<details style="margin-left:5%">
+
+<summary> Lösung </summary>
+
+Geschwindigkeit ändert sich von 60 m/s auf 0 m/s. D.h. $\Delta v=v_{end}-v_{anf}=0m/s-60m/s=60m/s$. Die benötigte Zeit ist $\Delta t=10s$. Die Beschleunigung ist laut Formel:
+
+$ a=\frac{\Delta v}{\Delta t}=\frac{-60\frac{m}{s}}{10s}=-6 \frac{m}{s^2} $
+
+</details>
+
+---
+
 __C-D__
 
 @rangeQuiz2($a$, 0, $\frac{m}{s^2}$)
 
+<details style="margin-left:5%">
+
+<summary> Lösung </summary>
+
+Anstieg ist Null, d.h. $\Delta v=0$, d.h. a = 0.
+
+</details>
+
+
+---
+
 __D-E__
 
-@rangeQuiz2($a$, 1, $\frac{m}{s^2}$)
+@rangeQuiz2($a$, 0.5, $\frac{m}{s^2}$)
+
+<details style="margin-left:5%">
+
+<summary> Lösung </summary>
+
+Geschwindigkeit ändert sich von 0 m/s auf 10 m/s. D.h. $\Delta v=v_{end}-v_{anf}=10m/s-0m/s=10m/s$. Die benötigte Zeit ist $\Delta t=20s$. Die Beschleunigung ist laut Formel:
+
+$ a=\frac{\Delta v}{\Delta t}=\frac{10\frac{m}{s}}{20s}=0,5 \frac{m}{s^2} $
+
+</details>
+
+---
 
 __E-F__
 
 @rangeQuiz2($a$, 0, $\frac{m}{s^2}$)
+
+<details style="margin-left:5%">
+
+<summary> Lösung </summary>
+
+Anstieg ist Null, d.h. $\Delta v=0$, d.h. a = 0.
+
+</details>
+
+##### Lösungen c) Zurückgelegter Weg
+
+__A-B__
+
+@rangeQuiz2($s$, 600, $m$)
+
+<details style="margin-left:5%">
+
+<summary> Lösung </summary>
+
+Der zurückgelegte Weg ist der Flächeninhalt zwischen dem Graph und der x-Achse. Hier ist es ein Rechteck. Es hat die Seiten $60m/s$ und $10s$. Der Flächeninhalt beträgt 
+
+$s = 60m/s \cdot 10s = 600m$
+
+</details>
+
+---
+
+__B-C__
+
+@rangeQuiz2($s$, 300, $m$)
+
+<details style="margin-left:5%">
+
+<summary> Lösung </summary>
+
+Der zurückgelegte Weg ist der Flächeninhalt zwischen dem Graph und der x-Achse. Hier ist es ein rechtwinkliges Dreieck. Es hat die Schenkel $60m/s$ und $10s$. Der Flächeninhalt beträgt 
+
+$s = \frac{1}{2} \cdot 60m/s \cdot 10s = 300m$
+
+</details>
+
+---
+
+__C-D__
+
+@rangeQuiz2($s$, 0, $m$)
+
+<details style="margin-left:5%">
+
+<summary> Lösung </summary>
+
+Der Flächeninhalt zwischen Graph und x-Achse ist Null. Daher legt der Körper keinen Weg zurück.
+
+$s=0m$
+
+</details>
+
+---
+
+__D-E__
+
+@rangeQuiz2($s$, 100, $m$)
+
+
+<details style="margin-left:5%">
+
+<summary> Lösung </summary>
+
+Der zurückgelegte Weg ist der Flächeninhalt zwischen dem Graph und der x-Achse. Hier ist es ein rechtwinkliges Dreieck. Es hat die Schenkel $10m/s$ und $20s$. Der Flächeninhalt beträgt 
+
+$s = \frac{1}{2} \cdot 10m/s \cdot 20s = 100m$
+
+</details>
+
+---
+
+__E-F__
+
+@rangeQuiz2($s$, 200, $m$)
+
+<details style="margin-left:5%">
+
+<summary> Lösung </summary>
+
+Der zurückgelegte Weg ist der Flächeninhalt zwischen dem Graph und der x-Achse. Hier ist es ein Rechteck. Es hat die Seiten $10m/s$ und $20s$. Der Flächeninhalt beträgt 
+
+$s = 10m/s \cdot 20s = 200m$
+
+</details>
