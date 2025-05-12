@@ -1445,3 +1445,4 @@ Der zurückgelegte Weg ist der Flächeninhalt zwischen dem Graph und der x-Achse
 $s = 10m/s \cdot 20s = 200m$
 
 </details>
+
