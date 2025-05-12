@@ -5470,7 +5470,7 @@ __Elektromagnetische Induktion:__
 
 !?[CG-Physics-Generator](https://www.youtube.com/watch?v=34z97ULvmpM)
 
-### Demonstrationsexperiment Kugelfall im Rohr
+#### Demonstrationsexperiment A Kugelfall im Rohr
 
 > Eine magnetische Kugel fällt einerseits durch ein metallisches Rohr (Aluminium) und andererseits durch ein Kunststoffrohr.
 
@@ -5541,8 +5541,44 @@ _Hinweise:_
 
 #### Weitere Beispiele
 
-@color(Beschreibe und erkläre die beiden Experimente., blue)
+@color(Beschreibe und erkläre die beiden Experimente in deinem Hefter. Nutze die KI um deine Beobachtungen und Erklärungen zu überprüfen., blue)
 
-2. __Magnetisches Pendel (Induktionsbremse)__
+#### B. Thomson'scher Ringversuch 
 
-3. __Thomson'scher Ringversuch__
+<p style="color:blue">
+Kopiere den Prompt in das Feld der KI (nutze den Button _Kopieren_). Beantworte dann die gestellten Aufgabe.
+</p>
+
+---
+
+__Aufgabe:__<br> Beantworte die Aufträge der KI. Du kannst dein Ergebnis verbessernn.
+
+<div class="container" style="margin-left:10%">
+__Prompt__ <br>
+<span class="text-box" id="textToCopy2"> Ich soll ein Experiment erst beschreiben und anschließend erklären. Bitte frage mich zunächst nach einer Beschreibung meiner Beobachtung. Unterstütze mich bei der Antwort, hilf mir nur, wenn ich darum bitte. Frage mich nach jeder meiner Antworten, ob ich meine Antwort verbessern möchte oder zur nächsten Frage bzw. zur Einschätzung kommen möchte.<br> Das Experiment ist der Thomson'sche Ringversuch. Man benutzt zwei Aluminiumringe: Der erste Ring ist vollständig, der zweite Ring hat einen Schlitz, sodass keine Ringströme fließen könnnen. Beide Ringe werden auf einen U-Kern mit Eisenjoch und einer Spule auf dem U-Kern gesteckt. An die Spule wird eine starke Wechselspannung angelegt. Frage mich nun zunächst nach meiner Beobachtung und dann nach meiner Erklärung für diese beiden Ringe. <br> Alle Antworten sind im Fach Physik im Niveau Grundkurs Klasse 11 zu beantworten. Schätze mir am Ende das Niveau meiner Antworten auf einer Skala von 1 bis 10 ein.</span>
+</div>
+
+<script input="submit" style="margin-left:10%" default="Prompt Kopieren">
+        const text = document.getElementById("textToCopy2").innerText;
+        navigator.clipboard.writeText(text).then(() => {
+            alert("Text wurde in die Zwischenablage kopiert!");
+        }).catch(err => {
+            console.error("Fehler beim Kopieren: ", err);
+        });
+        "Prompt Kopieren"
+</script>
+
+---
+
+Login: phy-@color(xx,red)@gykl.ipads
+
+Passwort: phy-@color(xx,red)
+
+[KI-OpenWebUI](http://10.102.1.3:3001)
+
+alternativer Link für eigene Geräte
+
+[KI-OpenWebUI-BYOD](https://subtle-corgi-firmly.ngrok-free.app)
+
+
+#### C. Magnetisches Pendel (Induktionsbremse)__
