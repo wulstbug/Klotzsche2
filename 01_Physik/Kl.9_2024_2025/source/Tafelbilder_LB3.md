@@ -1446,3 +1446,96 @@ $s = 10m/s \cdot 20s = 200m$
 
 </details>
 
+### Übungsaufgabe 3 Zuordnung Graphen
+
+<p class="newspaper">
+
+Gegeben sind folgende v(t)-Graphen für 7 verschiedene Fälle.
+
+![Faelle_vt](https://diversewolken.ddns.net/nextcloud/index.php/s/L8Y8XrqrZpBX6Tt/download)
+
+<p class="cb">
+
+Ordne im folgenden Bild die x(t) Fälle den v(t) Fällen zu.
+
+<iframe src="https://learningapps.org/watch?v=pd58g8qzt24" style="border:0px;width:100%;height:500px" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"></iframe>
+
+</p>
+
+</p>
+
+#### Übungsaufgabe 4 (Zurückgelegter Weg)
+
+> 4. 1. Zu einer geradlinigen Bewegung gehört das Zeit-Geschwindigkeits-Diagramm der folgenden Abbildung: <br> ![v-t-Diagramm](https://diversewolken.ddns.net/nextcloud/index.php/s/8PB92pbssc5MoMo/download)<!-- style="max-width:80%"-->
+
+> 4. 1. 1. Berechnen Sie die Beschleunigungen in den drei Zeitintervallen.
+
+<p style="margin-left:10%">
+
+@rangeQuiz2($a_1$, 1 , $\frac{m}{s^2}$)
+
+@rangeQuiz2($a_2$, 0.333 , $\frac{m}{s^2}$)
+
+@rangeQuiz2($a_3$, -4 , $\frac{m}{s^2}$)
+
+<details>
+
+<summary> Hinweis 1</summary>
+
+Nutzen Sie die Formel für die gleichmäßig beschleunigte Bewegung 
+
+$$ a = \frac{\Delta v}{\Delta t} $$
+
+</details>
+
+<details>
+
+<summary> Hinweis 2</summary>
+
+Ermitteln Sie für jedes Intervall die Geschwindigkeitsänderung $\Delta v$ und die dafür benötigte Zeit $\Delta t$.
+
+Für $a_1$ gilt: In $\Delta t=2s$ ändert sich die Geschwindigkeit um $\Delta v = 2 \frac{m}{s}$.
+
+</details>
+
+</p>
+
+> 4. 1. 2. Berechnen Sie die Teilwege ($s_1,\, s_2,\, s_3$), sowie den Gesamtweg.
+
+<p style="margin-left:10%">
+
+@rangeQuiz2($s_1$, 4 , $m$)
+
+@rangeQuiz2($s_2$, 10.5 , $m$)
+
+@rangeQuiz2($s_3$, 2 , $m$)
+
+@rangeQuiz2($s_{ges}$, 16.5 , $m$)
+
+<details>
+
+<summary> Hinweis 1</summary>
+
+Der zurück gelegte Weg entspricht der Fläche unter dem v(t)-Graphen.
+
+</details>
+
+<details>
+
+<summary> Hinweis 2</summary>
+
+Ermitteln Sie für die Intervalle geometrisch die Fläche unter den Graphen
+
+</details>
+
+<details>
+
+<summary> Lösung $s_1$</summary>
+
+Die Fläche ergibt sich aus einem Rechteck ($2s\cdot 1\frac{m}{s}=2m$) und einem rechtwinkligen Dreieck ($\frac{1}{2}$2s\cdot 2\frac{m}{s}=2m$). Somit ergibt sich $s_1=4m$
+
+
+
+</details>
+
+</p>
