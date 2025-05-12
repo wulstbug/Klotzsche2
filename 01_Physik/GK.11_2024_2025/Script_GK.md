@@ -5535,7 +5535,7 @@ __Anwendung der Lenz'schen Regel:__ Die induzierte Spanung (und daher das induzi
 
 _Hinweise:_
 
-- betrachten wir den @color(Betrag, red) (also den Wert) der induzierten Spannung, so genügt die Formel $N \cdot \dfrac{\mathrm{d}\Phi}{\mathrm{d}A}$
+- betrachten wir den @color(Betrag, red) (also den Wert) der induzierten Spannung, so genügt die Formel $N \cdot \dfrac{\Delta\Phi}{\Delta t}$
 
 - betrachten wir die @color(Wirkung, red) der induzierten Spannung, so müssen wir die _Lenz'sche Regel_ beachten
 
