@@ -765,3 +765,474 @@ $s = 250 m$
 @rangeQuiz2($v$, 100 ,$\frac{km}{h}$)
 
 </p>
+
+
+## 3.7. Analyse in v(t)-Diagrammen
+
+[Anim](https://www.canva.com/design/DAGm9tBDPQs/3-TTvOMqfXllnsqV8XnYFQ/edit?utm_content=DAGm9tBDPQs&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+
+<p class="newspaper">
+
+{1}{__Beschleunigung a aus dem v(t)-Diagramm ermitteln__}
+
+{{3}}
+********
+> Die Beschleunigung entspricht in einem v(t)-Diagramm dem @color(Anstieg des Graphen, red).
+
+__Merke:__ Der Anstieg eines Graphen kann mit dem @color(Anstiegsdreieck,red) ermittelt werden.
+
+********
+
+<p class="cb">
+
+{2}{__Zurückgelegten Weg s aus dem v(t)-Diagramm ermitteln__}
+
+{{5}}
+********
+> Der zurück gelegte Weg entspricht in einem v(t)-Diagramm der @color(Fläche unter dem Graphen, red).
+
+__Merke:__ Die Fläche unter dem Graph durch geometrische Berechnung durchgeführt werden.
+********
+
+</p>
+
+</p>
+
+---
+
+<p class="newspaper">
+
+{{4}}
+********
+__Anstieg (allgemein):__ $\boxed{m = \dfrac{\Delta y}{\Delta x}}$
+
+![Bild-Diagramm-x-y](https://diversewolken.ddns.net/nextcloud/index.php/s/2aRa2oZLNKQfdAg/download)
+********
+
+<p class="cb">
+
+{{6}}
+********
+__Beispiel 1:__ @color(Gleichförmige Bewegung, blue)
+
+Fläche unter dem Graph ist ein Trapez.
+
+![Bild-Diagramm-gleichf](https://diversewolken.ddns.net/nextcloud/index.php/s/Fp8yMpQgYN7ep7F/download)
+********
+
+</p>
+
+</p>
+
+---
+
+<p class="newspaper">
+
+{{4}}
+********
+__Anstieg in v(t):__ $\boxed{a = \dfrac{\Delta v}{\Delta t}}$
+
+![Bild-Diagramm-v-t](https://diversewolken.ddns.net/nextcloud/index.php/s/rsEJwBZknbyfGN2/download)
+********
+
+<p class="cb">
+{{6}}
+********
+__Beispiel 2:__ @color(Gleichmäßige Beschleunigung, blue)
+
+Fläche unter dem Graph ist ein rechtwinkliges Dreieck.
+
+![Bild-Diagramm-gleichmBeschl](https://diversewolken.ddns.net/nextcloud/index.php/s/95wwXeFTf9omXGb/download)
+********
+
+</p>
+
+</p>
+
+---
+
+### Übungsaufgabe 1 (zu v(t)-Diagrammen)
+
+![Übungsaufgabe](https://diversewolken.ddns.net/nextcloud/index.php/s/JEPGoaMHYYzbLyR/download)
+
+Bestimme zu jedem Abschnitt 
+
+- a) die Art der Bewegung
+
+- b) die Beschleunigung
+
+- c) den zurückgelegten Weg
+
+
+##### Lösungen a) Art der Bewegung
+
+__A-B__
+
+    <!-- data-solution-button="off" -->
+    [( )] Stillstand
+    [(X)] gleichförmige Bewegung
+    [( )] gleichmäßig beschleunigte Bewegung
+    [( )] gleichmäßig gebremste Bewegung
+
+__B-C__
+
+    <!-- data-solution-button="off" -->
+    [( )] Stillstand
+    [( )] gleichförmige Bewegung
+    [( )] gleichmäßig beschleunigte Bewegung
+    [(X)] gleichmäßig gebremste Bewegung
+
+__C-D__
+
+    <!-- data-solution-button="off" -->
+    [(X)] Stillstand
+    [( )] gleichförmige Bewegung
+    [( )] gleichmäßig beschleunigte Bewegung
+    [( )] gleichmäßig gebremste Bewegung
+
+__D-E__
+
+    <!-- data-solution-button="off" -->
+    [( )] Stillstand
+    [( )] gleichförmige Bewegung
+    [(X)] gleichmäßig beschleunigte Bewegung
+    [( )] gleichmäßig gebremste Bewegung
+
+__E-F__
+
+    <!-- data-solution-button="off" -->
+    [( )] Stillstand
+    [(X)] gleichförmige Bewegung
+    [( )] gleichmäßig beschleunigte Bewegung
+    [( )] gleichmäßig gebremste Bewegung
+
+##### Lösungen b) Beschleunigung
+
+__A-B__
+
+@rangeQuiz2($a$, 0, $\frac{m}{s^2}$)
+
+<details style="margin-left:5%">
+
+<summary> Lösung </summary>
+
+Anstieg ist Null, d.h. $\Delta v=0$, d.h. a = 0.
+
+</details>
+
+---
+
+__B-C__
+
+@rangeQuiz2($a$, -6, $\frac{m}{s^2}$)
+
+<details style="margin-left:5%">
+
+<summary> Lösung </summary>
+
+Geschwindigkeit ändert sich von 60 $\frac{m}{s}$ auf 0 $\frac{m}{s}$. D.h. $\Delta v=v_{end}-v_{anf}=0\frac{m}{s}-60\frac{m}{s}=60\frac{m}{s}$. Die benötigte Zeit ist $\Delta t=10s$. Die Beschleunigung ist laut Formel:
+
+$ a=\frac{\Delta v}{\Delta t}=\frac{-60\frac{m}{s}}{10s}=-6 \frac{m}{s^2} $
+
+</details>
+
+---
+
+__C-D__
+
+@rangeQuiz2($a$, 0, $\frac{m}{s^2}$)
+
+<details style="margin-left:5%">
+
+<summary> Lösung </summary>
+
+Anstieg ist Null, d.h. $\Delta v=0$, d.h. a = 0.
+
+</details>
+
+
+---
+
+__D-E__
+
+@rangeQuiz2($a$, 0.5, $\frac{m}{s^2}$)
+
+<details style="margin-left:5%">
+
+<summary> Lösung </summary>
+
+Geschwindigkeit ändert sich von $0 \frac{m}{s}$ auf $10 \frac{m}{s}$. D.h. $\Delta v=v_{end}-v_{anf}=10\frac{m}{s}-0\frac{m}{s}=10\frac{m}{s}$. Die benötigte Zeit ist $\Delta t=20s$. Die Beschleunigung ist laut Formel:
+
+$ a=\frac{\Delta v}{\Delta t}=\frac{10\frac{m}{s}}{20s}=0,5 \frac{m}{s^2} $
+
+</details>
+
+---
+
+__E-F__
+
+@rangeQuiz2($a$, 0, $\frac{m}{s^2}$)
+
+<details style="margin-left:5%">
+
+<summary> Lösung </summary>
+
+Anstieg ist Null, d.h. $\Delta v=0$, d.h. a = 0.
+
+</details>
+
+##### Lösungen c) Zurückgelegter Weg
+
+__A-B__
+
+@rangeQuiz2($s$, 600, $m$)
+
+<details style="margin-left:5%">
+
+<summary> Lösung </summary>
+
+Der zurückgelegte Weg ist der Flächeninhalt zwischen dem Graph und der x-Achse. Hier ist es ein Rechteck. Es hat die Seiten $60\frac{m}{s}$ und $10s$. Der Flächeninhalt beträgt 
+
+$s = 60\frac{m}{s} \cdot 10s = 600m$
+
+</details>
+
+---
+
+__B-C__
+
+@rangeQuiz2($s$, 300, $m$)
+
+<details style="margin-left:5%">
+
+<summary> Lösung </summary>
+
+Der zurückgelegte Weg ist der Flächeninhalt zwischen dem Graph und der x-Achse. Hier ist es ein rechtwinkliges Dreieck. Es hat die Schenkel $60\frac{m}{s}$ und $10s$. Der Flächeninhalt beträgt 
+
+$s = \frac{1}{2} \cdot 60\frac{m}{s} \cdot 10s = 300m$
+
+</details>
+
+---
+
+__C-D__
+
+@rangeQuiz2($s$, 0, $m$)
+
+<details style="margin-left:5%">
+
+<summary> Lösung </summary>
+
+Der Flächeninhalt zwischen Graph und x-Achse ist Null. Daher legt der Körper keinen Weg zurück.
+
+$s=0m$
+
+</details>
+
+---
+
+__D-E__
+
+@rangeQuiz2($s$, 100, $m$)
+
+
+<details style="margin-left:5%">
+
+<summary> Lösung </summary>
+
+Der zurückgelegte Weg ist der Flächeninhalt zwischen dem Graph und der x-Achse. Hier ist es ein rechtwinkliges Dreieck. Es hat die Schenkel $10\frac{m}{s}$ und $20s$. Der Flächeninhalt beträgt 
+
+$s = \frac{1}{2} \cdot 10\frac{m}{s} \cdot 20s = 100m$
+
+</details>
+
+---
+
+__E-F__
+
+@rangeQuiz2($s$, 200, $m$)
+
+<details style="margin-left:5%">
+
+<summary> Lösung </summary>
+
+Der zurückgelegte Weg ist der Flächeninhalt zwischen dem Graph und der x-Achse. Hier ist es ein Rechteck. Es hat die Seiten $10\frac{m}{s}$ und $20s$. Der Flächeninhalt beträgt 
+
+$s = 10\frac{m}{s} \cdot 20s = 200m$
+
+</details>
+
+### Übungsaufgabe 2 Zuordnung Graphen
+
+<p class="newspaper">
+
+Gegeben sind folgende v(t)-Graphen für 7 verschiedene Fälle.
+
+![Faelle_vt](https://diversewolken.ddns.net/nextcloud/index.php/s/L8Y8XrqrZpBX6Tt/download)
+
+<p class="cb">
+
+Ordne im folgenden Bild die x(t) Fälle den v(t) Fällen zu.
+
+<iframe src="https://learningapps.org/watch?v=pd58g8qzt24" style="border:0px;width:100%;height:500px" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"></iframe>
+
+</p>
+
+</p>
+
+### Übungsaufgabe 3 Bewegungsgleichungen
+
+3. 1. Ein Vater spielt mit seinem Kind _Rennen um die Wette_. Das Ziel ist ein Baum und befindet sich in 30m Entfernung. Das Kind hat, wenn es rennt eine Geschwindigkeit von $2\frac{m}{s}$. Der Vater hat eine Geschwindigkeit von $6 \frac{m}{s}$. Damit das Rennen fair ist, gibt der Vater dem Kind $10s$ Vorsprung. Ermittle, wer das Ziel als erster erreicht. Begründe deine Aussage durch Berechnung.
+
+<details style ="margin-left:5%">
+
+<summary> Lösung </summary>
+
+Beide erreichen das Ziel gleichzeitig.
+
+</details>
+
+<details style ="margin-left:5%">
+
+<summary> Begründung </summary>
+
+Das Kind rennt in den ersten $10s$ seines Vorsprungs genau 20m. Für die restlichen 10m benötigt es weitere 5s. Der Vater rennt nach 10s los und benötigt für die gesamten 30m ebenfalls 5s. Sie erreichen das Ziel gleichzeitig.
+
+</details>
+
+
+
+---
+
+3. 2. Ein Fahrzeug (A) steht an einer Ampel. Als die Ampel auf grün schaltet fährt es mit einer Beschleunigung von 1,5 m/s² los. Im Moment des Losfahrens überholt ein zweites Auto (B) auf der zweiten Spur mit einer Geschwindigkeit von 80 km/h. Es bewegt sich gleichförmig. Ermittle den Überhol-Zeitpunkt, die Strecke, an welchem das erste Auto, das zweite Auto überholt und die Überholgeschwindigkeit (in km/h).
+
+<p style ="margin-left:5%">
+
+@rangeQuiz2($t$, 29.63 ,$s$)
+
+@rangeQuiz2($s$, 658.3786 ,$m$)
+
+@rangeQuiz2($v$, 160 ,$\frac{km}{h}$)
+
+</p>
+
+<details style ="margin-left:5%">
+
+<summary> Lösungsweg </summary>
+
+<p class="newspaper">
+
+Für das erste Auto (A) gilt die Bewegungsgleichung (siehe _3.6 Beschleunigte Bewegung_):
+
+> $ s_A(t) = \frac{1}{2} \cdot a_A \cdot t^2$
+
+-> Hierbei ist $a_A=1,5\frac{m}{s^2}$.
+
+<p class="cb">
+
+Für das zweite Auto (B) gilt die Bewegungsgleichung (siehe _3.6 Gleichförmige Bewegung_):
+
+> $ s_B(t) = v_{0B} \cdot t$
+
+-> Hierbei ist $v_{0B} = \frac{80}{3,6} \frac{m}{s} = 22,22 \frac{m}{s}$.
+
+</p>
+
+</p>
+
+Um den Überholzeitpunkt auszurechnen muss man $s_A(t) = s_B(t)$ setzen.
+
+> $$ \frac{1}{2} \cdot a_A \cdot t^2 = v_{0B} \cdot t $$
+
+Als Lösung ergibt sich zum einen $t=0$ (das ist an der Ampel) und dann 
+
+> $$ t = \frac{2\cdot v_{0B}}{a_A} = \frac{2\cdot 22,22 \frac{m}{s}}{1,5s} $$
+>
+> $$ \underline{t = 29,63s} $$
+
+Der zurückgelegte Weg kann dann mit $s_A(t)$ oder $s_B(t)$ berechnet werden
+
+> $$ \underline{s_B(t=29.63s) = 658,38 m}$$
+
+Die Geschwindigkeit des Fahrzeugs A berechnet sich mit $v_A = a_A \cdot t$ zu
+
+> $$ \underline{v_A = 1,5\frac{m}{s^2} \cdot 29,63s = 44,44 \frac{m}{s} \overset{\cdot 3,6}{=} 160 \frac{km}{h}} $$
+
+</details>
+
+### Übungsaufgabe 4 (Zurückgelegter Weg)
+
+> 4. 1. Zu einer geradlinigen Bewegung gehört das Zeit-Geschwindigkeits-Diagramm der folgenden Abbildung: <br> ![v-t-Diagramm](https://diversewolken.ddns.net/nextcloud/index.php/s/8PB92pbssc5MoMo/download)<!-- style="max-width:80%"-->
+
+> 4. 1. 1. Berechnen Sie die Beschleunigungen in den drei Zeitintervallen.
+
+<p style="margin-left:10%">
+
+@rangeQuiz2($a_1$, 1 , $\frac{m}{s^2}$)
+
+@rangeQuiz2($a_2$, 0.333 , $\frac{m}{s^2}$)
+
+@rangeQuiz2($a_3$, -4 , $\frac{m}{s^2}$)
+
+<details>
+
+<summary> Hinweis 1</summary>
+
+Nutzen Sie die Formel für die gleichmäßig beschleunigte Bewegung 
+
+$$ a = \frac{\Delta v}{\Delta t} $$
+
+</details>
+
+<details>
+
+<summary> Hinweis 2</summary>
+
+Ermitteln Sie für jedes Intervall die Geschwindigkeitsänderung $\Delta v$ und die dafür benötigte Zeit $\Delta t$.
+
+Für $a_1$ gilt: In $\Delta t=2s$ ändert sich die Geschwindigkeit um $\Delta v = 2 \frac{m}{s}$.
+
+</details>
+
+</p>
+
+> 4. 1. 2. Berechnen Sie die Teilwege ($s_1,\, s_2,\, s_3$), sowie den Gesamtweg.
+
+<p style="margin-left:10%">
+
+@rangeQuiz2($s_1$, 4 , $m$)
+
+@rangeQuiz2($s_2$, 10.5 , $m$)
+
+@rangeQuiz2($s_3$, 2 , $m$)
+
+@rangeQuiz2($s_{ges}$, 16.5 , $m$)
+
+<details>
+
+<summary> Hinweis 1</summary>
+
+Der zurück gelegte Weg entspricht der Fläche unter dem v(t)-Graphen.
+
+</details>
+
+<details>
+
+<summary> Hinweis 2</summary>
+
+Ermitteln Sie für die Intervalle geometrisch die Fläche unter den Graphen
+
+</details>
+
+<details>
+
+<summary> Lösung $s_1$</summary>
+
+Die Fläche ergibt sich aus einem Rechteck ($2s\cdot 1\frac{m}{s}=2m$) und einem rechtwinkligen Dreieck ($\frac{1}{2}$2s\cdot 2\frac{m}{s}=2m$). Somit ergibt sich $s_1=4m$
+
+
+
+</details>
+
+</p>
+
