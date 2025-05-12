@@ -5546,8 +5546,11 @@ _Hinweise:_
 #### B. Thomson'scher Ringversuch 
 
 <p style="color:blue">
-Kopiere den Prompt in das Feld der KI (nutze den Button _Kopieren_). Beantworte dann die gestellten Aufgabe.
+Aufgabe: Zeichne (Skizze), beschreibe (Beobachtung) und erkläre (Erklärung) das Experiment _Thomson'scher Ringversuch_ in deinem Hefter. Nutze die KI um deine Beobachtungen und Erklärungen zu überprüfen.
 </p>
+
+
+__Kopiere den Prompt in das Feld der KI (nutze den Button _Kopieren_). Beantworte dann die gestellten Aufgabe.__
 
 ---
 
@@ -5555,7 +5558,7 @@ __Aufgabe:__<br> Beantworte die Aufträge der KI. Du kannst dein Ergebnis verbes
 
 <div class="container" style="margin-left:10%">
 __Prompt__ <br>
-<span class="text-box" id="textToCopy2"> Ich soll ein Experiment erst beschreiben und anschließend erklären. Bitte frage mich zunächst nach einer Beschreibung meiner Beobachtung. Unterstütze mich bei der Antwort, hilf mir nur, wenn ich darum bitte. Frage mich nach jeder meiner Antworten, ob ich meine Antwort verbessern möchte oder zur nächsten Frage bzw. zur Einschätzung kommen möchte.<br> Das Experiment ist der Thomson'sche Ringversuch. Man benutzt zwei Aluminiumringe: Der erste Ring ist vollständig, der zweite Ring hat einen Schlitz, sodass keine Ringströme fließen könnnen. Beide Ringe werden auf einen U-Kern mit Eisenjoch und einer Spule auf dem U-Kern gesteckt. An die Spule wird eine starke Wechselspannung angelegt. Frage mich nun zunächst nach meiner Beobachtung und dann nach meiner Erklärung für diese beiden Ringe. <br> Alle Antworten sind im Fach Physik im Niveau Grundkurs Klasse 11 zu beantworten. Schätze mir am Ende das Niveau meiner Antworten auf einer Skala von 1 bis 10 ein.</span>
+<span class="text-box" id="textToCopy2"> Ich soll ein Experiment erst beschreiben und anschließend erklären. Bitte frage mich zunächst nach einer Beschreibung meiner Beobachtung. Unterstütze mich bei der Antwort, hilf mir nur, wenn ich darum bitte. Achte bei meiner Erklärung darauf, dass die Induktion einer Spannung richtig beschrieben wird und die Lenz'sche Regel korrekt erklärt wird. <br> Das Experiment ist der Thomson'sche Ringversuch. Man benutzt zwei Aluminiumringe: Der erste Ring ist vollständig, der zweite Ring hat einen Schlitz, sodass keine Ringströme fließen könnnen. Beide Ringe werden auf einen U-Kern mit Eisenjoch und einer Spule auf dem U-Kern gesteckt. An die Spule wird eine starke Wechselspannung angelegt. Frage mich nun zunächst nach meiner Beobachtung und dann nach meiner Erklärung für diese beiden Ringe.  Frage mich nach jeder meiner Antworten, ob ich meine Antwort verbessern möchte oder zur nächsten Frage bzw. zur Einschätzung kommen möchte. <br> Alle Antworten sind im Fach Physik im Niveau Grundkurs Klasse 11 zu beantworten. Schätze mir am Ende das Niveau meiner Antworten auf einer Skala von 1 bis 10 ein.</span>
 </div>
 
 <script input="submit" style="margin-left:10%" default="Prompt Kopieren">
@@ -5581,4 +5584,41 @@ alternativer Link für eigene Geräte
 [KI-OpenWebUI-BYOD](https://subtle-corgi-firmly.ngrok-free.app)
 
 
-#### C. Magnetisches Pendel (Induktionsbremse)__
+#### C. Magnetisches Pendel (Induktionsbremse)
+
+<p style="color:blue">
+Aufgabe: Zeichne (Skizze), beschreibe (Beobachtung) und erkläre (Erklärung) das Experiment magnetisches Pendel in deinem Hefter. Nutze die KI um deine Beobachtungen und Erklärungen zu überprüfen.
+</p>
+
+__Kopiere den Prompt in das Feld der KI (nutze den Button _Kopieren_). Beantworte dann die gestellten Aufgabe.__
+
+---
+
+__Aufgabe:__<br> Beantworte die Aufträge der KI. Du kannst dein Ergebnis verbessernn.
+
+<div class="container" style="margin-left:10%">
+__Prompt__ <br>
+<span class="text-box" id="textToCopy2"> Ich soll ein Experiment erst beschreiben und anschließend erklären. Bitte frage mich zunächst nach einer Beschreibung meiner Beobachtung. Unterstütze mich bei der Antwort, hilf mir nur, wenn ich darum bitte. Achte bei meiner Erklärung darauf, dass die Induktion einer Spannung richtig beschrieben wird und die Lenz'sche Regel korrekt erklärt wird. <br> ... <br> Frage mich nun zunächst nach meiner Beobachtung und dann nach meiner Erklärung für diese beiden Ringe.  Frage mich nach jeder meiner Antworten, ob ich meine Antwort verbessern möchte oder zur nächsten Frage bzw. zur Einschätzung kommen möchte. <br> Alle Antworten sind im Fach Physik im Niveau Grundkurs Klasse 11 zu beantworten. Schätze mir am Ende das Niveau meiner Antworten auf einer Skala von 1 bis 10 ein.</span>
+</div>
+
+<script input="submit" style="margin-left:10%" default="Prompt Kopieren">
+        const text = document.getElementById("textToCopy2").innerText;
+        navigator.clipboard.writeText(text).then(() => {
+            alert("Text wurde in die Zwischenablage kopiert!");
+        }).catch(err => {
+            console.error("Fehler beim Kopieren: ", err);
+        });
+        "Prompt Kopieren"
+</script>
+
+---
+
+Login: phy-@color(xx,red)@gykl.ipads
+
+Passwort: phy-@color(xx,red)
+
+[KI-OpenWebUI](http://10.102.1.3:3001)
+
+alternativer Link für eigene Geräte
+
+[KI-OpenWebUI-BYOD](https://subtle-corgi-firmly.ngrok-free.app)
