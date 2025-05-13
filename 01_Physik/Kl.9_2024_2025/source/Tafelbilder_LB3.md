@@ -1199,7 +1199,7 @@ __Anstieg (allgemein):__ $\boxed{m = \dfrac{\Delta y}{\Delta x}}$
 ********
 __Beispiel 1:__ @color(Gleichförmige Bewegung, blue)
 
-Fläche unter dem Graph ist ein Trapez.
+Fläche unter dem Graph ist ein Rechteck.
 
 ![Bild-Diagramm-gleichf](https://diversewolken.ddns.net/nextcloud/index.php/s/Fp8yMpQgYN7ep7F/download)
 ********
