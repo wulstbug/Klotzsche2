@@ -1173,7 +1173,7 @@ __Merke:__ Der Anstieg eines Graphen kann mit dem @color(Anstiegsdreieck,red) er
 
 {{5}}
 ********
-> Der zurück gelegte Weg entspricht in einem v(t)-Diagramm dem @color(Flächeninhalt unter dem Graphen, red).
+> Der zurückgelegte Weg entspricht in einem v(t)-Diagramm dem @color(Flächeninhalt unter dem Graphen, red).
 
 __Merke:__ Der Flächeninhalt unter dem Graph durch geometrische Berechnung ermittelt werden.
 ********
