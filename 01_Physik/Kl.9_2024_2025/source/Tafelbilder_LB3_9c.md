@@ -1020,7 +1020,9 @@ $s = \frac{1}{2} \cdot 60\frac{m}{s} \cdot 10s = 300m$
 
 __C-D__
 
-@rangeQuiz2($s$, 0.00001, $m$)
+<!-- data-solution-button="off" -->
+$a$ = [[ 0 ]] $\frac{m}{s^2}$
+
 
 <details style="margin-left:5%">
 
