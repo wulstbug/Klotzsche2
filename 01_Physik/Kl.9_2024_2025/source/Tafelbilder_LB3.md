@@ -1294,7 +1294,7 @@ __E-F__
 
 __A-B__
 
-@rangeQuiz2($a$, 0, $\frac{m}{s^2}$)
+@rangeQuiz2($a$, 0.00001, $\frac{m}{s^2}$)
 
 <details style="margin-left:5%">
 
@@ -1324,7 +1324,7 @@ $ a=\frac{\Delta v}{\Delta t}=\frac{-60\frac{m}{s}}{10s}=-6 \frac{m}{s^2} $
 
 __C-D__
 
-@rangeQuiz2($a$, 0, $\frac{m}{s^2}$)
+@rangeQuiz2($a$, 0.00001, $\frac{m}{s^2}$)
 
 <details style="margin-left:5%">
 
@@ -1355,7 +1355,7 @@ $ a=\frac{\Delta v}{\Delta t}=\frac{10\frac{m}{s}}{20s}=0,5 \frac{m}{s^2} $
 
 __E-F__
 
-@rangeQuiz2($a$, 0, $\frac{m}{s^2}$)
+@rangeQuiz2($a$, 0.00001, $\frac{m}{s^2}$)
 
 <details style="margin-left:5%">
 
@@ -1401,7 +1401,7 @@ $s = \frac{1}{2} \cdot 60\frac{m}{s} \cdot 10s = 300m$
 
 __C-D__
 
-@rangeQuiz2($s$, 0, $m$)
+@rangeQuiz2($s$, 0.00001, $m$)
 
 <details style="margin-left:5%">
 
