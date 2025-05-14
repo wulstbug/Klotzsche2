@@ -5172,4 +5172,4 @@ Zeichne einen Graphen mit $n=\dfrac{N_1}{N_2}$ auf der x-Achse und $n'= \dfrac{U
 >
 > $$\dfrac{U_1}{U_2} = \dfrac{N_1}{N_2}$$
 >
-> gilt nur für einen unbelasteten idealen Transformator.
+> gilt nur für einen __unbelasteten idealen Transformator__.
