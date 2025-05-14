@@ -5162,7 +5162,7 @@ Zeichne einen Graphen mit $n=\dfrac{N_1}{N_2}$ auf der x-Achse und $n'= \dfrac{U
 
 > __Idealer vs. realer Transformator__: Der ideale Transformator ist ein theoretisches Modell, bei dem einige Vereinfachungen (Idealisierungen) angenommen werden. <br> Zum Beispiel:
 >
-> - das magnetische Feld verläuft zu 100% im Inneren des Eisenkerns
+> - das magnetische Feld verläuft zu 100% im Inneren des Eisenkerns (d.h. die erzeugte magnetische Flussdichte in der Primärspule ist identisch mit der wirkenden magnetischen Flussdichte in der Sekundärspule)
 >
 > - der Draht der Wicklungen hat keinen elektrischen Widerstand (es entstehen keine Wärmeverluste)
 >
@@ -5224,7 +5224,7 @@ __Vorläufige Erklärung:__
 > - das @color(induzierte Magnetfeld, red) wechselwirkt mit dem Magnetfeld der Kugel und @color(bremst die Kugel, blue)
 *********
 
-### 1.3. Lenz'sche Regel - Richtung der Induktionsspannung
+### 8.1.3. Lenz'sche Regel - Richtung der Induktionsspannung
 
 > Die induzierte Spannung ist immer @color(so gerichtet, red), dass sie ihrer Ursache @color(entgegen, red) wirkt.
 
