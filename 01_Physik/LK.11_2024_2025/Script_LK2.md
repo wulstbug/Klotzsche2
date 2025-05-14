@@ -5158,7 +5158,7 @@ Zeichne einen Graphen mit $n=\dfrac{N_1}{N_2}$ auf der x-Achse und $n'= \dfrac{U
 | 0.33 | 0.35 | 0.33 |
 *********
 
-### Begriffsklärung: Transformator
+#### Begriffsklärung: Transformator
 
 > __Idealer vs. realer Transformator__: Der ideale Transformator ist ein theoretisches Modell, bei dem einige Vereinfachungen (Idealisierungen) angenommen werden. <br> Zum Beispiel:
 >
