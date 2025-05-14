@@ -5168,4 +5168,8 @@ Zeichne einen Graphen mit $n=\dfrac{N_1}{N_2}$ auf der x-Achse und $n'= \dfrac{U
 >
 > - innerhalb des Eisenkerns werden keine Wirbelströme induziert
 
-> __Belasteter vs. unbelasteter Transformator__: Bei einem unbelasteten Trafo wird angenommen, dass im Sekundärstromkreis kein Verbraucher angeschlossen ist, d.h. es fließt kein Sekundärstrom. Die Gleichung $\dfrac{U_1}{U_2} = \dfrac{N_1}{N_2}$ gilt nur für einen unbelasteten Transformator.
+> __Belasteter vs. unbelasteter Transformator__: Bei einem unbelasteten Trafo wird angenommen, dass im Sekundärstromkreis kein Verbraucher angeschlossen ist, d.h. es fließt kein Sekundärstrom. Die Gleichung 
+>
+> $$\dfrac{U_1}{U_2} = \dfrac{N_1}{N_2}$$
+>
+> gilt nur für einen unbelasteten Transformator.
