@@ -1453,27 +1453,9 @@ $s = 10\frac{m}{s} \cdot 20s = 200m$
 
 </details>
 
-### Übungsaufgabe 2 Zuordnung Graphen
+### Übungsaufgabe 2: Zu den  Bewegungsgleichungen (3.6)
 
-<p class="newspaper">
-
-Gegeben sind folgende v(t)-Graphen für 7 verschiedene Fälle.
-
-![Faelle_vt](https://diversewolken.ddns.net/nextcloud/index.php/s/L8Y8XrqrZpBX6Tt/download)
-
-<p class="cb">
-
-Ordne im folgenden Bild die x(t) Fälle den v(t) Fällen zu.
-
-<iframe src="https://learningapps.org/watch?v=pd58g8qzt24" style="border:0px;width:100%;height:500px" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"></iframe>
-
-</p>
-
-</p>
-
-### Übungsaufgabe 3 Bewegungsgleichungen
-
-3. 1. Ein Vater spielt mit seinem Kind _Rennen um die Wette_. Das Ziel ist ein Baum und befindet sich in 30m Entfernung. Das Kind hat, wenn es rennt eine Geschwindigkeit von $2\frac{m}{s}$. Der Vater hat eine Geschwindigkeit von $6 \frac{m}{s}$. Damit das Rennen fair ist, gibt der Vater dem Kind $10s$ Vorsprung. Ermittle, wer das Ziel als erster erreicht. Begründe deine Aussage durch Berechnung.
+2. 1. Ein Vater spielt mit seinem Kind _Rennen um die Wette_. Das Ziel ist ein Baum und befindet sich in 30m Entfernung. Das Kind hat, wenn es rennt eine Geschwindigkeit von $2\frac{m}{s}$. Der Vater hat eine Geschwindigkeit von $6 \frac{m}{s}$. Damit das Rennen fair ist, gibt der Vater dem Kind $10s$ Vorsprung. Ermittle, wer das Ziel als erster erreicht. Begründe deine Aussage durch Berechnung.
 
 <details style ="margin-left:5%">
 
@@ -1491,11 +1473,168 @@ Das Kind rennt in den ersten $10s$ seines Vorsprungs genau 20m. Für die restlic
 
 </details>
 
+---
 
+2. 2. Ein ICE beschleunigt gleichmäßig mit einer Beschleunigung von $2\frac{m}{s^2}$. Ermittle die Beschleunigungszeit und die Beschleunigungsstrecke, für eine End-Geschwindigkeit von 180 km/h.
+
+<p style ="margin-left:5%">
+
+@rangeQuiz2($t$, 25 ,$s$)
+
+@rangeQuiz2($s$, 625 ,$m$)
+
+</p>
+
+
+<details style ="margin-left:5%">
+
+<summary> Lösungshinweis: </summary>
+
+Stelle für den ICE die Bewegungsgleichung s(t) und v(t) für eine gleichmäßig beschleunigte Bewegung auf (siehe _3.6 Bewegungsgleichungen_). Um die Beschleunigungszeit zu bestimmen kannst du v(t) nutzen. Achte auf die Umrechnung in $m/s$.
+
+</details>
+
+<details style ="margin-left:5%">
+
+<summary> Lösungsweg </summary>
+
+Die Bewegungsgleichungen für eine gleichmäßig beschleunigte Bewegung lauten (keine Anfangsgeschwindigkeit $v_0$, kein Anfangsweg $s_0$):
+
+> $s(t) = \frac{1}{2} \cdot a \cdot t^2$
+>
+> $v(t) = a \cdot t$
+
+Da der ICE von 0 auf 180km/h (50m/s) beschleunigt, kann man mit der Gleichung v(t)=50m/s die Beschleunigungszeit ausrechnen
+
+> $50 \frac{m}{s} = 2 \frac{m}{s^2} \cdot t$
+>
+> => $\underline{t = 25 s}$
+
+Jetzt kann man diese Zeit in die erste Gleichung s(t) einsetzen und erhält als Gesamtstrecke $s= \frac{1}{2} \cdot 2\frac{m}{s^2} \cdot (25s)^2 = 625m$.
+
+> => $s=625 m$
+
+</details>
 
 ---
 
-3. 2. Ein Fahrzeug (A) steht an einer Ampel. Als die Ampel auf grün schaltet fährt es mit einer Beschleunigung von 1,5 m/s² los. Im Moment des Losfahrens überholt ein zweites Auto (B) auf der zweiten Spur mit einer Geschwindigkeit von 80 km/h. Es bewegt sich gleichförmig. Ermittle den Überhol-Zeitpunkt, die Strecke, an welchem das erste Auto, das zweite Auto überholt und die Überholgeschwindigkeit (in km/h).
+### Übungsaufgabe 3 (Zurückgelegter Weg)
+
+> 3. 1. Zu einer geradlinigen Bewegung gehört das Zeit-Geschwindigkeits-Diagramm der folgenden Abbildung: <br> ![v-t-Diagramm](https://diversewolken.ddns.net/nextcloud/index.php/s/8PB92pbssc5MoMo/download)<!-- style="max-width:80%"-->
+
+> 3. 1. 1. Berechnen Sie die Beschleunigungen in den drei Zeitintervallen.
+
+<p style="margin-left:10%">
+
+@rangeQuiz2($a_1$, 1 , $\frac{m}{s^2}$)
+
+@rangeQuiz2($a_2$, 0.333 , $\frac{m}{s^2}$)
+
+@rangeQuiz2($a_3$, -4 , $\frac{m}{s^2}$)
+
+<details>
+
+<summary> Hinweis 1</summary>
+
+Nutzen Sie die Formel für die gleichmäßig beschleunigte Bewegung 
+
+$$ a = \frac{\Delta v}{\Delta t} $$
+
+</details>
+
+<details>
+
+<summary> Hinweis 2</summary>
+
+Ermitteln Sie für jedes Intervall die Geschwindigkeitsänderung $\Delta v$ und die dafür benötigte Zeit $\Delta t$.
+
+Für $a_1$ gilt: In $\Delta t=2s$ ändert sich die Geschwindigkeit um $\Delta v = 2 \frac{m}{s}$.
+
+</details>
+
+</p>
+
+> 3. 1. 2. Berechnen Sie die Teilwege ($s_1,\, s_2,\, s_3$), sowie den Gesamtweg.
+
+<p style="margin-left:10%">
+
+@rangeQuiz2($s_1$, 4 , $m$)
+
+@rangeQuiz2($s_2$, 10.5 , $m$)
+
+@rangeQuiz2($s_3$, 2 , $m$)
+
+@rangeQuiz2($s_{ges}$, 16.5 , $m$)
+
+<details>
+
+<summary> Hinweis 1</summary>
+
+Der zurück gelegte Weg entspricht der Fläche unter dem v(t)-Graphen.
+
+</details>
+
+<details>
+
+<summary> Hinweis 2</summary>
+
+Ermitteln Sie für die Intervalle geometrisch die Fläche unter den Graphen
+
+</details>
+
+<details>
+
+<summary> Lösung $s_1$</summary>
+
+Die Fläche ergibt sich aus einem Rechteck ($2s\cdot 1\frac{m}{s}=2m$) und einem rechtwinkligen Dreieck ($\frac{1}{2}$2s\cdot 2\frac{m}{s}=2m$). Somit ergibt sich $s_1=4m$
+
+</details>
+
+</p>
+
+### Übungsaufgabe 4 zu den Bewegungsgleichungen (3.6)
+
+4. 1. Ein Fahrzeug fährt auf der Autobahn mit einer Geschwindigkeit von 144 km/h. Plötzlich erkennt der Fahrer 200m vor ihm ein stehendes Fahrzeug und er tritt sofort auf die Bremse. Dabei kann das Fahrzeug mit einer Beschleunigung von $-5\frac{m}{s^2}$ gleichmäßg bremsen. Zeige durch Berechnung, ob es zu einem Aufprall kommt oder nicht.
+
+<p style ="margin-left:5%">
+
+<!-- data-solution-button="off" -->
+- [( )] Ja
+- [( )] Nein
+
+</p>
+
+
+<details style ="margin-left:5%">
+
+<summary> Lösungshinweis: </summary>
+
+Stelle für das Fahrzeug die Bewegungsgleichung s(t) und v(t) für eine gleichmäßig beschleunigte Bewegung mit Anfangsgeschwindigkeit $v_0$ auf (siehe _3.6 Bewegungsgleichungen_). Um die Beschleunigungszeit zu bestimmen kannst du v(t) nutzen. Überprüfe anschließend, ob die benötigte Strecke größer oder kleiner als 200m ist. Achte auf die Umrechnung in $m/s$.
+
+</details>
+
+
+<summary> Lösungsweg </summary>
+
+Die Bewegungsgleichungen für eine gleichmäßig beschleunigte Bewegung lauten (keine Anfangsgeschwindigkeit $v_0$, kein Anfangsweg $s_0$):
+
+> $s(t) = \frac{1}{2} \cdot a \cdot t^2$
+>
+> $v(t) = a \cdot t$
+
+Da der ICE von 0 auf 180km/h (50m/s) beschleunigt, kann man mit der Gleichung v(t)=50m/s die Beschleunigungszeit ausrechnen
+
+> $50 \frac{m}{s} = 2 \frac{m}{s^2} \cdot t$
+>
+> => $\underline{t = 25 s}$
+
+Jetzt kann man diese Zeit in die erste Gleichung s(t) einsetzen und erhält als Gesamtstrecke $s= \frac{1}{2} \cdot 2\frac{m}{s^2} \cdot (25s)^2 = 625m$.
+
+> => $s=625 m$
+
+</details>
+
+4. 2. Ein Fahrzeug (A) steht an einer Ampel. Als die Ampel auf grün schaltet fährt es mit einer Beschleunigung von 1,5 m/s² los. Im Moment des Losfahrens überholt ein zweites Auto (B) auf der zweiten Spur mit einer Geschwindigkeit von 80 km/h. Es bewegt sich gleichförmig. Ermittle den Überhol-Zeitpunkt, die Strecke, an welchem das erste Auto, das zweite Auto überholt und die Überholgeschwindigkeit (in km/h).
 
 <p style ="margin-left:5%">
 
@@ -1503,9 +1642,17 @@ Das Kind rennt in den ersten $10s$ seines Vorsprungs genau 20m. Für die restlic
 
 @rangeQuiz2($s$, 658.3786 ,$m$)
 
-@rangeQuiz2($v$, 160 ,$\frac{km}{h}$)
+@rangeQuiz2($v_A$, 160 ,$\frac{km}{h}$)
 
 </p>
+
+<details style ="margin-left:5%">
+
+<summary> Lösungshinweis: </summary>
+
+Stelle für beide Fahrzeuge die Bewegungsgleichung $s_A(t)$ (Auto A) und $s_B(t)$ (Auto B) auf (siehe _3.6 Bewegungsgleichungen_). Wenn sich die Fahrzeuge überholen, dann haben sie in diesem Moment die gleiche Strecke zurückgelegt. Das heißt, du kannst die beiden Gleichungen gleich setzen um die Überholzeit zu ermitteln. 
+
+</details>
 
 <details style ="margin-left:5%">
 
@@ -1551,79 +1698,21 @@ Die Geschwindigkeit des Fahrzeugs A berechnet sich mit $v_A = a_A \cdot t$ zu
 
 </details>
 
-### Übungsaufgabe 4 (Zurückgelegter Weg)
 
-> 4. 1. Zu einer geradlinigen Bewegung gehört das Zeit-Geschwindigkeits-Diagramm der folgenden Abbildung: <br> ![v-t-Diagramm](https://diversewolken.ddns.net/nextcloud/index.php/s/8PB92pbssc5MoMo/download)<!-- style="max-width:80%"-->
+### Übungsaufgabe 5 Zuordnung Graphen (*)
 
-> 4. 1. 1. Berechnen Sie die Beschleunigungen in den drei Zeitintervallen.
+<p class="newspaper">
 
-<p style="margin-left:10%">
+Gegeben sind folgende v(t)-Graphen für 7 verschiedene Fälle.
 
-@rangeQuiz2($a_1$, 1 , $\frac{m}{s^2}$)
+![Faelle_vt](https://diversewolken.ddns.net/nextcloud/index.php/s/L8Y8XrqrZpBX6Tt/download)
 
-@rangeQuiz2($a_2$, 0.333 , $\frac{m}{s^2}$)
+<p class="cb">
 
-@rangeQuiz2($a_3$, -4 , $\frac{m}{s^2}$)
+Ordne im folgenden Bild die x(t) Fälle den v(t) Fällen zu.
 
-<details>
-
-<summary> Hinweis 1</summary>
-
-Nutzen Sie die Formel für die gleichmäßig beschleunigte Bewegung 
-
-$$ a = \frac{\Delta v}{\Delta t} $$
-
-</details>
-
-<details>
-
-<summary> Hinweis 2</summary>
-
-Ermitteln Sie für jedes Intervall die Geschwindigkeitsänderung $\Delta v$ und die dafür benötigte Zeit $\Delta t$.
-
-Für $a_1$ gilt: In $\Delta t=2s$ ändert sich die Geschwindigkeit um $\Delta v = 2 \frac{m}{s}$.
-
-</details>
+<iframe src="https://learningapps.org/watch?v=pd58g8qzt24" style="border:0px;width:100%;height:500px" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"></iframe>
 
 </p>
 
-> 4. 1. 2. Berechnen Sie die Teilwege ($s_1,\, s_2,\, s_3$), sowie den Gesamtweg.
-
-<p style="margin-left:10%">
-
-@rangeQuiz2($s_1$, 4 , $m$)
-
-@rangeQuiz2($s_2$, 10.5 , $m$)
-
-@rangeQuiz2($s_3$, 2 , $m$)
-
-@rangeQuiz2($s_{ges}$, 16.5 , $m$)
-
-<details>
-
-<summary> Hinweis 1</summary>
-
-Der zurück gelegte Weg entspricht der Fläche unter dem v(t)-Graphen.
-
-</details>
-
-<details>
-
-<summary> Hinweis 2</summary>
-
-Ermitteln Sie für die Intervalle geometrisch die Fläche unter den Graphen
-
-</details>
-
-<details>
-
-<summary> Lösung $s_1$</summary>
-
-Die Fläche ergibt sich aus einem Rechteck ($2s\cdot 1\frac{m}{s}=2m$) und einem rechtwinkligen Dreieck ($\frac{1}{2}$2s\cdot 2\frac{m}{s}=2m$). Somit ergibt sich $s_1=4m$
-
-
-
-</details>
-
 </p>
-
