@@ -4862,7 +4862,7 @@ __Der Generator:__
 </p>
 
 
-### 1.2. Arbeitsaufträge zum Transformator
+### 8.1.2. Arbeitsaufträge zum Transformator
 
 <p style="color:blue">
 
@@ -5157,3 +5157,15 @@ Zeichne einen Graphen mit $n=\dfrac{N_1}{N_2}$ auf der x-Achse und $n'= \dfrac{U
 | 0.5 | 0.53 | 0.5 | 
 | 0.33 | 0.35 | 0.33 |
 *********
+
+### Begriffsklärung: Transformator
+
+> __Idealer vs. realer Transformator__: Der ideale Transformator ist ein theoretisches Modell, bei dem einige Vereinfachungen (Idealisierungen) angenommen werden. <br> Zum Beispiel:
+>
+> - das magnetische Feld verläuft zu 100% im Inneren des Eisenkerns
+>
+> - der Draht der Wicklungen hat keinen elektrischen Widerstand (es entstehen keine Wärmeverluste)
+>
+> - innerhalb des Eisenkerns werden keine Wirbelströme induziert
+
+> __Belasteter vs. unbelasteter Transformator__: Bei einem unbelasteten Trafo wird angenommen, dass im Sekundärstromkreis kein Verbraucher angeschlossen ist, d.h. es fließt kein Sekundärstrom. Die Gleichung $\dfrac{U_1}{U_2} = \dfrac{N_1}{N_2}$ gilt nur für einen unbelasteten Transformator.
