@@ -5166,7 +5166,7 @@ Zeichne einen Graphen mit $n=\dfrac{N_1}{N_2}$ auf der x-Achse und $n'= \dfrac{U
 >
 > - der Draht der Wicklungen hat keinen elektrischen Widerstand (es entstehen keine Wärmeverluste)
 >
-> - innerhalb des Eisenkerns werden keine Wirbelströme induziert
+> - innerhalb des Eisenkerns werden keine Wirbelströme induziert (keine Verluste, keine Hysterese)
 
 > __Belasteter vs. unbelasteter Transformator__: Bei einem unbelasteten Trafo wird angenommen, dass im Sekundärstromkreis kein Verbraucher angeschlossen ist, d.h. es fließt kein Sekundärstrom. Die Gleichung 
 >
