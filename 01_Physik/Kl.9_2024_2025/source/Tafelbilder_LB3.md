@@ -1239,7 +1239,7 @@ Fläche unter dem Graph ist ein rechtwinkliges Dreieck.
 
 ![Übungsaufgabe](https://diversewolken.ddns.net/nextcloud/index.php/s/JEPGoaMHYYzbLyR/download)
 
-Bestimme zu jedem Abschnitt 
+(+) Bestimme zu jedem Abschnitt 
 
 - a) die Art der Bewegung
 
@@ -1374,7 +1374,8 @@ Anstieg ist Null, d.h. $\Delta v=0$, d.h. a = 0.
 
 __A-B__
 
-@rangeQuiz2($s$, 600, $m$)
+<!-- data-solution-button="off" -->
+$s$ = [[ 600 ]] $m$
 
 <details style="margin-left:5%">
 
@@ -1390,7 +1391,8 @@ $s = 60\frac{m}{s} \cdot 10s = 600m$
 
 __B-C__
 
-@rangeQuiz2($s$, 300, $m$)
+<!-- data-solution-button="off" -->
+$s$ = [[ 300 ]] $m$
 
 <details style="margin-left:5%">
 
@@ -1407,7 +1409,7 @@ $s = \frac{1}{2} \cdot 60\frac{m}{s} \cdot 10s = 300m$
 __C-D__
 
 <!-- data-solution-button="off" -->
-$a$ = [[ 0 ]] $\frac{m}{s^2}$
+$s$ = [[ 0 ]] $m$
 
 
 <details style="margin-left:5%">
@@ -1424,7 +1426,8 @@ $s=0m$
 
 __D-E__
 
-@rangeQuiz2($s$, 100, $m$)
+<!-- data-solution-button="off" -->
+$s$ = [[ 100 ]] $m$
 
 
 <details style="margin-left:5%">
@@ -1441,7 +1444,8 @@ $s = \frac{1}{2} \cdot 10\frac{m}{s} \cdot 20s = 100m$
 
 __E-F__
 
-@rangeQuiz2($s$, 200, $m$)
+<!-- data-solution-button="off" -->
+$s$ = [[ 100 ]] $m$
 
 <details style="margin-left:5%">
 
@@ -1455,7 +1459,7 @@ $s = 10\frac{m}{s} \cdot 20s = 200m$
 
 ### Übungsaufgabe 2: Zu den  Bewegungsgleichungen (3.6)
 
-2. 1. Ein Vater spielt mit seinem Kind _Rennen um die Wette_. Das Ziel ist ein Baum und befindet sich in 30m Entfernung. Das Kind hat, wenn es rennt eine Geschwindigkeit von $2\frac{m}{s}$. Der Vater hat eine Geschwindigkeit von $6 \frac{m}{s}$. Damit das Rennen fair ist, gibt der Vater dem Kind $10s$ Vorsprung. Ermittle, wer das Ziel als erster erreicht. Begründe deine Aussage durch Berechnung.
+2. 1. (+) Ein Vater spielt mit seinem Kind _Rennen um die Wette_. Das Ziel ist ein Baum und befindet sich in 30m Entfernung. Das Kind hat, wenn es rennt eine Geschwindigkeit von $2\frac{m}{s}$. Der Vater hat eine Geschwindigkeit von $6 \frac{m}{s}$. Damit das Rennen fair ist, gibt der Vater dem Kind $10s$ Vorsprung. Ermittle, wer das Ziel als erster erreicht. Begründe deine Aussage durch Berechnung.
 
 <details style ="margin-left:5%">
 
@@ -1475,7 +1479,7 @@ Das Kind rennt in den ersten $10s$ seines Vorsprungs genau 20m. Für die restlic
 
 ---
 
-2. 2. Ein ICE beschleunigt gleichmäßig mit einer Beschleunigung von $2\frac{m}{s^2}$. Ermittle die Beschleunigungszeit und die Beschleunigungsstrecke, für eine End-Geschwindigkeit von 180 km/h.
+2. 2. (+) Ein ICE beschleunigt gleichmäßig mit einer Beschleunigung von $2\frac{m}{s^2}$. Ermittle die Beschleunigungszeit und die Beschleunigungsstrecke, wenn der Zug eine End-Geschwindigkeit von 180 km/h erreichen soll.
 
 <p style ="margin-left:5%">
 
@@ -1518,11 +1522,11 @@ Jetzt kann man diese Zeit in die erste Gleichung s(t) einsetzen und erhält als 
 
 ---
 
-### Übungsaufgabe 3 (Zurückgelegter Weg)
+### Übungsaufgabe 3: Zurückgelegter Weg (3.7)
 
-> 3. 1. Zu einer geradlinigen Bewegung gehört das Zeit-Geschwindigkeits-Diagramm der folgenden Abbildung: <br> ![v-t-Diagramm](https://diversewolken.ddns.net/nextcloud/index.php/s/8PB92pbssc5MoMo/download)<!-- style="max-width:80%"-->
+> 3. (++) Zu einer geradlinigen Bewegung gehört das Zeit-Geschwindigkeits-Diagramm der folgenden Abbildung: <br> ![v-t-Diagramm](https://diversewolken.ddns.net/nextcloud/index.php/s/8PB92pbssc5MoMo/download)<!-- style="max-width:80%"-->
 
-> 3. 1. 1. Berechnen Sie die Beschleunigungen in den drei Zeitintervallen.
+> 3. 1. Berechnen Sie die Beschleunigungen in den drei Zeitintervallen.
 
 <p style="margin-left:10%">
 
@@ -1554,7 +1558,7 @@ Für $a_1$ gilt: In $\Delta t=2s$ ändert sich die Geschwindigkeit um $\Delta v 
 
 </p>
 
-> 3. 1. 2. Berechnen Sie die Teilwege ($s_1,\, s_2,\, s_3$), sowie den Gesamtweg.
+> 3. 2. Berechnen Sie die Teilwege ($s_1,\, s_2,\, s_3$), sowie den Gesamtweg.
 
 <p style="margin-left:10%">
 
@@ -1594,7 +1598,7 @@ Die Fläche ergibt sich aus einem Rechteck ($2s\cdot 1\frac{m}{s}=2m$) und einem
 
 ### Übungsaufgabe 4 zu den Bewegungsgleichungen (3.6)
 
-4. 1. Ein Fahrzeug fährt auf der Autobahn mit einer Geschwindigkeit von 144 km/h. Plötzlich erkennt der Fahrer 200m vor ihm ein stehendes Fahrzeug und er tritt sofort auf die Bremse. Dabei kann das Fahrzeug mit einer Beschleunigung von $-5\frac{m}{s^2}$ gleichmäßg bremsen. Zeige durch Berechnung, ob es zu einem Aufprall kommt oder nicht.
+4. 1. (++) Ein Fahrzeug fährt auf der Autobahn mit einer Geschwindigkeit von 144 km/h. Plötzlich erkennt der Fahrer 200m vor ihm ein stehendes Fahrzeug und er tritt sofort auf die Bremse. Dabei kann das Fahrzeug mit einer Beschleunigung von $-5\frac{m}{s^2}$ gleichmäßg bremsen. Zeige durch Berechnung, ob es zu einem Aufprall kommt oder nicht.
 
 <p style ="margin-left:5%">
 
@@ -1613,28 +1617,31 @@ Stelle für das Fahrzeug die Bewegungsgleichung s(t) und v(t) für eine gleichm�
 
 </details>
 
+<details style ="margin-left:5%">
 
 <summary> Lösungsweg </summary>
 
-Die Bewegungsgleichungen für eine gleichmäßig beschleunigte Bewegung lauten (keine Anfangsgeschwindigkeit $v_0$, kein Anfangsweg $s_0$):
+Die Bewegungsgleichungen für eine gleichmäßig beschleunigte Bewegung lauten (mit Anfangsgeschwindigkeit $v_0$, kein Anfangsweg $s_0$):
 
-> $s(t) = \frac{1}{2} \cdot a \cdot t^2$
+> $s(t) = \frac{1}{2} \cdot a \cdot t^2 + v_0 \cdot t$
 >
-> $v(t) = a \cdot t$
+> $v(t) = a \cdot t + v_0$
 
-Da der ICE von 0 auf 180km/h (50m/s) beschleunigt, kann man mit der Gleichung v(t)=50m/s die Beschleunigungszeit ausrechnen
+Das Fahrzeug hat eine Anfangsgeschwindigkeit $v_0 = 144 \frac{km}{h} \overset{:3,6}{=} 40 \frac{m}{s}$. Die Endgeschwindigkeit ist Null. Man kann für die zweite Gleichung noch die Beschleunigung nutzen und damit die Bremszeit ausrechnen.
 
-> $50 \frac{m}{s} = 2 \frac{m}{s^2} \cdot t$
+> $0 \frac{m}{s} = -5 \frac{m}{s^2} \cdot t + 40 \frac{m}{s}$
 >
-> => $\underline{t = 25 s}$
+> => $\underline{t = 8 s}$
 
-Jetzt kann man diese Zeit in die erste Gleichung s(t) einsetzen und erhält als Gesamtstrecke $s= \frac{1}{2} \cdot 2\frac{m}{s^2} \cdot (25s)^2 = 625m$.
+Jetzt kann man diese Zeit in die erste Gleichung s(t) einsetzen und erhält als Gesamtstrecke $s=\frac{1}{2} \cdot -5\frac{m}{s^2} \cdot (8s)^2 + 40 \frac{m}{s} \cdot 8s = 160 m$.
 
-> => $s=625 m$
+Der Bremsweg genügt, um eine Kollision zu verhindern.
 
 </details>
 
-4. 2. Ein Fahrzeug (A) steht an einer Ampel. Als die Ampel auf grün schaltet fährt es mit einer Beschleunigung von 1,5 m/s² los. Im Moment des Losfahrens überholt ein zweites Auto (B) auf der zweiten Spur mit einer Geschwindigkeit von 80 km/h. Es bewegt sich gleichförmig. Ermittle den Überhol-Zeitpunkt, die Strecke, an welchem das erste Auto, das zweite Auto überholt und die Überholgeschwindigkeit (in km/h).
+---
+
+4. 2. (+++) Ein Fahrzeug (A) steht an einer Ampel. Als die Ampel auf grün schaltet fährt es mit einer Beschleunigung von 1,5 m/s² los. Im Moment des Losfahrens überholt ein zweites Auto (B) auf der zweiten Spur mit einer Geschwindigkeit von 80 km/h. Es bewegt sich gleichförmig. Ermittle den Überhol-Zeitpunkt, die Strecke, an welchem das erste Auto, das zweite Auto überholt und die Überholgeschwindigkeit (in km/h).
 
 <p style ="margin-left:5%">
 
@@ -1699,11 +1706,11 @@ Die Geschwindigkeit des Fahrzeugs A berechnet sich mit $v_A = a_A \cdot t$ zu
 </details>
 
 
-### Übungsaufgabe 5 Zuordnung Graphen (*)
+### Übungsaufgabe 5 Zuordnung Graphen
 
 <p class="newspaper">
 
-Gegeben sind folgende v(t)-Graphen für 7 verschiedene Fälle.
+(+++) Gegeben sind folgende v(t)-Graphen für 7 verschiedene Fälle.
 
 ![Faelle_vt](https://diversewolken.ddns.net/nextcloud/index.php/s/L8Y8XrqrZpBX6Tt/download)
 
