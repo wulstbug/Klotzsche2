@@ -682,8 +682,6 @@ $s = 250 m$
 
 ## 3.7. Analyse in v(t)-Diagrammen
 
-[Anim](https://www.canva.com/design/DAGm9tBDPQs/3-TTvOMqfXllnsqV8XnYFQ/edit?utm_content=DAGm9tBDPQs&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
-
 <p class="newspaper">
 
 {1}{__Beschleunigung a aus dem v(t)-Diagramm ermitteln__}
