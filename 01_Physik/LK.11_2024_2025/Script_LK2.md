@@ -5158,9 +5158,12 @@ Zeichne einen Graphen mit $n=\dfrac{N_1}{N_2}$ auf der x-Achse und $n'= \dfrac{U
 | 0.33 | 0.35 | 0.33 |
 *********
 
+{{3}}
+*********
 > Bei einem __realen unbelasteten__ Transformator gilt:
 >
 > $$\dfrac{U_1}{U_2} > \dfrac{N_1}{N_2}$$
+*********
 
 #### Begriffsklärung: Transformator
 
