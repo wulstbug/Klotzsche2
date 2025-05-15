@@ -1590,7 +1590,7 @@ Ermitteln Sie für die Intervalle geometrisch die Fläche unter den Graphen
 
 <summary> Lösung $s_1$</summary>
 
-Die Fläche ergibt sich aus einem Rechteck ($2s\cdot 1\frac{m}{s}=2m$) und einem rechtwinkligen Dreieck ($\frac{1}{2}$2s\cdot 2\frac{m}{s}=2m$). Somit ergibt sich $s_1=4m$
+Die Fläche ergibt sich aus einem Rechteck ($2s\cdot 1\frac{m}{s}=2m$) und einem rechtwinkligen Dreieck ($\frac{1}{2}\cdot 2\frac{m}{s}\cdot 2s=2m$). Somit ergibt sich $s_1=4m$.
 
 </details>
 
