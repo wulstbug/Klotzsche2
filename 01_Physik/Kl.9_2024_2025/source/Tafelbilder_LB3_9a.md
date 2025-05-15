@@ -972,7 +972,7 @@ $s = \frac{1}{2} \cdot 10\frac{m}{s} \cdot 20s = 100m$
 __E-F__
 
 <!-- data-solution-button="off" -->
-$s$ = [[ 100 ]] $m$
+$s$ = [[ 200 ]] $m$
 
 <details style="margin-left:5%">
 
