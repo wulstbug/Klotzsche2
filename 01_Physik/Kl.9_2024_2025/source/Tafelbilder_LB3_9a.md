@@ -1131,7 +1131,7 @@ Die Fläche ergibt sich aus einem Rechteck ($2s\cdot 1\frac{m}{s}=2m$) und einem
 
 <!-- data-solution-button="off" -->
 - [( )] Ja
-- [( )] Nein
+- [(x)] Nein
 
 </p>
 
