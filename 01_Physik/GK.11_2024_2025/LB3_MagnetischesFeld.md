@@ -7,16 +7,15 @@ language: de
 .lia-effect__circle {
     display: none !important;
 }
+.lia-slide__footer {
+     display: none !important;
+} 
+
 
 @media (min-width: 600px) {
     .newspaper {
         column-count: 2;
         column-gap: 40px;
-        column-rule: 1px solid lightblue;
-    }
-    .newspaper3 {
-        column-count: 3;
-        column-gap: 20px;
         column-rule: 1px solid lightblue;
     }
 }
@@ -28,32 +27,84 @@ h1, h2, h3, h4, h5, h6 {
 .cb {
     break-before: column;
 }
-
-.blue {
-    color:blue
-}
-
-.green {
-    color:darkgreen
-}
-
-.red {
-    color:darkgreen
-}
-@end
-
-@color
-<bdi style="color:@1">@0</bdi>
 @end
 
 @onload
 window.LIA.settings.font_size = 2
 @end
 
+@color
+<bdi style="color:@1">@0</bdi>
+@end
+
+@uhr
+
+<div style="position: fixed; right:50px; top:100px;">
+
+<details>
+
+<summary> Uhrzeit </summary>
+
+<div style="text-align:left;padding:1em 0;"> 
+
+<iframe src="https://www.zeitverschiebung.net/clock-widget-iframe-v2?language=de&size=large&timezone=Europe%2FBerlin" width="100%" height="150" frameborder="0" seamless></iframe> 
+
+</div>
+
+</details>
+
+</div>
+
+@end
+
+@timer
+
+<div style="position: fixed; right:50px; top:100px;">
+
+<details>
+
+<summary> Timer(@0:@1) </summary>
+
+<div style="text-align:left;padding:1em 0;"> 
+
+<iframe width="200" height="90" src="https://webuhr.de/embed/timer/#countdown=00:@0:@1&enabled=0&onzero=0&theme=0&ampm=0&sound=xylophone" frameborder="0" allowfullscreen>
+
+</iframe> 
+
+</div>
+
+</details>
+
+</div>
+
+@end
+
+@timer2
+
+<div style="position: fixed; right:50px; top:300px;">
+
+<details>
+
+<summary> Timer(@0:@1) </summary>
+
+<div style="text-align:left;padding:1em 0;"> 
+
+<iframe width="200" height="90" src="https://webuhr.de/embed/timer/#countdown=00:@0:@1&enabled=0&onzero=0&theme=0&ampm=0&sound=xylophone" frameborder="0" allowfullscreen>
+
+</iframe> 
+
+</div>
+
+</details>
+
+</div>
+
+@end
+
 @rangeQuiz2
 <div style="display: flex;flex-direction: row;flex-wrap: nowrap">
 <div style="float:left">
-@0$\ =\ $
+@0$\ $=$\ $ 
 </div> 
 <div style="float:left">
 <!-- data-solution-button="off" -->
@@ -98,7 +149,7 @@ try {
 </div>
 @end
 
-@@@ ogy.de/11ph3 deaktivieren: https://ogy.de/del.cvv2y5l7old0u7gamlc1
+@@@ ogy.de/11Ph2 deaktivieren: https://ogy.de/del.cvv2y5l7old0u7gamlc1
 
 -->
 
@@ -288,7 +339,7 @@ __Aufgabe 1.2.1__
 
 Ein gerader Leiter mit einer Länge von 2 m wird von einem Strom von 5 A durchflossen. Er befindet sich in einem Magnetfeld mit einer Flussdichte $B$. Die magnetische Kraft auf den Leiter beträgt 0,5 N. Berechne $B$!
 
-@rangeQuiz2(B, 0.05, T)
+@rangeQuiz2(B,0.05,T)
 
 __Aufgabe 1.2.2__
 
