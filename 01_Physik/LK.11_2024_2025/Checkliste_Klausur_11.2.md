@@ -28,9 +28,6 @@ h1, h2, h3, h4, h5, h6 {
 
 # Checkliste Klausur 22.05.2025
 
-
-## Checkliste Klausur 11ph3 28.04.25
-
 __Grundlagen magnetische Kraft/magnetisches Feld:__
 
 - Lorentzkraft auf eine bewegte Ladung im homogenen Magnetfeld (Formel und Handregeln) [Übungsaufgabe-Lorentzkraft](https://liascript.github.io/nightly/?https://raw.githubusercontent.com/wulstbug/Klotzsche2/2024_2025/01_Physik/GK.11_2024_2025/LB4_GeladeneTeilchen_StatischeFelder.md#4)
