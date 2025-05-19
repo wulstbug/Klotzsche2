@@ -5341,98 +5341,6 @@ alternativer Link für eigene Geräte
 [KI-OpenWebUI-BYOD](https://subtle-corgi-firmly.ngrok-free.app)
 
 
-#### Experiment: Realer Transformator
-
-<p class="newspaper">
-
-__Aufgabe:__ 
-
-Baue einen Transformator nach folgendem Vorbild auf. Nutze die Cassy-Messgeräte um Primär- und Sekundärspannung für verschiedene Kominationen aus Primär- und Sekundärwindungszahl zu untersuchen.
-
-__Einstellungen:__
-
-Nutze am Spannungsversorgungsgerät die Einstellung: __Wechselspannung, 6V__. Nutze am Cassy-Messgerät die Einstellung für die __Erfassung: Effektivwerte (AC+DC)__
-
-__Analyse:__ 
-
-Zeichne einen Graphen mit $n=\dfrac{N_1}{N_2}$ auf der x-Achse und $n'= \dfrac{U_1}{U_2}$ auf der y-Achse.
-
-<p class="cb">
-
-![Aufbau_Transformator](https://diversewolken.ddns.net/nextcloud/index.php/s/pmQD7JM7pBTG45k/download)
-
-</p>
-
-</p>
-
-{{0-1}}
-*********
-<!--
-     data-schow="false"
-     data-title=""
-     data-type="line"
-     data-xlabel="N1/N2"
-     data-ylabel="U1/U2"
--->
-| $n=\dfrac{N_1}{N_2} $ | $U_1$ in V | $U_2$ in V | $n' = \dfrac{U_1}{U_2}$ |
-| ---- | ---- | ---- | ---- |
-| $\dfrac{2400}{800}=3$ | .. | .. | .. |
-| $\dfrac{2400}{1600}=1,5$ | .. | .. | .. |
-| $\dfrac{2400}{2400}=1$ | .. | .. | .. |
-| $\dfrac{1600}{800}=2$ | .. | .. | .. |
-| $\dfrac{1600}{1600}=1$ | .. | .. | .. |
-| $\dfrac{1600}{2400}=0,67$ | .. | .. | .. |
-| $\dfrac{800}{800}=1$ | .. | .. | .. |
-| $\dfrac{800}{1600}=0,5$ | .. | .. | .. |
-| $\dfrac{800}{2400}=0,33$ | .. | .. | .. |
-*********
-
-{{1-2}}
-*********
-<!--
-     data-schow="false"
-     data-title=""
-     data-type="line"
-     data-xlabel="N1/N2"
-     data-ylabel="U1/U2"
--->
-| $n=\dfrac{N_1}{N_2}$ | $U_1$ in V | $U_2$ in V | $n' = \dfrac{U_1}{U_2}$ |
-| ---- | ---- | ---- | ---- |
-| $\dfrac{2400}{800}=3$ | 6,5 | 2,01 | .. |
-| $\dfrac{2400}{1600}=1,5$ | 6,5 | 4,05 | .. |
-| $\dfrac{2400}{2400}=1$ | 6,5 | 6,07 | .. |
-| $\dfrac{1600}{800}=2$ | 6,5 | 3,04 | .. |
-| $\dfrac{1600}{1600}=1$ | 6,5 | 6,11 | .. |
-| $\dfrac{1600}{2400}=0,67$ | 6,5 | 9,15 | .. |
-| $\dfrac{800}{800}=1$ | 6,5 | 6,09 | .. |
-| $\dfrac{800}{1600}=0,5$ | 6,5 | 12,25 | .. |
-| $\dfrac{800}{2400}=0,33$ | 6,5 | 18,33 | .. |
-*********
-
-
-{{2}}
-*********
-<!--
-     data-show="false"
-     data-title=""
-     data-type="line"
-     data-xlabel="N1/N2"
-     data-ylabel="U1/U2"
--->
-| n | n' | n |
-| ---- | ---- | ---- |
-| 0 | 0 | 0 |
-| 3 | 3.23 | 3 |
-| 1.5 | 1.62 | 1.5 |
-| 1 | 1.07 | 1 |
-| 2 | 2.14 | 2 |
-| 1 | 1.06 | 1 |
-| 0.67 | 0.71 | 0.67 |
-| 1 | 1.07 | 1 |
-| 0.5 | 0.53 | 0.5 | 
-| 0.33 | 0.35 | 0.33 |
-*********
-
 
 ## Checkliste Klausur 11ph3 28.04.25
 
@@ -5622,3 +5530,152 @@ Passwort: phy-@color(xx,red)
 alternativer Link für eigene Geräte
 
 [KI-OpenWebUI-BYOD](https://subtle-corgi-firmly.ngrok-free.app)
+
+
+#### Experiment: Realer Transformator
+
+<p class="newspaper">
+
+__Aufgabe:__ 
+
+Baue einen Transformator nach folgendem Vorbild auf. Nutze die Cassy-Messgeräte um Primär- und Sekundärspannung für verschiedene Kominationen aus Primär- und Sekundärwindungszahl zu untersuchen.
+
+__Einstellungen:__
+
+Nutze am Spannungsversorgungsgerät die Einstellung: __Wechselspannung, 6V__. Nutze am Cassy-Messgerät die Einstellung für die __Erfassung: Effektivwerte (AC+DC)__
+
+__Analyse:__ 
+
+Zeichne einen Graphen mit $n=\dfrac{N_1}{N_2}$ auf der x-Achse und $n'= \dfrac{U_1}{U_2}$ auf der y-Achse.
+
+<p class="cb">
+
+![Aufbau_Transformator](https://diversewolken.ddns.net/nextcloud/index.php/s/pmQD7JM7pBTG45k/download)
+
+</p>
+
+</p>
+
+{{0-1}}
+*********
+<!--
+     data-schow="false"
+     data-title=""
+     data-type="line"
+     data-xlabel="N1/N2"
+     data-ylabel="U1/U2"
+-->
+| $n=\dfrac{N_1}{N_2} $ | $U_1$ in V | $U_2$ in V | $n' = \dfrac{U_1}{U_2}$ |
+| ---- | ---- | ---- | ---- |
+| $\dfrac{2400}{800}=3$ | .. | .. | .. |
+| $\dfrac{2400}{1600}=1,5$ | .. | .. | .. |
+| $\dfrac{2400}{2400}=1$ | .. | .. | .. |
+| $\dfrac{1600}{800}=2$ | .. | .. | .. |
+| $\dfrac{1600}{1600}=1$ | .. | .. | .. |
+| $\dfrac{1600}{2400}=0,67$ | .. | .. | .. |
+| $\dfrac{800}{800}=1$ | .. | .. | .. |
+| $\dfrac{800}{1600}=0,5$ | .. | .. | .. |
+| $\dfrac{800}{2400}=0,33$ | .. | .. | .. |
+*********
+
+{{1-2}}
+*********
+<!--
+     data-schow="false"
+     data-title=""
+     data-type="line"
+     data-xlabel="N1/N2"
+     data-ylabel="U1/U2"
+-->
+| $n=\dfrac{N_1}{N_2}$ | $U_1$ in V | $U_2$ in V | $n' = \dfrac{U_1}{U_2}$ |
+| ---- | ---- | ---- | ---- |
+| $\dfrac{2400}{800}=3$ | 6,5 | 2,01 | .. |
+| $\dfrac{2400}{1600}=1,5$ | 6,5 | 4,05 | .. |
+| $\dfrac{2400}{2400}=1$ | 6,5 | 6,07 | .. |
+| $\dfrac{1600}{800}=2$ | 6,5 | 3,04 | .. |
+| $\dfrac{1600}{1600}=1$ | 6,5 | 6,11 | .. |
+| $\dfrac{1600}{2400}=0,67$ | 6,5 | 9,15 | .. |
+| $\dfrac{800}{800}=1$ | 6,5 | 6,09 | .. |
+| $\dfrac{800}{1600}=0,5$ | 6,5 | 12,25 | .. |
+| $\dfrac{800}{2400}=0,33$ | 6,5 | 18,33 | .. |
+*********
+
+
+{{2-3}}
+*********
+<!--
+     data-show="false"
+     data-title=""
+     data-type="line"
+     data-xlabel="N1/N2"
+     data-ylabel="U1/U2"
+-->
+| n | n' | n |
+| ---- | ---- | ---- |
+| 0 | 0 | 0 |
+| 3 | 3.23 | 3 |
+| 1.5 | 1.62 | 1.5 |
+| 1 | 1.07 | 1 |
+| 2 | 2.14 | 2 |
+| 1 | 1.06 | 1 |
+| 0.67 | 0.71 | 0.67 |
+| 1 | 1.07 | 1 |
+| 0.5 | 0.53 | 0.5 | 
+| 0.33 | 0.35 | 0.33 |
+*********
+
+{{3-4}}
+*********
+| n | n' | n | n/n' |
+| ---- | ---- | ---- | --- |
+| 0 | 0 | 0 | - |
+| 3 | 3.23 | 3 | |
+| 1.5 | 1.62 | 1.5 | |
+| 1 | 1.07 | 1 | |
+| 2 | 2.14 | 2 | |
+| 1 | 1.06 | 1 | |
+| 0.67 | 0.71 | 0.67 | |
+| 1 | 1.07 | 1 | |
+| 0.5 | 0.53 | 0.5 | |
+| 0.33 | 0.35 | 0.33 | |
+*********
+
+{{4}}
+*********
+| n | n' | n | n/n' |
+| ---- | ---- | ---- | --- |
+| 0 | 0 | 0 | - |
+| 3 | 3.23 | 3 | 0.93 |
+| 1.5 | 1.62 | 1.5 | 0.93 |
+| 1 | 1.07 | 1 | 0.93 |
+| 2 | 2.14 | 2 | 0.93 |
+| 1 | 1.06 | 1 | 0.94 |
+| 0.67 | 0.71 | 0.67 | 0.94 |
+| 1 | 1.07 | 1 | 0.93 |
+| 0.5 | 0.53 | 0.5 | 0.94 |
+| 0.33 | 0.35 | 0.33 | 0.94 |
+*********
+
+{{5}}
+*********
+> Bei einem __realen unbelasteten__ Transformator gilt:
+>
+> $$\dfrac{U_1}{U_2} > \dfrac{N_1}{N_2}$$
+*********
+
+#### Begriffsklärung: Transformator
+
+> __Idealer vs. realer Transformator__: Der ideale Transformator ist ein theoretisches Modell, bei dem einige Vereinfachungen (Idealisierungen) angenommen werden. <br> Zum Beispiel:
+>
+> - das magnetische Feld verläuft zu 100% im Inneren des Eisenkerns (d.h. die erzeugte magnetische Flussdichte in der Primärspule ist identisch mit der wirkenden magnetischen Flussdichte in der Sekundärspule)
+>
+> - der Draht der Wicklungen hat keinen elektrischen Widerstand (es entstehen keine Wärmeverluste)
+>
+> - innerhalb des Eisenkerns werden keine Wirbelströme induziert (keine Verluste, keine Hysterese)
+
+> __Belasteter vs. unbelasteter Transformator__: Bei einem unbelasteten Trafo wird angenommen, dass im Sekundärstromkreis kein Verbraucher angeschlossen ist, d.h. es fließt kein Sekundärstrom. Die Gleichung 
+>
+> $$\dfrac{U_1}{U_2} = \dfrac{N_1}{N_2}$$
+>
+> gilt nur für einen __unbelasteten idealen Transformator__.
+
