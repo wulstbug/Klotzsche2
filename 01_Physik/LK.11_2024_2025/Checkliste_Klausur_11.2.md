@@ -46,7 +46,7 @@ __Bewegung elektrischer Ladungen im B-Feld oder E-Feld:__
 
 - Beschleunigung einer elektrischen Ladung im elektrischen Feld (Längsfeld / Elektronenkanone) [Übung-Elektronenkanone-Aufgaben-2](https://virtuelle-experimente.de/kanone/uebungen/aufgaben.php)
 
-- Bewegung einer elektrischen Ladung im elektrischen Feld (Querfeld / Ablenkröhre) [Übung-Ablenkröhre-Aufgaben-2-5b+d](https://virtuelle-experimente.de/kanone/uebungen/aufgaben.php)
+- Bewegung einer elektrischen Ladung im elektrischen Feld (Querfeld / Ablenkröhre) [Übung-Ablenkröhre-Aufgaben-2-5b+c+d](https://virtuelle-experimente.de/kanone/uebungen/aufgaben.php)
 
 - Anwendung [Geschwindigkeitsfilter](https://liascript.github.io/nightly/?https://raw.githubusercontent.com/wulstbug/Klotzsche2/2024_2025/01_Physik/LK.11_2024_2025/Script_SuS_LB7_TeilchenInStatischenFeldern.md#11)
 
