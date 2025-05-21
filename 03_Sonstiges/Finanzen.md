@@ -37,8 +37,8 @@ window.LIA.settings.font_size = 2
 
 # Finanzen Christian/Swaantje
 
-[Klick hier: Tabelle](https://gykl-my.sharepoint.com/:x:/g/personal/golnik_ch_gykl_onmicrosoft_com/ERnH4tfkACxAjdUDrP44F5ABI3340qxTtIjhuu_g7FS0-A?e=TlNWfJ)
-
 ??[Question](https://forms.office.com/Pages/ResponsePage.aspx?id=OYkUKbuZEE6zqVVLeyuod-N98JNwJnhAr0ZoZo5y2cdUODhYSEhHSEZIMVVBVkFOUjJNSkZSRUYzNS4u)
 
 <iframe width="100%" height="600" frameborder="0" scrolling="no" src="https://gykl-my.sharepoint.com/personal/golnik_ch_gykl_onmicrosoft_com/_layouts/15/Doc.aspx?sourcedoc={d7e2c719-00e4-402c-8dd5-03acfe381790}&action=embedview&wdAllowInteractivity=False&wdHideGridlines=True&wdHideHeaders=True&wdDownloadButton=True&wdInConfigurator=True&wdInConfigurator=True"></iframe>
+
+[Table](https://m365.cloud.microsoft/launch/excel?auth=2)
