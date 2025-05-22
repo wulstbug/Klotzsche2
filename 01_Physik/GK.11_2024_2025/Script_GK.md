@@ -4927,6 +4927,8 @@ alternativer Link für eigene Geräte
 > $\hspace{1cm}$ B .. magnetische Flussdichte
 >
 > $\hspace{1cm}$ A .. vom Magnetfeld durchsetzte Fläche
+>
+> $\hspace{1cm}$ __Einheit:__ $\Big[ 1\,Wb = 1\,T\cdot m^2 = 1 V \cdot s \Big] $ (Wb _gesprochen_ Weber)
 ********
 
 {{3}}
