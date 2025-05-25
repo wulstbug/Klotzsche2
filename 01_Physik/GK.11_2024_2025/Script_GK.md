@@ -5681,3 +5681,128 @@ Zeichne einen Graphen mit $n=\dfrac{N_1}{N_2}$ auf der x-Achse und $n'= \dfrac{U
 >
 > gilt nur für einen __unbelasteten idealen Transformator__.
 
+### 1.5 Ermittlung der Induktionsspannung
+
+
+> Ist der zeitliche Graphen $\Phi(t)$ gegeben, so lässt sich die Induktionsspannung daraus ermitteln.
+
+__Beispiel: mit N=1__
+
+
+<!--
+     data-show
+     data-title=""
+     data-type="line"
+     data-fontSize="16pt"
+     data-xlabel="t in s"
+     data-ylabel="Φ in Wb"
+-->
+| t in s | Φ in Wb | 
+| :---: | :---: |
+| 0 | 10 |
+| 10 | 10 |
+| 20 | 40 |
+| 30 | 40 |
+| 50 | 0 |
+| 60 | 0 |
+| 70 | 10 |
+
+
+{{6}}
+**************
+<!--
+     data-show
+     data-title=""
+     data-type="line"
+     data-fontSize="16pt"
+     data-xlabel="t in s"
+     data-ylabel="Φ in Wb"
+-->
+| t in s | U in V | 
+| :---: | :---: |
+| 0 | 0 |
+| 10 | 0 |
+| 10 | -3 |
+| 20 | -3 |
+| 20 | 0 |
+| 30 | 0 |
+| 30 | 2 |
+| 50 | 2 |
+| 50 | 0 |
+| 60 | 0 |
+| 60 | -1 |
+| 70 | -1 |
+**************
+
+{{1}}
+**************
+
+<p class="newspaper3">
+
+<p style="margin-left:5%">
+
+__Abschnitt 1: 0-10 s__
+
+{{2}}
+**************
+     $\Delta t = 10 s$ 
+
+     $\Delta \Phi$ = 0$
+
+     $U_{ind} = - \frac{\Delta \Phi}{\Delta t}$
+
+     $U_{ind} = 0 V$
+**************
+
+</p>
+
+<p class="cb">
+
+<p style="margin-left:5%">
+
+__Abschnitt 1: 10-20 s__
+
+{{3}}
+**************
+     $\Delta t = 10 s$ 
+
+     $\Delta \Phi$ = 30$
+
+     $U_{ind} = - \frac{\Delta \Phi}{\Delta t}$
+
+     $U_{ind} = -3 V$
+**************
+
+</p>
+
+<p class="cb">
+
+<p style="margin-left:5%">
+
+__Abschnitt 1: 30-50 s__
+
+{{4}}
+**************
+     $\Delta t = 20 s$ 
+
+     $\Delta \Phi$ = -40 Wb$
+
+     $U_{ind} = - \frac{\Delta \Phi}{\Delta t}$
+
+     $U_{ind} = ..$
+**************
+
+</p>
+
+</p>
+
+</p>
+
+</p>
+
+**************
+
+{{5}}
+**************
+__Zeichne ein $U_ind(t)$-Diagramm für den dargestellten Zeitabschnitt.__
+**************
