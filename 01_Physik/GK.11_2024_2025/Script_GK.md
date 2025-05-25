@@ -5683,7 +5683,7 @@ Zeichne einen Graphen mit $n=\dfrac{N_1}{N_2}$ auf der x-Achse und $n'= \dfrac{U
 
 ### 1.5 Ermittlung der Induktionsspannung
 
-> Ist der zeitliche Graphen $\Phi(t)$ gegeben, so lässt sich die Induktionsspannung daraus ermitteln.
+> Ist der zeitliche Verlauf $\Phi(t)$ gegeben, so lässt sich die Induktionsspannung daraus ermitteln.
 
 __Beispiel: mit N=1__
 
@@ -5715,7 +5715,7 @@ __Beispiel: mit N=1__
      data-type="line"
      data-fontSize="16pt"
      data-xlabel="t in s"
-     data-ylabel="Φ in Wb"
+     data-ylabel="U in V"
 -->
 | t in s | U in V | 
 | :---: | :---: |
