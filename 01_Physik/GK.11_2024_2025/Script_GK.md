@@ -5681,11 +5681,11 @@ Zeichne einen Graphen mit $n=\dfrac{N_1}{N_2}$ auf der x-Achse und $n'= \dfrac{U
 >
 > gilt nur für einen __unbelasteten idealen Transformator__.
 
-### 1.5 Ermittlung der Induktionsspannung
+### 1.5 Ermittlung der Induktionsspannung I
 
 > Ist der zeitliche Verlauf $\Phi(t)$ gegeben, so lässt sich die Induktionsspannung daraus ermitteln.
 
-__Beispiel: mit N=1__
+__Beispiel 1: mit N=1__
 
 
 <!--
@@ -5706,32 +5706,6 @@ __Beispiel: mit N=1__
 | 60 | 0 |
 | 70 | 10 |
 
-
-{{6}}
-**************
-<!--
-     data-show
-     data-title=""
-     data-type="line"
-     data-fontSize="16pt"
-     data-xlabel="t in s"
-     data-ylabel="U in V"
--->
-| t in s | U in V | 
-| :---: | :---: |
-| 0 | 0 |
-| 10 | 0 |
-| 10 | -3 |
-| 20 | -3 |
-| 20 | 0 |
-| 30 | 0 |
-| 30 | 2 |
-| 50 | 2 |
-| 50 | 0 |
-| 60 | 0 |
-| 60 | -1 |
-| 70 | -1 |
-**************
 
 {{1}}
 **************
@@ -5804,4 +5778,75 @@ __Abschnitt 1: 30-50 s__
 {{5}}
 **************
 __Zeichne ein $U_ind(t)$-Diagramm für den dargestellten Zeitabschnitt.__
+
+<details style="margin-left:5%">
+
+<summary> Lösung </summary>
+
+<!--
+     data-show
+     data-title=""
+     data-type="line"
+     data-fontSize="16pt"
+     data-xlabel="t in s"
+     data-ylabel="U in V"
+-->
+| t in s | U in V | 
+| :---: | :---: |
+| 0 | 0 |
+| 10 | 0 |
+| 10 | -3 |
+| 20 | -3 |
+| 20 | 0 |
+| 30 | 0 |
+| 30 | 2 |
+| 50 | 2 |
+| 50 | 0 |
+| 60 | 0 |
+| 60 | -1 |
+| 70 | -1 |
+
+</details>
+
 **************
+
+### 1.5 Ermittlung der Induktionsspannung II
+
+[Anim](https://www.canva.com/design/DAGoewXkZs0/5YSps8DqBieGpQye9MDabA/edit?utm_content=DAGoewXkZs0&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+
+{{1}}
+************
+![DurchsetzteFläche](https://diversewolken.ddns.net/nextcloud/index.php/s/7gtg9MopxsGg3SN/download)
+************
+
+{{2}}
+************
+Die induzierte Spannung ist für den Generator definiert als
+
+> $U_{ind} = -N \cdot B \cdot \dfrac{\red{\mathrm{d} A}}{\red{\mathrm{d} t}}$
+
+************
+
+{{3-4}}
+************
+Die Ableitung der durchsetzten Fläche nach der Zeit ergibt:
+
+> $\dfrac{\red{\mathrm{d} A}}{\red{\mathrm{d} t}} = \dfrac{\red{\mathrm{d}}}{\red{\mathrm{d} t}} A_0 \cdot sin(2\pi f \cdot t)$
+************
+
+{{4}}
+************
+Die Ableitung der durchsetzten Fläche nach der Zeit ergibt:
+
+> $\dfrac{\red{\mathrm{d} A}}{\red{\mathrm{d} t}} = \dfrac{\red{\mathrm{d}}}{\red{\mathrm{d} t}} A_0 \cdot sin(2\pi f \cdot t) = - A_0 \cdot 2\pi f \cdot sin(2\pi f \cdot t)$
+************
+
+{{5}}
+************
+An einem Generator ergibt sich die induzierte Spannung als Sinus-Funktion:
+
+> $U_{ind}(t) = N \cdot B \cdot A_0 \cdot 2\pi f \cdot sin(2\pi f \cdot t)$
+>
+> ![Uind2](https://diversewolken.ddns.net/nextcloud/index.php/s/RDY5kJNYdkmL8b2/download)
+
+************
