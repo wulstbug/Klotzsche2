@@ -5720,7 +5720,7 @@ __Abschnitt 1: 0-10 s__
 **************
      $\Delta t = 10 s$ 
 
-     $\Delta \Phi = 0$
+     $\Delta \Phi = 0 Wb$
 
      $U_{ind} = - \frac{\Delta \Phi}{\Delta t}$
 
@@ -5739,7 +5739,7 @@ __Abschnitt 1: 10-20 s__
 **************
      $\Delta t = 10 s$ 
 
-     $\Delta \Phi = 30$
+     $\Delta \Phi = 30 Wb$
 
      $U_{ind} = - \frac{\Delta \Phi}{\Delta t}$
 
