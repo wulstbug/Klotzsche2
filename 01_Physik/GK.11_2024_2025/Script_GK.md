@@ -5831,14 +5831,14 @@ Die induzierte Spannung ist für den Generator definiert als
 ************
 Die Ableitung der durchsetzten Fläche nach der Zeit ergibt:
 
-> $\dfrac{\red{\mathrm{d} A}}{\red{\mathrm{d} t}} = \dfrac{\red{\mathrm{d}}}{\red{\mathrm{d} t}} A_0 \cdot sin(2\pi f \cdot t)$
+> $\dfrac{\red{\mathrm{d} A}}{\red{\mathrm{d} t}} = \dfrac{\red{\mathrm{d}}}{\red{\mathrm{d} t}} A_0 \cdot cos(2\pi f \cdot t)$
 ************
 
 {{4}}
 ************
 Die Ableitung der durchsetzten Fläche nach der Zeit ergibt:
 
-> $\dfrac{\red{\mathrm{d} A}}{\red{\mathrm{d} t}} = \dfrac{\red{\mathrm{d}}}{\red{\mathrm{d} t}} A_0 \cdot sin(2\pi f \cdot t) = - A_0 \cdot 2\pi f \cdot sin(2\pi f \cdot t)$
+> $\dfrac{\red{\mathrm{d} A}}{\red{\mathrm{d} t}} = \dfrac{\red{\mathrm{d}}}{\red{\mathrm{d} t}} A_0 \cdot cos(2\pi f \cdot t) = - A_0 \cdot 2\pi f \cdot sin(2\pi f \cdot t)$
 ************
 
 {{5}}
