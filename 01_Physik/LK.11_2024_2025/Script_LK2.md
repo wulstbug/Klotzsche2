@@ -5330,25 +5330,6 @@ alternativer Link für eigene Geräte
 
 ## Entwicklung Leistungen 11Ph2
 
-{{0-1}}
-*********
-<!--
-     data-show
-     data-title=""
-     data-type="line"
-     data-xlabel="Bewertung"
-     data-ylabel="Durchschnitt"
--->
-| Test | Durchschnittsnote | Trend(alt) |
-| ---- | ---- | ---- |
-| LK1 | 7.9 | 7.88 |
-| KA1 | 6.3 | 8.2 |
-| EX1 | 11.9| 8.52 |
-| KA2 | 7.7 | 8.84 |
-| LK2 | 8.8 | 9.16 |
-| KA3 | 8.7 | 9.5 |
-*********
-
 {{1}}
 *********
 <!--
@@ -5358,15 +5339,15 @@ alternativer Link für eigene Geräte
      data-xlabel="Bewertung"
      data-ylabel="Durchschnitt"
 -->
-| Test | Durchschnittsnote | Trend(alt) | Trend(neu) |
-| ---- | ---- | ---- | ---- |
-| LK1 | 7.9 | 7.88 | 8.03 |
-| KA1 | 6.3 | 8.2 | 8.2 |
-| EX1 | 11.9| 8.52 | 8.4 |
-| KA2 | 7.7 | 8.84 | 8.7 |
-| LK2 | 8.8 | 9.16 | 8.9 |
-| KA3 | 8.7  | 9.5 | 9.1 |
-| KA4 | 9.1 | 9.8 | 9.3 | 
+| Test | Durchschnittsnote | | Trend(neu) |
+| ---- | ---- | ---- |
+| LK1 | 7.9 | 8.03 |
+| KA1 | 6.3 | 8.2 |
+| EX1 | 11.9| 8.4 |
+| KA2 | 7.7 | 8.7 |
+| LK2 | 8.8 | 8.9 |
+| KA3 | 8.7  | 9.1 |
+| KA4 | 9.1 | 9.3 | 
 *********
 
 ![Ergebnisse_KA3](https://diversewolken.ddns.net/nextcloud/index.php/s/8srboQ4cKEFebQ3/download)
