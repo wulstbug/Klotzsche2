@@ -852,7 +852,7 @@ __Abschnitt 1: 0-10 s__
 **************
      $\Delta t = 10 s$ 
 
-     $\Delta \Phi$ = 0$
+     $\Delta \Phi = 0 Wb$
 
      $U_{ind} = - \frac{\Delta \Phi}{\Delta t}$
 
@@ -871,7 +871,7 @@ __Abschnitt 1: 10-20 s__
 **************
      $\Delta t = 10 s$ 
 
-     $\Delta \Phi$ = 30$
+     $\Delta \Phi = 30 Wb$
 
      $U_{ind} = - \frac{\Delta \Phi}{\Delta t}$
 
@@ -890,7 +890,7 @@ __Abschnitt 1: 30-50 s__
 **************
      $\Delta t = 20 s$ 
 
-     $\Delta \Phi$ = -40 Wb$
+     $\Delta \Phi = -40 Wb$
 
      $U_{ind} = - \frac{\Delta \Phi}{\Delta t}$
 
@@ -907,7 +907,7 @@ __Abschnitt 1: 30-50 s__
 
 {{5}}
 **************
-__Zeichne ein $U_ind(t)$-Diagramm für den dargestellten Zeitabschnitt.__
+__Zeichne ein $U_{ind}(t)$-Diagramm für den dargestellten Zeitabschnitt.__
 
 <details style="margin-left:5%">
 
