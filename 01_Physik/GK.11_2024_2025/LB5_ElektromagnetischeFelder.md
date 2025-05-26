@@ -846,7 +846,7 @@ __Beispiel 1: mit N=1__
 
 <p style="margin-left:5%">
 
-__Abschnitt 1: 0-10 s__
+__Abschnitt: 0-10 s__
 
 {{2}}
 **************
@@ -865,7 +865,7 @@ __Abschnitt 1: 0-10 s__
 
 <p style="margin-left:5%">
 
-__Abschnitt 1: 10-20 s__
+__Abschnitt: 10-20 s__
 
 {{3}}
 **************
@@ -884,7 +884,7 @@ __Abschnitt 1: 10-20 s__
 
 <p style="margin-left:5%">
 
-__Abschnitt 1: 30-50 s__
+__Abschnitt: 30-50 s__
 
 {{4}}
 **************
