@@ -5355,8 +5355,16 @@ alternativer Link für eigene Geräte
 {{2}}
 *************
 
-| | | | | | |
+<!--
+     data-show
+     data-title=""
+     data-type="line"
+     data-xlabel="Bewertung"
+     data-ylabel="Note"
+     data-transpose
+-->
 |	|LK1	|KA1	|KA2	|LK2	|KA3	|KA4 |
+| :---: | :---: | :---: | :---: | :---: | :---: |
 |#1	|6	|2	|5	|8	|10	|7 |
 |#2	|6	|5	|4	|8	|9	|9 |
 |#3	|9	|6	|9	|6	|10	|11 |
