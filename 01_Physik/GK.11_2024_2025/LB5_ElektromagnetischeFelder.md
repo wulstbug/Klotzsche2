@@ -667,7 +667,7 @@ __Vorläufige Erklärung:__
 
 > $$ \boxed{U_{ind} = \red{\textbf{-}}\, N \cdot \dfrac{\Delta\Phi}{\Delta t}} $$
 
-__Beispiel:__ Fallende Kugel 
+__Beispiel:__ Fallender Stabmagnet im Rohr 
 
 __Ursache für Induktion:__ Bewegung der Kugel im Rohr
 

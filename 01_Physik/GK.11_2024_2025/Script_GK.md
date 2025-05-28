@@ -5433,11 +5433,11 @@ __Vorläufige Erklärung:__
 
 > Die induzierte Spannung ist immer @color(so gerichtet, red), dass sie ihrer Ursache @color(entgegen, red) wirkt.
 
-> $$ \boxed{U_{ind} = \red{\textbf{-}}\, N \cdot \dfrac{\Delta\Phi}{\Delta t} $$
+> $$ \boxed{U_{ind} = \red{\textbf{-}}\, N \cdot \dfrac{\Delta\Phi}{\Delta t}} $$
 
-__Beispiel:__ Fallende Kugel 
+__Beispiel:__ Fallender Stabmagnet im Rohr
 
-__Ursache für Induktion:__ Bewegung der Kugel im Rohr
+__Ursache für Induktion:__ Bewegung des Stabmagneten im Rohr
 
 __Anwendung der Lenz'schen Regel:__ Die induzierte Spanung (und daher das induzierte Magnetfeld) ist so gerichtet, dass es der Ursache (Bewegung) entgegen wirkt.
 
