@@ -5267,7 +5267,7 @@ __Vorläufige Erklärung:__
 
 > Die induzierte Spannung ist immer @color(so gerichtet, red), dass sie ihrer Ursache @color(entgegen, red) wirkt.
 
-> $$ \boxed{U_{ind} = \red{\textbf{-}}\, N \cdot \dfrac{\Delta\Phi}{\Delta t} $$
+> $$ \boxed{U_{ind} = \red{\textbf{-}}\, N \cdot \dfrac{\Delta\Phi}{\Delta t}} $$
 
 __Beispiel:__ Fallende Kugel 
 
