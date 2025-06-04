@@ -5397,15 +5397,19 @@ alternativer Link für eigene Geräte
 
 __Aufgaben:__ 
 
-1. bauen Sie den Schaltkreis auf
+1. Bauen Sie den Schaltkreis auf
 
-2. lassen Sie sich die Schaltung abnehmen
+2. Lassen Sie sich die Schaltung abnehmen
 
-3. überprüfen Sie das Aufleuchten der beiden Lampen, wenn der Schalter geschlossen wird
+3. Überprüfen Sie das Aufleuchten der beiden Lampen, wenn der Schalter geschlossen wird
 
-4. beschreiben und erklären Sie ihre Beobachtung
+4. Beschreiben und erklären Sie ihre Beobachtung
 
-5. erklären Sie das Entstehen eines (Selbst-)Induktionsstroms
+5. Erklären Sie das Entstehen eines (Selbst-)Induktionsstroms
+
+![TB11](https://diversewolken.ddns.net/nextcloud/index.php/s/3XRf7RKpoDtSsz9/download)
+
+![TB22](https://diversewolken.ddns.net/nextcloud/index.php/s/3yzwwecbBCY4Dn5/download)
 
 </p>
 
@@ -5414,5 +5418,3 @@ __Aufgaben:__
 ![Herleitung1](https://diversewolken.ddns.net/nextcloud/index.php/s/fMG33JSBPQHNLTB/download)
 
 ![Herleitung2](https://diversewolken.ddns.net/nextcloud/index.php/s/4WBaq5AJgentTrc/download)
-
-![Herleitung3](https://diversewolken.ddns.net/nextcloud/index.php/s/tDZTbTbGt6NY2aN/download)

@@ -786,3 +786,36 @@ Passwort: phy-@color(xx,red)
 alternativer Link für eigene Geräte
 
 [KI-OpenWebUI-BYOD](https://subtle-corgi-firmly.ngrok-free.app)
+
+### 8.1.4 Selbstinduktion an Spulen
+
+> __Ändert__ sich das @color(__von einer Spule__, red) erzeugte Magnetfeld (__z.B. durch Ein- oder Ausschalten__), so wird in der Spule eine Spannung induziert. Man nennt diesen Effekt @color(__Selbstinduktion__, red). 
+
+> __Schlussfolgerung:__ Beim Ein- bzw. Ausschalten wirkt die @color(__Selbstinduktion__,red) nach der __Lenz'schen Regel__ so, dass der Auf- bzw. Abbau des magnetischen Feldes __behindert__ wird.
+
+
+#### Experiment zur Selbstinduktion
+
+![Schaltkreis](https://diversewolken.ddns.net/nextcloud/index.php/s/Gn4s3bXyXQJNRq3/download)
+
+<p style="color:blue">
+
+__Aufgaben:__ 
+
+1. Bauen Sie den Schaltkreis auf
+
+2. Lassen Sie sich die Schaltung abnehmen
+
+3. Überprüfen Sie das Aufleuchten der beiden Lampen, wenn der Schalter geschlossen wird
+
+4. Beschreiben und erklären Sie ihre Beobachtung
+
+5. Erklären Sie das Entstehen eines (Selbst-)Induktionsstroms
+
+</p>
+
+### 8.1.5 Induktivität einer Spule
+
+![Herleitung1](https://diversewolken.ddns.net/nextcloud/index.php/s/fMG33JSBPQHNLTB/download)
+
+![Herleitung2](https://diversewolken.ddns.net/nextcloud/index.php/s/4WBaq5AJgentTrc/download)
