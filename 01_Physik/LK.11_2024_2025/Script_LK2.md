@@ -5418,3 +5418,221 @@ __Aufgaben:__
 ![Herleitung1](https://diversewolken.ddns.net/nextcloud/index.php/s/fMG33JSBPQHNLTB/download)
 
 ![Herleitung2](https://diversewolken.ddns.net/nextcloud/index.php/s/4WBaq5AJgentTrc/download)
+
+__Induktivität der Schulspulen:__
+
+<p style="margin-left:5%">
+
+$ N = 2400$
+
+$ l = 0,047 m$
+
+$ A = (0,02 m)² = 4 10⁻⁴ m²$
+
+$ µ_r = 1$
+
+=> $ L = 0,062 H = 62 mH$
+
+</p>
+
+### 8.1.6 Energie im Magnetfeld einer Spule
+
+Die im magnetischen Feld einer Spule gespeicherte Energie kann mit der Formel 
+
+$$ \boxed{E_{mag} = \frac{1}{2} \cdot L \cdot I^2} $$
+
+ermittelt werden.
+
+#### Aufgabe 1
+
+1. Duden S. 376 / 41.
+
+<p style="margin-left:10%">
+
+@rangeQuiz2($L$, 3.33e-3 ,H)
+
+</p>
+
+<details style="margin-left:10%">
+
+<summary> __Lösungshinweis__ </summary>
+
+Ermitteln Sie zunächst die Induktivität der Spule.
+
+Ermitteln Sie für die 5 Zeitabschnitte jeweils die Änderung der Stromstärke $\Delta I$ mit der Zeit $\Delta t$. Nutzen Sie das Gesetz zur Selbstinduktion, um die jeweilige Spannung zu ermitteln. Achten Sie auf das richtige Vorzeichen der Spannung.
+
+</details>
+
+<details style="margin-left:10%">
+
+<summary> __Lösung__ </summary>
+
+![Lsg_Duden_376_41](https://diversewolken.ddns.net/nextcloud/index.php/s/q47wj7KjJaNNf32/download)
+
+<!--
+     data-show
+     data-title=""
+     data-type="line"
+     data-fontSize="16pt"
+     data-xlabel="t in s"
+     data-ylabel="U in mV"
+-->
+| t in s | U in mV | 
+| :---: | :---: |
+| 0 | 0 |
+| 10 | 0 |
+| 10 | 82.5 |
+| 20 | 82.5 |
+| 20 | 0 |
+| 30 | 0 |
+| 30 | -132 |
+| 35 | -132 |
+| 35 | 0 |
+| 45 | 0 |
+
+</details>
+
+#### Aufgabe 2
+
+2. An die Experimentierspule der Schule wird bei maximaler Windungszahl eine Spannung von 6V angelegt. Ermitteln Sie die im magnetischen Feld gespeicherte Energie.
+
+
+<p style="margin-left:10%">
+
+@rangeQuiz2($E_{mag}$, 68e-3 , J)
+
+</p>
+
+<details style="margin-left:10%">
+
+<summary> __Lösungshinweis__ </summary>
+
+Nutzen Sie für die Induktivität den aufgedruckten Wert. Nutzen Sie zur Ermittlung der Stromstärke den angegebenen Wert für den Ohmschen Widerstand der Spule.
+
+</details>
+
+<details style="margin-left:10%">
+
+<summary> __Lösung__ </summary>
+
+$L = 68 mH$
+
+$R = .. \Omega$
+
+=> $I = \frac{U}{R} = .. A$
+
+=> $E = \frac{1}{2} \cdot L \cdot I^2 = J$
+
+</details>
+
+#### Aufgabe 3
+
+3. Metzler S. 261/3
+
+<p style="margin-left:10%">
+
+__Überprüfung a):__
+
+@rangeQuiz2($\mu_r$, 884.6 , .)
+
+</p>
+
+<details style="margin-left:10%">
+
+<summary> __Lösungshinweis__ </summary>
+
+Nutzen Sie die Formel für die Induktivität um mit den gegebenen Werten die magnetische Permeabilität zu ermitteln.
+
+</details>
+
+<details style="margin-left:10%">
+
+<summary> __Lösung a__ </summary>
+
+geg.: 
+
+- $A = 20 cm^2 = 20 \cdot 10^{-4} m^2$
+
+- $n = 600$
+
+- $l = 0,4 m$
+
+- $I = 6 A$
+
+- $L = 2 H$
+
+ges.:
+
+- $\mu_r$
+
+Lsg.:
+
+Die Induktivität ergibt sich mit der Formel
+
+$$ L = \mu_0 \mu_r \frac{N^2 \cdot A}{l}$$
+
+und damit ergibt sich für $mu_r$
+
+$$ \mu_r = 884,6 $$
+
+</details>
+
+#### Aufgabe 4
+
+4. Metzler S. 257 / 1a
+
+<p style="margin-left:10%">
+
+__Überprüfung a):__
+
+@rangeQuiz2($\Delta B$, 0.003925 , T)
+
+@rangeQuiz2($U_{ind}$, -23.55 , V)
+
+</p>
+
+<details style="margin-left:10%">
+
+<summary> __Lösungshinweis__ </summary>
+
+Ermitteln Sie zunächst die von der Feldspule erzeugte magnetische Flussdichte und ermitteln Sie aus der Änderung der Stromstärke, die Änderung $\Delta B$.
+
+Nutzen Sie anschließend die Änderung $\Delta B$ im Zeitintervall $\Delta t$ um mit dem Induktionsgesetz die in der Induktionsspule induzierte Spannung zu ermitteln.
+
+</details>
+
+<details style="margin-left:10%">
+
+<summary> __Lösung a__ </summary>
+
+geg.: 
+
+- $\Delta I = 0,25 A$
+
+- $\Delta t = 7,5 \cdot 10^{-3} s$
+
+- $N_F = 7500$
+
+- $l_F = 0,6 m$
+
+- $N_{ind} = 1500$
+
+- $r_{ind} = 0,03 m$
+
+ges.:
+
+- $U_{ind}$
+
+Lsg.:
+
+Die Induktion wird hier von der Änderung des Magnetfeldes 
+$\Delta B$ erzeugt.
+
+$$ \Delta B = \mu_0 \cdot \frac{N_F \cdot \Delta I}{l_F} = 3,925 mT$$
+
+Diese Änderung des Magnetfeldes wirkt in der Induktionsspule im Zeitintervall $\Delta t$. Nach dem Induktionsgesetz ergibt sich
+
+
+$$ U_{ind} = - N_{ind} \cdot \frac{\Delta B}{\Delta t} = -23,55 V $$
+
+</details>
