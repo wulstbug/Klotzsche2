@@ -5382,3 +5382,34 @@ alternativer Link für eigene Geräte
 |15	|9	|12	|6	|8	|3	|9 |
 
 *************
+
+### 8.1.4 Selbstinduktion an Spulen
+
+> __Ändert__ sich das @color(__von einer Spule__, red) erzeugte Magnetfeld (__z.B. durch Ein- oder Ausschalten__), so wird in der Spule eine Spannung induziert. Man nennt diesen Effekt @color(__Selbstinduktion__, red). 
+
+> __Schlussfolgerung:__ Beim Ein- bzw. Ausschalten wirkt die @color(__Selbstinduktion__,red) nach der __Lenz'schen Regel__ so, dass der Auf- bzw. Abbau des magnetischen Feldes __behindert__ wird.
+
+#### Experiment zur Selbstinduktion
+
+![Schaltkreis]()
+
+<p style="color:blue">
+
+__Aufgaben:__ 
+
+- bauen Sie den Schaltkreis auf
+
+- weisen Sie mit Hilfe der LED nach, dass kurzzeitit ein Induktionsstrom fließt, wenn die Spule vom Netz getrennt wird
+
+- erklären Sie das Entstehen eines (Selbst-)Induktionsstroms
+
+- überprüfen Sie, ob ein Induktionsstrom fließt, wenn Sie den U-formigen Eisenkern ruckartig öffnen und wieder schließen
+
+- überprüfen Sie, ob ein Induktionsstrom fließt, wenn Sie den U-förmigen Eisenkern sehr langsam öffnen und wieder schließen
+
+- erklären Sie diesen Sachverhalt
+
+</p>
+
+### 8.1.5 Induktivität einer Spule
+
