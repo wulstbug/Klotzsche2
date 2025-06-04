@@ -5391,25 +5391,28 @@ alternativer Link für eigene Geräte
 
 #### Experiment zur Selbstinduktion
 
-![Schaltkreis]()
+![Schaltkreis](https://diversewolken.ddns.net/nextcloud/index.php/s/Gn4s3bXyXQJNRq3/download)
 
 <p style="color:blue">
 
 __Aufgaben:__ 
 
-- bauen Sie den Schaltkreis auf
+1. bauen Sie den Schaltkreis auf
 
-- weisen Sie mit Hilfe der LED nach, dass kurzzeitit ein Induktionsstrom fließt, wenn die Spule vom Netz getrennt wird
+2. lassen Sie sich die Schaltung abnehmen
 
-- erklären Sie das Entstehen eines (Selbst-)Induktionsstroms
+3. überprüfen Sie das Aufleuchten der beiden Lampen, wenn der Schalter geschlossen wird
 
-- überprüfen Sie, ob ein Induktionsstrom fließt, wenn Sie den U-formigen Eisenkern ruckartig öffnen und wieder schließen
+4. beschreiben und erklären Sie ihre Beobachtung
 
-- überprüfen Sie, ob ein Induktionsstrom fließt, wenn Sie den U-förmigen Eisenkern sehr langsam öffnen und wieder schließen
-
-- erklären Sie diesen Sachverhalt
+5. erklären Sie das Entstehen eines (Selbst-)Induktionsstroms
 
 </p>
 
 ### 8.1.5 Induktivität einer Spule
 
+![Herleitung1](https://diversewolken.ddns.net/nextcloud/index.php/s/fMG33JSBPQHNLTB/download)
+
+![Herleitung2](https://diversewolken.ddns.net/nextcloud/index.php/s/4WBaq5AJgentTrc/download)
+
+![Herleitung3](https://diversewolken.ddns.net/nextcloud/index.php/s/tDZTbTbGt6NY2aN/download)
