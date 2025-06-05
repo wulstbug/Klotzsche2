@@ -1264,3 +1264,123 @@ Ordne im folgenden Bild die x(t) Fälle den v(t) Fällen zu.
 </p>
 
 </p>
+
+
+### Demonstrationsexperiment
+
+<p class="newspaper">
+
+![FreierFall](https://diversewolken.ddns.net/nextcloud/index.php/s/dMrXH2DiyMxZLaY/download)
+
+<p class="cb">
+
+{{1}}
+**********
+__Aufgaben:__
+
+1. Wähle ein gut sichbares Objekt (hoher Kontrast). 
+
+2. Lass das Objekt vor der Tafel fallen und filme den Fall mit VIANA2 
+
+3. Erstelle ein s(t) Diagramm
+
+4. Nutze die Bewegungsgleichung $s(t)=\frac{1}{2}\cdot a \cdot t^2$ und ermittle für einen Datenpunkt die Beschleunigung der Bewegung.
+
+**********
+
+</p>
+
+</p>
+
+{{2}}
+**********
+Gib anschließen das Ergebnis __auf eine Kommastelle gerundet__ in die Umfrage in der Einheit m/s² ein.
+
+??[Umfrage](https://forms.office.com/Pages/ResponsePage.aspx?id=OYkUKbuZEE6zqVVLeyuod-N98JNwJnhAr0ZoZo5y2cdUQVE5VlBWSjc3MFVTQTkzQTJEQzA2TUZUNC4u)
+**********
+
+## 3.9 Der freie Fall: Eine gleichmäßig beschleunigte Bewegung
+
+Der @color(freie Fall, orange) beschreibt die Bewegung eines Körpers, welcher sich @color(ohne äußere Einwirkung, orange) und @color(ohne Berücksichtigung des Luftwiderstands, orange) im @color(im Einfluss der Schwerkraft], darkgreen) bewegt.
+
+__Es gelten folgende Bewegungsgleichungen:__
+
+> $$s(t) = \frac{1}{2} \cdot g \cdot t^2$$
+>
+> $$v(t) = g \cdot t$$
+>
+> __Hinweise:__ 
+>
+> 1. Für den freien Fall nutzen wir für die Beschleunigung nicht __a__ sondern den Buchstaben __g__ (@color(Ortsfaktor, orange))
+>
+> 2. Auf der Erde erfährt jeder Körper im freien Falle eine Beschleunigung von
+>
+> $$ \boxed{g = 9,81 \frac{m}{s^2}} $$
+
+
+
+### Aufgaben freier Fall
+
+1. Welche Aussage zum freien Fall ist korrekt?
+
+     [[ ]] Ein Körper im freien Fall hat eine konstante Geschwindigkeit.  
+     [[x]] Ein Körper im freien Fall erfährt eine konstante Beschleunigung.  
+     [[ ]] Die Beschleunigung hängt von der Masse des Körpers ab.  
+     [[ ]] Die Fallbeschleunigung hängt vom Material des Körpers ab.
+
+2. Was bedeutet „freier Fall“ in der Physik?
+
+     [[ ]] Ein Objekt fällt ohne Geschwindigkeit.  
+     [[x]] Ein Objekt fällt nur unter dem Einfluss der Gravitation.  
+     [[ ]] Ein Objekt fällt durch Luft und Wasser.  
+     [[ ]] Ein Objekt wird durch eine konstante Kraft gezogen.
+
+3. Wie verändert sich die Geschwindigkeit eines Körpers im freien Fall (ohne Luftwiderstand)?
+
+     [[ ]] Sie bleibt gleich.  
+     [[x]] Sie nimmt mit 9,81 m/s pro Sekunde zu.  
+     [[ ]] Sie nimmt exponentiell zu.  
+     [[ ]] Sie sinkt mit der Zeit.
+
+4. Wie lautet die Formel für die Fallhöhe bei einem freien Fall mit Anfangsgeschwindigkeit null?
+
+     [[ ]] $ s = m \cdot g $  
+     [[ ]] $ s = g \cdot t $  
+     [[x]] $ s = \frac{1}{2} \cdot g \cdot t^2 $
+     [[ ]] $ s = v \cdot t + g $
+
+5. Ein Objekt fällt 3 Sekunden lang im freien Fall. Welche Aussage ist richtig?
+
+     [[ ]] Es hat eine konstante Geschwindigkeit von 3 m/s.  
+     [[ ]] Es fällt mit 9,81 m/s die ganze Zeit.  
+     [[ ]] Die Geschwindigkeit nimmt insgesamt um 9,81 m/s zu.
+     [[x]] Die Geschwindigkeit nimmt insgesamt um 29,43 m/s zu.
+     [[ ]] Die Geschwindigkeit nimmt pro Sekund um 9,81 m/s.
+
+6. *Ein Körper fällt 2 Sekunden im freien Fall. Ermittle seine Geschwindigkeit.
+
+<p style="margin-left:10%">
+@rangeQuiz2($v$, 19.62, $\frac{m}{s}$)
+</p>
+
+7. *Ermittle die Fallhöhe eines Körpers, wenn er nach 3 Sekunden aufschlägt?
+
+<p style="margin-left:10%">
+@rangeQuiz2($s$, 44.145, m)
+</p>
+
+8. **Ein Stein wird in einen Brunnen fallen gelassen, der 20 m tief ist. Ermittle die Fallzeit.
+
+<p style="margin-left:10%">
+@rangeQuiz2($t$, 2.0193, s)
+</p>
+
+9. **Ein Körper fällt 80 m tief. Ermittle seine Geschwindigkeit beim Aufprall?
+
+<p style="margin-left:10%">
+@rangeQuiz2($v$, 39.619, $\frac{m}{s}$)
+</p>
+
+10. Löse folgendes Quiz
+
+     [QuizZumFreienFall](https://www.leifiphysik.de/mechanik/freier-fall-senkrechter-wurf/aufgabe/quiz-zum-freien-fall)
