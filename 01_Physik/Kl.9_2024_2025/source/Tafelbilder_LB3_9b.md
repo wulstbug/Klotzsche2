@@ -1301,7 +1301,7 @@ Gib anschließen das Ergebnis __auf eine Kommastelle gerundet__ in die Umfrage i
 
 ## 3.9 Der freie Fall: Eine gleichmäßig beschleunigte Bewegung
 
-Der @color(freie Fall, orange) beschreibt die Bewegung eines Körpers, welcher sich @color(ohne äußere Einwirkung, orange) und @color(ohne Berücksichtigung des Luftwiderstands, orange) im @color(im Einfluss der Schwerkraft], darkgreen) bewegt.
+Der @color(freie Fall, orange) beschreibt die Bewegung eines Körpers, welcher sich @color(ohne äußere Einwirkung, orange) und @color(ohne Berücksichtigung des Luftwiderstands, orange) @color(im Einfluss der Schwerkraft, darkgreen) bewegt.
 
 __Es gelten folgende Bewegungsgleichungen:__
 
