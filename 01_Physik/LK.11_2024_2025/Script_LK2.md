@@ -5445,7 +5445,7 @@ ermittelt werden.
 
 #### Aufgabe 1
 
-1. Duden S. 376 / 41.
+![Duden S. 376 / 41.](https://diversewolken.ddns.net/nextcloud/index.php/s/ZrJ9SJzw27kyGKQ/download)
 
 <p style="margin-left:10%">
 
@@ -5527,7 +5527,7 @@ $R = .. \Omega$
 
 #### Aufgabe 3
 
-3. Metzler S. 261/3
+![Metzler S. 261/3](https://diversewolken.ddns.net/nextcloud/index.php/s/KH9BGLMF8sk4Ts3/download)
 
 <p style="margin-left:10%">
 
@@ -5579,7 +5579,7 @@ $$ \mu_r = 884,6 $$
 
 #### Aufgabe 4
 
-4. Metzler S. 257 / 1a
+![Metzler S. 257 / 1a](https://diversewolken.ddns.net/nextcloud/index.php/s/AKTszCMAoy4mTMi/download)
 
 <p style="margin-left:10%">
 
