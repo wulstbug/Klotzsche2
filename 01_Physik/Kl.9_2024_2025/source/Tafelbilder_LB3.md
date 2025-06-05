@@ -1830,7 +1830,7 @@ __Es gelten folgende Bewegungsgleichungen:__
      [[ ]] Es fällt mit 9,81 m/s die ganze Zeit.  
      [[ ]] Die Geschwindigkeit nimmt insgesamt um 9,81 m/s zu.
      [[x]] Die Geschwindigkeit nimmt insgesamt um 29,43 m/s zu.
-     [[ ]] Die Geschwindigkeit nimmt pro Sekund um 9,81 m/s.
+     [[x]] Die Geschwindigkeit nimmt pro Sekunde um 9,81 m/s.
 
 6. *Ein Körper fällt 2 Sekunden im freien Fall. Ermittle seine Geschwindigkeit.
 
