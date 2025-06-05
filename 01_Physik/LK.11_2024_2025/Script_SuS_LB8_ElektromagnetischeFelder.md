@@ -1042,7 +1042,7 @@ $$ U_{ind} = - N_{ind} \cdot \frac{\Delta B}{\Delta t} = -23,55 V $$
 
 {{2}}
 ********
-2. Ermitteln Sie mit Hilfe einer Spannungsversorgung (6V~) und digitalen Messgeräten für jede der Kombinationen den Übertragungsfaktor. Notieren Sie Ihre Ergebnisse in einer Tabelle.
+2. Ermitteln Sie mit Hilfe einer Spannungsversorgung (6V~) und digitalen Messgeräten für jede der Kombinationen den Übertragungsfaktor n/n'. Notieren Sie Ihre Ergebnisse in einer Tabelle.
 
-$$ n' = \frac{U_1}{U_2} $$
+$$ \frac{n}{n'} = \dfrac{\frac{N_1}{N_2}}{\frac{U_1}{U_2}} $$
 ********

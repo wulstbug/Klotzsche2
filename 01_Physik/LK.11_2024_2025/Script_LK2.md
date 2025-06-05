@@ -5613,7 +5613,7 @@ geg.:
 
 - $\Delta t = 7,5 \cdot 10^{-3} s$
 
-- $N_F = 7500$
+- $N_F = 2250$
 
 - $l_F = 0,6 m$
 
@@ -5639,7 +5639,6 @@ $$ U_{ind} = - N_{ind} \cdot \frac{\Delta B}{\Delta t} = -23,55 V $$
 
 </details>
 
-
 #### Experimentelle Übungen
 
 ![Transformatoren](https://diversewolken.ddns.net/nextcloud/index.php/s/Bf5P3Abk5WQanWH/download)
@@ -5660,5 +5659,5 @@ $$ U_{ind} = - N_{ind} \cdot \frac{\Delta B}{\Delta t} = -23,55 V $$
 ********
 2. Ermitteln Sie mit Hilfe einer Spannungsversorgung (6V~) und digitalen Messgeräten für jede der Kombinationen den Übertragungsfaktor. Notieren Sie Ihre Ergebnisse in einer Tabelle.
 
-$$ n' = \frac{U_1}{U_2} $$
+$$ \frac{n}{n'} = \dfrac{\frac{N_1}{N_2}}{\frac{U_1}{U_2}} $$
 ********
