@@ -5427,11 +5427,11 @@ $ N = 2400$
 
 $ l = 0,047 m$
 
-$ A = (0,02 m)² = 4 10⁻⁴ m²$
+$ A = (0,025 m)² $
 
 $ µ_r = 1$
 
-=> $ L = 0,062 H = 62 mH$
+=> $ L = 0,096 H = 96 mH$
 
 </p>
 
@@ -5499,7 +5499,9 @@ Ermitteln Sie für die 5 Zeitabschnitte jeweils die Änderung der Stromstärke $
 
 <p style="margin-left:10%">
 
-@rangeQuiz2($E_{mag}$, 68e-3 , J)
+@rangeQuiz2($I$, 0.0896 , A)
+
+@rangeQuiz2($E_{mag}$, 3.81e-4 , J)
 
 </p>
 
@@ -5517,11 +5519,11 @@ Nutzen Sie für die Induktivität den aufgedruckten Wert. Nutzen Sie zur Ermittl
 
 $L = 68 mH$
 
-$R = .. \Omega$
+$R = 67 \Omega$
 
-=> $I = \frac{U}{R} = .. A$
+=> $I = \frac{U}{R} = 0,0896 A$
 
-=> $E = \frac{1}{2} \cdot L \cdot I^2 = J$
+=> $E = \frac{1}{2} \cdot L \cdot I^2 = 0,381 mJ$
 
 </details>
 
