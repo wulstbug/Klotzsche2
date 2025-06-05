@@ -340,3 +340,153 @@ __Der Generator:__
 </p>
 
 </p>
+
+
+### 1.2 Ermittlung einer Induktionsspannung I
+
+> Ist der zeitliche Verlauf $\Phi(t)$ gegeben, so lässt sich die Induktionsspannung daraus ermitteln.
+
+__Beispiel 1: mit N=1__
+
+
+<!--
+     data-show
+     data-title=""
+     data-type="line"
+     data-fontSize="16pt"
+     data-xlabel="t in s"
+     data-ylabel="Φ in Wb"
+-->
+| t in s | Φ in Wb | 
+| :---: | :---: |
+| 0 | 10 |
+| 10 | 10 |
+| 20 | 40 |
+| 30 | 40 |
+| 50 | 0 |
+| 60 | 0 |
+| 70 | 10 |
+
+{{1}}
+**************
+
+<p class="newspaper3">
+
+<p style="margin-left:5%">
+
+__Abschnitt: 0-10 s__
+
+{{2}}
+**************
+     $\Delta t = 10 s$ 
+
+     $\Delta \Phi = 0 Wb$
+
+     $U_{ind} = - \frac{\Delta \Phi}{\Delta t}$
+
+     $U_{ind} = 0 V$
+**************
+
+</p>
+
+<p class="cb">
+
+<p style="margin-left:5%">
+
+__Abschnitt: 10-20 s__
+
+{{3}}
+**************
+     $\Delta t = 10 s$ 
+
+     $\Delta \Phi = 30 Wb$
+
+     $U_{ind} = - \frac{\Delta \Phi}{\Delta t}$
+
+     $U_{ind} = -3 V$
+**************
+
+</p>
+
+<p class="cb">
+
+<p style="margin-left:5%">
+
+__Abschnitt: 30-50 s__
+
+{{4}}
+**************
+     $\Delta t = 20 s$ 
+
+     $\Delta \Phi = -40 Wb$
+
+     $U_{ind} = - \frac{\Delta \Phi}{\Delta t}$
+
+     $U_{ind} = ..$
+**************
+
+</p>
+
+</p>
+
+</p>
+
+</p>
+
+{{5}}
+**************
+__Zeichne ein $U_{ind}(t)$-Diagramm für den dargestellten Zeitabschnitt.__
+
+<details style="margin-left:5%">
+
+<summary> Lösung </summary>
+
+<!--
+     data-show
+     data-title=""
+     data-type="line"
+     data-fontSize="16pt"
+     data-xlabel="t in s"
+     data-ylabel="U in V"
+-->
+| t in s | U in V | 
+| :---: | :---: |
+| 0 | 0 |
+| 10 | 0 |
+| 10 | -3 |
+| 20 | -3 |
+| 20 | 0 |
+| 30 | 0 |
+| 30 | 2 |
+| 50 | 2 |
+| 50 | 0 |
+| 60 | 0 |
+| 60 | -1 |
+| 70 | -1 |
+
+</details>
+
+**************
+
+**************
+
+
+
+### 1.2 Ermittlung einer Induktionsspannung II
+
+
+![DurchsetzteFläche](https://diversewolken.ddns.net/nextcloud/index.php/s/7gtg9MopxsGg3SN/download)
+
+Die induzierte Spannung ist für den Generator definiert als
+
+> $U_{ind} = -N \cdot B \cdot \dfrac{\red{\mathrm{d} A}}{\red{\mathrm{d} t}}$
+
+Die Ableitung der durchsetzten Fläche nach der Zeit ergibt:
+
+> $\dfrac{\red{\mathrm{d} A}}{\red{\mathrm{d} t}} = \dfrac{\red{\mathrm{d}}}{\red{\mathrm{d} t}} A_0 \cdot cos(2\pi f \cdot t) = - A_0 \cdot 2\pi f \cdot sin(2\pi f \cdot t)$
+
+An einem Generator ergibt sich die induzierte Spannung als Sinus-Funktion:
+
+> $U_{ind}(t) = N \cdot B \cdot A_0 \cdot 2\pi f \cdot sin(2\pi f \cdot t)$
+>
+> ![Uind2](https://diversewolken.ddns.net/nextcloud/index.php/s/RDY5kJNYdkmL8b2/download)
