@@ -5828,11 +5828,230 @@ _Übungsaufgaben_
 
 ## 8.3 Hall-Effekt
 
-> $$ B = \dfrac{n\cdot e\cdot d}{I} \cdot U_H $$
+{{1-2}}
+*********
+!?[Hall-Tafelbild-bis-3-26](https://www.youtube.com/watch?v=zkporvwzm9g)
+*********
 
-_Technische Anwendung der Induktion_
+{{2}}
+*********
+![Hall-Tafelbild](https://diversewolken.ddns.net/nextcloud/index.php/s/TxRstgAdGsEEgs9/download)
+*********
 
-_Übungsaufgaben_
+{{3-4}}
+*********
+!?[Hall-Effekt](https://www.youtube.com/watch?v=FSOrl1Ph55I)
+*********
+
+{{4}}
+*******
+>In einer stromdurchflossenen Leiterplatte wird eine Hall-Spannung induziert, wenn ein Magnetfeld senkrecht zur Stromrichtung wirkt.
+>
+> $$ \boxed{U_H = R_H \dfrac{I}{d} B} $$
+>
+> mit
+> 
+> - $B$ .. magnetische Flussdichte
+>
+> - $R_H$ .. Hall-Konstante des Materials | Einheit: $\Big[ \dfrac{m^3}{C} \Big]$
+>
+> - $d$ .. Dicke der Leiterplatte
+>
+> - $I$ .. fließende Stromstärke
+
+__Herleitung der Hall-Spannung__
+
+<p style="margin-left:5%">
+
+Wenn ein Strom $I$ durch einen Leiter fließt und dieser senkrecht zu einem Magnetfeld $B$ steht, wirken Lorentzkräfte $F_L$auf die bewegten Ladungsträger.
+
+- Elektronen bewegen sich mit der Driftgeschwindigkeit $ v_d $
+- Magnetfeld $ B $ steht senkrecht zur Bewegungsrichtung
+- Lorentzkraft: $ F_L = q \cdot v_d \cdot B $
+
+Diese Kraft führt zu einer Ladungstrennung im Leiter, was wiederum ein elektrisches Feld $ \vec{E}_H $ erzeugt.
+
+**Im Gleichgewicht gilt:**
+
+$ F_L = F_{el} $
+
+$ \Rightarrow q \cdot v_d \cdot B = q \cdot E_H$
+
+$ \Rightarrow E_H = v_d \cdot B$
+
+
+Die Hall-Spannung $ U_H $ ergibt sich aus:
+
+$ U_H = E_H \cdot d = v_d \cdot B \cdot d $
+
+Die Driftgeschwindigkeit ergibt sich als $ v_d = \frac{ℓ}{t} $,wobei die Driftzeit $t$ mit der Stromstärke $I$ zu $t=\frac{Q}{I}$ und die fließende Ladung $Q$ mit $Q=N \cdot q$ ($N$..Anzahl der Ladungsträger) und $N=n \cdot V$ gilt ($n$..Dichte der Ladungsträger). Das Volumen $V$ der Leiterplatte ist $V = ℓ \cdot b \cdot h$. Sämtliche Formeln ineinander eingesetzt ergibt sich:
+
+$ U_H = \dfrac{1}{n\cdot q} \dfrac{I}{d} B $
+
+</p>
+
+*******
+
+#### Multiple-Choice-Fragen
+
+__Frage 1__
+Welche Kraft bewirkt die Ladungstrennung im Hall-Effekt?
+
+- [[ ]] Gravitationskraft
+- [[x]] Lorentzkraft
+- [[ ]] Reibungskraft
+- [[ ]] Kernkraft
+
+---
+
+__Frage 2__
+Was beschreibt die Hall-Spannung?
+
+- [[ ]] Die Spannung, die durch Temperaturunterschiede entsteht
+- [[x]] Die Spannung, die durch die Ablenkung von Ladungsträgern im Magnetfeld entsteht
+- [[ ]] Die Spannung entlang der Stromrichtung
+- [[ ]] Die Differenz zwischen magnetischer und elektrischer Energie
+
+---
+
+__Frage 3__
+Welche Größen beeinflussen die Hall-Spannung direkt?
+
+- [[x]] Stromstärke
+- [[x]] Magnetfeldstärke
+- [[ ]] Temperatur
+- [[x]] Breite des Leiters
+
+---
+
+__Frage 4__
+Was passiert mit der Hall-Spannung, wenn das Magnetfeld verdoppelt wird?
+
+- [[x]] Sie verdoppelt sich
+- [[ ]] Sie bleibt gleich
+- [[ ]] Sie halbiert sich
+- [[ ]] Sie wird null
+
+---
+
+
+
+__Frage 5__
+Folgendes Material hat betragsmäßig die größte Hall-Konstante..
+
+- [[ ]] Bismut
+- [[x]] Germanium
+- [[ ]] Gold
+- [[ ]] Silber
+- [[ ]] Zink
+
+---
+
+#### Aufgabe 1: Einfache Berechnung
+
+Ein Silber-Leiter mit einer Breite von 2 cm, durch den ein Strom von 3 A fließt, befindet sich in einem Magnetfeld von 0,5 T.
+
+Berechnen Sie den Betrag der Hall-Spannung.
+
+<p style="margin-left:5%">
+ 
+@rangeQuiz2($U_H$, 6.675e-9 , V)
+
+</p>
+
+---
+
+#### Aufgabe 2: Umformung und Analyse
+
+Überprüfen Sie, auf welchen Wert die Hall-Spannung maximal steigen könnte, wenn man das Material tauschen würde.
+
+- a) Tauschen mit
+
+<p style="margin-left:5%">
+ 
+[[ Germanium ]]
+
+</p>
+
+- b) Hall-Spannung steigt in diesem Fall auf
+
+<p style="margin-left:5%">
+ 
+@rangeQuiz2($U_H$, 0.495 , V)
+
+</p>
+
+#### Aufgabe 3: Komplex – Materialvergleich
+
+Zwei verschiedene Materialien A und B werden unter denselben Bedingungen (gleicher Strom, gleiches Magnetfeld, gleiche Geometrie) getestet. Die gemessene Hall-Spannung bei A beträgt $ U_H^A = 3 \cdot 10^{-6} \, \text{V} $, bei B $ U_H^B = 6 \cdot 10^{-6} \, \text{V} $. 
+
+Wie verhalten sich die Ladungsträgerdichten $ n_A $ und $ n_B $ zueinander?
+
+#### Aufgabe 4: Abituraufgabe zum Hall-Effekt
+
+Die Hall-Sonde ist ein wichtiger Sensor zum Ausmessen von Magnetfeldern.
+
+a) !Erklären Sie kurz, warum in einem quaderförmigen Silberplättchen zwischen den Anschlüssen 1 und 2 eine Hall-Spannung auftritt. Geben Sie die Polung der Spannung an. [Abi97_Bilda](https://diversewolken.ddns.net/nextcloud/index.php/s/eG2X7c9LnB3dJeg/download) 
+
+---
+
+b) Bei einer Hall-Sonde wird ein Silberplättchen der Dicke $d=12\,µm$ verwendet. Die Hall-Konstante von Silber beträgt bei Zimmertemperatur $R_H = 0,9\cdot10^{-10}\frac{m^3}{C}$. In einem Magnetfeld ergibt sich bei einem Sondenstrom von 10 A eine Hall-Spannung von $1,7\cdot10^{-5} V$. Berechnen Sie die Flussdichte B.
+
+@rangeQuiz2($B$, 0.23 , T)
+
+---
+
+c) Berechnen Sie, wie viele Elektronen pro Silberatom im Mittel dem „freien Elektronengas“ zugeordnet werden können. Ein Silberatom hat eine Masse von 107,9 u und Silber hat eine Dichte von $10,5 \frac{t}{m^3}$.
+
+@rangeQuiz2($N$, 1.2 , Elektronen pro Atom)
+
+---
+
+d)  Für eine Hall-Sonde aus dem Halbleiter Germanium mit der Dicke 1,0 mm wurden folgende Messreihen aufgenommen:
+
+__für B = 10 mT__
+
+| I in mA	| 10	| 15	| 20	|25     |
+| UH in mV	| 1,4	| 2,1	| 2,9	|3,7    |
+
+__für B = 20 mT__
+
+|I in mA	|10	    |15	    |20	    |25     |
+|UH in mV	|2,8	|4,3	|5,7	|7,3    |
+
+__für B = 30 mT__
+
+|I in mA	|10	    |20	    |30	    |40     |
+|UH in mV	|4,4	|8,8	|13,1	|17,5   |
+
+Berechnen Sie für eine Messung die Hall-Konstante für Germanium.
+
+@rangeQuiz2($R_H$, 0.015 , $\frac{m^3}{C}$)
+
+<details style="margin-left:5%">
+
+<summary> Lösung </summary>
+
+![Lsg_Abi97_d.png](https://diversewolken.ddns.net/nextcloud/index.php/s/znQ6KkycyHSXqQe/download)
+
+</details>
+
+---
+
+e) Berechnen Sie unter Verwendungen der Angaben und Ergebnisse aus den Aufgaben b) und d) das Verhältnis der Ladungsträgerdichten von Silber und Germanium $\frac{n_{Si}}{n_{Ge}}$. Schließen Sie daraus, welcher Stoff den elektrischen Strom besser leitet.
+
+ 
+@rangeQuiz2($\frac{n_{Si}}{n_{Ge}}$, 1.7e8 , $.$)
+
+<details style="margin-left:5%">
+
+<summary> Lösung </summary>
+
+![Lsg_Abi97_e.png](https://diversewolken.ddns.net/nextcloud/index.php/s/oj5FbWXJ6xL6LaL/download)
+
+In Silber ist die Konzentration an freien Ladungsträgern um ein Vielfaches höher als in Germanium. Bei Zimmertemperatur leitet Silber wesentlich besser den elektrischen Strom als Germanium.
+
+</details>
 
 ## 8.4 Spulen in Wechselstromkreisen
 
