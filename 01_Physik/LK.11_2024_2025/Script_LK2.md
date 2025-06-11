@@ -5826,7 +5826,7 @@ An einem Generator ergibt sich die induzierte Spannung als Sinus-Funktion:
 
 _Übungsaufgaben_
 
-## 8.3 Hall-Effekt
+## 8.2 Der Hall-Effekt
 
 {{1-2}}
 *********
@@ -5845,7 +5845,7 @@ _Übungsaufgaben_
 
 {{4}}
 *******
->In einer stromdurchflossenen Leiterplatte wird eine Hall-Spannung induziert, wenn ein Magnetfeld senkrecht zur Stromrichtung wirkt.
+>In einer stromdurchflossenen Leiterplatte wird eine Hall-Spannung $U_H$ induziert, wenn ein Magnetfeld senkrecht zur Stromrichtung wirkt.
 >
 > $$ \boxed{U_H = R_H \dfrac{I}{d} B} $$
 >
@@ -6044,16 +6044,19 @@ d)  Für eine Hall-Sonde aus dem Halbleiter Germanium mit der Dicke 1,0 mm wurde
 
 __für B = 10 mT__
 
+| | | | | |
 | I in mA	| 10	| 15	| 20	|25     |
 | UH in mV	| 1,4	| 2,1	| 2,9	|3,7    |
 
 __für B = 20 mT__
 
+| | | | | |
 |I in mA	|10	    |15	    |20	    |25     |
 |UH in mV	|2,8	|4,3	|5,7	|7,3    |
 
 __für B = 30 mT__
 
+| | | | | |
 |I in mA	|10	    |20	    |30	    |40     |
 |UH in mV	|4,4	|8,8	|13,1	|17,5   |
 
@@ -6083,6 +6086,34 @@ e) Berechnen Sie unter Verwendungen der Angaben und Ergebnisse aus den Aufgaben 
 ![Lsg_Abi97_e.png](https://diversewolken.ddns.net/nextcloud/index.php/s/oj5FbWXJ6xL6LaL/download)
 
 In Silber ist die Konzentration an freien Ladungsträgern um ein Vielfaches höher als in Germanium. Bei Zimmertemperatur leitet Silber wesentlich besser den elektrischen Strom als Germanium.
+
+</details>
+
+---
+
+f) Überprüfen Sie anhand der Messdaten aus Aufgabe b, ob ein mathematischer Zusammenhang zwischen der Hall-Spannung und der Flussdichte nachgewiesen werden kann.
+
+<details style="margin-left:5%">
+
+<summary> Lösung </summary>
+
+Für den Zusammenhang zwischen Hall-Spannung und Flussdichte müssen Werte gesucht werden, bei denen der Strom durch die Sonde gleich ist. Man kann also z.B. die Untersuchung für einen Strom von 10 mA oder für 20 mA vornehmen.
+
+__für 10mA__
+
+| | | | |
+|$B$ in mT	    | 10	|20	 |   30  |
+|$U_H$ in mV	| 1,4	|2,8 |   4,4 |
+|$B/U_H$	    | 7,1	|7,1 |   6,8 |
+
+__für 20 mA__
+
+| | | | |
+|$B$ in mT	    |10	    |20	    |30     |
+|$U_H$ in mV	|2,9	|5,7	|8,8    |
+|$B/U_H$	    |3,4	|3,5	|3,4    |
+
+Für jede Stromstärke ergibt sich ein nachezu konstanter Wert $B/U_H$. Für eine konstante Stromstärke durch die Hallsonde ist die Hall-Spannung proportional zur Flussdichte.
 
 </details>
 
