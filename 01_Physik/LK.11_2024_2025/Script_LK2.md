@@ -5811,3 +5811,39 @@ An einem Generator ergibt sich die induzierte Spannung als Sinus-Funktion:
 > $U_{ind}(t) = N \cdot B \cdot A_0 \cdot 2\pi f \cdot sin(2\pi f \cdot t)$
 >
 > ![Uind2](https://diversewolken.ddns.net/nextcloud/index.php/s/RDY5kJNYdkmL8b2/download)
+
+## 8.2 Induktionsspannung und Lorentzkraft
+
+> $$ U_{ind} = B \cdot v_s \cdot ℓ $$
+>
+> mit
+>
+> - $B$ .. magnetische Flussdichte
+> 
+> - $v_s$ .. Bewegungsgeschwindigkeit des Leiters im Magnetfeld
+>
+> - $ℓ$ .. Länge des Leiters
+
+_Übungsaufgaben_
+
+## 8.3 Hall-Effekt
+
+> $$ B = \dfrac{n\cdot e\cdot d}{I} \cdot U_H $$
+
+_Technische Anwendung der Induktion_
+
+_Übungsaufgaben_
+
+## 8.4 Spulen in Wechselstromkreisen
+
+Einführungstext - Demonstrationsexperiment
+
+### 8.4.1 Ein- und Ausschaltvorgänge von Spulen
+
+Demonstrationsexperiment
+
+Schüler-Experiment
+
+### 8.4.2 Wechselstromwiderstand einer Spule
+
+> $$ Z^2 = R^2 + (\omega\cdot L)^2 $$
