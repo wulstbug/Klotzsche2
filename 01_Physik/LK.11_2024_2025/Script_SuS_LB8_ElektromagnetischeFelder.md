@@ -1198,6 +1198,113 @@ An einem Generator ergibt sich die induzierte Spannung als Sinus-Funktion:
 > ![Uind2](https://diversewolken.ddns.net/nextcloud/index.php/s/RDY5kJNYdkmL8b2/download)
 
 
+## 8.2 Der Hall-Effekt
+
+
+![Hall-Tafelbild](https://diversewolken.ddns.net/nextcloud/index.php/s/TxRstgAdGsEEgs9/download)
+
+>In einer stromdurchflossenen Leiterplatte wird eine Hall-Spannung $U_H$ induziert, wenn ein Magnetfeld senkrecht zur Stromrichtung wirkt.
+>
+> $$ \boxed{U_H = R_H \dfrac{I}{d} B} $$
+>
+> mit
+> 
+> - $B$ .. magnetische Flussdichte
+>
+> - $R_H$ .. Hall-Konstante des Materials | Einheit: $\Big[ \dfrac{m^3}{C} \Big]$
+>
+> - $d$ .. Dicke der Leiterplatte
+>
+> - $I$ .. fließende Stromstärke
+
+__Herleitung der Hall-Spannung__
+
+<p style="margin-left:5%">
+
+Wenn ein Strom $I$ durch einen Leiter fließt und dieser senkrecht zu einem Magnetfeld $B$ steht, wirken Lorentzkräfte $F_L$auf die bewegten Ladungsträger.
+
+- Elektronen bewegen sich mit der Driftgeschwindigkeit $ v_d $
+- Magnetfeld $ B $ steht senkrecht zur Bewegungsrichtung
+- Lorentzkraft: $ F_L = q \cdot v_d \cdot B $
+
+Diese Kraft führt zu einer Ladungstrennung im Leiter, was wiederum ein elektrisches Feld $ \vec{E}_H $ erzeugt.
+
+**Im Gleichgewicht gilt:**
+
+$ F_L = F_{el} $
+
+$ \Rightarrow q \cdot v_d \cdot B = q \cdot E_H$
+
+$ \Rightarrow E_H = v_d \cdot B$
+
+
+Die Hall-Spannung $ U_H $ ergibt sich aus:
+
+$ U_H = E_H \cdot d = v_d \cdot B \cdot d $
+
+Die Driftgeschwindigkeit ergibt sich als $ v_d = \frac{ℓ}{t} $,wobei die Driftzeit $t$ mit der Stromstärke $I$ zu $t=\frac{Q}{I}$ und die fließende Ladung $Q$ mit $Q=N \cdot q$ ($N$..Anzahl der Ladungsträger) und $N=n \cdot V$ gilt ($n$..Dichte der Ladungsträger). Das Volumen $V$ der Leiterplatte ist $V = ℓ \cdot b \cdot h$. Sämtliche Formeln ineinander eingesetzt ergibt sich:
+
+$ U_H = \dfrac{1}{n\cdot q} \dfrac{I}{d} B $
+
+</p>
+
+
+#### Multiple-Choice-Fragen
+
+__Frage 1__
+Welche Kraft bewirkt die Ladungstrennung im Hall-Effekt?
+
+- [[ ]] Gravitationskraft
+- [[x]] Lorentzkraft
+- [[ ]] Reibungskraft
+- [[ ]] Kernkraft
+
+---
+
+__Frage 2__
+Was beschreibt die Hall-Spannung?
+
+- [[ ]] Die Spannung, die durch Temperaturunterschiede entsteht
+- [[x]] Die Spannung, die durch die Ablenkung von Ladungsträgern im Magnetfeld entsteht
+- [[ ]] Die Spannung entlang der Stromrichtung
+- [[ ]] Die Differenz zwischen magnetischer und elektrischer Energie
+
+---
+
+__Frage 3__
+Welche Größen beeinflussen die Hall-Spannung direkt?
+
+- [[x]] Stromstärke
+- [[x]] Magnetfeldstärke
+- [[ ]] Temperatur
+- [[x]] Breite des Leiters
+
+---
+
+__Frage 4__
+Was passiert mit der Hall-Spannung, wenn das Magnetfeld verdoppelt wird?
+
+- [[x]] Sie verdoppelt sich
+- [[ ]] Sie bleibt gleich
+- [[ ]] Sie halbiert sich
+- [[ ]] Sie wird null
+
+---
+
+
+
+__Frage 5__
+Folgendes Material hat betragsmäßig die größte Hall-Konstante..
+
+- [[ ]] Bismut
+- [[x]] Germanium
+- [[ ]] Gold
+- [[ ]] Silber
+- [[ ]] Zink
+
+---
+
+
 #### Aufgabe 1: Einfache Berechnung
 
 Ein Silber-Leiter mit einer Breite von 2 cm, durch den ein Strom von 3 A fließt, befindet sich in einem Magnetfeld von 0,5 T.
