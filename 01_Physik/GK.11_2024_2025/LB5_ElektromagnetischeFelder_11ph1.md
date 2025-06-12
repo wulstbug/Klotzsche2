@@ -500,6 +500,8 @@ An einem Generator ergibt sich die induzierte Spannung als Sinus-Funktion:
 
 - [ ] Bearbeite die Übungen zum Trafo
 
+- [ ] Bearbeite das Experiment zum Transformator
+
 - [ ] Bearbeite die KI-Aufgaben zur Induktion
 
 
