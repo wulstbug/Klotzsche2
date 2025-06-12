@@ -5953,39 +5953,47 @@ Ein Silber-Leiter mit einer Breite von 2 cm, durch den ein Strom von 3 A fließt
 
 Berechnen Sie den Betrag der Hall-Spannung.
 
-<p style="margin-left:5%">
- 
 @rangeQuiz2($U_H$, 6.675e-9 , V)
 
-</p>
-
----
 
 #### Aufgabe 2: Umformung und Analyse
 
-Überprüfen Sie, auf welchen Wert die Hall-Spannung maximal steigen könnte, wenn man das Material tauschen würde.
+Überprüfen Sie, auf welchen Wert die Hall-Spannung maximal steigen könnte, wenn man das Material Silber gegen ein anderes tauschen würde.
 
-- a) Tauschen mit
+a) Tauschen mit
 
-<p style="margin-left:5%">
- 
 [[ Germanium ]]
 
-</p>
+b) Hall-Spannung steigt in diesem Fall auf
 
-- b) Hall-Spannung steigt in diesem Fall auf
-
-<p style="margin-left:5%">
- 
 @rangeQuiz2($U_H$, 0.495 , V)
 
-</p>
 
 #### Aufgabe 3: Komplex – Materialvergleich
 
 Zwei verschiedene Materialien A und B werden unter denselben Bedingungen (gleicher Strom, gleiches Magnetfeld, gleiche Geometrie) getestet. Die gemessene Hall-Spannung bei A beträgt $ U_H^A = 3 \cdot 10^{-6} \, \text{V} $, bei B $ U_H^B = 6 \cdot 10^{-6} \, \text{V} $. 
 
 Wie verhalten sich die Ladungsträgerdichten $ n_A $ und $ n_B $ zueinander?
+
+@rangeQuiz2($\dfrac{n_A}{n_B}$, 2 , . )
+
+<details style="margin-left:5%">
+
+<summary> Lösung </summary>
+
+Die Hall-Spannung von A und B ergeben sich zu:
+
+$U^A_H = \dfrac{1}{n_A\cdot q} \dfrac{I}{d} B$
+
+$U^B_H = \dfrac{1}{n_B\cdot q} \dfrac{I}{d} B$
+
+Das Verhältnis $\dfrac{n_A}{n_B}$ ist demnach
+
+$\dfrac{n_A}{n_B} = \dfrac{U^B_H}{U^A_H} = \frac{2}{1}$
+
+Material A hat also doppelt so viele Ladungsträger pro Volumen wie Material B.
+
+</details>
 
 #### Aufgabe 4: Abituraufgabe zum Hall-Effekt
 
@@ -6076,8 +6084,7 @@ Berechnen Sie für eine Messung die Hall-Konstante für Germanium.
 
 e) Berechnen Sie unter Verwendungen der Angaben und Ergebnisse aus den Aufgaben b) und d) das Verhältnis der Ladungsträgerdichten von Silber und Germanium $\frac{n_{Si}}{n_{Ge}}$. Schließen Sie daraus, welcher Stoff den elektrischen Strom besser leitet.
 
- 
-@rangeQuiz2($\frac{n_{Si}}{n_{Ge}}$, 1.7e8 , $.$)
+@rangeQuiz2($\dfrac{n_{Si}}{n_{Ge}}$, 1.7e8 , $.$)
 
 <details style="margin-left:5%">
 

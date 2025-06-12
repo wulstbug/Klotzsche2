@@ -1198,149 +1198,53 @@ An einem Generator ergibt sich die induzierte Spannung als Sinus-Funktion:
 > ![Uind2](https://diversewolken.ddns.net/nextcloud/index.php/s/RDY5kJNYdkmL8b2/download)
 
 
-## 8.2 Der Hall-Effekt
-
-![Hall-Tafelbild](https://diversewolken.ddns.net/nextcloud/index.php/s/TxRstgAdGsEEgs9/download)
-
->In einer stromdurchflossenen Leiterplatte wird eine Hall-Spannung $U_H$ induziert, wenn ein Magnetfeld senkrecht zur Stromrichtung wirkt.
->
-> $$ \boxed{U_H = R_H \dfrac{I}{d} B} $$
->
-> mit
-> 
-> - $B$ .. magnetische Flussdichte
->
-> - $R_H$ .. Hall-Konstante des Materials | Einheit: $\Big[ \dfrac{m^3}{C} \Big]$
->
-> - $d$ .. Dicke der Leiterplatte
->
-> - $I$ .. fließende Stromstärke
-
-__Herleitung der Hall-Spannung__
-
-<p style="margin-left:5%">
-
-Wenn ein Strom $I$ durch einen Leiter fließt und dieser senkrecht zu einem Magnetfeld $B$ steht, wirken Lorentzkräfte $F_L$auf die bewegten Ladungsträger.
-
-- Elektronen bewegen sich mit der Driftgeschwindigkeit $ v_d $
-- Magnetfeld $ B $ steht senkrecht zur Bewegungsrichtung
-- Lorentzkraft: $ F_L = q \cdot v_d \cdot B $
-
-Diese Kraft führt zu einer Ladungstrennung im Leiter, was wiederum ein elektrisches Feld $ \vec{E}_H $ erzeugt.
-
-**Im Gleichgewicht gilt:**
-
-$ F_L = F_{el} $
-
-$ \Rightarrow q \cdot v_d \cdot B = q \cdot E_H$
-
-$ \Rightarrow E_H = v_d \cdot B$
-
-
-Die Hall-Spannung $ U_H $ ergibt sich aus:
-
-$ U_H = E_H \cdot d = v_d \cdot B \cdot d $
-
-Die Driftgeschwindigkeit ergibt sich als $ v_d = \frac{ℓ}{t} $,wobei die Driftzeit $t$ mit der Stromstärke $I$ zu $t=\frac{Q}{I}$ und die fließende Ladung $Q$ mit $Q=N \cdot q$ ($N$..Anzahl der Ladungsträger) und $N=n \cdot V$ gilt ($n$..Dichte der Ladungsträger). Das Volumen $V$ der Leiterplatte ist $V = ℓ \cdot b \cdot h$. Sämtliche Formeln ineinander eingesetzt ergibt sich:
-
-$ U_H = \dfrac{1}{n\cdot q} \dfrac{I}{d} B $
-
-</p>
-
-#### Multiple-Choice-Fragen
-
-__Frage 1__
-Welche Kraft bewirkt die Ladungstrennung im Hall-Effekt?
-
-- [[ ]] Gravitationskraft
-- [[x]] Lorentzkraft
-- [[ ]] Reibungskraft
-- [[ ]] Kernkraft
-
----
-
-__Frage 2__
-Was beschreibt die Hall-Spannung?
-
-- [[ ]] Die Spannung, die durch Temperaturunterschiede entsteht
-- [[x]] Die Spannung, die durch die Ablenkung von Ladungsträgern im Magnetfeld entsteht
-- [[ ]] Die Spannung entlang der Stromrichtung
-- [[ ]] Die Differenz zwischen magnetischer und elektrischer Energie
-
----
-
-__Frage 3__
-Welche Größen beeinflussen die Hall-Spannung direkt?
-
-- [[x]] Stromstärke
-- [[x]] Magnetfeldstärke
-- [[ ]] Temperatur
-- [[x]] Breite des Leiters
-
----
-
-__Frage 4__
-Was passiert mit der Hall-Spannung, wenn das Magnetfeld verdoppelt wird?
-
-- [[x]] Sie verdoppelt sich
-- [[ ]] Sie bleibt gleich
-- [[ ]] Sie halbiert sich
-- [[ ]] Sie wird null
-
----
-
-
-
-__Frage 5__
-Folgendes Material hat betragsmäßig die größte Hall-Konstante..
-
-- [[ ]] Bismut
-- [[x]] Germanium
-- [[ ]] Gold
-- [[ ]] Silber
-- [[ ]] Zink
-
----
-
 #### Aufgabe 1: Einfache Berechnung
 
 Ein Silber-Leiter mit einer Breite von 2 cm, durch den ein Strom von 3 A fließt, befindet sich in einem Magnetfeld von 0,5 T.
 
 Berechnen Sie den Betrag der Hall-Spannung.
 
-<p style="margin-left:5%">
- 
 @rangeQuiz2($U_H$, 6.675e-9 , V)
 
-</p>
-
----
 
 #### Aufgabe 2: Umformung und Analyse
 
-Überprüfen Sie, auf welchen Wert die Hall-Spannung maximal steigen könnte, wenn man das Material tauschen würde.
+Überprüfen Sie, auf welchen Wert die Hall-Spannung maximal steigen könnte, wenn man das Material Silber gegen ein anderes tauschen würde.
 
-- a) Tauschen mit
+a) Tauschen mit
 
-<p style="margin-left:5%">
- 
 [[ Germanium ]]
 
-</p>
+b) Hall-Spannung steigt in diesem Fall auf
 
-- b) Hall-Spannung steigt in diesem Fall auf
-
-<p style="margin-left:5%">
- 
 @rangeQuiz2($U_H$, 0.495 , V)
 
-</p>
 
 #### Aufgabe 3: Komplex – Materialvergleich
 
 Zwei verschiedene Materialien A und B werden unter denselben Bedingungen (gleicher Strom, gleiches Magnetfeld, gleiche Geometrie) getestet. Die gemessene Hall-Spannung bei A beträgt $ U_H^A = 3 \cdot 10^{-6} \, \text{V} $, bei B $ U_H^B = 6 \cdot 10^{-6} \, \text{V} $. 
 
 Wie verhalten sich die Ladungsträgerdichten $ n_A $ und $ n_B $ zueinander?
+
+@rangeQuiz2($\dfrac{n_A}{n_B}$, 2 , . )
+
+<details style="margin-left:5%">
+
+<summary> Lösung </summary>
+
+Die Hall-Spannung von A und B ergeben sich zu:
+
+$U^A_H = \dfrac{1}{n_A\cdot q} \dfrac{I}{d} B$
+
+$U^B_H = \dfrac{1}{n_B\cdot q} \dfrac{I}{d} B$
+
+Das Verhältnis $\dfrac{n_A}{n_B}$ ist demnach
+
+$\dfrac{n_A}{n_B} = \dfrac{U^B_H}{U^A_H} = \frac{2}{1}$
+
+Material A hat also doppelt so viele Ladungsträger pro Volumen wie Material B.
+
+</details>
 
 #### Aufgabe 4: Abituraufgabe zum Hall-Effekt
 
@@ -1431,8 +1335,7 @@ Berechnen Sie für eine Messung die Hall-Konstante für Germanium.
 
 e) Berechnen Sie unter Verwendungen der Angaben und Ergebnisse aus den Aufgaben b) und d) das Verhältnis der Ladungsträgerdichten von Silber und Germanium $\frac{n_{Si}}{n_{Ge}}$. Schließen Sie daraus, welcher Stoff den elektrischen Strom besser leitet.
 
- 
-@rangeQuiz2($\frac{n_{Si}}{n_{Ge}}$, 1.7e8 , $.$)
+@rangeQuiz2($\dfrac{n_{Si}}{n_{Ge}}$, 1.7e8 , $.$)
 
 <details style="margin-left:5%">
 
