@@ -6130,15 +6130,49 @@ Die folgenden Untersuchungen beziehen sich auf eine Spule, welche sich in einem 
 
 ### 8.4.1 Der elektrische Widerstand einer Spule im Gleich- und Wechselstromkreis
 
-Der elektrische Widerstand in einem Wechselstromkreis wird mit der Variable Z bezeichnet und ebenfalls in $\Omega$ angegeben.
+
+{{1}}
+**********
+<p class="newspaper">
+
+![SpuleSchaltkreis](https://diversewolken.ddns.net/nextcloud/index.php/s/dHcYLDPtZ64keSn/download)
+
+<p class="cb">
+
+> Da die Spule durch die Länge des Drahtes einen ohmschen Widerstand besitzt, kann Sie als Reihenschaltung eines Widerstands $R$ und der Spulenwindungen dargestellt werden. Der @color(elektrische Widerstand in einem Wechselstromkreis, red) wird mit @color(Z, red) bezeichnet. Einheit: $\Omega$
+
+</p>
+
+</p>
+
+---
+**********
+
+{{2}}
+**********
+> Im folgenden Demonstrationsexperiment wird für verschiedene Frequenzen der Wechselspannung an einer Spule die Spannung und die Stromstärke gemessen. Es gilt:
+>
+> $$ Z = \dfrac{U}{I} $$
+
+---
+**********
+
+{{3}}
+**********
+<p style="margin:10%">
 
 | $f$ in Hz | $U$ in V | $I$ in A | $Z$ in $\Omega$ |
 
 <p style ="color:blue; margin-left:5%">
 
-1. Zeichne ein Diagramm des Wechselstromwiderstands in Abhänigkeit der Frequenz.
+1. Ergänze mit Hilfe des Demonstrationsexperiments folgende Tabelle im Hefter.
+
+2. Zeichne ein Diagramm des Wechselstromwiderstands in Abhängigkeit der Frequenz.
+
+3. Diskutiere mit deinem Nachbar Ergebnisse dieser Messreihe.
 
 </p>
+
 
 <details style="margin-left:5%">
 
@@ -6172,7 +6206,7 @@ Der elektrische Widerstand in einem Wechselstromkreis wird mit der Variable Z be
 
 </details>
 
-{{1}}
+{{4}}
 *********
 
 ---
@@ -6192,16 +6226,16 @@ Der Wechselstromwiderstand Z einer Spule ist von von der Frequenz  und der Induk
 *********
 
 
-{{2}}
+{{5}}
 *********
 
 <p style ="color:blue; margin-left:5%">
 
-2. Ermittle aus den Messdaten die Induktivität L der Spule.
+4. Ermittle aus den Messdaten die Induktivität L der Spule.
 
 </p>
 
-{{3}}
+{{6}}
 *********
 
 $$ L = \dfrac{\sqrt{Z^2-R^2}}{2\cdot\pi \cdot f} $$
@@ -6217,3 +6251,7 @@ $$ L = \dfrac{\sqrt{Z^2-R^2}}{2\cdot\pi \cdot f} $$
 *********
 
 *********
+
+</p>
+
+**********
