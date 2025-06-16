@@ -6126,14 +6126,94 @@ Für jede Stromstärke ergibt sich ein nachezu konstanter Wert $B/U_H$. Für ein
 
 ## 8.4 Spulen in Wechselstromkreisen
 
-Einführungstext - Demonstrationsexperiment
+Die folgenden Untersuchungen beziehen sich auf eine Spule, welche sich in einem Stromkreis mit einer Wechselspannung befindet. Dabei bezeichnet $f$ die @color(Frequenz, red) der Wechselspannung. 
 
-### 8.4.1 Ein- und Ausschaltvorgänge von Spulen
+### 8.4.1 Der elektrische Widerstand einer Spule im Gleich- und Wechselstromkreis
 
-Demonstrationsexperiment
+Der elektrische Widerstand in einem Wechselstromkreis wird mit der Variable Z bezeichnet und ebenfalls in $\Omega$ angegeben.
 
-Schüler-Experiment
+| $f$ in Hz | $U$ in V | $I$ in A | $Z$ in $\Omega$ |
 
-### 8.4.2 Wechselstromwiderstand einer Spule
+<p style ="color:blue; margin-left:5%">
+
+1. Zeichne ein Diagramm des Wechselstromwiderstands in Abhänigkeit der Frequenz.
+
+</p>
+
+<details style="margin-left:5%">
+
+<summary> Ergebnisse </summary>
+
+---
+
+| $f$ in Hz | $U$ in V | $I$ in A | $Z$ in $\Omega$ |
+| 0 | 1.94 | 0.028 | 69 |
+| 10 | 1.94 | 0.028 | 69 |
+| 50 | 1.95 | 0.0263 | 74 |
+| 100 | 1.96 | 0.022 | 90 |
+| 200 | 1.95 | 0.0142 | 135 |
+| 500 | 1.95 | 0.0065 | 300  |
+
+<!-- 
+    data-show
+    data-type="line"
+    data-xlabel="f in Hz" 
+    data-ylabel="Z in Ω" 
+    data-title="Wechselstromwiderstand einer Spule"
+-->
+| $f$ in Hz | $Z$ in Ω |
+| :--: | :--: |
+| 0 | 69 | 
+| 10 | 69 |
+| 50 | 74 |
+| 100 | 90 |
+| 200 | 135 |
+| 500 | 300 |
+
+</details>
+
+{{1}}
+*********
+
+---
+
+Der Wechselstromwiderstand Z einer Spule ist von von der Frequenz  und der Induktivität der Spule abhängig. Es gilt:
 
 > $$ Z^2 = R^2 + (\omega\cdot L)^2 $$
+>
+> mit
+>
+> - R .. Gleichstromwiderstand der Spule
+>
+> - $\omega =2\pi\cdot f$ .. Kreisfrequenz
+>
+> - L .. Induktivität der Spule
+
+*********
+
+
+{{2}}
+*********
+
+<p style ="color:blue; margin-left:5%">
+
+2. Ermittle aus den Messdaten die Induktivität L der Spule.
+
+</p>
+
+{{3}}
+*********
+
+$$ L = \dfrac{\sqrt{Z^2-R^2}}{2\cdot\pi \cdot f} $$
+
+| $f$ in Hz | $Z$ in Ω | $L$ in H |
+| :--: | :--: | :--: | 
+| 10 | 69 | 0,085 |
+| 50 | 74 | 0,085 |
+| 100 | 90 | 0,092 |
+| 200 | 135 | 0,093 |
+| 500 | 300 | 0,093 |
+
+*********
+
+*********
