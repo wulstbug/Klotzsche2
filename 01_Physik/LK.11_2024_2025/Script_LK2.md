@@ -6255,3 +6255,60 @@ $$ L = \dfrac{\sqrt{Z^2-R^2}}{2\cdot\pi \cdot f} $$
 </p>
 
 **********
+
+
+## Entwicklung Leistungen 11Ph2
+
+{{1}}
+*********
+<!--
+     data-show
+     data-title=""
+     data-type="line"
+     data-xlabel="Bewertung"
+     data-ylabel="Durchschnitt"
+-->
+| Test | Durchschnittsnote | Trend(neu) |
+| ---- | ---- | ---- |
+| LK1 | 7.9 | 8.03 |
+| KA1 | 6.3 | 8.2 |
+| EX1 | 11.9| 8.4 |
+| KA2 | 7.7 | 8.7 |
+| LK2 | 8.8 | 8.9 |
+| KA3 | 8.7  | 9.1 |
+| KA4 | 9.1 | 9.3 | 
+| EX 2 | 10.5 | 9.5 |
+*********
+
+![Ergebnisse_EX2](https://diversewolken.ddns.net/nextcloud/index.php/s/TTRdPaWGFdHLwSk/download)
+
+{{2}}
+*************
+
+<!--
+     data-show
+     data-title=""
+     data-type="line"
+     data-xlabel="Bewertung"
+     data-ylabel="Note"
+     data-transpose
+-->
+|	|LK1	|KA1	|KA2	|LK2	|KA3	|KA4 | EX2 |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+|1	|6	|2	|5	|8	|10	|7 | 10 |
+|2	|6	|5	|4	|8	|9	|9 | 11 |
+|3	|9	|6	|9	|6	|10	|11 |11 |
+|4	|9	|8	|10	|9	|5	|6 | 8  |
+|5	|6	|3	|4	|5	|7	|5 | 8  |
+|6	|8	|6	|8	|6	|6	|8 | 8  |
+|7	|9	|3	|7	|11	|12	|14 |9  |
+|8	|7	|3	|7	|7	|5	|8 | 12 |
+|9	|3	|4	|6	|8	|10	|2 | 12 |
+|10	|9	|3	|9	|11	|8	|10 |9  |
+|11	|13	|12	|15	|15	|14	|14 |15 |
+|12	|3	|3	|3	|5	|6	|6 | 6  |
+|13	|11	|7	|9	|10	|10	|12 |14 |
+|14	|11	|12	|14	|15	|15	|15 |14 |
+|15	|9	|12	|6	|8	|3	|9 | 10 |
+
+*************
