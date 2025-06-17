@@ -1324,7 +1324,7 @@ Sonnenradius: 696.000 km
 
 ![11_AnimationErde](https://diversewolken.ddns.net/nextcloud/index.php/s/aWdc85PB4TFRR6L/download)
 
-12. Ergänze nun weitere Planeten (Merkus, Venus, Mars). 
+12. Ergänze nun weitere Planeten (Merkur, Venus, Mars). 
 
 13. Ändere anschließend die Hintergrundfarbe auf __Schwarz__ und blende das Koordinatensystem aus.
 
