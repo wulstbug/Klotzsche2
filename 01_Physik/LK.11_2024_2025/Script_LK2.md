@@ -6312,3 +6312,33 @@ $$ L = \dfrac{\sqrt{Z^2-R^2}}{2\cdot\pi \cdot f} $$
 |15	|9	|12	|6	|8	|3	|9 | 10 |
 
 *************
+
+### 8.4.2 Einschaltvorgang einer Spule
+
+Um das Verhalten einer Spule in einem Wechselstromkreis zu verstehen, kann eine Untersuchung von Ein- und Ausschaltvorgängen nützlich sein. Im folgenden Experiment soll der Einschaltvorgang an einer (schul-)Spule experimentell und mittels einer Simulation untersucht werden.
+
+Die Arbeitsaufträge enthalten zwei wesentliche Teile:
+
+1. Modellierte Untersuchung des Einschaltvorgangs (U(t) und I(t)) an einer Spule
+
+2. Experimentelle Untersuchung des Einschaltvorgangs (U(t) und I(t)) an einer Spule 
+
+In beiden Fällen ist folgender Schaltkreis gegeben.
+
+![SpuleSchaltkreis](https://diversewolken.ddns.net/nextcloud/index.php/s/XLgqarQRmk8nmfr/download)
+
+#### 1. Modell Einschaltvorgang an einer Spule
+
+Für die Simulation von U(t) und I(t) wird die Simulationssoftware Moebius verwendet.
+
+__Grundlage für die Simulation/das Modell sind die Formeln__
+
+> 1. Selbstinduktion (vgl. 8.1.4)
+> 
+> $$ U_{ind} = - L \cdot \dfrac{\mathrm{d}I}{\mathrm{d}t} $$
+
+__Analyse des Einschaltvorgangs__
+
+- ausgehend vom Demonstrationsexperiment ist die Stromstärke im Moment des Schalter-Schließens (@color(obwohl eine Spannung anliegt, red)) gleich Null
+
+- wir nehmen an, dass die Induktionsspannung (laut Lenz'scher Regel der Ursache entgegen gerichtet) den selben Wert wie die anliegende Spannung $U_0$ hat
