@@ -1481,3 +1481,279 @@ __für 20 mA__
 Für jede Stromstärke ergibt sich ein nachezu konstanter Wert $B/U_H$. Für eine konstante Stromstärke durch die Hallsonde ist die Hall-Spannung proportional zur Flussdichte.
 
 </details>
+
+
+
+## 8.4 Spulen in Wechselstromkreisen
+
+Die folgenden Untersuchungen beziehen sich auf eine Spule, welche sich in einem Stromkreis mit einer Wechselspannung befindet. Dabei bezeichnet $f$ die @color(Frequenz, red) der Wechselspannung. 
+
+### 8.4.1 Der elektrische Widerstand einer Spule im Gleich- und Wechselstromkreis
+
+
+{{1}}
+**********
+<p class="newspaper">
+
+![SpuleSchaltkreis](https://diversewolken.ddns.net/nextcloud/index.php/s/dHcYLDPtZ64keSn/download)
+
+<p class="cb">
+
+> Da die Spule durch die Länge des Drahtes einen ohmschen Widerstand besitzt, kann Sie als Reihenschaltung eines Widerstands $R$ und der Spulenwindungen dargestellt werden. Der @color(elektrische Widerstand in einem Wechselstromkreis, red) wird mit @color(Z, red) bezeichnet. Einheit: $\Omega$
+
+</p>
+
+</p>
+
+---
+**********
+
+{{2}}
+**********
+> Im folgenden Demonstrationsexperiment wird für verschiedene Frequenzen der Wechselspannung an einer Spule die Spannung und die Stromstärke gemessen. Es gilt:
+>
+> $$ Z = \dfrac{U}{I} $$
+
+---
+**********
+
+{{3}}
+**********
+<p style="margin:10%">
+
+| $f$ in Hz | $U$ in V | $I$ in A | $Z$ in $\Omega$ | $L$ in H |
+
+<p style ="color:blue; margin-left:5%">
+
+1. Ergänze mit Hilfe des Demonstrationsexperiments folgende Tabelle im Hefter.
+
+2. Zeichne ein Diagramm des Wechselstromwiderstands in Abhängigkeit der Frequenz.
+
+3. Diskutiere mit deinem Nachbar Ergebnisse dieser Messreihe.
+
+</p>
+
+
+<details style="margin-left:5%">
+
+<summary> Ergebnisse </summary>
+
+---
+
+| $f$ in Hz | $U$ in V | $I$ in A | $Z$ in $\Omega$ |
+| 0 | 1.94 | 0.028 | 69 |
+| 10 | 1.94 | 0.028 | 69 |
+| 50 | 1.95 | 0.0263 | 74 |
+| 100 | 1.96 | 0.022 | 90 |
+| 200 | 1.95 | 0.0142 | 135 |
+| 500 | 1.95 | 0.0065 | 300  |
+
+<!-- 
+    data-show
+    data-type="line"
+    data-xlabel="f in Hz" 
+    data-ylabel="Z in Ω" 
+    data-title="Wechselstromwiderstand einer Spule"
+-->
+| $f$ in Hz | $Z$ in Ω |
+| :--: | :--: |
+| 0 | 69 | 
+| 10 | 69 |
+| 50 | 74 |
+| 100 | 90 |
+| 200 | 135 |
+| 500 | 300 |
+
+</details>
+
+{{4}}
+*********
+
+---
+
+Der Wechselstromwiderstand Z einer Spule ist von von der Frequenz  und der Induktivität der Spule abhängig. Es gilt:
+
+> $$ Z^2 = R^2 + (\omega\cdot L)^2 $$
+>
+> mit
+>
+> - R .. Gleichstromwiderstand der Spule
+>
+> - $\omega =2\pi\cdot f$ .. Kreisfrequenz
+>
+> - L .. Induktivität der Spule
+
+*********
+
+
+{{5}}
+*********
+
+<p style ="color:blue; margin-left:5%">
+
+4. Ermittle aus den Messdaten die Induktivität L der Spule.
+
+</p>
+
+{{6}}
+*********
+
+$$ L = \dfrac{\sqrt{Z^2-R^2}}{2\cdot\pi \cdot f} $$
+
+<!-- 
+    data-show="false"
+-->
+| $f$ in Hz | $Z$ in Ω | $L$ in H |
+| :--: | :--: | :--: | 
+| 10 | 69 | 0,085 |
+| 50 | 74 | 0,085 |
+| 100 | 90 | 0,092 |
+| 200 | 135 | 0,093 |
+| 500 | 300 | 0,093 |
+
+*********
+
+*********
+
+</p>
+
+**********
+
+
+
+
+### 8.4.2 Einschaltvorgang einer Spule
+
+Um das Verhalten einer Spule in einem Wechselstromkreis zu verstehen, kann eine Untersuchung von Ein- und Ausschaltvorgängen nützlich sein. Im folgenden Experiment soll der Einschaltvorgang an einer (Schul-)Spule experimentell und mittels einer Simulation untersucht werden.
+
+> __Arbeitsaufträge__
+> 
+> 1. Modellierte Untersuchung des Einschaltvorgangs I(t) an einer Spule
+> 
+> 2. Experimentelle Untersuchung des Einschaltvorgangs I(t) an einer Spule 
+
+> __Schaltkreis__
+>
+> ![SpuleSchaltkreis](https://diversewolken.ddns.net/nextcloud/index.php/s/XLgqarQRmk8nmfr/download)
+
+>__Demonstrationsexperiment $I(t)$__
+>
+> ![Demograph_I_t](https://diversewolken.ddns.net/nextcloud/index.php/s/LxRkpz4B8C7e2JQ/download)
+
+#### 1. Modellierung: Einschaltvorgang an einer Spule
+
+Für die Simulation von U(t) und I(t) wird die Simulationssoftware Moebius verwendet.
+
+__A. Formelgrundlage für die Simulation__
+
+> 1. Zusammenhang zwischen Spannung,Stromstärke & Widerstand
+>
+> $$ U = I \cdot R $$
+>
+> 2. An der Spule anliegende Spannung U
+>
+> $$ U = U_0 + U_{ind} $$
+>
+> 3. Selbstinduktion (vgl. 8.1.4)
+> 
+> $$ U_{ind} = - L \cdot \dfrac{\mathrm{d}I}{\mathrm{d}t} $$
+
+__B. Hinweise zum Simulationscode__
+
+- Gleichung 1. können wir direkt verwenden
+
+- Gleichung 2. stellen wir nach $U_{ind}$ um
+
+- Gleichung 3. stellen wir nach der Stromänderung $\mathrm{d}I$ um
+
+- die Stromstärke wird ermittelt mit $I = I + \mathrm{d}I$
+
+- die Zeit wird ermittelt mit $t = t + \mathrm{d}t$
+
+> @color(__Versuche den Simulationscode zu erstellen.__, blue)
+
+---
+
+<details style="margin-left:5%">
+
+<summary> Lösung Code </summary>
+
+``` 
+
+U = I*R
+
+Uind = U-U0
+
+dI = -Uind/L * dt
+
+I = I + dI
+
+t = t + dt
+
+```
+
+</details>
+
+---
+
+__C. Hinweise: Analyse der Anfangsbedingungen (t=0)__
+
+- ausgehend vom Demonstrationsexperiment ist die Stromstärke im Moment des Schalter-Schließens (@color(obwohl eine Spannung anliegt, red)) gleich Null
+
+- der Widerstand R beträgt laut Aufdruck der Spule $68\,\Omega$
+
+- die angelegte Spannung $U_0$ beträgt im Experiment 2 V
+
+- die Induktivität der Spule beträgt 0,095 H
+
+- ein sinnvoller Zeitschritt $\mathrm{d}t$ beträgt 1E-5 s bei 500 Wiederholungen
+
+> @color(__Versuche die Anfangsbedingungen an das Demonstrations-Experiment anzupassen.__, blue)
+
+---
+
+<details style="margin-left:5%">
+
+<summary> Lösung Anfangsbedingungen </summary>
+
+| | |
+| I | 0 |
+| R | 68 |
+| U0 | 2 |
+| L | 0,095 |
+| dt | 1e-5 |
+| t | 0 |
+
+</details>
+
+---
+
+__D. Vergleich mit Lösung I(t)__
+
+> Vergleiche deine Lösung mit der Musterlösung
+
+<details style="margin-left:5%">
+
+<summary> Lösung I(t) </summary>
+
+![LsgSimulation](https://diversewolken.ddns.net/nextcloud/index.php/s/AYoNqLsqYFogLzH/download)
+
+</details>
+
+---
+
+__E. Komplettlösung bei Problemen.__
+
+---
+
+<details style="margin-left:5%">
+
+<summary> Lösung Gesamt-Simulation </summary>
+
+![LsgSimulation](https://diversewolken.ddns.net/nextcloud/index.php/s/HqdiJFp8AMx65NT/download)
+
+[EinschaltenSpule.prg](https://diversewolken.ddns.net/nextcloud/index.php/s/KqnocdiaL4tZedP)
+
+</details>
+
+---

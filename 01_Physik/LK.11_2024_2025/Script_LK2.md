@@ -6315,19 +6315,25 @@ $$ L = \dfrac{\sqrt{Z^2-R^2}}{2\cdot\pi \cdot f} $$
 
 ### 8.4.2 Einschaltvorgang einer Spule
 
-Um das Verhalten einer Spule in einem Wechselstromkreis zu verstehen, kann eine Untersuchung von Ein- und Ausschaltvorgängen nützlich sein. Im folgenden Experiment soll der Einschaltvorgang an einer (schul-)Spule experimentell und mittels einer Simulation untersucht werden.
 
-Die Arbeitsaufträge enthalten zwei wesentliche Teile:
+Um das Verhalten einer Spule in einem Wechselstromkreis zu verstehen, kann eine Untersuchung von Ein- und Ausschaltvorgängen nützlich sein. Im folgenden Experiment soll der Einschaltvorgang an einer (Schul-)Spule experimentell und mittels einer Simulation untersucht werden.
 
-1. Modellierte Untersuchung des Einschaltvorgangs (U(t) und I(t)) an einer Spule
+> __Arbeitsaufträge__
+> 
+> 1. Modellierte Untersuchung des Einschaltvorgangs I(t) an einer Spule
+> 
+> 2. Experimentelle Untersuchung des Einschaltvorgangs I(t) an einer Spule 
 
-2. Experimentelle Untersuchung des Einschaltvorgangs (U(t) und I(t)) an einer Spule 
+> __Schaltkreis__
+>
+> ![SpuleSchaltkreis](https://diversewolken.ddns.net/nextcloud/index.php/s/XLgqarQRmk8nmfr/download)
 
-In beiden Fällen ist folgender Schaltkreis gegeben.
+>__Demonstrationsexperiment $I(t)$__
+>
+> ![Demograph_I_t](https://diversewolken.ddns.net/nextcloud/index.php/s/LxRkpz4B8C7e2JQ/download)
 
-![SpuleSchaltkreis](https://diversewolken.ddns.net/nextcloud/index.php/s/XLgqarQRmk8nmfr/download)
 
-#### 1. Modellierung Einschaltvorgang an einer Spule
+#### 1. Modellierung: Einschaltvorgang an einer Spule
 
 Für die Simulation von U(t) und I(t) wird die Simulationssoftware Moebius verwendet.
 
