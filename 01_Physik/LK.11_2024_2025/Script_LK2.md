@@ -6327,30 +6327,120 @@ In beiden Fällen ist folgender Schaltkreis gegeben.
 
 ![SpuleSchaltkreis](https://diversewolken.ddns.net/nextcloud/index.php/s/XLgqarQRmk8nmfr/download)
 
-#### 1. Modell Einschaltvorgang an einer Spule
+#### 1. Modellierung Einschaltvorgang an einer Spule
 
 Für die Simulation von U(t) und I(t) wird die Simulationssoftware Moebius verwendet.
 
-__Grundlage für die Simulation/das Modell sind die Formeln__
+__A. Formelgrundlage für die Simulation__
 
-> 1. Selbstinduktion (vgl. 8.1.4)
+> 1. Zusammenhang zwischen Spannung,Stromstärke & Widerstand
+>
+> $$ U = I \cdot R $$
+>
+> 2. An der Spule anliegende Spannung U
+>
+> $$ U = U_0 + U_{ind} $$
+>
+> 3. Selbstinduktion (vgl. 8.1.4)
 > 
 > $$ U_{ind} = - L \cdot \dfrac{\mathrm{d}I}{\mathrm{d}t} $$
->
-> 2. Die anliegende Spannung U(t) ergibt sich aus
->
-> $$ U(t) = U_0 + U_{ind}(t) $$
 
-__Analyse des Einschaltvorgangs__
+__B. Hinweise zum Simulationscode__
+
+- Gleichung 1. können wir direkt verwenden
+
+- Gleichung 2. stellen wir nach $U_{ind}$ um
+
+- Gleichung 3. stellen wir nach der Stromänderung $\mathrm{d}I$ um
+
+- die Stromstärke wird ermittelt mit $I = I + \mathrm{d}I$
+
+- die Zeit wird ermittelt mit $t = t + \mathrm{d}t$
+
+> @color(__Versuche den Simulationscode zu erstellen.__, blue)
+
+---
+
+<details style="margin-left:5%">
+
+<summary> Lösung Code </summary>
+
+``` 
+
+U = I*R
+
+Uind = U-U0
+
+dI = -Uind/L * dt
+
+I = I + dI
+
+t = t + dt
+
+```
+
+</details>
+
+---
+
+__C. Hinweise: Analyse der Anfangsbedingungen (t=0)__
 
 - ausgehend vom Demonstrationsexperiment ist die Stromstärke im Moment des Schalter-Schließens (@color(obwohl eine Spannung anliegt, red)) gleich Null
 
-- d.h. wir nehmen an, dass die Induktionsspannung (laut Lenz'scher Regel der Ursache entgegen gerichtet) den selben Betrag hat, wie die anliegende Spannung $U_0$ hat 
+- der Widerstand R beträgt laut Aufdruck der Spule $68\,\Omega$
 
-$$ \Rightarrow U_{ind}(0) = -U_0 $$
+- die angelegte Spannung $U_0$ beträgt im Experiment 2 V
 
-__Simulationscode__
+- die Induktivität der Spule beträgt 0,095 H
 
-Aus der Gleichung 1. kann die Änderung der Stromstärke ermittelt werden
+- ein sinnvoller Zeitschritt $\mathrm{d}t$ beträgt 1E-5 s bei 500 Wiederholungen
 
-$$ \mathrm{d}I = \frac{U_{ind}}{L} \cdot \mathrm{d}t $$
+> @color(__Versuche die Anfangsbedingungen an das Demonstrations-Experiment anzupassen.__, blue)
+
+---
+
+<details style="margin-left:5%">
+
+<summary> Lösung Anfangsbedingungen </summary>
+
+| | |
+| I | 0 |
+| R | 68 |
+| U0 | 2 |
+| L | 0,095 |
+| dt | 1e-5 |
+| t | 0 |
+
+</details>
+
+---
+
+__D. Vergleich mit Lösung I(t)__
+
+> Vergleiche deine Lösung mit der Musterlösung
+
+<details style="margin-left:5%">
+
+<summary> Lösung I(t) </summary>
+
+![LsgSimulation](https://diversewolken.ddns.net/nextcloud/index.php/s/AYoNqLsqYFogLzH/download)
+
+</details>
+
+---
+
+__E. Komplettlösung bei Problemen.__
+
+---
+
+<details style="margin-left:5%">
+
+<summary> Lösung Gesamt-Simulation </summary>
+
+![LsgSimulation](https://diversewolken.ddns.net/nextcloud/index.php/s/HqdiJFp8AMx65NT/download)
+
+[EinschaltenSpule.prg](https://diversewolken.ddns.net/nextcloud/index.php/s/KqnocdiaL4tZedP)
+
+</details>
+
+---
