@@ -6336,9 +6336,21 @@ __Grundlage für die Simulation/das Modell sind die Formeln__
 > 1. Selbstinduktion (vgl. 8.1.4)
 > 
 > $$ U_{ind} = - L \cdot \dfrac{\mathrm{d}I}{\mathrm{d}t} $$
+>
+> 2. Die anliegende Spannung U(t) ergibt sich aus
+>
+> $$ U(t) = U_0 + U_{ind}(t) $$
 
 __Analyse des Einschaltvorgangs__
 
 - ausgehend vom Demonstrationsexperiment ist die Stromstärke im Moment des Schalter-Schließens (@color(obwohl eine Spannung anliegt, red)) gleich Null
 
-- wir nehmen an, dass die Induktionsspannung (laut Lenz'scher Regel der Ursache entgegen gerichtet) den selben Wert wie die anliegende Spannung $U_0$ hat
+- d.h. wir nehmen an, dass die Induktionsspannung (laut Lenz'scher Regel der Ursache entgegen gerichtet) den selben Betrag hat, wie die anliegende Spannung $U_0$ hat 
+
+$$ \Rightarrow U_{ind}(0) = -U_0 $$
+
+__Simulationscode__
+
+Aus der Gleichung 1. kann die Änderung der Stromstärke ermittelt werden
+
+$$ \mathrm{d}I = \frac{U_{ind}}{L} \cdot \mathrm{d}t $$
