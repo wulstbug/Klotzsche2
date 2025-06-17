@@ -6161,7 +6161,7 @@ Die folgenden Untersuchungen beziehen sich auf eine Spule, welche sich in einem 
 **********
 <p style="margin:10%">
 
-| $f$ in Hz | $U$ in V | $I$ in A | $Z$ in $\Omega$ |
+| $f$ in Hz | $U$ in V | $I$ in A | $Z$ in $\Omega$ | $L$ in H |
 
 <p style ="color:blue; margin-left:5%">
 
