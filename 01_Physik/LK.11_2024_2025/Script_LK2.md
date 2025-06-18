@@ -6450,3 +6450,11 @@ __E. Komplettlösung bei Problemen.__
 </details>
 
 ---
+
+#### 2. Experiment: Einschaltvorgang an einer Spule
+
+Für die experimentelle Bestimmung  von I(t) wird eine getriggerte Messung mit dem Cassy Messgerät genutzt.
+
+__A. Schaltung aufbauen__
+
+Bauen Sie die Schaltung mit der Schulspule anhand des Schaltkreises aus. Schließen Sie das Cassy-Messgerät so an, dass die Stromstärke $I$ bestimmt werden kann.
