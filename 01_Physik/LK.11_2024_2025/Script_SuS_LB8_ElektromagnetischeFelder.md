@@ -1757,3 +1757,124 @@ __E. Komplettlösung bei Problemen.__
 </details>
 
 ---
+
+
+#### 2. Experiment: Einschaltvorgang an einer Spule
+
+Für die experimentelle Bestimmung  von I(t) wird eine getriggerte Messung mit dem Cassy Messgerät genutzt.
+
+---
+
+__A. Schaltung aufbauen__
+
+![Drucktaster](https://diversewolken.ddns.net/nextcloud/index.php/s/txgRoqdBkb32egb/download)<!-- style="width:300px"--> Bauen Sie die Schaltung mit der Schulspule anhand des Schaltkreises aus. Schließen Sie das Cassy-Messgerät so an, dass die Stromstärke $I$ bestimmt werden kann. Nutzen Sie als Schalter einen Drucktaster. 
+
+![SchaltkreisExperiment](https://diversewolken.ddns.net/nextcloud/index.php/s/227FSxSYMpAzLry/download)
+
+@color(Lassen Sie sich Ihre Schaltung abnehmen., red)
+
+---
+
+__B. Cassy-Messgerät verbinden__
+
+- verbinden Sie das Cassy-Messgerät mit dem Tablet.
+
+<details style="margin-left:5%">
+
+<summary> Arbeitsablauf: Cassy mit Tablet verbinden </summary>
+
+- nach Einschalten von _Cassy_ baut das Gerät selbstständig eine W-Lan Verbinung auf
+
+- wechseln Sie auf dem Cassy zum Menu Einstellungen (oben rechts) 
+
+- wählen Sie QR-Code anzeigen, wechseln Sie zu AP_Daten und scannen Sie den angezeigten QR-Code mit dem Tablet -> das Tablet wird sich mit dem Cassy verbinden
+
+![Cassy-Einstellungen](https://diversewolken.ddns.net/nextcloud/index.php/s/cbw8JJBd7AAetEz/download)<!-- style="max-width:300px; margin-left:20%"-->
+
+- wenn ihr Tablet mit dem _Cassy_-WLan verbunden ist, öffnen Sie einen neuen Tab im Safari-Webbrowser und öffnen Sie folgende Adresse [http://10.10.10.1](http://10.10.10.1)
+
+![Cassy-WLan](https://diversewolken.ddns.net/nextcloud/index.php/s/zgynA6RKTTEaM4Y/download)<!-- style="max-width:80%; margin:5%"-->
+
+- zu sehen ist die Live-Anzeige des Spannungssensors <br>-> aktivieren Sie am Cassy die Stromstärkemessung und deaktivieren Sie die Spannungsmessung <br> -> Überprüfen Sie die Veränderung auf Ihrem Tablet
+
+![Cassy-WLan2](https://diversewolken.ddns.net/nextcloud/index.php/s/8ZjcN5DZqk6frXw/download)<!-- style="max-width:80%; margin:5%"-->
+
+</details>
+
+---
+
+__C. Cassy-Messgerät einstellen__
+
+Um den _schnellen und kurzzeitigen_ Einschaltvorgang zu erfassen, muss das Cassy-Messgerät im @color(Trigger-Modus, orange) betrieben werden.
+
+     __Stromstärke Sensor (->Multimeter):__
+
+- Bereich -0,03..0,03 A
+
+- Nullpunkt links
+
+---
+
+__Trigger-Modus (->Einstellungen):__
+
+0. Aufnahme -> Automatisch
+
+1. Messzeit -> hier 10 ms
+
+2. Messintervall -> hier 10µs (1E-5s)
+
+3. Trigger -> Hier Stromstärke $I_B$
+
+4. Schwellwert des Triggers -> hier 0,0001 A
+
+5. Pretrigger (Messwerte vor dem Trigger) -> -1ms
+
+---
+
+__D. Messwerte aufnehmen__
+
+Wechseln Sie in den Bereich Diagramm und wählen Sie oben links den Button _Messzeit 10ms_.
+
+-> Cassy wartet nun auf das Trigger-Signal
+
+-> Schließen Sie den Drucktaster (vergleichen Sie Ihre Messung mit Ihrer Simulation)
+
+-> Wiederholen Sie Ihre Messung, wenn der gemessene Graph sehr unregelmäßig verläuft
+
+#### 3. Vergleich von Simulation und Experiment
+
+> Idealer Weise haben Sie nun einen experimentellen und einen simulierten Datensatz vorliegen.
+
+__Beispiel__
+
+---
+
+<p class="newspaper">
+
+__Simulation__
+
+![Simulation](https://diversewolken.ddns.net/nextcloud/index.php/s/BFyaGYYZerCASPS/download)
+
+<p class="cb">
+
+__Experiment__
+
+![Experiment](https://diversewolken.ddns.net/nextcloud/index.php/s/swqSTHeHqsBkm3f/download)
+
+</p>
+
+</p>
+
+---
+
+@color(Aufgabe: Drucken Sie die Simulation aus und tragen Sie den Graph der experimentellen Messwerte in die Simulation ein. Nutzen Sie für den Experimentgraph Zeitpunkte im Abstand von 0.5ms, blue)
+
+#### 4. Vergleich mit Eisenkern
+
+1. Setzen Sie nun in die Spule einen Eisenkern (wie bei elektrische Zahnbürste). 
+
+2. Experimentieren Sie mit dem Cassy-Messgerät und den Trigger-Einstellungen, bis sie eine Aussagekräftige Messkurve $I(t)$ aufnehmen können
+
+3. Erstellen Sie eine Kopie Ihrer Simulation (_EinschaltvorgangSpuleIKern_) und verändern Sie den Parameter $L$ derart, dass Simulation und Messung gut übereinstimmen
+
+4. Drucken Sie Ihre Simulation abermals aus und ergänzen Sie Datenpunkte des Experiments

@@ -6231,7 +6231,7 @@ Der Wechselstromwiderstand Z einer Spule ist von von der Frequenz  und der Induk
 
 <p style ="color:blue; margin-left:5%">
 
-4. Ermittle aus den Messdaten die Induktivität L der Spule.
+4. Ermittle aus den Messdaten für $f=50$Hz bis $200$Hz die Induktivität L der Spule.
 
 </p>
 
@@ -6242,9 +6242,8 @@ $$ L = \dfrac{\sqrt{Z^2-R^2}}{2\cdot\pi \cdot f} $$
 
 | $f$ in Hz | $Z$ in Ω | $L$ in H |
 | :--: | :--: | :--: | 
-| 10 | 69 | 0,085 |
-| 50 | 74 | 0,085 |
-| 100 | 90 | 0,092 |
+| 50 | 74 | 0,100 |
+| 100 | 90 | 0,096 |
 | 200 | 135 | 0,093 |
 | 500 | 300 | 0,093 |
 
@@ -6393,7 +6392,7 @@ __C. Hinweise: Analyse der Anfangsbedingungen (t=0)__
 
 - ausgehend vom Demonstrationsexperiment ist die Stromstärke im Moment des Schalter-Schließens (@color(obwohl eine Spannung anliegt, red)) gleich Null
 
-- der Widerstand R beträgt laut Aufdruck der Spule $68\,\Omega$
+- der Widerstand R beträgt laut Aufdruck der Spule $67\,\Omega$
 
 - die angelegte Spannung $U_0$ beträgt im Experiment 2 V
 
@@ -6411,7 +6410,7 @@ __C. Hinweise: Analyse der Anfangsbedingungen (t=0)__
 
 | | |
 | I | 0 |
-| R | 68 |
+| R | 67 |
 | U0 | 2 |
 | L | 0,095 |
 | dt | 1e-5 |
@@ -6537,7 +6536,9 @@ Wechseln Sie in den Bereich Diagramm und wählen Sie oben links den Button _Mess
 
 > Idealer Weise haben Sie nun einen experimentellen und einen simulierten Datensatz vorliegen.
 
-__Beispiel:__
+__Beispiel__
+
+---
 
 <p class="newspaper">
 
@@ -6555,7 +6556,11 @@ __Experiment__
 
 </p>
 
+---
+
 @color(Aufgabe: Drucken Sie die Simulation aus und tragen Sie den Graph der experimentellen Messwerte in die Simulation ein. Nutzen Sie für den Experimentgraph Zeitpunkte im Abstand von 0.5ms, blue)
+
+---
 
 <details>
 
