@@ -1819,7 +1819,7 @@ __Trigger-Modus (->Einstellungen):__
 
 0. Aufnahme -> Automatisch
 
-1. Messzeit -> hier 10 ms
+1. Messzeit -> hier 5 ms
 
 2. Messintervall -> hier 10µs (1E-5s)
 
