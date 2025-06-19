@@ -1867,14 +1867,10 @@ __Experiment__
 
 ---
 
-@color(Aufgabe: Drucken Sie die Simulation aus und tragen Sie den Graph der experimentellen Messwerte in die Simulation ein. Nutzen Sie für den Experimentgraph Zeitpunkte im Abstand von 0.5ms, blue)
+<p style="color:blue">
 
-#### 4. Vergleich mit Eisenkern
+1. Passen Sie die Simulation gegebenenfalls an, dass Sie den Messergebnissen gut entspricht.
 
-1. Setzen Sie nun in die Spule einen Eisenkern (wie bei elektrische Zahnbürste). 
+2. Drucken Sie die Simulation aus und tragen Sie den Graph der experimentellen Messwerte in die Simulation ein. Nutzen Sie für den Experimentgraph Zeitpunkte im Abstand von 0.5ms.
 
-2. Experimentieren Sie mit dem Cassy-Messgerät und den Trigger-Einstellungen, bis sie eine Aussagekräftige Messkurve $I(t)$ aufnehmen können
-
-3. Erstellen Sie eine Kopie Ihrer Simulation (_EinschaltvorgangSpuleIKern_) und verändern Sie den Parameter $L$ derart, dass Simulation und Messung gut übereinstimmen
-
-4. Drucken Sie Ihre Simulation abermals aus und ergänzen Sie Datenpunkte des Experiments
+</p>

@@ -6558,7 +6558,13 @@ __Experiment__
 
 ---
 
-@color(Aufgabe: Drucken Sie die Simulation aus und tragen Sie den Graph der experimentellen Messwerte in die Simulation ein. Nutzen Sie für den Experimentgraph Zeitpunkte im Abstand von 0.5ms, blue)
+<p style="color:blue">
+
+1. Passen Sie die Simulation gegebenenfalls an, dass Sie den Messergebnissen gut entspricht.
+
+2. Drucken Sie die Simulation aus und tragen Sie den Graph der experimentellen Messwerte in die Simulation ein. Nutzen Sie für den Experimentgraph Zeitpunkte im Abstand von 0.5ms.
+
+</p>
 
 ---
 
