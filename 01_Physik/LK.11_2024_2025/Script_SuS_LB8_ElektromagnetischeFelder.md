@@ -1827,7 +1827,7 @@ __Trigger-Modus (->Einstellungen):__
 
 4. Schwellwert des Triggers -> hier 0,0001 A
 
-5. Pretrigger (Messwerte vor dem Trigger) -> -1ms
+5. Pretrigger (Messwerte vor dem Trigger) -> @color(ausprobieren, orange)
 
 ---
 
