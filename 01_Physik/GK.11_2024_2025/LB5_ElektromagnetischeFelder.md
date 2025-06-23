@@ -105,110 +105,14 @@ try {
 
 # LB V - Elektromagnetische Felder
 
-__Checkliste Klausur 11ph3 28.04.25__
-
-__Grundlagen magnetische Kraft/magnetisches Feld:__
-
-- Lorentzkraft auf eine bewegte Ladung im homogenen Magnetfeld (Formel und Handregeln) [Übungsaufgabe-Lorentzkraft](https://liascript.github.io/nightly/?https://raw.githubusercontent.com/wulstbug/Klotzsche2/2024_2025/01_Physik/GK.11_2024_2025/LB4_GeladeneTeilchen_StatischeFelder.md#4)
-
-- Berechnung magnetische Flussdichte B einer langen Spule (Formel steht in der Formelsammlung, sollte verstanden sein) [Übungsaufgabe-Flussdichte](https://liascript.github.io/nightly/?https://raw.githubusercontent.com/wulstbug/Klotzsche2/2024_2025/01_Physik/GK.11_2024_2025/LB3_MagnetischesFeld.md#8)
-
-__Grundlagen elektrische Kraft/elektrischen Feld:__
-
-- Berechnung der elektrischen Kraft auf eine Ladung im elektrischen Feld (Formeln stehen in der Formelsammlung) [Übung-ElektrischeKraft](https://liascript.github.io/nightly/?https://raw.githubusercontent.com/wulstbug/Klotzsche2/2024_2025/01_Physik/GK.11_2024_2025/LB2_ElektrischesFeld.md#10)
-
-    - Berechnung des elektrischen Feldes in einem Plattenkondensator (nur 6.1 bis 6.3: [Übungen-Plattenkondensator-6.1-6.3](https://liascript.github.io/nightly/?https://raw.githubusercontent.com/wulstbug/Klotzsche2/2024_2025/01_Physik/GK.11_2024_2025/LB2_ElektrischesFeld.md#21)
-
-__Bewegung elektrischer Ladungen im B-Feld oder E-Feld:__
-
-- Bewegung einer Ladung im homogenen Magnetfeld (inkl. Bestimmung Kreisbahnradius) [Abituraufgabe](https://liascript.github.io/nightly/?https://raw.githubusercontent.com/wulstbug/Klotzsche2/2024_2025/01_Physik/GK.11_2024_2025/LB4_GeladeneTeilchen_StatischeFelder.md#9)
-
-- Beschleunigung einer elektrischen Ladung im elektrischen Feld (Längsfeld / Elektronenkanone) [Übung-Elektronenkanone-Aufgabe-2](https://virtuelle-experimente.de/kanone/uebungen/aufgaben.php)
-
-- e/m-Versuch: [Wdh-Video-Zum-Versuch](https://youtu.be/A8mLTfc8W7c?si=nx-6LFE48FBjRmEn) (Kombination aus Elektronenkanone und homogenem Magnetfeld in Helmholtzspulen) (Aufgabe 2 a,b,c: [Abituraufgabe-2-abc](https://virtuelle-experimente.de/b-feld/uebungen/aufgaben.php) )
-
-__Elektromagnetische Induktion:__
-
-- Elektromagnetische Induktion und der magnetische Fluss $\Phi$ (Definition)
-
-- Anwendung des Induktionsprinzips bei Generator
-
-- Anwendung des Induktionsprinzips bei Transformator
-
-- Abhängigkeit der Induktionsspannung von der Windungszahl
-
-- IQB: Aufgabe 1-5: [IQB-Aufgabe zur Elektro-Magnetischen-Induktion](https://www.iqb.hu-berlin.de/appsrc/taskpool/data/taskpools/getTaskFile?id=p12^InduktiversensorgA^f21968)
-
 !?[CG-Physics-Generator](https://www.youtube.com/watch?v=34z97ULvmpM)
 
 ## Motivation - Kraftwerke zur Energieversorgung
 
-![Waermekraftewerk](https://diversewolken.ddns.net/nextcloud/index.php/s/zq3twaoxKzLcwj7/download) ![Heizkrafttwerk](https://diversewolken.ddns.net/nextcloud/index.php/s/8qx3ERQmPMgmeqX/download) ![Wasserkraftwerk](https://diversewolken.ddns.net/nextcloud/index.php/s/Xbf7QmBSmwzN4GK/download)
 
 ## 1. Elektromagnetische Induktion
 
-{{1}}
-********
-> __Induktion:__ Eine Spannung wird induziert, wenn sich der @color(magnetische Fluss $\Phi$,red) einer Leiterschleife oder Spule @color(ändert, red).
-********
-
-{{2}}
-********
----
-
-> __Definition:__ Der @color(magnetische Fluss $\Phi$, red) ist definiert als
->
-> $$ \boxed{\red{\Phi = B \cdot A}} $$
->
-> $\hspace{1cm}$ B .. magnetische Flussdichte
->
-> $\hspace{1cm}$ A .. vom Magnetfeld durchsetzte Fläche
-********
-
-{{3}}
-********
----
-
-> __Induktionsspannung:__ Der Betrag der Induktionsspannung $U_{ind}$ ist definiert ergibt sich aus der Windungszahl der Spule $N$ multipliziert mit der @color(zeitlichen Änderung des magnetischen Flusses $\frac{\Delta\Phi}{\Delta t}$, red).
->
-> $$ \boxed{U_{ind} = N \cdot \dfrac{\red{\Delta \Phi}}{\Delta t}} $$
-********
-
-{{4}}
-********
----
-
-__1. Schlussfolgerung:__ Je größer die Windungszahl $N$ der Spule, desto größer ist die induzierte Spannung $U_{ind}$.
-
----
-********
-
-<p class="newspaper">
-{{5}}
-********
-> __Induktion durch Änderung der Fläche A__
->
-> $$ \boxed{U_{ind} = N \cdot \red{B} \cdot \dfrac{\red{\Delta A}}{\Delta t}} $$
->
-> __Beispiel:__ @color(Generator, blue)
-********
-
-<p class="cb">
-{{6}}
-********
-
-> __Induktion durch Änderung der Flussdichte B__ 
->
-> $$ \boxed{U_{ind} = N \cdot \red{A} \cdot \dfrac{\red{\Delta B}}{\Delta t}} $$
->
-> __Beispiel:__ @color(Transformator, blue)
-********
-</p>
-
-</p>
-
 ### 1.1. Aufgaben zum Generator
-
 
 <p style="color:blue">
 
@@ -228,39 +132,6 @@ __1. Schlussfolgerung:__ Je größer die Windungszahl $N$ der Spule, desto grö�
 
 
 #### Grundversuche Elektromagnetische Induktion
-
-@color(Nutze die drei Simulationen um die zugehörigen Lückentexte auszufüllen., blue)
-
-[LEIFI-Lückentexte](https://www.leifiphysik.de/elektrizitaetslehre/elektromagnetische-induktion/versuche/drei-grundversuche-zur-elektromagnetischen-induktion-simulationen)
-
-#### Aufbau eines Generators
-
-Ein einfacher __Generator__ besteht typischer Weise aus einem @color(Magneten, orange) und einer @color(Spule,orange), welche sich im Magnetfeld drehen kann.
-
-<p class="newspaper">
-
-__Skizze:__
-
-![Generator_Skizze](https://asset.conrad.com/media10/isa/160267/c1/-/de/Generator/grundfunktion-eines-generators.jpg)
-
-<p class="cb">
-
-1. Fester Dauermagnet (kann auch Elektromagnet sein) -> @color(__STATOR__,red)
-
-2. Magnetfeld des Dauermagneten (_nicht sichtbar_)
-
-3. Drehbare Spule (hier nur Leiterschleife) -> @color(__ROTOR__,red)
-
-4. Schleifringe
-
-5. Schleifkontakte zur Spannungsabführung
-
-_Hinweis: Magnet und Spule (d.h. **Rotor** und **Stator**) können auch vertauscht sein. Dann ist Magnet beweglich und die Spule fest._
-
-</p>
-
-</p>
-
 
 #### KI: Elektromagnetische Induktion am Generator
 
@@ -375,54 +246,7 @@ __Der Generator:__
 
 ### 1.2. Arbeitsaufträge zum Transformator
 
-<p style="color:blue">
-
-- [ ] Zeichne das Schema eines Transformators in deinen Hefter. Übernimm das Tafelbild komlett
-
-- [ ] Bearbeite die Übungen zum Trafo
-
-- [ ] Bearbeite die KI-Aufgaben zur Induktion
-
-
-</p>
-
 #### Aufbau Transformator
-
-<p class="newspaper">
-
-![TB-Transformator](https://diversewolken.ddns.net/nextcloud/index.php/s/mGSfKNSR8C9s8XM/download)
-
-<p>
-
-__Formelzeichen:__
-
-<p style="margin-left:10%">
-
-$U_1$ oder $U_p$ .. Primärspannung
-
-$U_2$ oder $U_s$ .. Sekundärspannung
-
-$N_1$ oder $N_p$ .. Windungszahl auf Primärseite
-
-$N_2$ oder $N_s$ .. Windungszahl auf Sekundärseite
-
-</p>
-
-__Funktionsprinzip:__
-
-<p style="margin-left:10%">
-
-Auf der Primärseite wird eine @color(__Wechselspannung__, darkblue) angelegt. Diese Wechselspannung erzeugt ein @color(__zeitlich veränderliches Magnetfeld__, orange), welches im wesentlichen im @color(__Eisenkern__, darkgray) verläuft. <br> Die @color(Sekundärspule,crimson) wird von dem Magnetfeld durchsetzt. In dieser Spule ändert sich der Magnetische Fluss $\Phi$ und somit wird eine Spannung induziert.
-
-</p>
-
-</p>
-
-</p>
-
-> Bei einem unbelasteten Transformator gilt:
->
-> $$ \boxed{\dfrac{U_1}{U_2} = \dfrac{N_1}{N_2}} $$
 
 #### Übung Funktionsweise Trafo
 
@@ -574,112 +398,9 @@ alternativer Link für eigene Geräte
 
 #### Experiment: Realer Transformator
 
-<p class="newspaper">
-
-__Aufgabe:__ 
-
-Baue einen Transformator nach folgendem Vorbild auf. Nutze die Cassy-Messgeräte um Primär- und Sekundärspannung für verschiedene Kominationen aus Primär- und Sekundärwindungszahl zu untersuchen.
-
-__Einstellungen:__
-
-Nutze am Spannungsversorgungsgerät die Einstellung: __Wechselspannung, 6V__. Nutze am Cassy-Messgerät die Einstellung für die __Erfassung: Effektivwerte (AC+DC)__
-
-__Analyse:__ 
-
-Zeichne einen Graphen mit $n=\dfrac{N_1}{N_2}$ auf der x-Achse und $n'= \dfrac{U_1}{U_2}$ auf der y-Achse.
-
-<p class="cb">
-
-![Aufbau_Transformator](https://diversewolken.ddns.net/nextcloud/index.php/s/pmQD7JM7pBTG45k/download)
-
-</p>
-
-</p>
-
-{{0-2}}
-*********
-<!--
-     data-schow="false"
-     data-title=""
-     data-type="line"
-     data-xlabel="N1/N2"
-     data-ylabel="U1/U2"
--->
-| $n=\dfrac{N_1}{N_2} $ | $U_1$ in V | $U_2$ in V | $n' = \dfrac{U_1}{U_2}$ |
-| ---- | ---- | ---- | ---- |
-| $\dfrac{2400}{800}=3$ | .. | .. | .. |
-| $\dfrac{2400}{1600}=1,5$ | .. | .. | .. |
-| $\dfrac{2400}{2400}=1$ | .. | .. | .. |
-| $\dfrac{1600}{800}=2$ | .. | .. | .. |
-| $\dfrac{1600}{1600}=1$ | .. | .. | .. |
-| $\dfrac{1600}{2400}=0,67$ | .. | .. | .. |
-| $\dfrac{800}{800}=1$ | .. | .. | .. |
-| $\dfrac{800}{1600}=0,5$ | .. | .. | .. |
-| $\dfrac{800}{2400}=0,33$ | .. | .. | .. |
-*********
-
-
-
 #### Demonstrationsexperiment A Freier Fall im Rohr
 
-> Stabmagnet fällt einerseits durch ein metallisches Rohr (Aluminium) und andererseits durch ein Kunststoffrohr.
-
----
-
-@color(Zeichnen Sie eine Skizze des Versuchs. Beschreiben Sie jeweils Ihre Beobachtungen., blue)
-
----
-
-__Skizze:__
-
----
-
-__Beobachtung:__
-
-<p class="newspaper">
-
-__Metallrohr__
-
-<p class="cb">
-
-__Kunststoffrohr__
-
-</p>
-
-</p>
-
----
-
-__Vorläufige Erklärung:__
-
-> - das metallische Rohr wirkt wie eine Spule mit einer Windung
->
-> - durch die Bewegung der magnetischen Kugel ändert sich _lokal_ der magnetische Fluss in der Röhre, es wird eine @color(Spannung induziert, red)
->
-> - durch die induzierte Spannung @color(fließt _kreisförmig_ ein Strom und erzeugt ein Magnetfeld,red)
->
-> - das @color(induzierte Magnetfeld, red) wechselwirkt mit dem Magnetfeld der Kugel und @color(bremst die Kugel, blue)
-
-
 ### 1.3. Lenz'sche Regel - Richtung der Induktionsspannung
-
-> Die induzierte Spannung ist immer @color(so gerichtet, red), dass sie ihrer Ursache @color(entgegen, red) wirkt.
-
-> $$ \boxed{U_{ind} = \red{\textbf{-}}\, N \cdot \dfrac{\Delta\Phi}{\Delta t}} $$
-
-__Beispiel:__ Fallender Stabmagnet im Rohr 
-
-__Ursache für Induktion:__ Bewegung der Kugel im Rohr
-
-__Anwendung der Lenz'schen Regel:__ Die induzierte Spanung (und daher das induzierte Magnetfeld) ist so gerichtet, dass es der Ursache (Bewegung) entgegen wirkt.
-
----
-
-_Hinweise:_
-
-- betrachten wir den @color(Betrag, red) (also den Wert) der induzierten Spannung, so genügt die Formel $N \cdot \dfrac{\Delta\Phi}{\Delta t}$
-
-- betrachten wir die @color(Wirkung, red) der induzierten Spannung, so müssen wir die _Lenz'sche Regel_ beachten
 
 #### Weitere Beispiele
 
@@ -767,52 +488,6 @@ alternativer Link für eigene Geräte
 
 
 ### 1.4. Experiment: Realer Transformator
-
-<p class="newspaper">
-
-__Aufgabe:__ 
-
-Baue einen Transformator nach folgendem Vorbild auf. Nutze die Cassy-Messgeräte um Primär- und Sekundärspannung für verschiedene Kominationen aus Primär- und Sekundärwindungszahl zu untersuchen.
-
-__Einstellungen:__
-
-Nutze am Spannungsversorgungsgerät die Einstellung: __Wechselspannung, 6V__. Nutze am Cassy-Messgerät die Einstellung für die __Erfassung: Effektivwerte (AC+DC)__
-
-__Analyse:__ 
-
-Zeichne einen Graphen mit $n=\dfrac{N_1}{N_2}$ auf der x-Achse und $n'= \dfrac{U_1}{U_2}$ auf der y-Achse.
-
-<p class="cb">
-
-![Aufbau_Transformator](https://diversewolken.ddns.net/nextcloud/index.php/s/pmQD7JM7pBTG45k/download)
-
-</p>
-
-</p>
-
-{{0-2}}
-*********
-<!--
-     data-schow="false"
-     data-title=""
-     data-type="line"
-     data-xlabel="N1/N2"
-     data-ylabel="U1/U2"
--->
-| $n=\dfrac{N_1}{N_2} $ | $U_1$ in V | $U_2$ in V | $n' = \dfrac{U_1}{U_2}$ |
-| ---- | ---- | ---- | ---- |
-| $\dfrac{2400}{800}=3$ | .. | .. | .. |
-| $\dfrac{2400}{1600}=1,5$ | .. | .. | .. |
-| $\dfrac{2400}{2400}=1$ | .. | .. | .. |
-| $\dfrac{1600}{800}=2$ | .. | .. | .. |
-| $\dfrac{1600}{1600}=1$ | .. | .. | .. |
-| $\dfrac{1600}{2400}=0,67$ | .. | .. | .. |
-| $\dfrac{800}{800}=1$ | .. | .. | .. |
-| $\dfrac{800}{1600}=0,5$ | .. | .. | .. |
-| $\dfrac{800}{2400}=0,33$ | .. | .. | .. |
-*********
-
-
 
 ### 1.5 Ermittlung der Induktionsspannung I
 
@@ -946,19 +621,3 @@ __Zeichne ein $U_{ind}(t)$-Diagramm für den dargestellten Zeitabschnitt.__
 
 ### 1.5 Ermittlung der Induktionsspannung II
 
-
-![DurchsetzteFläche](https://diversewolken.ddns.net/nextcloud/index.php/s/7gtg9MopxsGg3SN/download)
-
-Die induzierte Spannung ist für den Generator definiert als
-
-> $U_{ind} = -N \cdot B \cdot \dfrac{\red{\mathrm{d} A}}{\red{\mathrm{d} t}}$
-
-Die Ableitung der durchsetzten Fläche nach der Zeit ergibt:
-
-> $\dfrac{\red{\mathrm{d} A}}{\red{\mathrm{d} t}} = \dfrac{\red{\mathrm{d}}}{\red{\mathrm{d} t}} A_0 \cdot cos(2\pi f \cdot t) = - A_0 \cdot 2\pi f \cdot sin(2\pi f \cdot t)$
-
-An einem Generator ergibt sich die induzierte Spannung als Sinus-Funktion:
-
-> $U_{ind}(t) = N \cdot B \cdot A_0 \cdot 2\pi f \cdot sin(2\pi f \cdot t)$
->
-> ![Uind2](https://diversewolken.ddns.net/nextcloud/index.php/s/RDY5kJNYdkmL8b2/download)
