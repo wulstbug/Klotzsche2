@@ -144,79 +144,8 @@ window.LIA.settings.font_size = 2
 
 ## Motivation - Kraftwerke zur Energieversorgung
 
-![Waermekraftewerk](https://diversewolken.ddns.net/nextcloud/index.php/s/zq3twaoxKzLcwj7/download) ![Heizkrafttwerk](https://diversewolken.ddns.net/nextcloud/index.php/s/8qx3ERQmPMgmeqX/download) ![Wasserkraftwerk](https://diversewolken.ddns.net/nextcloud/index.php/s/Xbf7QmBSmwzN4GK/download)
 
 ## 8.1. Elektromagnetische Induktion
-
-{{1}}
-********
-> __Induktion:__ Eine Spannung wird induziert, wenn sich der @color(magnetische Fluss $\Phi$,red) einer Leiterschleife oder Spule @color(ändert, red).
-********
-
-{{2}}
-********
----
-
-> __Definition:__ Der @color(magnetische Fluss $\Phi$, red) ist definiert als
->
-> $$ \boxed{\red{\Phi = B \cdot A}} $$
->
-> $\hspace{1cm}$ B .. magnetische Flussdichte
->
-> $\hspace{1cm}$ A .. vom Magnetfeld durchsetzte Fläche
->
-> $\hspace{1cm}$ __Einheit:__ $\Big[ 1\,Wb = 1\,T\cdot m^2 = 1 V \cdot s \Big] $ (Wb _gesprochen_ Weber)
-********
-
-{{3}}
-********
----
-
-> __Induktionsspannung:__ Der Betrag der Induktionsspannung $U_{ind}$ ist definiert ergibt sich aus der Windungszahl der Spule $N$ multipliziert mit der @color(zeitlichen Änderung des magnetischen Flusses $\frac{\Delta\Phi}{\Delta t}$, red).
->
-> $$ \boxed{U_{ind} = - N \cdot \dfrac{\red{\Delta \Phi}}{\Delta t}} $$
-********
-
-{{4}}
-********
----
-
-__Hinweis 1:__ Je größer die Windungszahl $N$ der Spule, desto größer ist die induzierte Spannung $U_{ind}$.
-
-__Hinweis 2:__ Das Vorzeichen "-" gibt die _Richtung_ der induzierten Spannung an und wird durch das @color(Lenz'sche Gesetz, orange) beschrieben (_später_).
-
----
-********
-
-<p class="newspaper">
-{{5}}
-********
-> __Induktion durch Änderung der Fläche A__
->
-> $$ \boxed{U_{ind} = -N \cdot \red{B} \cdot \dfrac{\red{\Delta A}}{\Delta t}} $$
->
-> mit $A = A_0 \cdot \cos\varphi$
->
->      $A_0$ .. Grundfläche der Spule/Leiterschleife
->
->      $\varphi$ .. Drehwinkel bzgl. der Feldlinien
->
-> __Beispiel:__ @color(Generator, blue)
-********
-
-<p class="cb">
-{{6}}
-********
-
-> __Induktion durch Änderung der Flussdichte B__ 
->
-> $$ \boxed{U_{ind} = - N \cdot \red{A} \cdot \dfrac{\red{\Delta B}}{\Delta t}} $$
->
-> __Beispiel:__ @color(Transformator, blue)
-********
-</p>
-
-</p>
 
 ### 8.1.1. Das Generator-Prinzip
 
@@ -256,47 +185,7 @@ __Hinweis 2:__ Das Vorzeichen "-" gibt die _Richtung_ der induzierten Spannung a
 
 #### Aufbau eines Generators
 
-Ein einfacher __Generator__ besteht typischer Weise aus einem @color(Magneten, orange) und einer @color(Spule,orange), welche sich im Magnetfeld drehen kann.
-
-<p class="newspaper">
-
-__Skizze:__
-
-![Generator_Skizze](https://asset.conrad.com/media10/isa/160267/c1/-/de/Generator/grundfunktion-eines-generators.jpg)
-
-<p class="cb">
-
-1. Fester Dauermagnet (kann auch Elektromagnet sein) -> @color(__STATOR__,red)
-
-2. Magnetfeld des Dauermagneten (_nicht sichtbar_)
-
-3. Drehbare Spule (hier nur Leiterschleife) -> @color(__ROTOR__,red)
-
-4. Schleifringe
-
-5. Schleifkontakte zur Spannungsabführung (Kommutator)
-
-_Hinweis: Magnet und Spule (d.h. **Rotor** und **Stator**) können auch vertauscht sein. Dann ist Magnet beweglich und die Spule fest._
-
-</p>
-
-</p>
-
 #### Handversuch - Spannung induzieren
-
-__Materialien:__ 1m Kabel, Cassy-Messgerät, Magnet
-
-1. Nutze ein 1m langes Kabel, wickle es zu einer einfachen Spule und schließe die Enden an das Cassy-Messgerät (Spannung messen) an.
-
-     ![Generator_Bild1](https://diversewolken.ddns.net/nextcloud/index.php/s/bR2nasCZSpW432d/download)<!-- style="width:400px"-->
-
-2. Wähle am Cassy-Messgerät den kleinsten (empfindlichsten) Messbereich
-
-3. Bewege den Magneten in die Spule hinein und heraus und schau dir die induzierte Spannung an. Überprüfe auch das Vorzeichen beim Hinein-/Herausbewegen.
-
-     ![Generator_Bild2](https://diversewolken.ddns.net/nextcloud/index.php/s/RZpQZJ5RPFTStH9/download)<!-- style="width:400px"-->
-
-4. Lass dir von der Lehrkraft den Super-Stab-Magneten aushändigen und wiederhole den Versuch.
 
 #### KI: Elektromagnetische Induktion am Generator
 
@@ -343,25 +232,6 @@ alternativer Link für eigene Geräte
 
 
 #### Generator selber bauen
-
-__Aufgabenstellung:__ Nutze in einer Gruppe von zwei Leuten den Bausatz und baue den Generator auf. Am Lehrertisch gibt es ein Demogerät. Experimentiere mit dem Generator anhand folgender Aufgaben
-
-{{1}}
-*******
-__Der Generator:__
-
-1. Schließe an den Generator das Cassy-Messgerät zur Spannungsmessung an. (nur @color(roten,red) und @color(schwarzen, black) Pol verwenden.)
-
-2. Stelle das Cassy-Messgerät bei der Spannungseinstellung (__Messbereich__) auf -0,3 bis 0,3 V.
-
-3. Drehe an der Welle und überprüfe die angezeigte Spannung. <br> {2}{@color(-> Das Voltmeter sollte ausschlagen.,orange)}
-
-4. Überprüfe, ob du die maximale Spannung beeinflussen kannst.
-
-5. Wähle das Diagramm (oben rechts) und dann die Stoppuhr (oben links) und lass dir den zeitlichen Spannungsverlauf anzeigen.
-
-*******
-
 
 #### Fragen zum Generator 2
 
@@ -425,42 +295,6 @@ __Der Generator:__
 </p>
 
 #### Aufbau Transformator
-
-<p class="newspaper">
-
-![TB-Transformator](https://diversewolken.ddns.net/nextcloud/index.php/s/mGSfKNSR8C9s8XM/download)
-
-<p>
-
-__Formelzeichen:__
-
-<p style="margin-left:10%">
-
-$U_1$ oder $U_p$ .. Primärspannung
-
-$U_2$ oder $U_s$ .. Sekundärspannung
-
-$N_1$ oder $N_p$ .. Windungszahl auf Primärseite
-
-$N_2$ oder $N_s$ .. Windungszahl auf Sekundärseite
-
-</p>
-
-__Funktionsprinzip:__
-
-<p style="margin-left:10%">
-
-Auf der Primärseite wird eine @color(__Wechselspannung__, darkblue) angelegt. Diese Wechselspannung erzeugt ein @color(__zeitlich veränderliches Magnetfeld__, orange), welches im wesentlichen im @color(__Eisenkern__, darkgray) verläuft. <br> Die @color(Sekundärspule,crimson) wird von dem Magnetfeld durchsetzt. In dieser Spule ändert sich der Magnetische Fluss $\Phi$ und somit wird eine Spannung induziert.
-
-</p>
-
-</p>
-
-</p>
-
-> Bei einem unbelasteten Transformator gilt:
->
-> $$ \boxed{\dfrac{U_1}{U_2} = \dfrac{N_1}{N_2}} $$
 
 #### Übung Funktionsweise Trafo
 
@@ -659,69 +493,7 @@ Zeichne einen Graphen mit $n=\dfrac{N_1}{N_2}$ auf der x-Achse und $n'= \dfrac{U
 
 #### Begriffsklärung: Transformator
 
-> __Idealer vs. realer Transformator__: Der ideale Transformator ist ein theoretisches Modell, bei dem einige Vereinfachungen (Idealisierungen) angenommen werden. <br> Zum Beispiel:
->
-> - das magnetische Feld verläuft zu 100% im Inneren des Eisenkerns (d.h. die erzeugte magnetische Flussdichte in der Primärspule ist identisch mit der wirkenden magnetischen Flussdichte in der Sekundärspule)
->
-> - der Draht der Wicklungen hat keinen elektrischen Widerstand (es entstehen keine Wärmeverluste)
->
-> - innerhalb des Eisenkerns werden keine Wirbelströme induziert (keine Verluste, keine Hysterese)
-
-> __Belasteter vs. unbelasteter Transformator__: Bei einem unbelasteten Trafo wird angenommen, dass im Sekundärstromkreis kein Verbraucher angeschlossen ist, d.h. es fließt kein Sekundärstrom. Die Gleichung 
->
-> $$\dfrac{U_1}{U_2} = \dfrac{N_1}{N_2}$$
->
-> gilt nur für einen __unbelasteten idealen Transformator__.
-
-
 #### Demonstrationsexperiment A Freier Fall im Rohr
-
-> Stabmagnet fällt einerseits durch ein metallisches Rohr (Aluminium) und andererseits durch ein Kunststoffrohr.
-
-{{1}}
-*********
----
-
-@color(Zeichnen Sie eine Skizze des Versuchs. Beschreiben Sie jeweils Ihre Beobachtungen., blue)
-
----
-
-__Skizze:__
-*********
-
-{{2}}
-*********
----
-
-__Beobachtung:__
-
-<p class="newspaper">
-
-__Metallrohr__
-
-<p class="cb">
-
-__Kunststoffrohr__
-
-</p>
-
-</p>
-
----
-*********
-
-{{3}}
-*********
-__Vorläufige Erklärung:__
-
-> - das metallische Rohr wirkt wie eine Spule mit einer Windung
->
-> - durch die Bewegung der magnetischen Kugel ändert sich _lokal_ der magnetische Fluss in der Röhre, es wird eine @color(Spannung induziert, red)
->
-> - durch die induzierte Spannung @color(fließt _kreisförmig_ ein Strom und erzeugt ein Magnetfeld,red)
->
-> - das @color(induzierte Magnetfeld, red) wechselwirkt mit dem Magnetfeld der Kugel und @color(bremst die Kugel, blue)
-*********
 
 ### 8.1.3. Lenz'sche Regel - Richtung der Induktionsspannung
 
@@ -789,44 +561,9 @@ alternativer Link für eigene Geräte
 
 ### 8.1.4 Selbstinduktion an Spulen
 
-> __Ändert__ sich das @color(__von einer Spule__, red) erzeugte Magnetfeld (__z.B. durch Ein- oder Ausschalten__), so wird in der Spule eine Spannung induziert. Man nennt diesen Effekt @color(__Selbstinduktion__, red). 
-
-> __Schlussfolgerung:__ Beim Ein- bzw. Ausschalten wirkt die @color(__Selbstinduktion__,red) nach der __Lenz'schen Regel__ so, dass der Auf- bzw. Abbau des magnetischen Feldes __behindert__ wird.
-
-
-#### Experiment zur Selbstinduktion
-
-![Schaltkreis](https://diversewolken.ddns.net/nextcloud/index.php/s/Gn4s3bXyXQJNRq3/download)
-
-<p style="color:blue">
-
-__Aufgaben:__ 
-
-1. Bauen Sie den Schaltkreis auf
-
-2. Lassen Sie sich die Schaltung abnehmen
-
-3. Überprüfen Sie das Aufleuchten der beiden Lampen, wenn der Schalter geschlossen wird
-
-4. Beschreiben und erklären Sie ihre Beobachtung
-
-5. Erklären Sie das Entstehen eines (Selbst-)Induktionsstroms
-
-</p>
-
 ### 8.1.5 Induktivität einer Spule
 
-![Herleitung1](https://diversewolken.ddns.net/nextcloud/index.php/s/fMG33JSBPQHNLTB/download)
-
-![Herleitung2](https://diversewolken.ddns.net/nextcloud/index.php/s/4WBaq5AJgentTrc/download)
-
 ### 8.1.6 Energie im Magnetfeld einer Spule
-
-Die im magnetischen Feld einer Spule gespeicherte Energie kann mit der Formel 
-
-$$ \boxed{E_{mag} = \frac{1}{2} \cdot L \cdot I^2} $$
-
-ermittelt werden.
 
 #### Aufgabe 1
 
@@ -1180,74 +917,7 @@ __Zeichne ein $U_{ind}(t)$-Diagramm für den dargestellten Zeitabschnitt.__
 
 ### 8.1.7 Ermittlung einer Induktionsspannung II
 
-
-![DurchsetzteFläche](https://diversewolken.ddns.net/nextcloud/index.php/s/7gtg9MopxsGg3SN/download)
-
-Die induzierte Spannung ist für den Generator definiert als
-
-> $U_{ind} = -N \cdot B \cdot \dfrac{\red{\mathrm{d} A}}{\red{\mathrm{d} t}}$
-
-Die Ableitung der durchsetzten Fläche nach der Zeit ergibt:
-
-> $\dfrac{\red{\mathrm{d} A}}{\red{\mathrm{d} t}} = \dfrac{\red{\mathrm{d}}}{\red{\mathrm{d} t}} A_0 \cdot cos(2\pi f \cdot t) = - A_0 \cdot 2\pi f \cdot sin(2\pi f \cdot t)$
-
-An einem Generator ergibt sich die induzierte Spannung als Sinus-Funktion:
-
-> $U_{ind}(t) = N \cdot B \cdot A_0 \cdot 2\pi f \cdot sin(2\pi f \cdot t)$
->
-> ![Uind2](https://diversewolken.ddns.net/nextcloud/index.php/s/RDY5kJNYdkmL8b2/download)
-
-
 ## 8.2 Der Hall-Effekt
-
-
-![Hall-Tafelbild](https://diversewolken.ddns.net/nextcloud/index.php/s/TxRstgAdGsEEgs9/download)
-
->In einer stromdurchflossenen Leiterplatte wird eine Hall-Spannung $U_H$ induziert, wenn ein Magnetfeld senkrecht zur Stromrichtung wirkt.
->
-> $$ \boxed{U_H = R_H \dfrac{I}{d} B} $$
->
-> mit
-> 
-> - $B$ .. magnetische Flussdichte
->
-> - $R_H$ .. Hall-Konstante des Materials | Einheit: $\Big[ \dfrac{m^3}{C} \Big]$
->
-> - $d$ .. Dicke der Leiterplatte
->
-> - $I$ .. fließende Stromstärke
-
-__Herleitung der Hall-Spannung__
-
-<p style="margin-left:5%">
-
-Wenn ein Strom $I$ durch einen Leiter fließt und dieser senkrecht zu einem Magnetfeld $B$ steht, wirken Lorentzkräfte $F_L$auf die bewegten Ladungsträger.
-
-- Elektronen bewegen sich mit der Driftgeschwindigkeit $ v_d $
-- Magnetfeld $ B $ steht senkrecht zur Bewegungsrichtung
-- Lorentzkraft: $ F_L = q \cdot v_d \cdot B $
-
-Diese Kraft führt zu einer Ladungstrennung im Leiter, was wiederum ein elektrisches Feld $ \vec{E}_H $ erzeugt.
-
-**Im Gleichgewicht gilt:**
-
-$ F_L = F_{el} $
-
-$ \Rightarrow q \cdot v_d \cdot B = q \cdot E_H$
-
-$ \Rightarrow E_H = v_d \cdot B$
-
-
-Die Hall-Spannung $ U_H $ ergibt sich aus:
-
-$ U_H = E_H \cdot d = v_d \cdot B \cdot d $
-
-Die Driftgeschwindigkeit ergibt sich als $ v_d = \frac{ℓ}{t} $,wobei die Driftzeit $t$ mit der Stromstärke $I$ zu $t=\frac{Q}{I}$ und die fließende Ladung $Q$ mit $Q=N \cdot q$ ($N$..Anzahl der Ladungsträger) und $N=n \cdot V$ gilt ($n$..Dichte der Ladungsträger). Das Volumen $V$ der Leiterplatte ist $V = ℓ \cdot b \cdot h$. Sämtliche Formeln ineinander eingesetzt ergibt sich:
-
-$ U_H = \dfrac{1}{n\cdot q} \dfrac{I}{d} B $
-
-</p>
-
 
 #### Multiple-Choice-Fragen
 
@@ -1489,138 +1159,6 @@ Für jede Stromstärke ergibt sich ein nachezu konstanter Wert $B/U_H$. Für ein
 Die folgenden Untersuchungen beziehen sich auf eine Spule, welche sich in einem Stromkreis mit einer Wechselspannung befindet. Dabei bezeichnet $f$ die @color(Frequenz, red) der Wechselspannung. 
 
 ### 8.4.1 Der elektrische Widerstand einer Spule im Gleich- und Wechselstromkreis
-
-
-{{1}}
-**********
-<p class="newspaper">
-
-![SpuleSchaltkreis](https://diversewolken.ddns.net/nextcloud/index.php/s/dHcYLDPtZ64keSn/download)
-
-<p class="cb">
-
-> Da die Spule durch die Länge des Drahtes einen ohmschen Widerstand besitzt, kann Sie als Reihenschaltung eines Widerstands $R$ und der Spulenwindungen dargestellt werden. Der @color(elektrische Widerstand in einem Wechselstromkreis, red) wird mit @color(Z, red) bezeichnet. Einheit: $\Omega$
-
-</p>
-
-</p>
-
----
-**********
-
-{{2}}
-**********
-> Im folgenden Demonstrationsexperiment wird für verschiedene Frequenzen der Wechselspannung an einer Spule die Spannung und die Stromstärke gemessen. Es gilt:
->
-> $$ Z = \dfrac{U}{I} $$
-
----
-**********
-
-{{3}}
-**********
-<p style="margin:10%">
-
-| $f$ in Hz | $U$ in V | $I$ in A | $Z$ in $\Omega$ | $L$ in H |
-
-<p style ="color:blue; margin-left:5%">
-
-1. Ergänze mit Hilfe des Demonstrationsexperiments folgende Tabelle im Hefter.
-
-2. Zeichne ein Diagramm des Wechselstromwiderstands in Abhängigkeit der Frequenz.
-
-3. Diskutiere mit deinem Nachbar Ergebnisse dieser Messreihe.
-
-</p>
-
-
-<details style="margin-left:5%">
-
-<summary> Ergebnisse </summary>
-
----
-
-| $f$ in Hz | $U$ in V | $I$ in A | $Z$ in $\Omega$ |
-| 0 | 1.94 | 0.028 | 69 |
-| 10 | 1.94 | 0.028 | 69 |
-| 50 | 1.95 | 0.0263 | 74 |
-| 100 | 1.96 | 0.022 | 90 |
-| 200 | 1.95 | 0.0142 | 135 |
-| 500 | 1.95 | 0.0065 | 300  |
-
-<!-- 
-    data-show
-    data-type="line"
-    data-xlabel="f in Hz" 
-    data-ylabel="Z in Ω" 
-    data-title="Wechselstromwiderstand einer Spule"
--->
-| $f$ in Hz | $Z$ in Ω |
-| :--: | :--: |
-| 0 | 69 | 
-| 10 | 69 |
-| 50 | 74 |
-| 100 | 90 |
-| 200 | 135 |
-| 500 | 300 |
-
-</details>
-
-{{4}}
-*********
-
----
-
-Der Wechselstromwiderstand Z einer Spule ist von von der Frequenz  und der Induktivität der Spule abhängig. Es gilt:
-
-> $$ Z^2 = R^2 + (\omega\cdot L)^2 $$
->
-> mit
->
-> - R .. Gleichstromwiderstand der Spule
->
-> - $\omega =2\pi\cdot f$ .. Kreisfrequenz
->
-> - L .. Induktivität der Spule
-
-*********
-
-
-{{5}}
-*********
-
-<p style ="color:blue; margin-left:5%">
-
-4. Ermittle aus den Messdaten die Induktivität L der Spule.
-
-</p>
-
-{{6}}
-*********
-
-$$ L = \dfrac{\sqrt{Z^2-R^2}}{2\cdot\pi \cdot f} $$
-
-<!-- 
-    data-show="false"
--->
-| $f$ in Hz | $Z$ in Ω | $L$ in H |
-| :--: | :--: | :--: | 
-| 10 | 69 | 0,085 |
-| 50 | 74 | 0,085 |
-| 100 | 90 | 0,092 |
-| 200 | 135 | 0,093 |
-| 500 | 300 | 0,093 |
-
-*********
-
-*********
-
-</p>
-
-**********
-
-
-
 
 ### 8.4.2 Einschaltvorgang einer Spule
 
