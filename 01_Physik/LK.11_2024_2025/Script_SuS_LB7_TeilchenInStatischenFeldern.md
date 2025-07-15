@@ -149,40 +149,6 @@ window.LIA.settings.font_size = 2
 
 ## 7.1. Geladene Teilchen im elektrischen Feld
 
-<p class="newspaper">
-
-__Bewegung im Längsfeld__
-
-> Elektrische Kraft auf Teilchen (hier @color(Elektronen, darkgreen) ) wirkt __entlang der Bewegungsrichtung__
-
-<p class="cb">
-
-__Bewegung im Querfeld__
-
-> Elektrische Kraft auf Teilchen (hier @color(Elektronen, darkgreen) ) wirkt __senkrecht zur Bewegungsrichtung__
-
-</p>
-
-</p>
-
----
-
-<p class="newspaper">
-
-__Elektronenkanone__
-
-![Elektronenkanone](https://diversewolken.ddns.net/nextcloud/index.php/s/cC5JWAYmimFKmrC/download)
-
-<p class="cb">
-
-__Ablenkröhre__
-
-![Ablenkröhre](https://diversewolken.ddns.net/nextcloud/index.php/s/HaNg8rpJnyZj7F5/download)
-
-</p>
-
-</p>
-
 ### 7.1.1. Beschleunigung im Längsfeld - Elektronenkanone
 
 @timer(35,00)
@@ -210,10 +176,6 @@ __Aufgaben:__
 2. 3. Schau dir die Herleitung der Beschleunigungsarbeit ($W_{el}$) bzw. der Geschwindigkeit der Elektronen nach der Beschleunigung an. Übernimm grundlegende Elemente der Herleitung für $v_{end}$ und die finale Formel in deinen Hefter.
 
 2. 3. Klicke nun auf _weiter_ oder _Flugphase_. Lies dir die Anweiungen durch. Es genügt, wenn du im Hefter folgende Bemerkung unter die Herleitung notierst.
-
-<p style="color:black">
-> Wenn die Elektronen die Anode verlassen haben, bewegen Sie sich in Flugrichtung (x-Richtung) geradlinig-gleichförmig mit der Geschwindigkeit $v_{end}.$
-</p>
 
 3. Klicke nun im oberen Menü auf den Punkt _Übungen_.
 
@@ -299,40 +261,6 @@ __Aufgaben:__
 
 1. 3. Übernimm die beiden Erkenntnisse in deinen Hefter
 
-<p style="color:black">
-
-> Je größer die Plattenspannung $U_P$ am Kondensator desto stärker ist die Ablenkung der Elektronen
->
-> Je kleiner die Beschleunigungsspannung der Elektronen (und somit deren Geschwindigkeit), desto stärker ist die Ablenkung
->
-> Die Bahnform der Elektronen ist eine __Parabel__ mit der Gleichung
->
-> $$\boxed{y(x) = \dfrac{U_p}{4 \cdot d \cdot U_b} \cdot x^2}$$
->
-> Die parabelförmige Bewegung ist eine __Superposition__ (Überlagerung) aus einer gleichförmigen Bewegung (in x-Richtung) und einer gleichmäßig beschleunigten Bewegung in (y-Richtung). Es gelten die __Bewegungsgleichungen__:
-
-<p class="newspaper">
-
-> $x(t) = v_{0x} \cdot t$ 
->
-> $v_x(t) = v_{0x} $
->
-> $a_x(t) = 0 $
-
-<p class="cb">
-
-> $y(t) = \frac{1}{2} \cdot a_y \cdot t^2$
->
-> $v_y(t) =  a_y \cdot t$
-> 
-> $a_y(t) \overset{\mathrm{2.NG}}{=} \frac{F_{el}}{m} = \frac{E_{el}\cdot q}{m} = \frac{U_p \cdot q}{d \cdot m} $
-
-</p>
-
-</p>
-
-</p>
-
 2. Wechsle zu den _Übungen_ (oberes Menü) und bearbeite:
 
 2. 1. Übung Fachbegriffe
@@ -390,24 +318,6 @@ alternativer Link für eigene Geräte
 
 ## 7.1.3. Der Millikan-Versuch
 
-_Tafelbildvideo zum Millikan-Versuch:_
-
-!?[Millikan-Experiment](https://www.youtube.com/watch?v=XMfYHag7Liw)
-
-<details>
-
-<summary> __Fertiges Tafelbild zum Nachschlagen__ </summary>
-
-![TB_Millikan](https://diversewolken.ddns.net/nextcloud/index.php/s/ocNCHdfqgfNNt44/download)
-
-</details>
-
----
-
-__Erklärung:__
-
-Robert Millikan führte einen berühmten Versuch durch, um die Elementarladung $q_e$ zu bestimmen. Dabei wurden geladene Öltröpfchen in einem homogenen elektrischen Feld zwischen zwei Platten zum Schweben gebracht, indem sich die elektrische Kraft und die Gewichtskraft gegenseitig kompensieren. 
-
 ### IQB-Aufgabe Milikan-Versuch
 
 1. __Aufgabenstellung:__  [Milikan-Aufgabenstellung](https://diversewolken.ddns.net/nextcloud/index.php/s/EzY4gat6pjTXD7b/download)
@@ -455,8 +365,6 @@ alternativer Link für eigene Geräte
 
 
 ## 7. 2. Geschwindigkeitsfilter für geladene Teilchen - E-B-Kombination
-
-![TB_Geschwindigkeitsfilter](https://diversewolken.ddns.net/nextcloud/index.php/s/9LkfYcrrJTKZJFF/download)
 
 ### Übungsaufgabe Querfeldablenkung - E-B-Kombination
 
@@ -748,8 +656,6 @@ Nun wird die Ablenkspannung ausgeschaltet, so dass nur noch das magnetische Feld
 
 ## 7.3. Bewegung geladener Teilchen im homogenen Magnetfeld
 
-![TB_HomogenesMagnetfeld](https://diversewolken.ddns.net/nextcloud/index.php/s/jJYF7kSL4p6rQrb/download)
-
 ### Übungsaufgaben - Geladene Teilchen im homogenen Magnetfeld
 
 1. Aufgabe 2 a+b+c aus: [Abituraufgabe-2-abc](https://virtuelle-experimente.de/b-feld/uebungen/aufgaben.php)
@@ -920,20 +826,7 @@ alternativer Link für eigene Geräte
 
 ## 7.4. e/m-Versuch mit Helmhotz-Spulen
 
-![e_m_TB1](https://diversewolken.ddns.net/nextcloud/index.php/s/dtPMS5294W8Qi4q/download)
-
-![e_m_TB2](https://diversewolken.ddns.net/nextcloud/index.php/s/MoMFPxGn8zjD4iL/download)
-
-![e_m_TB3](https://diversewolken.ddns.net/nextcloud/index.php/s/ct7BCE29PDo546B/download)
-
-![e_m_TB4](https://diversewolken.ddns.net/nextcloud/index.php/s/xM2z7xkdFfQXdes/download)
-
 ### Fehlerrechnung am e/m-Versuch
-
-![Fehler_e_m1](https://diversewolken.ddns.net/nextcloud/index.php/s/3dMAx9wr4MTJxGQ/download)
-
-![Fehler_e_m2](https://diversewolken.ddns.net/nextcloud/index.php/s/wyRd2H84Cr8w2J6/download)
-
 
 ## 7.5. Anwendung - Geladene Teilchen in elektrischen und magnetischen Feldern
 
