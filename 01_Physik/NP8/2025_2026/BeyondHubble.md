@@ -33,6 +33,9 @@ h1, h2, h3, h4, h5, h6 {
 }
 @end
 
+@logo : https://diversewolken.ddns.net/logo.png
+
+
 @onload
 window.LIA.settings.font_size = 2
 @end
@@ -87,12 +90,14 @@ mode: presentation
 
 @@@ ogy.de/11Ph2 deaktivieren: https://ogy.de/del.cvv2y5l7old0u7gamlc1
 
+
+
 -->
 
 
 # Naturwissenschaftliches Profil Klasse 8
 
-@logo : https://diversewolken.ddns.net/logo.png
+
 
 Optische Anwendungen
 

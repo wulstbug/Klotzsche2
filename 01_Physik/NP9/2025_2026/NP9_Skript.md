@@ -39,9 +39,15 @@ window.LIA.settings.font_size = 2
 <bdi style="color:@1">@0</bdi>
 @end
 
+
+
 -->
 
+
+
 # Kommunikation
+
+
 
 ## Einführung: Was ist Kommunikation
 
