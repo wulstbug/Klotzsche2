@@ -9,14 +9,14 @@ logo: https://raw.githubusercontent.com/wulstbug/Klotzsche2/6a41062265cfc4e4ff6f
 .lia-slide__footer {
     display: none !important;
 } 
-.lia-header__middle img {
-    width: 200px !important;
+.lia-header__middle {
+    height: 200px !important;
 } 
 
 
 
 -->
 
-# Test8
+# Test9
 
 Das ist ein Test.
