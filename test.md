@@ -10,13 +10,13 @@ logo: https://raw.githubusercontent.com/wulstbug/Klotzsche2/6a41062265cfc4e4ff6f
     display: none !important;
 } 
 .lia-header__middle img {
-    height: 5% !important;
+    width: 200px !important;
 } 
 
 
 
 -->
 
-# Test7
+# Test8
 
 Das ist ein Test.
