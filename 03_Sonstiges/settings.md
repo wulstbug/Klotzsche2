@@ -5,8 +5,6 @@ author: Christian Golnik
 
 language: de
 
-
-
 @style
 .lia-effect__circle {
     display: none !important;
