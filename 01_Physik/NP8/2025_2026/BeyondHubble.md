@@ -4,6 +4,8 @@ author: Christian Golnik
 
 language: de
 
+
+
 @style
 .lia-effect__circle {
     display: none !important;
@@ -89,6 +91,8 @@ mode: presentation
 
 
 # Naturwissenschaftliches Profil Klasse 8
+
+@logo : https://diversewolken.ddns.net/logo.png
 
 Optische Anwendungen
 
