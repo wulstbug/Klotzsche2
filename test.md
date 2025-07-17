@@ -1,6 +1,6 @@
 <!--
 
-logo: https://diversewolken.ddns.net/icon.ico
+icon: https://diversewolken.ddns.net/logo.png
 
 @style
 .lia-effect__circle {
