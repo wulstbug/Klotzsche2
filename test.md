@@ -8,6 +8,8 @@ import: https://diversewolken.ddns.net/settings.md
 
 test
 
+@rangeQuiz2(a,5,b)
+
 @uhr
 
 
