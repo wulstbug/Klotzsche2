@@ -9,7 +9,7 @@ logo: https://raw.githubusercontent.com/wulstbug/Klotzsche2/6a41062265cfc4e4ff6f
 .lia-slide__footer {
     display: none !important;
 } 
-.lia-header__middle {
+.lia-header {
     height: 200px !important;
 } 
 
@@ -17,6 +17,6 @@ logo: https://raw.githubusercontent.com/wulstbug/Klotzsche2/6a41062265cfc4e4ff6f
 
 -->
 
-# Test9
+# Test10
 
 Das ist ein Test.
