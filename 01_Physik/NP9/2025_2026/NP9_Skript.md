@@ -1,3 +1,6 @@
+<!--
+icon: https://diversewolken.ddns.net/logo.png 
+-->
 
 <!--
 author: Christian Golnik
