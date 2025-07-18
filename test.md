@@ -1,5 +1,5 @@
 <!--
-icon:   https://diversewolken.ddns.net/logo.png 
+icon:   https://diversewolken.ddns.net/klotzsche/logo.jpg 
 
 import: https://diversewolken.ddns.net/settings.md
 
