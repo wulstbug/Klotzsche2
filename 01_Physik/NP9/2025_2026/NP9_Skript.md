@@ -1,6 +1,8 @@
 <!--
 icon:   https://diversewolken.ddns.net/klotzsche/logo.jpg 
 
+logo: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Enigma_%2820967055154%29.jpg/250px-Enigma_%2820967055154%29.jpg
+
 author: Christian Golnik
 
 language: de
@@ -45,8 +47,6 @@ window.LIA.settings.font_size = 2
 
 
 # Naturwissenschaftliches Profil Klasse 9 
-
-
 
 ## Einführung: Was ist Kommunikation
 
