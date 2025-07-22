@@ -44,7 +44,7 @@ window.LIA.settings.font_size = 2
 
 
 
-# Kommunikation
+# Naturwissenschaftliches Profil Klasse 9 
 
 
 

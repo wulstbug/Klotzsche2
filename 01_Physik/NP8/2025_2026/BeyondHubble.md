@@ -5,7 +5,7 @@ author: Christian Golnik
 
 language: de
 
-
+logo: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/HST-SM4.jpeg/1280px-HST-SM4.jpeg
 
 @style
 .lia-effect__circle {
