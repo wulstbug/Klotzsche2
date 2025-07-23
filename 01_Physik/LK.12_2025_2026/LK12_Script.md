@@ -22,12 +22,8 @@ mode: presentation
 -->
 
 
-<<<<<<< HEAD
-# LK Physik 12 
-=======
 # LK Physik 12 2025/2026
 <!-- 
->>>>>>> edb6fa9789ba0489c76ea7c14811261986003491
 icon:   https://diversewolken.ddns.net/klotzsche/logo.jpg 
 
 ![WhyPhysics](https://cdn.sanity.io/images/i2z87pbo/production/986d42d83b06e224216a5129cdcfd179bf4ce59c-1440x1079.jpg)
