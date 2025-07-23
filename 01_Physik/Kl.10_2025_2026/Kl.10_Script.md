@@ -5,9 +5,9 @@ author: Christian Golnik
 
 language: de
 
-logo: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/HST-SM4.jpeg/1280px-HST-SM4.jpeg
+logo: https://snu.edu.in/site/assets/files/18322/nanotechnology-molecule-atom-model-image-mixed-media_2.1600x0.webp
 
-import: https://diversewolken.ddns.net/gykl/2025_2026/settings.md
+import: https://diversewolken.ddns.net/gykl/settings.md
 
 @style
 .lia-slide__footer {
@@ -22,7 +22,11 @@ mode: presentation
 -->
 
 
-# LK Physik 12 
+# Kl.10 Physik 2025/2026
+<!-- 
 icon:   https://diversewolken.ddns.net/klotzsche/logo.jpg 
+-->
+
+![physics](https://snu.edu.in/site/assets/files/18322/nanotechnology-molecule-atom-model-image-mixed-media_2.1600x0.webp)
 
 @uhr

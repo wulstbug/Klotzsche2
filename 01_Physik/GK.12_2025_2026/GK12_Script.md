@@ -5,9 +5,9 @@ author: Christian Golnik
 
 language: de
 
-logo: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/HST-SM4.jpeg/1280px-HST-SM4.jpeg
+logo: https://media.istockphoto.com/id/508139163/de/foto/atom.jpg?s=612x612&w=0&k=20&c=YiU0gej527bRaipMw7ciVsNeitbNSNXOO0aWntYVG90=
 
-import: https://diversewolken.ddns.net/gykl/2025_2026/settings.md
+import: https://diversewolken.ddns.net/gykl/settings.md
 
 @style
 .lia-slide__footer {
@@ -22,7 +22,9 @@ mode: presentation
 -->
 
 
-# LK Physik 12 
+# GK Physik 12 2025/2026
+<!-- 
 icon:   https://diversewolken.ddns.net/klotzsche/logo.jpg 
+-->
 
 @uhr
