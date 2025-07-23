@@ -106,8 +106,6 @@ mode: presentation
 
 # Naturwissenschaftliches Profil Klasse 8
 
-
-
 Optische Anwendungen
 
 Christian Golnik
