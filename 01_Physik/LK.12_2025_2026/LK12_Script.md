@@ -5,9 +5,9 @@ author: Christian Golnik
 
 language: de
 
-logo: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/HST-SM4.jpeg/1280px-HST-SM4.jpeg
+logo: https://sora.chatgpt.com/g/gen_01k0v77fjmec88r1stbbxbk6d1
 
-import: https://gykl:lia@diversewolken.ddns.net/gykl/2025_2026/settings.md
+import: https://diversewolken.ddns.net/gykl/settings.md
 
 @style
 .lia-slide__footer {
@@ -23,6 +23,8 @@ mode: presentation
 
 
 # LK Physik 12 
+<!-- 
 icon:   https://diversewolken.ddns.net/klotzsche/logo.jpg 
+-->
 
 @uhr
