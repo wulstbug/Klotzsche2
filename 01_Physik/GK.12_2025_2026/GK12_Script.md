@@ -33,14 +33,6 @@ icon:   https://diversewolken.ddns.net/klotzsche/logo.jpg
 
 ## Präsentation mit Canva
 
-??[Canva](https://www.canva.com/design/DAGt-1Bz8Ls/5JZTNecp-B9P7t4zaWZI2A/edit)
-
----
-
-??[Canva2](https://www.canva.com/design/DAGt-1Bz8Ls/kktjDgFrbAs83lMELmdA-A/view)
-
----
-
 <div style="position: relative; width: 100%; height: 0; padding-top: 56.2500%;
  padding-bottom: 0; box-shadow: 0 2px 8px 0 rgba(63,69,81,0.16); margin-top: 1.6em; margin-bottom: 0.9em; overflow: hidden;
  border-radius: 8px; will-change: transform;">
