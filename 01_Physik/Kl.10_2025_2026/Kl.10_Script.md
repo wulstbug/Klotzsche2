@@ -5,7 +5,7 @@ author: Christian Golnik
 
 language: de
 
-logo: https://ik.imagekit.io/s1sp3stox/tr:h-748,w-2405,fo-auto/physics/research-and-impact/1170x555_Physics_Research_and_Impact_banner.jpg
+logo: https://snu.edu.in/site/assets/files/18322/nanotechnology-molecule-atom-model-image-mixed-media_2.1600x0.webp
 
 import: https://diversewolken.ddns.net/gykl/settings.md
 
@@ -27,6 +27,6 @@ mode: presentation
 icon:   https://diversewolken.ddns.net/klotzsche/logo.jpg 
 -->
 
-![physics](https://ik.imagekit.io/s1sp3stox/tr:h-748,w-2405,fo-auto/physics/research-and-impact/1170x555_Physics_Research_and_Impact_banner.jpg)
+![physics](https://snu.edu.in/site/assets/files/18322/nanotechnology-molecule-atom-model-image-mixed-media_2.1600x0.webp)
 
 @uhr
