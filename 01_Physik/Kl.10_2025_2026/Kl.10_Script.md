@@ -5,7 +5,7 @@ author: Christian Golnik
 
 language: de
 
-logo: https://sora.chatgpt.com/g/gen_01k0v77fjmec88r1stbbxbk6d1
+logo: https://ik.imagekit.io/s1sp3stox/tr:h-748,w-2405,fo-auto/physics/research-and-impact/1170x555_Physics_Research_and_Impact_banner.jpg
 
 import: https://diversewolken.ddns.net/gykl/settings.md
 

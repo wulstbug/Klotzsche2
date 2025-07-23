@@ -5,7 +5,7 @@ author: Christian Golnik
 
 language: de
 
-logo: https://media.istockphoto.com/id/508139163/de/foto/atom.jpg?s=612x612&w=0&k=20&c=YiU0gej527bRaipMw7ciVsNeitbNSNXOO0aWntYVG90=
+logo: https://www.york.ac.uk/media/mathematics/research/quantum_landing800x400.jpg
 
 import: https://diversewolken.ddns.net/gykl/settings.md
 
@@ -26,5 +26,7 @@ mode: presentation
 <!-- 
 icon:   https://diversewolken.ddns.net/klotzsche/logo.jpg 
 -->
+
+![WhyPhysics](https://www.york.ac.uk/media/mathematics/research/quantum_landing800x400.jpg)
 
 @uhr
