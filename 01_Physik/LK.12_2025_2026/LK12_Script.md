@@ -30,3 +30,7 @@ icon:   https://diversewolken.ddns.net/klotzsche/logo.jpg
 ![WhyPhysics](https://cdn.sanity.io/images/i2z87pbo/production/986d42d83b06e224216a5129cdcfd179bf4ce59c-1440x1079.jpg)
 
 @uhr
+
+## Präsentation mit Canva
+
+??[Canva](https://www.canva.com/design/DAGt-1Bz8Ls/5JZTNecp-B9P7t4zaWZI2A/edit)
