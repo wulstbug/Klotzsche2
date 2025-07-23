@@ -22,7 +22,7 @@ mode: presentation
 -->
 
 
-# LK Physik 12 
+# LK Physik 12 2025/2026
 <!-- 
 icon:   https://diversewolken.ddns.net/klotzsche/logo.jpg 
 -->
