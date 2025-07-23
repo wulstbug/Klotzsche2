@@ -40,14 +40,4 @@ icon:   https://diversewolken.ddns.net/klotzsche/logo.jpg
     src="https://www.canva.com/design/DAGt-1Bz8Ls/kktjDgFrbAs83lMELmdA-A/view?embed" allowfullscreen="allowfullscreen" allow="fullscreen">
   </iframe>
 </div>
-<a href="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAGt-1Bz8Ls&#x2F;kktjDgFrbAs83lMELmdA-A&#x2F;view?utm_content=DAGt-1Bz8Ls&amp;utm_campaign=designshare&amp;utm_medium=embeds&amp;utm_source=link" target="_blank" rel="noopener">TestPras</a> von Golnik Ch
 
-## Rpäs2
-
-  <iframe
-    src="https://www.canva.com/design/DAGt-1Bz8Ls/5JZTNecp-B9P7t4zaWZI2A/edit?ui=eyJEIjp7IlQiOnsiQSI6IlBCbG4xZ0pONWxYek5aS2YifX19/view?embed"
-    width="100%"
-    height="800px"
-    style="border: none;"
-    allowfullscreen>
-  </iframe>
