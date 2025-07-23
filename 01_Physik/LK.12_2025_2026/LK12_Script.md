@@ -17,6 +17,8 @@ import: https://diversewolken.ddns.net/gykl/settings.md
 
 mode: presentation
 
+edit:true
+
 @@@ ogy.de/11Ph2 deaktivieren: https://ogy.de/del.cvv2y5l7old0u7gamlc1
 
 -->
@@ -32,9 +34,6 @@ icon:   https://diversewolken.ddns.net/klotzsche/logo.jpg
 @uhr
 
 ## Präsentation mit Canva 2
-<!-- 
-edit:true 
--->
 
 <div style="position: relative; width: 100%; height: 0; padding-top: 56.2500%;
  padding-bottom: 0; box-shadow: 0 2px 8px 0 rgba(63,69,81,0.16); margin-top: 1.6em; margin-bottom: 0.9em; overflow: hidden;
