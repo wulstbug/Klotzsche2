@@ -154,3 +154,5 @@ try {
 -->
 
 # Settings
+
+@rangeQuiz0(a,0,b)
