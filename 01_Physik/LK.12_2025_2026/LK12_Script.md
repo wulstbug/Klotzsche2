@@ -31,7 +31,7 @@ icon:   https://diversewolken.ddns.net/klotzsche/logo.jpg
 
 @uhr
 
-## Präsentation mit Canva
+## Präsentation mit Canva 2
 <!-- 
 edit:true 
 -->
