@@ -10,15 +10,6 @@ language: de
     display: none !important;
 } 
 
-.lia-slide__footer {
-      display: none !important;
-} 
-
-.lia-slide__header {
-    
-} 
-
-
 @media (min-width: 600px) {
     .newspaper {
         column-count: 2;
@@ -39,12 +30,6 @@ h1, h2, h3, h4, h5, h6 {
 .cb {
     break-before: column;
 }
-@end
-
-
-
-@onload
-window.LIA.settings.font_size = 2
 @end
 
 @color
