@@ -17,8 +17,6 @@ import: https://diversewolken.ddns.net/gykl/settings.md
 
 mode: presentation
 
-edit:true
-
 @@@ ogy.de/11Ph2 deaktivieren: https://ogy.de/del.cvv2y5l7old0u7gamlc1
 
 -->
