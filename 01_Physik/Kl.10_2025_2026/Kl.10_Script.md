@@ -5,7 +5,7 @@ author: Christian Golnik
 
 language: de
 
-logo: https://snu.edu.in/site/assets/files/18322/nanotechnology-molecule-atom-model-image-mixed-media_2.1600x0.webp
+logo: https://sora.chatgpt.com/g/gen_01k0v77fjmec88r1stbbxbk6d1
 
 import: https://diversewolken.ddns.net/gykl/settings.md
 
