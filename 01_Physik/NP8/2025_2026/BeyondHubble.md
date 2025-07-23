@@ -5,7 +5,7 @@ author: Christian Golnik
 
 language: de
 
-logo: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/HST-SM4.jpeg/1280px-HST-SM4.jpeg
+logo: https://www.thisiscolossal.com/wp-content/uploads/2022/12/webb-pillars1.jpg
 
 @style
 .lia-effect__circle {
