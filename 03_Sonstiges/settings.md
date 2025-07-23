@@ -81,10 +81,10 @@ h1, h2, h3, h4, h5, h6 {
 
 @rangeQuiz2
 <div style="display: flex;flex-direction: row;flex-wrap: nowrap">
-<div style="float:left">
+<div style="margin-right:5px;float:left">
 @0$\ $=$\ $ 
 </div> 
-<div style="float:left">
+<div style="display:block;float:left">
 <!-- data-solution-button="off" -->
 [[ @1 ]]
 <script>
@@ -97,7 +97,7 @@ try {
 }
 </script>
 </div> 
-<div style="float:left">
+<div style="margin-left:5px;float:left">
 @2
 </div>
 </div>
@@ -105,10 +105,10 @@ try {
 
 @rangeQuiz20
 <div style="display: flex;flex-direction: row;flex-wrap: nowrap">
-<div style="float:left">
+<div style="margin-right:5px;float:left">
 @0 = 
 </div> 
-<div style="float:left">
+<div style="display:block;float:left">
 <!-- data-solution-button="off" -->
 [[ @1 ]]
 <script>
@@ -121,7 +121,31 @@ try {
 }
 </script>
 </div> 
-<div style="float:left">
+<div style="margin-left:5px;float:left">
+@2
+</div>
+</div>
+@end
+
+@rangeQuiz0
+<div style="display: flex;flex-direction: row;flex-wrap: nowrap">
+<div style="margin-right:5px; float:left">
+@0 = 
+</div> 
+<div style="display:block; float:left">
+<!-- data-solution-button="off" -->
+[[ @1 ]]
+<script>
+let input = "@input".replace(",", ".")
+try {
+    input = Math.abs(eval(input)-@1)
+    input == 0
+} catch (e) {
+    false
+}
+</script>
+</div> 
+<div style="margin-left:5px; float:left">
 @2
 </div>
 </div>
