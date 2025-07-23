@@ -7,7 +7,7 @@ language: de
 
 logo: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/HST-SM4.jpeg/1280px-HST-SM4.jpeg
 
-import: https://diversewolken.ddns.net/gykl/2025_2026/settings.md
+import: https://gykl:lia@diversewolken.ddns.net/gykl/2025_2026/settings.md
 
 @style
 .lia-slide__footer {
