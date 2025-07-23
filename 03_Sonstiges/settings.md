@@ -78,10 +78,55 @@ h1, h2, h3, h4, h5, h6 {
 
 @end
 
-mode: presentation
 
-@@@ ogy.de/11Ph2 deaktivieren: https://ogy.de/del.cvv2y5l7old0u7gamlc1
+@rangeQuiz2
+<div style="display: flex;flex-direction: row;flex-wrap: nowrap">
+<div style="float:left">
+@0$\ $=$\ $ 
+</div> 
+<div style="float:left">
+<!-- data-solution-button="off" -->
+[[ @1 ]]
+<script>
+let input = "@input".replace(",", ".")
+try {
+    input = Math.abs(eval(input)-@1)/Math.abs(@1)
+    input <= 0.03
+} catch (e) {
+    false
+}
+</script>
+</div> 
+<div style="float:left">
+@2
+</div>
+</div>
+@end
+
+@rangeQuiz20
+<div style="display: flex;flex-direction: row;flex-wrap: nowrap">
+<div style="float:left">
+@0 = 
+</div> 
+<div style="float:left">
+<!-- data-solution-button="off" -->
+[[ @1 ]]
+<script>
+let input = "@input".replace(",", ".")
+try {
+    input = Math.abs(eval(input)-@1)/Math.abs(@1)
+    input <= 0.2
+} catch (e) {
+    false
+}
+</script>
+</div> 
+<div style="float:left">
+@2
+</div>
+</div>
+@end
 
 -->
 
-# Test
+# Settings
