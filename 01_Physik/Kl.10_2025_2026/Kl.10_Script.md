@@ -7,7 +7,7 @@ language: de
 
 logo: https://snu.edu.in/site/assets/files/18322/nanotechnology-molecule-atom-model-image-mixed-media_2.1600x0.webp
 
-import: https://diversewolken.ddns.net/gykl/settings.md
+import: https://raw.githubusercontent.com/wulstbug/Klotzsche2/2025_2026/03_Sonstiges/settings.md
 
 @style
 .lia-slide__footer {
