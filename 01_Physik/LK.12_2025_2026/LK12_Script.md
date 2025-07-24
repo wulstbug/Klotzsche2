@@ -7,8 +7,6 @@ language: de
 
 logo: https://www.sciencedaily.com/images/1920/Quantum-Clock.webp
 
-import: https://diversewolken.ddns.net/gykl/settings.md
-
 @style
 .lia-slide__footer {
       display: none !important;
