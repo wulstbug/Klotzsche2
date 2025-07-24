@@ -1,14 +1,9 @@
 <!--
-icon:   https://diversewolken.ddns.net/klotzsche/logo.jpg 
-
-author: Christian Golnik
-
-language: de
 
 @style
 .lia-effect__circle {
     display: none !important;
-} 
+}
 
 @media (min-width: 600px) {
     .newspaper {
@@ -20,7 +15,7 @@ language: de
         column-count: 3;
         column-gap: 20px;
         column-rule: 1px solid lightblue;
-    }
+    }    
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -32,13 +27,17 @@ h1, h2, h3, h4, h5, h6 {
 }
 @end
 
+@onload
+window.LIA.settings.font_size = 2
+@end
+
 @color
 <bdi style="color:@1">@0</bdi>
 @end
 
 @uhr
 
-<div style="position: fixed; right:50px; top:20px;">
+<div style="position: fixed; right:50px; top:100px;">
 
 <details>
 
@@ -46,7 +45,7 @@ h1, h2, h3, h4, h5, h6 {
 
 <div style="text-align:left;padding:1em 0;"> 
 
-<iframe src="https://www.zeitverschiebung.net/clock-widget-iframe-v2?language=de&size=small&timezone=Europe%2FBerlin" width="100%" height="90" frameborder="0" seamless></iframe> 
+<iframe src="https://www.zeitverschiebung.net/clock-widget-iframe-v2?language=de&size=large&timezone=Europe%2FBerlin" width="100%" height="150" frameborder="0" seamless></iframe> 
 
 </div>
 
@@ -78,14 +77,35 @@ h1, h2, h3, h4, h5, h6 {
 
 @end
 
+@timer2
+
+<div style="position: fixed; right:50px; top:300px;">
+
+<details>
+
+<summary> Timer(@0:@1) </summary>
+
+<div style="text-align:left;padding:1em 0;"> 
+
+<iframe width="200" height="90" src="https://webuhr.de/embed/timer/#countdown=00:@0:@1&enabled=0&onzero=0&theme=0&ampm=0&sound=xylophone" frameborder="0" allowfullscreen>
+
+</iframe> 
+
+</div>
+
+</details>
+
+</div>
+
+@end
 
 @rangeQuiz2
 <div style="display: flex;flex-direction: row;flex-wrap: nowrap">
-<div style="margin-right:5px;float:left">
+<div style="float:left;margin-right:5px">
 @0$\ $=$\ $ 
 </div> 
-<div style="display:block;float:left">
-<!-- data-solution-button="off" -->
+<div style="float:left;display:block">
+<!-- data-solution-button="off" style="display:block" -->
 [[ @1 ]]
 <script>
 let input = "@input".replace(",", ".")
@@ -97,7 +117,7 @@ try {
 }
 </script>
 </div> 
-<div style="margin-left:5px;float:left">
+<div style="float:left;margin-left:5px">
 @2
 </div>
 </div>
@@ -105,11 +125,11 @@ try {
 
 @rangeQuiz20
 <div style="display: flex;flex-direction: row;flex-wrap: nowrap">
-<div style="margin-right:5px;float:left">
+<div style="float:left;margin-right:5px">
 @0 = 
 </div> 
-<div style="display:block;float:left">
-<!-- data-solution-button="off" -->
+<div style="float:left;display:block">
+<!-- data-solution-button="off" style="display:block" -->
 [[ @1 ]]
 <script>
 let input = "@input".replace(",", ".")
@@ -121,7 +141,7 @@ try {
 }
 </script>
 </div> 
-<div style="margin-left:5px;float:left">
+<div style="float:left;margin-left:5px">
 @2
 </div>
 </div>
@@ -129,11 +149,11 @@ try {
 
 @rangeQuiz0
 <div style="display: flex;flex-direction: row;flex-wrap: nowrap">
-<div style="margin-right:5px; float:left">
+<div style="float:left;margin-right:5px">
 @0 = 
 </div> 
-<div style="display:block; float:left">
-<!-- data-solution-button="off" -->
+<div style="float:left;display:block">
+<!-- data-solution-button="off" style="display:block" -->
 [[ @1 ]]
 <script>
 let input = "@input".replace(",", ".")
@@ -145,7 +165,7 @@ try {
 }
 </script>
 </div> 
-<div style="margin-left:5px; float:left">
+<div style="float:left;margin-left:5px">
 @2
 </div>
 </div>
@@ -154,5 +174,3 @@ try {
 -->
 
 # Settings
-
-@rangeQuiz0(a,0,b)
