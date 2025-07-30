@@ -3,7 +3,7 @@ author: Christian Golnik
 
 language: de
 
-logo: https://getwallpapers.com/wallpaper/full/f/8/b/408658.jpg
+logo: https://cdn.hswstatic.com/gif/lhc-particle-tracking-orig.jpg
 
 @style
 .lia-effect__circle {
@@ -100,7 +100,6 @@ try {
 </div>
 @end
 
-@@@ ogy.de/11ph3 deaktivieren: https://ogy.de/del.cvv2y5l7old0u7gamlc1
 
 -->
 
@@ -108,7 +107,7 @@ try {
 
 # Grundkurs Physik 2024/2025 - LB IV - Geladene Teilchen in statischen Feldern
 
-![ProtonCollisionCern](https://getwallpapers.com/wallpaper/full/f/8/b/408658.jpg)
+![ProtonCollisionCern](https://cdn.hswstatic.com/gif/lhc-particle-tracking-orig.jpg)
 
 ## 1.1. Geladene Teilchen in statischen Magnetfeldern
 

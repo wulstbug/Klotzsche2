@@ -3,7 +3,7 @@ author: Christian Golnik
 
 language: de
 
-logo: https://getwallpapers.com/wallpaper/full/f/8/b/408658.jpg
+logo: https://cdn.hswstatic.com/gif/lhc-particle-tracking-orig.jpg
 
 @style
 .lia-effect__circle {
@@ -147,7 +147,7 @@ window.LIA.settings.font_size = 2
 > Die Bewegung elektrisch geladener Teilchen beschreiben wir mit den Methoden der __Kinematik__ [@color(__LB 3__, red)] auf Basis der wirkenden Kräfte (__elektrische Kraft__ $F_{el}$ [@color(__LB 5__,red)] und __Lorentzkraft__ $F_L$ [@color(__LB 6__,red)]). Dabei betrachten wir die Teilchen als __Punktmassen__, welche den __Newton'schen Gesetzen__ [@color(__LB 2__, red)] folgen. __Energie__betrachtungen, z.B. zur kinetischen Energie, [@color(__LB 1__, red)] sind gültig. 
 **********
 
-![ProtonCollisionCern](https://getwallpapers.com/wallpaper/full/f/8/b/408658.jpg)
+![ProtonCollisionCern](https://cdn.hswstatic.com/gif/lhc-particle-tracking-orig.jpg)
 
 ## 7.1. Geladene Teilchen im elektrischen Feld
 
