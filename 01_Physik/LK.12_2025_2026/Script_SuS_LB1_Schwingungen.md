@@ -1,0 +1,33 @@
+<!--
+icon:   https://diversewolken.ddns.net/klotzsche/logo.png 
+
+author: Christian Golnik
+
+language: de
+
+logo: https://examio-mediafiles.s3.eu-west-1.amazonaws.com/schwingung-sinus-print.jpg
+
+@style
+.lia-slide__footer {
+      display: none !important;
+} 
+@end
+
+mode: presentation
+
+import: https://raw.githubusercontent.com/wulstbug/Klotzsche2/2025_2026/03_Sonstiges/settings.md
+
+@@@ ogy.de/11Ph2 deaktivieren: https://ogy.de/del.cvv2y5l7old0u7gamlc1
+
+-->
+
+
+# LK Physik 12 2025/2026
+<!-- 
+icon:   https://diversewolken.ddns.net/klotzsche/logo.jpg
+-->
+
+![WhyPhysics](https://examio-mediafiles.s3.eu-west-1.amazonaws.com/schwingung-sinus-print.jpg)
+
+@uhr
+
