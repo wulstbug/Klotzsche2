@@ -22,7 +22,7 @@ import: https://raw.githubusercontent.com/wulstbug/Klotzsche2/2025_2026/03_Sonst
 -->
 
 
-# LK Physik 12 2025/2026
+# LB1 - Schwingungen
 <!-- 
 icon:   https://diversewolken.ddns.net/klotzsche/logo.jpg
 -->
