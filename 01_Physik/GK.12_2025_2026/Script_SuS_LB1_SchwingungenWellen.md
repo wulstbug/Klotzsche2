@@ -5,7 +5,7 @@ author: Christian Golnik
 
 language: de
 
-logo: https://www.sciencedaily.com/images/1920/Quantum-Clock.webp
+logo: https://examio-mediafiles.s3.eu-west-1.amazonaws.com/schwingung-sinus-print.jpg
 
 @style
 .lia-slide__footer {
@@ -22,7 +22,7 @@ import: https://raw.githubusercontent.com/wulstbug/Klotzsche2/2025_2026/03_Sonst
 -->
 
 
-# LK Physik 12 2025/2026
+# LB 1 - Schwingungen und Wellen
 <!-- 
 icon:   https://diversewolken.ddns.net/klotzsche/logo.jpg
 -->
