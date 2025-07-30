@@ -17,10 +17,6 @@ import: https://raw.githubusercontent.com/wulstbug/Klotzsche2/2025_2026/03_Sonst
 
 mode: presentation
 
-edit: true
-
-@@@ ogy.de/11Ph2 deaktivieren: https://ogy.de/del.cvv2y5l7old0u7gamlc1
-
 -->
 
 
