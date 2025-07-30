@@ -3,6 +3,8 @@ author: Christian Golnik
 
 language: de
 
+logo: https://getwallpapers.com/wallpaper/full/f/8/b/408658.jpg
+
 @style
 .lia-effect__circle {
     display: none !important;

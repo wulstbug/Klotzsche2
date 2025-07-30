@@ -3,6 +3,8 @@ author: Christian Golnik
 
 language: de
 
+logo: https://img.welt.de/img/wirtschaft/webwelt/mobile218083858/8146580597-ci23x11-w2000/Out-Of-The-Blue.jpg
+
 @style
 .lia-effect__circle {
     display: none !important;

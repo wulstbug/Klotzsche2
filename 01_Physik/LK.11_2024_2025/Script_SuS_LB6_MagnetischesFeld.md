@@ -3,6 +3,8 @@ author: Christian Golnik
 
 language: de
 
+logo: https://www.mozaweb.com/de/mozaik3D/FOL/termeszet/foldi_magneses_mezo/960.jpg
+
 @style
 .lia-effect__circle {
     display: none !important;

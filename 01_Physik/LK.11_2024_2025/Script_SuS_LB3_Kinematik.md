@@ -3,11 +3,12 @@ author: Christian Golnik
 
 language: de
 
+logo: https://www.online-wissensdatenbank.de/wp-content/uploads/2023/12/kinematik-grundlagen-der-bewegungslehre.jpg
+
 @style
 .lia-effect__circle {
     display: none !important;
 }
-
 
 @media (min-width: 600px) {
     .newspaper {

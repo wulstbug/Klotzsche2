@@ -3,6 +3,8 @@ author: Christian Golnik
 
 language: de
 
+logo: https://diversewolken.ddns.net/nextcloud/index.php/s/B9e6ZLDf9EGF3Nc/download
+
 @style
 .lia-effect__circle {
     display: none !important;
