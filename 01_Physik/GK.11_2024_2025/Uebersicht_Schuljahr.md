@@ -3,6 +3,8 @@ author: Christian Golnik
 
 language: de
 
+logo: https://media.geeksforgeeks.org/wp-content/uploads/20230120113631/Conservation-of-energy.png
+
 @style
 .lia-effect__circle {
     display: none !important;
@@ -40,7 +42,7 @@ window.LIA.settings.font_size = 2
 
 -->
 
-# Grundkurs Physik 11 2024-2025 
+# LB1 - Grundlagen der Bewegungsgesetze
 
 - Kursname: 11ph3
 
