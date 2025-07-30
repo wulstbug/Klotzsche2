@@ -18,7 +18,7 @@ mode: presentation
 -->
 
 
-# LK 12 - Organisatorisches
+# GK 12 - Organisatorisches
 <!-- 
 icon:   https://diversewolken.ddns.net/klotzsche/logo.jpg
 -->
