@@ -22,7 +22,7 @@ import: https://raw.githubusercontent.com/wulstbug/Klotzsche2/2025_2026/03_Sonst
 -->
 
 
-# LB 1 - Schwingungen und Wellen
+# LB VI - Schwingungen und Wellen
 <!-- 
 icon:   https://diversewolken.ddns.net/klotzsche/logo.jpg
 -->
