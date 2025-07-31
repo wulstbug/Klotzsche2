@@ -42,7 +42,7 @@ window.LIA.settings.font_size = 2
 
 -->
 
-# LB1 - Grundlagen der Bewegungsgesetze
+# LB I - Grundlagen der Bewegungsgesetze
 
 - Kursname: 11ph3
 

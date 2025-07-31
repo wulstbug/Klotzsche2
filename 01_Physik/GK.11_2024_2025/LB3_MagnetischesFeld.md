@@ -156,7 +156,7 @@ try {
 -->
 
 
-# Grundkurs Physik 2024/2025 - LB III Das Magnetische Feld
+# LB III Das Magnetische Feld
 
 ## Checkliste LK 03.03.25
 

@@ -100,7 +100,7 @@ try {
 
 -->
 
-# Grundkurs Physik 2024/2025 - LB II: Das elektrische Feld
+# LB II: Das elektrische Feld
 
 ## 1.1 Grundlagen Elektrizität
 

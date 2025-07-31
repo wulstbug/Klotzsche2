@@ -105,7 +105,7 @@ try {
 
 
 
-# Grundkurs Physik 2024/2025 - LB IV - Geladene Teilchen in statischen Feldern
+# LB IV - Geladene Teilchen in statischen Feldern
 
 ![ProtonCollisionCern](https://cdn.hswstatic.com/gif/lhc-particle-tracking-orig.jpg)
 
