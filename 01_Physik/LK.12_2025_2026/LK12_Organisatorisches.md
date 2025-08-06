@@ -47,7 +47,7 @@ __Notengebung__
 | 2. Klausur| 04.12. | 15. Woche | 
 </p>
 
-- Ende 17. Woche -> __Zeugnisse 19.12.__
+- Ende 17. Woche -> __Zeugnisse 12/1 am 19.12.2025__
 **********
 
 {{3}}
