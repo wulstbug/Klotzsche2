@@ -10,7 +10,10 @@ logo: https://www.sekretaria.de/wp-content/uploads/2011/06/Kalender_Terminplan__
 @style
 .lia-slide__footer {
       display: none !important;
-} 
+}
+.lia-effect__circle {
+    display: none !important;
+}
 @end
 
 mode: presentation
@@ -26,60 +29,54 @@ icon:   https://diversewolken.ddns.net/klotzsche/logo.jpg
 
 __Notengebung__
 
-- __Bewertung erfolgt nach dem 40% Modell__
 
 {{1}}
 ************
+- Bewertung erfolgt nach dem 40% Modell
+
 - Anzahl der Noten: 2xKlausur, 2x sonstige
 ************
 
 {{2}}
 **********
-<p class="newspaper">
 
-<p style="margin-left:5%">
-
-<details>
-
-<summary>__11ph2__</summary>
-
-| | | |
-| Klausuren | Termin | Bemerkungen |
-| 1. Sonstige | 04.09. | 4. Woche |
-| 2. Sonstige | ??? | ??? |
-| 2. Klausur| 04.12. | 15. Woche | 
-</p>
-
-</details>
-
-<p class="cb">
+<p style="margin:10%">
 
 <details>
 
-<summary>__11ph3__</summary>
+<summary>__Termine: 11ph2__</summary>
 
 | | | |
 | Klausuren | Termin | Bemerkungen |
-| 1. Sonstige | 04.09. | 4. Woche |
-| 2. Sonstige | ??? | ??? |
-| 2. Klausur| 04.12. | 15. Woche |
+| 1. Sonstige (LK) | 11.09. | 5. Woche |
+| 2. Sonstige (Prakt) | 23.10 | 9. Woche , Einzelarbeit |
+| 2. Klausur| 20.11. | 13. Woche | 
 
 </details>
 
-</p>
+---
+
+<details>
+
+<summary>__Termine: 11ph3__</summary>
+
+| | | |
+| Klausuren | Termin | Bemerkungen |
+| 1. Sonstige (LK) | 08.09. | 5. Woche |
+| 2. Sonstige (Prakt) | 20.10 | 9. Woche , Einzelarbeit |
+| 2. Klausur| 20.11. | 13. Woche | 
+
+</details>
+
+---
 
 </p>
 
-- Ende 17. Woche -> __Zeugnisse 12/1 am 19.12.2025__
+- __Ende 12/1__ 17. Woche -> Zeugnisse am 19.12.2025
 **********
 
-{{3}}
-**********
-__Hinweise zum Fehlen:__
+# Belehrung - Fachraum
 
-- Freistellungen(z.B. Fahrschulprüfungen) bitte beim Tutor beantragen
+- trinken prinzipiell erlaubt, essen bitte draußen
 
-- Krankmeldungen müssen spätestens nach 3 Werktagen schriftlich in der Schule sein (Lernsax-Meldung Elternaccount genügt)
-
-**********
-
+- __nicht trinken__ während der Experimente
