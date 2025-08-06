@@ -10,10 +10,11 @@ logo: https://www.sekretaria.de/wp-content/uploads/2011/06/Kalender_Terminplan__
 @style
 .lia-slide__footer {
       display: none !important;
-} 
+}
 .lia-effect__circle {
     display: none !important;
 }
+@end
 
 mode: presentation
 
