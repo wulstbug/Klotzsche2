@@ -58,13 +58,15 @@ icon:   https://diversewolken.ddns.net/klotzsche/logo.jpg
 
 - Krankmeldungen müssen spätestens nach 3 Werktagen schriftlich in der Schule sein (Lernsax-Meldung Elternaccount genügt)
 
-- -> Neuer Laufzettel ??[HIER](https://d.lernsax.de/d.php/1/6/0.4973572139756.Epy10a5mbR0Q1qEt9lRaRnlb.LzE1NA)
+- -> __Neuer Laufzettel__ [HIER](https://d.lernsax.de/d.php/1/6/0.4973572139756.Epy10a5mbR0Q1qEt9lRaRnlb.LzE1NA)
 
-## Wahl der Prüfungsfächer 
+## Wahl der Prüfungsfächer (Prüfungsanmeldung Abitur 2026)
 
 - Entscheidung bis 29.08. (3. Woche)
 
-- Zettel ausfüllen und an Tutor zurück
+- Zettel ausfüllen 
+
+- Eltern / selber(wenn >18) unterschreiben und an Tutor zurück
 
 
 ## Öffnungszeiten Sekretariat
