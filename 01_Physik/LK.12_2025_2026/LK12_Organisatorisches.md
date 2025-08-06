@@ -41,9 +41,9 @@ __Notengebung__
 ---
 | | | |
 | Klausuren | Termin | Bemerkungen |
-| 1. Sonstige | 04.09. | 4. Woche |
+| 1. Sonstige (LK) | 04.09. | 4. Woche |
 | 1. Klausur| 25.09. | 7. Woche |
-| 2. Sonstige | ??? | ??? |
+| 2. Sonstige (evtl. Prakt.) | 11./12. Woche | Einzelarbeit |
 | 2. Klausur| 04.12. | 15. Woche | 
 </p>
 
@@ -57,6 +57,14 @@ __Hinweise zum Fehlen:__
 - Freistellungen(z.B. Fahrschulprüfungen) bitte beim Tutor beantragen
 
 - Krankmeldungen müssen spätestens nach 3 Werktagen schriftlich in der Schule sein (Lernsax-Meldung Elternaccount genügt)
+
+**********
+
+{{4}}
+**********
+__Wahl der Prüfungsfächer - bis 01. September__
+
+- Zettel ausfüllen und an Tutor zurück
 
 **********
 
