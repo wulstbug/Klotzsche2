@@ -26,7 +26,9 @@ mode: presentation
 icon:   https://diversewolken.ddns.net/klotzsche/logo.jpg
 -->
 
-__Notengebung__
+![Kalender](https://www.sekretaria.de/wp-content/uploads/2011/06/Kalender_Terminplan__68976575_Itan1409_XXL_Website.jpg)
+
+## Notengebung
 
 - __Bewertung erfolgt nach dem 40% Modell__
 
@@ -50,23 +52,34 @@ __Notengebung__
 - Ende 17. Woche -> __Zeugnisse 12/1 am 19.12.2025__
 **********
 
-{{3}}
-**********
-__Hinweise zum Fehlen:__
+## Fehlen im Unterricht
 
 - Freistellungen(z.B. Fahrschulprüfungen) bitte beim Tutor beantragen
 
 - Krankmeldungen müssen spätestens nach 3 Werktagen schriftlich in der Schule sein (Lernsax-Meldung Elternaccount genügt)
 
-**********
+- -> Neuer Laufzettel ??[HIER](https://d.lernsax.de/d.php/1/6/0.4973572139756.Epy10a5mbR0Q1qEt9lRaRnlb.LzE1NA)
 
-{{4}}
-**********
-__Wahl der Prüfungsfächer - bis 01. September__
+## Wahl der Prüfungsfächer 
+
+- Entscheidung bis 29.08. (3. Woche)
 
 - Zettel ausfüllen und an Tutor zurück
 
-**********
+
+## Öffnungszeiten Sekretariat
+
+ - Mo-Do: 7:30 Uhr - 13:15 Uhr & 13:45 Uhr - 15:30 Uhr
+ - Fr: 7:30 Uhr - 13:15 Uhr 
+
+
+## Nachschreiben
+
+ - __bis 45min__ Montags 8. Stunde, 14:45 Uhr | Raum | Frau Berkhan
+
+ - __bis 90 min__ Dienstags 8./9. Stunde, 14:45 Uhr | Raum | Frau Schmiedel
+
+
 
 # Belehrung - Schulhaus
 
