@@ -32,7 +32,7 @@ __Notengebung__
 
 {{1}}
 ************
-- Anzahl der Noten: 2xKlausur, mind. 2x sonstige
+- Anzahl der Noten: 2xKlausur, 2x sonstige
 ************
 
 {{2}}
@@ -43,7 +43,7 @@ __Notengebung__
 | Klausuren | Termin | Bemerkungen |
 | 1. Sonstige | 04.09. | 4. Woche |
 | 1. Klausur| 25.09. | 7. Woche |
-| 2. Sonstige | ??? | |
+| 2. Sonstige | ??? | ??? |
 | 2. Klausur| 04.12. | 15. Woche | 
 </p>
 
@@ -60,5 +60,9 @@ __Hinweise zum Fehlen:__
 
 **********
 
-# Belehrung
+# Belehrung - Schulhaus
+
+# Belehrung - Fachraum
+
+
 
