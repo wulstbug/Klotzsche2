@@ -21,8 +21,8 @@ import: https://raw.githubusercontent.com/wulstbug/Klotzsche2/2025_2026/03_Sonst
 
 -->
 
+# LK Physik 2025/2026
 
-# LB 9 - Mechanische und elektromagnetische Schwingungen
 <!-- 
 icon:   https://diversewolken.ddns.net/klotzsche/logo.jpg
 -->
@@ -31,3 +31,4 @@ icon:   https://diversewolken.ddns.net/klotzsche/logo.jpg
 
 @uhr
 
+# LB 9 - Mechanische und elektromagnetische Schwingungen

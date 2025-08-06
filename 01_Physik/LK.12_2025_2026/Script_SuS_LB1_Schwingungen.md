@@ -20,7 +20,7 @@ import: https://raw.githubusercontent.com/wulstbug/Klotzsche2/2025_2026/03_Sonst
 -->
 
 
-# LB 9 - Schwingungen
+# LB 9 - Mechanische und elektromagnetische Schwingungen
 <!-- 
 icon:   https://diversewolken.ddns.net/klotzsche/logo.jpg
 -->

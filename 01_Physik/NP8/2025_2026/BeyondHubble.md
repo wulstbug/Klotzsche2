@@ -2,6 +2,8 @@
 
 author: Christian Golnik
 
+logo: https://i0.wp.com/nerdbot.com/wp-content/uploads/2022/10/pillarsofcreation.nasa_.jpg?resize=1200%2C800&ssl=1
+
 language: de
 
 @style
