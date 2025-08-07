@@ -27,13 +27,8 @@ icon:   https://diversewolken.ddns.net/klotzsche/logo.jpg
 
 - __Bewertung erfolgt nach dem 40% Modell__
 
-{{1}}
-************
 - Anzahl der Noten: 2xKlausur, 2x sonstige
-************
 
-{{2}}
-**********
 <p style="margin-left:5%">
 ---
 | | | |
@@ -45,7 +40,7 @@ icon:   https://diversewolken.ddns.net/klotzsche/logo.jpg
 </p>
 
 - Ende 17. Woche -> __Zeugnisse 12/1 am 19.12.2025__
-**********
+
 
 ## Fehlen im Unterricht
 
