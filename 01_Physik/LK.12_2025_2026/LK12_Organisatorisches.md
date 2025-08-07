@@ -8,15 +8,10 @@ language: de
 logo: https://www.sekretaria.de/wp-content/uploads/2011/06/Kalender_Terminplan__68976575_Itan1409_XXL_Website.jpg
 
 @style
-.lia-slide__footer {
-      display: none !important;
-}
 .lia-effect__circle {
     display: none !important;
 }
 @end
-
-mode: presentation
 
 -->
 

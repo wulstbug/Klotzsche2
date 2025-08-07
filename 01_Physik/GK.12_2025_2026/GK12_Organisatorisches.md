@@ -8,9 +8,6 @@ language: de
 logo: https://www.sekretaria.de/wp-content/uploads/2011/06/Kalender_Terminplan__68976575_Itan1409_XXL_Website.jpg
 
 @style
-.lia-slide__footer {
-      display: none !important;
-}
 .lia-effect__circle {
     display: none !important;
 }
@@ -30,15 +27,9 @@ icon:   https://diversewolken.ddns.net/klotzsche/logo.jpg
 __Notengebung__
 
 
-{{1}}
-************
 - Bewertung erfolgt nach dem 40% Modell
 
 - Anzahl der Noten: 2xKlausur, 2x sonstige
-************
-
-{{2}}
-**********
 
 <p style="margin:10%">
 
@@ -73,7 +64,6 @@ __Notengebung__
 </p>
 
 - __Ende 12/1__ 17. Woche -> Zeugnisse am 19.12.2025
-**********
 
 # Belehrung - Fachraum
 
