@@ -78,8 +78,9 @@ icon:   https://diversewolken.ddns.net/klotzsche/logo.jpg
 
 
 
-# Belehrung - Schulhaus
+# Belehrung - Allgemein
+
+??[Belehrung_2025_2026](https://d.lernsax.de/d.php/1/6/0.4973572139756.ddjWGTHkhxjmGy6XxsYjN6S2.LzE1NQ)
 
 # Belehrung - Fachraum
-
 
