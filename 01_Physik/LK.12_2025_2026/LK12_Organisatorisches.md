@@ -46,6 +46,8 @@ icon:   https://diversewolken.ddns.net/klotzsche/logo.jpg
 
 - Freistellungen(z.B. Fahrschulprüfungen) bitte beim Tutor beantragen
 
+    - Antrag: formlos, schriftlich (von Eltern unterschrieben)
+
 - Krankmeldungen müssen spätestens nach 3 Werktagen schriftlich in der Schule sein (Lernsax-Meldung Elternaccount genügt)
 
 - -> __Neuer Laufzettel__ [HIER](https://d.lernsax.de/d.php/1/6/0.4973572139756.Epy10a5mbR0Q1qEt9lRaRnlb.LzE1NA)
