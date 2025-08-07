@@ -85,8 +85,6 @@ window.LIA.settings.font_size = 2
 
 mode: presentation
 
-@@@ ogy.de/11Ph2 deaktivieren: https://ogy.de/del.cvv2y5l7old0u7gamlc1
-
 -->
 
 
