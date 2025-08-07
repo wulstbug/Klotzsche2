@@ -1,7 +1,7 @@
 <!--
 icon:   https://diversewolken.ddns.net/klotzsche/logo.jpg 
 
-logo: https://www.ardalpha.de/lernen/alpha-lernen/kommunikation-einfuehrung-102~_v-img__16__9__m_-4423061158a17f4152aef84861ed0243214ae6e7.jpg?version=09fc2
+logo: https://i.ytimg.com/vi/z4EFDWgVzyw/hqdefault.jpg
 
 author: Christian Golnik
 
@@ -11,9 +11,6 @@ language: de
 .lia-effect__circle {
     display: none !important;
 }
-.lia-slide__footer {
-     display: none !important;
-} 
 
 @media (min-width: 600px) {
     .newspaper {
@@ -47,7 +44,7 @@ window.LIA.settings.font_size = 2
 
 # Einführung: Was ist Kommunikation
 
-
+![WasIstKommunikation](https://i.ytimg.com/vi/z4EFDWgVzyw/hqdefault.jpg)
 
 ### Quiz - Grundlagen Kommunikation
 
