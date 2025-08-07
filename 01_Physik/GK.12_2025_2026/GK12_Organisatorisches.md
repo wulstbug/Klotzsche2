@@ -38,7 +38,7 @@ __Notengebung__
 <summary>__Termine: 11ph2__</summary>
 
 | | | |
-| Klausuren | Termin | Bemerkungen |
+| Art | Termin | Bemerkungen |
 | 1. Sonstige (LK) | 11.09. | 5. Woche |
 | 2. Sonstige (Prakt) | 23.10 | 9. Woche , Einzelarbeit |
 | 2. Klausur| 20.11. | 13. Woche | 
@@ -52,7 +52,7 @@ __Notengebung__
 <summary>__Termine: 11ph3__</summary>
 
 | | | |
-| Klausuren | Termin | Bemerkungen |
+| Art | Termin | Bemerkungen |
 | 1. Sonstige (LK) | 08.09. | 5. Woche |
 | 2. Sonstige (Prakt) | 20.10 | 9. Woche , Einzelarbeit |
 | 2. Klausur| 20.11. | 13. Woche | 
