@@ -120,7 +120,7 @@ __Geprüft werden:__
 
 [Fachraum](https://diversewolken.ddns.net/nextcloud/index.php/s/ztxmdn93gLF5FZt)
 
-## Todo
+## Todo für
 
 __Golnik:__
 
@@ -132,7 +132,7 @@ __Kursteilnehmende:__
 
 - [ ] volljährige Schülerinnen und Schüler bitte Handynummer angeben
 
-- [ ]- Zeckenentfernung (_neues Formular_) -> bitte unterschrieben zurück -> (__bis Donnerstag__)
+- [ ] Zeckenentfernung (_neues Formular_) -> bitte unterschrieben zurück -> (__bis Donnerstag__)
 
 - [ ] bisherigen Papierausweise entfallen, es gibt nun neue gedruckte Ausweise mit Foto (Fotograf kommt an die Schule)
      
@@ -170,7 +170,9 @@ __Geprüft werden:__
 
 </details>
 
-- [ ] Berufswahlzettel: _Wo stehe ich im Berufswahlprozess?_ (bis Dienstag (12.8.) ausfüllen)
+- [ ] Berufswahlzettel: _Wo stehe ich im Berufswahlprozess?_ (bis Dienstag (12.8.) ausfüllen) 
+
+> Fr. Hofeditz (Arbeitsagentur) möchte euch die Gelegenheit geben euch bedarfsgerecht in passenden Kleingruppen oder einzeln zu beraten <br> -> am __7.1.26__ findet am GyKl der studienfeldbezogene Berufsberatungstest: 
 
 ## Langfristige Termine:
 
