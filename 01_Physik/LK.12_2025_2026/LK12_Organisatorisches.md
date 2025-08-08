@@ -89,7 +89,7 @@ icon:   https://diversewolken.ddns.net/klotzsche/logo.jpg
 
 ## Belehrung - Fachraum
 
-[Hausordnung](https://diversewolken.ddns.net/nextcloud/index.php/s/ztxmdn93gLF5FZt)
+[Fachraum](https://diversewolken.ddns.net/nextcloud/index.php/s/ztxmdn93gLF5FZt)
 
 ## Todo
 

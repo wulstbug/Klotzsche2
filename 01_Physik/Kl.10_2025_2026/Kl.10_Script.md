@@ -33,6 +33,10 @@ icon:   https://diversewolken.ddns.net/klotzsche/logo.jpg
 
 @uhr
 
+### Belehrung Fachraum
+
+[Fachraum](https://diversewolken.ddns.net/nextcloud/index.php/s/ztxmdn93gLF5FZt)
+
 # LB 1 : Newton'sche Gesetze
 
 ![Newtons-Apfel](https://www1.wdr.de/wdr-migration/bildisaacnewtonuntermapfelbaum100~_v-gseapremiumxl.jpg)
