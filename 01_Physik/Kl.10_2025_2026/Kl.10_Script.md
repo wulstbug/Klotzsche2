@@ -77,7 +77,7 @@ icon:   https://diversewolken.ddns.net/klotzsche/logo.jpg
 > Eine Kraft von Körper A auf Körper B geht immer mit einer gleich großen, aber entgegen gerichteten Kraft von Körper B auf Körper A einher.
 **************************
 
-## Beispiele für Newtonsche Gesetze
+## 1.1 Beispiele für Newtonsche Gesetze
 
 1. Ein kräftefreier Körper bleibt in Ruhe oder bewegt sich geradlinig mit konstanter Geschwindigkeit.
 
@@ -105,7 +105,7 @@ Wechselwirkungsgesetz
 **********************************
 
 
-## Wirkende Kräfte bei ...
+## 1.2. Wirkende Kräfte bei ...
 
 <H4> .. freiem Fall </H4>
 
@@ -131,7 +131,7 @@ $F_g$ .. Gewichtskraft <br> $F_N$ .. Normalkraft <br> <br> <span style="color:re
 ![Schiefe Ebene](https://diversewolken.ddns.net/nextcloud/index.php/apps/files_sharing/publicpreview/EaLpw5ejSDSSaiB?file=/&fileId=107804&x=1920&y=1200&a=true&etag=9a3e507651b1521bf3c26370b15b2a60) $F_g$ .. Gewichtskraft <br> $F_N$ .. Normalkraft <br> $F_H$ Hangabtriebskraft <br> $F_R$ Reibungskraft <br> <br> <span style="color:red">***Wenn der Körper ruht, ist die Summe aller Kräfte gleich Null.***</span>
 ************************
 
-## Berechnung der Beschleunigung an der schiefen Ebene
+## 1.3. Berechnung der Beschleunigung an der schiefen Ebene
 
 Ziel: Berechne die Beschleunigung eines reibungsfreien Körpers der Masse m an einer geneigten Ebene mit dem Neigungswinkel $\alpha$.
 
@@ -148,7 +148,7 @@ $F_g$..Gewichtskraft <br>
 {2}{Lsg.: <br> (I) $F_g = m \cdot g$ <br> <span style="color:purple">(II) $F_H = F_g \cdot sin(\alpha)$</span>} <br>
 {3}{<span style="color:blue">(III) $ F = m \cdot a \hspace{2cm}$ (2. Newtonsche Gesetz)</span>} <br>
 
-## Wiederholung: Gleichförmige Bewegung und gleichmäßig beschleunigte Bewegung
+## 1.4. Wiederholung: Gleichförmige Bewegung und gleichmäßig beschleunigte Bewegung
 
 {{1}}
 ******************
@@ -176,7 +176,7 @@ $s = \dfrac{1}{2}\cdot$ <span style="color:blue"> $g \cdot sin(\alpha)$ </span> 
 ***************
 
 
-### Aufgabe zur schiefen Ebene
+### 1.5. Aufgabe zur schiefen Ebene
 
 1. Parkt man einen PKW an einer abschüssigen Straße, so empfiehlt es sich, das Fahrzeug sicher gebremst abzustellen. Eine der steilsten Straßen im Dresdner Raum ist die Robert-Diez-Straße im Stadtteil Loschwitz. Der Neigungswinkel der Straße beträgt an manchen Stellen 8°. Ein Fahrzeug der Masse 1,5t soll dort abgestellt werden. <br> <br>
        
