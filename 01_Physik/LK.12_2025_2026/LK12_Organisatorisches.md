@@ -41,7 +41,6 @@ icon:   https://diversewolken.ddns.net/klotzsche/logo.jpg
 
 - Ende 17. Woche -> __Zeugnisse 12/1 am 19.12.2025__
 
-
 ## Fehlen im Unterricht
 
 - Freistellungen(z.B. Fahrschulprüfungen) bitte beim Tutor beantragen
@@ -59,6 +58,36 @@ icon:   https://diversewolken.ddns.net/klotzsche/logo.jpg
 - Zettel ausfüllen 
 
 - Eltern / selber(wenn >18) unterschreiben und an Tutor zurück
+
+<details style="margin:5%">
+
+<summary> Details zur Wahl der Abi-Prüfung </summary>
+
+- P1/P2 Leistungskurse - schriftlich (270-315 Min)
+
+- P3 ein Grundkurs - schriftlich (240-255 Min)
+
+- P4 ein Grundkurs - mündlich
+
+- P5 ein weiterer Grundkurs mündlich oder eine besondere Lernleistung (wird zu Beginn des Halbjahres 12/1 festgelegt)
+
+<p style="margin-left:5%">
+
+__Geprüft werden:__
+
+- Deutsch und Mathematik
+
+- mindestens eine Gesellschaftswissenschaft (Ge, Geo, GRW)
+
+- mindestens eine Fremdsprache __oder__ eine Naturwissenschaft
+
+- P3 bis P5: D, Ge, Geo, Gk, Ma, Ph, Bio, Ch
+
+- P4 und P5: Ku, Mu, Info, Rel, Eth, Fs (nicht in Kl.10 begonnen)
+
+</p>
+
+</details>
 
 
 ## Öffnungszeiten Sekretariat
@@ -95,18 +124,73 @@ icon:   https://diversewolken.ddns.net/klotzsche/logo.jpg
 
 __Golnik:__
 
-- Klassenschülersprecher
+- [ ] Klassenschülersprecher
 
 __Kursteilnehmende:__
 
-- Stammdatenblatt (bitte kontrollieren und Änderungen markieren) -> (__bis Donnerstag__)
+- [ ] Stammdatenblatt (bitte kontrollieren und Änderungen markieren) -> (__bis Donnerstag__)
 
-- volljährige Schülerinnen und Schüler bitte Handynummer angeben
+- [ ] volljährige Schülerinnen und Schüler bitte Handynummer angeben
 
-- Zeckenentfernung (_neues Formular_) -> bitte unterschrieben zurück -> (__bis Donnerstag__)
+- [ ]- Zeckenentfernung (_neues Formular_) -> bitte unterschrieben zurück -> (__bis Donnerstag__)
 
-- bisherigen Papierausweise entfallen, es gibt nun neue gedruckte Ausweise mit Foto (Fotograf kommt an die Schule)
+- [ ] bisherigen Papierausweise entfallen, es gibt nun neue gedruckte Ausweise mit Foto (Fotograf kommt an die Schule)
+     
+     -> bitte in der Mittagspause (__bis Donnerstag__) fotografieren gehen
 
-  - bitte in der Mittagspause (__bis Donnerstag__) fotografieren gehen
+- [ ] Abgabe Prüfungsfächer beim Tutor (__bis 29.08.__)
 
-- Prüfungsanmeldung (__bis 29.08.__)
+<details style="margin:5%">
+
+<summary> Details zur Wahl der Abi-Prüfung </summary>
+
+- P1/P2 Leistungskurse - schriftlich (270-315 Min)
+
+- P3 ein Grundkurs - schriftlich (240-255 Min)
+
+- P4 ein Grundkurs - mündlich
+
+- P5 ein weiterer Grundkurs mündlich oder eine besondere Lernleistung (wird zu Beginn des Halbjahres 12/1 festgelegt)
+
+<p style="margin-left:5%">
+
+__Geprüft werden:__
+
+- Deutsch und Mathematik
+
+- mindestens eine Gesellschaftswissenschaft (Ge, Geo, GRW)
+
+- mindestens eine Fremdsprache __oder__ eine Naturwissenschaft
+
+- P3 bis P5: D, Ge, Geo, Gk, Ma, Ph, Bio, Ch
+
+- P4 und P5: Ku, Mu, Info, Rel, Eth, Fs (nicht in Kl.10 begonnen)
+
+</p>
+
+</details>
+
+- [ ] Berufswahlzettel: _Wo stehe ich im Berufswahlprozess?_ (bis Dienstag (12.8.) ausfüllen)
+
+## Langfristige Termine:
+
+| | |
+| Abgabe Prüfungsfächer | __01.09.2026__ |
+| Zeugnisausgabe 12/1 | __19.12.2025__ |
+| Abiturzeugnisausgabe | __27.06.2026__ |
+| Klausuren und abiturähnlichen Bedingungen | __06.02.2026 DE, de__ <br> __23.02.2026 Ma,ma__ <br> __24.02.2026 Phy__ | 
+| Tag der offenen Hochschultür | __15.01.2026__ |
+
+## Schulmerch
+
+![Schulmerch-Anprobe](https://diversewolken.ddns.net/nextcloud/index.php/s/CzrBXrKmf3aKYnp/download)
+
+---
+
+![Schulmerch_Flyer1](https://diversewolken.ddns.net/nextcloud/index.php/s/wfbmFsSBdJAaCmg/download)
+
+---
+
+![Schulmerch_Flyer2](https://diversewolken.ddns.net/nextcloud/index.php/s/bomRiQtjzJ8XRxN/download)
+
+
