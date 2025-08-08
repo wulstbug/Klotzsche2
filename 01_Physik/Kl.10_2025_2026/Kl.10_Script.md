@@ -70,14 +70,14 @@ icon:   https://diversewolken.ddns.net/klotzsche/logo.jpg
 **************************
 3. Kraft gleich Gegenkraft (Wechselwirkungsgesetz)
 
-> Eine Kraft von Körper A auf Körper B geht immer mit einer gleich großen, aber entgegen gerichteten Kraft von Körper B auf Körper A einher
+> Eine Kraft von Körper A auf Körper B geht immer mit einer gleich großen, aber entgegen gerichteten Kraft von Körper B auf Körper A einher.
 **************************
 
 ## Beispiele für Newtonsche Gesetze
 
 1. Ein kräftefreier Körper bleibt in Ruhe oder bewegt sich geradlinig mit konstanter Geschwindigkeit.
 
-![VoyagerSone](https://heise.cloudimg.io/width/1220/q70.png-lossy-70.webp-lossy-70.foil1/_www-heise-de_/imgs/18/3/5/4/6/9/3/7/Voyager-illustration-with-stars-16.jpg-e02f3b734d477d20.jpeg)
+!?[VoyagerSone](https://diversewolken.ddns.net/nextcloud/index.php/s/QycTfGXXTDPn2aa/download)
 
 {{1}}
 **********************************
@@ -170,3 +170,29 @@ $s = \dfrac{1}{2}\cdot$ <span style="color:blue"> $g \cdot sin(\alpha)$ </span> 
     <img src='https://diversewolken.ddns.net/nextcloud/index.php/s/4pHJ5FJFkFASztE/download'/>
 </details>
 ***************
+
+
+### Aufgabe zur schiefen Ebene
+
+<div style="position: absolute;top:100px;right:50px">
+   <details>
+      <summary> Aufgabe und Lösung </summary>
+      https://ogy.de/10bSchiefe1
+
+      [qr-code](https://liascript.github.io/nightly/?https://api.allorigins.win/raw?url=https://diversewolken.ddns.net/nextcloud/index.php/s/3LnzKfpQMF7EWxH/download#1)
+   </details>
+</div>
+
+1. Parkt man einen PKW an einer abschüssigen Straße, so empfiehlt es sich, das Fahrzeug sicher gebremst abzustellen. Eine der steilsten Straßen im Dresdner Raum ist die Robert-Diez-Straße im Stadtteil Loschwitz. Der Neigungswinkel der Straße beträgt an manchen Stellen 8°. Ein Fahrzeug der Masse 1,5t soll dort abgestellt werden. <br> <br>
+       
+        a) Zeichne eine winkeltreue Skizze dieser Parksituation. Zeichne die auftretenden Kräfte ein und benenne diese Kräfte.
+
+        b)  Notiere einen geeigneten Kräftemaßstab neben der Skizze. Bestimme die Werte sämtlicher in a) dargestellter Kräfte durch Konstruktion.
+
+2. Berechne die nötige Reibungskraft, damit das PKW den Hang nicht hinunter rollt.
+
+3. Nimm an nun an, dass sich die Bremse des PKW ungewollt gelöst hat. Weise durch 	Berechnung nach, dass die Beschleunigung des PKW ungefähr $ 1,4 \frac{m}{s^2} $ beträgt.
+
+4. Bestimme die Strecke, die das Fahrzeug innerhalb der ersten 3s nach Lösen der Bremse zurück legt.
+
+5. In einer Entfernung von 50m (bergab, Stoßstange-Stoßstange) ist ein LKW der Masse 40t geparkt. Bestimme die Zeit, nach welcher das Auto auf den LKW prallt. Bestimme auch die Aufprallgeschwindigkeit.
