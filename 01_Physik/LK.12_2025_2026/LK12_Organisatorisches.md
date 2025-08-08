@@ -73,11 +73,25 @@ icon:   https://diversewolken.ddns.net/klotzsche/logo.jpg
 
  - __bis 90 min__ Dienstags 8./9. Stunde, 14:45 Uhr | Raum | Frau Schmiedel
 
-
-
-# Belehrung - Allgemein
+## Belehrung - Allgemein
 
 ??[Belehrung_2025_2026](https://d.lernsax.de/d.php/1/6/0.4973572139756.ddjWGTHkhxjmGy6XxsYjN6S2.LzE1NQ)
 
-# Belehrung - Fachraum
+## Belehrung - Fachraum
+
+## Todo
+
+__Golnik:__
+
+- Klassenschülersprecher
+
+__Kursteilnehmende:__
+
+- Stammdatenblatt (bitte kontrollieren und Änderungen markieren)
+
+- Zeckenentfernung (_neues Formular_)
+
+- bisherigen Papierausweise entfallen, es gibt nun neue gedruckte Ausweise mit Foto (Fotograf kommt an die Schule)
+
+  - bitte in der Mittagspause (heute oder morgen) fotografieren gehen
 
