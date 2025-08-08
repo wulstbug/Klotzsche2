@@ -101,6 +101,8 @@ __Kursteilnehmende:__
 
 - Stammdatenblatt (bitte kontrollieren und Änderungen markieren) -> (__bis Donnerstag__)
 
+- volljährige Schülerinnen und Schüler bitte Handynummer angeben
+
 - Zeckenentfernung (_neues Formular_) -> bitte unterschrieben zurück -> (__bis Donnerstag__)
 
 - bisherigen Papierausweise entfallen, es gibt nun neue gedruckte Ausweise mit Foto (Fotograf kommt an die Schule)
