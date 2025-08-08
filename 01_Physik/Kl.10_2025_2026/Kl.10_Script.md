@@ -10,6 +10,9 @@ logo: https://snu.edu.in/site/assets/files/18322/nanotechnology-molecule-atom-mo
 import: https://raw.githubusercontent.com/wulstbug/Klotzsche2/2025_2026/03_Sonstiges/settings.md
 
 @style
+.lia-effect__circle {
+    display: none !important;
+}
 .lia-slide__footer {
       display: none !important;
 } 
