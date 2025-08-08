@@ -75,9 +75,11 @@ icon:   https://diversewolken.ddns.net/klotzsche/logo.jpg
 
 ## Belehrung - Allgemein
 
-??[Belehrung_2025_2026](https://d.lernsax.de/d.php/1/6/0.4973572139756.ddjWGTHkhxjmGy6XxsYjN6S2.LzE1NQ)
+??[Belehrung_2025_2026](gitlab://d.lernsax.de/d.php/1/6/0.4973572139756.ddjWGTHkhxjmGy6XxsYjN6S2.LzE1NQ)
 
 ## Belehrung - Fachraum
+
+
 
 ## Todo
 
@@ -87,11 +89,12 @@ __Golnik:__
 
 __Kursteilnehmende:__
 
-- Stammdatenblatt (bitte kontrollieren und Änderungen markieren)
+- Stammdatenblatt (bitte kontrollieren und Änderungen markieren) -> (__bis Donnerstag__)
 
-- Zeckenentfernung (_neues Formular_)
+- Zeckenentfernung (_neues Formular_) -> bitte unterschrieben zurück -> (__bis Donnerstag__)
 
 - bisherigen Papierausweise entfallen, es gibt nun neue gedruckte Ausweise mit Foto (Fotograf kommt an die Schule)
 
-  - bitte in der Mittagspause (heute oder morgen) fotografieren gehen
+  - bitte in der Mittagspause (__bis Donnerstag__) fotografieren gehen
 
+- Prüfungsanmeldung (__bis 29.08.__)
