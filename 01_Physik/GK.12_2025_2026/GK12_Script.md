@@ -39,9 +39,9 @@ Es soll gelten:
 
 ## 1. Beschreibung einer mechanischen Schwingung
 
-{{1}}
+{{1-2}}
 ********
-![Federschwinger](https://www.geogebra.org/m/g5vm3e2r)
+??[Federschwinger](https://www.geogebra.org/m/g5vm3e2r)
 ********
 
 {{2}}
@@ -74,6 +74,15 @@ und $T$ ist die @color(Periodendauer, orange).
 
 Beschreibung: Ein Massestück hängt an einer Feder, wird ausgelenkt und losgelassen.
 
+{{1-4}}
+********
+??[Federschwinger](https://www.geogebra.org/m/g5vm3e2r)
+********
+
+
+{{2}}
+********
+
 Annahmen:
 
 1. Die Feder schwinkt nach dem Hook'schen Gesetz, das heißt die rücktreibende Kraft $F$ ist proportional zur Auslenkung $y$. Der Proportionalitätsfaktor ist die Federkonstante $D$.
@@ -82,9 +91,14 @@ $$ F = - D \cdot y $$
 
 2. Das System schwingt reibungsfrei.
 
+********
+
+{{3}}
+********
 > Unter den Vorraussetzungen 1. und 2. lässt dich die Periodendauer $T$ sich mit Hilfe der Formel
 >
 >$$ \boxed{T = 2\pi \sqrt{\dfrac{m}{D}}} $$
 >
 >berechnen. Hier ist $m$ die angehängte Masse. 
 
+********
