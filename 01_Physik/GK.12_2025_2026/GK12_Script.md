@@ -23,17 +23,52 @@ icon:   https://diversewolken.ddns.net/klotzsche/logo.jpg
 
 @uhr
 
-## Definition eines periodischen Vorgangs
+## (optional) Definition eines periodischen Vorgangs
 
+!?[Motivationsvideo](https://diversewolken.ddns.net/nextcloud/index.php/f/719652/downlaod)
+
+{{1}}
+************
 > Definition: Wir beobachten eine Größe $B$. Der Wert von B zum Zeitpunkt t wird mit $B(t)$ bezeichnet. Wir nennen B eine <span style="color:orange">***periodische Größe***</span>, wenn sich die Werte von B nach einer bestimmten Zeit T wiederholen.
 Es soll gelten:
 
 > $$ B(t) = B(t+T) $$ <br> _In Worten: Der Wert von B zum Zeitpunkt t ist genauso groß, wie der Wert von B zum Zeitpunkt t+T._
 
 > <span style="color:red">***T heißt Periodendauer ***</span> von B
+************
 
-## Beispiel Federschwinger
+## 1.Beschreibung einer mechanischen Schwingung
 
+{{1}}
+********
+![Federschwinger](https://www.geogebra.org/m/g5vm3e2r)
+********
+
+{{2}}
+********
+
+Für eine mechanische Schwingung verwenden wir die physikalischen Größen _Momentanauslenkung_ ($y(t)$), Momentangeschwindigkeit ($v(t)$) und Momentanbeschleunigung ($a(t)$).
+
+Für eine @color(harmonische Schwingung, orange) gelten die Zusammenhänge:
+
+> $$y(t) = y_{max} \cdot \sin(\omega \cdot t)$$
+>
+> $$v(t) = v_{max} \cdot \cos(\omega \cdot t)$$
+>
+> $$a(t) = -a_{max} \cdot sin(\omega \cdot t)$$
+
+********
+
+{{3}}
+********
+
+Hier beschreibt $\omega$ die @color(Kreisfrequenz, orange), die definiert ist als
+
+> $$ \omega = 2 \pi \cdot T $$
+
+und $T$ ist die @color(Periodendauer, orange).
+
+********
 
 
 
