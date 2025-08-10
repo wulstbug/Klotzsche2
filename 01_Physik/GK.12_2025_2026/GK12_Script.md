@@ -23,6 +23,20 @@ icon:   https://diversewolken.ddns.net/klotzsche/logo.jpg
 
 @uhr
 
+## Definition eines periodischen Vorgangs
+
+> Definition: Wir beobachten eine Größe $B$. Der Wert von B zum Zeitpunkt t wird mit $B(t)$ bezeichnet. Wir nennen B eine <span style="color:orange">***periodische Größe***</span>, wenn sich die Werte von B nach einer bestimmten Zeit T wiederholen.
+Es soll gelten:
+
+> $$ B(t) = B(t+T) $$ <br> _In Worten: Der Wert von B zum Zeitpunkt t ist genauso groß, wie der Wert von B zum Zeitpunkt t+T._
+
+> <span style="color:red">***T heißt Periodendauer ***</span> von B
+
+## Beispiel Federschwinger
+
+
+
+
 ## Präsentation mit Canva
 
 <div style="position: relative; width: 100%; height: 0; padding-top: 56.2500%;
