@@ -95,7 +95,7 @@ und $T$ ist die @color(Periodendauer, orange).
 
 ********
 
-## 9.2 Das Federpendel (Beispiel 1)
+## 9.2 Der Federschwinger (Beispiel 1)
 
 Beschreibung: Ein Massestück hängt an einer Feder, wird ausgelenkt und losgelassen.
 
