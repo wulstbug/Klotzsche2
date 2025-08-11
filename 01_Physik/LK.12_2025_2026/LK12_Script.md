@@ -34,7 +34,6 @@ icon:   https://diversewolken.ddns.net/klotzsche/logo.jpg
 
 # LB 9 - Mechanische und elektromagnetische Schwingungen
 
-
 ## (optional) Definition eines periodischen Vorgangs
 
 !?[Motivationsvideo](https://diversewolken.ddns.net/nextcloud/index.php/f/719652/downlaod)
