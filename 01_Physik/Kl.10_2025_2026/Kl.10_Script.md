@@ -53,6 +53,8 @@ icon:   https://diversewolken.ddns.net/klotzsche/logo.jpg
 
 3. Beides gleichzeitig.
 
+> __Erinnerung: Wir betrachten jeden Körper als Punktmasse.__
+
 **************************
 
 {{2}}
