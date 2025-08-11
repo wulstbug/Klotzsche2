@@ -10,14 +10,15 @@ logo: https://www.sciencedaily.com/images/1920/Quantum-Clock.webp
 @style
 .lia-slide__footer {
       display: none !important;
+}
+.lia-effect__circle {
+    display: none !important;
 } 
 @end
 
 mode: presentation
 
 import: https://raw.githubusercontent.com/wulstbug/Klotzsche2/2025_2026/03_Sonstiges/settings.md
-
-@@@ ogy.de/11Ph2 deaktivieren: https://ogy.de/del.cvv2y5l7old0u7gamlc1
 
 -->
 
@@ -66,7 +67,7 @@ Für eine @color(harmonische Schwingung, orange) gelten die Zusammenhänge:
 >
 > $$v(t) = \frac{\mathrm{d}y}{\mathrm{d}t}$$
 >
-> $$a(t) = \frac{\mathrm{d}y}{\mathrm{d}t}$$
+> $$a(t) = \frac{\mathrm{d}v}{\mathrm{d}t}$$
 
 <p style="color:blue">
 

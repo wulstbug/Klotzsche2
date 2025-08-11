@@ -11,7 +11,11 @@ mode: presentation
 
 import: https://raw.githubusercontent.com/wulstbug/Klotzsche2/2025_2026/03_Sonstiges/settings.md
 
-@@@ ogy.de/11Ph2 deaktivieren: https://ogy.de/del.cvv2y5l7old0u7gamlc1
+@style
+.lia-effect__circle {
+    display: none !important;
+}
+@end
 
 -->
 

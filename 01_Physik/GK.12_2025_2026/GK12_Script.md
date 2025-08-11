@@ -9,6 +9,12 @@ logo: https://cmscollege.ac.in/wp-content/uploads/2024/01/physics_image.webp
 
 import: https://raw.githubusercontent.com/wulstbug/Klotzsche2/2025_2026/03_Sonstiges/settings.md
 
+@style
+.lia-effect__circle {
+    display: none !important;
+}
+@end
+
 mode: presentation
 
 -->
@@ -22,6 +28,10 @@ icon:   https://diversewolken.ddns.net/klotzsche/logo.jpg
 ![WhyPhysics](https://cmscollege.ac.in/wp-content/uploads/2024/01/physics_image.webp)
 
 @uhr
+
+# LB VI Schwingungen
+
+![Schwingungen](https://cmscollege.ac.in/wp-content/uploads/2024/01/physics_image.webp)
 
 ## (optional) Definition eines periodischen Vorgangs
 
@@ -60,7 +70,9 @@ Für eine @color(harmonische Schwingung, orange) gelten die Zusammenhänge:
 
 <p style="color:blue">
 
-Aufgabe*: Ermittle für eine harmonische Schwinung aus dem Zusammenhang $y(t)$ die Ausdrücke für $v_{max}$ und $a_{max}$.
+Aufgabe*: Ermittle für eine harmonische Schwinung aus dem Zusammenhang $y(t)$ die Ausdrücke für $v_{max}$ und $a_{max}$. Es gilt:
+
+$v(t) = \frac{\mathrm{d}y}{\mathrm{d}t}$ und $a(t) = \frac{\mathrm{d}v}{\mathrm{d}t}$
 
 <details>
 

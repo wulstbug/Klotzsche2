@@ -7,7 +7,11 @@ language: de
 
 logo: https://examio-mediafiles.s3.eu-west-1.amazonaws.com/schwingung-sinus-print.jpg
 
-
+@style
+.lia-effect__circle {
+    display: none !important;
+}
+@end
 
 mode: presentation
 
