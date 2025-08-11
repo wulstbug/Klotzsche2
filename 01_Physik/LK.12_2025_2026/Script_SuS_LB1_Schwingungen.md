@@ -29,10 +29,7 @@ icon:   https://diversewolken.ddns.net/klotzsche/logo.jpg
 
 @uhr
 
-
-# LB 9 - Mechanische und elektromagnetische Schwingungen
-
-## (optional) Definition eines periodischen Vorgangs
+## 9. 1. Definition eines periodischen Vorgangs
 
 !?[Motivationsvideo](https://diversewolken.ddns.net/nextcloud/index.php/f/719652/downlaod)
 
@@ -46,7 +43,7 @@ Es soll gelten:
 > <span style="color:red">***T heißt Periodendauer ***</span> von B
 ************
 
-## 9. 1. Beschreibung einer mechanischen Schwingung
+## 9. 2. Beschreibung einer mechanischen Schwingung
 
 {{1-2}}
 ********
@@ -93,7 +90,7 @@ und $T$ ist die @color(Periodendauer, orange).
 
 ********
 
-## 9.2 Der Federschwinger (Beispiel 1)
+## 9.3 Der Federschwinger (Beispiel 1)
 
 Beschreibung: Ein Massestück hängt an einer Feder, wird ausgelenkt und losgelassen.
 
@@ -125,3 +122,51 @@ $$ F = - D \cdot y $$
 >berechnen. Hier ist $m$ die angehängte Masse. 
 
 ********
+
+
+### Aufgaben zu 9. 2./3. Schwingungen
+
+1. Ermittle Frequenz, Kreisfrequenz und Periodendauer eines Tages. Nutze die Standardeinheiten.
+
+<p style="margin-left:10%">
+
+@rangeQuiz2($f$,1.1574e-5,$s$)
+
+@rangeQuiz2($\omega$,7.2722e-5,$s$)
+
+@rangeQuiz0($T$,86400,$s$)
+
+<details style="margin-left:10%">
+
+<summary> Lösungshinweise </summary>
+
+Beginne mit der Periodendauer $T$. Überlege, wie lange die Periode eines Tages dauert. Berechne $T$ in Sekunden. Nutze anschließend die Formeln aus 1. um $f$ und $\omega$ zu berechnen.
+
+</details>
+
+</p>
+
+
+2. An eine Hook'sche Feder soll eine Masse gehängt werden, sodass eine vollständige Schwingung genau eine Sekunde dauert.Die Federkonstante $D$ beträgt $0.4\frac{N}{m}$. Ermitteln Sie aus den Angaben die Masse in der Einheit Gramm, welche angehängt werden muss.
+
+<p style="margin-left:10%">
+
+@rangeQuiz2($m$,10.13,$g$)
+
+</p>
+
+<details style="margin-left:10%">
+
+<summary> Lösungshinweise </summary>
+
+Verwenden Sie die Formel zur Ermittlung der Periodendauer eines Federschwingers. Stellen Sie diese Formel nach der Masse um.
+
+</details>
+
+<details style="margin-left:10%">
+
+<summary> Lösungsweg </summary>
+
+![Loesung-2.1.2](https://diversewolken.ddns.net/nextcloud/index.php/s/D9eJbRdg5wja99t/download)
+
+</details>
