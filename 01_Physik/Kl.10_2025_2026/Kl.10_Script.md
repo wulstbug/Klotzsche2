@@ -178,7 +178,11 @@ $s = \dfrac{1}{2}\cdot$ <span style="color:blue"> $g \cdot sin(\alpha)$ </span> 
 {{0-2}}
 ***************
 <details>
-    <img src='https://diversewolken.ddns.net/nextcloud/index.php/s/4pHJ5FJFkFASztE/download'/>
+
+<summary> Erinnerung - Darstellung in Diagrammform</summary>
+
+<img src='https://diversewolken.ddns.net/nextcloud/index.php/s/4pHJ5FJFkFASztE/download'/>
+
 </details>
 ***************
 
