@@ -25,6 +25,8 @@ icon:   https://diversewolken.ddns.net/klotzsche/logo.jpg
 
 ## Notengebung
 
+- [Klausuren-Plan-12-1](https://diversewolken.ddns.net/nextcloud/index.php/s/Q7x3Ez5zatqTdkC)
+
 - __Bewertung erfolgt nach dem 40% Modell__
 
 - Anzahl der Noten: 2xKlausur, 2x sonstige
