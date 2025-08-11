@@ -29,7 +29,7 @@ __Notengebung__
 
 - Bewertung erfolgt nach dem 40% Modell
 
-- Anzahl der Noten: 2xKlausur, 2x sonstige
+- Anzahl der Noten: 1xKlausur, 2x sonstige
 
 <p style="margin:10%">
 
@@ -55,7 +55,7 @@ __Notengebung__
 | Art | Termin | Bemerkungen |
 | 1. Sonstige (LK) | 08.09. | 5. Woche |
 | 2. Sonstige (Prakt) | 20.10 | 9. Woche , Einzelarbeit |
-| 2. Klausur| 20.11. | 13. Woche | 
+| 2. Klausur| 17.11. | 13. Woche | 
 
 </details>
 
