@@ -68,6 +68,20 @@ Für eine @color(harmonische Schwingung, orange) gelten die Zusammenhänge:
 >
 > $$a(t) = \frac{\mathrm{d}y}{\mathrm{d}t}$$
 
+<p style="color:blue">
+
+Aufgabe: Ermittle für eine harmonische Schwinung aus dem Zusammenhang $y(t)$ die Ausdrücke für $v(t)$ und $a(t)$.
+
+<details>
+
+<summary> Lösung </summary>
+
+![Loesung_9.1](https://diversewolken.ddns.net/nextcloud/index.php/s/YZRoKNqaTzAnFja/download)
+
+</details>
+
+</p>
+
 ********
 
 {{3}}
@@ -81,7 +95,7 @@ und $T$ ist die @color(Periodendauer, orange).
 
 ********
 
-## 9.2 Das Federpendel
+## 9.2 Das Federpendel (Beispiel 1)
 
 Beschreibung: Ein Massestück hängt an einer Feder, wird ausgelenkt und losgelassen.
 
