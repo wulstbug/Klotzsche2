@@ -61,6 +61,8 @@ icon:   https://diversewolken.ddns.net/klotzsche/logo.jpg
 
 
 1. Ein kräftefreier Körper bleibt in Ruhe oder bewegt sich geradlinig mit konstanter Geschwindigkeit.
+
+[Das-Erste-Newtonsche-Gesetz](https://app.binogi.de/l/das-erste-newtonsche-gesetz)
 **************
 
 {{3}}
@@ -68,6 +70,8 @@ icon:   https://diversewolken.ddns.net/klotzsche/logo.jpg
 2. Kraft gleich Masse mal Beschleunigung
 
 >    $$ F = m \cdot a $$
+
+[Das-Zweite_Newtonsche-Gesetz](https://app.binogi.de/l/das-zweite-newtonsche-gesetz)
 **************************
 
 {{4}}
@@ -75,6 +79,8 @@ icon:   https://diversewolken.ddns.net/klotzsche/logo.jpg
 3. Kraft gleich Gegenkraft (Wechselwirkungsgesetz)
 
 > Eine Kraft von Körper A auf Körper B geht immer mit einer gleich großen, aber entgegen gerichteten Kraft von Körper B auf Körper A einher.
+
+[Das-Dritte-Newtonsche-Gesetz](https://app.binogi.de/l/das-dritte-newtonsche-gesetz)
 **************************
 
 ## 1.1 Beispiele für Newtonsche Gesetze
@@ -94,6 +100,7 @@ icon:   https://diversewolken.ddns.net/klotzsche/logo.jpg
 Für Gewichtskraft $F_g$ und Erdbeschleunigung g (Ortsfaktor) gilt
 
     $$ F_g = m \cdot g $$
+
 **********************************
 
 
