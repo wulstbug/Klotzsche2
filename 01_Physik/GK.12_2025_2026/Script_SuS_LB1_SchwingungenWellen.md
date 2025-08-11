@@ -74,7 +74,7 @@ $$ F = - D \cdot y $$
 
 2. Das System schwingt reibungsfrei.
 
-> Unter den Vorraussetzungen 1. und 2. lässt dich die Periodendauer $T$ sich mit Hilfe der Formel
+> Unter den Vorraussetzungen 1. und 2. lässt sich die Periodendauer $T$ sich mit Hilfe der Formel
 >
 >$$ \boxed{T = 2\pi \sqrt{\dfrac{m}{D}}} $$
 >
