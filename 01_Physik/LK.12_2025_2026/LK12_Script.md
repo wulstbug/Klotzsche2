@@ -3,6 +3,8 @@ icon:   https://diversewolken.ddns.net/klotzsche/logo.png
 
 author: Christian Golnik
 
+import: https://raw.githubusercontent.com/wulstbug/Klotzsche2/2025_2026/03_Sonstiges/settings.md
+
 language: de
 
 logo: https://www.sciencedaily.com/images/1920/Quantum-Clock.webp
@@ -17,8 +19,6 @@ logo: https://www.sciencedaily.com/images/1920/Quantum-Clock.webp
 @end
 
 mode: presentation
-
-import: https://raw.githubusercontent.com/wulstbug/Klotzsche2/2025_2026/03_Sonstiges/settings.md
 
 -->
 
@@ -174,3 +174,25 @@ Verwenden Sie die Formel zur Ermittlung der Periodendauer eines Federschwingers.
 ![Loesung-2.1.2](https://diversewolken.ddns.net/nextcloud/index.php/s/D9eJbRdg5wja99t/download)
 
 </details>
+
+## 9.3 Definition mechanische Schwingung
+
+<p class="newspaper">
+
+__Begriffe allgemein:__
+
+Eine __mechanische Schwingung__ ist die _periodische Änderung_ einer physikalischen Größe um eine __Ruhelage__.
+
+Die __momentane Auslenkung__( z.B. y(t) ) nennen wir @color(Elongation, red).
+
+Die __maximale Auslenkung__ ( z.B. $y_{max}$ oder $\hat{y}$ ) nennen wir @color(Amplitude, red).
+
+<p class="cb">
+
+__Am Beispiel des Federschwingers:__
+
+![Auslenkung-Federschwinger](https://diversewolken.ddns.net/nextcloud/index.php/s/YQGPkWDc5t2Bd5P/download)
+
+</p>
+
+</p>
