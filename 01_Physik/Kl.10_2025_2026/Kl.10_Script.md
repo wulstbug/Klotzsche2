@@ -85,33 +85,22 @@ icon:   https://diversewolken.ddns.net/klotzsche/logo.jpg
 [Das-Dritte-Newtonsche-Gesetz](https://app.binogi.de/l/das-dritte-newtonsche-gesetz)
 **************************
 
+
 ## 1.1 Beispiele für Newtonsche Gesetze
 
-1. Ein kräftefreier Körper bleibt in Ruhe oder bewegt sich geradlinig mit konstanter Geschwindigkeit.
+1. Trägheitsgesetz: Eine Sonde bewegt sich nach dem start geradlinig gleichförmig durch den Weltraum
 
 !?[VoyagerSone](https://diversewolken.ddns.net/nextcloud/index.php/s/QycTfGXXTDPn2aa/download)
 
-{{1}}
-**********************************
 2. Kraft gleich Masse mal Beschleunigung
 
-   !?[Freier Fall](https://youtu.be/-Fhc51_JbcQ)
-**********************************
-{{2}}
-**********************************
-Für Gewichtskraft $F_g$ und Erdbeschleunigung g (Ortsfaktor) gilt
+    Für Gewichtskraft $F_g$ und Erdbeschleunigung g (Ortsfaktor) gilt
 
     $$ F_g = m \cdot g $$
 
-**********************************
+3. Wechselwirkungsgesetz
 
-
-{{3}}
-**********************************
-Wechselwirkungsgesetz
-
-    ![Gegenkraft](https://av.ph.nat.tum.de/Experiment/1000/Grafik/b1105.gif)
-**********************************
+     ![Gegenkraft](https://av.ph.nat.tum.de/Experiment/1000/Grafik/b1105.gif)
 
 
 ## 1.2. Wirkende Kräfte bei ...
