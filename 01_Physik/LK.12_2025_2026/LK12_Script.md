@@ -344,8 +344,8 @@ Verwenden Sie die Formel zur Ermittlung der Periodendauer eines Federschwingers.
 
 <p class="newspaper">
 
->__Begriffe allgemein:__
->
+__Begriffe allgemein:__
+
 > Eine __mechanische Schwingung__ ist die _periodische Änderung_ einer physikalischen Größe um eine __Ruhelage__.
 
 - Die __momentane Auslenkung__( z.B. y(t) ) nennen wir @color(Elongation, red).
