@@ -335,20 +335,92 @@ Verwenden Sie die Formel zur Ermittlung der Periodendauer eines Federschwingers.
 
 <p class="newspaper">
 
-__Begriffe allgemein:__
+>__Begriffe allgemein:__
+>
+> Eine __mechanische Schwingung__ ist die _periodische Änderung_ einer physikalischen Größe um eine __Ruhelage__.
 
-Eine __mechanische Schwingung__ ist die _periodische Änderung_ einer physikalischen Größe um eine __Ruhelage__.
+- Die __momentane Auslenkung__( z.B. y(t) ) nennen wir @color(Elongation, red).
 
-Die __momentane Auslenkung__( z.B. y(t) ) nennen wir @color(Elongation, red).
-
-Die __maximale Auslenkung__ ( z.B. $y_{max}$ oder $\hat{y}$ ) nennen wir @color(Amplitude, red).
+- Die __maximale Auslenkung__ ( z.B. $y_{max}$ oder $\hat{y}$ ) nennen wir @color(Amplitude, red).
 
 <p class="cb">
 
-__Am Beispiel des Federschwingers:__
-
-![Auslenkung-Federschwinger](https://diversewolken.ddns.net/nextcloud/index.php/s/YQGPkWDc5t2Bd5P/download)
+__Am Beispiel des Federschwingers:__ <br> <br> ![Auslenkung-Federschwinger](https://diversewolken.ddns.net/nextcloud/index.php/s/YQGPkWDc5t2Bd5P/download)
 
 </p>
+
+</p>
+
+---
+
+<p style="color:blue">
+
+Aufgabe 9.3: Leite aus Proportionalität der Rücktreibenden Kraft (siehe 9.2, Annahme 1), dem zweiten Newton'schen Gesetz und den Gleichungen für momentane Auslenkung y(t), momentane Geschwindigkeit v(t) und Beschleunigung a(t) den Ausdruck für die Schwingungsdauer eines Federschwingers her.
+
+_Diese Herleitung ist Teil der Tafelbilder. Löse sie soweit du kannst alleine, überprüfe deine Lösungen mit den Hilfen. Notiere sie im Hefter._
+
+<details style="margin-left:10%">
+
+<summary> Geführter Lösungsweg </summary>
+
+1. Notiere die Annahme zur rücktreibenden Kraft aus 9.2.
+
+<details style="margin-left:10%">
+
+<summary> Lösung </summary>
+
+$ F = - D \cdot y $
+
+</details>
+
+2. Notiere das zweite Newton'sche Gesetz.
+
+<details style="margin-left:10%">
+
+<summary> Lösung </summary>
+
+$ F = m \cdot a $
+
+</details>
+
+3. Setze die Gleichungen für die Kräfte (1. & 2. gleich).
+
+<details style="margin-left:10%">
+
+<summary> Lösung </summary>
+
+$ - D \cdot y = m \cdot a $
+
+</details>
+
+3. Notiere die Ausdrücke für y(t) und a(t) mit Hilfe der trigonometrischen Funktionen
+
+<details style="margin-left:10%">
+
+<summary> Lösung </summary>
+
+$y(t) = y_{max} \cdot \sin(\omega \cdot t)$
+
+$a(t) = -a_{max} \cdot \sin(\omega \cdot t)$ wobei $a_{max} = y_{max} \cdot \omega^2$ (siehe Lösung 9.1)
+
+</details>
+
+4. Setze die Ausdrücke für y(t) und a(t) in die Gleichung aus 3. ein. Löse die Gleichung nach der Periodendauer $T$ auf.
+
+<details style="margin-left:10%">
+
+<summary> Lösung </summary>
+
+$ - D \cdot y(t) = m \cdot a(t) $
+
+$ - D \cdot y_{max} \cdot \sin(\omega \cdot t) = m \cdot -a_{max} \cdot \sin(\omega \cdot t) $
+
+$ - D \cdot y_{max} = m \cdot -y_{max} \cdot \omega^2 $
+
+$ T = 2\pi \sqrt{\dfrac{m}{D}} $
+
+</details>
+
+</details>
 
 </p>
