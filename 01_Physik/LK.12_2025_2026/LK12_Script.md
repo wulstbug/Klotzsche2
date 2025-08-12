@@ -360,7 +360,9 @@ __Am Beispiel des Federschwingers:__ <br> <br> ![Auslenkung-Federschwinger](http
 
 </p>
 
----
+
+### Theoretische Aufgabe zu Federschwingern
+
 
 <p style="color:blue">
 
@@ -434,4 +436,44 @@ $ T = 2\pi \sqrt{\dfrac{m}{D}} $
 
 </p>
 
-### Experiment zum Federschwinger
+### Experimentierauftrag zu Federschwingern
+
+<p style="color:blue">
+
+Untersuchen Sie die Federkonstante eines Federschwingers mit einem (1.) statischen und einem (2.) dynamischen Ansatz.
+
+_Bemerkung:_
+
+1. als statischen Ansatz nutzen sie die Auslenkung einer mechanischen Feder beim Anhängen eines bekannten Massestücks
+
+2. als dynamischen Ansatz nutzen sie eine Schwingung und bestimmen Sie daraus die Federkonstante
+
+---
+
+$\Rightarrow$ A) Überlegen Sie, wie Sie jerweils Experimente durchführen könnten. 
+
+$\Rightarrow$ B) Diskutieren Sie, welche Messgröße in Ihrem Setup die wesentliche Fehlerquelle ist. 
+
+$\Rightarrow$ C) Überlegen Sie, wie auftretende Messfehler möglichest gering halten können. Schlagen Sie dazu geeignete Messungen vor und vermeiden Sie Aussagen wie: _Einfach genauer messen_.
+
+---
+
+Vergleichen Sie Ihre Überlegungen hier.
+
+<details style="margin-left:10%">
+
+<summary> Hinweise zum 1. Experiment </summary>
+
+A) Mit Hilfe der Proportionalität zwischen Federdehnung $s$ und wirkender Kraft $F$ $$F=D \cdot s$$ lässt sich die Federkonstante D bestimmen. Dazu muss ein Massestück mit bekannter Masse $m$ genutzt werden. Die wirkende Kraft ist dann die Gewichtskraft $F_g$. Gemessen wird die Federdehnung $s$.
+
+B) Da die Masse $m$ als sehr genau bekannt angenommen werden kann, ist die wesentliche Fehlerquelle die Messung der Federdehnung $s$.
+
+C) Bestimmt man die Federdehnung mit verschiedenen Massestücken, lassen sich zufällige Messfehler reduzieren. Eine Mittelwertbildung der Ergebnisse erscheint sinnvoll.
+
+</details>
+
+---
+
+$\Rightarrow$ D) Führen Sie Ihre Messungen durch und dokumentieren Sie Ihre Messergebnisse adäquat.
+
+</p>
