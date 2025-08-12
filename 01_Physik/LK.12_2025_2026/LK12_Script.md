@@ -28,6 +28,15 @@ logo: https://www.sciencedaily.com/images/1920/Quantum-Clock.webp
     }    
 }
 
+h1, h2, h3, h4, h5, h6 {
+  column-span: all;
+}
+
+.cb {
+    break-before: column;
+    display: block;
+}
+
 @end
 
 @onload
@@ -424,3 +433,5 @@ $ T = 2\pi \sqrt{\dfrac{m}{D}} $
 </details>
 
 </p>
+
+### Experiment zum Federschwinger
