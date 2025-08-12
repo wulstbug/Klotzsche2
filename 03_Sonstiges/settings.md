@@ -1,19 +1,5 @@
 <!--
 
-@style
-.lia-effect__circle {
-    display: none !important;
-}
-
-h1, h2, h3, h4, h5, h6 {
-  column-span: all;
-}
-
-.cb {
-    break-before: column;
-}
-@end
-
 @onload
 window.LIA.settings.font_size = 2
 @end
