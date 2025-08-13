@@ -560,14 +560,16 @@ $v_{max} = y_{max} \cdot \omega = y_{max} \cdot \frac{2\pi}{T}$
 
 ermittelt werden. Laut a) ist $T = 1,26 s$ und $y_{max}=0,05m$. Es ergibt sich
 
-$v_{max} = 0,249 \frac{m}{s} $
+$ \underline{v_{max} = 0,249 \frac{m}{s}}$
+
+---
 
 Die maximale Beschleunigung $a_{max}$ kann mit der Formel
 
-$a_{max} = y_{max} \cdot \omega^2 = a_{max} \cdot \frac{(2\pi)^2}{T^2}$
+$a_{max} = y_{max} \cdot \omega^2 = y_{max} \cdot \frac{(2\pi)^2}{T^2}$
 
 ermittelt werden. Laut a) ist $T = 1,26 s$ und $y_{max}=0,05m$. Es ergibt sich
 
-$a_{max} = 1,24 \frac{m}{s^2} $
+$\underline{a_{max} = 1,24 \frac{m}{s^2}}$
 
 </details>

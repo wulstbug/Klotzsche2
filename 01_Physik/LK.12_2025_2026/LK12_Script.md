@@ -569,6 +569,7 @@ $ T = 2\pi \sqrt{\dfrac{m}{D}} $
 
 </p>
 
+
 ### Rechenaufgaben zum Federschwinger
 
 Ein vertikaler Federschwinger besteht aus einer Feder mit der Federkonstante D = 2,5 N/m und einem angehängten Körper mit der Masse m = 0,10 kg. Der Abstand zwischen den Umkehrpunkten des schwingenden Körpers beträgt s = 10 cm.
@@ -621,14 +622,16 @@ $v_{max} = y_{max} \cdot \omega = y_{max} \cdot \frac{2\pi}{T}$
 
 ermittelt werden. Laut a) ist $T = 1,26 s$ und $y_{max}=0,05m$. Es ergibt sich
 
-$v_{max} = 0,249 \frac{m}{s} $
+$ \underline{v_{max} = 0,249 \frac{m}{s}}$
+
+---
 
 Die maximale Beschleunigung $a_{max}$ kann mit der Formel
 
-$a_{max} = y_{max} \cdot \omega^2 = a_{max} \cdot \frac{(2\pi)^2}{T^2}$
+$a_{max} = y_{max} \cdot \omega^2 = y_{max} \cdot \frac{(2\pi)^2}{T^2}$
 
 ermittelt werden. Laut a) ist $T = 1,26 s$ und $y_{max}=0,05m$. Es ergibt sich
 
-$a_{max} = 1,24 \frac{m}{s^2} $
+$\underline{a_{max} = 1,24 \frac{m}{s^2}}$
 
 </details>
