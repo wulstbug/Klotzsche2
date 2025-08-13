@@ -366,6 +366,14 @@ __Am Beispiel des Federschwingers:__ <br> <br> ![Auslenkung-Federschwinger](http
 
 Untersuchen Sie die Federkonstante eines Federschwingers mit einem (1.) statischen und einem (2.) dynamischen Ansatz.
 
+<details style="margin-left:10%">
+
+<summary> Foto Experiment </summary>
+
+![Foto-Experiment](https://diversewolken.ddns.net/nextcloud/index.php/s/NQsq6rKzrjDbLfr/download)
+
+</details>
+
 _Bemerkung:_
 
 1. als statischen Ansatz nutzen sie die Auslenkung einer mechanischen Feder beim Anhängen eines bekannten Massestücks
