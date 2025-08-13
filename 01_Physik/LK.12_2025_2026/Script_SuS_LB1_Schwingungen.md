@@ -188,7 +188,7 @@ icon:   https://diversewolken.ddns.net/klotzsche/logo.jpg
 
 @uhr
 
-## (optional) Definition eines periodischen Vorgangs
+## 9. 1. (optional) Definition eines periodischen Vorgangs
 
 !?[Motivationsvideo](https://diversewolken.ddns.net/nextcloud/index.php/f/719652/downlaod)
 
@@ -202,7 +202,7 @@ Es soll gelten:
 > <span style="color:red">***T heißt Periodendauer ***</span> von B
 ************
 
-## 9. 1. Beschreibung einer mechanischen Schwingung
+## 9. 2. Beschreibung einer mechanischen Schwingung
 
 {{1-2}}
 ********
@@ -249,7 +249,7 @@ und $T$ ist die @color(Periodendauer, orange).
 
 ********
 
-## 9. 2. Der Federschwinger (Beispiel 1)
+## 9. 3. Der Federschwinger (Beispiel 1)
 
 Beschreibung: Ein Massestück hängt an einer Feder, wird ausgelenkt und losgelassen.
 
@@ -331,7 +331,7 @@ Verwenden Sie die Formel zur Ermittlung der Periodendauer eines Federschwingers.
 </details>
 
 
-## 9. 3. Definition mechanische Schwingung
+## 9. 4. Definition mechanische Schwingung
 
 <p class="newspaper">
 
@@ -575,7 +575,7 @@ $\underline{a_{max} = 1,24 \frac{m}{s^2}}$
 </details>
 
 
-## 9. 4. Das Fadenpendel
+## 9. 5. Das Fadenpendel
 
 ![TB1](https://diversewolken.ddns.net/nextcloud/index.php/s/rnojn8pF2ZWsFaJ/download)
 
