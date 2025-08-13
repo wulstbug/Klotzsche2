@@ -568,3 +568,67 @@ $ T = 2\pi \sqrt{\dfrac{m}{D}} $
 </details>
 
 </p>
+
+### Rechenaufgaben zum Federschwinger
+
+Ein vertikaler Federschwinger besteht aus einer Feder mit der Federkonstante D = 2,5 N/m und einem angehängten Körper mit der Masse m = 0,10 kg. Der Abstand zwischen den Umkehrpunkten des schwingenden Körpers beträgt s = 10 cm.
+
+- a)  Skizzieren Sie das y-t-Diagramm für mindestens eine Periode. Geben Sie eine Schwingungsgleichung mit den speziell vorgegebenen Werten an.
+
+<details style="margin-left:10%">
+
+<summary> Lösung a) </summary>
+
+![Lsg_9.3_a](https://diversewolken.ddns.net/nextcloud/index.php/s/Ger7Mg4LraekEGn/download)
+
+</details>
+
+---
+
+- b) Geben Sie für den Zeitpunkt t = 0,10 s die Elongation an.
+
+<details style="margin-left:10%">
+
+<summary> Lösung b) </summary>
+
+![Lsg_9.3_a](https://diversewolken.ddns.net/nextcloud/index.php/s/LFxTxsAtHFTj5pg/download)
+
+</details>
+
+---
+
+- c)  Geben Sie eine Möglichkeit an, wie durch Veränderung der gegebenen Größen die Frequenz des Oszillators halbiert werden kann. Begründen Sie Ihre Antwort.
+
+<details style="margin-left:10%">
+
+<summary> Lösung c) </summary>
+
+![Lsg_9.3_c](https://diversewolken.ddns.net/nextcloud/index.php/s/2SyNqYTKqoRxHe4/download)
+
+</details>
+
+---
+
+- d) Ermitteln sie die maximale Geschwindigkeit des Massestücks, sowie die maximale Beschleunigung. Geben Sie jeweils auch die zugehörigen Zeitpunkte an.
+
+<details style="margin-left:10%">
+
+<summary> Lösung d) </summary>
+
+Die maximale Geschwindigkeit $v_{max}$ kann mit der Formel
+
+$v_{max} = y_{max} \cdot \omega = y_{max} \cdot \frac{2\pi}{T}$
+
+ermittelt werden. Laut a) ist $T = 1,26 s$ und $y_{max}=0,05m$. Es ergibt sich
+
+$v_{max} = 0,249 \frac{m}{s} $
+
+Die maximale Beschleunigung $a_{max}$ kann mit der Formel
+
+$a_{max} = y_{max} \cdot \omega^2 = a_{max} \cdot \frac{(2\pi)^2}{T^2}$
+
+ermittelt werden. Laut a) ist $T = 1,26 s$ und $y_{max}=0,05m$. Es ergibt sich
+
+$a_{max} = 1,24 \frac{m}{s^2} $
+
+</details>
