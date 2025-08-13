@@ -329,3 +329,172 @@ Verwenden Sie die Formel zur Ermittlung der Periodendauer eines Federschwingers.
 ![Loesung-2.1.2](https://diversewolken.ddns.net/nextcloud/index.php/s/D9eJbRdg5wja99t/download)
 
 </details>
+
+
+## 9.3 Definition mechanische Schwingung
+
+<p class="newspaper">
+
+__Begriffe allgemein:__
+
+> Eine __mechanische Schwingung__ ist die _periodische Änderung_ einer physikalischen Größe um eine __Ruhelage__.
+
+- Die __momentane Auslenkung__( z.B. y(t) ) nennen wir @color(Elongation, red).
+
+- Die __maximale Auslenkung__ ( z.B. $y_{max}$ oder $\hat{y}$ ) nennen wir @color(Amplitude, red).
+
+<p class="cb">
+
+__Am Beispiel des Federschwingers:__ <br> <br> ![Auslenkung-Federschwinger](https://diversewolken.ddns.net/nextcloud/index.php/s/YQGPkWDc5t2Bd5P/download)
+
+</p>
+
+</p>
+
+### Experimentierauftrag zu Federschwingern
+
+<p style="color:blue">
+
+Untersuchen Sie die Federkonstante eines Federschwingers mit einem (1.) statischen und einem (2.) dynamischen Ansatz.
+
+_Bemerkung:_
+
+1. als statischen Ansatz nutzen sie die Auslenkung einer mechanischen Feder beim Anhängen eines bekannten Massestücks
+
+2. als dynamischen Ansatz nutzen sie eine Schwingung und bestimmen Sie daraus die Federkonstante
+
+---
+
+$\Rightarrow$ A) Überlegen Sie, wie Sie jerweils Experimente durchführen könnten. 
+
+$\Rightarrow$ B) Diskutieren Sie, welche Messgröße in Ihrem Setup die wesentliche Fehlerquelle ist. Schätzen Sie dazu den absoluten Fehler der Messung begründet ein.
+
+$\Rightarrow$ C) Überlegen Sie, wie auftretende Messfehler möglichest gering halten können. Schlagen Sie dazu geeignete Messungen vor und vermeiden Sie Aussagen wie: _Einfach genauer messen_.
+
+---
+
+Vergleichen Sie Ihre Überlegungen hier.
+
+<details style="margin-left:10%">
+
+<summary> Hinweise zum 1. Experiment </summary>
+
+A) Mit Hilfe der Proportionalität zwischen Federdehnung $s$ und wirkender Kraft $F$ $$F=D \cdot s$$ lässt sich die Federkonstante D bestimmen. Dazu muss ein Massestück mit bekannter Masse $m$ genutzt werden. Die wirkende Kraft ist dann die Gewichtskraft $F_g$. Gemessen wird die Federdehnung $s$.
+
+B) Da die Masse $m$ als sehr genau bekannt angenommen werden kann, ist die wesentliche Fehlerquelle die Messung der Federdehnung $s$. Je nach Massband und Ablesemethode sollte man hier von einer Ungenauigkeit der Längenmessung von ca. 1-2mm ausgehen.
+
+C)  Ist die Federdehnung nur sehr gering (d.h. mit einer sehr kleinen Masse), so ist der relative Fehler deutlich größer. Je stärker sich die Feder dehnt, desto geringer ist die Auswirkung der Ungenauigkeit. @color(Achtung: Feder nicht überdehnen., red)
+
+</details>
+
+     ---
+
+<details style="margin-left:10%">
+
+<summary> Hinweise zum 2. Experiment </summary>
+
+A) Mit Hilfe einer Schwingung der Feder mit einem angehängten Massestück kann die Federkonstante bestimmt werden. Dazu muss die Schwingungsdauer $T$ ermittelt werden.
+
+B) Da die Masse $m$ als sehr genau bekannt angenommen werden kann, ist die wesentliche Fehlerquelle die Messung der Periodendauer $T$. Durch die Reaktionszeit des Menschen kann der zufällige Messfehler der Zeitmessung auf etwa $0,3s$ abgeschätzt werden.
+
+C) Misst man nur eine kurze Zeit (z.B. eine Schwingung), so wird der relative Fehler durch die Zeitmessung groß. Je länger die Zeitmessung ist, desto kleiner wird der relative zufällige Fehler (durch die Reaktionszeit). Es empfiehlt sich hier mehrere Schwingunen (z.B. $n=20-30$ Stück) zu messen. Der relative Fehler kann dann durch $n$ geteilt werden.
+
+</details>
+
+---
+
+$\Rightarrow$ D) Führen Sie Ihre Messungen durch und dokumentieren Sie Ihre Messergebnisse adäquat.
+
+<p style="margin-left:10%">
+
+Näherungsweise Überprüfung des Messergebnisses
+
+@rangeQuiz20($D$,21.1,$\frac{N}{m}$)
+
+</p>
+
+---
+
+$\Rightarrow$ E) Vergleichen Sie die Werte Ihrer Messergebnisse.
+
+
+---
+
+$\Rightarrow$ F) Schätzen Sie für jede Ihrer Messungen den zufälligen Fehler ab. Vergleichen Sie die Größe beider Fehler miteinander. Schlussfolgern Sie daraus auf die Genauigkeit beider Messmethoden.
+
+</p>
+
+
+### Theoretische Aufgabe zu Federschwingern
+
+<p style="color:blue">
+
+Aufgabe 9.3: Leite aus Proportionalität der Rücktreibenden Kraft (siehe 9.2, Annahme 1), dem zweiten Newton'schen Gesetz und den Gleichungen für momentane Auslenkung y(t), momentane Geschwindigkeit v(t) und Beschleunigung a(t) den Ausdruck für die Schwingungsdauer eines Federschwingers her.
+
+_Diese Herleitung ist Teil der Tafelbilder. Löse sie soweit du kannst alleine, überprüfe deine Lösungen mit den Hilfen. Notiere sie im Hefter._
+
+<details style="margin-left:10%">
+
+<summary> Geführter Lösungsweg </summary>
+
+1. Notiere die Annahme zur rücktreibenden Kraft aus 9.2.
+
+<details style="margin-left:10%">
+
+<summary> Lösung </summary>
+
+$ F = - D \cdot y $
+
+</details>
+
+2. Notiere das zweite Newton'sche Gesetz.
+
+<details style="margin-left:10%">
+
+<summary> Lösung </summary>
+
+$ F = m \cdot a $
+
+</details>
+
+3. Setze die Gleichungen für die Kräfte (1. & 2. gleich).
+
+<details style="margin-left:10%">
+
+<summary> Lösung </summary>
+
+$ - D \cdot y = m \cdot a $
+
+</details>
+
+3. Notiere die Ausdrücke für y(t) und a(t) mit Hilfe der trigonometrischen Funktionen
+
+<details style="margin-left:10%">
+
+<summary> Lösung </summary>
+
+$y(t) = y_{max} \cdot \sin(\omega \cdot t)$
+
+$a(t) = -a_{max} \cdot \sin(\omega \cdot t)$ wobei $a_{max} = y_{max} \cdot \omega^2$ (siehe Lösung 9.1)
+
+</details>
+
+4. Setze die Ausdrücke für y(t) und a(t) in die Gleichung aus 3. ein. Löse die Gleichung nach der Periodendauer $T$ auf.
+
+<details style="margin-left:10%">
+
+<summary> Lösung </summary>
+
+$ - D \cdot y(t) = m \cdot a(t) $
+
+$ - D \cdot y_{max} \cdot \sin(\omega \cdot t) = m \cdot -a_{max} \cdot \sin(\omega \cdot t) $
+
+$ - D \cdot y_{max} = m \cdot -y_{max} \cdot \omega^2 $
+
+$ T = 2\pi \sqrt{\dfrac{m}{D}} $
+
+</details>
+
+</details>
+
+</p>

@@ -376,7 +376,7 @@ _Bemerkung:_
 
 $\Rightarrow$ A) Überlegen Sie, wie Sie jerweils Experimente durchführen könnten. 
 
-$\Rightarrow$ B) Diskutieren Sie, welche Messgröße in Ihrem Setup die wesentliche Fehlerquelle ist. 
+$\Rightarrow$ B) Diskutieren Sie, welche Messgröße in Ihrem Setup die wesentliche Fehlerquelle ist. Schätzen Sie dazu den absoluten Fehler der Messung begründet ein.
 
 $\Rightarrow$ C) Überlegen Sie, wie auftretende Messfehler möglichest gering halten können. Schlagen Sie dazu geeignete Messungen vor und vermeiden Sie Aussagen wie: _Einfach genauer messen_.
 
@@ -390,9 +390,23 @@ Vergleichen Sie Ihre Überlegungen hier.
 
 A) Mit Hilfe der Proportionalität zwischen Federdehnung $s$ und wirkender Kraft $F$ $$F=D \cdot s$$ lässt sich die Federkonstante D bestimmen. Dazu muss ein Massestück mit bekannter Masse $m$ genutzt werden. Die wirkende Kraft ist dann die Gewichtskraft $F_g$. Gemessen wird die Federdehnung $s$.
 
-B) Da die Masse $m$ als sehr genau bekannt angenommen werden kann, ist die wesentliche Fehlerquelle die Messung der Federdehnung $s$.
+B) Da die Masse $m$ als sehr genau bekannt angenommen werden kann, ist die wesentliche Fehlerquelle die Messung der Federdehnung $s$. Je nach Massband und Ablesemethode sollte man hier von einer Ungenauigkeit der Längenmessung von ca. 1-2mm ausgehen.
 
-C) Bestimmt man die Federdehnung mit verschiedenen Massestücken, lassen sich zufällige Messfehler reduzieren. Eine Mittelwertbildung der Ergebnisse erscheint sinnvoll.
+C)  Ist die Federdehnung nur sehr gering (d.h. mit einer sehr kleinen Masse), so ist der relative Fehler deutlich größer. Je stärker sich die Feder dehnt, desto geringer ist die Auswirkung der Ungenauigkeit. @color(Achtung: Feder nicht überdehnen., red)
+
+</details>
+
+     ---
+
+<details style="margin-left:10%">
+
+<summary> Hinweise zum 2. Experiment </summary>
+
+A) Mit Hilfe einer Schwingung der Feder mit einem angehängten Massestück kann die Federkonstante bestimmt werden. Dazu muss die Schwingungsdauer $T$ ermittelt werden.
+
+B) Da die Masse $m$ als sehr genau bekannt angenommen werden kann, ist die wesentliche Fehlerquelle die Messung der Periodendauer $T$. Durch die Reaktionszeit des Menschen kann der zufällige Messfehler der Zeitmessung auf etwa $0,3s$ abgeschätzt werden.
+
+C) Misst man nur eine kurze Zeit (z.B. eine Schwingung), so wird der relative Fehler durch die Zeitmessung groß. Je länger die Zeitmessung ist, desto kleiner wird der relative zufällige Fehler (durch die Reaktionszeit). Es empfiehlt sich hier mehrere Schwingunen (z.B. $n=20-30$ Stück) zu messen. Der relative Fehler kann dann durch $n$ geteilt werden.
 
 </details>
 
@@ -400,19 +414,80 @@ C) Bestimmt man die Federdehnung mit verschiedenen Massestücken, lassen sich zu
 
 $\Rightarrow$ D) Führen Sie Ihre Messungen durch und dokumentieren Sie Ihre Messergebnisse adäquat.
 
+<p style="margin-left:10%">
+
+Näherungsweise Überprüfung des Messergebnisses
+
+@rangeQuiz20($D$,21.1,$\frac{N}{m}$)
+
+</p>
+
+
+<details style="margin-left:10%">
+
+<summary> Vergleichswerte Lehrkraft </summary>
+
+1. Messwerte:
+
+- $m = 100g$
+
+- $s = 4,7 cm = 0,047m$
+
+- $D \approx 21,3 \frac{N}{m} $
+
+2. Messwerte:
+
+- $m = 100g$
+
+- $t=12,9s$ (bei $n=30$ Messungen)
+
+- $D = 21,3 \frac{N}{m}$
+
+</details>
+
+
 ---
 
-$\Rightarrow$ E) Vergleichen Sie Ihre die Werte Ihrer Messergebnisse.
+$\Rightarrow$ E) Vergleichen Sie die Werte Ihrer Messergebnisse.
+
 
 ---
 
-$\Rightarrow$ F) Schätzen Sie für jede Ihrer Messungen den relativen zufälligen Fehler ab. Vergleichen Sie die Größe beider Fehler miteinander. Schlussfolgern Sie daraus auf die Genauigkeit beider Messmethoden.
+$\Rightarrow$ F) Schätzen Sie für jede Ihrer Messungen den zufälligen Fehler ab. Vergleichen Sie die Größe beider Fehler miteinander. Schlussfolgern Sie daraus auf die Genauigkeit beider Messmethoden.
+
+
+<details style="margin-left:10%">
+
+<summary> Vergleichswerte Lehrkraft </summary>
+
+1. Fehlerrechnung
+
+     - Absoluter Fehler: $\Delta s = 2 mm = 0,002 m$
+
+     - Relativer Fehler: $\frac{\Delta s}{s} = 0,043 = 4,3 \%$
+
+     - Relativer Fehler Federkonstante: $\frac{\Delta D}{D} =  4,3 \%$
+
+2. Messwerte:
+
+     - $\Delta t=0,3 s$ bei 30 Messungen
+
+     - $\Delta T=0,01s$ bei $T=0,43s$
+
+     - Relativer Fehler Periodendauer: $\frac{\Delta T}{T}=0,023 = 2,3%$
+
+     - Relativer Fehler Federkonstante: $\frac{\Delta D}{D} =  2,3 \%$
+
+---
+
+Nach dieser Analyse kann die dynamische Methode als bevorzugt betrachtet werden. Hier kann der Fehler durch die Anzahl an beobachteten Schwingungen veringert werden.
+
+</details>
 
 </p>
 
 
 ### Theoretische Aufgabe zu Federschwingern
-
 
 <p style="color:blue">
 
