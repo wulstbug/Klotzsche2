@@ -259,7 +259,7 @@ und $T$ ist die @color(Periodendauer, orange).
 
 ********
 
-## 9.2 Der Federschwinger (Beispiel 1)
+## 9. 2. Der Federschwinger (Beispiel 1)
 
 Beschreibung: Ein Massestück hängt an einer Feder, wird ausgelenkt und losgelassen.
 
@@ -340,7 +340,7 @@ Verwenden Sie die Formel zur Ermittlung der Periodendauer eines Federschwingers.
 
 </details>
 
-## 9.3 Definition mechanische Schwingung
+## 9. 3. Definition mechanische Schwingung
 
 <p class="newspaper">
 
@@ -635,3 +635,11 @@ ermittelt werden. Laut a) ist $T = 1,26 s$ und $y_{max}=0,05m$. Es ergibt sich
 $\underline{a_{max} = 1,24 \frac{m}{s^2}}$
 
 </details>
+
+## 9. 4. Das Fadenpendel
+
+![TB1](https://diversewolken.ddns.net/nextcloud/index.php/s/rnojn8pF2ZWsFaJ/download)
+
+![TB2](https://diversewolken.ddns.net/nextcloud/index.php/s/ayq4NXMCQMbc5Bt/download)
+
+![TB3](https://diversewolken.ddns.net/nextcloud/index.php/s/omc76XJAp68rjcN/download)
