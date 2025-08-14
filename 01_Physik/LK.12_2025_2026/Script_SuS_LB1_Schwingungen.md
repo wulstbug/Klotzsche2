@@ -574,6 +574,8 @@ $\underline{a_{max} = 1,24 \frac{m}{s^2}}$
 
 </details>
 
+- e) [Aufgabe-LEIFI-Physik-Bungee-Eifelturm](https://www.leifiphysik.de/mechanik/mechanische-schwingungen/aufgabe/bungeesprung-vom-eiffelturm)
+
 
 ## 9. 5. Das Fadenpendel
 
