@@ -62,6 +62,23 @@ Hier beschreibt $\omega$ die @color(Kreisfrequenz, orange), die definiert ist al
 
 und $T$ ist die @color(Periodendauer, orange).
 
+
+<p style="color:blue">
+
+Aufgabe*: Ermittle für eine harmonische Schwinung aus dem Zusammenhang $y(t)$ die Ausdrücke für $v_{max}$ und $a_{max}$. Es gilt:
+
+$v(t) = \frac{\mathrm{d}y}{\mathrm{d}t}$ und $a(t) = \frac{\mathrm{d}v}{\mathrm{d}t}$
+
+<details>
+
+<summary> Lösung </summary>
+
+![Loesung_1.1](https://diversewolken.ddns.net/nextcloud/index.php/s/ad8ZNTstdoNLfpm/download)
+
+</details>
+
+</p>
+
 ## 2. Der Federschwinger
 
 Beschreibung: Ein Massestück hängt an einer Feder, wird ausgelenkt und losgelassen.
