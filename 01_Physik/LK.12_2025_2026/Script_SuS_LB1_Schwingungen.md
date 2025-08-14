@@ -289,9 +289,9 @@ $$ F = - D \cdot y $$
 
 <p style="margin-left:10%">
 
-@rangeQuiz2($f$,1.1574e-5,$s$)
+@rangeQuiz2($f$,1.1574e-5,$Hz$)
 
-@rangeQuiz2($\omega$,7.2722e-5,$s$)
+@rangeQuiz2($\omega$,7.2722e-5,$\frac{1}{s}$)
 
 @rangeQuiz0($T$,86400,$s$)
 
