@@ -590,7 +590,7 @@ Das geschieht periodisch bei
 
 - $t = 3T/4 = 0,945s$
 
-- $t= T = 1,575s$
+- $t= 5T/4 = 1,575s$
 
 - ...
 
