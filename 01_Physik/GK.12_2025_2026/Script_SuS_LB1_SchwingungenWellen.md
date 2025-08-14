@@ -85,7 +85,7 @@ Beschreibung: Ein Massestück hängt an einer Feder, wird ausgelenkt und losgela
 
 Annahmen:
 
-1. Die Feder schwinkt nach dem Hook'schen Gesetz, das heißt die rücktreibende Kraft $F$ ist proportional zur Auslenkung $y$. Der Proportionalitätsfaktor ist die Federkonstante $D$.
+1. Die Feder schwinkt nach dem Hook'schen Gesetz, das heißt @color(die rücktreibende Kraft $F$ ist proportional zur Auslenkung $y$,red). Der Proportionalitätsfaktor ist die Federkonstante $D$.
 
 $$ F = - D \cdot y $$
 
