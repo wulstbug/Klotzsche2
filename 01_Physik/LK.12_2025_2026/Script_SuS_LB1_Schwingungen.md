@@ -578,6 +578,8 @@ $\underline{a_{max} = 1,24 \frac{m}{s^2}}$
 
 ## 9. 5. Das Fadenpendel
 
+!?[0-1](https://www.youtube.com/watch?v=smAGZVa1TJE)
+
 ![TB1](https://diversewolken.ddns.net/nextcloud/index.php/s/rnojn8pF2ZWsFaJ/download)
 
 ![TB2](https://diversewolken.ddns.net/nextcloud/index.php/s/ayq4NXMCQMbc5Bt/download)
