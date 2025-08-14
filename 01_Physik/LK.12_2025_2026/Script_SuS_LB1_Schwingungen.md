@@ -562,6 +562,16 @@ ermittelt werden. Laut a) ist $T = 1,26 s$ und $y_{max}=0,05m$. Es ergibt sich
 
 $ \underline{v_{max} = 0,249 \frac{m}{s}}$
 
+Die maximale Geschwindigkeit wird zu den Zeitpunkten erreicht, wo die Funktion $cos(\omega t)$ maximal wird. Das geschieht periodisch bei
+
+- $t = 0$
+
+- $t = T/2 = 0,63s$
+
+- $t= T = 1,26s$
+
+- ...
+
 ---
 
 Die maximale Beschleunigung $a_{max}$ kann mit der Formel
@@ -571,6 +581,22 @@ $a_{max} = y_{max} \cdot \omega^2 = y_{max} \cdot \frac{(2\pi)^2}{T^2}$
 ermittelt werden. Laut a) ist $T = 1,26 s$ und $y_{max}=0,05m$. Es ergibt sich
 
 $\underline{a_{max} = 1,24 \frac{m}{s^2}}$
+
+Die maximale Beschleunigung wird erreicht, wenn die Funktion $\sin(\omega t)$ maximal wird.
+
+Das geschieht periodisch bei
+
+- $t = T/4 = 0,315s$
+
+- $t = 3T/4 = 0,945s$
+
+- $t= T = 1,575s$
+
+- ...
+
+Hier ist nochmal die Verschiebung von $y(t)$, $v(t) und $a(t)$ in einem gemeinsamen Diagramm dargestellt.
+
+![Diagramme-y-v-t](https://www.leifiphysik.de/sites/default/files/2021/05/image/Harmonische-Schwingungen-Diagramm_vereinfacht_03.svg)
 
 </details>
 
