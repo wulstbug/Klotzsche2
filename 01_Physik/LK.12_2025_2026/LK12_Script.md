@@ -666,6 +666,8 @@ Hier ist nochmal die Verschiebung von $y(t)$, $v(t) und $a(t)$ in einem gemeinsa
 
 ## 9. 5. Das Fadenpendel
 
+!?[0-1](https://www.youtube.com/watch?v=smAGZVa1TJE)
+
 ![TB1](https://diversewolken.ddns.net/nextcloud/index.php/s/rnojn8pF2ZWsFaJ/download)
 
 ![TB2](https://diversewolken.ddns.net/nextcloud/index.php/s/ayq4NXMCQMbc5Bt/download)
