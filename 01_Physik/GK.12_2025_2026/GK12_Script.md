@@ -203,6 +203,9 @@ Verwenden Sie die Formel zur Ermittlung der Periodendauer eines Federschwingers.
 
 </details>
 
+### Wiederholung Schwingungen
+
+![LEIFI-Schwingungen](https://www.youtube.com/watch?v=hm_df3Oa_f8)
 
 ## 3. Definition mechanische Schwingung
 
