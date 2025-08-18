@@ -226,8 +226,6 @@ __Am Beispiel des Federschwingers:__ <br> <br> ![Auslenkung-Federschwinger](http
 
 ### Experimentierauftrag zu Federschwingern
 
-<p style="color:blue">
-
 Untersuchen Sie die Federkonstante eines Federschwingers mit einem (1.) statischen und einem (2.) dynamischen Ansatz.
 
 <details style="margin-left:10%">
@@ -353,7 +351,6 @@ Nach dieser Analyse kann die dynamische Methode als bevorzugt betrachtet werden.
 
 </details>
 
-</p>
 
 
 ### Rechenaufgaben zum Federschwinger
@@ -362,7 +359,7 @@ Ein vertikaler Federschwinger besteht aus einer Feder mit der Federkonstante D =
 
 - a)  Skizzieren Sie das y-t-Diagramm für mindestens eine Periode. Geben Sie eine Schwingungsgleichung mit den speziell vorgegebenen Werten an.
 
-<details style="margin-left:10%">
+<details style="margin-left:5%">
 
 <summary> Lösung a) </summary>
 
@@ -374,7 +371,7 @@ Ein vertikaler Federschwinger besteht aus einer Feder mit der Federkonstante D =
 
 - b) Geben Sie für den Zeitpunkt t = 0,10 s die Elongation an.
 
-<details style="margin-left:10%">
+<details style="margin-left:5%">
 
 <summary> Lösung b) </summary>
 
@@ -386,7 +383,7 @@ Ein vertikaler Federschwinger besteht aus einer Feder mit der Federkonstante D =
 
 - c)  Geben Sie eine Möglichkeit an, wie durch Veränderung der gegebenen Größen die Frequenz des Oszillators halbiert werden kann. Begründen Sie Ihre Antwort.
 
-<details style="margin-left:10%">
+<details style="margin-left:5%">
 
 <summary> Lösung c) </summary>
 
@@ -398,7 +395,7 @@ Ein vertikaler Federschwinger besteht aus einer Feder mit der Federkonstante D =
 
 - d*) Ermitteln sie die maximale Geschwindigkeit des Massestücks. Geben Sie jeweils auch die zugehörigen Zeitpunkte an.
 
-<details style="margin-left:10%">
+<details style="margin-left:5%">
 
 <summary> Lösung d) </summary>
 

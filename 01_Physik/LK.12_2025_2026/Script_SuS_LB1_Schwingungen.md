@@ -609,5 +609,3 @@ Hier ist nochmal die Verschiebung von $y(t)$, $v(t) und $a(t)$ in einem gemeinsa
 ![TB1](https://diversewolken.ddns.net/nextcloud/index.php/s/rnojn8pF2ZWsFaJ/download)
 
 ![TB2](https://diversewolken.ddns.net/nextcloud/index.php/s/ayq4NXMCQMbc5Bt/download)
-
-![TB3](https://diversewolken.ddns.net/nextcloud/index.php/s/omc76XJAp68rjcN/download)
