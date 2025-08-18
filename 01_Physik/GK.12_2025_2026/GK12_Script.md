@@ -352,7 +352,6 @@ Nach dieser Analyse kann die dynamische Methode als bevorzugt betrachtet werden.
 </details>
 
 
-
 ### Aufgaben zur Schwingung
 
 Ein vertikaler Federschwinger besteht aus einer Feder mit der Federkonstante D = 2,5 N/m und einem angehängten Körper mit der Masse m = 0,10 kg. Der Abstand zwischen den Umkehrpunkten des schwingenden Körpers beträgt s = 10 cm.

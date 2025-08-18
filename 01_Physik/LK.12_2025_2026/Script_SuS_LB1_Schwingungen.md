@@ -607,3 +607,74 @@ Hier ist nochmal die Verschiebung von $y(t)$, $v(t) und $a(t)$ in einem gemeinsa
 ![TB1](https://diversewolken.ddns.net/nextcloud/index.php/s/rnojn8pF2ZWsFaJ/download)
 
 ![TB2](https://diversewolken.ddns.net/nextcloud/index.php/s/ayq4NXMCQMbc5Bt/download)
+
+### Übung: Schwingungen ja/nein
+
+Entscheiden Sie für die folgenden Beispiele, ob es sich dabei um eine Schwingung (nach Definition handelt) oder nicht. Begründen Sie Ihre Aussage in jedem Fall.
+
+<p style="margin-left:5%">
+
+1. Ein Kind sitzt auf einer Schaukel, die Schaukel wird von einem Elternteil ausgelenkt und losgelassen. 
+
+     - [(x)] Ja
+     - [(x)] Nein
+
+<details style="margin-left:5%">
+
+<summary> Begründung: </summary>
+
+Hier sind beide Antworten richtig, @color(wenn, red) die passende Begründung gegeben werden kann.
+
+__Antwort Ja:__ Wenn Sie diese Antwort mit Ja beantwortet haben, müssen sie begründen unter welchen Bedingungen die Bewegung periodisch (d.h. zeitlich wiederkehrend) ist. Das gilt nur, wenn man Reibungseffekte vernachlässigt.
+
+__Antwort Nein:__ Wenn Sie diese Antwort mit Nein beantwortet haben, müssen sie begründen warum es keine Schwingung ist. Hier kann man argumentieren, dass sich die Schaukelhöhe durch Reibung mit der Zeit verlangsamt. Daher ist es keine periodische Bewegung und somit laut Definition (siehe 3.) kein periodischer Vorgang. Man nennt diesen Vorgang @color(gedämpfte Schwingung, orange).
+
+</details>
+
+---
+
+2. Ein Tischtennisball wird über einer Platte losgelassen und springt senkrecht auf der Platte auf und nieder. Sie können Reibungsverluste hier vernachlässigen.
+
+     - [( )] Ja
+     - [(x)] Nein
+
+<details style="margin-left:5%">
+
+<summary> Begründung: </summary>
+
+__Antwort Nein:__ Egal ob man diesen Prozess mit oder ohne Reibung betrachtet, es ist keine Schwingung, da es hier keine Ruhelage gibt.
+
+</details>
+
+---
+
+3. Ein Bungeespringer spring an einem elastischen Seil von einer Brücke. Das Seil soll sich wie eine mechanische Feder (Hook'sches Gesetz ist gültig) verhalten, Reibung und andere Verluste werden vernachlässigt. Seillänge, Seildehnung und Bodenabstand sollen derart sein, dass der Springer den Boden nicht berührt.
+
+     - [(x)] Ja
+     - [( )] Nein
+
+<details style="margin-left:5%">
+
+<summary> Begründung: </summary>
+
+__Antwort Ja:__ Diese Bewegung entspricht einer Schwingung, da es eine periodische Bewegung ist, die um eine Ruhelage (der Springer hängt ruhig am Seil) stattfindet.
+
+</details>
+
+
+---
+
+4. Ein Planet (z.B. die Erde) kreist auf einer elliptischen Bahn um die Sonne.
+
+     - [( )] Ja
+     - [(x)] Nein
+
+<details style="margin-left:5%">
+
+<summary> Begründung: </summary>
+
+__Antwort Nein:__ Diese Bewegung ist streng periodisch, aber es gibt keine Ruhelage, um welche die Bewegung stattfindet.
+
+</details>
+
+</p>
