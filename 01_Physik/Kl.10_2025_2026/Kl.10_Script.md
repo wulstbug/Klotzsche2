@@ -113,22 +113,40 @@ icon:   https://diversewolken.ddns.net/klotzsche/logo.jpg
 https://app.binogi.de/l/freier-fall
 
 
-{{2}}
-************************
 <H4> .. einer horizontalen Ebene </H4>
 
-![Horizontale Ebene](https://diversewolken.ddns.net/nextcloud/index.php/apps/files_sharing/publicpreview/K59R2FmEWXQHy8i?file=/&fileId=105310&x=1920&y=1200&a=true&etag=e36dd0f43456ce0afbc02d73527776ce)
-$F_g$ .. Gewichtskraft <br> $F_N$ .. Normalkraft <br> <br> <span style="color:red">***Da der Körper ruht gilt: $Fg = F_H$***</span>
+![Horizontale Ebene](https://diversewolken.ddns.net/nextcloud/index.php/s/SnHoWRSRAgCPFRG/download)
+$F_g$ .. Gewichtskraft <br> $F_{GN}$ .. Gegenkraft zur Normalkraft <br> <br> <span style="color:red">***Da der Körper ruht gilt: $Fg = F_{GN}$***</span>
 
-************************
 
-{{3}}
-************************
 <H4> .. einer schiefen Ebene </H4>
 
-![Schiefe Ebene](https://diversewolken.ddns.net/nextcloud/index.php/apps/files_sharing/publicpreview/EaLpw5ejSDSSaiB?file=/&fileId=107804&x=1920&y=1200&a=true&etag=9a3e507651b1521bf3c26370b15b2a60) $F_g$ .. Gewichtskraft <br> $F_N$ .. Normalkraft <br> $F_H$ Hangabtriebskraft <br> $F_R$ Reibungskraft <br> <br> <span style="color:red">***Wenn der Körper ruht, ist die Summe aller Kräfte gleich Null.***</span>
-************************
+{{0-1}}
+**************
+![SE_0](https://diversewolken.ddns.net/nextcloud/index.php/s/2E6nf7Es27JEX25/download) $\alpha$ .. Neigungswinkel
+**************
 
+{{1-2}}
+**************
+![SE_1](https://diversewolken.ddns.net/nextcloud/index.php/s/tEtNoWNp4aDw8k6/download) $\alpha$ .. Neigungswinkel <br> $F_g$ .. Gewichtskraft 
+
+**************
+
+{{2-3}}
+**************
+![SE_2](https://diversewolken.ddns.net/nextcloud/index.php/s/xmkHmb3qREcDwCQ/download) $\alpha$ .. Neigungswinkel <br> $F_g$ .. Gewichtskraft <br> @color($F_N$ .. Normalkraft, darkgreen) <br> @color($F_H$ Hangabtriebskraft,purple) <br> <br> Wir zerlegen die Gewichtskraft in eine Komponente @color(__$F_N$ senkrecht zur Ebene__, darkgreen) und eine Komponente @color(__$F_H$ horizontal zur Ebene__, purple)
+
+**************
+
+{{3-4}}
+**************
+![SE_3](https://diversewolken.ddns.net/nextcloud/index.php/s/b49eFzMtpP4BnG7/download) $\alpha$ .. Neigungswinkel <br> $F_g$ .. Gewichtskraft <br> @color($F_N$ .. Normalkraft, darkgreen) <br> @color($F_H$ .. Hangabtriebskraft,purple) <br> <br> Wir zerlegen die Gewichtskraft in eine Komponente @color(__$F_N$ senkrecht zur Ebene__, darkgreen) und eine Komponente @color(__$F_H$ horizontal zur Ebene.__, purple) <br> <br> Die @color(Normalkraft $F_N$, darkgreen) wird von der Unterlage (@color(Gegenkraft der Unterlage $F_{GN}$,red) kompensiert. <br> <br> Die @color(Hangabtriebskraft $F_H$, purple) beschleunigt den Körper die Ebene hinab.
+**************
+
+{{4-5}}
+**************
+![SE_4](https://diversewolken.ddns.net/nextcloud/index.php/s/TizM2FaYQtqreSb/download) $\alpha$ .. Neigungswinkel <br> $F_g$ .. Gewichtskraft <br> @color($F_N$ .. Normalkraft, darkgreen) <br> @color($F_H$ .. Hangabtriebskraft,purple) <br> <br> Wir zerlegen die Gewichtskraft in eine Komponente @color(__$F_N$ senkrecht zur Ebene__, darkgreen) und eine Komponente @color(__$F_H$ horizontal zur Ebene.__, purple) <br> <br> Die @color(Normalkraft $F_N$, darkgreen) wird von der Unterlage (@color(Gegenkraft der Unterlage $F_{GN}$,red) kompensiert. <br> <br> Die @color(Hangabtriebskraft $F_H$, purple) beschleunigt den Körper die Ebene hinab.
+**************
 ## 1.3. Berechnung der Beschleunigung an der schiefen Ebene
 
 Ziel: Berechne die Beschleunigung eines reibungsfreien Körpers der Masse m an einer geneigten Ebene mit dem Neigungswinkel $\alpha$.
