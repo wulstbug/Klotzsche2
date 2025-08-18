@@ -151,7 +151,7 @@ $F_g$ .. Gewichtskraft <br> $F_{GN}$ .. Gegenkraft zur Normalkraft <br> <br> <sp
 
 Ziel: Berechne die Beschleunigung eines reibungsfreien Körpers der Masse m an einer geneigten Ebene mit dem Neigungswinkel $\alpha$.
 
-{0-1}{![Schiefe Ebene](https://diversewolken.ddns.net/nextcloud/index.php/s/PYopyW4LsNAQ9fL/download)} {1}{![schiefeEbene2](https://diversewolken.ddns.net/nextcloud/index.php/s/2DSPky2b2FGqfHY/download)} 
+{0-1}{![Schiefe Ebene](https://diversewolken.ddns.net/nextcloud/index.php/s/tmbQrfxAziryHka/download)} {1}{![schiefeEbene2](https://diversewolken.ddns.net/nextcloud/index.php/s/mpD633CQa5bYTGM/download)} 
 
 
 
@@ -163,6 +163,12 @@ $F_g$..Gewichtskraft <br>
 <span style="color:purple">$F_H$..Hangabtriebskraft</span> <br>
 {2}{Lsg.: <br> (I) $F_g = m \cdot g$ <br> <span style="color:purple">(II) $F_H = F_g \cdot sin(\alpha)$</span>} <br>
 {3}{<span style="color:blue">(III) $ F = m \cdot a \hspace{2cm}$ (2. Newtonsche Gesetz)</span>} <br>
+
+{4}{(II) = (III) <br>$ F_g \cdot sin(\alpha) = m \cdot a$}
+
+{5}{$ m \cdot g \cdot sin(\alpha) = m \cdot a$}
+
+{6}{$ \boxed{a = g \cdot sin(\alpha)}$}
 
 ## 1.4. Wiederholung: Gleichförmige Bewegung und gleichmäßig beschleunigte Bewegung
 
@@ -206,7 +212,7 @@ $s = \dfrac{1}{2}\cdot$ <span style="color:blue"> $g \cdot sin(\alpha)$ </span> 
 
 2. Berechne die nötige Reibungskraft, damit das PKW den Hang nicht hinunter rollt.
 
-3. Nimm an nun an, dass sich die Bremse des PKW ungewollt gelöst hat. Weise durch 	Berechnung nach, dass die Beschleunigung des PKW ungefähr $ 1,4 \frac{m}{s^2} $ beträgt.
+3. Nimm an nun an, dass sich die Bremse des PKW ungewollt gelöst hat. Weise durch Berechnung nach, dass die Beschleunigung des PKW ungefähr $ 1,4 \frac{m}{s^2} $ beträgt.
 
 4. Bestimme die Strecke, die das Fahrzeug innerhalb der ersten 3s nach Lösen der Bremse zurück legt.
 
