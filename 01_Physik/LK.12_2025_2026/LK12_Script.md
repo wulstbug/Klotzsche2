@@ -810,5 +810,111 @@ Da die Birne allerdings um 34° ausgelenkt wird, gilt die @color(Kleinwinkelnäh
 
 ---
 
-## 9. 6. Simulation eines Pendels
+## 9. 6. Simulation eines Pendels (_ohne Kleinwinkelnäherung_)
 
+Für die Simulation einer Pendelschwingung mit der Länge 1m wird die Simulationssoftware Moebius verwendet
+
+__A. Formelgrundlage für die Simulation__
+
+> 1. Masse und Gewichtskraft
+>
+> $$ F_g = m \cdot g $$
+>
+> 2. Rücktreibende Kraft ($\varphi = \frac{x}{ℓ}$)
+>
+> $$ F_r = - F_g \cdot \sin(\frac{x}{ℓ}) $$
+>
+> 3. Newton'sche Bewegungsgesetze
+> 
+> $$ a = \frac{F}{m} $$
+
+
+__B. Hinweise zum Simulationscode__
+
+- Gleichung 1. können wir direkt verwenden
+
+- Gleichung 2. stellt die Rücktreibende Kraft bei der Auslenkung um den Winkel $\varphi$ dar
+
+- Gleichung 3. enthält die klassische Modellierung einer Bewegung (Geschwindigkeit und Ort müssen noch ergänzt werden)
+
+> @color(__Erstellen Sie aus diesen Gleichungen den Simulationscode.__, blue)
+
+---
+
+<details style="margin-left:5%">
+
+<summary> Lösung Code </summary>
+
+``` 
+
+PROGRAMM: (Pendel)
+
+Fg=m*g
+Fr = -Fg*sin(x/l)
+a=Fr/m
+v=v+a*dt
+x=x+v*dt
+t=t+dt
+
+
+```
+
+</details>
+
+---
+
+__C. Hinweise: Analyse der Anfangsbedingungen (t=0)__
+
+- die Masse kann hier mit 0,1 kg angenommen werden
+
+- die Pendellänge kann mit 1m angenommen werden
+
+- der Startwert für die Länge $x$ muss aus dem Startwinkel $\varphi$ berechnet werden
+
+
+__D. Überprüfung der Simulation__
+
+> Wählen Sie für Ihre erste Simulation einen kleinen Anfangswinkel $\varphi$ von $1^\circ$. Ermitteln Sie mit Hilfe Simulation die Periodendauer $T$ und vergleichen Sie Ihr Ergebnis mit dem Resultat für die Periodendauer aus 9.5 (_Kleinwinkelnäherung_)
+
+<details style="margin-left:5%">
+
+<summary> Lösung für $\varphi=1^\circ$ </summary>
+
+![Lsg_1Grad](https://diversewolken.ddns.net/nextcloud/index.php/s/q6izMWEkXY3tNWs/download)
+
+__Modellierung:__ Aus der Messwerttabelle und dem Diagramm lässt sich entnehmen, dass die Periodendauer $T=2s$ beträgt.
+
+__Formel:__ $T=2\pi\sqrt{\frac{ℓ}{g}}=2,006 s$ überein. 
+
+</details>
+
+---
+
+__E. Analyse der Kleinwinkelnäherung__
+
+> Nutzen Sie nun Ihre Simulation um die Abweichung der Periodendauer in Kleinwinkelnäherung von der Periodendauer der Simulation zu untersuchen. Ermitteln Sie dazu die Periodendauern für Startwinkel 1-90° in sinnvollen Schritten. Tragen Sie in einem Diagramm die prozentuale Abweichung der Kleinwinkelnäherung von dem Simulationsergebnis auf. 
+>
+>Schätzen Sie an Ihrem Diagramm den Startwinkel $\Phi$ ab, bei welchem der Fehler 10% überschreitet.
+>
+> @color(__Achtung: Dokumentieren Sie Ihre Simulationsergebnisse sinnvoll! Nutzen Sie z.B. eine Tabelle im Hefter oder am PC.__, red)
+
+
+<details style="margin-left:5%">
+
+<summary> Vergleichswerte </summary>
+
+20° -> Abweichung ca. 0,75%
+
+30° -> Abweichung ca. 1,7%
+
+</details>
+
+
+
+<details style="margin-left:5%">
+
+<summary> Diagramm </summary>
+
+![Diagramm-Vergleich-Simulation-KWN](https://diversewolken.ddns.net/nextcloud/index.php/s/EMyjstYCcnSEt28/download)
+
+</details>
