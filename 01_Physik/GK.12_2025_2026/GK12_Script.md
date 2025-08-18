@@ -426,7 +426,7 @@ Die maximale Geschwindigkeit wird zu den Zeitpunkten erreicht, wo die Funktion $
 
 - e) Entscheiden Sie für die folgenden Beispiele, ob es sich dabei um eine Schwingung (nach Definition handelt) oder nicht. Begründen Sie Ihre Aussage in jedem Fall.
 
-<p style="margin-left:10%">
+<p style="margin-left:5%">
 1. Ein Kind sitzt auf einer Schaukel, wird von einem Elternteil losgelassen. 
 
      - [(x)] Ja
