@@ -666,18 +666,26 @@ Hier ist nochmal die Verschiebung von $y(t)$, $v(t) und $a(t)$ in einem gemeinsa
 
 ## 9. 5. Das Fadenpendel
 
+{{0-1}}
+**********
 !?[0-1](https://www.youtube.com/watch?v=smAGZVa1TJE)
+**********
 
+
+{{1}}
+*********
 ![TB1](https://diversewolken.ddns.net/nextcloud/index.php/s/rnojn8pF2ZWsFaJ/download)
 
 ![TB2](https://diversewolken.ddns.net/nextcloud/index.php/s/ayq4NXMCQMbc5Bt/download)
+*********
 
 ### Übung: Schwingungen ja/nein
 
-- e) Entscheiden Sie für die folgenden Beispiele, ob es sich dabei um eine Schwingung (nach Definition handelt) oder nicht. Begründen Sie Ihre Aussage in jedem Fall.
+Entscheiden Sie für die folgenden Beispiele, ob es sich dabei um eine Schwingung (nach Definition handelt) oder nicht. Begründen Sie Ihre Aussage in jedem Fall.
 
 <p style="margin-left:5%">
-1. Ein Kind sitzt auf einer Schaukel, wird von einem Elternteil losgelassen. 
+
+1. Ein Kind sitzt auf einer Schaukel, die Schaukel wird von einem Elternteil ausgelenkt und losgelassen. 
 
      - [(x)] Ja
      - [(x)] Nein
@@ -739,3 +747,5 @@ __Antwort Ja:__ Diese Bewegung entspricht einer Schwingung, da es eine periodisc
 __Antwort Nein:__ Diese Bewegung ist streng periodisch, aber es gibt keine Ruhelage, um welche die Bewegung stattfindet.
 
 </details>
+
+</p>

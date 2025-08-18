@@ -353,7 +353,7 @@ Nach dieser Analyse kann die dynamische Methode als bevorzugt betrachtet werden.
 
 
 
-### Rechenaufgaben zum Federschwinger
+### Aufgaben zur Schwingung
 
 Ein vertikaler Federschwinger besteht aus einer Feder mit der Federkonstante D = 2,5 N/m und einem angehängten Körper mit der Masse m = 0,10 kg. Der Abstand zwischen den Umkehrpunkten des schwingenden Körpers beträgt s = 10 cm.
 
@@ -424,7 +424,7 @@ Die maximale Geschwindigkeit wird zu den Zeitpunkten erreicht, wo die Funktion $
 - e) Entscheiden Sie für die folgenden Beispiele, ob es sich dabei um eine Schwingung (nach Definition handelt) oder nicht. Begründen Sie Ihre Aussage in jedem Fall.
 
 <p style="margin-left:5%">
-1. Ein Kind sitzt auf einer Schaukel, wird von einem Elternteil losgelassen. 
+1. Ein Kind sitzt auf einer Schaukel, die Schaukel wird von einem Elternteil ausgelenkt und losgelassen. 
 
      - [(x)] Ja
      - [(x)] Nein
