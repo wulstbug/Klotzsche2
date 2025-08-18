@@ -147,6 +147,7 @@ $F_g$ .. Gewichtskraft <br> $F_{GN}$ .. Gegenkraft zur Normalkraft <br> <br> <sp
 **************
 ![SE_4](https://diversewolken.ddns.net/nextcloud/index.php/s/TizM2FaYQtqreSb/download) $\alpha$ .. Neigungswinkel <br> $F_g$ .. Gewichtskraft <br> @color($F_N$ .. Normalkraft, darkgreen) <br> @color($F_H$ .. Hangabtriebskraft,purple) <br> @color($F_{GN}$ .. Gegenkraft der Unterlage,red) <br> <br> Wir zerlegen die Gewichtskraft in eine Komponente @color(__$F_N$ senkrecht zur Ebene__, darkgreen) und eine Komponente @color(__$F_H$ horizontal zur Ebene.__, purple) <br> <br> Die @color(Normalkraft $F_N$, darkgreen) wird von der Unterlage (@color(Gegenkraft der Unterlage $F_{GN}$,red) ) kompensiert. <br> <br> Die @color(Hangabtriebskraft $F_H$, purple) beschleunigt den Körper die Ebene hinab.
 **************
+
 ## 1.3. Berechnung der Beschleunigung an der schiefen Ebene
 
 Ziel: Berechne die Beschleunigung eines reibungsfreien Körpers der Masse m an einer geneigten Ebene mit dem Neigungswinkel $\alpha$.
