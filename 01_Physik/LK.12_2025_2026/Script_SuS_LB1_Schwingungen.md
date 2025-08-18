@@ -809,4 +809,3 @@ Da die Birne allerdings um 34° ausgelenkt wird, gilt die @color(Kleinwinkelnäh
 
 </details>
 
----
