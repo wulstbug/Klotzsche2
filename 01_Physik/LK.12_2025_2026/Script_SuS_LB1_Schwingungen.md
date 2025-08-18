@@ -678,3 +678,135 @@ __Antwort Nein:__ Diese Bewegung ist streng periodisch, aber es gibt keine Ruhel
 </details>
 
 </p>
+
+
+### Übung: Schwingungen ja/nein
+
+Entscheiden Sie für die folgenden Beispiele, ob es sich dabei um eine Schwingung (nach Definition handelt) oder nicht. Begründen Sie Ihre Aussage in jedem Fall.
+
+<p style="margin-left:5%">
+
+1. Ein Kind sitzt auf einer Schaukel, die Schaukel wird von einem Elternteil ausgelenkt und losgelassen. 
+
+     - [(x)] Ja
+     - [(x)] Nein
+
+<details style="margin-left:5%">
+
+<summary> Begründung: </summary>
+
+Hier sind beide Antworten richtig, @color(wenn, red) die passende Begründung gegeben werden kann.
+
+__Antwort Ja:__ Wenn Sie diese Antwort mit Ja beantwortet haben, müssen sie begründen unter welchen Bedingungen die Bewegung periodisch (d.h. zeitlich wiederkehrend) ist. Das gilt nur, wenn man Reibungseffekte vernachlässigt.
+
+__Antwort Nein:__ Wenn Sie diese Antwort mit Nein beantwortet haben, müssen sie begründen warum es keine Schwingung ist. Hier kann man argumentieren, dass sich die Schaukelhöhe durch Reibung mit der Zeit verlangsamt. Daher ist es keine periodische Bewegung und somit laut Definition (siehe 3.) kein periodischer Vorgang. Man nennt diesen Vorgang @color(gedämpfte Schwingung, orange).
+
+</details>
+
+---
+
+2. Ein Tischtennisball wird über einer Platte losgelassen und springt senkrecht auf der Platte auf und nieder. Sie können Reibungsverluste hier vernachlässigen.
+
+     - [( )] Ja
+     - [(x)] Nein
+
+<details style="margin-left:5%">
+
+<summary> Begründung: </summary>
+
+__Antwort Nein:__ Egal ob man diesen Prozess mit oder ohne Reibung betrachtet, es ist keine Schwingung, da es hier keine Ruhelage gibt.
+
+</details>
+
+---
+
+3. Ein Bungeespringer spring an einem elastischen Seil von einer Brücke. Das Seil soll sich wie eine mechanische Feder (Hook'sches Gesetz ist gültig) verhalten, Reibung und andere Verluste werden vernachlässigt. Seillänge, Seildehnung und Bodenabstand sollen derart sein, dass der Springer den Boden nicht berührt.
+
+     - [(x)] Ja
+     - [( )] Nein
+
+<details style="margin-left:5%">
+
+<summary> Begründung: </summary>
+
+__Antwort Ja:__ Diese Bewegung entspricht einer Schwingung, da es eine periodische Bewegung ist, die um eine Ruhelage (der Springer hängt ruhig am Seil) stattfindet.
+
+</details>
+
+
+---
+
+4. Ein Planet (z.B. die Erde) kreist auf einer elliptischen Bahn um die Sonne.
+
+     - [( )] Ja
+     - [(x)] Nein
+
+<details style="margin-left:5%">
+
+<summary> Begründung: </summary>
+
+__Antwort Nein:__ Diese Bewegung ist streng periodisch, aber es gibt keine Ruhelage, um welche die Bewegung stattfindet.
+
+</details>
+
+</p>
+
+### Übung: Die Abrissbirne (aus Abi95)
+
+![Abrissbirne](https://diversewolken.ddns.net/nextcloud/index.php/s/LwyBrGzFRBZYgwi/download)Zum Beseitigen baufälliger Mauern werden oft sogenannte Abrißbirnen verwendet. Das sind kleine, massereiche Körper, die an einem Stahlseil hängen. Sie werden ausgelenkt und schlagen nach dem Freigeben gegen die zu zerstörende Mauer. <br> Eine solche Abrißbirne mit der Masse 520 kg hängt an einem 6,80 m langen Seil mit vernachlässigbarer Masse. <br> Das Seil wird um α = 34° ausgelenkt. Aus diesem Zustand heraus wird die Birne freigegeben und stößt nach Durchlaufen ihrer tiefsten Lage gegen die 0,58 m davon entfernte Mauer. Die Bahn der Birne liegt in einer Ebene senkrecht zur Mauer. Die Birne darf als Massenpunkt angesehen werden.
+
+- a) Beschreiben Sie die Energieumwandlungen bei einem schwingenden Fadenpendel.
+
+<details style="margin-left:10%">
+
+<summary> Lösung </summary>
+
+![Abi95_Lsg_a](https://diversewolken.ddns.net/nextcloud/index.php/s/WmgoTpTo3BDNWx8/download)
+
+</details>
+
+---
+
+- b) Berechnen Sie die Geschwindigkeit und die kinetische Energie der Abrissbirne in ihrer tiefsten Lage.
+
+<details style="margin-left:10%">
+
+<summary> Lösung </summary>
+
+![Abi95_Lsg_b](https://diversewolken.ddns.net/nextcloud/index.php/s/XTpTS4BQFQzNXJ2/download)
+
+</details>
+
+---
+
+- c) Berechnen Sie die Geschwindigkeit und die kinetische Energie der Birne beim Aufprall auf die Mauer.
+
+<details style="margin-left:10%">
+
+<summary> Lösung </summary>
+
+![Abi95_Lsg_c1](https://diversewolken.ddns.net/nextcloud/index.php/s/eZ3i3S64qCo9ixK/download)
+
+![Abi95_Lsg_c2](https://diversewolken.ddns.net/nextcloud/index.php/s/E6epdYKzyEoSXKs/download)
+
+</details>
+
+---
+
+- d) Näherungsweise wird Zeit, die die Abrissbirne von der Auslenkung bis zur Ruhelage durchläuft mit $t = 1,3 s$. Geben Sie an, wie man rechnerisch zu diesem Ergebnis kommen kann. Erklären Sie, warum diese Zeit lediglich näherungsweise zutrifft.
+
+<details style="margin-left:10%">
+
+<summary> Lösung </summary>
+
+Die Abrissbirne kann näherungsweise als Pendel der Länge 6,8m betrachtet werden. Die Schwingungsdauer für ein solches Pendel kann für kleine Auslenkungen mit der Formel
+
+$$ T = 2\pi \sqrt{\dfrac{ℓ}{g}}$$
+
+berechnet werden, wobei $ℓ$ die Seillänge ist. Es ergibt sich eine Schwingungsdauer von $T=5,23s$ und da hier 1/4 der Bewegung stattfindet kann man die Zeit mit $t=(5,23/4) s=1,3s$ abschätzen.
+
+Da die Birne allerdings um 34° ausgelenkt wird, gilt die @color(Kleinwinkelnäherung, orange) nicht, welche für die obige Formel Vorraussetzung ist.
+
+</details>
+
+---
