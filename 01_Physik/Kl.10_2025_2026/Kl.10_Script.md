@@ -171,47 +171,31 @@ $F_g$..Gewichtskraft <br>
 
 {6}{$ \boxed{a = g \cdot sin(\alpha)}$}
 
-## 1.4. Wiederholung: Gleichförmige Bewegung und gleichmäßig beschleunigte Bewegung
 
-{{1}}
-******************
-Gleichmäßig beschleunigte Bewegung (ohne Anfangsgeschwindigkeit):
-
-$s = \dfrac{1}{2} \cdot a \cdot t^2 \hspace{1cm} v=a \cdot t$
-
-s..zurückgelegte Strecke<br>
-a..Beschleunigung<br>
-v..Geschwindigkeit<br> <br> <br>
-******************
-
-{{2}}
-******************
-Gleichmäßig beschleunigte Bewegung <span style="color:blue"> $ a = g \cdot sin(\alpha)$ </span> an der schiefen Ebene (ohne Reibung, ohne Anfangsgeschwindigkeit):
-
-$s = \dfrac{1}{2}\cdot$ <span style="color:blue"> $g \cdot sin(\alpha)$ </span> $\cdot t^2 \hspace{1cm} v=$ <span style="color:blue"> $g \cdot sin(\alpha)$ </span> $\cdot t$
-******************
-
-{{0-2}}
-***************
-<details>
-
-<summary> Erinnerung - Darstellung in Diagrammform</summary>
-
-<img src='https://diversewolken.ddns.net/nextcloud/index.php/s/4pHJ5FJFkFASztE/download'/>
-
-</details>
-***************
-
-
-### 1.5. Aufgabe zur schiefen Ebene
+### Aufgabe zur schiefen Ebene
 
 1. Parkt man einen PKW an einer abschüssigen Straße, so empfiehlt es sich, das Fahrzeug sicher gebremst abzustellen. Eine der steilsten Straßen im Dresdner Raum ist die Robert-Diez-Straße im Stadtteil Loschwitz. Der Neigungswinkel der Straße beträgt an manchen Stellen 8°. Ein Fahrzeug der Masse 1,5t soll dort abgestellt werden. <br> <br>
-       
-        a) Zeichne eine winkeltreue Skizze dieser Parksituation. Zeichne die auftretenden Kräfte ein und benenne diese Kräfte.
 
-        b)  Notiere einen geeigneten Kräftemaßstab neben der Skizze. Bestimme die Werte sämtlicher in a) dargestellter Kräfte durch Konstruktion.
+<p style="margin-left:10%">
 
-2. Berechne die nötige Reibungskraft, damit das PKW den Hang nicht hinunter rollt.
+a) Zeichne eine winkeltreue Skizze dieser Parksituation. Zeichne die auftretenden Kräfte ein und benenne diese Kräfte.
+
+b) Bestimme die Werte sämtlicher in a) dargestellter Kräfte durch Berechnung.
+
+__Überprüfung:__
+
+@rangeQuiz2($F_g$,14715,$N$)
+
+@rangeQuiz2($F_H$,2047,$N$)
+
+@rangeQuiz2($F_N$,14571.8,$N$)
+
+@rangeQuiz2($F_{GN}$,14571.8,$N$)
+
+</p>
+
+2. Berechne die nötige Reibungskraft, damit der PKW den Hang nicht hinunter rollt.
+
 
 3. Nimm an nun an, dass sich die Bremse des PKW ungewollt gelöst hat. Weise durch Berechnung nach, dass die Beschleunigung des PKW ungefähr $ 1,4 \frac{m}{s^2} $ beträgt.
 
@@ -262,3 +246,35 @@ $F_R = F_H = 2047 N$
 #### Lösung 5.
 
 ![L5](https://diversewolken.ddns.net/nextcloud/index.php/s/XnSCfCAw6Jx9W9k/download)
+
+## 1.4. Wiederholung: Gleichförmige Bewegung und gleichmäßig beschleunigte Bewegung
+
+{{1}}
+******************
+Gleichmäßig beschleunigte Bewegung (ohne Anfangsgeschwindigkeit):
+
+$s = \dfrac{1}{2} \cdot a \cdot t^2 \hspace{1cm} v=a \cdot t$
+
+s..zurückgelegte Strecke<br>
+a..Beschleunigung<br>
+v..Geschwindigkeit<br> <br> <br>
+******************
+
+{{2}}
+******************
+Gleichmäßig beschleunigte Bewegung <span style="color:blue"> $ a = g \cdot sin(\alpha)$ </span> an der schiefen Ebene (ohne Reibung, ohne Anfangsgeschwindigkeit):
+
+$s = \dfrac{1}{2}\cdot$ <span style="color:blue"> $g \cdot sin(\alpha)$ </span> $\cdot t^2 \hspace{1cm} v=$ <span style="color:blue"> $g \cdot sin(\alpha)$ </span> $\cdot t$
+******************
+
+{{0-2}}
+***************
+<details>
+
+<summary> Erinnerung - Darstellung in Diagrammform</summary>
+
+<img src='https://diversewolken.ddns.net/nextcloud/index.php/s/4pHJ5FJFkFASztE/download'/>
+
+</details>
+***************
+
