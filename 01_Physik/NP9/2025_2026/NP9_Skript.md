@@ -177,7 +177,7 @@ __Entscheide, wo die Verhaltensweisen einzuordnen sind und deute sie.__
 
 
 
-## Übung - Axiome: Trump & Selensky
+#### Übung - Axiome: Trump & Selensky
 
 __Klassenraum-Übung__
 
@@ -199,7 +199,7 @@ __Partnerarbeit: Wechsle die Rollen mit jeder Übung:__
 ??[WatzlawikFragen](https://www.ardalpha.de/lernen/alpha-lernen/faecher/deutsch/3-uebungen-paul-watzlawick-axiome-100.html)
 ********
 
-## Übung- Vier-Ohrenmodell nach F. Schulz von Thun
+#### Übung- Vier-Ohrenmodell nach F. Schulz von Thun
 
 > __Situation 1:__ Ein Mann schaut auf seinen Teller, hält den Kopf schräg und fragt: "Was ist das Grüne in der Soße?". <br> Seine Frau, die zu diesem Zeitpunkt, aus dem Fenster gesehen hat, entgegnet: "Mein Gott, wenn es dir hier nicht schmeckt, kannst du ja woanders essen gehen." <br> _Quelle: In Anlehnung an Friedemann Schulz von Thun: Miteinander reden. Störungen und Klärungen. Reinbek 2004. S. 62._
 
@@ -336,7 +336,7 @@ Die Frau hört vor allem auf dem Beziehungsohr.
 
 </details>
 
-## Quiz - Kommunikationsstörungen
+#### Quiz - Kommunikationsstörungen
 
 Wahrnehmung, Interpretation oder Gefühl? Entscheide, auf welchen Vorgängen die Äußerungen beruhen.
 
