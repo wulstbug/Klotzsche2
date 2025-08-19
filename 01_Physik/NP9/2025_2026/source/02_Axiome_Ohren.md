@@ -99,3 +99,71 @@ window.LIA.settings.font_size = 2
 
 <iframe src="https://www.testedich.de/widget.php?quiz=73&id=1669667273&theme=blue-round&lang=de&width=550&height=400" width="550" height="400" frameborder="0"></iframe>
 
+
+
+#### Quiz - 5 - Kommunikationsstörungen
+
+Wahrnehmung, Interpretation oder Gefühl? Entscheide, auf welchen Vorgängen die Äußerungen beruhen.
+
+1. Du bist desinteressiert.
+
+     <!-- data-solution-button="off" -->
+     [( )] Wahrnehmung
+     [(x)] Interpretation
+     [( )] Gefühl
+
+2. Du warst 60 Minuten im Bad.
+
+     <!-- data-solution-button="off" -->
+     [(x)] Wahrnehmung
+     [( )] Interpretation
+     [( )] Gefühl
+
+3. Ich habe dich gestern mit einem anderen Mädchen gesehen.
+
+     <!-- data-solution-button="off" -->
+     [(x)] Wahrnehmung
+     [( )] Interpretation
+     [( )] Gefühl
+
+4. Ich bin heute schlecht drauf.
+
+     <!-- data-solution-button="off" -->
+     [( )] Wahrnehmung
+     [( )] Interpretation
+     [(x)] Gefühl
+
+5. Er hat nichts gesagt.
+
+     <!-- data-solution-button="off" -->
+     [(x)] Wahrnehmung
+     [( )] Interpretation
+     [( )] Gefühl
+
+6. Du liebst mich nicht mehr so sehr wie am ersten Tag.
+
+     <!-- data-solution-button="off" -->
+     [( )] Wahrnehmung
+     [(x)] Interpretation
+     [( )] Gefühl
+
+7. Du kritisierst mich.
+
+     <!-- data-solution-button="off" -->
+     [( )] Wahrnehmung
+     [(x)] Interpretation
+     [( )] Gefühl
+
+8. Deine Aussage verletzt mich.
+
+     <!-- data-solution-button="off" -->
+     [( )] Wahrnehmung
+     [( )] Interpretation
+     [(x)] Gefühl
+
+9. Ich fühle mich hintergangen.
+
+     <!-- data-solution-button="off" -->
+     [( )] Wahrnehmung
+     [( )] Interpretation
+     [(x)] Gefühl
