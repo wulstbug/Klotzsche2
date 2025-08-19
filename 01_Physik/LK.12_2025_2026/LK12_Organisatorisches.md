@@ -21,9 +21,8 @@ logo: https://www.sekretaria.de/wp-content/uploads/2011/06/Kalender_Terminplan__
 icon:   https://diversewolken.ddns.net/klotzsche/logo.jpg
 -->
 
-__Elternabend:__ Dienstag 26.8.25, 18:30 Uhr, R227
+> __Elternabend:__ Dienstag 26.8.25, 18:30 Uhr, R227
 
-![Kalender](https://www.sekretaria.de/wp-content/uploads/2011/06/Kalender_Terminplan__68976575_Itan1409_XXL_Website.jpg)
 
 ## Notengebung
 
