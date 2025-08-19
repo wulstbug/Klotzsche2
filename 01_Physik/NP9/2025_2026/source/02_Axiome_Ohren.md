@@ -1,7 +1,7 @@
 <!--
 icon:   https://diversewolken.ddns.net/klotzsche/logo.jpg 
 
-logo: https://i.ytimg.com/vi/z4EFDWgVzyw/hqdefault.jpg
+logo: https://www.projektmagazin.de/sites/default/files/inline-images/4-seiten-einer-nachricht.JPG
 
 author: Christian Golnik
 
