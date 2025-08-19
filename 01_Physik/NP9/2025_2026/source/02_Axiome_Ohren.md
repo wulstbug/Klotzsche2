@@ -63,6 +63,10 @@ window.LIA.settings.font_size = 2
 {{5}}
 > 5. Axiom: Kommunikation findet symmetrisch oder komplementär statt <br> <br> __Symmetrisch:__ Auf Augenhöhe (z.B. Freunde) <br> __Komplementär:__ Durch Hierarchien bestimmt (Lehrerin-Schülerin, Arzt-Patient, Polizei-Zivilistin)
 
+### Beispielvideo
+
+!?[Haft statt Kaution in drei Minuten](https://diversewolken.ddns.net/nextcloud/index.php/s/qo9BixjmPPXZXz6/download)
+
 ### Quiz - Axiome nach Watzlawick
 
 <iframe src="https://www.testedich.de/widget.php?quiz=67&id=1611253998&theme=nice-blue&lang=de&width=550&height=400" width="550" height="400" frameborder="0"></iframe>
@@ -71,8 +75,95 @@ window.LIA.settings.font_size = 2
 
 !?[4-Ohren-Modell](https://www.youtube.com/watch?v=9VJn1cPbf1A)
 
-## Wiederholung der Axiome
+## Beispielvideo - 4-Ohren
+
+{{0-1}}
+!?[4-Ohren](https://diversewolken.ddns.net/nextcloud/index.php/s/oosk3pMxeNoMSnL)
+
+{{1-2}}
+![Reaktion](https://diversewolken.ddns.net/nextcloud/index.php/s/kjQAmqN5DkjzEA9/download)
+
+{{2}} 
+> Sachohr: Sag es nicht, wenn du es nicht so meinst.
+
+{{3}}
+> Appelohr: Überleg dir genau, was du sagst.
+
+{{4}}
+> Beziehungsohr: Unsere Beziehung (sehr frisch), kann solche zweideutigen Bemerkungen nicht aushalten
+
+{{5}}
+> Selbsoffenbahrungsohr: Ich bin empfindlich, was pauschale Aussagen über Weiblichkeit/Männlichkeit betrifft
 
 ### Quiz - 4 - Ohren-Modell
 
 <iframe src="https://www.testedich.de/widget.php?quiz=73&id=1669667273&theme=blue-round&lang=de&width=550&height=400" width="550" height="400" frameborder="0"></iframe>
+
+
+
+#### Quiz - 5 - Kommunikationsstörungen
+
+Wahrnehmung, Interpretation oder Gefühl? Entscheide, auf welchen Vorgängen die Äußerungen beruhen.
+
+1. Du bist desinteressiert.
+
+     <!-- data-solution-button="off" -->
+     [( )] Wahrnehmung
+     [(x)] Interpretation
+     [( )] Gefühl
+
+2. Du warst 60 Minuten im Bad.
+
+     <!-- data-solution-button="off" -->
+     [(x)] Wahrnehmung
+     [( )] Interpretation
+     [( )] Gefühl
+
+3. Ich habe dich gestern mit einem anderen Mädchen gesehen.
+
+     <!-- data-solution-button="off" -->
+     [(x)] Wahrnehmung
+     [( )] Interpretation
+     [( )] Gefühl
+
+4. Ich bin heute schlecht drauf.
+
+     <!-- data-solution-button="off" -->
+     [( )] Wahrnehmung
+     [( )] Interpretation
+     [(x)] Gefühl
+
+5. Er hat nichts gesagt.
+
+     <!-- data-solution-button="off" -->
+     [(x)] Wahrnehmung
+     [( )] Interpretation
+     [( )] Gefühl
+
+6. Du liebst mich nicht mehr so sehr wie am ersten Tag.
+
+     <!-- data-solution-button="off" -->
+     [( )] Wahrnehmung
+     [(x)] Interpretation
+     [( )] Gefühl
+
+7. Du kritisierst mich.
+
+     <!-- data-solution-button="off" -->
+     [( )] Wahrnehmung
+     [(x)] Interpretation
+     [( )] Gefühl
+
+8. Deine Aussage verletzt mich.
+
+     <!-- data-solution-button="off" -->
+     [( )] Wahrnehmung
+     [( )] Interpretation
+     [(x)] Gefühl
+
+9. Ich fühle mich hintergangen.
+
+     <!-- data-solution-button="off" -->
+     [( )] Wahrnehmung
+     [( )] Interpretation
+     [(x)] Gefühl

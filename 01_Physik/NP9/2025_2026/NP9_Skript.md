@@ -118,36 +118,86 @@ __Entscheide, wo die Verhaltensweisen einzuordnen sind und deute sie.__
 | Hände in die Hüfte stemmen		        |   [[ Mimik | (Gestik) ]]      |[[ genervt sein | (Durchsetzungsvermögen, starker Wille, Tatendrang, Imponierhaltung) | nachdenken, skeptisch sein | nachdenken, Ratlosigkeit |  Verlegenheit, Unsicherheit, mangelnde Sympathie |  Unsicherheit, Nervosität |  Begrüßung, Verabschiedung, Danksagung, Gratulation |  	Desinteresse, Gleichgültigkeit, Ratlosigkeit |  	erschrocken sein, sich für etwas schämen, etwas zurücknehmen wollen |  nachdenken, grübeln ]] |    
 
 
+## Axiome von P. Watzlawick und Vier-Ohren-Modell
 
-## Die 5 Axiome nach Paul Watzlawick
+!?[AxiomeNachWatzlawick](https://www.youtube.com/watch?v=GydVGIDyEQ0)
 
-??[5-Axiome-Watzlawik](https://youtu.be/GydVGIDyEQ0?feature=shared)
+### Wiederholung der Axiome
 
 {{1}}
-***********
+> 1. Axiom: Man kann nicht nicht kommunizieren
+
+{{2}}
+> 2. Axiom: Kommunikation hat immer einen Inhalts- und einen Beziehungsaspekt, wobei letzteren den ersten bestimmt.
+
+{{3}}
+> 3. Axiom: Kommunikation besteht immer aus Reiz und Reaktion, Ursache und Wirkung.
+
+{{4}}
+> 4. Axiom: Kommunikation bedient sich __analoger__ und __digitaler__ Modalitäten. <br> <br> __Digital__ sind eindeutige Kommunikationsformen (Sprache, Schrift) <br> __Analog__ sind interpretierbare Formen (Mimik, Gestik, Tonfall ...)
+
+{{5}}
+> 5. Axiom: Kommunikation findet symmetrisch oder komplementär statt <br> <br> __Symmetrisch:__ Auf Augenhöhe (z.B. Freunde) <br> __Komplementär:__ Durch Hierarchien bestimmt (Lehrerin-Schülerin, Arzt-Patient, Polizei-Zivilistin)
+
+#### Beispielvideo
+
+!?[Haft statt Kaution in drei Minuten](https://diversewolken.ddns.net/nextcloud/index.php/s/qo9BixjmPPXZXz6/download)
+
+#### Quiz - Axiome nach Watzlawick
+
+<iframe src="https://www.testedich.de/widget.php?quiz=67&id=1611253998&theme=nice-blue&lang=de&width=550&height=400" width="550" height="400" frameborder="0"></iframe>
+
+## Vier-Ohren-Modell
+
+!?[4-Ohren-Modell](https://www.youtube.com/watch?v=9VJn1cPbf1A)
+
+### Beispielvideo - 4-Ohren
+
+{{0-1}}
+!?[4-Ohren](https://diversewolken.ddns.net/nextcloud/index.php/s/oosk3pMxeNoMSnL)
+
+{{1-2}}
+![Reaktion](https://diversewolken.ddns.net/nextcloud/index.php/s/kjQAmqN5DkjzEA9/download)
+
+{{2}} 
+> Sachohr: Sag es nicht, wenn du es nicht so meinst.
+
+{{3}}
+> Appelohr: Überleg dir genau, was du sagst.
+
+{{4}}
+> Beziehungsohr: Unsere Beziehung (sehr frisch), kann solche zweideutigen Bemerkungen nicht aushalten
+
+{{5}}
+> Selbsoffenbahrungsohr: Ich bin empfindlich, was pauschale Aussagen über Weiblichkeit/Männlichkeit betrifft
+
+#### Quiz - 4 - Ohren-Modell
+
+<iframe src="https://www.testedich.de/widget.php?quiz=73&id=1669667273&theme=blue-round&lang=de&width=550&height=400" width="550" height="400" frameborder="0"></iframe>
+
+
+
+## Übung - Axiome: Trump & Selensky
+
+__Klassenraum-Übung__
+
+> Analysiert dieses Gespräch eines ausgewählten Kommunikationsmodells. Stellt euch die Analyse gegenseitig vor.
+
+[Dialog-Trump-Selenskyj](https://www.spiegel.de/ausland/donald-trump-und-wolodymyr-selenskyj-eklat-im-weissen-haus-das-wortgefecht-im-video-a-a5c13d13-ba23-4670-87fe-c4f710a141a4)
+
+
+{{2}}
+********
 __Partnerarbeit: Wechsle die Rollen mit jeder Übung:__
 
 - __Person A:__ Stelle die Aufgabe und mach dich mit der Musterlösung vertraut. 
 
 - __Person B:__ Beantworte die Frage.
 
-- __Person A:__ Überprüfe die Antwort von B. Korrigiere wohlwollen.
+- __Person A:__ Überprüfe die Antwort von B. Korrigiere wohlwollend.
 
 ??[WatzlawikFragen](https://www.ardalpha.de/lernen/alpha-lernen/faecher/deutsch/3-uebungen-paul-watzlawick-axiome-100.html)
-***********
-
-{{2}}
-***********
-__Klassenraum-Übung__
-
-[Dialog-Trump-Selenskyj](https://www.spiegel.de/ausland/donald-trump-und-wolodymyr-selenskyj-eklat-im-weissen-haus-das-wortgefecht-im-video-a-a5c13d13-ba23-4670-87fe-c4f710a141a4)
-***********
-
-## Das Vier-Ohren-Modell nach F. Schulz von Thun
-
-Schau dir folgendes Video an. Notiere in Stichpunkten die Inhalte des _Vier-Ohren-Modells_ nach Friedemann Schulz von Thun
-
-!?[4OhremModellAlphaLErnen](https://www.youtube.com/watch?v=9VJn1cPbf1A)
+********
 
 ## Übung- Vier-Ohrenmodell nach F. Schulz von Thun
 
