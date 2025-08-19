@@ -71,14 +71,14 @@ window.LIA.settings.font_size = 2
 
 <iframe src="https://www.testedich.de/widget.php?quiz=67&id=1611253998&theme=nice-blue&lang=de&width=550&height=400" width="550" height="400" frameborder="0"></iframe>
 
-# Vier-Ohren-Modell
+## Vier-Ohren-Modell
 
 !?[4-Ohren-Modell](https://www.youtube.com/watch?v=9VJn1cPbf1A)
 
-## Beispielvideo - 4-Ohren
+### Beispielvideo - 4-Ohren
 
 {{0-1}}
-!?[4-Ohren](https://diversewolken.ddns.net/nextcloud/index.php/s/oosk3pMxeNoMSnL)
+!?[4-Ohren](https://diversewolken.ddns.net/nextcloud/index.php/s/oosk3pMxeNoMSnL/download)
 
 {{1-2}}
 ![Reaktion](https://diversewolken.ddns.net/nextcloud/index.php/s/kjQAmqN5DkjzEA9/download)
@@ -95,11 +95,9 @@ window.LIA.settings.font_size = 2
 {{5}}
 > Selbsoffenbahrungsohr: Ich bin empfindlich, was pauschale Aussagen über Weiblichkeit/Männlichkeit betrifft
 
-### Quiz - 4 - Ohren-Modell
+#### Quiz - 4 - Ohren-Modell
 
 <iframe src="https://www.testedich.de/widget.php?quiz=73&id=1669667273&theme=blue-round&lang=de&width=550&height=400" width="550" height="400" frameborder="0"></iframe>
-
-
 
 #### Quiz - 5 - Kommunikationsstörungen
 
