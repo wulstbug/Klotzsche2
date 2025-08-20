@@ -113,7 +113,7 @@ __Aufgabe:__<br> Kopiere den Text.
 
 <div class="container" style="margin-left:10%">
 __Prompt__ <br>
-<span class="text-box" id="textToCopy2"> Erstelle mir eine Multiple-Choice Frage sodass ich sie in Moodle einbinden kann. Die Frage lautet: Was ist der erste Buchstabe des Alphabet. Möglichkeiten: A (richtig), B(falsch), C(falsch), a(auch richtig) </span>
+<span class="text-box" id="textToCopy2"> Erstelle mir eine Multiple-Choice Frage in einem Format dass ich in Moodle importieren kann. Die Frage lautet: Was ist der erste Buchstabe des Alphabet. Möglichkeiten: A (richtig), B(falsch), C(falsch). </span>
 </div>
 
 <script input="submit" style="margin-left:10%" default="Prompt Kopieren">
