@@ -918,3 +918,7 @@ __E. Analyse der Kleinwinkelnäherung__
 ![Diagramm-Vergleich-Simulation-KWN](https://diversewolken.ddns.net/nextcloud/index.php/s/EMyjstYCcnSEt28/download)
 
 </details>
+
+## Gedämpfte Schwingung
+
+> Im folgenden soll eine Schwingung simuliert werden, bei der die Amplitude abnimmt. Speichere deine Simulation unter einem neuen Namen (z.B. Pendel-Daempfung) und versuche eine Reibungskraft in die Simulation einzufügen.
