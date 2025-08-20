@@ -179,7 +179,7 @@ __Aufgabe:__<br> Beantworte die Aufträge der KI. Du kannst dein Ergebnis verbes
 
 <div class="container" style="margin-left:10%">
 __Prompt__ <br>
-<span class="text-box" id="textToCopy2"> Grundlage der folgenden Kommunikation sind die beiden Kommunikationsmodelle 5-Axiome von Paul Watzlawick und das 4-Ohren-Modell nach Friedemann Schulz von Thun. Ich möchte dass du mir 5 Fragen aus diesen beiden Themengebieten stellst. Ich bin ein Einsteiger in diesem Thema. Gib mir nach jeder Frage ein Feedback und frage mich, ob ich meine Antwort verbessern möchte. Gib mir nicht die Lösung, aber unterstütze mich bei der Beantwortung. Nach der fünften Frage möchte ich, dass du meine Antworten auf einer Skala von 1 bis 10 einschätzt und mir ein Feedback gibst.</span>
+<span class="text-box" id="textToCopy2"> Grundlage der folgenden Kommunikation sind die beiden Kommunikationsmodelle 5-Axiome von Paul Watzlawick und das 4-Ohren-Modell nach Friedemann Schulz von Thun. Ich möchte dass du mir 5 Fragen aus diesen beiden Themengebieten stellst. Bitte achte darauf, dass die Antworten nicht zu lang sein müssen. Ich bin ein Einsteiger in diesem Thema. Gib mir nach jeder Frage ein Feedback und frage mich, ob ich meine Antwort verbessern möchte. Gib mir nicht die Lösung, aber unterstütze mich bei der Beantwortung. Nach der fünften Frage möchte ich, dass du meine Antworten auf einer Skala von 1 bis 10 einschätzt und mir ein Feedback gibst.</span>
 </div>
 
 <script input="submit" style="margin-left:10%" default="Prompt Kopieren">
@@ -199,8 +199,3 @@ Login: phy-@color(xx,red)@gykl.ipads
 Passwort: phy-@color(xx,red)
 
 [KI-OpenWebUI](http://10.102.1.3:3001)
-
-alternativer Link für eigene Geräte
-
-[KI-OpenWebUI-BYOD](https://subtle-corgi-firmly.ngrok-free.app)
-
