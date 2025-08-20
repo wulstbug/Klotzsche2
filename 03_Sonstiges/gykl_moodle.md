@@ -82,4 +82,55 @@ window.LIA.settings.font_size = 2
 
 ## Frage erstellen
 
+<p class="newspaper">
+
+![Fragetypen](https://diversewolken.ddns.net/nextcloud/index.php/s/BsTgZ36zmr3sTbP/download)
+
+<p class="cb">
+
+> - Fragetyp auswählen
+>
+> - Geforderte Felder ausfüllen
+>
+> - Speichern
+>
+> - Unter _Fragen_ in den Test einfügen
+
+</p>
+
+</p>
+
 ## Frage mit KI Unterstüztung erstellen
+
+
+<p style="color:blue">
+Kopiere den Prompt in das Feld der KI (nutze den Button _Kopieren_). Beantworte dann die gestellten Aufgabe.
+</p>
+
+---
+
+__Aufgabe:__<br> Beantworte die Aufträge der KI. Du kannst dein Ergebnis verbessern, oder zur nächsten Frage springen.
+
+<div class="container" style="margin-left:10%">
+__Prompt__ <br>
+<span class="text-box" id="textToCopy2"> Text </span>
+</div>
+
+<script input="submit" style="margin-left:10%" default="Prompt Kopieren">
+        const text = document.getElementById("textToCopy2").innerText;
+        navigator.clipboard.writeText(text).then(() => {
+            alert("Text wurde in die Zwischenablage kopiert!");
+        }).catch(err => {
+            console.error("Fehler beim Kopieren: ", err);
+        });
+        "Prompt Kopieren"
+</script>
+
+---
+
+Login: golnik.ch@gykl.lernsax.de
+
+Passwort: golnik.ch
+
+[KI-OpenWebUI](http://10.102.1.3:3001)
+
