@@ -109,7 +109,7 @@ Kopiere den Prompt in das Feld der KI (nutze den Button _Kopieren_). Beantworte 
 
 ---
 
-__Aufgabe:__<br> Beantworte die Aufträge der KI. Du kannst dein Ergebnis verbessern, oder zur nächsten Frage springen.
+__Aufgabe:__<br> Kopiere den Text.
 
 <div class="container" style="margin-left:10%">
 __Prompt__ <br>
