@@ -78,3 +78,8 @@ window.LIA.settings.font_size = 2
   </iframe>
 </div>
 <a href="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAGwmSNfdIY&#x2F;5ZMtDCtfQRzg-1brphZMtw&#x2F;view?utm_content=DAGwmSNfdIY&amp;utm_campaign=designshare&amp;utm_medium=embeds&amp;utm_source=link" target="_blank" rel="noopener">Demo-Bio-LK</a> von Golnik Ch
+
+
+## Frage erstellen
+
+## Frage mit KI Unterstüztung erstellen
