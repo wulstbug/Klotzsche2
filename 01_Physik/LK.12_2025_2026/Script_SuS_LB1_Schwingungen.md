@@ -889,7 +889,7 @@ __Überprüfung:__
 
 <p style="margin-left:10%">
 
-@rangeQuiz2($F_{reib}$,0.85,$N$)
+@rangeQuiz2($F_{reib}$,0.22,$N$)
 
 @rangeQuiz2($\dfrac{E_0-E_1}{E_0}$,13,$\%$)
 
