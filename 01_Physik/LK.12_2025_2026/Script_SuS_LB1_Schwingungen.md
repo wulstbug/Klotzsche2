@@ -891,6 +891,6 @@ __Überprüfung:__
 
 @rangeQuiz2($F_{reib}$,0.0002,$N$)
 
-@rangeQuiz2($\dfrac{E_0-E_1}{E_0}$,13,$\%$)
+@rangeQuiz2($\dfrac{E_0-E_1}{E_0}$,10,$\%$)
 
 </p>
