@@ -952,12 +952,32 @@ Erfragen Sie Hilfe bei der Lehrkraft.
 
 > Aufgabenstellung: 
 >
-> 1. Erstellen Sie ein Programm mit _Möbius_, welches eine Pendelschwingung der Länge 0,25 m und einer Anfangsauslenkung von 10° simuliert. 
+> 1. Erstellen Sie ein Programm mit _Möbius_, welches eine Pendelschwingung der Länge 1 m und einer Anfangsauslenkung von 1° simuliert. 
 >
-> 2. Erstellen Sie das s(t) Diagramm und laden Sie Ihre Simulation (__NAME_Anpassen__) [DateiAblage](https://diversewolken.ddns.net/nextcloud/index.php/s/5HEGHD6NCqSawyF) hoch. Lassen Sie sich die Simulation von der Lehrkraft ausdrucken.
+> 2. Erstellen Sie das s(t) Diagramm und laden Sie Ihre Simulation (__Dateiname anpassen__) [DateiAblage](https://diversewolken.ddns.net/nextcloud/index.php/s/5HEGHD6NCqSawyF) hoch. Lassen Sie sich die Simulation von der Lehrkraft ausdrucken.
 >
 > 3. Fügen Sie nun eine konstante Reibungskraft in Ihrer Simulation derart ein, dass sich die Ampitude der Schwingung in jeder Periode um 5 % veringert. 
 >
-> 4. Erstellen Sie das s(t) Diagramm und laden Sie Ihre Simulation (__NEUER NAME!__) [DateiAblage](https://diversewolken.ddns.net/nextcloud/index.php/s/5HEGHD6NCqSawyF) hoch. Lassen Sie sich die Simulation der gedämpften Schwingung von der Lehrkraft ausdrucken.
+> 4. Erstellen Sie das s(t) Diagramm und laden Sie Ihre Simulation (__neuer Dateiname!__) [DateiAblage](https://diversewolken.ddns.net/nextcloud/index.php/s/5HEGHD6NCqSawyF) hoch. Lassen Sie sich die Simulation der gedämpften Schwingung von der Lehrkraft ausdrucken.
 >
 > 5. Berechnen Sie näherungsweise den Anteil der Energie, der während einer Periode an die Umgebung angegeben wird.
+
+<details style="margin-left:5%">
+
+<summary> Lösung </summary>
+
+Startwerte:
+
+- $x_0 = 0.0175$, $\varphi_0 = 1^\circ$
+
+- $T = 1s$
+
+- $F_{Reib}=0,85 N$
+
+- $x_1 = 0.0165$, $\varphi_0 = 0,93^\circ$
+
+- $\frac{E_1}{E_0}=\frac{m\cdot g \cdot l \cdot(1-\cos(\varphi_1))}{m\cdot g \cdot l \cdot(1-\cos(\varphi_0))}=0,87$
+
+- -> 13% gehen verloren
+
+</details>
