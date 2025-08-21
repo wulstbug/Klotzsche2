@@ -960,7 +960,19 @@ Erfragen Sie Hilfe bei der Lehrkraft.
 >
 > 4. Erstellen Sie das s(t) Diagramm und laden Sie Ihre Simulation (__neuer Dateiname!__) [DateiAblage](https://diversewolken.ddns.net/nextcloud/index.php/s/5HEGHD6NCqSawyF) hoch. Lassen Sie sich die Simulation der gedämpften Schwingung von der Lehrkraft ausdrucken.
 >
-> 5. Berechnen Sie näherungsweise den Anteil der Energie, der während einer Periode an die Umgebung angegeben wird.
+> 5. Berechnen Sie näherungsweise den prozentualen Anteil der Energie, der während einer Periode an die Umgebung angegeben wird.
+
+---
+
+__Überprüfung:__
+
+<p style="margin-left:10%">
+
+@rangeQuiz2($F_{reib}$,0.85,$N$)
+
+@rangeQuiz2($\dfrac{E_0-E_1}{E_0}$,13,$\%$)
+
+</p>
 
 <details style="margin-left:5%">
 
