@@ -923,5 +923,12 @@ __E. Analyse der Kleinwinkelnäherung__
 
 > Im folgenden soll eine Schwingung simuliert werden, bei der die Amplitude abnimmt. Speichere deine Simulation unter einem neuen Namen (z.B. Pendel-Daempfung) und versuche eine Reibungskraft in die Simulation einzufügen.
 
+??[Federschwinger](https://www.geogebra.org/m/g5vm3e2r)
+
+{{1}}
+**************
+Speichern Sie Ihr Programm unter einem neuen Namen. Verändern Sie Ihr Programm so, dass auf das Pendel eine konstante Reibungskraft wirkt.
+**************
+
 ### Simulation zur gedämpften Schwingung
 
