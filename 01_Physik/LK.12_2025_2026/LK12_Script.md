@@ -922,3 +922,6 @@ __E. Analyse der Kleinwinkelnäherung__
 ## Gedämpfte Schwingung
 
 > Im folgenden soll eine Schwingung simuliert werden, bei der die Amplitude abnimmt. Speichere deine Simulation unter einem neuen Namen (z.B. Pendel-Daempfung) und versuche eine Reibungskraft in die Simulation einzufügen.
+
+### Simulation zur gedämpften Schwingung
+
