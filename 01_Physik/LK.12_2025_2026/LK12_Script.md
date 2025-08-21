@@ -930,5 +930,34 @@ __E. Analyse der Kleinwinkelnäherung__
 Speichern Sie Ihr Programm unter einem neuen Namen. Verändern Sie Ihr Programm so, dass auf das Pendel eine konstante Reibungskraft wirkt.
 **************
 
+<details style="margin-left:5%">
+
+<summary> Hinweise </summary>
+
+Die Reibungskraft muss an den Bewegungszustand angepasst werden. Sie wirkt immer @color(entgegen,red) der Bewegungsrichtung.
+
+Nutzen Sie für die Ermittlung der Rückstellenden Kraft die IF .. THEN .. (Wenn ... Dann ..) Anweisung.
+
+<details style="margin-left:5%">
+
+<summary> Lösung </summary>
+
+Erfragen Sie Hilfe bei der Lehrkraft.
+
+</details>
+
+</details>
+
 ### Simulation zur gedämpften Schwingung
 
+> Aufgabenstellung: 
+>
+> 1. Erstellen Sie ein Programm mit _Möbius_, welches eine Pendelschwingung der Länge 0,25 m und einer Anfangsauslenkung von 10° simuliert. 
+>
+> 2. Erstellen Sie das s(t) Diagramm und laden Sie Ihre Simulation (__NAME_Anpassen__) [DateiAblage](https://diversewolken.ddns.net/nextcloud/index.php/s/5HEGHD6NCqSawyF) hoch. Lassen Sie sich die Simulation von der Lehrkraft ausdrucken.
+>
+> 3. Fügen Sie nun eine konstante Reibungskraft in Ihrer Simulation derart ein, dass sich die Ampitude der Schwingung in jeder Periode um 5 % veringert. 
+>
+> 4. Erstellen Sie das s(t) Diagramm und laden Sie Ihre Simulation (__NEUER NAME!__) [DateiAblage](https://diversewolken.ddns.net/nextcloud/index.php/s/5HEGHD6NCqSawyF) hoch. Lassen Sie sich die Simulation der gedämpften Schwingung von der Lehrkraft ausdrucken.
+>
+> 5. Berechnen Sie näherungsweise den Anteil der Energie, der während einer Periode an die Umgebung angegeben wird.
