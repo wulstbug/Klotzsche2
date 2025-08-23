@@ -373,11 +373,229 @@ $F_R = F_H = 2047 N$
 
 ![L5](https://diversewolken.ddns.net/nextcloud/index.php/s/XnSCfCAw6Jx9W9k/download)
 
+## Übungen zur schiefen Ebene
+
+1. Kräfte zuordnnen
+
+<p style="margin:5%">
+
+<iframe src="https://learningapps.org/watch?v=ptu176ota25" style="border:0px;width:100%;height:500px" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"></iframe>
+
+</p>
+
+2. Aussagen einschätzen
+
+2. 1. Die Normalkraft steht immer senkrecht auf der Ebene.
+     
+     <!-- data-solution-button="off" -->
+     [(x)] richtig
+     [( )] falsch
+
+---
+
+2. 2. Die Normalkraft ist immer genauso groß wie die
+
+     <!-- data-solution-button="off" -->
+     [( )] Gewichtskraft
+     [( )] Hangabtriebskraft
+     [(x)] Gegenkraft zur Normalkraft
+
+---
+
+2. 3. Der Körper beschleunigt die schiefe Ebene hinab. Die beschleunigende Kraft ist die
+
+     <!-- data-solution-button="off" -->
+     [( )] Gewichtskraft
+     [(X)] Hangabtriebskraft
+     [( )] Normalkraft
+     [( )] Gegenkraft zur Normalkraft
+
+---
+
+2. 4. Die Hangabtriebskraft $F_H$ berechnet man mit der Formel
+
+     <!-- data-solution-button="off" -->
+     [( )] $F_H = F_g$
+     [(X)] $F_H = F_g \cdot \sin\alpha$
+     [( )] $F_H = F_g \cdot \cos\alpha$
+     [( )] $F_H = F_g \cdot \tan\alpha$
+
+---
+
+2. 5. Ein Auto steht an einer Steigung. Die Handbremse ist angezogen. Damit das Auto den Berg nicht hinunter rollt, muss die Reibungskraft der bremse mindestens genauso groß sein wie
+
+     <!-- data-solution-button="off" -->
+     [( )] Gewichtskraft
+     [(X)] Hangabtriebskraft
+     [( )] Normalkraft
+     [( )] Gegenkraft zur Normalkraft
+
+---
+
+2. 6. Ein Auto (1200 kg) steht an einer schiefe Ebene mit der Steigung $12^\circ$. Berechnen Sie folgende Kräfte
+
+<p style="margin-left:10%">
+
+@rangeQuiz2($F_g$,11772,$N$)
+
+@rangeQuiz2($F_H$,2447.5,$N$)
+
+</p>
+
+<details style="margin-left:10%">
+
+<summary> Hinweise zur Lösung</summary>
+
+$F_g = m \cdot g $ (mit $g=9,81\frac{m}{s^2}$)
+
+$F_H = F_g \cdot \sin\alpha$
+
+</details>
+
+---
+
+2. 7. Ermitteln Sie die Beschleunigung, mit der das Auto den Hang hinab beschleunigt.
+
+<p style="margin-left:10%">
+
+@rangeQuiz2($a$,2.04,$\frac{m}{s^2}$)
+
+</p>
+
+<details style="margin-left:10%">
+
+<summary> Hinweise zur Lösung</summary>
+
+$a = g \cdot \sin\alpha$
+
+</details>
+
+## 1.4 Faustformeln: Reaktionsweg, Bremsweg, Anhalteweg
+
+{{0-2}}
+*******
+!?[Bremswege](https://www.youtube.com/watch?v=P_9ECEIyJFY)
+*******
+
+![Bremswege](https://diversewolken.ddns.net/nextcloud/index.php/f/722740/download)
+
+> Bremst man ein Fahrzeug bei einem unerwarteten Ereignis so unterteilt man den gesamten __Anhalteweg__ in zwei Teile:
+>
+> 1. __Reaktionsweg:__ Ereignis wird erkannt und die Muskeln reagieren
+>
+>      _Faustformel:_ $$s_{reakt} = \frac{v [\mathrm{in\,km/h}]}{10}\cdot 3 m $$
+>
+>      _Beispiel:_ $$v = 50 km/h \Rightarrow s_{reakt} \approx 15m$$
+>
+> 2. __Bremsweg:__ Die Bremse wird betätigt und das Fahrzeug kommt zum stehen.
+>
+>      _Faustformel:_ $$s_{brems} = \Big(\frac{v [\mathrm{in\,km/h}]}{10}\Big)^2\cdot 3 m $$
+>
+>      _Beispiel:_ $$v = 50 km/h \Rightarrow s_{reakt} \approx 25m$$
+>
+> 3. __Anhalteweg:__ Die Summe aus Reaktionsweg und Bremsweg ergibt den Anhalteweg.
+>
+>      $$ \boxed{s_{anh} = s_{reakt} + s_{brems} }$$
+
+
+
+## 1.5 Berechnung einer gleichmäßig beschleunigte Bewegung mit dem 2. Newtonschen Gesetz
+
+
+
+{{1}}
+************
+??[PHeT-Beschleunigung](https://phet.colorado.edu/sims/html/forces-and-motion-basics/latest/forces-and-motion-basics_all.html?locale=de)
+************
+
+{{2}}
+************
+__2. Newton'sche Gesetz__
+
+Die Beschleunigung eines Körpers können wir nun mit Hilfe des zweiten Newton'schen Gesetzes berechnen:
+
+$$ \boxed{F = m \cdot a}$$
+
+<p style="margin-left:5%">
+
+hier bedeutet
+
+<p style="margin-left:5%">
+
+     $m$ .. Masse des Körpers
+
+     $F$ .. wirkende Kraft
+
+     $a$ .. Beschleunigung
+
+</p>
+
+</p>
+
+--- 
+************
+
+
+{{3}}
+************
+__Bewegungsgesetze (aus Kl.9):__
+
+<p class="newspaper">
+
+$ \boxed{s(t) = \frac{1}{2} \cdot a \cdot t^2 + v_0 \cdot t + s_0}$ 
+
+<p class="cb">
+
+$ \boxed{v(t) = a \cdot t + v_0} $ 
+
+</p>
+
+</p>
+
+<p class="newspaper">
+
+![Beschl_s](https://diversewolken.ddns.net/nextcloud/index.php/s/aWLGbejN8i9Rzgj/download) <!-- style="height:200px" -->
+
+<p class="cb">
+
+![Beschl_v](https://diversewolken.ddns.net/nextcloud/index.php/s/FfS76JwYLYcJYtR/download) <!-- style="height:200px" -->
+
+</p>
+
+</p>
+
+<p style="margin-left:5%">
+
+hier bedeutet
+
+<p style="margin-left:5%">
+
+     $s_0$ .. Anfangsweg
+
+     $v_0$ .. Anfangsgeschwindigkeit
+
+     $a$ .. Beschleunigung
+
+</p>
+
+</p>
+
+---
+************
+
+
+{{4}}
+************
+__Beispiel:__
+
+
+************
+
 ## 1.4. Wiederholung: Gleichförmige Bewegung und gleichmäßig beschleunigte Bewegung
 
 {{1}}
 ******************
-Gleichmäßig beschleunigte Bewegung (ohne Anfangsgeschwindigkeit):
+Gleichmäßig beschleunigte Bewegung:
 
 $s = \dfrac{1}{2} \cdot a \cdot t^2 \hspace{1cm} v=a \cdot t$
 
