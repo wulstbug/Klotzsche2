@@ -485,60 +485,61 @@ __Reibung:__
 > Bei einem realen Federschwinger wird ein Teil der Energie in thermische Energie umgewandelt. Die Amplitude der Schwingung sinkt mit der Zeit. Eine solche Schwingung nennt man @color(gedämpfte Schwingung, red).
 
 <p style="margin-left:10%">
-@color(Wählen Sie die richtigen Aussagen. Nutzen Sie im Zweifel die Simulation., blue)
+@color(Entscheiden Sie für folgende Aussagen. Nutzen Sie im Zweifel die Simulation., blue)
 
 -> [Simulation-PHeT-FederSchwinger](https://phet.colorado.edu/sims/html/masses-and-springs/latest/masses-and-springs_all.html?locale=de)
 
 ---
 
+---
+
 <!-- data-solution-button="off" -->
-[( )] 1. In der Ruhelage ist die Spannenergie gleich Null.
+[[ richtig | (falsch) ]] 1. In der Ruhelage ist die Spannernergie gleich Null.
 
 ---
 
 <!-- data-solution-button="off" -->
-[( )] 2. In der Ruhelage ist die kinetische Energie minimal.
+[[ richtig | (falsch) ]] 2. In der Ruhelage ist die kinetische Energie minimal.
 
 ---
 
 <!-- data-solution-button="off" -->
-[(x)] 3. In der Ruhelage ist kinetische Energie maximal.
+[[ (richtig) | falsch ]] 3. In der Ruhelage ist kinetische Energie maximal.
 
 ---
 
 <!-- data-solution-button="off" -->
-[(x)] 4. Im unteren Umkehrpunkt ist die Spannenergie maximal.
+[[ (richtig) | falsch ]] 4. Im unteren Umkehrpunkt ist die Spannenergie maximal.
 
 ---
 
 <!-- data-solution-button="off" -->
-[( )] 5. Im oberen Umkehrpunkt ist die Spannenergie immer Null.
+[[ richtig | (falsch) ]] 5. Im oberen Umkehrpunkt ist die Spannenergie immer Null.
 
 ---
 
 <!-- data-solution-button="off" -->
-[(x)] 6. Im oberen Umkehrpunkt ist die Spannenergie minimal.
+[[ (richtig) | falsch ]] 6. Im oberen Umkehrpunkt ist die Spannenergie minimal.
 
 ---
 
 <!-- data-solution-button="off" -->
-[( )] 6. Bei einer gedämpften Schwingung ist die Summe aller mechanischen Energien konstant.
+[[ richtig | (falsch) ]] 6. Bei einer gedämpften Schwingung ist die Summe aller mechanischen Energien konstant.
 
 ---
 
 <!-- data-solution-button="off" -->
-[( )] 7. Bei einer gedämpften Schwingung ist die Summe aller mechanischen Energien konstant.
+[[ (richtig) | falsch ]] 7. Bei einer ungedämpften Schwingung ist die Summe aller mechanischen Energien konstant.
 
 ---
 
 <!-- data-solution-button="off" -->
-[(x)] 8. Tritt bei einem Federschwinger Reibung auf, so verringert sich die Amplitude mit der Zeit.
+[[ (richtig) | falsch ]] 8. Tritt bei einem Federschwinger Reibung auf, so verringert sich die Amplitude mit der Zeit.
 
 ---
 
 <!-- data-solution-button="off" -->
-[(x)] 9. Bei einer gedämpften Schwingung gilt der Energieerhaltungssatz.
-
+[[ (richtig) | falsch ]] 9. Bei einem gedämpften Federschwinger gilt der Energieerhaltungssatz.
 </p>
 
 
