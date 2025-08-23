@@ -557,16 +557,18 @@ __Aufbau:__
 
 ![Schaltkreis-Schwingkreis](https://diversewolken.ddns.net/nextcloud/index.php/s/Wy3j3A8ekemEy3e/download)
 
-</p>
+-> [PHeT-Simulation-AC-Circut](https://phet.colorado.edu/sims/html/circuit-construction-kit-ac-virtual-lab/latest/circuit-construction-kit-ac-virtual-lab_all.html?locale=de)
 
 </p>
 
-     -> [PHeT-Simulation-AC-Circut](https://phet.colorado.edu/sims/html/circuit-construction-kit-ac-virtual-lab/latest/circuit-construction-kit-ac-virtual-lab_all.html?locale=de)
+</p>
+
+     
 
 
 __Energiebetrachtung:__
 
-> In einem idealen Schwingkreis schwingt die Energie zwischen dem [[ elektrischen ]] Feld des Kondensators ([[ elektrische ]] Energie) und dem magnetischen Feld der Spule ([[ magnetische ]] Energie). Die Summe aus elektrischer und magnetischer Energie ist zu jedem Zeitpunkt [[ konstant ]]
+> In einem idealen Schwingkreis schwingt die Energie zwischen dem [[ elektrischen ]] Feld des Kondensators ([[ elektrische ]] Energie) und dem magnetischen Feld der Spule ([[ magnetische ]] Energie) hin und her. Die Summe aus elektrischer und magnetischer Energie ist zu jedem Zeitpunkt [[ konstant ]].
 
 __Periodendauer:__
 
@@ -576,7 +578,9 @@ __Periodendauer:__
 
 <p style="color:blue">
 
-Erstellen Sie mit Hilfe der Simulation einen Schwingkreis, den Sie über einen Wechselschalter mit einer Batterie aufladen können.
+Erstellen Sie mit Hilfe der Simulation einen Schwingkreis, den Sie eine Batterie aufladen können.
+
+-> [PHeT-Simulation-AC-Circut](https://phet.colorado.edu/sims/html/circuit-construction-kit-ac-virtual-lab/latest/circuit-construction-kit-ac-virtual-lab_all.html?locale=de)
 
 1. Fügen Sie in die Simulation ein Spannungsdiagramm ein und messen Sie die Spannung vor und hinter dem Kondensator.
 
@@ -598,13 +602,11 @@ Erstellen Sie mit Hilfe der Simulation einen Schwingkreis, den Sie über einen W
 
 </p>
 
-4. Verändern Sie Ihren Schwingkreis derart, dass eine Frequenz von 1 Hz auftritt.
+4. Verändern Sie Ihren Schwingkreis derart, dass eine Frequenz von 1 Hz auftritt. Geben Sie das Produkt aus $L$ und $C$ an.
 
 <p style="margin-left:10%">
 
-@rangeQuiz2($T$, 4.443 ,$s$)
-
-@rangeQuiz2($f$, 0.0225 ,$Hz$)
+@rangeQuiz2($C\cdot L$, 0.1 ,$s$)
 
 </p>
 
