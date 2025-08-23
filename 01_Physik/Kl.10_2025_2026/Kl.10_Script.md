@@ -472,13 +472,18 @@ $a = g \cdot \sin\alpha$
 
 ## 1.4 Faustformeln: Reaktionsweg, Bremsweg, Anhalteweg
 
-{{0-2}}
+{{0-1}}
 *******
 !?[Bremswege](https://www.youtube.com/watch?v=P_9ECEIyJFY)
 *******
 
+{{1}}
+***********
 ![Bremswege](https://diversewolken.ddns.net/nextcloud/index.php/f/722740/download)
+***********
 
+{{2}}
+***********
 > Bremst man ein Fahrzeug bei einem unerwarteten Ereignis so unterteilt man den gesamten __Anhalteweg__ in zwei Teile:
 >
 > 1. __Reaktionsweg:__ Ereignis wird erkannt und die Muskeln reagieren (ca. 1s).
@@ -496,14 +501,38 @@ $a = g \cdot \sin\alpha$
 > 3. __Anhalteweg:__ Die Summe aus Reaktionsweg und Bremsweg ergibt den Anhalteweg.
 >
 >      $$ \boxed{s_{anh} = s_{reakt} + s_{brems} }$$
+***********
+
+### Übung zum Bremsvorgang
+
+1. Schätzen Sie für eine Geschwindigkeit von 130 km/h die folgenden Wegstrecken ab.
+
+<p style="margin-left:10%">
+
+@rangeQuiz0($s_{reakt}$,39,$m$)
+
+@rangeQuiz0($s_{brems}$,169,$m$)
+
+@rangeQuiz0($s_{anh}$,208,$m$)
+
+</p>
+
+---
+
+2. ![Leitpfosten](https://cdn.webshopapp.com/shops/336874/files/458469729/1652x2313x1/ri-traffic-leitpfosten-zum-eingraben-eingrab-leitp.jpg)<!-- style="max-height:200px"-->Auf deutschen Autobahnen sind die Leitpfosten an der Seite in der Regel in einem Abstand von 50m aufgestellt. Geben Sie für eine Geschwindigkeit von 100 km/h an, wieviele Leitpfosten man als Sicherheitsabstand zum vorher fahrenden Fahrzeug wählen sollte: 
+
+<p style="margin-left:10%">
+
+@rangeQuiz0($n$,3,$.$)
+
+</p>
+
+
+## 1.5 Berechnung eines Bremsvorgangs mit Hilfe der Newton'schen Gesetze
 
 
 
-## 1.5 Berechnung einer gleichmäßig beschleunigte Bewegung mit dem 2. Newtonschen Gesetz
-
-
-
-{{1}}
+{{1-6}}
 ************
 ??[PHeT-Beschleunigung](https://phet.colorado.edu/sims/html/forces-and-motion-basics/latest/forces-and-motion-basics_all.html?locale=de)
 ************
@@ -514,7 +543,7 @@ __2. Newton'sche Gesetz__
 
 Die Beschleunigung eines Körpers können wir nun mit Hilfe des zweiten Newton'schen Gesetzes berechnen:
 
-$$ \boxed{F = m \cdot a}$$
+$$ \boxed{F_{brems} = m \cdot a}$$
 
 <p style="margin-left:5%">
 
@@ -542,83 +571,50 @@ __Bewegungsgesetze (aus Kl.9):__
 
 <p class="newspaper">
 
-$ \boxed{s(t) = \frac{1}{2} \cdot a \cdot t^2 + v_0 \cdot t + s_0}$ 
+__Reaktionsweg__ 
+
+{{4}}
+**************
+-> _gleichförmige Bewegung_
+
+$ \boxed{s(t) = v_0 \cdot t}$ 
+
+$ \boxed{v(t) = v_0} $ 
+**************
 
 <p class="cb">
+
+__Bremsweg__ 
+
+{{5}}
+**************
+-> _Gleichmäßig beschleunigte Bewegung_
+
+$ \boxed{s(t) = \frac{1}{2} \cdot a \cdot t^2 + v_0 \cdot t}$ 
 
 $ \boxed{v(t) = a \cdot t + v_0} $ 
+**************
 
 </p>
 
 </p>
 
-<p class="newspaper">
+************
 
-![Beschl_s](https://diversewolken.ddns.net/nextcloud/index.php/s/aWLGbejN8i9Rzgj/download) <!-- style="height:200px" -->
-
-<p class="cb">
-
-![Beschl_v](https://diversewolken.ddns.net/nextcloud/index.php/s/FfS76JwYLYcJYtR/download) <!-- style="height:200px" -->
-
-</p>
-
-</p>
-
+{{6}}
+**************
 <p style="margin-left:5%">
 
 hier bedeutet
 
 <p style="margin-left:5%">
 
-     $s_0$ .. Anfangsweg
-
-     $v_0$ .. Anfangsgeschwindigkeit
+         $v_0$ .. Anfangsgeschwindigkeit
 
      $a$ .. Beschleunigung
 
 </p>
 
 </p>
-
----
-************
-
-
-{{4}}
-************
-__Beispiel:__
-
-
-************
-
-## 1.4. Wiederholung: Gleichförmige Bewegung und gleichmäßig beschleunigte Bewegung
-
-{{1}}
-******************
-Gleichmäßig beschleunigte Bewegung:
-
-$s = \dfrac{1}{2} \cdot a \cdot t^2 \hspace{1cm} v=a \cdot t$
-
-s..zurückgelegte Strecke<br>
-a..Beschleunigung<br>
-v..Geschwindigkeit<br> <br> <br>
-******************
-
-{{2}}
-******************
-Gleichmäßig beschleunigte Bewegung <span style="color:blue"> $ a = g \cdot sin(\alpha)$ </span> an der schiefen Ebene (ohne Reibung, ohne Anfangsgeschwindigkeit):
-
-$s = \dfrac{1}{2}\cdot$ <span style="color:blue"> $g \cdot sin(\alpha)$ </span> $\cdot t^2 \hspace{1cm} v=$ <span style="color:blue"> $g \cdot sin(\alpha)$ </span> $\cdot t$
-******************
-
-{{0-2}}
-***************
-<details>
-
-<summary> Erinnerung - Darstellung in Diagrammform</summary>
-
-<img src='https://diversewolken.ddns.net/nextcloud/index.php/s/4pHJ5FJFkFASztE/download'/>
-
-</details>
-***************
+**************
 
