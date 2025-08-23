@@ -664,13 +664,11 @@ Erstellen Sie mit Hilfe der Simulation einen Schwingkreis, den Sie über einen W
 
 </p>
 
-4. Verändern Sie Ihren Schwingkreis derart, dass eine Frequenz von 1 Hz auftritt.
+4. Verändern Sie Ihren Schwingkreis derart, dass eine Frequenz von 1 Hz auftritt. Geben Sie das Produkt aus $L$ und $C$ an.
 
 <p style="margin-left:10%">
 
-@rangeQuiz2($T$, 4.443 ,$s$)
-
-@rangeQuiz2($f$, 0.0225 ,$Hz$)
+@rangeQuiz2($C\cdot L$, 0.1 ,$s$)
 
 </p>
 
