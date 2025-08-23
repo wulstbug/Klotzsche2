@@ -484,7 +484,8 @@ __Reibung:__
 >
 > Bei einem realen Federschwinger wird ein Teil der Energie in thermische Energie umgewandelt. Die Amplitude der Schwingung sinkt mit der Zeit. Eine solche Schwingung nennt man @color(gedämpfte Schwingung, red).
 
-<p style="margin-left:10%">
+### Übung: Aussagen zum Federschwinger
+
 @color(Entscheiden Sie für folgende Aussagen. Nutzen Sie im Zweifel die Simulation., blue)
 
 -> [Simulation-PHeT-FederSchwinger](https://phet.colorado.edu/sims/html/masses-and-springs/latest/masses-and-springs_all.html?locale=de)
@@ -538,9 +539,6 @@ __Reibung:__
 
 <!-- data-solution-button="off" -->
 [[ (richtig) | falsch ]] 9. Bei einem gedämpften Federschwinger gilt der Energieerhaltungssatz.
-
-</p>
-
 
 
 ## 5. Grundlagen Elektromagnetischer Schwingkreis
