@@ -491,8 +491,6 @@ __Reibung:__
 
 ---
 
----
-
 <!-- data-solution-button="off" -->
 [[ richtig | (falsch) ]] 1. In der Ruhelage ist die Spannernergie gleich Null.
 
@@ -540,7 +538,9 @@ __Reibung:__
 
 <!-- data-solution-button="off" -->
 [[ (richtig) | falsch ]] 9. Bei einem gedämpften Federschwinger gilt der Energieerhaltungssatz.
+
 </p>
+
 
 
 ## 5. Grundlagen Elektromagnetischer Schwingkreis
