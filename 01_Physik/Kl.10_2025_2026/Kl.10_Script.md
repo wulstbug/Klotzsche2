@@ -481,7 +481,7 @@ $a = g \cdot \sin\alpha$
 
 > Bremst man ein Fahrzeug bei einem unerwarteten Ereignis so unterteilt man den gesamten __Anhalteweg__ in zwei Teile:
 >
-> 1. __Reaktionsweg:__ Ereignis wird erkannt und die Muskeln reagieren
+> 1. __Reaktionsweg:__ Ereignis wird erkannt und die Muskeln reagieren (ca. 1s).
 >
 >      _Faustformel:_ $$s_{reakt} = \frac{v [\mathrm{in\,km/h}]}{10}\cdot 3 m $$
 >
