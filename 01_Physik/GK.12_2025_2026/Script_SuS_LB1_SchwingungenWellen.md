@@ -458,3 +458,154 @@ __Antwort Nein:__ Diese Bewegung ist streng periodisch, aber es gibt keine Ruhel
 </p>
 
 
+
+## 4. Energieumwandlungen bei Schwingungen
+
+> Bei einer (mechanischen) Schwingung wird die in der Schwingung gespeicherte Energie periodisch zwischen verschiedenen Energieformen umgewandelt
+
+__Beispiel: Federschwinger__ (auftretende Energieformen)
+
+__Mechanische Energieformen:__
+
+- potentielle Energie (Lageenergie)     
+     -> $E_{pot} = m \cdot g \cdot h$
+
+- kinetische Energie (Bewegungsenergie)
+     -> $E_{kin} = \frac{1}{2}\cdot m \cdot v^2$
+
+- Spannenergie (Federdehnung)
+     -> $E_{sp} = \frac{1}{2} \cdot D \cdot s^2$
+
+__Reibung:__
+
+- Thermische Energie
+
+> Bei einem @color(_idealen=reibungsfreien_,orange) Federschwinger ist die Summe aller mechanischer Energien konstant. Energie wird zwischen Lageenergie, Spannenergie und kinetischer Energie umgewandelt.
+>
+> Bei einem realen Federschwinger wird ein Teil der Energie in thermische Energie umgewandelt. Die Amplitude der Schwingung sinkt mit der Zeit. Eine solche Schwingung nennt man @color(gedämpfte Schwingung, red).
+
+<p style="margin-left:10%">
+@color(Wählen Sie die richtigen Aussagen. Nutzen Sie im Zweifel die Simulation., blue)
+
+-> [Simulation-PHeT-FederSchwinger](https://phet.colorado.edu/sims/html/masses-and-springs/latest/masses-and-springs_all.html?locale=de)
+
+---
+
+<!-- data-solution-button="off" -->
+[( )] 1. In der Ruhelage ist die Spannenergie gleich Null.
+
+---
+
+<!-- data-solution-button="off" -->
+[( )] 2. In der Ruhelage ist die kinetische Energie minimal.
+
+---
+
+<!-- data-solution-button="off" -->
+[(x)] 3. In der Ruhelage ist kinetische Energie maximal.
+
+---
+
+<!-- data-solution-button="off" -->
+[(x)] 4. Im unteren Umkehrpunkt ist die Spannenergie maximal.
+
+---
+
+<!-- data-solution-button="off" -->
+[( )] 5. Im oberen Umkehrpunkt ist die Spannenergie immer Null.
+
+---
+
+<!-- data-solution-button="off" -->
+[(x)] 6. Im oberen Umkehrpunkt ist die Spannenergie minimal.
+
+---
+
+<!-- data-solution-button="off" -->
+[( )] 6. Bei einer gedämpften Schwingung ist die Summe aller mechanischen Energien konstant.
+
+---
+
+<!-- data-solution-button="off" -->
+[( )] 7. Bei einer gedämpften Schwingung ist die Summe aller mechanischen Energien konstant.
+
+---
+
+<!-- data-solution-button="off" -->
+[(x)] 8. Tritt bei einem Federschwinger Reibung auf, so verringert sich die Amplitude mit der Zeit.
+
+---
+
+<!-- data-solution-button="off" -->
+[(x)] 9. Bei einer gedämpften Schwingung gilt der Energieerhaltungssatz.
+
+</p>
+
+
+## 5. Grundlagen Elektromagnetischer Schwingkreis
+
+__Aufbau:__
+
+<p class="newspaper">
+
+> Elektromagnetische Schwingungen spielen in der modernen Elektronik eine entscheidende Rolle. Ein elektromagnetischer Schwingkreis besteht aus einer Parallelschaltung von einem __Kondensator (Kapazität $C$)__ und einer __Spule(Induktivität $L$)__. 
+
+> _Hinweis: Der Kondensator kann durch einen Wechselschalter von einer Spannungsquelle aufgeladen werden._
+
+
+<p class="cb">
+
+![Schaltkreis-Schwingkreis](https://diversewolken.ddns.net/nextcloud/index.php/s/Wy3j3A8ekemEy3e/download)
+
+</p>
+
+</p>
+
+     -> [PHeT-Simulation-AC-Circut](https://phet.colorado.edu/sims/html/circuit-construction-kit-ac-virtual-lab/latest/circuit-construction-kit-ac-virtual-lab_all.html?locale=de)
+
+
+__Energiebetrachtung:__
+
+> In einem idealen Schwingkreis schwingt die Energie zwischen dem [[ elektrischen ]] Feld des Kondensators ([[ elektrische ]] Energie) und dem magnetischen Feld der Spule ([[ magnetische ]] Energie). Die Summe aus elektrischer und magnetischer Energie ist zu jedem Zeitpunkt [[ konstant ]]
+
+__Periodendauer:__
+
+> Die Periodendauer in einem idealen Schwingkreis wird durch die _Thomson'sche Schwingungsgleichung_ berechnet
+>
+> $$ T = 2\pi \sqrt{\dfrac{1}{L\cdot C}} $$
+
+<p style="color:blue">
+
+Erstellen Sie mit Hilfe der Simulation einen Schwingkreis, den Sie über einen Wechselschalter mit einer Batterie aufladen können.
+
+1. Fügen Sie in die Simulation ein Spannungsdiagramm ein und messen Sie die Spannung vor und hinter dem Kondensator.
+
+2. Fügen Sie in die Simulation eine Stopuhr ein. Ermitteln Sie mit Hilfe der Stopuhr und der angezeigten Schwingung die Periodendauer.
+
+<p style="margin-left:10%">
+
+@rangeQuiz20($T$, 4.44 ,$s$)
+
+</p>
+
+3. Wenn Sie den Kondensator bzw. die Spule anklicken, so werden Ihnen die Werte für $C$ bzw. $L$ angezeigt. Ermittlen Sie nun aus diesen Werten die Periodendauer mit Hilfe der _Thomson'schen Schwingungsgleichung_. Ermitteln Sie auch die Frequenz der Schwingung.
+
+<p style="margin-left:10%">
+
+@rangeQuiz2($T$, 4.443 ,$s$)
+
+@rangeQuiz2($f$, 0.0225 ,$Hz$)
+
+</p>
+
+4. Verändern Sie Ihren Schwingkreis derart, dass eine Frequenz von 1 Hz auftritt.
+
+<p style="margin-left:10%">
+
+@rangeQuiz2($T$, 4.443 ,$s$)
+
+@rangeQuiz2($f$, 0.0225 ,$Hz$)
+
+</p>
+
+</p>
