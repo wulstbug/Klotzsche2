@@ -993,9 +993,11 @@ __Reibung:__
 
 ### Übung Gedämpfte Schwingung
 
-Bei jeder (realen) mechanischen Schwingung wird Energie durch Reibung an die Umgebung abgegeben. Im Experiment wird der Schwingungsverlauf bei Laminarer Reibung des Federpendels in Wasser aufgenommen. Die Federkonstante beträgt $D=10\frac{N}{m}$.
+Bei jeder (realen) mechanischen Schwingung wird Energie durch Reibung an die Umgebung abgegeben. Im Experiment wird der Schwingungsverlauf bei laminarer Reibung des Federpendels in Wasser aufgenommen. Die Federkonstante beträgt $D=10\frac{N}{m}$.
 
 ![Aufgabe-Gedaempfte-Schwingung](https://diversewolken.ddns.net/nextcloud/index.php/s/gYaziaBmrreoNbF/download)
+
+[Geogebra-Lsg](https://www.geogebra.org/classic/m4p2mtac)
 
 1. Der Graph kann näherungsweise durch die Gleichung $s(t)=\hat{s}\cdot e^{-k\cdot t}\cdot \cos(\omega\cdot t)$ beschrieben werden. Bestimmen Sie aus dem Graphen die Größen $\hat{s}$, $k$, $\omega$ und $f$.
 
@@ -1023,13 +1025,11 @@ Die Geschwindigkeit $v(t)$ ist definiert als die erste Ableitung der Orts-Funkti
 
 $$ v(t) = \frac{\mathrm{d}s}{\mathrm{d}t} $$
 
-Setzen Sie anschließend für $t = 0,5s $ ein.
-
 <details  style="margin-left:10%">
 
 <summary> Lösung </summary>
 
-Es gilt: $$v(t) = \frac{\mathrm{d}s}{\mathrm{d}t}$$. 
+Es gilt: $$v(t) = \frac{\mathrm{d}s}{\mathrm{d}t}$$
 
 Die Gleichung für $s(t)$ lautet:
 
@@ -1057,7 +1057,9 @@ $$ \red{h'(t) = -\omega \cdot \sin(\omega\cdot t)} $$
 
 Daraus ergibt sich für die momentane Geschwindigkeit $v(t)$
 
-$$ \boxed{v(t) = -\hat{s} \cdot \blue{k \cdot e^{-k\cdot t}} \cdot \red{\cos(\omega\cdot t)} - \hat{s} \cdot \blue{e^{-k\cdot t}} \cdot \red{\omega \cdot \sin(\omega\cdot t)}} $$
+$$ v(t) = -\hat{s} \cdot \blue{k \cdot e^{-k\cdot t}} \cdot \red{\cos(\omega\cdot t)} - \hat{s} \cdot \blue{e^{-k\cdot t}} \cdot \red{\omega \cdot \sin(\omega\cdot t)} $$
+
+$$ \boxed{v(t) = -\hat{s} \cdot \blue{e^{-k\cdot t}} \cdot \Big(\blue{k}\cdot \red{\cos(\omega\cdot t)} + \red{\omega \cdot \sin(\omega\cdot t)}\Big)} $$
 
 </details>
 
@@ -1065,10 +1067,64 @@ $$ \boxed{v(t) = -\hat{s} \cdot \blue{k \cdot e^{-k\cdot t}} \cdot \red{\cos(\om
 
 ---
 
-3. Bestimmen Sie aus dem Ausdruck für $v(t)$ die Geschwindigkeit für den Zeitpunkt $t=0,5 s$. <br> _Hinweis: Wenn Sie die Aufgabe 2 nicht lösen konnten, verwenden Sie die Lösung aus 2. zur Bearbeitung dieser Aufgabe._
+3. Bestimmen Sie aus dem Ausdruck für $v(t)$ die Geschwindigkeit für den Zeitpunkt $t=0,125 s$. Geben Sie den Betrag der Geschwindigkeit an. <br> _Hinweis: Wenn Sie die Aufgabe 2 nicht lösen konnten, verwenden Sie die Lösung aus 2. zur Bearbeitung dieser Aufgabe._
 
 <p style="margin-left:10%">
 
-@rangeQuiz2($v$, -17.253e-3 ,$\frac{m}{s}$)
+@rangeQuiz2($|v_{0.125s}|$, -0.46777 ,$\frac{m}{s}$)
 
 </p>
+
+---
+
+4. *Ermitteln Sie einen Zeitpunkt $t>0$, an welchem die Geschwindigkeit $v=0$ ist. Geben Sie die Lösung zunächst Näherungsweise an, berechnen Sie dann den Zeitpunkt genau.
+
+<p style="margin-left:10%">
+
+__Näherung:__
+
+@rangeQuiz0($t$,0.25,$s$)
+
+__Exakte Lösung:__
+
+</p>
+
+<details style="margin-left:10%">
+
+<summary> Lösungshinweise </summary>
+
+Setzen Sie die Gleichung (s. Lsg 2.) für $v(t)$ gleich Null. 
+
+$$ v(t) = 0 $$
+
+<details  style="margin-left:10%">
+
+<summary> Lösung </summary>
+
+Es sei $$v(t) = 0$$ d.h.
+
+$$ 0 = -\hat{s} \cdot \blue{e^{-k\cdot t}} \cdot \Big(\blue{k}\cdot \red{\cos(\omega\cdot t)} + \red{\omega \cdot \sin(\omega\cdot t)}\Big)$$
+
+Da sowohl die Konstante $\hat{s}$ als auch die $e$-Funktion $\blue{e^{-k\cdot t}}$ nicht Null werden, kann man diese kürzen und es ergibt sich:
+
+$$ 0 = \blue{k}\cdot \red{\cos(\omega\cdot t)} + \red{\omega \cdot \sin(\omega\cdot t)} \hspace{1cm}\Big| -\red{\omega \cdot \sin(\omega\cdot t)}$$
+
+$$ -\red{\omega \cdot \sin(\omega\cdot t)} = \blue{k}\cdot \red{\cos(\omega\cdot t)} \hspace{1cm}\Big| : \red{\cos(\omega\cdot t)} $$
+
+$$ -\red{\omega \cdot \tan(\omega\cdot t)} = \blue{k} \hspace{1cm}\Big| : \red{-\omega} $$
+
+$$ \red{\tan(\omega\cdot t)} = -\dfrac{\blue{k}}{\red{\omega}} \hspace{1cm}\Big| \tan^{-1} $$
+
+$$ \red{\omega\cdot t} = \tan^{-1}\Big(-\dfrac{\blue{k}}{\red{\omega}}\Big) \hspace{1cm}\Big| : \red{\omega} $$
+
+$$ t = \frac{1}{\red{\omega}} \tan^{-1}\Big(-\dfrac{\blue{k}}{\red{\omega}}\Big)$$
+
+$$ t = -0,00364s $$
+
+Diese mathematische Lösung gibt an, dass das System kurz vor dem Zeitpunkt $t=0s$ die Geschwindigkeit $v=0s$ erreicht hat. Ein weiterer Zeitpunkt wäre kurz vor erreichen von $T/2$, d.h.
+
+$$ t = \frac{T}{2} - 0,00364s = 0,24636s $$
+
+</details>
+
+</details>
