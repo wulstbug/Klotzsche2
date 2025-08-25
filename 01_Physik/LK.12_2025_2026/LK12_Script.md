@@ -1077,13 +1077,17 @@ Bei jeder (realen) mechanischen Schwingung wird Energie durch Reibung an die Umg
 
 <summary> Lösungshinweise </summary>
 
-Die Geschwindigkeit $v(t)$ ist definiert als die erste Ableitung der Funktion $s(t)$ nach der Zeit. Leiten Sie die Gleichung für $s(t)$ aus Aufgabe 1 nach der Zeit ab.
+Die Geschwindigkeit $v(t)$ ist definiert als die erste Ableitung der Orts-Funktion $s(t)$ nach der Zeit $t$. Leiten Sie die Gleichung für $s(t)$ aus Aufgabe 1 nach der Zeit $t$ ab, d.h.
+
+$$ v(t) = \frac{\mathrm{d}s}{\mathrm{d}t} $$
+
+Setzen Sie anschließend für $t = 0,5s $ ein.
 
 <details  style="margin-left:10%">
 
 <summary> Lösung </summary>
 
-Es gilt: $$v(t) = \frac{\mathrm{d}y}{\mathrm{d}t}$$. 
+Es gilt: $$v(t) = \frac{\mathrm{d}s}{\mathrm{d}t}$$. 
 
 Die Gleichung für $s(t)$ lautet:
 
@@ -1091,16 +1095,38 @@ $$ s(t)=\hat{s}\cdot e^{-k\cdot t}\cdot \cos(\omega\cdot t) $$
 
 $s(t)$ ist ein Produkt aus zwei Funktionen, farblich dargestellt
 
-$$ s(t)=\hat{s}\cdot \blue{e^{-k\cdot t}} \cdot \cos(\omega\cdot t) $$
+$$ s(t)=\hat{s}\cdot \blue{e^{-k\cdot t}} \cdot \red{\cos(\omega\cdot t)} $$
+
+Vereinfacht dargestellt ist $s(t)$ also das Produkt aus zwei Funktionen $\blue{g(t)=e^{-k\cdot t}}$ und $\red{h(t)=\cos(\omega\cdot t)}$.
+
+$$ s(t)=\hat{s}\cdot \blue{g(t)} \cdot \red{h(t)} $$
+
+Nach der Kettenregel ist die Ableitung eines Produktes:
+
+$$ \frac{\mathrm{d}s}{\mathrm{d}t} =\hat{s}\cdot \Big( \blue{g'(t)} \cdot \red{h(t)} + \blue{g(t)} \cdot \red{h'(t)}\Big) $$
+
+Die einzelnen Ableitungen ergeben:
+
+$$ \blue{g'(t) = -k \cdot e^{-k\cdot t}} $$
+
+und
+
+$$ \red{h'(t) = -\omega \cdot \sin(\omega\cdot t)} $$
+
+Daraus ergibt sich für die momentane Geschwindigkeit $v(t)$
+
+$$ \boxed{v(t) = -\hat{s} \cdot \blue{k \cdot e^{-k\cdot t}} \cdot \red{\cos(\omega\cdot t)} - \hat{s} \cdot \blue{e^{-k\cdot t}} \cdot \red{\omega \cdot \sin(\omega\cdot t)}} $$
 
 </details>
 
 </details>
 
-3. Bestimmen Sie aus diesem Ausdruck die Geschwindigkeit für den Zeitpunkt $t=0,5 s$. <br> Hinweis: Wenn Sie die Aufgabe 2 nicht lösen konnten, verwenden Sie die Lösung aus 2. zur Bearbeitung dieser Aufgabe.
+---
+
+3. Bestimmen Sie aus dem Ausdruck für $v(t)$ die Geschwindigkeit für den Zeitpunkt $t=0,5 s$. <br> _Hinweis: Wenn Sie die Aufgabe 2 nicht lösen konnten, verwenden Sie die Lösung aus 2. zur Bearbeitung dieser Aufgabe._
 
 <p style="margin-left:10%">
 
-@rangeQuiz2($v$, 0.04 ,$\frac{m}{s}$)
+@rangeQuiz2($v$, -17.253e-3 ,$\frac{m}{s}$)
 
 </p>
