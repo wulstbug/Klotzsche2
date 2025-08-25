@@ -494,7 +494,7 @@ $a = g \cdot \sin\alpha$
 >
 > 2. __Bremsweg:__ Die Bremse wird betätigt und das Fahrzeug kommt zum stehen.
 >
->      _Faustformel:_ $$s_{brems} = \Big(\frac{v [\mathrm{in\,km/h}]}{10}\Big)^2\cdot 3 m $$
+>      _Faustformel:_ $$s_{brems} = \Big(\frac{v [\mathrm{in\,km/h}]}{10}\Big)^2$$
 >
 >      _Beispiel:_ $$v = 50 km/h \Rightarrow s_{brems} \approx 25m$$
 >
@@ -526,6 +526,16 @@ $a = g \cdot \sin\alpha$
 @rangeQuiz0($n$,3,$.$)
 
 </p>
+
+3. Betrachte das Beispiel _Reaktionsweg_ aus dem Tafelbild. Ermittle die exakt zurück gelegte Strecke bei einer Reaktionszeit von $1s$ und einer Geschwindigkeit von $50\frac{km}{h}$.
+
+<p style="margin-left:10%">
+
+@rangeQuiz2($s$,13.89,$m$)
+
+</p>
+
+4. Betrachte das Beispiel _Bremsweg_ aus dem Tafelbild. Emittle die exakt zurück gelegte Strecke bei einer Geschwindigkeit von $50\frac{km}{h}$
 
 
 ## 1.5 Berechnung eines Bremsvorgangs mit Hilfe der Newton'schen Gesetze
