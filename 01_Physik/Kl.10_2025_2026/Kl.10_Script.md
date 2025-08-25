@@ -535,7 +535,23 @@ $a = g \cdot \sin\alpha$
 
 </p>
 
-4. Betrachte das Beispiel _Bremsweg_ aus dem Tafelbild. Ermittle die Beschleunigung $a$, die mit der Faustformel angenommen wird. Nutze dafür die Formeln für die gleichmäßig beschleunigte Bewegung $s(t)=\frac{1}{2}\cdot a cdot t^2 + v_0 \cdot t$ und $v(t)=a\cdot t + v_0$.
+4. Ermittle die Bremszeit, die im Beispiel _Bremsweg_ angenommen wird. Nutze als Beschleunigung $a=-5 \frac{m}{s^2}$ und als Geschwindigkeit $v=50 \frac{km}{h}$.
+
+<p style="margin-left:10%">
+
+@rangeQuiz2($t$,2.78,$s$)
+
+</p>
+
+5. Ermittle den exakten Bremsweg für die Beschleunigung von $a=-5 \frac{m}{s^2}$ und einer Anfangsgeschwindigkeit von $v=50 \frac{km}{h}$.
+
+<p style="margin-left:10%">
+
+@rangeQuiz2($s$,19.29,$m$)
+
+</p>
+
+6. Betrachte das Beispiel _Bremsweg_ aus dem Tafelbild. Ermittle die Beschleunigung $a$, die mit der Faustformel angenommen wird. Nutze dafür die Formeln für die gleichmäßig beschleunigte Bewegung $s(t)=\frac{1}{2}\cdot a cdot t^2 + v_0 \cdot t$ und $v(t)=a\cdot t + v_0$.
 
 
 ## 1.5 Berechnung eines Bremsvorgangs mit Hilfe der Newton'schen Gesetze
