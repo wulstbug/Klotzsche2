@@ -648,7 +648,7 @@ __Periodendauer:__
 
 > Die Periodendauer in einem idealen Schwingkreis wird durch die _Thomson'sche Schwingungsgleichung_ berechnet
 >
-> $$ T = 2\pi \sqrt{\dfrac{1}{L\cdot C}} $$
+> $$ T = 2\pi \sqrt{L\cdot C} $$
 **********
 
 {{7}}
