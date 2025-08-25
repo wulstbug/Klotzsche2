@@ -618,7 +618,7 @@ Erstellen Sie mit Hilfe der Simulation einen Schwingkreis, den Sie eine Batterie
 
 <p style="margin-left:10%">
 
-@rangeQuiz2($C\cdot L$, 0.1 ,$s$)
+@rangeQuiz2($C\cdot L$, 0.025 ,$s$)
 
 </p>
 
