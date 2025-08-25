@@ -994,6 +994,58 @@ Startwerte:
 
 </details>
 
+## 9. 8. Energieumwandlungen bei Schwingungen
+
+> Bei einer (mechanischen) Schwingung wird die in der Schwingung gespeicherte Energie periodisch zwischen verschiedenen Energieformen umgewandelt
+
+{{1}}
+***********
+<p style="margin-left:10%">
+
+__Beispiel: Federschwinger__ (auftretende Energieformen)
+
+__Mechanische Energieformen:__
+
+- potentielle Energie (Lageenergie)     
+     -> $E_{pot} = m \cdot g \cdot h$
+
+- kinetische Energie (Bewegungsenergie)
+     -> $E_{kin} = \frac{1}{2}\cdot m \cdot v^2$
+
+- Spannenergie (Federdehnung)
+     -> $E_{sp} = \frac{1}{2} \cdot D \cdot s^2$
+
+__Reibung:__
+
+- Thermische Energie
+
+{{2}}
+***********
+??[Simulation-PHeT-FederSchwinger](https://phet.colorado.edu/sims/html/masses-and-springs/latest/masses-and-springs_all.html?locale=de)
+***********
+
+
+{{3}}
+***********
+<p class="newspaper">
+
+> Bei einem @color(_idealen=reibungsfreien_,orange) Federschwinger ist die Summe aller mechanischer Energien konstant. Energie wird zwischen Lageenergie, Spannenergie und kinetischer Energie umgewandelt.
+>
+> Bei einem realen Federschwinger wird ein Teil der Energie in thermische Energie umgewandelt. Die Amplitude der Schwingung sinkt mit der Zeit. Eine solche Schwingung nennt man @color(gedämpfte Schwingung, red).
+
+
+<p class="cb">
+
+![Graph-Gedaempfte-Schwingung](https://diversewolken.ddns.net/nextcloud/index.php/s/eLDW3kNxPrXWRBP/download "Beispiel einer gedämpften Schwingung mit schwacher Dämpfung") <!-- style="max-height:300px" -->
+
+</p>
+
+</p>
+***********
+
+</p>
+***********
+
 ### Aussagen zur Gedämpften Schwingung
 
 @color(Entscheiden Sie für die folgenden Aussagen. Nutzen Sie im Zweifel die Simulation., blue)
@@ -1053,7 +1105,7 @@ Startwerte:
 
 ### Übung Gedämpfte Schwingung
 
-Bei jeder (realen) mechanischen Schwingung wird Energie durch Reibung an die Umgebung abgegeben. Im Experiment wird der Schwingungsverlauf bei Laminarer Reibung des Federpendels in Wasser aufgenommen. Die Federkonstante beträgt $D=10\frac{N}{m}$.
+Bei jeder (realen) mechanischen Schwingung wird Energie durch Reibung an die Umgebung abgegeben. Im Experiment wird der Schwingungsverlauf bei laminarer Reibung des Federpendels in Wasser aufgenommen. Die Federkonstante beträgt $D=10\frac{N}{m}$.
 
 ![Aufgabe-Gedaempfte-Schwingung](https://diversewolken.ddns.net/nextcloud/index.php/s/gYaziaBmrreoNbF/download)
 

@@ -895,6 +895,43 @@ __Überprüfung:__
 
 </p>
 
+## 9. 8. Energieumwandlungen bei Schwingungen
+
+> Bei einer (mechanischen) Schwingung wird die in der Schwingung gespeicherte Energie periodisch zwischen verschiedenen Energieformen umgewandelt
+
+__Beispiel: Federschwinger__ (auftretende Energieformen)
+
+__Mechanische Energieformen:__
+
+- potentielle Energie (Lageenergie)     
+     -> $E_{pot} = m \cdot g \cdot h$
+
+- kinetische Energie (Bewegungsenergie)
+     -> $E_{kin} = \frac{1}{2}\cdot m \cdot v^2$
+
+- Spannenergie (Federdehnung)
+     -> $E_{sp} = \frac{1}{2} \cdot D \cdot s^2$
+
+__Reibung:__
+
+- Thermische Energie
+
+---
+
+<p class="newspaper">
+
+> Bei einem @color(_idealen=reibungsfreien_,orange) Federschwinger ist die Summe aller mechanischer Energien konstant. Energie wird zwischen Lageenergie, Spannenergie und kinetischer Energie umgewandelt.
+>
+> Bei einem realen Federschwinger wird ein Teil der Energie in thermische Energie umgewandelt. Die Amplitude der Schwingung sinkt mit der Zeit. Eine solche Schwingung nennt man @color(gedämpfte Schwingung, red).
+
+
+<p class="cb">
+
+![Graph-Gedaempfte-Schwingung](https://diversewolken.ddns.net/nextcloud/index.php/s/eLDW3kNxPrXWRBP/download "Beispiel einer gedämpften Schwingung mit schwacher Dämpfung") <!-- style="max-height:300px" -->
+
+</p>
+
+</p>
 
 ### Aussagen zur Gedämpften Schwingung
 
