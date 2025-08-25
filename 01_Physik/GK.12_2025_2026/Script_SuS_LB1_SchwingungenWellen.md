@@ -610,7 +610,7 @@ Erstellen Sie mit Hilfe der Simulation einen Schwingkreis, den Sie eine Batterie
 
 @rangeQuiz2($T$, 4.443 ,$s$)
 
-@rangeQuiz2($f$, 0.0225 ,$Hz$)
+@rangeQuiz2($f$, 0.225 ,$Hz$)
 
 </p>
 
