@@ -840,7 +840,7 @@ __E. Analyse der Kleinwinkelnäherung__
 </details>
 
 
-## Gedämpfte Schwingung
+## 9. 7. Gedämpfte Schwingung
 
 > Im folgenden soll eine Schwingung simuliert werden, bei der die Amplitude abnimmt. Speichere deine Simulation unter einem neuen Namen (z.B. Pendel-Daempfung) und versuche eine Reibungskraft in die Simulation einzufügen.
 
@@ -892,5 +892,146 @@ __Überprüfung:__
 @rangeQuiz2($F_{reib}$,0.0002,$N$)
 
 @rangeQuiz2($\dfrac{E_0-E_1}{E_0}$,10,$\%$)
+
+</p>
+
+
+### Aussagen zur Gedämpften Schwingung
+
+@color(Entscheiden Sie für die folgenden Aussagen. Nutzen Sie im Zweifel die Simulation., blue)
+
+-> [Simulation-PHeT-FederSchwinger](https://phet.colorado.edu/sims/html/masses-and-springs/latest/masses-and-springs_all.html?locale=de)
+
+---
+
+<!-- data-solution-button="off" -->
+[[ richtig | (falsch) ]] 1. In der Ruhelage ist die Spannernergie gleich Null.
+
+---
+
+<!-- data-solution-button="off" -->
+[[ richtig | (falsch) ]] 2. In der Ruhelage ist die kinetische Energie minimal.
+
+---
+
+<!-- data-solution-button="off" -->
+[[ (richtig) | falsch ]] 3. In der Ruhelage ist kinetische Energie maximal.
+
+---
+
+<!-- data-solution-button="off" -->
+[[ (richtig) | falsch ]] 4. Im unteren Umkehrpunkt ist die Spannenergie maximal.
+
+---
+
+<!-- data-solution-button="off" -->
+[[ richtig | (falsch) ]] 5. Im oberen Umkehrpunkt ist die Spannenergie immer Null.
+
+---
+
+<!-- data-solution-button="off" -->
+[[ (richtig) | falsch ]] 6. Im oberen Umkehrpunkt ist die Spannenergie minimal.
+
+---
+
+<!-- data-solution-button="off" -->
+[[ richtig | (falsch) ]] 6. Bei einer gedämpften Schwingung ist die Summe aller mechanischen Energien konstant.
+
+---
+
+<!-- data-solution-button="off" -->
+[[ (richtig) | falsch ]] 7. Bei einer ungedämpften Schwingung ist die Summe aller mechanischen Energien konstant.
+
+---
+
+<!-- data-solution-button="off" -->
+[[ (richtig) | falsch ]] 8. Tritt bei einem Federschwinger Reibung auf, so verringert sich die Amplitude mit der Zeit.
+
+---
+
+<!-- data-solution-button="off" -->
+[[ (richtig) | falsch ]] 9. Bei einem gedämpften Federschwinger gilt der Energieerhaltungssatz.
+
+
+
+### Übung Gedämpfte Schwingung
+
+Bei jeder (realen) mechanischen Schwingung wird Energie durch Reibung an die Umgebung abgegeben. Im Experiment wird der Schwingungsverlauf bei Laminarer Reibung des Federpendels in Wasser aufgenommen. Die Federkonstante beträgt $D=10\frac{N}{m}$.
+
+![Aufgabe-Gedaempfte-Schwingung](https://diversewolken.ddns.net/nextcloud/index.php/s/gYaziaBmrreoNbF/download)
+
+1. Der Graph kann näherungsweise durch die Gleichung $s(t)=\hat{s}\cdot e^{-k\cdot t}\cdot \cos(\omega\cdot t)$ beschrieben werden. Bestimmen Sie aus dem Graphen die Größen $\hat{s}$, $k$, $\omega$ und $f$.
+
+<p style="margin-left:10%">
+
+@rangeQuiz2($\hat{s}$, 0.04 ,$m$)
+
+@rangeQuiz2($k$, 0.575 ,$\dfrac{1}{s}$)
+
+@rangeQuiz2($\omega$, 12.566 ,$\dfrac{1}{s}$)
+
+@rangeQuiz2($f$, 2 ,$Hz$)
+
+</p>
+
+---
+
+2. *Ermitteln Sie den mathematischen Ausdruck für $v(t)$. 
+
+<details style="margin-left:10%">
+
+<summary> Lösungshinweise </summary>
+
+Die Geschwindigkeit $v(t)$ ist definiert als die erste Ableitung der Orts-Funktion $s(t)$ nach der Zeit $t$. Leiten Sie die Gleichung für $s(t)$ aus Aufgabe 1 nach der Zeit $t$ ab, d.h.
+
+$$ v(t) = \frac{\mathrm{d}s}{\mathrm{d}t} $$
+
+Setzen Sie anschließend für $t = 0,5s $ ein.
+
+<details  style="margin-left:10%">
+
+<summary> Lösung </summary>
+
+Es gilt: $$v(t) = \frac{\mathrm{d}s}{\mathrm{d}t}$$. 
+
+Die Gleichung für $s(t)$ lautet:
+
+$$ s(t)=\hat{s}\cdot e^{-k\cdot t}\cdot \cos(\omega\cdot t) $$
+
+$s(t)$ ist ein Produkt aus zwei Funktionen, farblich dargestellt
+
+$$ s(t)=\hat{s}\cdot \blue{e^{-k\cdot t}} \cdot \red{\cos(\omega\cdot t)} $$
+
+Vereinfacht dargestellt ist $s(t)$ also das Produkt aus zwei Funktionen $\blue{g(t)=e^{-k\cdot t}}$ und $\red{h(t)=\cos(\omega\cdot t)}$.
+
+$$ s(t)=\hat{s}\cdot \blue{g(t)} \cdot \red{h(t)} $$
+
+Nach der Kettenregel ist die Ableitung eines Produktes:
+
+$$ \frac{\mathrm{d}s}{\mathrm{d}t} =\hat{s}\cdot \Big( \blue{g'(t)} \cdot \red{h(t)} + \blue{g(t)} \cdot \red{h'(t)}\Big) $$
+
+Die einzelnen Ableitungen ergeben:
+
+$$ \blue{g'(t) = -k \cdot e^{-k\cdot t}} $$
+
+und
+
+$$ \red{h'(t) = -\omega \cdot \sin(\omega\cdot t)} $$
+
+Daraus ergibt sich für die momentane Geschwindigkeit $v(t)$
+
+$$ \boxed{v(t) = -\hat{s} \cdot \blue{k \cdot e^{-k\cdot t}} \cdot \red{\cos(\omega\cdot t)} - \hat{s} \cdot \blue{e^{-k\cdot t}} \cdot \red{\omega \cdot \sin(\omega\cdot t)}} $$
+
+</details>
+
+</details>
+
+---
+
+3. Bestimmen Sie aus dem Ausdruck für $v(t)$ die Geschwindigkeit für den Zeitpunkt $t=0,5 s$. <br> _Hinweis: Wenn Sie die Aufgabe 2 nicht lösen konnten, verwenden Sie die Lösung aus 2. zur Bearbeitung dieser Aufgabe._
+
+<p style="margin-left:10%">
+
+@rangeQuiz2($v$, -17.253e-3 ,$\frac{m}{s}$)
 
 </p>
