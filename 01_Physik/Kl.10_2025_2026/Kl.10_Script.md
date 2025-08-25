@@ -535,7 +535,7 @@ $a = g \cdot \sin\alpha$
 
 </p>
 
-4. Betrachte das Beispiel _Bremsweg_ aus dem Tafelbild. Emittle die exakt zurück gelegte Strecke bei einer Geschwindigkeit von $50\frac{km}{h}$
+4. Betrachte das Beispiel _Bremsweg_ aus dem Tafelbild. Ermittle die Beschleunigung $a$, die mit der Faustformel angenommen wird. Nutze dafür die Formeln für die gleichmäßig beschleunigte Bewegung $s(t)=\frac{1}{2}\cdot a cdot t^2 + v_0 \cdot t$ und $v(t)=a\cdot t + v_0$.
 
 
 ## 1.5 Berechnung eines Bremsvorgangs mit Hilfe der Newton'schen Gesetze
