@@ -1073,13 +1073,13 @@ Bei jeder (realen) mechanischen Schwingung wird Energie durch Reibung an die Umg
 
 2. *Ermitteln Sie den mathematischen Ausdruck für $v(t)$. 
 
-<details>
+<details style="margin-left:10%">
 
 <summary> Lösungshinweise </summary>
 
 Die Geschwindigkeit $v(t)$ ist definiert als die erste Ableitung der Funktion $s(t)$ nach der Zeit. Leiten Sie die Gleichung für $s(t)$ aus Aufgabe 1 nach der Zeit ab.
 
-<details>
+<details  style="margin-left:10%">
 
 <summary> Lösung </summary>
 
