@@ -993,3 +993,90 @@ Startwerte:
 - -> 13% gehen verloren
 
 </details>
+
+### Aussagen zur Gedämpften Schwingung
+
+@color(Entscheiden Sie für die folgenden Aussagen. Nutzen Sie im Zweifel die Simulation., blue)
+
+-> [Simulation-PHeT-FederSchwinger](https://phet.colorado.edu/sims/html/masses-and-springs/latest/masses-and-springs_all.html?locale=de)
+
+---
+
+<!-- data-solution-button="off" -->
+[[ richtig | (falsch) ]] 1. In der Ruhelage ist die Spannernergie gleich Null.
+
+---
+
+<!-- data-solution-button="off" -->
+[[ richtig | (falsch) ]] 2. In der Ruhelage ist die kinetische Energie minimal.
+
+---
+
+<!-- data-solution-button="off" -->
+[[ (richtig) | falsch ]] 3. In der Ruhelage ist kinetische Energie maximal.
+
+---
+
+<!-- data-solution-button="off" -->
+[[ (richtig) | falsch ]] 4. Im unteren Umkehrpunkt ist die Spannenergie maximal.
+
+---
+
+<!-- data-solution-button="off" -->
+[[ richtig | (falsch) ]] 5. Im oberen Umkehrpunkt ist die Spannenergie immer Null.
+
+---
+
+<!-- data-solution-button="off" -->
+[[ (richtig) | falsch ]] 6. Im oberen Umkehrpunkt ist die Spannenergie minimal.
+
+---
+
+<!-- data-solution-button="off" -->
+[[ richtig | (falsch) ]] 6. Bei einer gedämpften Schwingung ist die Summe aller mechanischen Energien konstant.
+
+---
+
+<!-- data-solution-button="off" -->
+[[ (richtig) | falsch ]] 7. Bei einer ungedämpften Schwingung ist die Summe aller mechanischen Energien konstant.
+
+---
+
+<!-- data-solution-button="off" -->
+[[ (richtig) | falsch ]] 8. Tritt bei einem Federschwinger Reibung auf, so verringert sich die Amplitude mit der Zeit.
+
+---
+
+<!-- data-solution-button="off" -->
+[[ (richtig) | falsch ]] 9. Bei einem gedämpften Federschwinger gilt der Energieerhaltungssatz.
+
+
+### Übung Gedämpfte Schwingung
+
+Bei jeder (realen) mechanischen Schwingung wird Energie durch Reibung an die Umgebung abgegeben. Im Experiment wird der Schwingungsverlauf bei Laminarer Reibung des Federpendels in Wasser aufgenommen. Die Federkonstante beträgt $D=10\frac{N}{m}$.
+
+1. Der Graph kann näherungsweise durch die Gleichung $s(t)=\hat{s}\cdot e^{-k\cdot t}\cdot \cos(\omega\cdot t)$ beschrieben werden. Bestimmen Sie aus dem Graphen die Größen $\hat{s}$, $k$, $\omega$ und $f$.
+
+<p style="margin-left:10%">
+
+@rangeQuiz2($\hat{s}$, 0.04 ,$m$)
+
+@rangeQuiz2($k$, 0.575 ,$\dfrac{1}{s}$)
+
+@rangeQuiz2($\omega$, 12.566 ,$\dfrac{1}{s}$)
+
+@rangeQuiz2($f$, 2 ,$Hz$)
+
+</p>
+
+---
+
+2. *Ermitteln Sie den mathematischen Ausdruck für $v(t)$. 
+
+3. Bestimmen Sie aus diesem Ausdruck die Geschwindigkeit für den Zeitpunkt $t=0,5 s$.
+
+<p style="margin-left:10%">
+
+@rangeQuiz2($v$, 0.04 ,$\frac{m}{s}$)
+
+</p>
