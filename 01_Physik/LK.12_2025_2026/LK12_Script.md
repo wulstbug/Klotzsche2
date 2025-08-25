@@ -1073,7 +1073,31 @@ Bei jeder (realen) mechanischen Schwingung wird Energie durch Reibung an die Umg
 
 2. *Ermitteln Sie den mathematischen Ausdruck für $v(t)$. 
 
-3. Bestimmen Sie aus diesem Ausdruck die Geschwindigkeit für den Zeitpunkt $t=0,5 s$.
+<details>
+
+<summary> Lösungshinweise </summary>
+
+Die Geschwindigkeit $v(t)$ ist definiert als die erste Ableitung der Funktion $s(t)$ nach der Zeit. Leiten Sie die Gleichung für $s(t)$ aus Aufgabe 1 nach der Zeit ab.
+
+<details>
+
+<summary> Lösung </summary>
+
+Es gilt: $$v(t) = \frac{\mathrm{d}y}{\mathrm{d}t}$$. 
+
+Die Gleichung für $s(t)$ lautet:
+
+$$ s(t)=\hat{s}\cdot e^{-k\cdot t}\cdot \cos(\omega\cdot t) $$
+
+$s(t)$ ist ein Produkt aus zwei Funktionen, farblich dargestellt
+
+$$ s(t)=\hat{s}\cdot \blue{e^{-k\cdot t}} \cdot \cos(\omega\cdot t) $$
+
+</details>
+
+</details>
+
+3. Bestimmen Sie aus diesem Ausdruck die Geschwindigkeit für den Zeitpunkt $t=0,5 s$. <br> Hinweis: Wenn Sie die Aufgabe 2 nicht lösen konnten, verwenden Sie die Lösung aus 2. zur Bearbeitung dieser Aufgabe.
 
 <p style="margin-left:10%">
 
