@@ -657,7 +657,7 @@ __Aufgabe:__<br> Beantworte die Aufträge der KI. Du kannst dein Ergebnis verbes
 
 <div class="container" style="margin-left:10%">
 __Prompt__ <br>
-<span class="text-box" id="textToCopy2"> Grundlage der folgenden Kommunikation sind die Newton'schen Axiome und die Kräfte an einer schiefen Ebene. Ich möchte dass du mir 5 Fragen aus diesen beiden Themengebieten stellst. Bitte achte darauf, dass die Antworten nicht zu lang sein müssen. Ich bin im Physikunterricht in der Klasse 10 am Gymnasium. Gib mir nicht die Lösung, aber unterstütze mich bei der Beantwortung. Nach der fünften Frage möchte ich, dass du meine Antworten auf einer Skala von 1 bis 10 einschätzt und mir ein Feedback gibst.</span>
+<span class="text-box" id="textToCopy2"> Grundlage der folgenden Kommunikation sind die Newton'schen Axiome und die Kräfte an einer schiefen Ebene. Ich möchte dass du mir 5 Fragen aus diesen beiden Themengebieten stellst. Bitte achte darauf, dass die Antworten nicht zu lang sein müssen. Ich bin im Physikunterricht in der Klasse 10 am Gymnasium. Stelle mir eine Frage nach der anderen und warte auf meine Lösungen. Gib mir nicht die Lösung, aber unterstütze mich bei der Beantwortung. Nach der fünften Frage möchte ich, dass du meine Antworten auf einer Skala von 1 bis 10 einschätzt und mir ein Feedback gibst.</span>
 </div>
 
 <script input="submit" style="margin-left:10%" default="Prompt Kopieren">
