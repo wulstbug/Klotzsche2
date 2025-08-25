@@ -619,7 +619,7 @@ hier bedeutet
 **************
 
 
-## KI-Aufgabe: Newton'sche Gesetze
+### KI-Aufgabe: Newton'sche Gesetze / schiefe Ebene
 
 <p style="color:blue">
 Kopiere den Prompt in das Feld der KI (nutze den Button _Kopieren_). Beantworte dann die gestellten Aufgabe.
