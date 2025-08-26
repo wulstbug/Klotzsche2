@@ -288,6 +288,75 @@ Wechsle in einem weiteren Fenster [hier zum Labyrinth](https://www.geogebra.org/
 
 </details>
 
+### Konstruktionsanleitung: Reflexion an einem sphärischen Spiegel
+
+
+<details>
+
+<summary> __Aufgabenteil 1:__ </summary>
+
+<p style="margin:5%">
+
+1. Wechsle in einem weiteren Fenster [hier zu Geogebra](https://www.geogebra.org/classroom/dmvmdyvu) und bearbeite folgende Anleitung. Gehe zu @color(Weiter ohne Anmeldung, orange) und nutze deinen Vornamen oder deine Initialien.
+
+2. Blende das Koordinatensystem ein und platziere den Ursprung mittig.
+
+     ![Koord](https://diversewolken.ddns.net/nextcloud/index.php/s/pGEcgSo6YKCakip/download)
+
+3. Setze einen Punkt (Mittelpunkt des kreisförmigen Spiegels auf den Koordinatenursprung). Benenne ihn mit M.
+
+     ![Sph-Hs3](https://diversewolken.ddns.net/nextcloud/index.php/s/n3NXmqosdm7qQMK/download)
+
+4. Für den Kreisbogen benötigen wir zwei weitere Punkte. Setze einen Punkt B = (18,-3) und einen Punkt C = (18,3). Trage dazu in die Eingabezeile ein:
+
+<p style="color:red;margin-left:10%">
+B= (18,-3) <br>
+C= (18,3)
+
+
+     ![Sph-Hs4](https://diversewolken.ddns.net/nextcloud/index.php/s/NJjo4gXMNagnRzb/download)
+
+</p>
+
+5. Ergänze nun einen Kreisbogen. Klicke dazu auf _Kreisbogen_ und wähle __zuerst den Mittelpunkt__ und dann die Punkte B & C __gegen den Uhrzeigersinn__, d.h. zuerst B, dann C.
+
+
+     ![Sph-Hs5.1](https://diversewolken.ddns.net/nextcloud/index.php/s/cGNP9jpGg5pCdSn/download) 
+
+     ![Sph-HS5.2](https://diversewolken.ddns.net/nextcloud/index.php/s/Z9LLLeHfwjNpfJZ/download)
+
+6. Wir müssen nun einen Parallelstrahl zur x-Achse konstruieren. Setze dazu zunächst einen Punkt oberhalb der x-Achse. Wähle anschließend _Parallele Gerade_, klicke dann auf die x-Achse und anschließend auf den eben gesetzten Punkt.
+
+     ![Sph-Hs6.1](https://diversewolken.ddns.net/nextcloud/index.php/s/Lzxs4D9FPeBLTQm/download) 
+
+     ![Sph-HS6.2](https://diversewolken.ddns.net/nextcloud/index.php/s/XbEpSmYRf5g7K6K/download)
+
+7. Der Lichtstrahl darf nur bis zur Spiegelfläche laufen. Wir müssen also den Schnittpunkt zwischen der parallelen Gerade und dem Spiegel ermitteln. Wähle dazu _Schnittpunkt_ und klicke anschließend zurerst auf die parallele Gerade und anschließend auf den Spiegel.
+
+     ![Sph-Hs7.1](https://diversewolken.ddns.net/nextcloud/index.php/s/bL36igAPGHK9rtY/download) 
+
+     ![Sph-HS7.2](https://diversewolken.ddns.net/nextcloud/index.php/s/d85HdALQ7GxsgCT/download)
+
+8. Wir blenden nun die parallele Gerade aus, da sie keinen physikalischen Strahlengang darstellt. Klicke rechts auf die Gerade und wähle _Objekt anzeigen_. Ist der Haken verschwungen, wird die Gerade ausgeblendet.
+
+9. Wir zeichnen nun einen Lichtstrahl, der am Spiegel endet. Wähle dazu _Strahl_ klicke anschließend __zuerst__ auf den Schnittpunkt am Spiegel und __danach__ auf den zusätzlichen Punkt (hier D). Ändere die Farbe des Strahls auf rot.
+
+     ![Sph-Hs9.1](https://diversewolken.ddns.net/nextcloud/index.php/s/Rx67pTdFDZy48bo/download) 
+
+     ![Sph-HS9.2](https://diversewolken.ddns.net/nextcloud/index.php/s/i4ZtdFdPWSdFYWF/download)
+
+10. Füge nun das Lot ein. Das Lot ist eine Gerade vom Spiegel (Schnittpunkt) durch den Mittelpunkt des Kreises. Ändere die Strichart auf _gestrichelt_ und die Farbe auf blau.
+
+     ![Sph-HS10](https://diversewolken.ddns.net/nextcloud/index.php/s/J95B3b7bLSAqKjC/download)
+
+
+
+</p>
+
+</details>
+
+
+
 # Der Hohlspiegel am Hubble-Teleskop
 
 {{0-1}}
