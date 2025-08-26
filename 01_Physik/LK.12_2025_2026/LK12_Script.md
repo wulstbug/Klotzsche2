@@ -1269,7 +1269,7 @@ $$ t = 0,246s $$
 {{0}}
 *****************
 !?[BayOfFundy](https://www.youtube.com/watch?v=Mm5kaArK4FA)
-
+*****************
 
 ### Demonstrationsexperiment
 
@@ -1285,6 +1285,17 @@ __Skizze:__
 
 ![Demo-Skizze](https://diversewolken.ddns.net/nextcloud/index.php/s/6dpA32wA3WayA5M/download)
 
+{{3}}
+**********
+$f_0 = \frac{1}{T_0}$
+**********
+
+{{4}}
+**********
+$f_0 = \frac{1}{0,4s}$ = 2,5 Hz
+**********
+
+
 </p>
 
 </p>
@@ -1298,11 +1309,12 @@ __1. Messung:__ Abhängigkeit der @color(Erregerfrequenz $f_E$ d.h. Motor, green
 
 {{2}}
 ***********
-![Messung-U-f-1](https://diversewolken.ddns.net/nextcloud/index.php/s/WSswxZj3BfcrcGe/download) $f(U) = 0,57 \frac{Hz}{V} \cdot U - 0,22 Hz$
+![Messung-U-f-1](https://diversewolken.ddns.net/nextcloud/index.php/s/WSswxZj3BfcrcGe/download) Lineare Regression (@color(Ausgleichsgerade,red)) <br>$\boxed{\red{f(U) = 0,57 \frac{Hz}{V} \cdot U - 0,22 Hz}}$
 ***********
 
 
 ### Beispiel 2
+
 !?[Motivation-Video-Tacoma-Bridge](https://www.youtube.com/watch?v=XggxeuFDaDU)
 
 
