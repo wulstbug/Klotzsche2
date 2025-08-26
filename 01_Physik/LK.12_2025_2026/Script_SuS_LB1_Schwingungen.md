@@ -1152,3 +1152,69 @@ $$ \boxed{t = 0,246s} $$
 </details>
 
 </details>
+
+
+## 9. 9. Demonstrationsexperiment - Erzwungene Schwingung
+
+<p class="newspaper">
+
+__Foto:__
+
+![Demo-Erzwungene-Schwingung](https://diversewolken.ddns.net/nextcloud/index.php/s/H2s3ECYWkL9ygoc/download)<!-- style="max-height:400px"-->
+
+<p class="cb">
+
+__Skizze:__
+
+![Demo-Skizze](https://diversewolken.ddns.net/nextcloud/index.php/s/6dpA32wA3WayA5M/download)
+
+$f_0 = \frac{1}{T_0}$ (siehe _Experiment Federschwinger_)
+
+
+$f_0 = \frac{1}{0,4s}$ = 2,5 Hz
+
+
+</p>
+
+</p>
+
+__Messung:__
+
+Abhängigkeit der @color(Amplitude des Federpendels, blue) von der Erregerfrequenz $f_E$.
+
+<p style="margin-left:10%">
+__Beobachtung:__
+
+Die Amplitude des Federpendels steigt, je näher die @color(Erregerfrequenz $f_E$, green) der Eigenfrequenz $f_0$ des Systems kommt.
+</p>
+
+![Resonanz](https://diversewolken.ddns.net/nextcloud/index.php/s/iBAFKiD7Gs8faq9/download)
+
+
+
+### Eigenschaften einer erzwungenen Schwingung
+
+
+> Bei einem schwingenden System kann eine @color(periodische äußere Anregung, red) dem System permanent Energie zuführen. Die äußere Anregung erfolgt dabei mit Erregerfrequenz $f_E$. Die Frequenz des frei schwingenden Systems wird als  @color(Eigenfrequenz, red) $f_0$ bezeichnet. Eine solche äußere Anregung nennt man @color(erzwungene Schwingung, red).
+
+> Es lassen sich folgende Grenzfälle beobachten
+
+> 1. Für $f_E << f_0$: Erregerfrequenz ist sehr viel kleiner als Eigenfreqenz: @color(__niederfrequenter Bereich__, red)
+>
+> - Erreger und Schwinger haben beinahe die gleiche Amplitute.
+>
+> - Erreger und Schwinger haben fast keinen Phasenunterschied $\Delta\varphi\approx 0$
+
+> 2. Für $f_E \approx f_0$: Erregerfrequenz ungefähr gleich der Eigenfreqenz: @color(__Resonanzfall__, red)
+>
+> - Amplitude des Schwingers ist viel höher als die Amplitude des Erregers
+>
+> - je nach Dämpfung des Schwingers kann dessen Amplitude viel größer werden, als die des Erregers
+>
+> - der Erreger eilt dem Schwinger um die Phase  $\frac{\pi}{2}$ vorraus: $\Delta\varphi\approx \frac{\pi}{2}$
+
+> 3. Für $f_E >> f_0$: Erregerfrequenz viel größer als Eigenfrequenz: @color(__hochfrequenter Bereich__, red)
+>
+> - Amplitude des Schwingers ist wesentlich kleiner als die Amplitude des Erregers
+>
+> - der Phasenunterschied zwischen Erreger und Schwinger beträgt fast $\pi$: $\Delta\varphi\approx \pi$

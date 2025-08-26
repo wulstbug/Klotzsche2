@@ -1341,6 +1341,8 @@ Die Amplitude des Federpendels steigt, je näher die @color(Erregerfrequenz $f_E
 !?[Motivation-Video-Tacoma-Bridge](https://www.youtube.com/watch?v=XggxeuFDaDU)
 
 
+### Eigenschaften einer erzwungenen Schwingung
+
 {{1}}
 *****************
 > Bei einem schwingenden System kann eine @color(periodische äußere Anregung, red) dem System permanent Energie zuführen. Die äußere Anregung erfolgt dabei mit rregerfrequenz $f_E$. Die Frequenz des frei schwingenden Systems wird als  @color(Eigenfrequenz, red) $f_0$ bezeichnet. Eine solche äußere Anregung nennt man @color(erzwungene Schwingung, red).
@@ -1354,18 +1356,18 @@ Die Amplitude des Federpendels steigt, je näher die @color(Erregerfrequenz $f_E
 >
 > - Erreger und Schwinger haben beinahe die gleiche Amplitute.
 >
-> - Erreger und Schwinger haben fast keinen Phasenunterschied $\Delta\phi\approx 0$
+> - Erreger und Schwinger haben fast keinen Phasenunterschied $\Delta\varphi\approx 0$
 *****************
 
 {{3}}
 *****************
-> 2. Für $f_E approx f_0$: Erregerfrequenz ungefähr gleich der Eigenfreqenz: @color(__Resonanzfall__, red)
+> 2. Für $f_E \approx f_0$: Erregerfrequenz ungefähr gleich der Eigenfreqenz: @color(__Resonanzfall__, red)
 >
 > - Amplitude des Schwingers ist viel höher als die Amplitude des Erregers
 >
 > - je nach Dämpfung des Schwingers kann dessen Amplitude viel größer werden, als die des Erregers
 >
-> - der Erreger eilt dem Schwinger um die Phase  $\frac{\pi}{2}$ vorraus: $\Delta\phi\approx \frac{\pi}{2}$
+> - der Erreger eilt dem Schwinger um die Phase  $\frac{\pi}{2}$ vorraus: $\Delta\varphi\approx \frac{\pi}{2}$
 *****************
 
 {{4}}
@@ -1374,5 +1376,5 @@ Die Amplitude des Federpendels steigt, je näher die @color(Erregerfrequenz $f_E
 >
 > - Amplitude des Schwingers ist wesentlich kleiner als die Amplitude des Erregers
 >
-> - der Phasenunterschied zwischen Erreger und Schwinger beträgt fast $\pi$: $\Delta\phi\approx \pi$
+> - der Phasenunterschied zwischen Erreger und Schwinger beträgt fast $\pi$: $\Delta\varphi\approx \pi$
 *****************
