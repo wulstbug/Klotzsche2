@@ -1270,8 +1270,41 @@ $$ t = 0,246s $$
 *****************
 !?[BayOfFundy](https://www.youtube.com/watch?v=Mm5kaArK4FA)
 
+
+### Demonstrationsexperiment
+
+<p class="newspaper">
+
+__Foto:__
+
+![Demo-Erzwungene-Schwingung](https://diversewolken.ddns.net/nextcloud/index.php/s/H2s3ECYWkL9ygoc/download)<!-- style="max-height:400px"-->
+
+<p class="cb">
+
+__Skizze:__
+
+![Demo-Skizze](https://diversewolken.ddns.net/nextcloud/index.php/s/6dpA32wA3WayA5M/download)
+
+</p>
+
+</p>
+
+__1. Messung:__ Abhängigkeit der @color(Erregerfrequenz $f_E$ d.h. Motor, green) von der angelegten Spannung U. 
+
+{{1-2}}
+***********
+![Messung-U-f-1](https://diversewolken.ddns.net/nextcloud/index.php/s/T59sri22ftXSyrp/download)
+***********
+
+{{2}}
+***********
+![Messung-U-f-1](https://diversewolken.ddns.net/nextcloud/index.php/s/WSswxZj3BfcrcGe/download) $f(U) = 0,57 \frac{Hz}{V} \cdot U - 0,22 Hz$
+***********
+
+
+### Beispiel 2
 !?[Motivation-Video-Tacoma-Bridge](https://www.youtube.com/watch?v=XggxeuFDaDU)
-*****************
+
 
 {{1}}
 *****************
