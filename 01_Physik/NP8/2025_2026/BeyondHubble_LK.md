@@ -349,6 +349,17 @@ C= (18,3)
 
      ![Sph-HS10](https://diversewolken.ddns.net/nextcloud/index.php/s/J95B3b7bLSAqKjC/download)
 
+11. Spiegel nun den ersten Punkt am Lot (hier D). Füge anschließend eine Strahl vom Schnittpunkt des Spiegels zum gespiegelten Punkt (hier D') ein.
+
+     ![Sph-HS11](https://diversewolken.ddns.net/nextcloud/index.php/s/DESXyz7AiyNJ5a2/download)
+
+12. Blende nun den Schnittpunkt, sowie die Randpunkte des Spiegel aus (siehe 8.).
+
+13. Klicke nun rechts auf den reflektierten Lichtstrahl und wähle _Spur anzeigen_. Bewege anschließend den Punkt des einfallenden Lichtstrahls (hier D).
+
+     ![Sph-HS11](https://diversewolken.ddns.net/nextcloud/index.php/s/4jcdw8fPN5AxSZb/download)
+
+> Was kannst du über den Schnittpunkt aller reflektierten Lichtstrahlen aussagen?
 
 
 </p>

@@ -2,7 +2,7 @@
 
 author: Christian Golnik
 
-logo: https://diversewolken.ddns.net/nextcloud/index.php/s/J95B3b7bLSAqKjC/download
+logo: https://diversewolken.ddns.net/nextcloud/index.php/s/4jcdw8fPN5AxSZb/download
 
 language: de
 
@@ -87,7 +87,8 @@ mode: presentation
 
 -->
 
-# Konstruktionsanleitung - Reflexion am Ebenen Spiegel
+### Konstruktionsanleitung: Reflexion an einem sphärischen Spiegel
+
 
 <details>
 
@@ -95,171 +96,72 @@ mode: presentation
 
 <p style="margin:5%">
 
-__Aufgabe 1:__ Wechsle in einem weiteren Fenster [hier zu Geogebra](https://www.geogebra.org/classroom/dmvmdyvu) und bearbeite folgende Anleitung. Gehe zu @color(Weiter ohne Anmeldung, orange) und nutze deinen Vornamen oder deine Initialien.
+1. Wechsle in einem weiteren Fenster [hier zu Geogebra](https://www.geogebra.org/classroom/dmvmdyvu) und bearbeite folgende Anleitung. Gehe zu @color(Weiter ohne Anmeldung, orange) und nutze deinen Vornamen oder deine Initialien.
 
-1. Wähle Strecke aus und zeichne den ersten planaren Spiegel.
+2. Blende das Koordinatensystem ein und platziere den Ursprung mittig.
 
-![Vgl1](https://diversewolken.ddns.net/nextcloud/index.php/s/8fEHBqMpBf3DLb3/download)
+     ![Koord](https://diversewolken.ddns.net/nextcloud/index.php/s/pGEcgSo6YKCakip/download)
 
----
+3. Setze einen Punkt (Mittelpunkt des kreisförmigen Spiegels auf den Koordinatenursprung). Benenne ihn mit M.
 
-2. Wähle die Strecke an und ändere die Farbe auf blau.
+     ![Sph-Hs3](https://diversewolken.ddns.net/nextcloud/index.php/s/n3NXmqosdm7qQMK/download)
 
-![Vgl2](https://diversewolken.ddns.net/nextcloud/index.php/s/9D6n9wtabEnzRNj/download)
+4. Für den Kreisbogen benötigen wir zwei weitere Punkte. Setze einen Punkt B = (18,-3) und einen Punkt C = (18,3). Trage dazu in die Eingabezeile ein:
 
----
+<p style="color:red;margin-left:10%">
+B= (18,-3) <br>
+C= (18,3)
 
-3. Zeichne einen einfallenden Lichtstrahl als Strecke, die auf dem Spiegel endet. Wähle als Farbe rot.
 
-![Vlg3](https://diversewolken.ddns.net/nextcloud/index.php/s/L3r4ppKQmB7cxGH/download)
-
----
-
-4. Bewege den Punkt A und überprüfe, ob der Strahl auf dem Spiegel _haften_ bleibt.
-
----
-
-5. Benenne Spiegel und einfallenden Lichtstrahl. Klicke dazu rechts auf den Spiegel und wähle _Einstellungen_. Ergänze die Beschriftung zu @color(Spiegel, blau). Wähle dann den Lichtstrahl aus und ergänze die Beschriftung @color(einfallender Lichtstrahl, red).
-
-![Vlg5](https://diversewolken.ddns.net/nextcloud/index.php/s/o897HGeCYpCfWgs/download)
-
----
-
-6. Zeichne Sie das Lot durch den Punkt D. Wähle dazu _Senkrechte Gerade_, klicke dann auf den Spiegel und anschließend auf den Schnittpunkt von Lichtstrahl und Spiegel.
-
-<p style="margin:5%">
-
-| ![Vgl6](https://diversewolken.ddns.net/nextcloud/index.php/s/GMgcYbeWrzJkCLC/download) | ![Vgl6b](https://diversewolken.ddns.net/nextcloud/index.php/s/KDDDXw6ArwEJaDj/download)<!-- style="margin:10px"--> |
+     ![Sph-Hs4](https://diversewolken.ddns.net/nextcloud/index.php/s/NJjo4gXMNagnRzb/download)
 
 </p>
 
----
+5. Ergänze nun einen Kreisbogen. Klicke dazu auf _Kreisbogen_ und wähle __zuerst den Mittelpunkt__ und dann die Punkte B & C __gegen den Uhrzeigersinn__, d.h. zuerst B, dann C.
 
-7. Ändere die Linienform auf gestrichelt, die Dicke auf 1 und die Farbe auf blau. 
 
-![Vgl7](https://diversewolken.ddns.net/nextcloud/index.php/s/mp7ZZNmgHqZkM6t/download)
+     ![Sph-Hs5.1](https://diversewolken.ddns.net/nextcloud/index.php/s/cGNP9jpGg5pCdSn/download) 
 
----
+     ![Sph-HS5.2](https://diversewolken.ddns.net/nextcloud/index.php/s/Z9LLLeHfwjNpfJZ/download)
 
-8. Zeichne den Einfallswinkel. Setze dazu zuerst einen Punkt (E) auf das Lot, wähle dann Winkel und klicke die Punkte CDE in dieser Reihenfolge. Wähle bei den Einstellungen den Reiter _Darstellung_ und ändere die Größe des Winkels auf 100. Beschrifte auch das Lot.
+6. Wir müssen nun einen Parallelstrahl zur x-Achse konstruieren. Setze dazu zunächst einen Punkt oberhalb der x-Achse. Wähle anschließend _Parallele Gerade_, klicke dann auf die x-Achse und anschließend auf den eben gesetzten Punkt.
 
-<p style="margin:5%">
+     ![Sph-Hs6.1](https://diversewolken.ddns.net/nextcloud/index.php/s/Lzxs4D9FPeBLTQm/download) 
 
-| ![Vgl8a](https://diversewolken.ddns.net/nextcloud/index.php/s/GdG6MFxTJX75cJK/download) | ![Vgl8b](https://diversewolken.ddns.net/nextcloud/index.php/s/gGBjBj6FdLypQe2/download)<!-- style="margin:10px"--> |
+     ![Sph-HS6.2](https://diversewolken.ddns.net/nextcloud/index.php/s/XbEpSmYRf5g7K6K/download)
 
-</p>
+7. Der Lichtstrahl darf nur bis zur Spiegelfläche laufen. Wir müssen also den Schnittpunkt zwischen der parallelen Gerade und dem Spiegel ermitteln. Wähle dazu _Schnittpunkt_ und klicke anschließend zurerst auf die parallele Gerade und anschließend auf den Spiegel.
 
----
+     ![Sph-Hs7.1](https://diversewolken.ddns.net/nextcloud/index.php/s/bL36igAPGHK9rtY/download) 
 
-9. Für die Reflexion des Lichtstrahls verwenden wir den Befehl _Spiegle an Gerade_. Wähle dazu zuerst den Punkt C und dann das Lot. Du erhälst einen Punkt C, der am Lot gespiegelt wurde. 
+     ![Sph-HS7.2](https://diversewolken.ddns.net/nextcloud/index.php/s/d85HdALQ7GxsgCT/download)
 
-| ![Vgl9a](https://diversewolken.ddns.net/nextcloud/index.php/s/zGKeSrHiXQMkbtk/download) | ![Vgl9b](https://diversewolken.ddns.net/nextcloud/index.php/s/664JKd34YMtkjBT/download)<!-- style="margin:10px"--> |
+8. Wir blenden nun die parallele Gerade aus, da sie keinen physikalischen Strahlengang darstellt. Klicke rechts auf die Gerade und wähle _Objekt anzeigen_. Ist der Haken verschwungen, wird die Gerade ausgeblendet.
 
----
+9. Wir zeichnen nun einen Lichtstrahl, der am Spiegel endet. Wähle dazu _Strahl_ klicke anschließend __zuerst__ auf den Schnittpunkt am Spiegel und __danach__ auf den zusätzlichen Punkt (hier D). Ändere die Farbe des Strahls auf rot.
 
-10. Zeichne einen Strahl von Punkt D durch C'. Ergänze die Farbe des Lichtstrahls zu rot, beschrifte den Lichtstrahl mit reflektierter Lichtstrahl. Ergänze den Reflexionswinkel.
+     ![Sph-Hs9.1](https://diversewolken.ddns.net/nextcloud/index.php/s/Rx67pTdFDZy48bo/download) 
 
-![Vgl10](https://diversewolken.ddns.net/nextcloud/index.php/s/yiSTSgpFNJRoP7f/download)<!-- style="margin:10px"-->
+     ![Sph-HS9.2](https://diversewolken.ddns.net/nextcloud/index.php/s/i4ZtdFdPWSdFYWF/download)
 
----
+10. Füge nun das Lot ein. Das Lot ist eine Gerade vom Spiegel (Schnittpunkt) durch den Mittelpunkt des Kreises. Ändere die Strichart auf _gestrichelt_ und die Farbe auf blau.
 
-11. Beschrifte nun noch den neuen Winkel (er heißt $\beta$) mit $\alpha'$. Kopiere dazu das $\alpha$ aus der Beschriftung des ersten Winkels und setze es im zweiten Winkel mit einem __'__ ein.
+     ![Sph-HS10](https://diversewolken.ddns.net/nextcloud/index.php/s/J95B3b7bLSAqKjC/download)
 
-![Vgl11](https://diversewolken.ddns.net/nextcloud/index.php/s/ysHAQjxma8A5AZ7/download)<!-- style="margin:10px"-->
+11. Spiegel nun den ersten Punkt am Lot (hier D). Füge anschließend eine Strahl vom Schnittpunkt des Spiegels zum gespiegelten Punkt (hier D') ein.
 
----
+     ![Sph-HS11](https://diversewolken.ddns.net/nextcloud/index.php/s/DESXyz7AiyNJ5a2/download)
 
-12. Blende nun die überflüssigen Punkte E und C' aus. Klicke dazu rechts auf die Punkte und wähle _Objekt anzeigen_.
+12. Blende nun den Schnittpunkt, sowie die Randpunkte des Spiegel aus (siehe 8.).
 
----
+13. Klicke nun rechts auf den reflektierten Lichtstrahl und wähle _Spur anzeigen_. Bewege anschließend den Punkt des einfallenden Lichtstrahls (hier D).
 
-13. Überprüfe deine Konstruktion.
+     ![Sph-HS11](https://diversewolken.ddns.net/nextcloud/index.php/s/4jcdw8fPN5AxSZb/download)
 
-![Vgl12](https://diversewolken.ddns.net/nextcloud/index.php/s/fqt36pkWXAkc7tY/download)<!-- style="margin:10px"-->
+> Was kannst du über den Schnittpunkt aller reflektierten Lichtstrahlen aussagen?
 
----
 
 </p>
 
 </details>
 
----
-
-<details>
-
-<summary> __Aufgabenteil 2:__ </summary>
-
-<p style="margin:5%">
-
-14. Konstruiere nun einen zweite Spiegel, an dem der reflektierte Lichtstrahl ebenfalls reflektiert wird.
-
-![Vgl13](https://diversewolken.ddns.net/nextcloud/index.php/s/twWpgsoaTm7Fcwd/download)<!-- style="margin:10px"-->
-
-
-
-15. @color(Achtung:, red) Der reflektierte Lichtstrahl geht nicht durch den zweiten Spiegel hindurch. Konstruiere zuerst den Schnittpunkt (H) zwischen reflektiertem Lichtstrahl und Spiegel 2. Klicke nun rechts auf den reflektierten Lichtstrahl und blende ihn aus (Objekt anzeigen). Es wird nun nur noch der Schnittpunkt H angezeigt, der reflektierte Lichtstrahl bleibt versteckt.
-
-<div style="margin:5%">
-
-<details>
-
-<summary> Hinweise (zum Aufklappen) </summary>
-
-| ![Vergleich15a](https://diversewolken.ddns.net/nextcloud/index.php/s/TowjQPbxWEnnkBq/download) | ![Vergleich15](https://diversewolken.ddns.net/nextcloud/index.php/s/NPdKMyTibFnGXtc/download) |
-
-</details>
-
-</div>
-
-16. Zeichne nun eine Strecke vom Spiegel1 zum Spiegel2. Für den Spiegel2 ist dieser Strahl nun der einfallende Lichtstrahl.
-
-
-<div style="margin:5%">
-
-<details>
-
-<summary> Hinweise (zum Aufklappen) </summary>
-
-![Vergleich16a](https://diversewolken.ddns.net/nextcloud/index.php/s/N8neeeEg897odSE/download)
-
-</details>
-
-</div>
-
-17. Wiederhole nun die Prozedur zum reflektieren des Lichtstrahls an Spiegel2. Benenne die Winkel mit $\alpha_2$ und $\alpha_2'$
-
-<div style="margin:5%">
-
-<details>
-
-<summary> Hinweise (zum Aufklappen) </summary>
-
-![Vergleich17](https://diversewolken.ddns.net/nextcloud/index.php/s/pLezfiAept7gAFW/download)
-
-</details>
-
-</div>
-
-</p>
-
-</details>
-
----
-
-<details>
-
-<summary> __Aufgabenteil 3:__ </summary>
-
-<p style="margin-left:5%">
-
-Wechsle in einem weiteren Fenster [hier zum Labyrinth](https://www.geogebra.org/classroom/xfwnnpnr) und bearbeite folgende Anleitung. Finde das Tor, in welches Lichtstrahl 1 trifft. Konstruiere den Lichtweg sauber.
-
-<div style="margin:5%">
-
-![VglLab](https://diversewolken.ddns.net/nextcloud/index.php/s/HXzk3JjHMA4oNcf/download)
-
-</div>
-
-</p>
-
-</details>
