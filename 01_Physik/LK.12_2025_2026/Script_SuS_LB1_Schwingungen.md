@@ -1117,13 +1117,37 @@ $$ \red{\tan(\omega\cdot t)} = -\dfrac{\blue{k}}{\red{\omega}} \hspace{1cm}\Big|
 
 $$ \red{\omega\cdot t} = \tan^{-1}\Big(-\dfrac{\blue{k}}{\red{\omega}}\Big) \hspace{1cm}\Big| : \red{\omega} $$
 
+
+An dieser Stelle kann man zwei Lösungswege verfolgen.
+
+<p class="newspaper">
+
+__1. Weg:__
+
 $$ t = \frac{1}{\red{\omega}} \tan^{-1}\Big(-\dfrac{\blue{k}}{\red{\omega}}\Big)$$
 
 $$ t = -0,00364s $$
 
 Diese mathematische Lösung gibt an, dass das System kurz vor dem Zeitpunkt $t=0s$ die Geschwindigkeit $v=0s$ erreicht hat. Ein weiterer Zeitpunkt wäre kurz vor erreichen von $T/2$, d.h.
 
-$$ t = \frac{T}{2} - 0,00364s = 0,24636s $$
+$$ t = \frac{T}{2} - 0,00364s $$
+$$ t = 0,246s $$
+
+<p class="cb">
+
+__2. Weg__
+
+Um die Zeitpunkte größer als 0 zu erhalten, kann man hier die Symmetrie des $\tan$ nutzen und auf der rechten Seite $n\cdot\pi$ addieren, wobei $n \in \N$.
+
+$$ t = \frac{1}{\red{\omega}} \big(\tan^{-1}\Big(-\dfrac{\blue{k}}{\red{\omega}}\big) + n\cdot\pi \Big)$$
+
+Den ersten Zeitpunkt erhält man für $n=1$ und es ergibt sich
+
+$$ t = 0,246s $$
+
+</p>
+
+</p>
 
 </details>
 
