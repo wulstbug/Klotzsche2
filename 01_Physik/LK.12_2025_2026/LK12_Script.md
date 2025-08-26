@@ -1273,6 +1273,17 @@ $$ t = 0,246s $$
 
 {{1}}
 *****************
-> Bei einem schwingenden System kann eine @color(äußere Anregung, orange) dem System permanent Energie zuführen. Die äußere Anregung erfolgt dabei mit einer Anregungsfrequenz $f_0$. Das System selbst schwingt mit einer Frequenz $f_E$, auch Eigenfrequenz genannt. Eine solche Anregung nennt man @color(erzwungene Schwingung, red).
+> Bei einem schwingenden System kann eine @color(periodische äußere Anregung, red) dem System permanent Energie zuführen. Die äußere Anregung erfolgt dabei mit rregerfrequenz $f_E$. Die Frequenz des frei schwingenden Systems wird als  @color(Eigenfrequenz, red) $f_0$ bezeichnet. Eine solche äußere Anregung nennt man @color(erzwungene Schwingung, red).
+*****************
+
+{{2}}
+*****************
+> Es lassen sich folgende Grenzfälle beobachten
+>
+> 1. _Für $f_E << f_0$: Erregerfrequenz ist sehr viel kleiner als Eigenfreqenz:_
+>
+> - Erreger und Schwinger haben beinahe die gleiche Amplitute.
+>
+> - Erreger und Schwinger haben fast keinen Phasenunterschied $\phi$
 *****************
 
