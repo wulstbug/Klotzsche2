@@ -1,7 +1,7 @@
 <!--
 icon:   https://diversewolken.ddns.net/klotzsche/logo.jpg 
 
-logo: https://www.projektmagazin.de/sites/default/files/inline-images/4-seiten-einer-nachricht.JPG
+logo: https://diversewolken.ddns.net/nextcloud/index.php/s/9e6RB6rCAfd73nx/download
 
 author: Christian Golnik
 
@@ -71,3 +71,12 @@ Lösung (Großbuchstaben, ohne Leerzeichen): [[SEINODERNICHTSEIN]]
 ![Tabelle](https://diversewolken.ddns.net/nextcloud/index.php/s/9e6RB6rCAfd73nx/download)
 
 
+__Aufgaben:__
+
+1. Verschlüssele den Text __HUHN__ mit dem Passwort __EI__:
+
+     [[ MDMW ]]
+
+2. Entschlüssle den Text __NZFHWXPJKZ__ mit dem Passwort __GESUND__:
+
+     [[ GUMMITIERE ]]
