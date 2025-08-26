@@ -2,7 +2,7 @@
 
 author: Christian Golnik
 
-logo: https://diversewolken.ddns.net/nextcloud/index.php/s/twWpgsoaTm7Fcwd/download
+logo: https://diversewolken.ddns.net/nextcloud/index.php/s/J95B3b7bLSAqKjC/download
 
 language: de
 
