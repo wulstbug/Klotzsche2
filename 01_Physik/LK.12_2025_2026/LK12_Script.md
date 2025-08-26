@@ -1263,3 +1263,16 @@ $$ t = 0,246s $$
 </details>
 
 </details>
+
+## 9. 9. Erzwungende Schwingungen und Resonanz
+
+{{0}}
+*****************
+!?[Motivation-Video-Tacoma-Bridge](https://www.youtube.com/watch?v=XggxeuFDaDU)
+*****************
+
+{{1}}
+*****************
+> Bei einem schwingenden System kann eine @color(äußere Anregung, orange) dem System permanent Energie zuführen. Die äußere Anregung erfolgt dabei mit einer Anregungsfrequenz $f_0$. Das System selbst schwingt mit einer Frequenz $f_E$, auch Eigenfrequenz genannt. Eine solche Anregung nennt man @color(erzwungene Schwingung, red).
+*****************
+
