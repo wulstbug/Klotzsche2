@@ -1285,32 +1285,55 @@ __Skizze:__
 
 ![Demo-Skizze](https://diversewolken.ddns.net/nextcloud/index.php/s/6dpA32wA3WayA5M/download)
 
-{{3}}
+{{4}}
 **********
-$f_0 = \frac{1}{T_0}$
+$f_0 = \frac{1}{T_0}$ (siehe _Experiment Federschwinger_)
 **********
 
-{{4}}
+{{5}}
 **********
 $f_0 = \frac{1}{0,4s}$ = 2,5 Hz
 **********
 
-
 </p>
 
 </p>
 
+{{1}}
+**********
 __1. Messung:__ Abhängigkeit der @color(Erregerfrequenz $f_E$ d.h. Motor, green) von der angelegten Spannung U. 
+**********
 
-{{1-2}}
+{{2-3}}
 ***********
 ![Messung-U-f-1](https://diversewolken.ddns.net/nextcloud/index.php/s/T59sri22ftXSyrp/download)
 ***********
 
-{{2}}
+{{3}}
 ***********
 ![Messung-U-f-1](https://diversewolken.ddns.net/nextcloud/index.php/s/WSswxZj3BfcrcGe/download) Lineare Regression (@color(Ausgleichsgerade,red)) <br>$\boxed{\red{f(U) = 0,57 \frac{Hz}{V} \cdot U - 0,22 Hz}}$
 ***********
+
+{{6}}
+***********
+__2. Messung:__
+
+Abhängigkeit der @color(Amplitude des Federpendels, blue) von der Erregerfrequenz $f_E$.
+***********
+
+{{7}}
+***********
+<p style="margin-left:10%">
+__Beobachtung:__
+
+Die Amplitude des Federpendels steigt, je näher die @color(Erregerfrequenz $f_E$, green) der Eigenfrequenz $f_0$ des Systems kommt.
+</p>
+***********
+
+{{8}}
+*******
+![Resonanz](https://diversewolken.ddns.net/nextcloud/index.php/s/iBAFKiD7Gs8faq9/download)
+*******
 
 
 ### Beispiel 2
