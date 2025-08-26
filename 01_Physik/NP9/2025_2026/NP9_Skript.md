@@ -569,6 +569,16 @@ W채hle einen Text und einen Schl체ssel. <br> {1}{z.B. Text: __HEXEN__ <br> Schl�
 Verschl체sselter Text: __IGAFP__
 *************
 
+__Aufgaben:__
+
+1. Verschl체ssele den Text __HUHN__ mit dem Passwort __EI__:
+
+     [[ MDMW ]]
+
+2. Entschl체ssle den Text __NZFHWXPJKZ__ mit dem Passwort __GESUND__:
+
+     [[ GUMMITIERE ]]
+
 ## 4. Gruppenaufgaben Vignere-Verschl체sselung
 
 F체r die folgende Aufgabe soll ein verschl체sselter Text mit unbekanntem Passwort entschl체sselt werden.

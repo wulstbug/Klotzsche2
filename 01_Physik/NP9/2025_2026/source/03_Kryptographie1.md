@@ -71,3 +71,12 @@ Lösung (Großbuchstaben, ohne Leerzeichen): [[SEINODERNICHTSEIN]]
 ![Tabelle](https://diversewolken.ddns.net/nextcloud/index.php/s/9e6RB6rCAfd73nx/download)
 
 
+__Aufgaben:__
+
+1. Verschlüssele den Text __HUHN__ mit dem Passwort __EI__:
+
+     [[ MDMW ]]
+
+2. Entschlüssle den Text __NZFHWXPJKZ__ mit dem Passwort __GESUND__:
+
+     [[ GUMMITIERE ]]
