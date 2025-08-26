@@ -1279,11 +1279,30 @@ $$ t = 0,246s $$
 {{2}}
 *****************
 > Es lassen sich folgende Grenzfälle beobachten
->
-> 1. _Für $f_E << f_0$: Erregerfrequenz ist sehr viel kleiner als Eigenfreqenz:_
+
+> 1. Für $f_E << f_0$: Erregerfrequenz ist sehr viel kleiner als Eigenfreqenz: @color(__niederfrequenter Bereich__, red)
 >
 > - Erreger und Schwinger haben beinahe die gleiche Amplitute.
 >
-> - Erreger und Schwinger haben fast keinen Phasenunterschied $\phi$
+> - Erreger und Schwinger haben fast keinen Phasenunterschied $\Delta\phi\approx 0$
 *****************
 
+{{3}}
+*****************
+> 2. Für $f_E approx f_0$: Erregerfrequenz ungefähr gleich der Eigenfreqenz: @color(__Resonanzfall__, red)
+>
+> - Amplitude des Schwingers ist viel höher als die Amplitude des Erregers
+>
+> - je nach Dämpfung des Schwingers kann dessen Amplitude viel größer werden, als die des Erregers
+>
+> - der Erreger eilt dem Schwinger um die Phase  $\frac{\pi}{2}$ vorraus: $\Delta\phi\approx \frac{\pi}{2}$
+*****************
+
+{{4}}
+*****************
+> 3. Für $f_E >> f_0$: Erregerfrequenz viel größer als Eigenfrequenz: @color(__hochfrequenter Bereich__, red)
+>
+> - Amplitude des Schwingers ist wesentlich kleiner als die Amplitude des Erregers
+>
+> - der Phasenunterschied zwischen Erreger und Schwinger beträgt fast $\pi$: $\Delta\phi\approx \pi$
+*****************
