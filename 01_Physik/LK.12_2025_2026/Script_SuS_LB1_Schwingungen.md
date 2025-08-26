@@ -1131,7 +1131,7 @@ $$ t = -0,00364s $$
 Diese mathematische Lösung gibt an, dass das System kurz vor dem Zeitpunkt $t=0s$ die Geschwindigkeit $v=0s$ erreicht hat. Ein weiterer Zeitpunkt wäre kurz vor erreichen von $T/2$, d.h.
 
 $$ t = \frac{T}{2} - 0,00364s $$
-$$ t = 0,246s $$
+$$ \boxed{t = 0,246s} $$
 
 <p class="cb">
 
@@ -1143,7 +1143,7 @@ $$ t = \frac{1}{\red{\omega}} \big(\tan^{-1}\Big(-\dfrac{\blue{k}}{\red{\omega}}
 
 Den ersten Zeitpunkt erhält man für $n=1$ und es ergibt sich
 
-$$ t = 0,246s $$
+$$ \boxed{t = 0,246s} $$
 
 </p>
 
