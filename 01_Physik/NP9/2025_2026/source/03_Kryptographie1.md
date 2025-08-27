@@ -66,7 +66,27 @@ Entschlüssele mit dem doppelten Gartenzaun: __SONT NEND RIHS IIEC E__
 
 Lösung (Großbuchstaben, ohne Leerzeichen): [[SEINODERNICHTSEIN]]
 
-## 3. Vignere Verschlüsselung
+
+## 3. Verschlüsseln mit Enigma
+
+> Öffne die App Mininigma auf dem Tablet
+
+> Stelle die Walzen auf die Einstellung __A J P__
+
+Verschlüssele das Wort _EISENBAHN_ mit der Enigma
+
+[[ GFFC DECK Q ]]
+
+> Achte auf die Einstellung der Walzen __A J P__
+>
+> Entschlüssele QGLL ALAK O
+
+[[ KLOTZSCHE ]]
+
+
+Entschlüss
+
+## 4. Vignere Verschlüsselung
 
 ![Tabelle](https://diversewolken.ddns.net/nextcloud/index.php/s/9e6RB6rCAfd73nx/download)
 
