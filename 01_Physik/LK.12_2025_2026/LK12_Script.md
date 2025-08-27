@@ -1515,3 +1515,91 @@ Das sind dann 0,71 Umdrehungen in einer Sekunde oder 42,6 Umdrehungen in einer M
 ### Theorie der Resonanz (***)
 
 ??[Mathematische-Aufgabe-zur-Resonanz](https://www.max-academy.de/contentPlayer/61bb2cbc3542e200665ee644/61bb30e13542e200665eeaef)
+
+
+## 9. 10. Grundlagen Elektromagnetischer Schwingkreis
+
+__Aufbau:__
+
+<p class="newspaper">
+
+> Elektromagnetische Schwingungen spielen in der modernen Elektronik eine entscheidende Rolle. Ein elektromagnetischer Schwingkreis besteht aus einer Parallelschaltung von einem __Kondensator (Kapazität $C$)__ und einer __Spule(Induktivität $L$)__. 
+
+{{2}}
+*********
+> _Hinweis: Der Kondensator kann durch einen Wechselschalter von einer Spannungsquelle aufgeladen werden._
+*********
+
+<p class="cb">
+
+{{1-2}}
+**********
+![Schaltkreis-Schwingkreis](https://diversewolken.ddns.net/nextcloud/index.php/s/geHrqMrBJmkFCo6/download)
+**********
+
+{{2}}
+**********
+![Schaltkreis-Schwingkreis](https://diversewolken.ddns.net/nextcloud/index.php/s/Wy3j3A8ekemEy3e/download)
+**********
+
+</p>
+
+</p>
+
+{{4}}
+**********
+     -> [PHeT-Simulation-AC-Circut](https://phet.colorado.edu/sims/html/circuit-construction-kit-ac-virtual-lab/latest/circuit-construction-kit-ac-virtual-lab_all.html?locale=de)
+**********
+
+{{5}}
+**********
+__Energiebetrachtung:__
+
+> In einem idealen Schwingkreis schwingt die Energie zwischen dem [[ elektrischen ]] Feld des Kondensators ([[ elektrische ]] Energie) und dem magnetischen Feld der Spule ([[ magnetische ]] Energie). Die Summe aus elektrischer und magnetischer Energie ist zu jedem Zeitpunkt [[ konstant ]]
+**********
+
+{{6}}
+**********
+__Periodendauer:__
+
+> Die Periodendauer in einem idealen Schwingkreis wird durch die _Thomson'sche Schwingungsgleichung_ berechnet
+>
+> $$ T = 2\pi \sqrt{L\cdot C} $$
+**********
+
+{{7}}
+**********
+<p style="color:blue">
+
+Erstellen Sie mit Hilfe der Simulation einen Schwingkreis, den Sie über einen Wechselschalter mit einer Batterie aufladen können.
+
+1. Fügen Sie in die Simulation ein Spannungsdiagramm ein und messen Sie die Spannung vor und hinter dem Kondensator.
+
+2. Fügen Sie in die Simulation eine Stopuhr ein. Ermitteln Sie mit Hilfe der Stopuhr und der angezeigten Schwingung die Periodendauer.
+
+<p style="margin-left:10%">
+
+@rangeQuiz20($T$, 4.44 ,$s$)
+
+</p>
+
+3. Wenn Sie den Kondensator bzw. die Spule anklicken, so werden Ihnen die Werte für $C$ bzw. $L$ angezeigt. Ermittlen Sie nun aus diesen Werten die Periodendauer mit Hilfe der _Thomson'schen Schwingungsgleichung_. Ermitteln Sie auch die Frequenz der Schwingung.
+
+<p style="margin-left:10%">
+
+@rangeQuiz2($T$, 4.443 ,$s$)
+
+@rangeQuiz2($f$, 0.225 ,$Hz$)
+
+</p>
+
+4. Verändern Sie Ihren Schwingkreis derart, dass eine Frequenz von 1 Hz auftritt. Geben Sie das Produkt aus $L$ und $C$ an.
+
+<p style="margin-left:10%">
+
+@rangeQuiz2($C\cdot L$, 0.025 ,$s$)
+
+</p>
+
+</p>
+**********
