@@ -1190,6 +1190,9 @@ Die Amplitude des Federpendels steigt, je näher die @color(Erregerfrequenz $f_E
 
 ![Resonanz](https://diversewolken.ddns.net/nextcloud/index.php/s/iBAFKiD7Gs8faq9/download)
 
+### Simulation zur erzwungenen Schwingung
+
+[LEIFI-Simulation-Erzwungene-Schwingung](https://www.leifiphysik.de/mechanik/kopplung-von-schwingungen/versuche/erzwungene-schwingung-eines-federpendels-simulation)
 
 
 ### Eigenschaften einer erzwungenen Schwingung

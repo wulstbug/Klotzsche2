@@ -1340,6 +1340,10 @@ Die Amplitude des Federpendels steigt, je näher die @color(Erregerfrequenz $f_E
 
 !?[Motivation-Video-Tacoma-Bridge](https://www.youtube.com/watch?v=XggxeuFDaDU)
 
+### Simulation zur erzwungenen Schwingung
+
+[LEIFI-Simulation-Erzwungene-Schwingung](https://www.leifiphysik.de/mechanik/kopplung-von-schwingungen/versuche/erzwungene-schwingung-eines-federpendels-simulation)
+
 
 ### Eigenschaften einer erzwungenen Schwingung
 
@@ -1378,3 +1382,12 @@ Die Amplitude des Federpendels steigt, je näher die @color(Erregerfrequenz $f_E
 >
 > - der Phasenunterschied zwischen Erreger und Schwinger beträgt fast $\pi$: $\Delta\varphi\approx \pi$
 *****************
+
+### (*) Quiz zu erzwungenen Schwingungen
+
+[LEIFI-Quiz-Erzwungene-Schwingungen](https://www.leifiphysik.de/mechanik/kopplung-von-schwingungen/aufgabe/quiz-zu-erzwungenen-schwingungen)
+
+### Aufgabe Hängebrücke (**)
+
+https://www.leifiphysik.de/mechanik/kopplung-von-schwingungen/aufgabe/haengebruecke
+
