@@ -1199,7 +1199,7 @@ Die Amplitude des Federpendels steigt, je näher die @color(Erregerfrequenz $f_E
 
 > Es lassen sich folgende Grenzfälle beobachten
 
-> 1. Für $f_E << f_0$: Erregerfrequenz ist sehr viel kleiner als Eigenfreqenz: @color(__niederfrequenter Bereich__, red)
+> 1. Für $f_E \ll f_0$: Erregerfrequenz ist sehr viel kleiner als Eigenfreqenz: @color(__niederfrequenter Bereich__, red)
 >
 > - Erreger und Schwinger haben beinahe die gleiche Amplitute.
 >
@@ -1213,7 +1213,7 @@ Die Amplitude des Federpendels steigt, je näher die @color(Erregerfrequenz $f_E
 >
 > - der Erreger eilt dem Schwinger um die Phase  $\frac{\pi}{2}$ vorraus: $\Delta\varphi\approx \frac{\pi}{2}$
 
-> 3. Für $f_E >> f_0$: Erregerfrequenz viel größer als Eigenfrequenz: @color(__hochfrequenter Bereich__, red)
+> 3. Für $f_E \gg f_0$: Erregerfrequenz viel größer als Eigenfrequenz: @color(__hochfrequenter Bereich__, red)
 >
 > - Amplitude des Schwingers ist wesentlich kleiner als die Amplitude des Erregers
 >
