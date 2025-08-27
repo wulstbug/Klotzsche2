@@ -1221,3 +1221,5 @@ Die Amplitude des Federpendels steigt, je näher die @color(Erregerfrequenz $f_E
 > - Amplitude des Schwingers ist wesentlich kleiner als die Amplitude des Erregers
 >
 > - der Phasenunterschied zwischen Erreger und Schwinger beträgt fast $\pi$: $\Delta\varphi\approx \pi$
+
+
