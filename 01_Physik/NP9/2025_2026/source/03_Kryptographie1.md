@@ -84,8 +84,6 @@ Verschlüssele das Wort _EISENBAHN_ mit der Enigma
 [[ KLOTZSCHE ]]
 
 
-Entschlüss
-
 ## 4. Vignere Verschlüsselung
 
 ![Tabelle](https://diversewolken.ddns.net/nextcloud/index.php/s/9e6RB6rCAfd73nx/download)
