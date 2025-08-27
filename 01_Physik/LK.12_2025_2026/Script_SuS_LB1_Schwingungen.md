@@ -1223,3 +1223,136 @@ Die Amplitude des Federpendels steigt, je näher die @color(Erregerfrequenz $f_E
 > - der Phasenunterschied zwischen Erreger und Schwinger beträgt fast $\pi$: $\Delta\varphi\approx \pi$
 
 
+
+### (*) Quiz zu erzwungenen Schwingungen
+
+[LEIFI-Quiz-Erzwungene-Schwingungen](https://www.leifiphysik.de/mechanik/kopplung-von-schwingungen/aufgabe/quiz-zu-erzwungenen-schwingungen)
+
+### Aufgaben Resonanz/Erzwungene Schwingung (**)
+
+1. Schwingender Holzdrache
+
+<p style="margin-left:10%">
+
+
+Zur Dekoration in einer Spielzeugabteilung soll ein Holzdrache zum Einsatz kommen,
+der an einer Schraubenfeder vertikal harmonisch schwingt und dessen Flügel dabei in Bewegung versetzt werden. Der Drache hat eine Masse von 500 g. Betrachten Sie den Drachen zunächst als Massepunkt.
+Als Ruhelage y = 0 des Schwingers wird der Punkt betrachtet, in dem der Drache an der Feder hängt, ohne zu schwingen. Die Masse der Feder wird vernachlässigt.
+Im folgenden Diagramm wurde für drei Federn die Abhängigkeit der Verlängerung von der anhängenden Masse grafisch dargestellt:
+
+
+![Graph](https://physikaufgaben.de/bild/a1348_1.png)
+
+</p>
+
+---
+
+1. 1. Begründen Sie, dass Feder 1 und 2 grundsätzlich für den Drachen verwendet werden können, Feder 3 jedoch nicht verwendet werden sollte.
+
+<details style="margin-left:10%">
+
+<summary> Lösung </summary>
+
+Laut Aufgabenstellung soll der Drachen harmonisch schwingen. Das sieht einfach besser aus.
+Damit er harmonisch schwingt, muss die @color(rücktreibende Kraft proportional zur Auslenkung der Feder, red) sein. (lineares Kraftgesetz)
+Das ist bei Feder 1 und 2 der Fall. Über die gesamte Ausdehnung ist die Ausdehnung proportional zur Masse und somit auch zur Gewichtskraft.
+Bei Feder 3 ist das bis zur Masse von 500 g auch der Fall. Im oberen Bereich, den die Feder auf Grund der Schwingung ja auch erreichen wird, liegt aber keine Proportionalität vor. Die Feder dehnt sich bei steigender Belastung deutlich mehr aus als bei geringer Belastung.
+
+</details>
+
+---
+
+
+1. 2. Berechnen Sie die Federkonstanten für Feder 1 und 2.
+
+<p style="margin-left:10%">
+
+@rangeQuiz2($D_1$, 29.43 , $\dfrac{N}{m}$)
+
+@rangeQuiz2($D_2$, 9.81 , $\dfrac{N}{m}$)
+
+</p>
+
+---
+
+1. 3. Der Drache soll eine möglichst große Schwingungsdauer haben, damit seine Bewegung deutlich sichtbar ist. Prüfen Sie, welche der Federn 1 oder 2 sich in dieser Hinsicht besser eignet. Begründen Sie Ihre Antwort. 
+
+<details style="margin-left:10%">
+
+<summary> Lösung </summary>
+
+Die Schwingungsdauer einer Feder berechnet sich mit $T=2\pi\sqrt{\frac{m}{D}}$.<br>
+Der Wunsch ist es, das die Schwingungsdauer möglichst groß ist. Das heißt, die Federkonstante sollte möglichst klein sein. D steht in der Gleichung unter dem Bruchstrich. Damit wird T immer größer, je kleiner D wird.
+Es ist also die Feder 2 geeignet.
+Die Feder ist im Vergleich zu Feder 1 weicher und schwingt dadurch langsamer.
+
+</details>
+
+
+---
+
+> Verwenden Sie für weitere Berechnungen die Feder 2 mit $D_2=10\frac{N}{m}$ formel. Die Dämpfung der Drachenschwingung wird zunächst vernachlässigt.
+
+1. 4. Der Drache wird zu Beginn um 5 cm nach unten ausgelenkt und dann losgelassen Berechnen Sie die maximale Geschwindigkeit des Drachens während seiner Bewegung.
+
+<p style="margin-left:10%">
+
+@rangeQuiz2($\hat{v}$, 0.224 , $\dfrac{m}{s}$)
+
+</p>
+
+<details style="margin-left:10%">
+
+<summary> Lösung </summary>
+
+Die Geschwindigkeit des Drachen ist in der Gleichgewichtslage am größten.
+
+Da der Drache zunächst ausgelenkt wird, kann die Elongation $y(t)$ mit dem $\cos$ beschrieben werden.
+
+$y(t) = \hat{y} \cdot \cos(\omega \cdot t)$
+
+Für die Geschwindigkeit $v(t)$ ergibt sich
+
+$v(t) = -\hat{v} \cdot \sin(\omega \cdot t)$
+
+mit
+
+$\hat{v} = \hat{y} \cdot \omega = 0,05m \cdot \sqrt{\frac{D}{m}}$
+
+$ \underline{\hat{v} = 0,224 \frac{m}{s}}$
+
+</details>
+
+---
+
+1. 5. Der Drache soll als Blickfang dienen und daher ununterbrochen schwingen. Dafür wird ein Motor eingesetzt, der bei jeder Umdrehung die Aufhängung der Feder kurz nach oben beschleunigt. Geben Sie an, bei welcher Drehzahl (in Umdrehungen je Minute) der Drache seine maximale Amplitude erreicht. Begründen Sie Ihre Aussage.
+
+
+<p style="margin-left:10%">
+
+@rangeQuiz2($\dfrac{N}{t}$, 42.6 , $\dfrac{1}{min}$)
+
+</p>
+
+<details style="margin-left:10%">
+
+<summary> Lösung </summary>
+
+Die Schwingung der Feder muss immer zum richtigen Zeitpunkt unterstütz werden, um Verluste durch die Reibung auszugleichen. Dazu muss durch den Motor periodisch Energie zugeführt werden. <br> Das geht am besten, wenn die Erregerfrequenz durch den Motor genau so groß wie die Eigenschwingung der Feder ist. Beide müssen in Resonanz schwingen. <br>
+Die Zeit für eine Motorumdrehung muss dann genau so groß sein wie die Schwingungsdauer des Pendels. <br>
+Aus der oben berechneten Frequenz ergibt sich eine Schwingungsdauer von 1,4 s. Der Motor muss sich also so drehen, dass er für eine Umdrehung 1,4 s benötigt. <br>
+Das sind dann 0,71 Umdrehungen in einer Sekunde oder 42,6 Umdrehungen in einer Minute.
+
+</details>
+
+---
+
+2. [Hängebrücke](https://www.leifiphysik.de/mechanik/kopplung-von-schwingungen/aufgabe/haengebruecke)
+
+---
+
+3. [Wagen-zwischen-zwei-Federn](https://www.leifiphysik.de/mechanik/kopplung-von-schwingungen/aufgabe/wagen-zwischen-zwei-federn)
+
+### Theorie der Resonanz (***)
+
+??[Mathematische-Aufgabe-zur-Resonanz](https://www.max-academy.de/contentPlayer/61bb2cbc3542e200665ee644/61bb30e13542e200665eeaef)
