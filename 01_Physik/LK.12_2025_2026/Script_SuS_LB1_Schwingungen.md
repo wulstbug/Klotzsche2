@@ -1356,3 +1356,58 @@ Das sind dann 0,71 Umdrehungen in einer Sekunde oder 42,6 Umdrehungen in einer M
 ### Theorie der Resonanz (***)
 
 ??[Mathematische-Aufgabe-zur-Resonanz](https://www.max-academy.de/contentPlayer/61bb2cbc3542e200665ee644/61bb30e13542e200665eeaef)
+
+
+
+
+### Aufgabe Harmonischer Schwingung
+
+![Bild1](https://diversewolken.ddns.net/nextcloud/index.php/s/y3iM42qsbe25xb7/download)Bei der Erdölsuche am Nordpol wurde versehentlich ein Bohrloch durch den Mittelpunkt der Erde zum Südpol gebohrt (geht das?). Ein sehr dünner britischer Geologe fällt zur Zeit $t = 0$ in das Bohrloch und schreit sofort um Hilfe. Bei den folgenden Betrachtungen ist die Luftreibung zu vernachlässigen. Die Schallgeschwindigkeit ist c = 333 m/s.<br>
+r: Abstand des Geologen vom Erdmittelpunkt;<br>
+R: Erdradius $6,37\cdot10^3 km$<br>
+M: Erdmasse $5,98\cdot10^{24} kg$<br>
+m: Masse des Geologen $55 kg$
+
+Die Gravitationskraft, die auf den Geologen wirkt, hängt wie folgt vom Abstand Erdmittelpunkt $r$ ab: $F = - G \cdot \frac{M \cdot m}{R^3} \cdot r$
+
+1. Welchen Bewegungstyp führt der Geologe aus (Begründung)? Berechnen Sie die charakteristischen Größen der Bewegung und geben Sie die Bewegungsgleichung an.
+
+<p style="margin-left:10%">
+
+@rangeQuiz2($T$, 5.06e3 , $s$)
+
+</p>
+
+---
+
+2. Nach welcher Zeit $t_1$ kommt der Geologe am Südpol an?
+
+<p style="margin-left:10%">
+
+@rangeQuiz2($t$, 42 , $min$)
+
+</p>
+
+---
+
+3. Ermitteln Sie den Geschwindigkeitsbetrag des Geologen beim Passieren des Erdmittelpunkts.
+
+<p style="margin-left:10%">
+
+@rangeQuiz2($v$, 7.9e3 , $\dfrac{m}{s}$)
+
+</p>
+
+---
+
+4. Ermitteln Sie den Zeitpunkt, an welchem der Geologe seinen Hilferuf das erste Mal überholt.
+
+     __Hinweise:__ Bei der Lösung des zweiten Zeitpunktes kann $cos(x)$ näherungsweise durch den Ausdruck $1-\frac{x^2}{2}$ ersetzt werden.
+
+<p style="margin-left:10%">
+
+@rangeQuiz2($t$, 68 , $s$)
+
+</p>
+
+

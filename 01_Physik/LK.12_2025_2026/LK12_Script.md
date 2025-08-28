@@ -1529,13 +1529,78 @@ Die Gravitationskraft, die auf den Geologen wirkt, hängt wie folgt vom Abstand 
 
 1. Welchen Bewegungstyp führt der Geologe aus (Begründung)? Berechnen Sie die charakteristischen Größen der Bewegung und geben Sie die Bewegungsgleichung an.
 
+<p style="margin-left:10%">
+
+@rangeQuiz2($T$, 5.06e3 , $s$)
+
+</p>
+
+<details style="margin-left:10%">
+
+<summary> Lösung </summary>
+
+![Lsg_1](https://diversewolken.ddns.net/nextcloud/index.php/s/dpnEAzyBEGnkE4p/download)
+
+</details>
+
+---
+
 2. Nach welcher Zeit $t_1$ kommt der Geologe am Südpol an?
+
+<p style="margin-left:10%">
+
+@rangeQuiz2($t$, 42 , $min$)
+
+</p>
+
+<details style="margin-left:10%">
+
+<summary> Lösung3 </summary>
+
+![Lsg_2](https://diversewolken.ddns.net/nextcloud/index.php/s/mCikdJekxSWQYmf/download)
+
+</details>
+
+---
 
 3. Ermitteln Sie den Geschwindigkeitsbetrag des Geologen beim Passieren des Erdmittelpunkts.
 
+<p style="margin-left:10%">
+
+@rangeQuiz2($v$, 7.9e3 , $\dfrac{m}{s}$)
+
+</p>
+
+<details style="margin-left:10%">
+
+<summary> Lösung3 </summary>
+
+![Lsg_3](https://diversewolken.ddns.net/nextcloud/index.php/s/7fqB26ECJX9Aj68/download)
+
+
+</details>
+
+---
+
 4. Ermitteln Sie den Zeitpunkt, an welchem der Geologe seinen Hilferuf das erste Mal überholt.
 
-     __Hinweis:__ Bei der Lösung kann $cos(x)$ näherungsweise durch den Ausdruck $1-\frac{x^2}{2}$ ersetzt werden.
+     __Hinweise:__ Bei der Lösung des zweiten Zeitpunktes kann $cos(x)$ näherungsweise durch den Ausdruck $1-\frac{x^2}{2}$ ersetzt werden.
+
+<p style="margin-left:10%">
+
+@rangeQuiz2($t$, 68 , $s$)
+
+</p>
+
+<details style="margin-left:10%">
+
+<summary> Lösung4 </summary>
+
+![Lsg_4.1](https://diversewolken.ddns.net/nextcloud/index.php/s/YCxmpkFo8NbkmDf/download)
+
+![Lsg_4.2](https://diversewolken.ddns.net/nextcloud/index.php/s/mCikdJekxSWQYmf/download)
+
+</details>
 
 ## 9. 10. Grundlagen Elektromagnetischer Schwingkreis
 
