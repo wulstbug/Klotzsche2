@@ -1562,9 +1562,9 @@ __Energiebetrachtung:__
 **********
 __Periodendauer:__
 
-> Die Periodendauer in einem idealen Schwingkreis wird durch die _Thomson'sche Schwingungsgleichung_ berechnet
+> Eigenfrequenz in einem idealen Schwingkreis wird durch die _Thomson'sche Schwingungsgleichung_ berechnet
 >
-> $$ T = 2\pi \sqrt{L\cdot C} $$
+> $$ f_0 = \dfrac{1}{2\pi \sqrt{L\cdot C}} $$
 **********
 
 {{7}}
