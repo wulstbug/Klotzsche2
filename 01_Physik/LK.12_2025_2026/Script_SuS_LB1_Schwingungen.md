@@ -1360,7 +1360,7 @@ Das sind dann 0,71 Umdrehungen in einer Sekunde oder 42,6 Umdrehungen in einer M
 
 
 
-### Aufgabe Harmonischer Schwingung
+### Aufgabe Harmonische Schwingung
 
 ![Bild1](https://diversewolken.ddns.net/nextcloud/index.php/s/y3iM42qsbe25xb7/download)Bei der Erdölsuche am Nordpol wurde versehentlich ein Bohrloch durch den Mittelpunkt der Erde zum Südpol gebohrt (geht das?). Ein sehr dünner britischer Geologe fällt zur Zeit $t = 0$ in das Bohrloch und schreit sofort um Hilfe. Bei den folgenden Betrachtungen ist die Luftreibung zu vernachlässigen. Die Schallgeschwindigkeit ist c = 333 m/s.<br>
 r: Abstand des Geologen vom Erdmittelpunkt;<br>
@@ -1386,7 +1386,6 @@ Die Gravitationskraft, die auf den Geologen wirkt, hängt wie folgt vom Abstand 
 
 </details>
 
-
 ---
 
 2. Nach welcher Zeit $t_1$ kommt der Geologe am Südpol an?
@@ -1397,6 +1396,14 @@ Die Gravitationskraft, die auf den Geologen wirkt, hängt wie folgt vom Abstand 
 
 </p>
 
+<details style="margin-left:10%">
+
+<summary> Lösung3 </summary>
+
+![Lsg_2](https://diversewolken.ddns.net/nextcloud/index.php/s/mCikdJekxSWQYmf/download)
+
+</details>
+
 ---
 
 3. Ermitteln Sie den Geschwindigkeitsbetrag des Geologen beim Passieren des Erdmittelpunkts.
@@ -1406,6 +1413,15 @@ Die Gravitationskraft, die auf den Geologen wirkt, hängt wie folgt vom Abstand 
 @rangeQuiz2($v$, 7.9e3 , $\dfrac{m}{s}$)
 
 </p>
+
+<details style="margin-left:10%">
+
+<summary> Lösung3 </summary>
+
+![Lsg_3](https://diversewolken.ddns.net/nextcloud/index.php/s/7fqB26ECJX9Aj68/download)
+
+
+</details>
 
 ---
 
@@ -1419,4 +1435,12 @@ Die Gravitationskraft, die auf den Geologen wirkt, hängt wie folgt vom Abstand 
 
 </p>
 
+<details style="margin-left:10%">
 
+<summary> Lösung4 </summary>
+
+![Lsg_4.1](https://diversewolken.ddns.net/nextcloud/index.php/s/YCxmpkFo8NbkmDf/download)
+
+![Lsg_4.2](https://diversewolken.ddns.net/nextcloud/index.php/s/mCikdJekxSWQYmf/download)
+
+</details>

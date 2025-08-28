@@ -1517,7 +1517,7 @@ Das sind dann 0,71 Umdrehungen in einer Sekunde oder 42,6 Umdrehungen in einer M
 ??[Mathematische-Aufgabe-zur-Resonanz](https://www.max-academy.de/contentPlayer/61bb2cbc3542e200665ee644/61bb30e13542e200665eeaef)
 
 
-### Aufgabe Harmonischer Schwingung
+### Aufgabe Harmonische Schwingung
 
 ![Bild1](https://diversewolken.ddns.net/nextcloud/index.php/s/y3iM42qsbe25xb7/download)Bei der Erdölsuche am Nordpol wurde versehentlich ein Bohrloch durch den Mittelpunkt der Erde zum Südpol gebohrt (geht das?). Ein sehr dünner britischer Geologe fällt zur Zeit $t = 0$ in das Bohrloch und schreit sofort um Hilfe. Bei den folgenden Betrachtungen ist die Luftreibung zu vernachlässigen. Die Schallgeschwindigkeit ist c = 333 m/s.<br>
 r: Abstand des Geologen vom Erdmittelpunkt;<br>
