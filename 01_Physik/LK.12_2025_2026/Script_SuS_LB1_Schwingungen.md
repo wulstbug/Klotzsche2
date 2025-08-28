@@ -1378,6 +1378,15 @@ Die Gravitationskraft, die auf den Geologen wirkt, hängt wie folgt vom Abstand 
 
 </p>
 
+<details style="margin-left:10%">
+
+<summary> Lösung </summary>
+
+![Lsg_1](https://diversewolken.ddns.net/nextcloud/index.php/s/dpnEAzyBEGnkE4p/download)
+
+</details>
+
+
 ---
 
 2. Nach welcher Zeit $t_1$ kommt der Geologe am Südpol an?
