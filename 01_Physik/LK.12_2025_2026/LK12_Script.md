@@ -1525,7 +1525,7 @@ R: Erdradius $6,37\cdot10^3 km$<br>
 M: Erdmasse $5,98\cdot10^{24} kg$<br>
 m: Masse des Geologen $55 kg$
 
-Die Gravitationskraft, die auf den Geologen wirkt, hängt wie folgt vom Abstand Erdmittelpunkt $r$ ab: $F = - G \cdot \frac{M \cdot m}{R^3} \cdot r$
+Die Gravitationskraft, die auf den Geologen wirkt, hängt wie folgt vom Abstand Erdmittelpunkt $r$ ab: $$F = - G \cdot \frac{M \cdot m}{R^3} \cdot r$$
 
 1. Welchen Bewegungstyp führt der Geologe aus (Begründung)? Berechnen Sie die charakteristischen Größen der Bewegung und geben Sie die Bewegungsgleichung an.
 
