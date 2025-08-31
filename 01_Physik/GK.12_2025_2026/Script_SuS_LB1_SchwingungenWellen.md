@@ -623,3 +623,246 @@ Erstellen Sie mit Hilfe der Simulation einen Schwingkreis, den Sie eine Batterie
 </p>
 
 </p>
+
+
+
+### 5. 1. Eigenschaften idealer und realer Schwingkreise
+
+> Bei einem @color(idealen,red) Schwingkreis ist die Summe aus elektrischer und magnetischer Energie konstant (Energieerhaltung).
+
+> Bei einem @color(realen,red) Schwingkreis treten [[ Verluste ]] auf. Dabei wird die vorhandene elektrische und magnetische Energie in [[ Wärmenergie ]] umgewandelt. Der Grund für die Verluste ist der elektrische [[ Widerstand ]] der Bauelemente.
+
+
+-> [PHeT-Simulation-AC-Circut](https://phet.colorado.edu/sims/html/circuit-construction-kit-ac-virtual-lab/latest/circuit-construction-kit-ac-virtual-lab_all.html?locale=de)
+
+<p style="color:blue;margin-left:10%">
+
+Nutzen Sie für die folgende Aufgabe die Simulation:
+
+1. Erstellen Sie einen idealen Schwingkreis. Der Kondensator soll zunächst mit 10V aufgeladen werden. Ergänzen Sie dazu zwei Schalter und eine Batterie (anklicken -> 10V).
+
+---
+
+2. Ändern Sie die Induktivität der Spule zu $2 H$ und die Kapazität des Kondensators zu $0,2 F$. Berechnen Sie die Frequenz der Schwingung.
+
+<p style="margin-left:10%">
+
+@rangeQuiz2($f$,0.2516,$Hz$)
+
+</p>
+
+---
+
+3. Ergänzen Sie die Messung eines Spannungs-Zeit-Diagramms und bauen Sie einen elektrischen Widerstand ein. Klicken Sie auf den Widerstand und stellen Sie diesen auf $0\Omega$. Sie haben (immer noch) einen idealen Schwingkreis. Starten Sie die Aufnahme und vergleichen Sie Ihren Schwingkreis mit der Lösung.
+
+<details style="margin-left:10%">
+
+<summary> Lösung </summary>
+
+![GedSk-Lsg3](https://diversewolken.ddns.net/nextcloud/index.php/s/D9yikcAirXjNECT/download)
+
+</details>
+
+---
+
+4. ![SK-Pause](https://diversewolken.ddns.net/nextcloud/index.php/s/BRKdbFoA3AeXk5A/download) __Pausieren Sie nun Ihre Simulation.__
+
+---
+
+4. Öffnen Sie den rechten Schalter, schließen Sie den linken Schalter und laden Sie den Kondensator so wieder auf. Die Spannungsanzeige sollte bei 10V liegen. Klicken Sie auf den ohmschen Widerstand und stellen Sie den Wert $0,7\Omega$ ein.
+
+5. Sie haben nun einen realen (gedämpften) Schwingkreis. Starten Sie Ihre Simulation erneut und beobachten Sie das Verhalten der Spannungsamplitude. Vergleichen Sie dieses Verhalten mit der Amplitude einer gedämpften mechanischen Schwingung (siehe 4.)
+
+
+
+6. Pausieren Sie nun Ihre Simulation erneut. Laden Sie Ihren Kondensator durch Schließen des linken Schalters auf (die Spannung sollte 10V anzeigen). Öffnen Sie den Ladeschalter anschließend wieder.
+
+7. Beobachten Sie nun, auf welchen Spannungswert die Amplitude nach einer vollständigen Schwingung fällt. Starten Sie dazu Ihre Simulation und notieren Sie den Wert $U_1=U(T)$ nach einer Periodendauer.
+
+<p style="margin-left:10%">
+
+@rangeQuiz2($U_1$,5,$V$)
+
+</p>
+
+8. Skizzieren Sie den qualitativen Verlauf U(t) eines gedämpften Schwingkreises in Ihre Aufzeichnungen.
+
+9. Der Spannungsverlauf $U(t)$ eines _schwach_ gedämpften Schwingkreises kann mit der Formel $$ U(t) = U_0 \cdot e^{-k\cdot t} \cdot \cos(\omega t)$$ beschrieben werden, wobei $k$ die Dämpfung darstellt. Ermitteln Sie aus dem Ergebnis der Aufgabe 7. den Dampfungsfaktor.
+
+<p style="margin-left:10%">
+
+@rangeQuiz2($k$,0.1744,$\frac{1}{s}$)
+
+</p>
+
+<details style="margin-left:10%">
+
+<summary> Lösungshinweise </summary>
+
+Aus Aufgabe 7. ergibt sich die Spannung nach genau einer Periodendauer $U(T)=5V$. Nach genau einer Periodendauer ist $cos(\omega \cdot T)=1$. Somit vereinfacht sich die Formel für U(T) an diesem Punkt zu
+
+$$ U(T) = U_0 \cdot e^{-k\cdot T}$$
+
+Nutzen Sie den Solver Ihres CAS um den Wert für k zu ermitteln.
+
+<details style="margin-left:10%">
+
+<summary> Lösung </summary>
+
+$$ Solve(5 = 10 \cdot e^{-x\cdot 3.974}, x)$$
+
+$$ k \approx 0.174 \frac{1}{s}$$
+
+</details>
+
+</details>
+
+
+</p>
+
+### Aufgaben zu idealen und realen Schwingern
+
+1. Eine Feder wird vertikal befestigt, mit einer Masse beschwert und vertikal ausgelenkt. Nun wird die Schwingungsdauer bestimmt. Der gleiche Versuch ( gleiche Feder, gleiche Masse) wird (in Gedanken) auf dem Mond durchgeführt. Wie ändert sich die Schwingungsdauer?
+
+     [(x)] Gar nicht, da in der Gleichung für die Schwingungsdauer einer Feder der Ort des Versuches keinen Einfluß hat.
+     [( )] Sie wird größer, da bei der Bestimmung der Federkonstante die Gewichtskraft Einfluß hat. Diese nimmt auf dem Mond ab und damit wird die Federkonstante größer
+     [( )] Die Schwingungsdauer kann größer oder kleiner werden. Das hängt von der Auslenkung zu Beginn des Versuchs ab.
+
+<details style="margin-left:10%">
+
+<summary> Hinweise zur Lösung </summary>
+
+Die Schwingungsdauer einer Feder ist von der Federkonstante D und der anhängenden Masse m abhängig. $T=2\cdot\pi\cdot\sqrt{\frac{m}{D}}$.
+Die Federkonstante ist eine Größe, die nur von der Feder abhängt, nicht von dem Ort, an dem sich die Feder befindet. Die Masse ist ebenfalls überall gleich.
+
+</details>
+
+---
+
+2. Ein Federpendel mit der Federkonstante $5,0 \frac{N}{m}$ führt harmonische Schwingungen aus. Das Diagramm stellt den Zusammenhang zwischen der Geschwindigkeit und der Zeit dar.
+
+     ![Federschwinger-Diagramm](https://physikaufgaben.de/bild/a992_2.jpg) 
+
+2. 1. Bestimmen Sie die Periodendauer und die Frequenz der Schwingung.
+
+<p style="margin-left:10%">
+
+@rangeQuiz2($T$,0.4,$s$)
+
+@rangeQuiz2($f$,2.5,$Hz$)
+
+</p>
+
+---
+
+2. 2. Ermitteln Sie die ersten beiden Zeitpunkte, an dem der Körper seine maximale Auslenkung von der Ruhelage erreicht.
+
+<p style="margin-left:10%">
+
+@rangeQuiz0($t_1$,0,$s$)
+
+@rangeQuiz2($t_2$,0.2,$s$)
+
+</p>
+
+<details style="margin-left:10%">
+
+<summary> Hinweise zur Lösung </summary>
+
+Der Körper erreicht seine maximale Auslenkung, wenn die Geschwindigkeit gleich Null ist.
+
+</details>
+
+---
+
+2. 3. Ermitteln Sie die Masse des schwingenden Körpers.
+
+<p style="margin-left:10%">
+
+@rangeQuiz2($m$, 0.02 ,$kg$)
+
+</p>
+
+<details style="margin-left:10%">
+
+<summary> Hinweise zur Lösung </summary>
+
+Mit Hilfe der Periodendauer und der Federkonstante lässt sich mit der Formel $T=2\pi\sqrt{\frac{m}{D}}$ die Masse ermitteln.
+
+</details>
+
+---
+
+2. 4. Zeichnen Sie qualitativ ein Diagramm mit der Zeit auf der x-Achse in dem Sie sowohl den Graph $v(t)$ als auch den Graph $y(t)$ eintragen.
+
+<details style="margin-left:10%">
+
+<summary> Lösung </summary>
+
+![Lsg_2-4](https://physikaufgaben.de/bild/a992_3.jpg)
+
+</details>
+
+---
+
+2. 5. Ermitteln Sie die maximale Auslenkung des Systems. Nutzen Sie dazu die Zusammenhänge für $y_{max}$ aus $v_{max}$ aus Teil 1.
+
+<p style="margin-left:10%">
+
+@rangeQuiz2($y_{max}$, 0.0095 ,$m$)
+
+</p>
+
+<details style="margin-left:10%">
+
+<summary> Hinweise zur Lösung </summary>
+
+In der Aufgabe aus 1. wurde gezeigt, dass
+
+$$y(t) = y_{max} \cdot \sin(\omega\cdot t)$$
+
+$$v(t) = v_{max} \cdot \cos(\omega\cdot t)$$
+
+$$a(t) = a_{max} \cdot -\sin(\omega\cdot t)$$
+
+wobei
+
+$$v_{max} = y_{max} \cdot \omega$$
+
+$$a_{max} = y_{max} \cdot \omega^2$$
+
+gilt. Nutzen Sie den Ausdruck für $v_max$ zur Bestimmung von $y_{max}$.
+
+<details style="margin-left:10%">
+
+<summary> Lösung </summary>
+
+$$v_{max} = y_{max} \cdot \omega$$
+
+mit $\omega=2\pi\cdot T$ ergibt
+
+$$ y_{max} = \frac{v_{max}}{2\pi\cdot T} = 9.55\cdot 10^{-3} m $$
+
+</details>
+
+</details>
+
+---
+
+3. Bei jeder (realen) mechanischen Schwingung wird Energie durch Reibung an die Umgebung abgegeben. Im Experiment wird der Schwingungsverlauf bei laminarer Reibung des Federpendels in Wasser aufgenommen. Die Federkonstante beträgt $D=10\frac{N}{m}$.
+
+![Aufgabe-Gedaempfte-Schwingung](https://diversewolken.ddns.net/nextcloud/index.php/s/gYaziaBmrreoNbF/download)
+
+Der Graph kann näherungsweise durch die Gleichung $s(t)=\hat{s}\cdot e^{-k\cdot t}\cdot \cos(\omega\cdot t)$ beschrieben werden. Bestimmen Sie aus dem Graphen die Größen $\hat{s}$, $k$, $\omega$ und $f$.
+
+<p style="margin-left:10%">
+
+@rangeQuiz2($\hat{s}$, 0.04 ,$m$)
+
+@rangeQuiz2($k$, 0.575 ,$\dfrac{1}{s}$)
+
+@rangeQuiz2($\omega$, 12.566 ,$\dfrac{1}{s}$)
+
+@rangeQuiz2($f$, 2 ,$Hz$)
+
+</p>
