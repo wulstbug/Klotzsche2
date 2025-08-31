@@ -373,7 +373,7 @@ $F_R = F_H = 2047 N$
 
 ![L5](https://diversewolken.ddns.net/nextcloud/index.php/s/XnSCfCAw6Jx9W9k/download)
 
-## Übungen zur schiefen Ebene
+### Übungen zur schiefen Ebene
 
 1. Kräfte zuordnnen
 
@@ -556,20 +556,276 @@ $a = g \cdot \sin\alpha$
 6. Betrachte das Beispiel _Bremsweg_ aus dem Tafelbild. Ermittle die Beschleunigung $a$, die mit der Faustformel angenommen wird. Nutze dafür die Formeln für die gleichmäßig beschleunigte Bewegung $s(t)=\frac{1}{2}\cdot a cdot t^2 + v_0 \cdot t$ und $v(t)=a\cdot t + v_0$.
 
 
-## 1.5 Berechnung eines Bremsvorgangs mit Hilfe der Newton'schen Gesetze
+## 1.5 Berechnung eines Bremsvorgangs
 
-
-
-{{1-6}}
+{{1}}
 ************
-??[PHeT-Beschleunigung](https://phet.colorado.edu/sims/html/forces-and-motion-basics/latest/forces-and-motion-basics_all.html?locale=de)
+![Bremswege](https://diversewolken.ddns.net/nextcloud/index.php/s/KzkQETj4Zpm9JkE/download)
+
+__Benenne die Wegstrecken:__
+
+| | | |
+| @color(A, blue) | @color(B, red) |@color(C, green) |
+| [[ Reaktionsweg ]]| [[ Bremsweg ]] | [[ Anhalteweg ]] |
+
+__Benenne Art der Bewegung:__
+
+| | |
+| @color(A, blue) | @color(B, red) |
+| [[ Gleichförmige Bewegung ]]| [[ Gleichmäßig beschleunigte Bewegung ]] |
+
+---
+
 ************
 
 {{2}}
 ************
-__2. Newton'sche Gesetz__
+__@color(A: Berechnung des Reaktionswegs:, blue) Gleichförmige Bewegung__
 
-Die Beschleunigung eines Körpers können wir nun mit Hilfe des zweiten Newton'schen Gesetzes berechnen:
+
+<p class="newspaper">
+
+{{3}}
+*********
+__Theorie:__
+
+Den Reaktionsweg können wir mit Hilfe der Bewegungsgesetze _Gleichförmige Bewegung_ bestimen.
+
+$$ \boxed{s(t) = v \cdot t + s_0}$$
+
+<p style="margin-left:5%">
+
+hier bedeutet
+
+<p style="margin-left:5%">
+
+     $v$ .. Fahrtgeschwindigkeit (in $\frac{m}{s}$)
+
+     $t$ .. Reaktionszeit
+
+     $s$ .. Reaktionsweg$
+
+     $s_0$ .. hier gleich Null
+
+</p>
+
+</p>
+
+*********
+
+<p class="cb">
+
+{{4}}
+*********
+__Beispiel:__
+
+Ein Fahrzeug fährt mit der Geschwindigkeit $72 \frac{km}{h}$. Die Reaktionszeit des Fahrers beträgt $1s$. Ermittle den Reaktionsweg.
+
+geg.: 
+
+<p style="margin-left:5%">
+
+     $v = 72 \frac{km}{h} = \overset{:3,6}{=} 20 \frac{m}{s}$
+
+     $t = 1s$
+
+</p>
+
+ges.:
+
+<p style="margin-left:5%">
+
+     $s$
+
+</p>
+
+Lsg.:
+
+*********
+
+{{5}}
+*********
+
+<p style="margin-left:5%">
+
+$s = v \cdot t$
+
+@rangeQuiz2($s$,20,$m$)
+
+Die __Faustformel (s. 1.4)__ ergibt eine Reaktionsstrecke von
+
+@rangeQuiz2($s$, 21.6, $m$)
+
+und ist eine [[ ( sinnvolle ) | schlechte ]] Näherung.
+
+</p>
+
+*********
+
+</p>
+
+</p>
+
+---
+
+
+
+************
+
+{{6}}
+************
+
+__@color(B: Berechnung des Bremswegs:, red) Gleichmäßig beschleunigte Bewegung__
+
+<p class="newspaper">
+
+{{7}}
+**********
+__Theorie:__
+
+Die Bremswegberechnung für eine gleichmäßig beschleunigte Bewegung (aus Kl.9) folgt aus den Bewegungsgesetzen:
+
+$ \boxed{s(t) = \frac{1}{2} \cdot a \cdot t^2 + v_0 \cdot t}$ 
+
+$ \boxed{v(t) = a \cdot t + v_0} $ 
+
+<p style="margin-left:5%">
+
+hier bedeutet
+
+<p style="margin-left:5%">
+
+     $a$ .. Bremsbeschleunigung (@color(Achtung: $a$<0 , red))
+
+     $v_0$ .. Anfangsgeschwindigkeit
+
+     $t$ .. Bremszeit
+
+</p>
+
+</p>
+**********
+
+<p class="cb">
+
+{{8}}
+**********
+
+__Beispiel:__
+
+Ein Fahrzeug hat eine Geschwindigkeit von $v=72\frac{km}{h}$. Bei einer Vollbremsung auf trockener Straße kann die Bremsbeschleunigung bis zu $-5\frac{m}{s^2}$ betragen.
+
+geg.: 
+
+<p style="margin-left:5%">
+
+     $v_0 = 72 \frac{km}{h}  \overset{:3,6}{=} 20 \frac{m}{s}$
+
+     $a = -5 \frac{m}{s^2}$
+
+</p>
+
+ges.:
+
+<p style="margin-left:5%">
+
+     $s_{brems}$
+
+</p>
+
+Lsg.:
+
+**********
+
+{{9}}
+**********
+
+<p style="margin-left:5%">
+
+Zunächst müssen wir die Bremszeit bestimmen. Dazu ist die zweite Gleichung notwendig:
+
+$v(t) = a \cdot t + v_0$
+
+Das Fahrzeug bremst während der Bremszeit $t_{brems}$ von $20\frac{m}{s}$ auf $0\frac{m}{s}$. Es gilt also:
+
+$ 0\frac{m}{s} = -5\frac{m}{s^2} \cdot t_{brems} + 20\frac{m}{s}$
+
+Die Bremszeit beträgt
+
+@rangeQuiz2($t_{brems}$,4,$s$)
+
+---
+
+{{10}}
+**********
+
+Mit der Bremszeit können wir in der ersten Gleichung den Bremsweg ausrechnen.
+
+$s_{brems} = \frac{1}{2} \cdot a \cdot t_{brems}^2 + v_0 \cdot t_{brems}$
+
+@rangeQuiz2($s_{brems}$, 40 , $m$)
+
+Die __Faustformel (s. 1.4)__ ergibt einen Bremsweg von
+
+**********
+
+</p>
+
+**********
+
+</p>
+
+</p>
+
+--- 
+************
+
+
+### KI-Aufgabe: Newton'sche Gesetze / schiefe Ebene
+
+<p style="color:blue">
+Kopiere den Prompt in das Feld der KI (nutze den Button _Kopieren_). Beantworte dann die gestellten Aufgabe.
+</p>
+
+---
+
+__Aufgabe:__<br> Beantworte die Aufträge der KI. Du kannst dein Ergebnis verbessern, oder zur nächsten Frage springen.
+
+<div class="container" style="margin-left:10%">
+__Prompt__ <br>
+<span class="text-box" id="textToCopy2"> Grundlage der folgenden Kommunikation sind die Newton'schen Axiome und die Kräfte an einer schiefen Ebene. Ich möchte dass du mir 5 Fragen aus diesen beiden Themengebieten stellst. Bitte achte darauf, dass die Antworten nicht zu lang sein müssen. Ich bin im Physikunterricht in der Klasse 10 am Gymnasium. Stelle mir eine Frage nach der anderen. Warte nach jeder Frage auf meine Antwort. Wenn meine Antwort unzureichend ist, biete mir Unterstützung an oder gib mir einen Tip, wie ich meine Antwort verbessern kann. Gib mir nicht die Lösung. Frage mich nach jeder Frage, ob ich meine Antwort verbessern möchte oder zur nächsten Frage weiter gehen will. Nach der fünften Frage möchte ich, dass du meine Antworten auf einer Skala von 1 bis 10 einschätzt und mir ein Feedback gibst.</span>
+</div>
+
+<script input="submit" style="margin-left:10%" default="Prompt Kopieren">
+        const text = document.getElementById("textToCopy2").innerText;
+        navigator.clipboard.writeText(text).then(() => {
+            alert("Text wurde in die Zwischenablage kopiert!");
+        }).catch(err => {
+            console.error("Fehler beim Kopieren: ", err);
+        });
+        "Prompt Kopieren"
+</script>
+
+---
+
+Login: phy-@color(xx,red)@gykl.ipads
+
+Passwort: phy-@color(xx,red)
+
+[KI-OpenWebUI](http://10.102.1.3:3001)
+
+## älteres
+
+
+{{3}}
+************
+__@color(B: Berechnung des Bremswegs:, red) Zweite Newton'sche Gesetz__
+
+<p class="newspaper">
+
+__Theorie:__
+
+Die (Brems-)Beschleunigung eines Körpers können wir mit Hilfe des zweiten Newton'schen Gesetzes berechnen:
 
 $$ \boxed{F_{brems} = m \cdot a}$$
 
@@ -581,9 +837,47 @@ hier bedeutet
 
      $m$ .. Masse des Körpers
 
-     $F$ .. wirkende Kraft
+     $F_{brems}$ .. wirkende Bremskraft
 
      $a$ .. Beschleunigung
+
+</p>
+
+</p>
+
+<p class="cb">
+
+__Beispiel:__
+
+Ein Fahrzeug der Masse $1500kg$ kann eine Bremskraft von $7500N$ erzeugen. Ermittle die Bremsbeschleunigung.
+
+geg.: 
+
+<p style="margin-left:5%">
+
+     $m = 2000 kg$
+
+     $F_{brems} = 7500 N$
+
+</p>
+
+ges.:
+
+<p style="margin-left:5%">
+
+     $a$
+
+</p>
+
+Lsg.:
+
+<p style="margin-left:5%">
+
+     $a = \dfrac{F_{brems}}{m} = \dfrac{7500 N}{1500 kg}$
+
+     $a = 5 \dfrac{N}{kg} = 5 \dfrac{m}{s^2}$
+
+</p>
 
 </p>
 
@@ -646,36 +940,3 @@ hier bedeutet
 </p>
 **************
 
-
-### KI-Aufgabe: Newton'sche Gesetze / schiefe Ebene
-
-<p style="color:blue">
-Kopiere den Prompt in das Feld der KI (nutze den Button _Kopieren_). Beantworte dann die gestellten Aufgabe.
-</p>
-
----
-
-__Aufgabe:__<br> Beantworte die Aufträge der KI. Du kannst dein Ergebnis verbessern, oder zur nächsten Frage springen.
-
-<div class="container" style="margin-left:10%">
-__Prompt__ <br>
-<span class="text-box" id="textToCopy2"> Grundlage der folgenden Kommunikation sind die Newton'schen Axiome und die Kräfte an einer schiefen Ebene. Ich möchte dass du mir 5 Fragen aus diesen beiden Themengebieten stellst. Bitte achte darauf, dass die Antworten nicht zu lang sein müssen. Ich bin im Physikunterricht in der Klasse 10 am Gymnasium. Stelle mir eine Frage nach der anderen. Warte nach jeder Frage auf meine Antwort. Wenn meine Antwort unzureichend ist, biete mir Unterstützung an oder gib mir einen Tip, wie ich meine Antwort verbessern kann. Gib mir nicht die Lösung. Frage mich nach jeder Frage, ob ich meine Antwort verbessern möchte oder zur nächsten Frage weiter gehen will. Nach der fünften Frage möchte ich, dass du meine Antworten auf einer Skala von 1 bis 10 einschätzt und mir ein Feedback gibst.</span>
-</div>
-
-<script input="submit" style="margin-left:10%" default="Prompt Kopieren">
-        const text = document.getElementById("textToCopy2").innerText;
-        navigator.clipboard.writeText(text).then(() => {
-            alert("Text wurde in die Zwischenablage kopiert!");
-        }).catch(err => {
-            console.error("Fehler beim Kopieren: ", err);
-        });
-        "Prompt Kopieren"
-</script>
-
----
-
-Login: phy-@color(xx,red)@gykl.ipads
-
-Passwort: phy-@color(xx,red)
-
-[KI-OpenWebUI](http://10.102.1.3:3001)
