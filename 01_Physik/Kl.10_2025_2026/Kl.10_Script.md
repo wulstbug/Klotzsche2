@@ -556,6 +556,40 @@ $a = g \cdot \sin\alpha$
 6. Betrachte das Beispiel _Bremsweg_ aus dem Tafelbild. Ermittle die Beschleunigung $a$, die mit der Faustformel angenommen wird. Nutze dafür die Formeln für die gleichmäßig beschleunigte Bewegung $s(t)=\frac{1}{2}\cdot a cdot t^2 + v_0 \cdot t$ und $v(t)=a\cdot t + v_0$.
 
 
+### KI-Aufgabe: Newton'sche Gesetze / schiefe Ebene
+
+<p style="color:blue">
+Kopiere den Prompt in das Feld der KI (nutze den Button _Kopieren_). Beantworte dann die gestellten Aufgabe.
+</p>
+
+---
+
+__Aufgabe:__<br> Beantworte die Aufträge der KI. Du kannst dein Ergebnis verbessern, oder zur nächsten Frage springen.
+
+<div class="container" style="margin-left:10%">
+__Prompt__ <br>
+<span class="text-box" id="textToCopy2"> Grundlage der folgenden Kommunikation sind die Newton'schen Axiome und die Kräfte an einer schiefen Ebene. Ich möchte dass du mir 5 Fragen aus diesen beiden Themengebieten stellst. Bitte achte darauf, dass die Antworten nicht zu lang sein müssen. Ich bin im Physikunterricht in der Klasse 10 am Gymnasium. Stelle mir eine Frage nach der anderen. Warte nach jeder Frage auf meine Antwort. Wenn meine Antwort unzureichend ist, biete mir Unterstützung an oder gib mir einen Tip, wie ich meine Antwort verbessern kann. Gib mir nicht die Lösung. Frage mich nach jeder Frage, ob ich meine Antwort verbessern möchte oder zur nächsten Frage weiter gehen will. Nach der fünften Frage möchte ich, dass du meine Antworten auf einer Skala von 1 bis 10 einschätzt und mir ein Feedback gibst.</span>
+</div>
+
+<script input="submit" style="margin-left:10%" default="Prompt Kopieren">
+        const text = document.getElementById("textToCopy2").innerText;
+        navigator.clipboard.writeText(text).then(() => {
+            alert("Text wurde in die Zwischenablage kopiert!");
+        }).catch(err => {
+            console.error("Fehler beim Kopieren: ", err);
+        });
+        "Prompt Kopieren"
+</script>
+
+---
+
+Login: phy-@color(xx,red)@gykl.ipads
+
+Passwort: phy-@color(xx,red)
+
+[KI-OpenWebUI](http://10.102.1.3:3001)
+
+
 ## 1.5 Berechnung eines Bremsvorgangs
 
 {{1}}
@@ -780,8 +814,7 @@ Die __Faustformel (s. 1.4)__ ergibt einen Bremsweg von
 --- 
 ************
 
-
-### KI-Aufgabe: Newton'sche Gesetze / schiefe Ebene
+### KI-Aufgabe: Bremsvorgänge
 
 <p style="color:blue">
 Kopiere den Prompt in das Feld der KI (nutze den Button _Kopieren_). Beantworte dann die gestellten Aufgabe.
@@ -793,7 +826,7 @@ __Aufgabe:__<br> Beantworte die Aufträge der KI. Du kannst dein Ergebnis verbes
 
 <div class="container" style="margin-left:10%">
 __Prompt__ <br>
-<span class="text-box" id="textToCopy2"> Grundlage der folgenden Kommunikation sind die Newton'schen Axiome und die Kräfte an einer schiefen Ebene. Ich möchte dass du mir 5 Fragen aus diesen beiden Themengebieten stellst. Bitte achte darauf, dass die Antworten nicht zu lang sein müssen. Ich bin im Physikunterricht in der Klasse 10 am Gymnasium. Stelle mir eine Frage nach der anderen. Warte nach jeder Frage auf meine Antwort. Wenn meine Antwort unzureichend ist, biete mir Unterstützung an oder gib mir einen Tip, wie ich meine Antwort verbessern kann. Gib mir nicht die Lösung. Frage mich nach jeder Frage, ob ich meine Antwort verbessern möchte oder zur nächsten Frage weiter gehen will. Nach der fünften Frage möchte ich, dass du meine Antworten auf einer Skala von 1 bis 10 einschätzt und mir ein Feedback gibst.</span>
+<span class="text-box" id="textToCopy2"> Grundlage der folgenden Kommunikation ist der reale Bremsvorgang bei einem Fahrzeug. Wir unterteilen dabei den Anhalteweg in den Reaktionsweg und den Bremsweg. Bitte stelle mir nacheinander folgende fünf Fragen. <br> 1. Erkläre, warum man den Anhaltweg in einen Reaktionsweg und einen Bremsweg unterteilt. <br> 2. Erkläre die unterschiedliche Art der Bewegung während des Reaktionsweges und während des Bremsweges. <br> 3. Erkläre, warum sich bei Verdopplung der der Anfangsgeschwindigkeit der Reaktionsweg verdoppelt. <br> 4. Erkläre warum sich bei Verdopplung der Geschwindigkeit der Bremsweg vervierfacht. <br> 5. Beschreibe, warum es sinnvoll ist, Faustregeln für Reaktionsweg und Bremsweg in zu kennen. <br> Ich bin im Physikunterricht in der Klasse 10 am Gymnasium. Stelle mir eine Frage nach der anderen. Warte nach jeder Frage auf meine Antwort. Wenn meine Antwort unzureichend ist, biete mir Unterstützung an oder gib mir einen Tip, wie ich meine Antwort verbessern kann. Gib mir nicht die Lösung. Frage mich nach jeder Frage, ob ich meine Antwort verbessern möchte oder zur nächsten Frage weiter gehen will. Nach der fünften Frage möchte ich, dass du meine Antworten auf einer Skala von 1 bis 10 einschätzt und mir ein Feedback gibst.</span>
 </div>
 
 <script input="submit" style="margin-left:10%" default="Prompt Kopieren">
@@ -814,8 +847,83 @@ Passwort: phy-@color(xx,red)
 
 [KI-OpenWebUI](http://10.102.1.3:3001)
 
-## älteres
 
+### Rechenaufgaben: Bremsvorgänge
+
+Ein Fahrzeug hat eine Geschwindigkeit von $108\frac{km}{h}$. Der Fahrer sieht eine Notsituation und macht eine Notbremsung.
+
+1. Schätze den Reaktionsweg mit der Faustformel ab.
+
+<p style="margin-left:10%">
+
+@rangeQuiz2($s$,32.4,$m$)
+
+</p>
+
+2. Ermittle den exaktion Reaktionsweg bei einer Reaktionszeit von $1s$.
+
+<p style="margin-left:10%">
+
+@rangeQuiz2($s$,30,$m$)
+
+</p>
+
+3. Ermittle nun mit Hilfe der Faustformel den Bremsweg.
+
+<p style="margin-left:10%">
+
+@rangeQuiz2($s$,116.64,$m$)
+
+</p>
+
+4. Ermittle (wie im Beispiel) die Bremszeit $t_{brems}$ bei einer Bremsbeschleunigung von $-5\frac{m}{s^2}$.
+
+<p style="margin-left:10%">
+
+@rangeQuiz2($t$,6,$s$)
+
+</p>
+
+5. Ermittle den exakten Bremsweg für die Beschleunigung von $a=-5 \frac{m}{s^2}$.
+
+<p style="margin-left:10%">
+
+@rangeQuiz2($s$,90,$m$)
+
+</p>
+
+Ein zweites Fahrzeug fährt mit überhöhter (doppelter) Geschwindigkeit von $216\frac{km}{h}$.
+
+6. Ermittle mit der Fausformel Reaktionsweg, Bremsweg und Anhalteweg.
+
+<p style="margin-left:10%">
+
+@rangeQuiz2($s_{reakt}$,64.8,$m$)
+
+@rangeQuiz2($s_{brems}$,466.56,$m$)
+
+@rangeQuiz2($s_{anhalte}$,531.36,$m$)
+
+</p>
+
+7. Ermittle mit den Bewegungsgleichung Reaktionsweg, Bremsweg und Anhalteweg bei $a=-5\frac{m}{s^2}$ und $t_{reakt}=1s$.
+
+<p style="margin-left:10%">
+
+@rangeQuiz2($s_{reakt}$,60,$m$)
+
+@rangeQuiz2($t_{brems}$,12,$s$)
+
+@rangeQuiz2($s_{brems}$,360,$m$)
+
+@rangeQuiz2($s_{anhalte}$,420,$m$)
+
+</p>
+
+
+# Archiv
+
+## Berechnung beschleunigte Bewegung
 
 {{3}}
 ************
