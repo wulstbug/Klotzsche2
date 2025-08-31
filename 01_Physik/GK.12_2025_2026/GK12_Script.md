@@ -104,6 +104,12 @@ $v(t) = \frac{\mathrm{d}y}{\mathrm{d}t}$ und $a(t) = \frac{\mathrm{d}v}{\mathrm{
 
 <summary> Lösung </summary>
 
+$$v_{max} = y_{max} \cdot \omega$$
+
+$$a_{max} = y_{max} \cdot \omega^2$$
+
+__Lösungsweg: Ableitung bilden__
+
 ![Loesung_9.1](https://diversewolken.ddns.net/nextcloud/index.php/s/YZRoKNqaTzAnFja/download)
 
 </details>

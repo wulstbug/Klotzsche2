@@ -84,7 +84,7 @@ Für eine @color(harmonische Schwingung, orange) gelten die Zusammenhänge:
 
 Hier beschreibt $\omega$ die @color(Kreisfrequenz, orange), die definiert ist als
 
-> $$ \omega = 2 \pi \cdot f = \dfrac{2 \pi}{T}  $$
+> $$ \omega = 2 \pi \cdot f = \dfrac{2 \pi}{T} $$
 
 und $T$ ist die @color(Periodendauer, orange).
 
@@ -95,11 +95,18 @@ Aufgabe*: Ermittle für eine harmonische Schwinung aus dem Zusammenhang $y(t)$ d
 
 $v(t) = \frac{\mathrm{d}y}{\mathrm{d}t}$ und $a(t) = \frac{\mathrm{d}v}{\mathrm{d}t}$
 
+
 <details>
 
 <summary> Lösung </summary>
 
-![Loesung_1.1](https://diversewolken.ddns.net/nextcloud/index.php/s/ad8ZNTstdoNLfpm/download)
+$$v_{max} = y_{max} \cdot \omega$$
+
+$$a_{max} = y_{max} \cdot \omega^2$$
+
+__Lösungsweg: Ableitung bilden__
+
+![Loesung_9.1](https://diversewolken.ddns.net/nextcloud/index.php/s/YZRoKNqaTzAnFja/download)
 
 </details>
 
