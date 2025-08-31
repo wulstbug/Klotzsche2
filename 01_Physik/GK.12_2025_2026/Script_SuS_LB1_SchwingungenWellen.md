@@ -812,7 +812,7 @@ Mit Hilfe der Periodendauer und der Federkonstante lässt sich mit der Formel $T
 
 ---
 
-2. 5. Ermitteln Sie die maximale Auslenkung des Systems. Nutzen Sie dazu die Zusammenhänge für $y_{max}$ aus $v_{max}$ aus Teil 1.
+2. 5. Ermitteln Sie die maximale Auslenkung des Systems. Nutzen Sie dazu die Zusammenhänge für $y_{max}$ aus $v_{max}$ aus _1. Beschreibung einer mechanischen Schwingung_.
 
 <p style="margin-left:10%">
 
@@ -824,7 +824,8 @@ Mit Hilfe der Periodendauer und der Federkonstante lässt sich mit der Formel $T
 
 <summary> Hinweise zur Lösung </summary>
 
-In der Aufgabe aus 1. wurde gezeigt, dass
+In der Aufgabe aus _1. Beschreibung einer mechanischen Schwingung_
+ wurde gezeigt, dass
 
 $$y(t) = y_{max} \cdot \sin(\omega\cdot t)$$
 
