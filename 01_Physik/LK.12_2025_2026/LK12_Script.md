@@ -1602,6 +1602,86 @@ Die Gravitationskraft, die auf den Geologen wirkt, hängt wie folgt vom Abstand 
 
 </details>
 
+
+
+### Aufgabe Spielkonsole
+
+![Skizze-Spielkonsole](https://diversewolken.ddns.net/nextcloud/index.php/s/wKS48wrDdHBqy2R/download)<!-- style="max-height:200px" --> In der Fernbedienung einer Spielekonsole ist ein Beschleunigungs­sen­sor eingebaut, der die Beschleunigung in vertikaler Richtung misst. Die Fernbedienung hat die Masse 300 g und hängt an einer Feder mit vernachlässigbarer Masse (siehe Abb. 1). Nachdem die Fernbedienung nach unten ausgelenkt und zum Zeitpunkt 0 s los­gelassen wurde, schwingt sie harmonisch. Ihre Signale werden von einem Computer erfasst und ausgewertet. Es ergeben sich unten dargestellte Messwerte. 
+
+__Messwerte:__
+
+![Messwerte](https://diversewolken.ddns.net/nextcloud/index.php/s/NpcGbBgmz9aqNzA/download)
+
+1. Zeichnen Sie das zugehörige Zeit-Beschleunigungs-Diagramm.
+
+<details style="margin-left:10%">
+
+<summary> Lösung </summary>
+
+![Lsg-1](https://diversewolken.ddns.net/nextcloud/index.php/s/KnoRnn5CbCMYAGb/download)
+
+</details>
+
+---
+
+2. Ermitteln Sie daraus die Schwingungsdauer.
+
+<p style="margin-left:10%">
+
+@rangeQuiz2($T$, 1.6 ,$s$)
+
+</p>
+
+3. Geben Sie eine Funktionsgleichung für die Beschleunigung a(t) an.
+
+<details style="margin-left:10%">
+
+<summary> Lösung </summary>
+
+$$ \omega = \frac{2\pi}{T} = 3,39 \frac{1}{s} $$
+
+$$ a(t) = \hat{a} \cdot \cos(\omega \cdot t) = 4,6m \cdot \cos(3.93 \frac{1}{s} \cdot t) $$
+
+</details>
+
+---
+
+4. Bestimmen Sie, zu welchen Zeitpunkten im Intervall zwischen 0 s und 1,5 s der Geschwindigkeitsbetrag der Fernbedienung maximal ist.
+
+<p style="margin-left:10%">
+
+@rangeQuiz2($t_{v_{max}1}$, 0.4 ,$s$)
+
+@rangeQuiz2($t_{v_{max}2}$, 1.2 ,$s$)
+
+</p>
+
+---
+
+5. Berechnen Sie die maximale Auslenkung und die maximale Geschwin­digkeit.
+
+<p style="margin-left:10%">
+
+@rangeQuiz2($y_{max}$, 0.298 ,$m$)
+
+@rangeQuiz2($v_{max}$, 1.17 ,$\frac{m}{s}$)
+
+</p>
+
+---
+
+6. Berechnen Sie die Federkonstante.
+
+<p style="margin-left:10%">
+
+@rangeQuiz2($D$, 4.63 ,$\frac{N}{m}$)
+
+</p>
+
+| | | | | | | |
+| $t$ in $s$ | 0,0 | 0,2 | 0,4 | 0,5 | 0,7 | 1,0 |
+| $a$ in $\frac{m}{s^2}$ | 4,60 | 3,25 | 0,00 | –1,76 | – 4,25 | –3,25 |
+
 ## 9. 10. Grundlagen Elektromagnetischer Schwingkreis
 
 __Aufbau:__
