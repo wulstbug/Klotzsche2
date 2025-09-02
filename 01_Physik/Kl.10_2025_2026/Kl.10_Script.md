@@ -637,7 +637,7 @@ hier bedeutet
 
      $t$ .. Reaktionszeit
 
-     $s$ .. Reaktionsweg$
+     $s$ .. Reaktionsweg
 
      $s_0$ .. hier gleich Null
 
@@ -800,6 +800,13 @@ $s_{brems} = \frac{1}{2} \cdot a \cdot t_{brems}^2 + v_0 \cdot t_{brems}$
 @rangeQuiz2($s_{brems}$, 40 , $m$)
 
 Die __Faustformel (s. 1.4)__ ergibt einen Bremsweg von
+
+
+
+@rangeQuiz2($s$, 51.84, $m$)
+
+und ist eine [[ ( sinnvolle ) | schlechte ]] Näherung.
+
 
 **********
 
