@@ -94,7 +94,7 @@ __Erklärung:__ Für einen exakten Brennpunkt ist die perfekte Spiegelform eine 
 
 <details>
 
-<summary> __Aufgabenteil 1:__ </summary>
+<summary> __Aufgabenteil 1: Hauptspiegel__ </summary>
 
 <p style="margin:5%">
 
@@ -162,3 +162,27 @@ __Erklärung:__ Für einen exakten Brennpunkt ist die perfekte Spiegelform eine 
 
 </details>
 
+
+<details>
+
+<summary> __Aufgabenteil 2: Sekundärspiegel__ </summary>
+
+<p style="margin:5%">
+
+Damit das Hubble-Teleskop eine kompakte Bauweise erhält, besitzt es einen zweiten parabelförmigen Hohlspiegel.
+
+![Sekundärspiegel-Hubble](https://diversewolken.ddns.net/nextcloud/index.php/s/zz2YEtEYfaSoJpy/download)
+
+Ergänze in deiner Zeichnung einen zweiten Hohlspiegel (Sekundärspiegel, welcher das Licht zurückwirft und die Abbildung kompakter machtn.)
+
+1. Wechsle in einem weiteren Fenster [hier zu Geogebra](https://www.geogebra.org/classroom/dmvmdyvu) und bearbeite folgende Anleitung. Gehe zu @color(Weiter ohne Anmeldung, orange) und nutze deinen Vornamen oder deine Initialien.
+
+2. Füge einen zweiten Punkt (links vom ersten Brennpunkt) und eine zweite Gerade parallel zur y-Achse (zwischen erstem Brennpunkt und y-Achse ein).
+
+3. Erstelle nun einen zweiten Spiegel (Sekundärspiegel, der nach außen gewölbt ist). Reflektiere den am Hauptspiegel reflektierten Lichtstrahl am Sekundärspiegel. Zeige seine Spur an. Verändere den Sekundärspiegel (über den Punkt und die Gerade) so, dass ein Brennpunkt erscheint.
+
+![Sekundärspiegel](https://diversewolken.ddns.net/nextcloud/index.php/s/ryz8AxFnbg9DzkT/download)
+
+</p>
+
+</details>
