@@ -85,8 +85,6 @@ Entschlüssele anschließend den folgenden Text: __BUZRG ZZIUA KNZAC FYLHU CDRKZ
 
 Ergebnis: [[NACHS CHUBF UERGR UPPES IEBEN]]
 
-
-
 ## 4. Vignere Verschlüsselung
 
 ![Tabelle](https://diversewolken.ddns.net/nextcloud/index.php/s/9e6RB6rCAfd73nx/download)
