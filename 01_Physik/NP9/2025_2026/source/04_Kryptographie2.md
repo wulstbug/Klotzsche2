@@ -52,7 +52,7 @@ __Übung:__
 2.: Entschlüssle das Wort __NSHKPHAVYLU__ mit Schlüssel 7: Lösung [[GLADIATOREN]].
 
 
-## 2. Gartenzaunmethode
+## Übung Gartenzaunmethode
 
 1. Entschlüssele mit dem Gartenzaun: __HXNUKLEEBCE__
 
@@ -63,15 +63,15 @@ __Übung:__
      Lösung (Großbuchstaben, ohne Leerzeichen): [[HERRFUCHSUNDFRAUELSTER]]
 
 
-## 3. Entschlüsseln mit Enigma
+## Übung Entschlüsseln mit Enigma
 
 > Öffne die App Mininigma auf dem Tablet
 
 1. Nutze die Walzenstellung: __F Z P__
 
-Entschlüssele den folgenden Text: __WNQVV CQWOD CXVAK RBUER__
+Entschlüssele den folgenden Text: __WNQV VCQW ODCX VAKR BUER__
 
-[[SAMME LPUNK TISTQ FUENF]]
+[[SAMM ELPU NKTI STQF UENF]]
 
 2. Nutze die Walzenstellung: __H X Z__
 
@@ -81,9 +81,9 @@ Nutze den verschlüsselten Text als Walzeneinstellung.
 
 Zwischenlösung: [[EQW]]
 
-Entschlüssele anschließend den folgenden Text: __BUZRG ZZIUA KNZAC FYLHU CDRKZ__
+Entschlüssele anschließend den folgenden Text: __BUZR GZZI UAKN ZACF YLHU CDRK Z__
 
-Ergebnis: [[NACHS CHUBF UERGR UPPES IEBEN]]
+Ergebnis: [[NACH SCHU BFUE RGRU PPES IEBE N]]
 
 ## 4. Vignere Verschlüsselung
 
