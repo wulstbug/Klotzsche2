@@ -99,3 +99,15 @@ __Aufgaben:__
 2. Entschlüssle den Text __NZFHWXPJKZ__ mit dem Passwort __GESUND__:
 
      [[ GUMMITIERE ]]
+
+3. Verschlüssele das Wort __ABITURPRUEFUNG__ mit dem Passwort __GYM__
+
+     [[ HAVATEWQHLEHUF ]]
+
+4. Entschlüssele das Wort __SFAWMHLFDQ__ mit dem Passwort __LEICHT__
+
+     [[ GARTENZAUN ]]
+
+5. Finde das Passwort für den Text KATZENFUTTER und den verschlüsselten Text __XBOS ROAN GUZK__ 
+
+     [[ MAUS ]]
