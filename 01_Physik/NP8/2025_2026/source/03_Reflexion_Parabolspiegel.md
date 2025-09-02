@@ -87,7 +87,9 @@ mode: presentation
 
 -->
 
-### Konstruktionsanleitung: Reflexion an einem sphärischen Spiegel
+### Konstruktionsanleitung: Reflexion an einem Parabolspiegel
+
+__Erklärung:__ Für einen exakten Brennpunkt ist die perfekte Spiegelform eine Parabel. Wir werden in diesem Abschnitt statt einer kugelförmigen Spiegelfläche eine Parabel verwenden.    
 
 
 <details>
@@ -102,18 +104,19 @@ mode: presentation
 
      ![Koord](https://diversewolken.ddns.net/nextcloud/index.php/s/pGEcgSo6YKCakip/download)
 
-3. Setze einen Punkt (Mittelpunkt des kreisförmigen Spiegels auf den Koordinatenursprung). Benenne ihn mit M.
-
-     ![Sph-Hs3](https://diversewolken.ddns.net/nextcloud/index.php/s/n3NXmqosdm7qQMK/download)
-
-4. Für den Kreisbogen benötigen wir zwei weitere Punkte. Setze einen Punkt B = (18,-3) und einen Punkt C = (18,3). Trage dazu in die Eingabezeile ein:
+3. Für eine Parabel benötigen wir eine Gerade und einen Punkt. Die Gerade wird die y-Achse sein. Setze einen Punkt auf die Koordinate (-10,0). Tipp dazu:
 
 <p style="color:red;margin-left:10%">
-B= (18,-3) <br>
-C= (18,3)
+     P= (-10,0) <br>
+</p>
 
+4. Nun erstellen wir die parabelförmige Spiegelfläche (Parabolspiegel). Wähle dazu Parabel, klicke dann auf den Punkt P und anschließend auf die y-Achse.
 
-     ![Sph-Hs4](https://diversewolken.ddns.net/nextcloud/index.php/s/NJjo4gXMNagnRzb/download)
+<p style="color:red;margin-left:10%">
+
+     ![Para-Hs4.1](https://diversewolken.ddns.net/nextcloud/index.php/s/nxc5GnMt3ng9ziT/download)
+
+     ![Para-Hs4.2](https://diversewolken.ddns.net/nextcloud/index.php/s/WQPPsWpQiaHG8mA/download)
 
 </p>
 
