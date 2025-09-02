@@ -108,6 +108,6 @@ __Aufgaben:__
 
      [[ GARTENZAUN ]]
 
-5. Finde das Passwort für den Text KATZENFUTTER und den verschlüsselten Text __XBOS ROAN GUZK__ 
+5. Finde das Passwort für den unverschlüsselten Text __KATZENFUTTER__ und den verschlüsselten Text __XBOS ROAN GUZK__ 
 
      [[ MAUS ]]
