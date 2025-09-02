@@ -23,7 +23,7 @@ mode: presentation
 icon:   https://diversewolken.ddns.net/klotzsche/logo.jpg
 -->
 
-Checkliste zur 1. LK 
+__Checkliste zur 1. LK __
 
 - Beschreibung einer harmonischen mechanischen Schwingung y(t), v(t), a(t) und Ermittlung der Maximalgeschwindigkeit / Beschleunigung
 
