@@ -43,7 +43,7 @@ window.LIA.settings.font_size = 2
 
 # Passwortverschlüsselung (Vigneré Verschlüsselung)
 
-> Löse die Aufgaben 1. - 3. (Pfeiltaste nach links)
+> Löse die Aufgaben 1. - 3. (Pfeiltaste nach rechtsdai)
 
 
 ## 1. Übung Caesar - Verschlüsselung
