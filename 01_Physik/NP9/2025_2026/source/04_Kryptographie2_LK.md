@@ -55,10 +55,10 @@ window.LIA.settings.font_size = 3
 
 !?[VignereVerschlüsselung]()
 
-# Stundeninhalt Kryptographie II - Teil 3 (ca. 20 min)
+# Stundeninhalt Kryptographie II - Teil 3 (ca. 30 min)
 
 > Tablets zurück in den Schrank an den Strom anschließen
 >
-> Video zu Alain Turing beenden (ab Minute 25 bis Ende)
+> Video zu Alain Turing anschauen (ab Minute 35 bis Ende)
 
 !?[Alain](https://diversewolken.ddns.net/nextcloud/index.php/s/MLc5xy9AaAxGJEQ/download)
