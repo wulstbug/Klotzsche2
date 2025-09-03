@@ -53,7 +53,7 @@ window.LIA.settings.font_size = 3
 >
 > 2. Tablets aufklappen -> 4.2 Vignere Verschlüsselung üben 
 
-!?[VignereVerschlüsselung](https://diversewolken.ddns.net/nextcloud/index.php/s/mgFP3z7LEggQWMJ/download)
+!?[VignereVerschlüsselung](https://youtu.be/_j6hV3ciNlQ)
 
 # Stundeninhalt Kryptographie II - Teil 3 (ca. 30 min)
 
