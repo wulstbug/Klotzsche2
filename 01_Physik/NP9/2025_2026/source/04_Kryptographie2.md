@@ -43,16 +43,20 @@ window.LIA.settings.font_size = 2
 
 # Passwortverschlüsselung (Vigneré Verschlüsselung)
 
-## Übung Caesar - Verschlüsselung
+## 1. Übung Caesar - Verschlüsselung
 
 __Übung:__
 
-1.: Entschlüssele mit (Schlüssel +3) __EDXPKDXV__: Lösung: [[BAUMHAUS]]
+1. Entschlüssele mit (Schlüssel +3) __EDXPKDXV__: Lösung: [[BAUMHAUS]]
 
-2.: Entschlüssle das Wort __NSHKPHAVYLU__ mit Schlüssel 7: Lösung [[GLADIATOREN]].
+2. Entschlüssle das Wort __NSHKPHAVYLU__ mit Schlüssel 7: Lösung [[GLADIATOREN]]
+
+3. Verschlüssele das Wort __TRAUM__ mit Schlüsser 3: Lösung: [[WUDXP]]
+
+4. Entschlüssele das Wort __DSIHO__ mit Schlüssel 3: Lösung: [[DSHIO]]
 
 
-## Übung Gartenzaunmethode
+## 2. Übung Gartenzaunmethode
 
 1. Entschlüssele mit dem Gartenzaun: __HXNUKLEEBCE__
 
@@ -62,8 +66,16 @@ __Übung:__
 
      Lösung (Großbuchstaben, ohne Leerzeichen): [[HERRFUCHSUNDFRAUELSTER]]
 
+3. Verschlüssele mit dem Gartenzaun: [[SCHEUERHADER]]
 
-## Übung Entschlüsseln mit Enigma
+     Lösung (Großbuchstaben, ohne Leerzeichen): [[SHURAECEEHDR]]
+
+4. Entschlüssele mit dem Gartenzaun: [[SHETRIGCMTELN]]
+
+     Lösung (Großbuchstaben, ohne Leerzeichen): [[SCHMETTERLING]]
+
+
+## 3. Übung Entschlüsseln mit Enigma
 
 > Öffne die App Mininigma auf dem Tablet
 
@@ -85,10 +97,92 @@ Entschlüssele anschließend den folgenden Text: __BUZR GZZI UAKN ZACF YLHU CDRK
 
 Ergebnis: [[NACH SCHU BFUE RGRU PPES IEBE N]]
 
-## 4. Vignere Verschlüsselung
+## 4.1 Vigenere Verschlüsselung - Erklärung zum Lesen
+
 
 ![Tabelle](https://diversewolken.ddns.net/nextcloud/index.php/s/9e6RB6rCAfd73nx/download)
 
+Wähle einen Text und einen Schlüssel. <br> {1}{z.B. Text: __HEXEN__ <br> Schlüssel: __ABC__}
+
+{{2-3}}
+**************
+1. Ordne jedem Buchstaben des Textes die entsprechende Zahl (Position) im Alphabet zu.
+
+| | | | | |
+| H | E | X | E | N |
+| 8 | 5 | 24 | 5 | 14 |
+*************
+
+{{3-4}}
+***********
+1. Ordne jedem Buchstaben des Textes die entsprechende Zahl (Position) im Alphabet zu. <br>
+2. Ordne jedem Buchstaben des Schlüssels die entsprechende Zahl (Position) im Alphabet zu, wiederhole des Schlüssel von vorn, wenn er zu kurz ist.
+
+| | | | | |
+| H | E | X | E | N |
+| 8 | 5 | 24 | 5 | 14 |
+| A | B | C | A | B |
+| 1 | 2 | 3 | 1 | 2 |
+*************
+
+{{4-5}}
+*************
+1. Ordne jedem Buchstaben des Textes die entsprechende Zahl (Position) im Alphabet zu. <br>
+2. Ordne jedem Buchstaben des Schlüssels die entsprechende Zahl (Position) im Alphabet zu, wiederhole des Schlüssel von vorn, wenn er zu kurz ist.
+3. Addiere die aufgeschriebenen Zahlen.
+
+| | | | | |
+| H | E | X | E | N |
+| 8 | 5 | 24 | 5 | 14 |
+| A | B | C | A | B |
+| +1 | +2 | +3 | +1 | +2 |
+|---|---|---|---|---|
+| 9 | 7 | 27 | 6 | 16|
+*************
+
+{{5-6}}
+*************
+1. Ordne jedem Buchstaben des Textes die entsprechende Zahl (Position) im Alphabet zu. <br>
+2. Ordne jedem Buchstaben des Schlüssels die entsprechende Zahl (Position) im Alphabet zu, wiederhole des Schlüssel von vorn, wenn er zu kurz ist.
+3. Addiere die aufgeschriebenen Zahlen.
+4. Subtrahiere 26, wenn der Wert größer als 26 ist.
+
+| | | | | |
+| H | E | X | E | N |
+| 8 | 5 | 24 | 5 | 14 |
+| A | B | C | A | B |
+| +1 | +2 | +3 | +1 | +2 |
+|---|---|---|---|---|
+| 9 | 7 | 27-26=1 | 6 | 16|
+*************
+
+
+{{6}}
+*************
+1. Ordne jedem Buchstaben des Textes die entsprechende Zahl (Position) im Alphabet zu. <br>
+2. Ordne jedem Buchstaben des Schlüssels die entsprechende Zahl (Position) im Alphabet zu, wiederhole des Schlüssel von vorn, wenn er zu kurz ist.
+3. Addiere die aufgeschriebenen Zahlen.
+4. Subtrahiere 26, wenn der Wert größer als 26 ist.
+5. Übersetze die berechneten Zahlen in den verschlüsselten Text.
+
+| | | | | |
+| H | E | X | E | N |
+| 8 | 5 | 24 | 5 | 14 |
+| A | B | C | A | B |
+| +1 | +2 | +3 | +1 | +2 |
+| __I__ | __G__ | __A__ | __F__ | __P__ |
+| 9 | 7 | 1 | 6 | 16 |
+*************
+
+{{7}}
+*************
+Verschlüsselter Text: __IGAFP__
+*************
+
+
+## 4.2 Vigenere Verschlüsselung - Zum Üben
+
+![Tabelle](https://diversewolken.ddns.net/nextcloud/index.php/s/9e6RB6rCAfd73nx/download)
 
 __Aufgaben:__
 
@@ -96,18 +190,22 @@ __Aufgaben:__
 
      [[ MDMW ]]
 
-2. Entschlüssle den Text __NZFHWXPJKZ__ mit dem Passwort __GESUND__:
+2. Verschlüssele den Text __LIEBLINGSESSEN__ mit dem Passwort __BURGER__:
 
-     [[ GUMMITIERE ]]
+     [[ NDWIQAPBKLXKGI ]]
 
 3. Verschlüssele das Wort __ABITURPRUEFUNG__ mit dem Passwort __GYM__
 
      [[ HAVATEWQHLEHUF ]]
 
-4. Entschlüssele das Wort __SFAWMHLFDQ__ mit dem Passwort __LEICHT__
+4. Entschlüssle den Text __NZFHWXPJKZ__ mit dem Passwort __GESUND__:
+
+     [[ GUMMITIERE ]]
+
+5. Entschlüssele das Wort __SFAWMHLFDQ__ mit dem Passwort __LEICHT__
 
      [[ GARTENZAUN ]]
 
-5. Finde das Passwort für den unverschlüsselten Text __KATZENFUTTER__ und den verschlüsselten Text __XBOS ROAN GUZK__ 
+6. Finde das Passwort für den unverschlüsselten Text __KATZENFUTTER__ und den verschlüsselten Text __XBOS ROAN GUZK__ 
 
      [[ MAUS ]]

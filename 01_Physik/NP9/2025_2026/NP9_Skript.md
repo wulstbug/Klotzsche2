@@ -504,8 +504,8 @@ Verschlüssele das Wort _EISENBAHN_ mit der Enigma
 
 
 Entschlüss
+## 4.1 Vigenere Verschlüsselung - Erklärung zum Lesen
 
-## 4. Vignere Verschlüsselung
 
 ![Tabelle](https://diversewolken.ddns.net/nextcloud/index.php/s/9e6RB6rCAfd73nx/download)
 
@@ -586,25 +586,34 @@ Wähle einen Text und einen Schlüssel. <br> {1}{z.B. Text: __HEXEN__ <br> Schl�
 Verschlüsselter Text: __IGAFP__
 *************
 
+
+## 4.2 Vigenere Verschlüsselung - Zum Üben
+
+![Tabelle](https://diversewolken.ddns.net/nextcloud/index.php/s/9e6RB6rCAfd73nx/download)
+
 __Aufgaben:__
 
 1. Verschlüssele den Text __HUHN__ mit dem Passwort __EI__:
 
      [[ MDMW ]]
 
-2. Entschlüssle den Text __NZFHWXPJKZ__ mit dem Passwort __GESUND__:
+2. Verschlüssele den Text __LIEBLINGSESSEN__ mit dem Passwort __BURGER__:
 
-     [[ GUMMITIERE ]]
+     [[ NDWIQAPBKLXKGI ]]
 
 3. Verschlüssele das Wort __ABITURPRUEFUNG__ mit dem Passwort __GYM__
 
      [[ HAVATEWQHLEHUF ]]
 
-4. Entschlüssele das Wort __SFAWMHLFDQ__ mit dem Passwort __LEICHT__
+4. Entschlüssle den Text __NZFHWXPJKZ__ mit dem Passwort __GESUND__:
+
+     [[ GUMMITIERE ]]
+
+5. Entschlüssele das Wort __SFAWMHLFDQ__ mit dem Passwort __LEICHT__
 
      [[ GARTENZAUN ]]
 
-5. Finde das Passwort für den unverschlüsselten Text __KATZENFUTTER__ und den verschlüsselten Text __XBOS ROAN GUZK__ 
+6. Finde das Passwort für den unverschlüsselten Text __KATZENFUTTER__ und den verschlüsselten Text __XBOS ROAN GUZK__ 
 
      [[ MAUS ]]
 
