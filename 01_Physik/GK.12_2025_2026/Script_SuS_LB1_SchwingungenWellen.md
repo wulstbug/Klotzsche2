@@ -631,7 +631,9 @@ Erstellen Sie mit Hilfe der Simulation einen Schwingkreis, den Sie eine Batterie
 
 </p>
 
+### Inputvideo zu 5.1
 
+!?[Input-Video-5-1]()
 
 ### 5. 1. Eigenschaften idealer und realer Schwingkreise
 
