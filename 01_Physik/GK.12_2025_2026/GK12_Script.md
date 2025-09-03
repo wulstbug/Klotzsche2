@@ -694,6 +694,11 @@ Erstellen Sie mit Hilfe der Simulation einen Schwingkreis, den Sie über einen W
 </p>
 **********
 
+
+### Inputvideo zu 5.1
+
+!?[Input-Video-5-1](https://youtu.be/R3blqyJjkV0)
+
 ### 5. 1. Eigenschaften idealer und realer Schwingkreise
 
 -> [Simulation-Schwingkreis-Fendt](https://www.zum.de/ma/fendt/phde/oscillatingcircuit_de.htm)
