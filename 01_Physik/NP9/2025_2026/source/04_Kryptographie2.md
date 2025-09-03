@@ -29,7 +29,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 @end
 
-mode: textbook
+mode: presentation
 
 @onload
 window.LIA.settings.font_size = 2
@@ -42,6 +42,9 @@ window.LIA.settings.font_size = 2
 -->
 
 # Passwortverschlüsselung (Vigneré Verschlüsselung)
+
+> Löse die Aufgaben 1. - 3. (Pfeiltaste nach links)
+
 
 ## 1. Übung Caesar - Verschlüsselung
 
