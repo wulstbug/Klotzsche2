@@ -648,11 +648,11 @@ Erstellen Sie mit Hilfe der Simulation einen Schwingkreis, den Sie eine Batterie
 
 Nutzen Sie für die folgende Aufgabe die Simulation:
 
-1. Erstellen Sie einen idealen Schwingkreis. Der Kondensator soll zunächst mit 10V aufgeladen werden. Ergänzen Sie dazu zwei Schalter und eine Batterie (anklicken -> 10V).
+1. Erstellen Sie einen idealen Schwingkreis. Der Kondensator soll zunächst mit 10V aufgeladen werden. Ergänzen Sie dazu zwei Schalter und eine Batterie (anklicken -> $10V$).
 
 ---
 
-2. Ändern Sie die Induktivität der Spule zu $2 H$ und die Kapazität des Kondensators zu $0,2 F$. Berechnen Sie die Frequenz der Schwingung.
+2. Ändern Sie die Induktivität der Spule zu $2\,\mathrm{H}$ und die Kapazität des Kondensators zu $0,2\,\mathrm{F}$. Berechnen Sie die Frequenz der Schwingung.
 
 <p style="margin-left:10%">
 
@@ -725,7 +725,6 @@ $$ k \approx 0.174 \frac{1}{s}$$
 </details>
 
 </details>
-
 
 </p>
 
