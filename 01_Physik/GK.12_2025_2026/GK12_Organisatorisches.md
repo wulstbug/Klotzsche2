@@ -31,13 +31,13 @@ __Checkliste zur 1. LK __
 
 - Verständnis des Messens einer Periodendauer am Beispiel des Federschwingers
 
-- Energieumwandlungen bei mechanische Schwingungen
+- Energieumwandlungen bei mechanischen Schwingungen
 
-- realer idealer mechansicher Schwinger
+- realer/idealer mechanischer Schwinger
 
 - Aussagen zu mechanischen Schwingungen einschätzen
 
-- Grundlagen des elektrischen Schwingkreises
+- Grundlagen des elektrischen Schwingkreises (Energieumwandlungen)
 
 - Eigenschaften des elektrischen Schwingkreises (Periodendauer, idealer/realer Schwingkreis)
 
