@@ -1081,19 +1081,7 @@ hier bedeutet
 
 ## Begriff aus dem Video
 
-<details>
+-> [Begriffe-Aus-Dem-Video-10a](https://liascript.github.io/nightly/?eyJiYWNrZW5kIjoiR1VOfHR8aHR0cHM6Ly9wZWVyLndhbGxpZS5pby9ndW4iLCJjb3Vyc2UiOiJodHRwczovL3Jhdy5naXRodWJ1c2VyY29udGVudC5jb20vd3Vsc3RidWcvS2xvdHpzY2hlMi8yMDI1XzIwMjYvMDFfUGh5c2lrL0tsLjEwXzIwMjVfMjAyNi9zb3VyY2UvTEIxXzEwYS5tZCIsInJvb20iOiIxMGFQaHlzaWNzIn0=#23)
 
-<summary> Begriffe 10a </summary>
-
-??[Begriffe-Aus-Dem-Video-10a](https://liascript.github.io/nightly/?eyJiYWNrZW5kIjoiR1VOfHR8aHR0cHM6Ly9wZWVyLndhbGxpZS5pby9ndW4iLCJjb3Vyc2UiOiJodHRwczovL3Jhdy5naXRodWJ1c2VyY29udGVudC5jb20vd3Vsc3RidWcvS2xvdHpzY2hlMi8yMDI1XzIwMjYvMDFfUGh5c2lrL0tsLjEwXzIwMjVfMjAyNi9zb3VyY2UvTEIxXzEwYS5tZCIsInJvb20iOiIxMGFQaHlzaWNzIn0=#23)
-
-</details>
-
-<details>
-
-<summary> Begriffe 10b </summary>
-
-??[Begriffe-Aus-Dem-Video-10b](https://liascript.github.io/nightly/?eyJiYWNrZW5kIjoiR1VOfHR8aHR0cHM6Ly9wZWVyLndhbGxpZS5pby9ndW4iLCJjb3Vyc2UiOiJodHRwczovL3Jhdy5naXRodWJ1c2VyY29udGVudC5jb20vd3Vsc3RidWcvS2xvdHpzY2hlMi8yMDI1XzIwMjYvMDFfUGh5c2lrL0tsLjEwXzIwMjVfMjAyNi9zb3VyY2UvTEIxXzEwYi5tZCIsInJvb20iOiIxMGJQaHlzaWNzIn0=#24)
-
-</details>
+-> ??[Begriffe-Aus-Dem-Video-10b](https://liascript.github.io/nightly/?eyJiYWNrZW5kIjoiR1VOfHR8aHR0cHM6Ly9wZWVyLndhbGxpZS5pby9ndW4iLCJjb3Vyc2UiOiJodHRwczovL3Jhdy5naXRodWJ1c2VyY29udGVudC5jb20vd3Vsc3RidWcvS2xvdHpzY2hlMi8yMDI1XzIwMjYvMDFfUGh5c2lrL0tsLjEwXzIwMjVfMjAyNi9zb3VyY2UvTEIxXzEwYi5tZCIsInJvb20iOiIxMGJQaHlzaWNzIn0=#24)
 
