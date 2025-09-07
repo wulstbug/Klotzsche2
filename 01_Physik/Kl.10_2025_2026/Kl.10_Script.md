@@ -928,9 +928,11 @@ Ein zweites Fahrzeug fährt mit überhöhter (doppelter) Geschwindigkeit von $21
 </p>
 
 
-# Archiv
 
-## Berechnung beschleunigte Bewegung
+
+## Archiv
+
+### Berechnung beschleunigte Bewegung
 
 {{3}}
 ************
@@ -1055,6 +1057,7 @@ hier bedeutet
 </p>
 **************
 
+
 ### Übungen zur LK bei Moodle
 
 > Logge dich bei Moodle ein und erledige die Testaufgaben
@@ -1064,3 +1067,29 @@ hier bedeutet
 [Moodle-09.09.25-ÜbungNewtonscheGesetzeKräfteBremsbewegung-10a](https://diversewolken.ddns.net/moodle/mod/quiz/view.php?id=605)
 
 [Moodle-09.09.25-ÜbungNewtonscheGesetzeKräfteBremsbewegung-10b](https://diversewolken.ddns.net/moodle/mod/quiz/view.php?id=607)
+
+
+# LB II Schwingungen
+
+![Schwingungen](https://cmscollege.ac.in/wp-content/uploads/2024/01/physics_image.webp)
+
+## Einführungsvideo
+
+!?[Motivationsvideo](https://diversewolken.ddns.net/nextcloud/index.php/f/719652/download)
+
+## Survey
+
+Please enter some spaces at first:
+
+[[___]]
+<script>
+  let input = `@input`.trim()
+
+  if (input.length > 4) {
+    true
+  } else if (input.length == 0) {
+    send.lia("Please enter some text", [], false)
+  } else {
+    send.lia("Please provide some meaningful input", [], false)
+  }
+</script>
