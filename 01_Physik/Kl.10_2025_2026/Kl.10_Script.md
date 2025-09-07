@@ -1079,7 +1079,7 @@ hier bedeutet
 
 !?[Motivationsvideo](https://diversewolken.ddns.net/nextcloud/index.php/f/719652/download)
 
-## Begriff aus dem Video
+## Begriffe aus dem Video
 
 -> [Begriffe-Aus-Dem-Video-10a](https://liascript.github.io/nightly/?eyJiYWNrZW5kIjoiR1VOfHR8aHR0cHM6Ly9wZWVyLndhbGxpZS5pby9ndW4iLCJjb3Vyc2UiOiJodHRwczovL3Jhdy5naXRodWJ1c2VyY29udGVudC5jb20vd3Vsc3RidWcvS2xvdHpzY2hlMi8yMDI1XzIwMjYvMDFfUGh5c2lrL0tsLjEwXzIwMjVfMjAyNi9zb3VyY2UvTEIxXzEwYS5tZCIsInJvb20iOiIxMGFQaHlzaWNzIn0=#23)
 
