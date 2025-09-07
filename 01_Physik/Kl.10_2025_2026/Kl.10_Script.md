@@ -1089,10 +1089,15 @@ hier bedeutet
 
 {{1}}
 ************
-> Definition: Wir beobachten eine Größe $B$. Der Wert von B zum Zeitpunkt t wird mit $B(t)$ bezeichnet. Wir nennen B eine <span style="color:orange">***periodische Größe***</span>, wenn sich die Werte von B nach einer bestimmten Zeit T wiederholen.
-Es soll gelten:
-
+> Definition: Ein @color(periodischer Vorgang, orange) beschreibt einen Ablauf, bei dem einer bestimmten Zeit $T$ (@color(Periodendauer, red)) der ursprüngliche Zustand wieder eintritt, d.h. er @color(wiederholt sich, orange).
+>
+> Betrachten wir eine physikalische Größe $B$, so ist der Wert der Größe zum Zeitpunkt $t$ und zum Zeitpunkt $t+T$ identisch.
+>
 > $$ B(t) = B(t+T) $$ <br> _In Worten: Der Wert von B zum Zeitpunkt t ist genauso groß, wie der Wert von B zum Zeitpunkt t+T._
-
+>
 > <span style="color:red">***T heißt Periodendauer ***</span> von B
+
+__@color(Notiere zwei bis drei Beispiele für periodische Vorgänge. Trenne sie mit Komma:, blue)__
+
+[[___]]
 ************
