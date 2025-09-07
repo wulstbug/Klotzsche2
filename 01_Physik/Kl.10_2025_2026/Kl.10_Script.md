@@ -1085,3 +1085,14 @@ hier bedeutet
 
 -> ??[Begriffe-Aus-Dem-Video-10b](https://liascript.github.io/nightly/?eyJiYWNrZW5kIjoiR1VOfHR8aHR0cHM6Ly9wZWVyLndhbGxpZS5pby9ndW4iLCJjb3Vyc2UiOiJodHRwczovL3Jhdy5naXRodWJ1c2VyY29udGVudC5jb20vd3Vsc3RidWcvS2xvdHpzY2hlMi8yMDI1XzIwMjYvMDFfUGh5c2lrL0tsLjEwXzIwMjVfMjAyNi9zb3VyY2UvTEIxXzEwYi5tZCIsInJvb20iOiIxMGJQaHlzaWNzIn0=#24)
 
+## Periodischer Vorgang
+
+{{1}}
+************
+> Definition: Wir beobachten eine Größe $B$. Der Wert von B zum Zeitpunkt t wird mit $B(t)$ bezeichnet. Wir nennen B eine <span style="color:orange">***periodische Größe***</span>, wenn sich die Werte von B nach einer bestimmten Zeit T wiederholen.
+Es soll gelten:
+
+> $$ B(t) = B(t+T) $$ <br> _In Worten: Der Wert von B zum Zeitpunkt t ist genauso groß, wie der Wert von B zum Zeitpunkt t+T._
+
+> <span style="color:red">***T heißt Periodendauer ***</span> von B
+************
