@@ -1085,7 +1085,7 @@ hier bedeutet
 
 -> ??[Begriffe-Aus-Dem-Video-10b](https://liascript.github.io/nightly/?eyJiYWNrZW5kIjoiR1VOfHR8aHR0cHM6Ly9wZWVyLndhbGxpZS5pby9ndW4iLCJjb3Vyc2UiOiJodHRwczovL3Jhdy5naXRodWJ1c2VyY29udGVudC5jb20vd3Vsc3RidWcvS2xvdHpzY2hlMi8yMDI1XzIwMjYvMDFfUGh5c2lrL0tsLjEwXzIwMjVfMjAyNi9zb3VyY2UvTEIxXzEwYi5tZCIsInJvb20iOiIxMGJQaHlzaWNzIn0=#24)
 
-## Periodischer Vorgang
+## 2. 1. Periodischer Vorgang
 
 {{1}}
 ************
@@ -1101,3 +1101,89 @@ __@color(Notiere zwei bis drei Beispiele für periodische Vorgänge. Trenne sie 
 
 [[___]]
 ************
+
+## 2. 2. Schwingung
+
+{{0-1}}
+!?[LEIFI-Schwingungen](https://www.youtube.com/watch?v=hm_df3Oa_f8)
+
+{{1}}
+********************
+> Definition: Eine @color(mechanische Schwingung, red) beschreibt die periodische Bewegung eines Körpers um eine @color(Ruhelage, red).
+>
+> Die Ruhelage ist eine Position in der auf den Körper keine __resultierende Kraft__ wirkt.
+>
+> __Merke:__ Jede Schwingung ist eine periodische Bewegung aber nicht jede periodische Bewegung ist eine Schwingung.
+********************
+
+__@color(Notiere das Tafelbild. Entscheide dann für die folgenden Vorgänge um was es sich dabei handelt., blue)__
+
+<p style="margin-left:10%">
+
+1. Ein Kind sitzt auf einer Schaukel, die Schaukel wird von einem Elternteil angeschubst. Es soll hier keine Reibung auftreten.
+
+     [[ ]] keins von beidem
+     [[ ]] periodische Bewegung
+     [[x]] Schwingung
+
+
+---
+
+2. Ein Tischtennisball wird über einer Platte losgelassen und springt senkrecht auf der Platte auf und nieder. Sie können Reibungsverluste hier vernachlässigen.
+
+
+     [[ ]] keins von beidem
+     [[x]] periodische Bewegung
+     [[ ]] Schwingung
+
+<details style="margin-left:5%">
+
+<summary> Begründung: </summary>
+
+__Antwort Nein:__ Egal ob man diesen Prozess mit oder ohne Reibung betrachtet, es ist keine Schwingung, da es hier keine Ruhelage gibt.
+
+</details>
+
+---
+
+3. Ein Mensch springt von einem Sprungturm ins Wasser.
+
+
+     [[x]] keins von beidem
+     [[ ]] periodische Bewegung
+     [[ ]] Schwingung
+
+---
+
+4. Ein Bungeespringer spring an einem elastischen Seil von einer Brücke. Das Seil soll sich wie eine mechanische Feder verhalten, Reibung und andere Verluste werden vernachlässigt. Seillänge, Seildehnung und Bodenabstand sollen derart sein, dass der Springer den Boden nicht berührt.
+
+     [[ ]] keins von beidem
+     [[ ]] periodische Bewegung
+     [[x]] Schwingung
+
+<details style="margin-left:5%">
+
+<summary> Begründung: </summary>
+
+__Antwort Schwingung:__ Diese Bewegung entspricht einer Schwingung, da es eine periodische Bewegung ist, die um eine Ruhelage (der Springer hängt ruhig am Seil) stattfindet.
+
+</details>
+
+
+---
+
+5. Ein Planet (z.B. die Erde) kreist auf einer elliptischen Bahn um die Sonne.
+
+     [[ ]] keins von beidem
+     [[x]] periodische Bewegung
+     [[ ]] Schwingung
+
+<details style="margin-left:5%">
+
+<summary> Begründung: </summary>
+
+__Antwort Periodische Bewegung:__ Diese Bewegung ist streng periodisch, aber es gibt keine Ruhelage, um welche die Bewegung stattfindet.
+
+</details>
+
+</p>
