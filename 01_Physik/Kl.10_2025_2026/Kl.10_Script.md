@@ -1082,14 +1082,3 @@ hier bedeutet
 Please enter some spaces at first:
 
 [[___]]
-<script>
-  let input = `@input`.trim()
-
-  if (input.length > 4) {
-    true
-  } else if (input.length == 0) {
-    send.lia("Please enter some text", [], false)
-  } else {
-    send.lia("Please provide some meaningful input", [], false)
-  }
-</script>
