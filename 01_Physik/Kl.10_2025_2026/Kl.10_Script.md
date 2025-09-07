@@ -1055,3 +1055,12 @@ hier bedeutet
 </p>
 **************
 
+### Übungen zur LK bei Moodle
+
+> Logge dich bei Moodle ein und erledige die Testaufgaben
+>
+> Wenn du dein Passwort nicht mehr weißt, klicke auf _Passwort zurücksetzen_, gib deine Lernsax-E-Mail an und klicke auf suchen. Du erhälst einen Link zum zurücksetzen.
+
+[Moodle-09.09.25-ÜbungNewtonscheGesetzeKräfteBremsbewegung-10a](https://diversewolken.ddns.net/moodle/mod/quiz/view.php?id=605)
+
+[Moodle-09.09.25-ÜbungNewtonscheGesetzeKräfteBremsbewegung-10b](https://diversewolken.ddns.net/moodle/mod/quiz/view.php?id=607)
