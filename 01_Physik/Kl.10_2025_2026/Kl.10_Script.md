@@ -1075,10 +1075,28 @@ hier bedeutet
 
 ## Einführungsvideo
 
+> Sammle drei Begriffe, die dir im folgenden Video als wichtig erscheinen.
+
 !?[Motivationsvideo](https://diversewolken.ddns.net/nextcloud/index.php/f/719652/download)
 
-## Survey
+## Begriff aus dem Video
 
-Please enter some spaces at first:
+<details>
+
+<summary> Begriffe 10a </summary>
+
+??[Begriffe-Aus-Dem-Video-10a]()
+
+</details>
+
+<details>
+
+<summary> Begriffe 10b </summary>
+
+??[Begriffe-Aus-Dem-Video-10b]()
+
+</details>
+
+Tippe mindestens zwei Begriffe aus dem Video. Trenne sie mit Komma.
 
 [[___]]
