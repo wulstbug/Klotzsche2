@@ -1761,7 +1761,13 @@ __Shortcuts:__
 
 **********
 
+## 9. 11. Herleitung der Periodendauer am idealen Schwingkreis
 
+![ThomsonSG-HL-1](https://diversewolken.ddns.net/nextcloud/index.php/s/bgB97f49sZ2dqLM/download)
+
+![ThomsonSG-HL-2](https://diversewolken.ddns.net/nextcloud/index.php/s/cod9taS83dYzocg/download)
+
+## 9. 12. Energiebetrachtungen am Schwingkreis
 
 {{5}}
 **********

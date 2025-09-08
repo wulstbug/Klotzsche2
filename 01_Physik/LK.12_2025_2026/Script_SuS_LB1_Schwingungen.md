@@ -1519,3 +1519,90 @@ $$ a(t) = \hat{a} \cdot \cos(\omega \cdot t) = 4,6m \cdot \cos(3.93 \frac{1}{s} 
 @rangeQuiz2($D$, 4.63 ,$\frac{N}{m}$)
 
 </p>
+
+
+
+## 9. 10. Grundlagen Elektromagnetischer Schwingkreis
+
+__Aufbau:__
+
+<p class="newspaper">
+
+> Elektromagnetische Schwingungen spielen in der modernen Elektronik eine entscheidende Rolle. Ein elektromagnetischer Schwingkreis besteht aus einer Parallelschaltung von einem __Kondensator (Kapazität $C$)__ und einer __Spule(Induktivität $L$)__. 
+
+{{2}}
+*********
+> _Hinweis: Der Kondensator kann durch einen Wechselschalter von einer Spannungsquelle aufgeladen werden._
+*********
+
+<p class="cb">
+
+{{1-2}}
+**********
+![Schaltkreis-Schwingkreis](https://diversewolken.ddns.net/nextcloud/index.php/s/geHrqMrBJmkFCo6/download)
+**********
+
+{{2}}
+**********
+![Schaltkreis-Schwingkreis](https://diversewolken.ddns.net/nextcloud/index.php/s/Wy3j3A8ekemEy3e/download)
+**********
+
+</p>
+
+</p>
+
+{{3}}
+**********
+      -> [Falstad-Simulation-AC-Circut](https://www.falstad.com/circuit/circuitjs.html?ctz=CQAgjCAMB0l3BWcMBMcUHYMGZIA4UA2ATmIxAUgoqoQFMBaMMAKCA)
+
+<p style="margin-left:10%">
+
+__Aufgaben:__
+
+1. Übernehmen Sie das Tafelbild
+
+2. Öffnen Sie die Simulation
+
+3. Stoppen Sie die Simulation mit dem Schalter Run/STOP
+
+4. Erstellen Sie mit Hilfe der Simulation einen idealen Schwingkreis (siehe Schaltkreis)
+
+<details style="margin-left:10%">
+
+<summary> Beispiel-Lösung </summary>
+
+![Lösung](https://diversewolken.ddns.net/nextcloud/index.php/s/kionyaX8epZXkeB/download)
+
+</details>
+
+4. Beobachten Sie die entstehende Schwingung in dem sie den Schalt auf Laden stellen, anschließend die Simulation starten und dann den Schwinkreis schließen
+
+5. Stellen Sie eine Vermutung auf, welche physikalische Eigenschaft/Einheit hier eine Schwingung durchführt
+
+6. Fügen Sie eine Messung hinzu. 
+
+__Shortcuts:__
+
+- Leertaste -> Auswählen
+
+- w -> Verbindung / Kabel
+
+- r -> Widerstand
+
+- L -> Spule
+
+- c -> Kondensator
+
+- v -> Spannungsquelle
+
+- S -> Wechselschalter
+
+</p>
+
+**********
+
+## 9. 11. Herleitung der Periodendauer am idealen Schwingkreis
+
+![ThomsonSG-HL-1](https://diversewolken.ddns.net/nextcloud/index.php/s/bgB97f49sZ2dqLM/download)
+
+![ThomsonSG-HL-2](https://diversewolken.ddns.net/nextcloud/index.php/s/cod9taS83dYzocg/download)
