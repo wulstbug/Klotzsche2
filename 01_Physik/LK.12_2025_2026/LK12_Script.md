@@ -1711,10 +1711,45 @@ __Aufbau:__
 
 </p>
 
-{{4}}
+{{3}}
 **********
       -> [Falstad-Simulation-AC-Circut](https://www.falstad.com/circuit/circuitjs.html?ctz=CQAgjCAMB0l3BWcMBMcUHYMGZIA4UA2ATmIxAUgoqoQFMBaMMAKCA)
+
+<p style="margin-left:10%">
+
+__Aufgaben:__
+
+- übernehmen Sie das Tafelbild
+
+- öffnen Sie die Simulation
+
+- stoppen Sie die Simulation mit dem Schalter Run/STOP
+
+- erstellen Sie mit Hilfe der Simulation einen idealen Schwingkreis (siehe Schaltkreis)
+
+- beobachten Sie die entstehende Schwingung, stellen Sie eine Vermutung auf, welche physikalische Eigenschaft/Einheit hier eine Schwingung durchführt
+
+__Shortcuts:__
+
+- Leertaste -> Auswählen
+
+- w -> Verbindung / Kabel
+
+- r -> Widerstand
+
+- L -> Spule
+
+- c -> Kondensator
+
+- v -> Spannungsquelle
+
+- S -> Wechselschalter
+
+</p>
+
 **********
+
+
 
 {{5}}
 **********
