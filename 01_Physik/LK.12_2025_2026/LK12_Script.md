@@ -1739,6 +1739,8 @@ __Aufgaben:__
 
 5. Stellen Sie eine Vermutung auf, welche physikalische Eigenschaft/Einheit hier eine Schwingung durchführt
 
+6. Fügen Sie eine Messung hinzu. 
+
 __Shortcuts:__
 
 - Leertaste -> Auswählen
