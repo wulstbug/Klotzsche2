@@ -1115,8 +1115,7 @@ __Ergebnis:__ An einem Parabolspiegel treffen sich die reflektierten Lichtstrahl
 
 ## Schattenwurf mit 3D Geogebra
 
-
-Erstelle mit Hilfe von Geogebra dein eigenes Sonnensystem in __3D__.
+Erstelle mit Hilfe von Geogebra deinen eigenen Schattenwurf in __3D__.
 
 1. Wechsle in einem weiteren Fenster [hier zu Geogebra](https://www.geogebra.org/classroom/dmvmdyvu) und bearbeite folgende Anleitung. Gehe zu @color(Weiter ohne Anmeldung, orange) und nutze deinen Vornamen oder deine Initialien.
 
