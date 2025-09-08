@@ -1601,7 +1601,7 @@ __Shortcuts:__
 
 **********
 
-## 9. 11. Herleitung der Periodendauer am idealen Schwingkreis
+## 9. 11. Herleitung der Periodendauer eines idealen Schwingkreis
 
 ![ThomsonSG-HL-1](https://diversewolken.ddns.net/nextcloud/index.php/s/bgB97f49sZ2dqLM/download)
 
