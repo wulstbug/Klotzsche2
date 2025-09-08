@@ -1719,15 +1719,25 @@ __Aufbau:__
 
 __Aufgaben:__
 
-- übernehmen Sie das Tafelbild
+1. Übernehmen Sie das Tafelbild
 
-- öffnen Sie die Simulation
+2. Öffnen Sie die Simulation
 
-- stoppen Sie die Simulation mit dem Schalter Run/STOP
+3. Stoppen Sie die Simulation mit dem Schalter Run/STOP
 
-- erstellen Sie mit Hilfe der Simulation einen idealen Schwingkreis (siehe Schaltkreis)
+4. Erstellen Sie mit Hilfe der Simulation einen idealen Schwingkreis (siehe Schaltkreis)
 
-- beobachten Sie die entstehende Schwingung, stellen Sie eine Vermutung auf, welche physikalische Eigenschaft/Einheit hier eine Schwingung durchführt
+<details style="margin-left:10%">
+
+<summary> Beispiel-Lösung </summary>
+
+![Lösung](https://diversewolken.ddns.net/nextcloud/index.php/s/kionyaX8epZXkeB/download)
+
+</details>
+
+4. Beobachten Sie die entstehende Schwingung in dem sie den Schalt auf Laden stellen, anschließend die Simulation starten und dann den Schwinkreis schließen
+
+5. Stellen Sie eine Vermutung auf, welche physikalische Eigenschaft/Einheit hier eine Schwingung durchführt
 
 __Shortcuts:__
 
