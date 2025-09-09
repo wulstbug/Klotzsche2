@@ -1780,7 +1780,55 @@ Bestimmte Warensicherungsetiketten enthalten einen elektromagnetischen Schwingkr
 
 <p class="cb">
 
-![Abi2018](https://www.leifiphysik.de/sites/default/files/2018/12/image/warensicherung_aufgabe_bild_1.svg)
+![Abi2018](https://www.leifiphysik.de/sites/default/files/2018/12/image/warensicherung_aufgabe_bild_1.svg "Abb. 1: Etikett zur Warensicherung")
+
+</p>
+
+</p>
+
+- a) Bestimme mithilfe der Abb. 1 (im Original hat das quadratische Warensicherungsetikett die Kantenlänge 35 mm) die Kapazität des Kondensators im Schwingkreis.
+
+<p style="margin-left:10%">
+
+@rangeQuiz2($C$, 2.2E-10, F )
+
+</p>
+
+---
+
+- b) Berechne die maximale Energie, die der Schwingkreis aufnehmen kann, ohne zerstört zu werden
+
+<p style="margin-left:10%">
+
+@rangeQuiz2($E_{max}$, 2.2E-19, J )
+
+</p>
+
+<p class="newspaper">
+
+Warenhäuser besitzen am Ausgang Schleusen, die aus einer Sendespule S und einer Empfangsspule E in einem Abstand von ca. einem Meter bestehen (vgl. Abb 2). An die Sendespule wird eine sinusförmige Wechselspannung der Frequenz $f$ angelegt.
+
+<p class="cb">
+
+![Schleuse](https://www.leifiphysik.de/sites/default/files/2018/12/image/warensicherung_aufgabe_bild_2.svg "Abb. 2: Schleuse")<!-- style="max-height:300px"-->
+
+</p>
+
+</p>
+
+---
+
+- c) Erkläre, dass ein an E angeschlossenes Messgerät eine Wechselspannung anzeigt.
+
+---
+
+<p class="newspaper">
+
+Befindet sich eine Ware mit intaktem Sicherungsetikett in der Schleuse, so nimmt der Schwingkreis Energie auf, wenn die Frequenz $f$ mit seiner Eigenfrequenz übereinstimmt. Man beobachtet dann ein Absinken des Scheitelwerts $U_E$ der bei E gemessenen Wechselspannung. Größere Metallgegenstände führen ebenfalls zu einem Absinken von $U_E$ und können einen Fehlalarm auslösen. Um dies zu vermeiden, wird der Sender so eingestellt, dass die Frequenz periodisch um den Mittelwert $8,2\,\mathrm{MHz}$ schwankt (siehe Abb. 3).
+
+<p class="cb">
+
+![Wechselfrequenz](https://www.leifiphysik.de/sites/default/files/2018/12/image/warensicherung_aufgabe_bild_3.svg "Abb. 3: Sendesignal")
 
 </p>
 
