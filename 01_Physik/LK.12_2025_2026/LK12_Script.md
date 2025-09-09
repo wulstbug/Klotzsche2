@@ -1767,6 +1767,10 @@ __Shortcuts:__
 
 ![ThomsonSG-HL-2](https://diversewolken.ddns.net/nextcloud/index.php/s/cod9taS83dYzocg/download)
 
+![ThomsonSG-HL-3](https://diversewolken.ddns.net/nextcloud/index.php/s/98Q3m4yFHzSeR76/download)
+
+![ThomsonSG-HL-4](https://diversewolken.ddns.net/nextcloud/index.php/s/sqaFGGczrS2F97f/download)
+
 ## 9. 12. Energiebetrachtungen am Schwingkreis
 
 {{5}}
