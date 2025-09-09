@@ -1601,8 +1601,222 @@ __Shortcuts:__
 
 **********
 
-## 9. 11. Herleitung der Periodendauer eines idealen Schwingkreis
+## 9. 11. Herleitung der Periodendauer am idealen Schwingkreis
 
 ![ThomsonSG-HL-1](https://diversewolken.ddns.net/nextcloud/index.php/s/bgB97f49sZ2dqLM/download)
 
 ![ThomsonSG-HL-2](https://diversewolken.ddns.net/nextcloud/index.php/s/cod9taS83dYzocg/download)
+
+![ThomsonSG-HL-3](https://diversewolken.ddns.net/nextcloud/index.php/s/98Q3m4yFHzSeR76/download)
+
+![ThomsonSG-HL-4](https://diversewolken.ddns.net/nextcloud/index.php/s/sqaFGGczrS2F97f/download)
+
+
+## 9. 12. Energiebetrachtungen am Schwingkreis
+
+__Energiebetrachtung__
+
+> In einem idealen Schwingkreis schwingt die Energie zwischen dem [[ elektrischen ]] Feld des Kondensators ([[ elektrische ]] Energie) und dem magnetischen Feld der Spule ([[ magnetische ]] Energie). Die Summe aus elektrischer und magnetischer Energie ist zu jedem Zeitpunkt [[ konstant ]].
+
+{{1}}
+**********
+<p class="newspaper">
+
+__Im Kondensator gespeicherte elektrische Energie__
+
+$\boxed{E_{el}(t) = \frac{1}{2} \cdot C \cdot U^2(t)}$
+
+<p class="cb">
+
+__Im Magnetfeld der Spule gespeicherte Energie__
+
+$\boxed{E_{mag}(t) = \frac{1}{2} \cdot L \cdot I^2(t)}$
+
+</p>
+
+</p>
+
+**********
+
+{{2}}
+**********
+__Idealer vs. realer Schwingkreis__
+
+Bei einem realen Schwingkreis wird der elektrische Widerstand der Kabel (z.B. der Spule) berücksichtigt. Die im Schwingkreis gespeicherte Energie wird nach und nach in Form von Wärme abgegeben.
+**********
+
+
+### Abituraufgabe zum Schwingkreis (Abitur BY 2018 Ph11-1 A2)
+
+<p class="newspaper">
+
+Bestimmte Warensicherungsetiketten enthalten einen elektromagnetischen Schwingkreis mit der Eigenfrequenz $8,2\,\mathrm{MHz}$. Der Schwingkreiskondensator besteht aus zwei Platten im Abstand $15\,\mathrm{\mu m}$. Die Plattenfläche (in Abb. 1 grau dargestellt) beträgt ca.  $13\,\mathrm{\%}$
+ der Gesamtfläche des Warensicherungsetiketts. Der Raum zwischen den Platten ist mit Polypropylen gefüllt, wodurch sich die Kapazität des Kondensators um den Faktor $\varepsilon_r=3,2$ gegenüber der eines luftgefüllten Kondensators erhöht. Aufgrund einer eingebauten Soll-Kurzschlussstelle wird der Kondensator zerstört, wenn die Plattenspannung einen Wert von $4,5\,\mathrm{V}$ übersteigt.
+
+<p class="cb">
+
+![Abi2018](https://www.leifiphysik.de/sites/default/files/2018/12/image/warensicherung_aufgabe_bild_1.svg "Abb. 1: Etikett zur Warensicherung")
+
+</p>
+
+</p>
+
+- a) Bestimme mithilfe der Abb. 1 (im Original hat das quadratische Warensicherungsetikett die Kantenlänge 35 mm) die Induktivität der Spule.
+
+<p style="margin-left:10%">
+
+@rangeQuiz2($C$, 2.2E-10, F )
+
+@rangeQuiz2($L$,1.7e-6, H)
+
+</p>
+
+
+<details style="margin-left:10%">
+
+<summary> @color(__Lösungshinweise__, blue) </summary>
+
+> Ermittlen Sie zunächst den Flächeninhalt des Kondensators. Nutzen Sie anschließend die Formeln zur Berechnung der Kapazität eines Plattenkondensators zur Bestimmung von C.
+>
+> Anschließend ermitteln Sie die Periodendauer der Eigenschwingung und daraus die Induktivität der Spule.
+
+<details style="margin-left:10%">
+
+<summary> __Lösung__ </summary>
+
+![Abi18_SK_Lsg_a](https://diversewolken.ddns.net/nextcloud/index.php/s/DKbH9koHRozMn6K/download)
+
+</details>
+
+</details>
+
+---
+
+- b) Berechne die maximale Energie, die der Schwingkreis aufnehmen kann, ohne zerstört zu werden
+
+<p style="margin-left:10%">
+
+@rangeQuiz2($E_{max}$, 2.2E-19, J )
+
+</p>
+
+<details style="margin-left:10%">
+
+<summary> @color(__Lösungshinweise__, blue) </summary>
+
+> Überlegen Sie zunächst, welcher Maximalwert/Grenzwert im Aufgabentext für eines der Bauelemente gegeben ist.
+>
+> Ermitteln Sie nun mit diesem Grenzwert die im Bauelement gespeicherte Energie.
+
+<details style="margin-left:10%">
+
+<summary> __Lösung__ </summary>
+
+> ![Abi18_SK_Lsg_b](https://diversewolken.ddns.net/nextcloud/index.php/s/BkPWA6gny4sc6nK/download)
+
+</details>
+
+</details>
+
+---
+
+<p class="newspaper">
+
+Warenhäuser besitzen am Ausgang Schleusen, die aus einer Sendespule S und einer Empfangsspule E in einem Abstand von ca. einem Meter bestehen (vgl. Abb 2). An die Sendespule wird eine sinusförmige Wechselspannung der Frequenz $f$ angelegt.
+
+<p class="cb">
+
+![Schleuse](https://www.leifiphysik.de/sites/default/files/2018/12/image/warensicherung_aufgabe_bild_2.svg "Abb. 2: Schleuse")<!-- style="max-height:300px"-->
+
+</p>
+
+</p>
+
+---
+
+- c) Erkläre, dass ein an E angeschlossenes Messgerät eine Wechselspannung anzeigt.
+
+<details style="margin-left:10%">
+
+<summary> @color(__Lösung__, blue) </summary>
+
+> Die Wechselspannung an der Sendespule S erzeugt ein magnetisches Wechselfeld, das auch die Empfängerspule durchsetzt. Nach dem Induktionsgesetz tritt aufgrund der Änderung des magnetischen Flusses in der E eine Induktionsspannung auf, die vom Messgerät angezeigt wird.
+
+</details>
+
+---
+
+<p class="newspaper">
+
+Befindet sich eine Ware mit intaktem Sicherungsetikett in der Schleuse, so nimmt der Schwingkreis Energie auf, wenn die Frequenz $f$ mit seiner Eigenfrequenz übereinstimmt. Man beobachtet dann ein Absinken des Scheitelwerts $U_E$ der bei E gemessenen Wechselspannung. Größere Metallgegenstände führen ebenfalls zu einem Absinken von $U_E$ und können einen Fehlalarm auslösen. Um dies zu vermeiden, wird der Sender so eingestellt, dass die Frequenz periodisch um den Mittelwert $8,2\,\mathrm{MHz}$ schwankt (siehe Abb. 3).
+
+<p class="cb">
+
+![Wechselfrequenz](https://www.leifiphysik.de/sites/default/files/2018/12/image/warensicherung_aufgabe_bild_3.svg "Abb. 3: Sendesignal")
+
+</p>
+
+</p>
+
+---
+
+- d) In der Schleuse befinden sich <br> <br> α) ein intaktes Sicherungsetikett -> Zuordnung Diagramm: [[ 1 | 2 | 3 | (4) ]] <br> <br> β) ein größerer Metallgegenstand -> Zuordnung Diagramm: [[ 1 | 2 | (3) | 4 ]] <br> <br> Ordne den beiden Fällen je eines der Diagramme 1 bis 4 aus Abb. 4 passend zu. Begründe deine Entscheidung. 
+
+<details style="margin-left:10%">
+
+<summary> @color(__Lösungshinweise__, blue) </summary>
+
+> Überlegen Sie zunächst, welchen Einfluss das äußere Wechselfeld auf das Etikett hat (Stichwort _Resonanz_). Achten Sie auf die Zeitskala der Frequenzänderung und schlussfolgern Sie auf das Signal am Empfänger.
+> 
+> Wiederholen Sie Ihre Überlegungen für das Metallstück (Stichwort _Induktion_)
+
+<details style="margin-left:10%">
+
+<summary> __Lösung__ </summary>
+
+> Zu α): Wenn sich ein intaktes Sicherungsetikett zwischen den Spulen S und E befindet, dann stellt das Diagramm 4 die Verhältnisse richtig dar: Immer dann, wenn Frequenz der Spannung $U_s$ an der Sendespule die Resonanzfrequenz des Schwingkreises im Sicherungsetikett erreicht, nimmt der Schwingkreis Energie auf. Dies ist im betrachteten Zeitraum von [0 ms - 4ms] fünfmal der Fall. Die Energieaufnahme des Schwingkreises führt dazu, dass die Spannung an der Empfängerspule im betrachteten Zeitraum fünfmal abnimmt.
+>
+> Zu β): Wenn sich ein größerer Metallgegenstand zwischen den Spulen S und E befindet, dann stellt das Diagramm 3 die Verhältnisse am besten dar: Im Metallgegenstand erzeugt das magnetische Wechselfeld Wirbelströme, deren Intensität kaum von der Frequenz der Spannung $U_S$ der Sendespule abhängt. Die induzierte Spannung in der Empfängerspule schwankt im Takt von $U_S(t)$. Aufgrund der Energieverluste im Metallstück liegt jedoch der Betrag der in der Empfängerspule induziert Spannung stets unter den entsprechenden Werten, die ohne das Metallstück festzustellen wären.
+
+</details>
+
+</details>
+
+![Diagramme](https://www.leifiphysik.de/sites/default/files/2018/12/image/warensicherung_aufgabe_bild_4.svg)<!--  style="max-width=200px" -->
+
+---
+
+- e) Beim Bezahlvorgang werden die Etiketten an der Kasse kurz einem magnetischen Wechselfeld $$B(t)=5,8\,\mathrm{\mu T}\cdot\sin(2\pi\cdot 16\,\mathrm{MHz}\cdot t)$$ ausgesetzt. <br> <br> Bestimme aus Abb. 1 (im Original hat das "Quadrat" der äußeren Windung die Kantenlänge 30 mm und das Quadrat der inneren Windung die Kantenlänge 22 mm)  näherungsweise die mittlere Querschnittsfläche sowie die Windungszahl der zweilagigen Schwingkreisspule.<br> <br> Berechne damit den Maximalwert der darin induzierten Spannung. <br><br>  Begründe, dass das Etikett deaktiviert wird.
+
+<p style="margin-left:10%">
+
+@rangeQuiz2($N_{sp}$, 14 , .)
+
+@rangeQuiz2($A_{sp}$, 6.8e-4, m² )
+
+@rangeQuiz2($\hat{U}_{ind}$, 5.5, V )
+
+</p>
+
+
+<details style="margin-left:10%">
+
+<summary> @color(__Lösungshinweise__, blue) </summary>
+
+> __Für die Windungszahl__ können Sie Abb. 1 nutzen und die Windungszahl zählen. Achten Sie darauf, dass die Spule doppellagig ist.
+> 
+> __Für die Querschnittsfläche__ nutzen Sie die mittle Seitenlänge der Spule.
+>
+> Nutzen Sie __für die Induktionsspannung__ das Induktionsgesetz (LB 8).
+>
+> Überprüfen Sie, ob die induzierte Spannung die Grenzwerte überschreitet.
+
+<details style="margin-left:10%">
+
+<summary> __Lösung__ </summary>
+
+> ![Abi18_SK_Lsg_e](https://diversewolken.ddns.net/nextcloud/index.php/s/wonHnPGescAe4YE/download)
+
+</details>
+
+</details>
