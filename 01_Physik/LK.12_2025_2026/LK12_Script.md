@@ -1771,6 +1771,7 @@ __Shortcuts:__
 
 ![ThomsonSG-HL-4](https://diversewolken.ddns.net/nextcloud/index.php/s/sqaFGGczrS2F97f/download)
 
+
 ### Abituraufgabe zum Schwingkreis (Abitur BY 2018 Ph11-1 A2)
 
 <p class="newspaper">
@@ -1836,55 +1837,33 @@ Befindet sich eine Ware mit intaktem Sicherungsetikett in der Schleuse, so nimmt
 
 ## 9. 12. Energiebetrachtungen am Schwingkreis
 
-{{5}}
+__Energiebetrachtung__
+
+> In einem idealen Schwingkreis schwingt die Energie zwischen dem [[ elektrischen ]] Feld des Kondensators ([[ elektrische ]] Energie) und dem magnetischen Feld der Spule ([[ magnetische ]] Energie). Die Summe aus elektrischer und magnetischer Energie ist zu jedem Zeitpunkt [[ konstant ]].
+
+{{1}}
 **********
-__Energiebetrachtung:__
+<p class="newspaper">
 
-> In einem idealen Schwingkreis schwingt die Energie zwischen dem [[ elektrischen ]] Feld des Kondensators ([[ elektrische ]] Energie) und dem magnetischen Feld der Spule ([[ magnetische ]] Energie). Die Summe aus elektrischer und magnetischer Energie ist zu jedem Zeitpunkt [[ konstant ]]
-**********
+__Im Kondensator gespeicherte elektrische Energie__
 
-{{6}}
-**********
-__Periodendauer:__
+$\boxed{E_{el} = \frac{1}{2} \cdot C \cdot U^2(t)}$
 
-> Eigenfrequenz in einem idealen Schwingkreis wird durch die _Thomson'sche Schwingungsgleichung_ berechnet
->
-> $$ f_0 = \dfrac{1}{2\pi \sqrt{L\cdot C}} $$
-**********
+<p class="cb">
 
-{{7}}
-**********
-<p style="color:blue">
+__Im Magnetfeld der Spule gespeicherte Energie__
 
-Erstellen Sie mit Hilfe der Simulation einen Schwingkreis, den Sie über einen Wechselschalter mit einer Batterie aufladen können.
-
-1. Fügen Sie in die Simulation ein Spannungsdiagramm ein und messen Sie die Spannung vor und hinter dem Kondensator.
-
-2. Fügen Sie in die Simulation eine Stopuhr ein. Ermitteln Sie mit Hilfe der Stopuhr und der angezeigten Schwingung die Periodendauer.
-
-<p style="margin-left:10%">
-
-@rangeQuiz20($T$, 4.44 ,$s$)
-
-</p>
-
-3. Wenn Sie den Kondensator bzw. die Spule anklicken, so werden Ihnen die Werte für $C$ bzw. $L$ angezeigt. Ermittlen Sie nun aus diesen Werten die Periodendauer mit Hilfe der _Thomson'schen Schwingungsgleichung_. Ermitteln Sie auch die Frequenz der Schwingung.
-
-<p style="margin-left:10%">
-
-@rangeQuiz2($T$, 4.443 ,$s$)
-
-@rangeQuiz2($f$, 0.225 ,$Hz$)
-
-</p>
-
-4. Verändern Sie Ihren Schwingkreis derart, dass eine Frequenz von 1 Hz auftritt. Geben Sie das Produkt aus $L$ und $C$ an.
-
-<p style="margin-left:10%">
-
-@rangeQuiz2($C\cdot L$, 0.025 ,$s$)
+$\boxed{E_{mag} = \frac{1}{2} \cdot L \cdot I^2(t)}$
 
 </p>
 
 </p>
+
+**********
+
+{{2}}
+**********
+__Idealer vs. realer Schwingkreis__
+
+Bei einem realen Schwingkreis wird der elektrische Widerstand der Kabel (z.B. der Spule) berücksichtigt. Die im Schwingkreis gespeicherte Energie wird nach und nach in Form von Wärme abgegeben.
 **********
