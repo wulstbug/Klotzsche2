@@ -56,7 +56,7 @@ __Übung:__
 
 3. Verschlüssele das Wort __TRAUM__ mit Schlüsser 3: Lösung: [[WUDXP]]
 
-4. Entschlüssele das Wort __DSIHO__ mit Schlüssel 3: Lösung: [[DSHIO]]
+4. Entschlüssele das Wort __DSIHO__ mit Schlüssel 3: Lösung: [APFEL]]
 
 
 ## 2. Übung Gartenzaunmethode
