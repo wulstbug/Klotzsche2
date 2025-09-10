@@ -2095,7 +2095,7 @@ t=t+dt
 
 <summary> __F: Realer Schwingkreis__ </summary>
 
-Bei einem realen Schwingkreis wird der elektrische Widerstand $R$ des Kabels berücksichtigt. Als Ersatzschaltbild können Sie folgende Simulation mit einem Widerstand $R=0,5\,\Omega$ ($C=0,1\,\mathrm{F}$, $L=1\,\mathrm{H}$) betrachten. Mit dem _Reset Button_ starten Sie die Simulation von vorn.
+Bei einem realen Schwingkreis wird der elektrische Widerstand $R$ des Kabels berücksichtigt. Als Ersatzschaltbild können Sie folgende Simulation mit einem Widerstand $R=0,5\,\Omega$ ($C=0,1\,\mathrm{F}$, $L=1\,\mathrm{H}$) betrachten. Mit dem _Reset Button_ starten Sie die Simulation von vorn (der Kondensator erhält eine initiale Spannung von $10\,\mathrm{V}$).
 
 @color(Aufgabe: Ergänzen Sie den Einfluss eines ohmschen Widerstands in Ihrem Simulationscode., blue)
 
