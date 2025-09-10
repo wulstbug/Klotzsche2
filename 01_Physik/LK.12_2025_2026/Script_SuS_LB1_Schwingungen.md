@@ -1930,14 +1930,16 @@ t=t+dt
 
 </details>
 
+---
 
+<details>
 
 <summary> __F: Realer Schwingkreis__ </summary>
 
-Bei einem realen Schwingkreis wird der elektrische Widerstand $R$ des Kabels berücksichtigt. Als Ersatzschaltbild können Sie folgende Simulation mit einem Widerstand $R=0,5\,\Omega$ betrachten. Mit dem _Reset Button_ starten Sie die Simulation von vorn.
+Bei einem realen Schwingkreis wird der elektrische Widerstand $R$ des Kabels berücksichtigt. Als Ersatzschaltbild können Sie folgende Simulation mit einem Widerstand $R=0,5\,\Omega$ ($C=0,1\,\mathrm{F}$, $L=1\,\mathrm{H}$) betrachten. Mit dem _Reset Button_ starten Sie die Simulation von vorn.
+
+@color(Aufgabe: Ergänzen Sie den Einfluss eines ohmschen Widerstands in Ihrem Simulationscode., blue)
 
 ??[Schwingkreis-C0.1-L1-R0.5](https://www.falstad.com/circuit/circuitjs.html?ctz=CQAgjCAMB0l5YCcyWrQDhAZnQJmgOwBsuArHmACxbKRGUjIinOTMCmAtGGAFADGIXOkxUGwzFkgMGMCDHSJSuLMoKJ16EpFFs5vADbZ0DMcYZTZ4EJxiRSpSIgSksPMpFVgiUXgHchEXBKCxNg2V4AJ0DJaXNsOL1oUl4AeyhwSFwrSiddKGh5IQysXiA)
-
-@color(Ergänzen Sie den Einfluss eines ohmschen Widerstands in Ihrem Simulationscode., blue)
 
 </details>
