@@ -1811,7 +1811,7 @@ Bei einem realen Schwingkreis wird der elektrische Widerstand der Kabel (z.B. de
 <p class="newspaper">
 
 Bestimmte Warensicherungsetiketten enthalten einen elektromagnetischen Schwingkreis mit der Eigenfrequenz $8,2\,\mathrm{MHz}$. Der Schwingkreiskondensator besteht aus zwei Platten im Abstand $15\,\mathrm{\mu m}$. Die Plattenfläche (in Abb. 1 grau dargestellt) beträgt ca.  $13\,\mathrm{\%}$
- der Gesamtfläche des Warensicherungsetiketts. Der Raum zwischen den Platten ist mit Polypropylen gefüllt, wodurch sich die Kapazität des Kondensators um den Faktor $\varepsilon_r=3,2$ gegenüber der eines luftgefüllten Kondensators erhöht. Aufgrund einer eingebauten Soll-Kurzschlussstelle wird der Kondensator zerstört, wenn die Plattenspannung einen Wert von $4,5\,\mathrm{V}$ übersteigt.
+ der Gesamtfläche des Warensicherungsetiketts. Der Raum zwischen den Platten ist mit Polypropylen gefüllt, wodurch sich die Kapazität des Kondensators um den Faktor $\varepsilon_r=2,3$ gegenüber der eines luftgefüllten Kondensators erhöht. Aufgrund einer eingebauten Soll-Kurzschlussstelle wird der Kondensator zerstört, wenn die Plattenspannung einen Wert von $4,5\,\mathrm{V}$ übersteigt.
 
 <p class="cb">
 
