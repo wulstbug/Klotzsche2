@@ -1820,3 +1820,113 @@ Befindet sich eine Ware mit intaktem Sicherungsetikett in der Schleuse, so nimmt
 </details>
 
 </details>
+
+
+## 9. 13. Simulation eines idealen Schwingkreises
+
+
+Für die Simulation eines idealen Schwingkreises wird die Simulationssoftware Moebius verwendet
+
+__A. Formelgrundlage für die Simulation__
+
+> 1. Spannung am Kondensator
+>
+> $$ U_C = \frac{Q}{C} $$
+>
+> 2. Maschenregel (Spannungsgleichheit an Kondensator und Spule)
+>
+> $$ U_L = - U_C $$
+>
+> 3. Spannung an einer Spule 
+> 
+> $$ U_L = L \cdot \frac{\mathrm{d}I}{\mathrm{d}t} $$
+>
+> 4. Ladung und Stromstärke
+> 
+> $$ I = \frac{\mathrm{d}Q}{\mathrm{d}t} $$
+
+
+> @color(__Erstellen Sie aus diesen Gleichungen den Simulationscode. Nutzen Sie die Hinweise wenn nötig.__, blue)
+
+
+<details>
+
+<summary> __B. Hinweise zum Simulationscode__  </summary>
+
+- Gleichung 1. können wir direkt verwenden
+
+- Gleichung 2. können wir direkt verwenden
+
+- Gleichung 3. muss nach $\mathrm{d}t$ umgestellt werden
+
+- Gleichung 4. muss nach $\mathrm{d}Q$ umgestellt werden
+
+- aktualisieren Sie anschließend die Ladung ($Q=Q+\mathrm{d}Q$), die Stromstärke ($I=I+\mathrm{d}I$) und die Zeit ($t=t+\mathrm{d}t$)
+
+</details>
+
+
+---
+<details>
+
+<summary> __C. Hinweise: Hinweise zu den Anfangsbedingungen (t=0)__ </summary>
+
+- Wählen Sie für Ihre erste Simulation als Kapazität $C=0,1\,\mathrm{F}$ und als Induktivität $L=1\,\mathrm{H}$. 
+
+- Als Startwert für die Ladung können Sie $Q=1\,\mathrm{C}$ verwenden. 
+
+- Nutzen Sie $\mathrm{d}t = 0,001$ bei $5000$ Wiederholungen.
+
+</details>
+
+---
+
+<details>
+
+<summary>__D. Überprüfung der Simulation__</summary>
+
+- ermitteln Sie die Periodendauer für Ihren Schwingkreis aus der Thomson'schen Schwingungsgleichung (siehe 9.11).
+
+<p style="margin-left:10%">
+
+@rangeQuiz2($T$,1.987,s)
+
+</p>
+
+- vergleichen Sie die Periodendauer mit Ihrer Simulation
+
+<details style="margin-left:5%">
+
+<summary> Lösung $U_C(t)$ </summary>
+
+![Lsg_Schwingkreis_C0.1_L1_Q1](https://diversewolken.ddns.net/nextcloud/index.php/s/KZw5b5P6swPGC76/download)
+
+</details>
+
+</details>
+
+
+---
+
+<details>
+
+<summary> __E: Lösung Code__ </summary>
+
+``` 
+
+PROGRAMM: (IdealerSchwingkreis)
+Uc=Q/C
+
+dI = -Uc/L*dt
+dQ=I*dt
+
+Q=Q+dQ
+I=I+dI
+t=t+dt
+
+
+```
+
+</details>
+
+
