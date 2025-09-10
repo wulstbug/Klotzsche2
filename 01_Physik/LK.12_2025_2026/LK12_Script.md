@@ -1856,7 +1856,7 @@ Bestimmte Warensicherungsetiketten enthalten einen elektromagnetischen Schwingkr
 
 <p style="margin-left:10%">
 
-@rangeQuiz2($E_{max}$, 2.2E-19, J )
+@rangeQuiz2($E_{max}$, 2.2E-9, J )
 
 </p>
 
