@@ -1940,6 +1940,6 @@ Bei einem realen Schwingkreis wird der elektrische Widerstand $R$ des Kabels ber
 
 @color(Aufgabe: Ergänzen Sie den Einfluss eines ohmschen Widerstands in Ihrem Simulationscode., blue)
 
-??[Schwingkreis-C0.1-L1-R0.5](https://www.falstad.com/circuit/circuitjs.html?ctz=CQAgjCAMB0l5YCcyWrQDhAZnQJmgOwBsuArHmACxbKRGUjIinOTMCmAtGGAFADGIXOkxUGwzFkgMGMCDHSJSuLMoKJ16EpFFs5vADbZ0DMcYZTZ4EJxiRSpSIgSksPMpFVgiUXgHchEXBKCxNg2V4AJ0DJaXNsOL1oUl4AeyhwSFwrSiddKGh5IQysXiA)
+??[Schwingkreis-C0.1-L1-R0.5](https://www.falstad.com/circuit/circuitjs.html?ctz=CQAgjCAMB0l5YCcyWrQDhAZnQJmgOwBsuArHmACxbKRGUiUEikuQsCmAtGGAFABjELnSYqDEZiyQGDGBC4wmlRJSLoaM4qWpZw7eXwA22dA3GmG0ueBCLoRMDXQFEWMBtK4CHqHwDuwqLglFZmIXJ8AE5BUjKW2PEG0KR8APZQ+rg2lJCIYskQ7LiZWHxAA)
 
 </details>
