@@ -69,11 +69,11 @@ __Übung:__
 
      Lösung (Großbuchstaben, ohne Leerzeichen): [[HERRFUCHSUNDFRAUELSTER]]
 
-3. Verschlüssele mit dem Gartenzaun: [[SCHEUERHADER]]
+3. Verschlüssele mit dem Gartenzaun: SCHEUERHADER
 
      Lösung (Großbuchstaben, ohne Leerzeichen): [[SHURAECEEHDR]]
 
-4. Entschlüssele mit dem Gartenzaun: [[SHETRIGCMTELN]]
+4. Entschlüssele mit dem Gartenzaun: SHETRIGCMTELN
 
      Lösung (Großbuchstaben, ohne Leerzeichen): [[SCHMETTERLING]]
 
