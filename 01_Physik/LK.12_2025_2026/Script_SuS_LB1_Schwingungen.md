@@ -1857,7 +1857,7 @@ __A. Formelgrundlage für die Simulation__
 
 - Gleichung 2. können wir direkt verwenden
 
-- Gleichung 3. muss nach $\mathrm{d}t$ umgestellt werden
+- Gleichung 3. muss nach $\mathrm{d}I$ umgestellt werden
 
 - Gleichung 4. muss nach $\mathrm{d}Q$ umgestellt werden
 
