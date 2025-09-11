@@ -848,9 +848,9 @@ gilt. Nutzen Sie den Ausdruck für $v_max$ zur Bestimmung von $y_{max}$.
 
 $$v_{max} = y_{max} \cdot \omega$$
 
-mit $\omega=2\pi\cdot T$ ergibt
+mit $\omega=\frac{2\pi}{T}$ ergibt
 
-$$ y_{max} = \frac{v_{max}}{2\pi\cdot T} = 9.55\cdot 10^{-3} m $$
+$$ y_{max} = \frac{v_{max}\cdot T}{2\pi} = 9.55\cdot 10^{-3} m $$
 
 </details>
 
