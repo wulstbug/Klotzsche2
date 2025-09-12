@@ -100,6 +100,37 @@ window.LIA.settings.font_size = 2
 
 </p>
 
+## Logins der SuS
+
+__Login-Name__ jedes SoS ist die Lernsax-Email-Adresse:
+
+> *nachname.vorname@gykl.lernsax.de*
+
+__Erstpasswort__ ist immer das was vor dem @ Symbol steht, also:
+
+> _nachname.vorname_
+
+__Passwort vergessen?__
+
+> Unterhalb des Login-Bereichs gibt es den Button 
+>
+> _Passwort vergessen_ 
+
+__Notfall: von Lehrkraft einloggen lassen__
+
+> Im Notfall kann die Lehrkraft jede Person einloggen. Dazu:
+
+1. Als Lehrkraft im Kurs einloggen
+
+2. Auf der linken Seite den Link _Teilnehmer/innnen_ auswählen
+
+3. Auf der rechten Seite den jeweiligen Namen suchen und anklicken
+
+4. Im rechten Bereich gibt es unterhalb von Teilnehmer/innen den Reiter _More_
+
+5. Herunterscrollen und den Eintrag __Anmelden als__ verwenden
+
+
 ## Frage mit KI Unterstüztung erstellen
 
 
