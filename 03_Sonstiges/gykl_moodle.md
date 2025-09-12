@@ -51,9 +51,11 @@ window.LIA.settings.font_size = 2
 >
 >- Kurze Demo (LK/Test)
 >
->- gemeinsam Fragen erstellen
+>- Einführung in Kursadministration
 >
 >- Logins der SuS
+>
+>- gemeinsam Fragen erstellen
 >
 >- Fragen erstellen mit KI-Support
 
