@@ -2102,3 +2102,63 @@ Bei einem realen Schwingkreis wird der elektrische Widerstand $R$ des Kabels ber
 ??[Schwingkreis-C0.1-L1-R0.5](https://www.falstad.com/circuit/circuitjs.html?ctz=CQAgjCAMB0l5YCcyWrQDhAZnQJmgOwBsuArHmACxbKRGUiUEikuQsCmAtGGAFABjELnSYqDEZiyQGDGBC4wmlRJSLoaM4qWpZw7eXwA22dA3GmG0ueBCLoRMDXQFEWMBtK4CHqHwDuwqLglFZmIXJ8AE5BUjKW2PEG0KR8APZQ+rg2lJCIYskQ7LiZWHxAA)
 
 </details>
+
+
+
+## Entwicklung Leistungen 12Ph2
+
+![Ergebnisse_12LK1](https://diversewolken.ddns.net/nextcloud/index.php/s/osbmD6jHeg77cEo/download)
+
+{{1}}
+*********
+<!--
+     data-show
+     data-title=""
+     data-type="line"
+     data-xlabel="Bewertung"
+     data-ylabel="Durchschnitt"
+-->
+| Test | Durchschnittsnote | Trend |
+| ---- | ---- | ---- |
+| 11/LK1 | 7.9 | 8.07 |
+| 11/KA1 | 6.3 | 8.27 |
+| 11/EX1 | 11.9| 8.47 |
+| 11/KA2 | 7.7 | 8.67 |
+| 11/LK2 | 8.8 | 8.87 |
+| 11/KA3 | 8.7  | 9.07 |
+| 11/KA4 | 9.1 | 9.27 | 
+| 11/EX2 | 10.5 | 9.47 |
+| 12/LK1  | 8.9 | 9.67 |
+*********
+
+
+
+{{2}}
+*************
+
+<!--
+     data-show
+     data-title=""
+     data-type="line"
+     data-xlabel="Bewertung"
+     data-ylabel="Note"
+     data-transpose
+-->
+|	|LK1	|KA1	|KA2	|LK2	|KA3	|KA4 | EX2 | LK3 |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+|1	|6	|2	|5	|8	|10	|7 | 10 | 5 |
+|2	|6	|5	|4	|8	|9	|9 | 11 | 5 |
+|3	|9	|6	|9	|6	|10	|11 |11 | 11 |
+|4	|9	|8	|10	|9	|5	|6 | 8  | 8 |
+|5	|6	|3	|4	|5	|7	|5 | 8  | 6 |
+|6	|8	|6	|8	|6	|6	|8 | 8  | 7 |
+|7	|9	|3	|7	|11	|12	|14 |9  | 11 |
+|8	|7	|3	|7	|7	|5	|8 | 12 | 8 |
+|9	|3	|4	|6	|8	|10	|2 | 12 | 9 |
+|10	|9	|3	|9	|11	|8	|10 |9  | 12 |
+|11	|13	|12	|15	|15	|14	|14 |15 | 13 |
+|13	|11	|7	|9	|10	|10	|12 |14 | 10 |
+|14	|11	|12	|14	|15	|15	|15 |14 | 14 |
+|15	|9	|12	|6	|8	|3	|9 | 10 | 5 |
+
+*************

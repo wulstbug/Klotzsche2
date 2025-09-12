@@ -942,3 +942,12 @@ $$ y_{max} = \frac{v_{max}\cdot T}{2\pi} = 9.55\cdot 10^{-3} m $$
 
 </p>
 
+## 6. Mechanische Wellen
+
+> Eine @color(mechanische Welle, orange) ist die Ausbreitung eines Schwingungszustands von einem Ort zu einem anderen.
+>
+> - Vorraussetzung sind __gekoppelte Schwinger__
+>
+> - eine Welle transportiert __Energie aber keine Masse__
+>
+> - die einzelnen schwingenden Teilchen bewegen sich ausschließlich um ihre Gleichgewichtslage
