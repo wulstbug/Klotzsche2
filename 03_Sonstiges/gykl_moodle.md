@@ -79,27 +79,6 @@ window.LIA.settings.font_size = 2
 </div>
 <a href="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAGwmSNfdIY&#x2F;5ZMtDCtfQRzg-1brphZMtw&#x2F;view?utm_content=DAGwmSNfdIY&amp;utm_campaign=designshare&amp;utm_medium=embeds&amp;utm_source=link" target="_blank" rel="noopener">Demo-Bio-LK</a> von Golnik Ch
 
-
-## Frage erstellen
-
-<p class="newspaper">
-
-![Fragetypen](https://diversewolken.ddns.net/nextcloud/index.php/s/BsTgZ36zmr3sTbP/download)
-
-<p class="cb">
-
-> - Fragetyp auswählen
->
-> - Geforderte Felder ausfüllen
->
-> - Speichern
->
-> - Unter _Fragen_ in den Test einfügen
-
-</p>
-
-</p>
-
 ## Logins der SuS
 
 __Login-Name__ jedes SoS ist die Lernsax-Email-Adresse:
@@ -129,6 +108,27 @@ __Notfall: von Lehrkraft einloggen lassen__
 4. Im rechten Bereich gibt es unterhalb von Teilnehmer/innen den Reiter _More_
 
 5. Herunterscrollen und den Eintrag __Anmelden als__ verwenden
+
+
+## Frage erstellen
+
+<p class="newspaper">
+
+![Fragetypen](https://diversewolken.ddns.net/nextcloud/index.php/s/BsTgZ36zmr3sTbP/download)
+
+<p class="cb">
+
+> - Fragetyp auswählen
+>
+> - Geforderte Felder ausfüllen
+>
+> - Speichern
+>
+> - Unter _Fragen_ in den Test einfügen
+
+</p>
+
+</p>
 
 
 ## Frage mit KI Unterstüztung erstellen
