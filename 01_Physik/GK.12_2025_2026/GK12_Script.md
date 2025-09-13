@@ -944,10 +944,105 @@ $$ y_{max} = \frac{v_{max}\cdot T}{2\pi} = 9.55\cdot 10^{-3} m $$
 
 ## 6. Mechanische Wellen
 
-> Eine @color(mechanische Welle, orange) ist die Ausbreitung eines Schwingungszustands von einem Ort zu einem anderen.
+> Eine @color(mechanische Welle, orange) ist die Ausbreitung eines Schwingungszustands von einem Ort im Raum zu einem anderen. 
+>
+>> Sie ist eine zeitlich __und räumlich__ periodische Änderung physikalischer Größen
 >
 > - Vorraussetzung sind __gekoppelte Schwinger__
 >
 > - eine Welle transportiert __Energie aber keine Masse__
 >
 > - die einzelnen schwingenden Teilchen bewegen sich ausschließlich um ihre Gleichgewichtslage
+
+### 6. 1. Arten mechanischer Wellen
+
+<p class="newspaper3">
+
+Längswellen (Longitudinalwellen)
+
+__Beispiel:__ Schallwellen
+
+> Schwingungsrichtung und Ausbreitungsrichtung stimmen überein.
+
+<p class="cb">
+
+Querwellen (Transversalwellen)
+
+__Beispiel:__ Seilwellen, Erdbebenwellen
+
+> Schwingungsrichtung und Ausbreitungsrichtung verlaufen senkrecht zueinander
+
+<p class="cb">
+
+Oberflächenwellen (Kreiswellen)
+
+__Beispiel:__ Wasserwellen
+
+> Teilchen führen kreisförmige Bewegung aus. Es wirken Kohäsionskräfte (Oberflächenspannung) und die Schwerkraft
+
+</p>
+
+</p>
+
+</p>
+
+<p style="color:blue">
+
+__Beobachtung:__
+
+1. Betrachten Sie die laufende Welle. Wechseln Sie zwischen Transversalwelle und Logitudinalwelle und beobachten Sie die Schwingung der Teilchen.
+
+2. Ändern Sie die Amplitude und beobachten Sie die Welle. 
+
+3. Verschieben Sie den Schieberegler ganz nach rechts und betrachten Sie die eingefrorene Welle.
+
+<iframe src="https://www.geogebra.org/classic/cdyxv6pt?embed" width="100%" height="600" allowfullscreen style="border: 1px solid #e4e4e4;border-radius: 4px;" frameborder="0"></iframe>
+
+
+### Aufgaben zur Charakterisierung von Wellen
+
+<iframe src="https://www.geogebra.org/classic/cdyxv6pt?embed" width="100%" height="600" allowfullscreen style="border: 1px solid #e4e4e4;border-radius: 4px;" frameborder="0"></iframe>
+
+__Die folgenden Aufgaben beziehen sich auf die Transversalwelle in Starteinstellung:__
+
+2. Wenn Sie den Schieberegler_Animation_ ganz nach links bewegen, friert die Welle zeitlich ein. Ermitteln Sie die Wellenlänge der Transversalwelle. Ermitteln Sie ebenfalls die Amplitude.
+
+<p style="margin-left:10%">
+
+@rangeQuiz2($\lambda$,10,m)
+
+@rangeQuiz2($y_{max}$,1.5,m)
+
+</p>
+
+3. Ermitteln Sie die Periodendauer $T$ und daraus die Frequenz $f$ und die Kreisfrequenz $\omega$ der Welle. Nutzen Sie dafür die eingefrorene Welle und den Schieberegler _Zeit_ im oberen Teil der Animation.
+
+<p style="margin-left:10%">
+
+@rangeQuiz2($T$,10,s)
+
+@rangeQuiz2($f$,0.1,Hz)
+
+@rangeQuiz2($\omega$,0.628,$\mathrm{\frac{1}{s}}$)
+
+</p>
+
+4. Wählen Sie die korrekte Wellenfunktionen $y(t)$ für den Ort $x=0\,\mathrm{m}$.
+
+<p style="margin-left:10%">
+
+[[ $y(t) = 10\,\mathrm{m}\cdot\sin(0,628\,\mathrm{\frac{1}{s}}\cdot t)$ | $y(t) = 10\,\mathrm{m}\cdot\cos(0,628\,\mathrm{\frac{1}{s}}\cdot t)$ | ($y(t) = -10\,\mathrm{m}\cdot\sin(0,628\,\mathrm{\frac{1}{s}}\cdot t)$) | $y(t) = -10\,\mathrm{m}\cdot\cos(0,628\,\mathrm{\frac{1}{s}}\cdot t)$ ]]
+
+</p>
+
+5. Wählen Sie die korrekte Wellenfunktionen $y(x)$ für den Zeitpunkt $t=0\,\mathrm{s}$.
+
+<p style="margin-left:10%">
+
+[[ $y(x) = 10\,\mathrm{m}\cdot\sin(0,1\,\mathrm{\frac{1}{m}}\cdot x)$ | $y(x) = 10\,\mathrm{m}\cdot\cos(0,1\,\mathrm{\frac{1}{m}}\cdot x)$ | ($y(x) = -10\,\mathrm{m}\cdot\sin(0,1\,\mathrm{\frac{1}{m}}\cdot x)$) | $y(x) = -10\,\mathrm{m}\cdot\cos(0,1\,\mathrm{\frac{1}{m}}\cdot x)$ ]]
+
+</p>
+
+
+</p>
+
