@@ -1020,6 +1020,48 @@ __Beobachtung:__
 
 @color(_Tipp: Nutze für diese Übersicht eine eigene Seite_, orange)
 
+
+{{0-1}}
+************
+<p class="newspaper3">
+
+> **Wellenlänge $\lambda$**
+
+
+<p class="cb">
+
+> **Frequenz $f$**
+
+<p class="cb">
+
+> **Ausbreitungsgeschwindigkeit $v$**
+
+
+</p>
+
+</p>
+
+</p>
+
+---
+
+> __Wellenausbreitungsgleichung__
+
+---
+
+__Diagrammdarstellung__: 
+
+Wir stellen die **zeitliche Bewegung** eines einzelnen Oszillators (d.h. ein schwingendes Teilchen) mit einem **$y$-$t$-Diagramm** dar und die **räumliche Ausbreitung** mit einem **$y$-$x$-Diagramm**.
+
+---
+
+> __(*) Wellengleichung $y(x, t)$ einer harmonischen Welle:__
+
+************
+
+
+{{1}}
+************
 <p class="newspaper3">
 
 > **Wellenlänge $\lambda$**
@@ -1074,13 +1116,20 @@ __Beobachtung:__
 </p>
 
 ---
+************
 
+
+{{2}}
+************
 > __Wellenausbreitungsgleichung__ (Zusammenhang zwischen $\lambda$, $f$ und $v$:):
 >
 > $$ \boxed{v = \lambda \cdot f}$$
 
 ---
+************
 
+{{3}}
+************
 __Diagrammdarstellung__: 
 
 Wir stellen die **zeitliche Bewegung** eines einzelnen Oszillators (d.h. ein schwingendes Teilchen) mit einem **$y$-$t$-Diagramm** dar und die **räumliche Ausbreitung** mit einem **$y$-$x$-Diagramm**.
@@ -1113,7 +1162,10 @@ Wir stellen die **zeitliche Bewegung** eines einzelnen Oszillators (d.h. ein sch
 </p>
 
 ---
+************
 
+{{4}}
+************
 <p class="newspaper">
 
 ![y-x-Diagramm](https://diversewolken.ddns.net/nextcloud/index.php/s/gJp99q4HHbZ7z8e/download)
@@ -1127,13 +1179,16 @@ Wir stellen die **zeitliche Bewegung** eines einzelnen Oszillators (d.h. ein sch
 </p>
 
 ---
+************
 
+{{4}}
+************
 > __(*) Wellengleichung $y(x, t)$ einer harmonischen Welle:__
 >
 > Die Auslenkung $y$ der gesamten Welle lässt sich zu jedem Zeitpunkt $t$ und an jedem Ort $x$ mit der Wellengleichung angeben:
 >
 > $$ \boxed{y(x,t) = y_{max} \cdot \sin\Big(\frac{2\pi}{T}\cdot t - \frac{2\pi}{\lambda}\cdot x\Big)}$$
-
+************
 
 
 ### Aufgaben zur Charakterisierung von Wellen
