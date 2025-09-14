@@ -1025,13 +1025,15 @@ __Beobachtung:__
 > **Wellenlänge $\lambda$**
 >
 > Die Wellenlänge ist der minimale Abstand zwischen zwei Oszillatoren, die sich im gleichen Schwingungszustand befinden.  
-> Das ist auch der Abstand zwischen zwei benachbarten **Wellenbergen** oder **Wellentalen**.  
+> Das ist auch der Abstand zwischen zwei benachbarten **Wellenbergen** oder **Wellentälern**.  
 
 <p class="cb">
 
 > **Frequenz $f$**
 >
 > Die Frequenz $f$ beschreibt die Anzahl an Schwingungen eines schwingende Teilchens pro Sekunde.
+>
+> Es gilt weiterhin: $f=\frac{1}{T}$
 
 <p class="cb">
 
@@ -1081,7 +1083,7 @@ __Beobachtung:__
 
 __Diagrammdarstellung__: 
 
-Wir stellen die **zeitliche Bewegung** eines einzelnen Schwingers (wie bei Schwingungen) mit einem **$y$-$t$-Diagramm** dar und die **räumliche Ausbreitung** mit einem **$y$-$x$-Diagramm**.
+Wir stellen die **zeitliche Bewegung** eines einzelnen Oszillators (d.h. ein schwingendes Teilchen) mit einem **$y$-$t$-Diagramm** dar und die **räumliche Ausbreitung** mit einem **$y$-$x$-Diagramm**.
 
 ---
 
@@ -1090,12 +1092,20 @@ Wir stellen die **zeitliche Bewegung** eines einzelnen Schwingers (wie bei Schwi
 > __$y(x)$-Diagramm__
 >
 > Für einen **bestimmten Zeitpunkt** ($t =$ konstant) wird dargestellt, **welche Lage die Gesamtheit der Oszillatoren** hat.
+>
+> __Wellengleichung $y(x)$ einer harmonischen Welle:__
+>
+> $$ \boxed{y(x) = y_{max} \cdot \sin\big(\frac{2\pi}{\lambda}\cdot x\big)}$$
 
 <p class="cb">
 
 > __$y(t)$-Diagramm__
 >
 > Für einen **bestimmten Ort** ($x =$ konstant) wird dargestellt, wie sich der betreffende Oszillator in **Abhängigkeit von der Zeit** bewegt.
+>
+> __Wellengleichung $y(t)$ einer harmonischen Welle:__
+>
+> $$ \boxed{y(x) = y_{max} \cdot \sin\big(\frac{2\pi}{T}\cdot t\big)}$$
 
 
 </p>
@@ -1115,6 +1125,14 @@ Wir stellen die **zeitliche Bewegung** eines einzelnen Schwingers (wie bei Schwi
 </p>
 
 </p>
+
+---
+
+> __(*) Wellengleichung $y(x, t)$ einer harmonischen Welle:__
+>
+> Die Auslenkung $y$ der gesamten Welle lässt sich zu jedem Zeitpunkt $t$ und an jedem Ort $x$ mit der Wellengleichung angeben:
+>
+> $$ \boxed{y(x,t) = y_{max} \cdot \sin\Big(\frac{2\pi}{T}\cdot t - \frac{2\pi}{\lambda}\cdot x\Big)}$$
 
 
 
