@@ -1220,7 +1220,7 @@ __Die folgenden Aufgaben beziehen sich auf die Transversalwelle in Starteinstell
 
 </p>
 
-3. Wählen Sie die korrekte Wellenfunktionen $y(t)$ für den Ort $x=0\,\mathrm{m}$.
+3. Wählen Sie die korrekte Wellengleichung $y(t)$ für den Ort $x=0\,\mathrm{m}$.
 
 <p style="margin-left:10%">
 
@@ -1228,7 +1228,7 @@ __Die folgenden Aufgaben beziehen sich auf die Transversalwelle in Starteinstell
 
 </p>
 
-4. Wählen Sie die korrekte Wellenfunktionen $y(x)$ für den Zeitpunkt $t=0\,\mathrm{s}$.
+4. Wählen Sie die korrekte Wellengleichung $y(x)$ für den Zeitpunkt $t=0\,\mathrm{s}$.
 
 <p style="margin-left:10%">
 
