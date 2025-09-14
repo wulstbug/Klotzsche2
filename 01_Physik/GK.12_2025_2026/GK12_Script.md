@@ -944,6 +944,12 @@ $$ y_{max} = \frac{v_{max}\cdot T}{2\pi} = 9.55\cdot 10^{-3} m $$
 
 ## 6. Mechanische Wellen
 
+__Motivation:__
+
+<iframe src="https://www.geogebra.org/classic/sn4xvwsj?embed" width="800" height="600" allowfullscreen style="border: 1px solid #e4e4e4;border-radius: 4px;" frameborder="0"></iframe>
+
+{{1}}
+*********
 > Eine @color(mechanische Welle, orange) ist die Ausbreitung eines Schwingungszustands von einem Ort im Raum zu einem anderen. 
 >
 >> Sie ist eine zeitlich __und räumlich__ periodische Änderung physikalischer Größen
@@ -953,6 +959,8 @@ $$ y_{max} = \frac{v_{max}\cdot T}{2\pi} = 9.55\cdot 10^{-3} m $$
 > - eine Welle transportiert __Energie aber keine Masse__
 >
 > - die einzelnen schwingenden Teilchen bewegen sich ausschließlich um ihre Gleichgewichtslage
+*********
+
 
 ### 6. 1. Arten mechanischer Wellen
 
@@ -1108,7 +1116,7 @@ Wir stellen die **zeitliche Bewegung** eines einzelnen Schwingers (wie bei Schwi
 
 __Die folgenden Aufgaben beziehen sich auf die Transversalwelle in Starteinstellung:__
 
-2. Wenn Sie den Schieberegler_Animation_ ganz nach links bewegen, friert die Welle zeitlich ein. Ermitteln Sie die Wellenlänge der Transversalwelle. Ermitteln Sie ebenfalls die Amplitude.
+1. Wenn Sie den Schieberegler_Animation_ ganz nach links bewegen, friert die Welle zeitlich ein. Ermitteln Sie die Wellenlänge der Transversalwelle. Ermitteln Sie ebenfalls die Amplitude.
 
 <p style="margin-left:10%">
 
@@ -1118,7 +1126,7 @@ __Die folgenden Aufgaben beziehen sich auf die Transversalwelle in Starteinstell
 
 </p>
 
-3. Ermitteln Sie die Periodendauer $T$ und daraus die Frequenz $f$ und die Kreisfrequenz $\omega$ der Welle. Nutzen Sie dafür die eingefrorene Welle und den Schieberegler _Zeit_ im oberen Teil der Animation.
+2. Ermitteln Sie die Periodendauer $T$ und daraus die Frequenz $f$ und die Kreisfrequenz $\omega$ der Welle. Nutzen Sie dafür die eingefrorene Welle und den Schieberegler _Zeit_ im oberen Teil der Animation.
 
 <p style="margin-left:10%">
 
@@ -1130,7 +1138,7 @@ __Die folgenden Aufgaben beziehen sich auf die Transversalwelle in Starteinstell
 
 </p>
 
-4. Wählen Sie die korrekte Wellenfunktionen $y(t)$ für den Ort $x=0\,\mathrm{m}$.
+3. Wählen Sie die korrekte Wellenfunktionen $y(t)$ für den Ort $x=0\,\mathrm{m}$.
 
 <p style="margin-left:10%">
 
@@ -1138,7 +1146,7 @@ __Die folgenden Aufgaben beziehen sich auf die Transversalwelle in Starteinstell
 
 </p>
 
-5. Wählen Sie die korrekte Wellenfunktionen $y(x)$ für den Zeitpunkt $t=0\,\mathrm{s}$.
+4. Wählen Sie die korrekte Wellenfunktionen $y(x)$ für den Zeitpunkt $t=0\,\mathrm{s}$.
 
 <p style="margin-left:10%">
 
@@ -1146,6 +1154,11 @@ __Die folgenden Aufgaben beziehen sich auf die Transversalwelle in Starteinstell
 
 </p>
 
+5. Ermitteln Sie die Ausbreitungsgeschwindigkeit der Welle.
+
+<p style="margin-left:10%">
+
+@rangeQuiz2($v$,1, $\mathrm{\frac{m}{s}}$)
 
 </p>
 
