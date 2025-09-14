@@ -1029,6 +1029,7 @@ __Beobachtung:__
 
 </p>
 
+---
 
 <p class="newspaper3">
 
@@ -1056,13 +1057,19 @@ __Beobachtung:__
 
 ---
 
+> __Zusammenhang zwischen $\lambda$, $f$ und $v$__
+>
+> $$ \boxed{v = \lambda \cdot f}$$
+
+---
+
 __Diagrammdarstellung__: 
 
 Wir stellen die **zeitliche Bewegung** eines einzelnen Schwingers (wie bei Schwingungen) mit einem **$y$-$t$-Diagramm** dar und die **räumliche Ausbreitung** mit einem **$y$-$x$-Diagramm**.
 
 ---
 
-<p class="newspaper3">
+<p class="newspaper">
 
 > __$y(x)$-Diagramm__
 >
@@ -1075,21 +1082,13 @@ Wir stellen die **zeitliche Bewegung** eines einzelnen Schwingers (wie bei Schwi
 > Für einen **bestimmten Ort** ($x =$ konstant) wird dargestellt, wie sich der betreffende Oszillator in **Abhängigkeit von der Zeit** bewegt.
 
 
-<p class="cb">
-
-> __Zusammenhang zwischen $\lambda$, $f$ und $v$__
->
-> $$ \boxed{v = \lambda \cdot f}$$
-
-</p>
-
 </p>
 
 </p>
 
 ---
 
-<p class="newspaper3">
+<p class="newspaper">
 
 ![y-t-Diagramm](https://diversewolken.ddns.net/nextcloud/index.php/s/wfReL2Xbc5iGoXs/download)
 
@@ -1097,14 +1096,10 @@ Wir stellen die **zeitliche Bewegung** eines einzelnen Schwingers (wie bei Schwi
 
 ![y-x-Diagramm](https://diversewolken.ddns.net/nextcloud/index.php/s/gJp99q4HHbZ7z8e/download)
 
-<p class="cb">
-
-
 </p>
 
 </p>
 
-</p>
 
 
 ### Aufgaben zur Charakterisierung von Wellen
