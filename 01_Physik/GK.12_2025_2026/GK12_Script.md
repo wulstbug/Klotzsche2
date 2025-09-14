@@ -1057,7 +1057,7 @@ __Beobachtung:__
 
 ---
 
-> __Zusammenhang zwischen $\lambda$, $f$ und $v$__
+> __Zusammenhang zwischen $\lambda$, $f$ und $v$:__
 >
 > $$ \boxed{v = \lambda \cdot f}$$
 
