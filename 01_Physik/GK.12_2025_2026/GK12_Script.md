@@ -998,6 +998,61 @@ __Beobachtung:__
 
 <iframe src="https://www.geogebra.org/classic/cdyxv6pt?embed" width="100%" height="600" allowfullscreen style="border: 1px solid #e4e4e4;border-radius: 4px;" frameborder="0"></iframe>
 
+</p>
+
+### 6. 2. Eigenschaften mechanischer Wellen
+
+<p class="newspaper3">
+
+> **Wellenlänge $\lambda$**
+>
+> Die Wellenlänge ist der minimale Abstand zwischen zwei Oszillatoren, die sich im gleichen Schwingungszustand befinden.  
+> Das ist auch der Abstand zwischen zwei benachbarten **Wellenbergen** oder **Wellentalen**.  
+> **Formelzeichen:** $\lambda$  
+> **Einheit:** ein Meter (1 m)
+
+<p class="cb">
+
+> **Ausbreitungsgeschwindigkeit $v$**
+>
+> Die Ausbreitungsgeschwindigkeit einer Welle ist die Geschwindigkeit, mit der sich eine bestimmte Phase im Raum ausbreitet.  
+>
+> **Formelzeichen:** $v$  
+>
+> **Einheit:** ein Meter pro Sekunde $(1 \; \text{m/s})$
+
+<p class="cb">
+
+> **Frequenz $f$**
+>
+> Die Frequenz $f$ beschreibt die Anzahl an Schwingungen pro Sekunde.
+>
+> **Formelzeichen:** $f$  
+>
+> **Einheit:** Hertz $(1\,\mathrm{Hz}=1\,\frac{1}{s})$
+
+</p>
+
+</p>
+
+</p>
+
+Die Darstellung mechanischer Wellen kann auch mithilfe von Diagrammen erfolgen. Dabei kann die Bewegung eines Oszillators – wie bei Schwingungen – mit einem **$y$-$t$-Diagramm** beschrieben werden.  
+Die **räumliche Ausbreitung** kann man mit einem **$y$-$x$-Diagramm** erfassen.
+
+<p class="newspaper2">
+
+### $y$-$t$-Diagramm
+Für einen **bestimmten Ort** ($x =$ konstant) wird dargestellt, wie sich der betreffende Oszillator in **Abhängigkeit von der Zeit** bewegt.
+
+<p class="cb">
+
+### $y$-$x$-Diagramm
+Für einen **bestimmten Zeitpunkt** ($t =$ konstant) wird dargestellt, **welche Lage die Gesamtheit der Oszillatoren** hat.
+
+</p>
+</p>
+
 
 ### Aufgaben zur Charakterisierung von Wellen
 
