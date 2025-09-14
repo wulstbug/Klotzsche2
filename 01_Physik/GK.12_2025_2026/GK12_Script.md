@@ -1090,11 +1090,11 @@ Wir stellen die **zeitliche Bewegung** eines einzelnen Schwingers (wie bei Schwi
 
 <p class="newspaper">
 
-![y-t-Diagramm](https://diversewolken.ddns.net/nextcloud/index.php/s/wfReL2Xbc5iGoXs/download)
+![y-x-Diagramm](https://diversewolken.ddns.net/nextcloud/index.php/s/gJp99q4HHbZ7z8e/download)
 
 <p class="cb">
 
-![y-x-Diagramm](https://diversewolken.ddns.net/nextcloud/index.php/s/gJp99q4HHbZ7z8e/download)
+![y-t-Diagramm](https://diversewolken.ddns.net/nextcloud/index.php/s/wfReL2Xbc5iGoXs/download)
 
 </p>
 
