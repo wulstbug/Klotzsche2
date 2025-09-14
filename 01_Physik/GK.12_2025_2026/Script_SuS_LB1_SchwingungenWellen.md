@@ -1114,3 +1114,19 @@ __Die folgenden Aufgaben beziehen sich auf die Transversalwelle in Starteinstell
 </p>
 
 6. [Quiz zu mechanischen Wellen](https://www.leifiphysik.de/mechanik/mechanische-wellen/aufgabe/quiz-zu-mechanischen-wellen)
+
+7. Die Gleichung für eine harmonische Welle sei gegeben durch <br> $$ y(x,t) = 0,03\,\mathrm{m}\cdot\sin\Big(2,2\,\mathrm{\frac{1}{m}}\cdot x-3,5\,\mathrm{\frac{1}{s}}\cdot t\Big) $$ <br> Ermitteln Sie Amplitude, Wellenlänge, Frequenz, Periodendauer und Ausbreitungsgeschwindigkeit.
+
+<p style="margin-left:10%">
+
+@rangeQuiz2($y_{max}$,0.03,m)
+
+@rangeQuiz2($\lambda$,2.86,m)
+
+@rangeQuiz2($f$,0.556,Hz)
+
+@rangeQuiz2($T$,1.8,s)
+
+@rangeQuiz2($v$,1.59, $\mathrm{\frac{m}{s}}$)
+
+</p>
