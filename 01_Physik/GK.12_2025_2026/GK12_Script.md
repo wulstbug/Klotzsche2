@@ -1023,6 +1023,12 @@ __Beobachtung:__
 
 {{0-1}}
 ************
+__Diagrammdarstellung__: 
+
+Wir stellen die **zeitliche Bewegung** eines einzelnen Oszillators (d.h. ein schwingendes Teilchen) mit einem **$y$-$t$-Diagramm** dar und die **räumliche Ausbreitung** mit einem **$y$-$x$-Diagramm**.
+
+---
+
 <p class="newspaper3">
 
 > **Wellenlänge $\lambda$**
@@ -1049,18 +1055,66 @@ __Beobachtung:__
 
 ---
 
-__Diagrammdarstellung__: 
-
-Wir stellen die **zeitliche Bewegung** eines einzelnen Oszillators (d.h. ein schwingendes Teilchen) mit einem **$y$-$t$-Diagramm** dar und die **räumliche Ausbreitung** mit einem **$y$-$x$-Diagramm**.
-
----
-
 > __(*) Wellengleichung $y(x, t)$ einer harmonischen Welle:__
 
 ************
 
 
 {{1}}
+************
+__Diagrammdarstellung__: 
+
+Wir stellen die **zeitliche Bewegung** eines einzelnen Oszillators (d.h. ein schwingendes Teilchen) mit einem **$y$-$t$-Diagramm** dar und die **räumliche Ausbreitung** mit einem **$y$-$x$-Diagramm**.
+
+---
+
+<p class="newspaper">
+
+> __$y(x)$-Diagramm__
+>
+> Für einen **bestimmten Zeitpunkt** ($t =$ konstant) wird dargestellt, **welche Lage die Gesamtheit der Oszillatoren** hat.
+>
+> __Wellengleichung $y(x)$ einer harmonischen Welle:__
+>
+> $$ \boxed{y(x) = y_{max} \cdot \sin\big(\frac{2\pi}{\lambda}\cdot x\big)}$$
+
+<p class="cb">
+
+> __$y(t)$-Diagramm__
+>
+> Für einen **bestimmten Ort** ($x =$ konstant) wird dargestellt, wie sich der betreffende Oszillator in **Abhängigkeit von der Zeit** bewegt.
+>
+> __Wellengleichung $y(t)$ einer harmonischen Welle:__
+>
+> $$ \boxed{y(x) = y_{max} \cdot \sin\big(\frac{2\pi}{T}\cdot t\big)}$$
+
+
+</p>
+
+</p>
+
+---
+************
+
+{{2}}
+************
+<p class="newspaper">
+
+![y-x-Diagramm](https://diversewolken.ddns.net/nextcloud/index.php/s/gJp99q4HHbZ7z8e/download)
+
+<p class="cb">
+
+![y-t-Diagramm](https://diversewolken.ddns.net/nextcloud/index.php/s/wfReL2Xbc5iGoXs/download)
+
+</p>
+
+</p>
+
+---
+************
+
+
+{{3}}
 ************
 <p class="newspaper3">
 
@@ -1119,7 +1173,7 @@ Wir stellen die **zeitliche Bewegung** eines einzelnen Oszillators (d.h. ein sch
 ************
 
 
-{{2}}
+{{4}}
 ************
 > __Wellenausbreitungsgleichung__ (Zusammenhang zwischen $\lambda$, $f$ und $v$:):
 >
@@ -1128,60 +1182,7 @@ Wir stellen die **zeitliche Bewegung** eines einzelnen Oszillators (d.h. ein sch
 ---
 ************
 
-{{3}}
-************
-__Diagrammdarstellung__: 
-
-Wir stellen die **zeitliche Bewegung** eines einzelnen Oszillators (d.h. ein schwingendes Teilchen) mit einem **$y$-$t$-Diagramm** dar und die **räumliche Ausbreitung** mit einem **$y$-$x$-Diagramm**.
-
----
-
-<p class="newspaper">
-
-> __$y(x)$-Diagramm__
->
-> Für einen **bestimmten Zeitpunkt** ($t =$ konstant) wird dargestellt, **welche Lage die Gesamtheit der Oszillatoren** hat.
->
-> __Wellengleichung $y(x)$ einer harmonischen Welle:__
->
-> $$ \boxed{y(x) = y_{max} \cdot \sin\big(\frac{2\pi}{\lambda}\cdot x\big)}$$
-
-<p class="cb">
-
-> __$y(t)$-Diagramm__
->
-> Für einen **bestimmten Ort** ($x =$ konstant) wird dargestellt, wie sich der betreffende Oszillator in **Abhängigkeit von der Zeit** bewegt.
->
-> __Wellengleichung $y(t)$ einer harmonischen Welle:__
->
-> $$ \boxed{y(x) = y_{max} \cdot \sin\big(\frac{2\pi}{T}\cdot t\big)}$$
-
-
-</p>
-
-</p>
-
----
-************
-
-{{4}}
-************
-<p class="newspaper">
-
-![y-x-Diagramm](https://diversewolken.ddns.net/nextcloud/index.php/s/gJp99q4HHbZ7z8e/download)
-
-<p class="cb">
-
-![y-t-Diagramm](https://diversewolken.ddns.net/nextcloud/index.php/s/wfReL2Xbc5iGoXs/download)
-
-</p>
-
-</p>
-
----
-************
-
-{{4}}
+{{5}}
 ************
 > __(*) Wellengleichung $y(x, t)$ einer harmonischen Welle:__
 >
