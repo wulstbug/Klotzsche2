@@ -1002,55 +1002,108 @@ __Beobachtung:__
 
 ### 6. 2. Eigenschaften mechanischer Wellen
 
+@color(_Tipp: Nutze für diese Übersicht eine eigene Seite_, orange)
+
 <p class="newspaper3">
 
 > **Wellenlänge $\lambda$**
 >
 > Die Wellenlänge ist der minimale Abstand zwischen zwei Oszillatoren, die sich im gleichen Schwingungszustand befinden.  
 > Das ist auch der Abstand zwischen zwei benachbarten **Wellenbergen** oder **Wellentalen**.  
-> **Formelzeichen:** $\lambda$  
-> **Einheit:** ein Meter (1 m)
+
+<p class="cb">
+
+> **Frequenz $f$**
+>
+> Die Frequenz $f$ beschreibt die Anzahl an Schwingungen eines schwingende Teilchens pro Sekunde.
 
 <p class="cb">
 
 > **Ausbreitungsgeschwindigkeit $v$**
 >
 > Die Ausbreitungsgeschwindigkeit einer Welle ist die Geschwindigkeit, mit der sich eine bestimmte Phase im Raum ausbreitet.  
+
+</p>
+
+</p>
+
+</p>
+
+
+<p class="newspaper3">
+
+> **Formelzeichen:** $\lambda$  
 >
-> **Formelzeichen:** $v$  
->
-> **Einheit:** ein Meter pro Sekunde $(1 \; \text{m/s})$
+> **Einheit:** [1 m]
 
 <p class="cb">
 
-> **Frequenz $f$**
->
-> Die Frequenz $f$ beschreibt die Anzahl an Schwingungen pro Sekunde.
->
 > **Formelzeichen:** $f$  
 >
-> **Einheit:** Hertz $(1\,\mathrm{Hz}=1\,\frac{1}{s})$
-
-</p>
-
-</p>
-
-</p>
-
-Die Darstellung mechanischer Wellen kann auch mithilfe von Diagrammen erfolgen. Dabei kann die Bewegung eines Oszillators – wie bei Schwingungen – mit einem **$y$-$t$-Diagramm** beschrieben werden.  
-Die **räumliche Ausbreitung** kann man mit einem **$y$-$x$-Diagramm** erfassen.
-
-<p class="newspaper2">
-
-### $y$-$t$-Diagramm
-Für einen **bestimmten Ort** ($x =$ konstant) wird dargestellt, wie sich der betreffende Oszillator in **Abhängigkeit von der Zeit** bewegt.
+> **Einheit:** Hertz $[1\,\mathrm{Hz}=1\,\mathrm{\frac{1}{s}]}$
 
 <p class="cb">
 
-### $y$-$x$-Diagramm
-Für einen **bestimmten Zeitpunkt** ($t =$ konstant) wird dargestellt, **welche Lage die Gesamtheit der Oszillatoren** hat.
+> **Formelzeichen:** $v$  
+>
+> **Einheit:** $[1\,\mathrm{\frac{m}{s}}]$
 
 </p>
+
+</p>
+
+</p>
+
+---
+
+__Diagrammdarstellung__: 
+
+Wir stellen die **zeitliche Bewegung** eines einzelnen Schwingers (wie bei Schwingungen) mit einem **$y$-$t$-Diagramm** dar und die **räumliche Ausbreitung** mit einem **$y$-$x$-Diagramm**.
+
+---
+
+<p class="newspaper3">
+
+> __$y(x)$-Diagramm__
+>
+> Für einen **bestimmten Zeitpunkt** ($t =$ konstant) wird dargestellt, **welche Lage die Gesamtheit der Oszillatoren** hat.
+
+<p class="cb">
+
+> __$y(t)$-Diagramm__
+>
+> Für einen **bestimmten Ort** ($x =$ konstant) wird dargestellt, wie sich der betreffende Oszillator in **Abhängigkeit von der Zeit** bewegt.
+
+
+<p class="cb">
+
+> __Zusammenhang zwischen $\lambda$, $f$ und $v$__
+>
+> $$ \boxed{v = \lambda \cdot f}$$
+
+</p>
+
+</p>
+
+</p>
+
+---
+
+<p class="newspaper3">
+
+![y-t-Diagramm](https://diversewolken.ddns.net/nextcloud/index.php/s/wfReL2Xbc5iGoXs/download)
+
+<p class="cb">
+
+![y-x-Diagramm](https://diversewolken.ddns.net/nextcloud/index.php/s/gJp99q4HHbZ7z8e/download)
+
+<p class="cb">
+
+
+</p>
+
+</p>
+
 </p>
 
 
