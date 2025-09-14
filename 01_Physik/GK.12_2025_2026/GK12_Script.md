@@ -1186,9 +1186,9 @@ Wir stellen die **zeitliche Bewegung** eines einzelnen Oszillators (d.h. ein sch
 ************
 > __(*) Wellengleichung $y(x, t)$ einer harmonischen Welle:__
 >
-> Die Auslenkung $y$ der gesamten Welle lässt sich zu jedem Zeitpunkt $t$ und an jedem Ort $x$ mit der Wellengleichung angeben:
+> Die Auslenkung $y$ einer in +x Richtung laufenden Welle lässt sich zu jedem Zeitpunkt $t$ und an jedem Ort $x$ mit der Wellengleichung angeben:
 >
-> $$ \boxed{y(x,t) = y_{max} \cdot \sin\Big(\frac{2\pi}{T}\cdot t - \frac{2\pi}{\lambda}\cdot x\Big)}$$
+> $$ \boxed{y(x,t) = y_{max} \cdot \sin\Big( \frac{2\pi}{\lambda}\cdot x-\frac{2\pi}{T}\cdot t\Big)}$$
 ************
 
 
