@@ -1063,7 +1063,7 @@ Wir stellen die **zeitliche Bewegung** eines einzelnen Oszillators (d.h. ein sch
 
 ### Aufgaben zur Charakterisierung von Wellen
 
-<iframe src="https://www.geogebra.org/classic/cdyxv6pt?embed" width="100%" height="600" allowfullscreen style="border: 1px solid #e4e4e4;border-radius: 4px;" frameborder="0"></iframe>
+<iframe src="https://www.geogebra.org/classic/nc2tbcdm?embed" width="100%" height="600" allowfullscreen style="border: 1px solid #e4e4e4;border-radius: 4px;" frameborder="0"></iframe>
 
 __Die folgenden Aufgaben beziehen sich auf die Transversalwelle in Starteinstellung:__
 
@@ -1093,7 +1093,7 @@ __Die folgenden Aufgaben beziehen sich auf die Transversalwelle in Starteinstell
 
 <p style="margin-left:10%">
 
-[[ $y(t) = 10\,\mathrm{m}\cdot\sin(0,628\,\mathrm{\frac{1}{s}}\cdot t)$ | $y(t) = 10\,\mathrm{m}\cdot\cos(0,628\,\mathrm{\frac{1}{s}}\cdot t)$ | ($y(t) = -10\,\mathrm{m}\cdot\sin(0,628\,\mathrm{\frac{1}{s}}\cdot t)$) | $y(t) = -10\,\mathrm{m}\cdot\cos(0,628\,\mathrm{\frac{1}{s}}\cdot t)$ ]]
+[[ $y(t) = 1,5\,\mathrm{m}\cdot\sin(0,628\,\mathrm{\frac{1}{s}}\cdot t)$ | $y(t) = 1,5\,\mathrm{m}\cdot\cos(0,628\,\mathrm{\frac{1}{s}}\cdot t)$ | ($y(t) = -1,5\,\mathrm{m}\cdot\sin(0,628\,\mathrm{\frac{1}{s}}\cdot t)$) | $y(t) = -1,5\,\mathrm{m}\cdot\cos(0,628\,\mathrm{\frac{1}{s}}\cdot t)$ ]]
 
 </p>
 
@@ -1101,7 +1101,7 @@ __Die folgenden Aufgaben beziehen sich auf die Transversalwelle in Starteinstell
 
 <p style="margin-left:10%">
 
-[[ $y(x) = 10\,\mathrm{m}\cdot\sin(0,1\,\mathrm{\frac{1}{m}}\cdot x)$ | $y(x) = 10\,\mathrm{m}\cdot\cos(0,1\,\mathrm{\frac{1}{m}}\cdot x)$ | ($y(x) = -10\,\mathrm{m}\cdot\sin(0,1\,\mathrm{\frac{1}{m}}\cdot x)$) | $y(x) = -10\,\mathrm{m}\cdot\cos(0,1\,\mathrm{\frac{1}{m}}\cdot x)$ ]]
+[[ $y(x) = 1,5\,\mathrm{m}\cdot\sin(0,1\,\mathrm{\frac{1}{m}}\cdot x)$ | $y(x) = 1,5\,\mathrm{m}\cdot\cos(0,1\,\mathrm{\frac{1}{m}}\cdot x)$ | ($y(x) = -1,5\,\mathrm{m}\cdot\sin(0,1\,\mathrm{\frac{1}{m}}\cdot x)$) | $y(x) = -1,5\,\mathrm{m}\cdot\cos(0,1\,\mathrm{\frac{1}{m}}\cdot x)$ ]]
 
 </p>
 
