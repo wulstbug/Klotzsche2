@@ -2168,39 +2168,78 @@ Bei einem realen Schwingkreis wird der elektrische Widerstand $R$ des Kabels ber
 Für eine schwachte Dämpfung kann die Schwingung an einem gedämpften Schwingkreis mit der Formel:
 
 <p style="margin-left:10%">
-$ Q(t) = \hat{Q} \cdot \cos(\omega\,t) \cdot e^{-\delta\,t} $
+> $ Q(t) = \hat{Q} \cdot \cos(\omega\,t) \cdot e^{-\delta\,t} $
 </p>
 
 in guter Näherung beschrieben werden. Hierbei beschreibt der Faktor $\delta$ die Dämpfung, hervorgerufen durch den elektrischen Widerstand $R$:
 
 <p style="margin-left:10%">
-$ \delta = \frac{R}{2L}$
+> $ \delta = \frac{R}{2L}$
 </p>
 
 Die (leicht veränderte) Kreisfrequenz $\omega$ für den schwach gedämpften Fall wird ermittelt mit
 
 <p style="margin-left:10%">
-$ \omega = \sqrt{\omega_0-\delta^2}$ mit $\omega_0 = \sqrt{\frac{1}{L\cdot C}}$
+> $ \omega = \sqrt{\omega_0-\delta^2}$ mit $\omega_0 = \sqrt{\frac{1}{L\cdot C}}$
 </p>
 
-Folgende Werte sind ihnen für die Berechnung eines experimentellen Versuch gegeben:
+---
+
+1. Erfragen Sie bei der Lehrkraft eine Spule und einen Kondensator. Ermitteln Sie folgende Werte anhand der Angaben auf den Bauelementen.
 
 <p style="margin-left:10%">
 
-$L = 2,23\,\mathrm{H}$
+@rangeQuiz2($C$,20e-6,F)
 
-$C=20\,\mathrm{\mu F}$
-
-$U_0 = 7\,\mathrm{V}$
-
-$R = 19\,\Omega$
+@rangeQuiz2($R$,19,$\Omega$)
 
 </p>
 
-Ermitteln Sie aus den gegebenen Werten zunächst:
+2. Die Spule wird mit einem O-förmigen Eisenkern genutzt. Der aufgedruckte Wert gilt allerdings ohne Eisenkern. Um die Induktivität zu ermitteln wurde an die Spule eine Wechselspannung mit Netzfrequenz angeschlossen. Dabei wurden folgende Werte für Spannung und Stromstärke ermittelt. <br><br> $U_\sim = 7\,\mathrm{V}$ <br> $I_\sim = 0,01\,\mathrm{A}$ <br> <br> Ermitteln Sie aus diesen Angaben die Induktivität der Spule mit O-förmigem Eisenkern. Ermitteln Sie ebenfalls die magnetische Permeabilität des Eisenkerns.
+
+<p style="margin-left:10%">
+
+@rangeQuiz2($L$, 2.23 ,H)
+
+@rangeQuiz2($\mu_r$, 97 , .)
+
+</p>
+
+<details style="margin-left:10%">
+
+<summary> Hinweis Induktivität </summary>
+
+Nutzen Sie die Formel für den Wechselstromwiderstand $Z$ einer Spule in einem Wechselstromkreis (s. Kapitel )
+
+</details>
+
+---
+
+4. Weiterhin wird eine Ladespannung gegeben: <br><br> $U_0 = 7\,\mathrm{V}$ <br><br> Ermitteln Sie aus den gegebenen Werten die folgenden Größen der Schwingung.
 
 <p style="margin-left:10%">
 
 @rangeQuiz2($\hat{Q}$,0.00014,C)
 
+@rangeQuiz2($T$, 41.96e-3 ,s)
+
+@rangeQuiz2($\omega_0$,149.73,$\mathrm{\frac{1}{s}}$)
+
+@rangeQuiz2($\delta$,4.27,$\mathrm{\frac{1}{s}}$)
+
+_Hinweis: Für eine schwache Dämpfung, wie es in diesem Beispiel der Fall ist, gilt $\omega\approx\omega_0$._
+
 </p>
+
+
+
+
+5. Zeichnen Sie den Graph $U(t)$ der gedämpften Schwingung am Kondensator für den Zeitraum 0-60 ms.
+
+<details style="margin-left:10%">
+
+<summary> Lösung </summary>
+
+<iframe src="https://www.geogebra.org/classic/kb4kwfgq?embed" width="100%" height="600" allowfullscreen style="border: 1px solid #e4e4e4;border-radius: 4px;" frameborder="0"></iframe>
+
+</details>
