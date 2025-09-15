@@ -1086,7 +1086,7 @@ Wir stellen die **zeitliche Bewegung** eines einzelnen Oszillators (d.h. ein sch
 >
 > __Wellengleichung $y(t)$ einer harmonischen Welle:__
 >
-> $$ \boxed{y(x) = y_{max} \cdot \sin\big(\frac{2\pi}{T}\cdot t\big)}$$
+> $$ \boxed{y(t) = y_{max} \cdot \sin\big(\frac{2\pi}{T}\cdot t\big)}$$
 
 
 </p>
