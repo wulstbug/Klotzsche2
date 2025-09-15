@@ -1,4 +1,5 @@
 <!--
+icon:   https://diversewolken.ddns.net/klotzsche/logo.png 
 
 author: Christian Golnik
 
