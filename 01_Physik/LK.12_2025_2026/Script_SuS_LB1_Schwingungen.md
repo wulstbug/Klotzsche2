@@ -1991,7 +1991,7 @@ Die (leicht veränderte) Kreisfrequenz $\omega$ für den schwach gedämpften Fal
 
 <summary> Hinweis Induktivität </summary>
 
-Nutzen Sie die Formel für den Wechselstromwiderstand $Z$ einer Spule in einem Wechselstromkreis (s. Kapitel )
+Nutzen Sie die Formel für den Wechselstromwiderstand $Z$ einer Spule in einem Wechselstromkreis (s. Kapitel 8.1.4).
 
 </details>
 

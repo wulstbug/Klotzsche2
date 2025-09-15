@@ -2167,21 +2167,18 @@ Bei einem realen Schwingkreis wird der elektrische Widerstand $R$ des Kabels ber
 
 Für eine schwachte Dämpfung kann die Schwingung an einem gedämpften Schwingkreis mit der Formel:
 
-<p style="margin-left:10%">
+
 > $ Q(t) = \hat{Q} \cdot \cos(\omega\,t) \cdot e^{-\delta\,t} $
-</p>
+
 
 in guter Näherung beschrieben werden. Hierbei beschreibt der Faktor $\delta$ die Dämpfung, hervorgerufen durch den elektrischen Widerstand $R$:
 
-<p style="margin-left:10%">
 > $ \delta = \frac{R}{2L}$
-</p>
 
 Die (leicht veränderte) Kreisfrequenz $\omega$ für den schwach gedämpften Fall wird ermittelt mit
 
-<p style="margin-left:10%">
-> $ \omega = \sqrt{\omega_0-\delta^2}$ mit $\omega_0 = \sqrt{\frac{1}{L\cdot C}}$
-</p>
+> $ \omega = \sqrt{\omega_0^2-\delta^2}$ mit $\omega_0 = \sqrt{\frac{1}{L\cdot C}}$
+
 
 ---
 
@@ -2209,7 +2206,7 @@ Die (leicht veränderte) Kreisfrequenz $\omega$ für den schwach gedämpften Fal
 
 <summary> Hinweis Induktivität </summary>
 
-Nutzen Sie die Formel für den Wechselstromwiderstand $Z$ einer Spule in einem Wechselstromkreis (s. Kapitel )
+Nutzen Sie die Formel für den Wechselstromwiderstand $Z$ einer Spule in einem Wechselstromkreis (s. Kapitel 8.1.4).
 
 </details>
 
