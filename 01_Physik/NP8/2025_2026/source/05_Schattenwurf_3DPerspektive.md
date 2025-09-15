@@ -2,7 +2,7 @@
 
 author: Christian Golnik
 
-logo: https://diversewolken.ddns.net/nextcloud/index.php/s/WeRWZQKdzRbJetX/download
+logo: https://diversewolken.ddns.net/nextcloud/index.php/s/yL6PWBAP7A5cZ3z/download
 
 language: de
 
@@ -92,78 +92,107 @@ mode: presentation
 
 Erstelle mit Hilfe von Geogebra deinen eigenen Schattenwurf in __3D__.
 
-1. Wechsle in einem weiteren Fenster [hier zu Geogebra](https://www.geogebra.org/classroom/yufw2qaq) und bearbeite folgende Anleitung. Gehe zu @color(Weiter ohne Anmeldung, orange) und nutze deinen Vornamen oder deine Initialien.
+Wechsle in einem weiteren Fenster [hier zu Geogebra](https://www.geogebra.org/classroom/yufw2qaq) und bearbeite folgende Anleitung. Gehe zu @color(Weiter ohne Anmeldung, orange) und nutze deinen Vornamen oder deine Initialien.
 
 ---
 
-2. Starte die Ansicht (3D-Projektion). Nutze dazu das Menu (drei Balken oben links), wähle __Ansicht__, deaktiviere __Grafik__ und aktiviere __3DGrafik__.
+[Klicke hier: Geogebra: 3D-Schatten zeichnen](https://www.geogebra.org/classroom/yufw2qaq)
 
-![2_3DAnsicht](https://diversewolken.ddns.net/nextcloud/index.php/s/amxsBz28ag4e3Gf/download)
+1. Zeichne eine senkrechte Hilfslinie zum Horizont durch die Sonne. 
 
----
+2. Markiere den Schnittpunkt mit dem Horizont. Nenne diesen Punkt N.
 
-3. Beobachte das __Drehen__ und __Zoomen__ in der 3D-Ansicht. <br> Klickst du mit einer Maustaste in das Koordinatensystem und hälst die Taste gedrückt, so kannst du die Ansicht __drehen__. Das Koordinatensystem reagiert recht empfindlich. <br> Rollst du mit dem mittleren Mausrad in der Ansicht, so kannst du hinein und hinaus zoomen. Achte darauf, dass der Zeiger über dem Koordinatenursprung liegt, wenn du zoomst. <br> <br> Zum __Drehen__ und __Verschieben__ kann man auch die Menupunkte nutzen.
+3. Zeichne nun einen Strahl (s) von der Sonne durch die linke obere Ecke deines Objektes.
 
-![3_DrehenVerschieben](https://diversewolken.ddns.net/nextcloud/index.php/s/aNRGdZCZggYEd8L/download)
+4. Zeichne nun einen Strahl (a) von N ausgehend, durch den unterhalb der Ecke aus 3. liegenden Punkt.
 
-4. __Ursprüngliche Ansicht wiederherstellen:__ Ansicht komplett verdreht? Nutze die _Home_-Ansicht um zur Ausgangsdarstellung zurückzukehren.
+5. Konstruiere den Schnittpunkt (O)zwischen s und a.
+    -> Dieser Punkt ist eine Ecke deines Schattens.
 
-![4_Home](https://diversewolken.ddns.net/nextcloud/index.php/s/eRctztKRZgB4wtj/download)
+6. Vergleiche deine Konstruktion.
 
-5. Füge zunächst einen Punkt hinzu, der die Sonne darstellen soll. Tipp dazu in der Eingabe: __Sonne = (-5,0,5)__
+<div style="text-indent:10%">
 
-![5_Sonne](https://diversewolken.ddns.net/nextcloud/index.php/s/9XT6oQed8Q2XDwk/download)
+<details>
 
-6. Ändere die Farbe der Sonne auf Gelb/Orange. Bewege die Ansicht, in dem du die linke Maustaste gedrückt hältst und die Maus bewegst. Du kannst den Ort der Sonne nun einsehen.
+<summary> Zwischenbild </summary>
 
-![6_Sonnenansicht](https://diversewolken.ddns.net/nextcloud/index.php/s/5A7jC2paaWnqczs/download)
+![Vergleiche6](https://diversewolken.ddns.net/nextcloud/index.php/s/TfwxTdXPFkRr5nZ/download)<!-- style="max-height:400px" -->
 
-7. Nun muss das erste schattenwerfende Objekt konstruiert werden. Wir wählen ein einfaches Quadrat, welches aufrecht steht. Definiere dazu die 4 Eckpunke:
+</details>
 
-- E1 = (0,2,0)
-- E2 = (0,4,0)
-- E3 = (0,2,2)
-- E4 = (0,4,2)
+</div>
 
-![7_Eckpunkt](https://diversewolken.ddns.net/nextcloud/index.php/s/DCZbNNzCXwii9c5/download)
+     
+7. Wiederhole diesen Vorgang für zwei weitere Ecken (hinten links, vorne rechts).
 
-8. Ergänze nun die Eckpunkte zu einem Quadrat. Wähle dazu oben im Menü Vieleck und klicke anschließend die Eckpunkte im Uhrzeigersinn an.
+8. Vergleiche deine Konstruktion.
 
-![8_Vieleck1](https://diversewolken.ddns.net/nextcloud/index.php/s/9GBY6cJK3Yzz7db/download)
+<div style="text-indent:10%">
 
-![8_Vieleck2](https://diversewolken.ddns.net/nextcloud/index.php/s/zor6eAFRdBXA2di/download)
+<details>
 
-9. Konstruiere nun die Randstrahlen von der Sonne zu den oberen Ecken des Quadrates.
+<summary> Zwischenbild </summary>
 
-![9_Randstrahlen](https://diversewolken.ddns.net/nextcloud/index.php/s/gDGBc7xG7ZaEGrJ/download)
+![Vergleiche8](https://diversewolken.ddns.net/nextcloud/index.php/s/PgxTpAJNA6enGbR/download)<!-- style="max-height:400px" -->
 
-10. Um den Schatten zu konstruieren, benötigen wir die Schnittpunkte  mit der Bodenfläche. Wähle Schnittpunkt, dann den Randstrahl und dann die graue Ebene.
+</details>
 
-![10_Schnittpunkt1](https://diversewolken.ddns.net/nextcloud/index.php/s/9GBY6cJK3Yzz7db/download)
+</div>
 
-![8_Schnittpunkt2](https://diversewolken.ddns.net/nextcloud/index.php/s/NFQqEKK6R3378XG/download)
+9. Wähle Vieleck und verbinde die Eckpunkte zu einem sinnvollen Schatten.
 
-11. Wiederhole den Vorgang mit dem zweiten Randstrahl. Ergänze anschließend ein Vieleck aus den unteren Ecken des Quadrates (E1, E2) sowie den Schnittpunkten (hier A und B).
+<div style="text-indent:10%">
 
-![11_Schattenwurf](https://diversewolken.ddns.net/nextcloud/index.php/s/pDP8ESe5gRYQcWe/download)
+<details>
 
-12. Erganze nun geeignete Farben für das Quadrat (z.B. dunkelgrau) und den Schatten (schwarz). Achte darauf, dass du in den Einstellungen den Wert für Deckkraft (siehe Bild) auf 100 setzt.
+<summary> Menupunkt </summary>
 
-![12_Farben1](https://diversewolken.ddns.net/nextcloud/index.php/s/L5oedM8T6RWY36s/download)
+![Vieleck](https://diversewolken.ddns.net/nextcloud/index.php/s/qXcdz4gpdZLjdxH/download)<!-- style="max-height:400px" -->
 
-![12_Farben2](https://diversewolken.ddns.net/nextcloud/index.php/s/kEYqLePfe5bnaEm/download)
+</details>
 
-13. Blende nun noch die Rangstrahlen aus und ändere den Hintergrund der Konstruktion auf Schwarz.
+</div>
 
-![13_FinaleAnpassung](https://diversewolken.ddns.net/nextcloud/index.php/s/QiaRdKFWf65qWkH/download)
+10. Vergleiche deine Konstruktion.
 
-> Nun kannst du die Sonne anklicken und verschieben und die Schattenkonstruktion beobachten. Drehe die Ansicht um die Konstruktion von mehreren Seite zu beobachten.
 
-----
+<div style="text-indent:10%">
 
-14. Ergänze nun ein zweites Objekt im Bereich der negativen y-Achse z.B. ein Rechteck oder ein Dreieck.
+<details>
 
-__Beispiele:__
+<summary> Zwischenbild </summary>
 
-![14_NeueObjekte](https://diversewolken.ddns.net/nextcloud/index.php/s/WeRWZQKdzRbJetX/download)
+![Vergleiche10](https://diversewolken.ddns.net/nextcloud/index.php/s/3FLELHRHbb2ixpw/download)<!-- style="max-height:400px" -->
+
+</details>
+
+</div>
+
+11. Blende nun den zweiten Quader ein. Klicke dazu oben links auf Quader2 und wiederhole die Schattenkonstruktion.
+
+
+<div style="text-indent:10%">
+
+<details>
+
+<summary> Zwischenbild </summary>
+
+![Vergleiche11_1](https://diversewolken.ddns.net/nextcloud/index.php/s/YqBxWJCRrH78eP7/download)<!-- style="max-height:400px" -->
+
+</details>
+
+<details>
+
+<summary> Lösung </summary>
+
+![Vergleiche11_2](https://diversewolken.ddns.net/nextcloud/index.php/s/FWTP7kckBYEwcGy/download)<!-- style="max-height:400px" -->
+
+</details>
+
+</div>
+
+12. Probiere nun einen Schattenlauf mit bewegter Sonne
+
+     [Klicke hier: Geogebra: 3D-Schatten zeichnen mit Sonnenlauf](https://www.geogebra.org/classroom/trc9cuu8)
 
