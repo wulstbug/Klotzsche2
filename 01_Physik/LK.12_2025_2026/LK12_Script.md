@@ -2177,6 +2177,12 @@ in guter Näherung beschrieben werden. Hierbei beschreibt der Faktor $\delta$ di
 $ \delta = \frac{R}{2L}$
 </p>
 
+Die (leicht veränderte) Kreisfrequenz $\omega$ für den schwach gedämpften Fall wird ermittelt mit
+
+<p style="margin-left:10%">
+$ \omega = \sqrt{\omega_0-\delta^2}$ mit $\omega_0 = \sqrt{\frac{1}{L\cdot C}}$
+</p>
+
 Folgende Werte sind ihnen für die Berechnung eines experimentellen Versuch gegeben:
 
 <p style="margin-left:10%">
@@ -2191,3 +2197,10 @@ $R = 19\,\Omega$
 
 </p>
 
+Ermitteln Sie aus den gegebenen Werten zunächst:
+
+<p style="margin-left:10%">
+
+@rangeQuiz2($\hat{Q}$,0.00014,C)
+
+</p>
