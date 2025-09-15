@@ -92,11 +92,11 @@ mode: presentation
 
 Erstelle mit Hilfe von Geogebra deinen eigenen Schattenwurf in __3D__.
 
-Wechsle in einem weiteren Fenster [hier zu Geogebra](https://www.geogebra.org/classroom/yufw2qaq) und bearbeite folgende Anleitung. Gehe zu @color(Weiter ohne Anmeldung, orange) und nutze deinen Vornamen oder deine Initialien.
+Wechsle in einem weiteren Fenster [Klicke hier: Geogebra: 3D-Perspektive -> Schatten zeichnen](https://www.geogebra.org/classroom/yufw2qaq) und bearbeite folgende Anleitung. Gehe zu @color(Weiter ohne Anmeldung, orange) und nutze deinen Vornamen oder deine Initialien.
 
 ---
 
-[Klicke hier: Geogebra: 3D-Schatten zeichnen](https://www.geogebra.org/classroom/yufw2qaq)
+
 
 1. Zeichne eine senkrechte Hilfslinie zum Horizont durch die Sonne. 
 
