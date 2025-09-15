@@ -2162,3 +2162,32 @@ Bei einem realen Schwingkreis wird der elektrische Widerstand $R$ des Kabels ber
 |15	|9	|12	|6	|8	|3	|9 | 10 | 5 |
 
 *************
+
+## 9. 14. Berechnungen an einem schwach gedämpften Schwingkreis
+
+Für eine schwachte Dämpfung kann die Schwingung an einem gedämpften Schwingkreis mit der Formel:
+
+<p style="margin-left:10%">
+$ Q(t) = \hat{Q} \cdot \cos(\omega\,t) \cdot e^{-\delta\,t} $
+</p>
+
+in guter Näherung beschrieben werden. Hierbei beschreibt der Faktor $\delta$ die Dämpfung, hervorgerufen durch den elektrischen Widerstand $R$:
+
+<p style="margin-left:10%">
+$ \delta = \frac{R}{2L}$
+</p>
+
+Folgende Werte sind ihnen für die Berechnung eines experimentellen Versuch gegeben:
+
+<p style="margin-left:10%">
+
+$L = 2,23\,\mathrm{H}$
+
+$C=20\,\mathrm{\mu F}$
+
+$U_0 = 7\,\mathrm{V}$
+
+$R = 19\,\Omega$
+
+</p>
+
