@@ -89,7 +89,7 @@ mode: presentation
 -->
 
 
-## Schattenwurf mit 3D Geogebra
+## Schattenwurf 3D mit Geogebra
 
 Erstelle mit Hilfe von Geogebra deinen eigenen Schattenwurf in __3D__.
 
