@@ -2231,7 +2231,7 @@ _Hinweis: Für eine schwache Dämpfung, wie es in diesem Beispiel der Fall ist, 
 ---
 
 
-5. Geben Sie die ermittelten Werte in Ihre Simulation ein. Lassen Sie sich den $U(t)$-Graph am Kondensator für das Zeitintervall 0-100ms ausgeben. Laden Sie Ihr Simulationsergebnis hier hoch.
+5. Geben Sie die ermittelten Werte in Ihre Simulation ein. Lassen Sie sich den $U(t)$-Graph am Kondensator für das Zeitintervall 0-100ms ausgeben. Laden Sie Ihr Simulationsergebnis [hier hoch](https://diversewolken.ddns.net/nextcloud/index.php/s/z89P4CzGHWXjaHt).
 
 
 <details style="margin-left:10%">
@@ -2244,7 +2244,7 @@ _Hinweis: Für eine schwache Dämpfung, wie es in diesem Beispiel der Fall ist, 
 
 ---
 
-6. (*)Zeichnen Sie mit Geogebra die Funktion $U(t)$ mit den gegebenen Werten. Vergleichen Sie die mathematische Beschreibung mit der Simulation.
+6. (*)Zeichnen Sie mit Geogebra die Funktion $U(t)$ mit den gegebenen Werten. Vergleichen Sie die mathematische Beschreibung mit der Simulation. <br> <br> [Geogebra-U(t)](https://www.geogebra.org/classic/c66r2prv)
 
 <details style="margin-left:10%">
 
