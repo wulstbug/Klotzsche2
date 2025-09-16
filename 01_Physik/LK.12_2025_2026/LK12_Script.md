@@ -2231,7 +2231,7 @@ _Hinweis: Für eine schwache Dämpfung, wie es in diesem Beispiel der Fall ist, 
 ---
 
 
-5. Geben Sie die ermittelten Werte in Ihre Simulation ein. Lassen Sie sich den $U(t)$-Graph am Kondensator für das Zeitintervall 0-100ms ausgeben. Laden Sie Ihr Simulationsergebnis [hier hoch](https://diversewolken.ddns.net/nextcloud/index.php/s/z89P4CzGHWXjaHt).
+5. Geben Sie die ermittelten Werte in Ihre Simulation ein. Lassen Sie sich den $U(t)$-Graph am Kondensator für das Zeitintervall 0-100ms ausgeben. <br> Wählen Sie $\mathrm{d}t$ so, dass sie 10'000 Zeitschritte simulieren. <br> Erstellen Sie ein PDF Dokument aus Ihrer Simulation, benennen Sie das PDF um und laden Sie Ihr Simulationsergebnis [hier hoch](https://diversewolken.ddns.net/nextcloud/index.php/s/z89P4CzGHWXjaHt). <br> @color(Lassen Sie sich Ihre Ergebnis ausdrucken und fügen Sie die Simulation Ihren Unterlagen hinzu., blue)
 
 
 <details style="margin-left:10%">
@@ -2256,4 +2256,22 @@ _Hinweis: Für eine schwache Dämpfung, wie es in diesem Beispiel der Fall ist, 
 
 ## 9. 15. Experiment: Schwach gedämpfter Schwingkreis
 
-@color(Nehmenblue)
+<p style="color:blue">
+
+Nehmen Sie experimentell die Spannungsfunktion $U(t)$ für einen gedämpften Schwingkreis auf.
+
+</p>
+
+1. Bauen Sie den Schaltkreis anhand des Schaltplans auf. <br> ![Schaltkreis-Schwingkreis](https://diversewolken.ddns.net/nextcloud/index.php/s/Wy3j3A8ekemEy3e/download)
+
+2. Ergänzen Sie das Cassy-Messgerät zur Bestimmung der Spannungsfunktion. <br> @color(Lassen Sie sich Ihren Schaltkreis abnehmen., red)
+
+3. Verbinden Sie einen Laptop mit dem WLan des Cassy-Messgerätes.
+
+3. Entnehmen Sie aus Ihrer Simulation die gesamte Messzeit. Stellen Sie die Messzeit ein und wählen Sie ebenfalls ein sinnvolles Messintervall und eine sinnvolle Triggereinstellung zum Start der Messung.
+
+4. Nehmen Sie mit Hilfe des Cassy-Messgerätes die gedämpfte Schwingung auf.
+
+5. Erstellen Sie ein PDF aus Ihrer Messung und benennen Sie das PDF mit Ihrem Namen. Laden Sie das PDF [hier hoch](https://diversewolken.ddns.net/nextcloud/index.php/s/z89P4CzGHWXjaHt) (Laptop muss mit dem Internet verbunden werden). <br> @color(Lassen Sie sich Ihre Ergebnis ausdrucken und fügen Sie Ihr experimentelles Ergebnis Ihren Unterlagen hinzu., blue).
+
+6. Vergleichen Sie die Simulation mit der Messung.
