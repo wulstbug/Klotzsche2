@@ -2231,7 +2231,7 @@ _Hinweis: Für eine schwache Dämpfung, wie es in diesem Beispiel der Fall ist, 
 
 
 
-5. Zeichnen Sie den Graph $U(t)$ der gedämpften Schwingung am Kondensator für den Zeitraum 0-60 ms.
+5. Geben Sie die ermittelten Werte in Ihre Simulation ein. Lassen Sie sich den $U(t)$-Graph am Kondensator für das Zeitintervall 0-100ms ausgeben. Laden Sie Ihr Simulationsergebnis hier hoch.
 
 <details style="margin-left:10%">
 
@@ -2240,3 +2240,7 @@ _Hinweis: Für eine schwache Dämpfung, wie es in diesem Beispiel der Fall ist, 
 <iframe src="https://www.geogebra.org/classic/kb4kwfgq?embed" width="100%" height="600" allowfullscreen style="border: 1px solid #e4e4e4;border-radius: 4px;" frameborder="0"></iframe>
 
 </details>
+
+9. 15. Experiment: Schwach gedämpfter Schwingkreis
+
+@color(Nehmenblue)
