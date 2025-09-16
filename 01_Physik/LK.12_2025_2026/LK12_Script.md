@@ -2258,7 +2258,7 @@ _Hinweis: Für eine schwache Dämpfung, wie es in diesem Beispiel der Fall ist, 
 
 <p style="color:blue">
 
-Nehmen Sie experimentell die Spannungsfunktion $U(t)$ für einen gedämpften Schwingkreis auf.
+Nehmen Sie experimentell die Spannungsfunktion $U(t)$ für einen gedämpften Schwingkreis auf. <br> <br> __Machen Sie sich zu Ihrem Experiment Notizen.__ <br> <br>
 
 </p>
 
