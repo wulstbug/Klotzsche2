@@ -2228,10 +2228,23 @@ _Hinweis: Für eine schwache Dämpfung, wie es in diesem Beispiel der Fall ist, 
 
 </p>
 
+---
 
 
+5. Geben Sie die ermittelten Werte in Ihre Simulation ein. Lassen Sie sich den $U(t)$-Graph am Kondensator für das Zeitintervall 0-100ms ausgeben. <br> Wählen Sie $\mathrm{d}t$ so, dass sie 10'000 Zeitschritte simulieren. <br> Erstellen Sie ein PDF Dokument aus Ihrer Simulation, benennen Sie das PDF um und laden Sie Ihr Simulationsergebnis [hier hoch](https://diversewolken.ddns.net/nextcloud/index.php/s/z89P4CzGHWXjaHt). <br> @color(Lassen Sie sich Ihre Ergebnis ausdrucken und fügen Sie die Simulation Ihren Unterlagen hinzu., blue)
 
-5. Zeichnen Sie den Graph $U(t)$ der gedämpften Schwingung am Kondensator für den Zeitraum 0-60 ms.
+
+<details style="margin-left:10%">
+
+<summary> Lösung </summary>
+
+![LösungSimulation](https://diversewolken.ddns.net/nextcloud/index.php/s/kX7qNxFqGTkM8i7/download)
+</details>
+
+
+---
+
+6. (*)Zeichnen Sie mit Geogebra die Funktion $U(t)$ mit den gegebenen Werten. Vergleichen Sie die mathematische Beschreibung mit der Simulation. <br> <br> [Geogebra-U(t)](https://www.geogebra.org/classic/c66r2prv)
 
 <details style="margin-left:10%">
 
@@ -2240,3 +2253,25 @@ _Hinweis: Für eine schwache Dämpfung, wie es in diesem Beispiel der Fall ist, 
 <iframe src="https://www.geogebra.org/classic/kb4kwfgq?embed" width="100%" height="600" allowfullscreen style="border: 1px solid #e4e4e4;border-radius: 4px;" frameborder="0"></iframe>
 
 </details>
+
+## 9. 15. Experiment: Schwach gedämpfter Schwingkreis
+
+<p style="color:blue">
+
+Nehmen Sie experimentell die Spannungsfunktion $U(t)$ für einen gedämpften Schwingkreis auf. <br> <br> __Machen Sie sich zu Ihrem Experiment Notizen.__ <br> <br>
+
+</p>
+
+1. Bauen Sie den Schaltkreis anhand des Schaltplans auf. <br> ![Schaltkreis-Schwingkreis](https://diversewolken.ddns.net/nextcloud/index.php/s/Wy3j3A8ekemEy3e/download)
+
+2. Ergänzen Sie das Cassy-Messgerät zur Bestimmung der Spannungsfunktion. <br> @color(Lassen Sie sich Ihren Schaltkreis abnehmen., red)
+
+3. Verbinden Sie einen Laptop mit dem WLan des Cassy-Messgerätes.
+
+3. Entnehmen Sie aus Ihrer Simulation die gesamte Messzeit. Stellen Sie die Messzeit ein und wählen Sie ebenfalls ein sinnvolles Messintervall und eine sinnvolle Triggereinstellung zum Start der Messung.
+
+4. Nehmen Sie mit Hilfe des Cassy-Messgerätes die gedämpfte Schwingung auf.
+
+5. Erstellen Sie ein PDF aus Ihrer Messung und benennen Sie das PDF mit Ihrem Namen. Laden Sie das PDF [hier hoch](https://diversewolken.ddns.net/nextcloud/index.php/s/z89P4CzGHWXjaHt) (Laptop muss mit dem Internet verbunden werden). <br> @color(Lassen Sie sich Ihre Ergebnis ausdrucken und fügen Sie Ihr experimentelles Ergebnis Ihren Unterlagen hinzu., blue).
+
+6. Vergleichen Sie die Simulation mit der Messung.
