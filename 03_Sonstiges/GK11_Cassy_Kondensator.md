@@ -514,7 +514,9 @@ _Aufgaben:_
 
 ### Tutorial Oszilloskop-Modus mit Cassy 2
 
-!?[Tutorial Oszilloskop](https://www.youtube.com/watch?v=5vfNUj-2P4M)
+Youtube-Link
+
+[Tutorial Oszilloskop](https://www.youtube.com/watch?v=5vfNUj-2P4M)
 
 ### Experimentierüberblick
 
