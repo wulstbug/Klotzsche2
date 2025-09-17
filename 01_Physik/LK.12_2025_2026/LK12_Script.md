@@ -2332,7 +2332,7 @@ __Deutung der Beobachtung:__
 
 __Physikalische Erklärung:__
 
-{{4}}
+{{6}}
 ***********
 - ?? -> bitte mal nachdenken
 ***********
