@@ -2049,3 +2049,27 @@ Nehmen Sie experimentell die Spannungsfunktion $U(t)$ für einen gedämpften Sch
 5. Erstellen Sie ein PDF aus Ihrer Messung und benennen Sie das PDF mit Ihrem Namen. Laden Sie das PDF [hier hoch](https://diversewolken.ddns.net/nextcloud/index.php/s/z89P4CzGHWXjaHt) (Laptop muss mit dem Internet verbunden werden). <br> @color(Lassen Sie sich Ihre Ergebnis ausdrucken und fügen Sie Ihr experimentelles Ergebnis Ihren Unterlagen hinzu., blue).
 
 6. Vergleichen Sie die Simulation mit der Messung.
+
+## 9. 16 Vergleich von Simulation und Experiment - Gedämpfter Schwingkreis
+
+<p class="newspaper">
+
+__Messung__
+
+![U-t-Messung](https://diversewolken.ddns.net/nextcloud/index.php/s/a4aQqEHPEXq8Gok/download)
+
+<p class="cb">
+
+__Simulation__
+
+![U-t-Simulation](https://diversewolken.ddns.net/nextcloud/index.php/s/RiZ6J7HssJfMff9/download)
+
+</p>
+
+</p>
+
+__Vergleich:__
+
+__Ursachen:__
+
+__Physikalische Begrüdung:__
