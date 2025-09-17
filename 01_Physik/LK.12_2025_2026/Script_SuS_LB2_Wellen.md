@@ -391,7 +391,7 @@ __Die folgenden Aufgaben beziehen sich auf die Transversalwelle in Starteinstell
 
 </p>
 
-3. Wählen Sie die korrekte Wellengleichung $y(t)$ für den Ort $x=0\,\mathrm{m}$.
+3. Wählen Sie die korrekte Wellengleichung $y(t)$ für den Ort $s=0\,\mathrm{m}$. <br> _Hinweis: Beobachten Sie den Schwinger am Ort $s=0\,\mathrm{m}$ und beschreiben Sie dessen zeitliche Bewegung._
 
 <p style="margin-left:10%">
 
@@ -399,7 +399,7 @@ __Die folgenden Aufgaben beziehen sich auf die Transversalwelle in Starteinstell
 
 </p>
 
-4. Wählen Sie die korrekte Wellengleichung $y(x)$ für den Zeitpunkt $t=0\,\mathrm{s}$.
+4. Wählen Sie die korrekte Wellengleichung $y(x)$ für den Zeitpunkt $t=0\,\mathrm{s}$. <br> _Hinweis: Frieren Sie die Welle zum Zeitpunkt $t=0\,\mathrm{s}$ ein und beschreiben Sie deren räumlichen Verlauf._
 
 <p style="margin-left:10%">
 
