@@ -2318,14 +2318,14 @@ __Vergleich:__
 
 {{4}}
 ***********
-- Periodendauer der Messung scheint sich zu verringern, was bei der Simulation nicht zu beobachten ist
+- Periodendauer scheint sich während der Messung zu verringern, was bei der Simulation nicht zu beobachten ist
 ***********
 
 __Deutung der Beobachtung:__
 
 {{5}}
 ***********
-- tatsächliche Dämpfung wird von der Messung nicht berücksichtigt
+- tatsächliche Dämpfung wird von der Simulation nicht berücksichtigt
 
 - zeitliche Abhängigkeit der Größen L bzw. C möglich (L und/oder C sinken)
 ***********
