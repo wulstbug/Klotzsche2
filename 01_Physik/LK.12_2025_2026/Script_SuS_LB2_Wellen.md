@@ -194,7 +194,7 @@ mode: presentation
 > - die einzelnen schwingenden Teilchen bewegen sich ausschließlich um ihre Gleichgewichtslage
 
 
-### 6. 1. Arten mechanischer Wellen
+### 10. 1. Arten mechanischer Wellen
 
 <p class="newspaper3">
 
@@ -240,7 +240,7 @@ __Beobachtung:__
 
 </p>
 
-### 6. 2. Eigenschaften mechanischer Wellen
+### 10. 2. Eigenschaften mechanischer Wellen
 
 @color(_Tipp: Nutze für diese Übersicht eine eigene Seite_, orange)
 
