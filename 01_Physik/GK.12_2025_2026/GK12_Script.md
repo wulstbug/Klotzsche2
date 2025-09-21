@@ -1192,7 +1192,7 @@ Wir stellen die **zeitliche Bewegung** eines einzelnen Oszillators (d.h. ein sch
 ************
 
 
-### Aufgaben zur Charakterisierung von Wellen
+#### Aufgaben zur Charakterisierung von Wellen
 
 <iframe src="https://www.geogebra.org/classic/nc2tbcdm?embed" width="100%" height="600" allowfullscreen style="border: 1px solid #e4e4e4;border-radius: 4px;" frameborder="0"></iframe>
 
@@ -1259,5 +1259,23 @@ __Die folgenden Aufgaben beziehen sich auf die Transversalwelle in Starteinstell
 @rangeQuiz2($T$,1.8,s)
 
 @rangeQuiz2($v$,1.59, $\mathrm{\frac{m}{s}}$)
+
+</p>
+
+### 6. 3. Darstellung der Wellenausbreitung mit __Wellenfront und Wellennormale__
+
+Zur Darstellung der Ausbreitung von Wellen nutzen man __Wellenfronten__ und @color(__Wellennormale__,red)
+
+<p class="newspaper">
+
+![WellenfrontWellenNormale](https://diversewolken.ddns.net/nextcloud/index.php/s/sPE2gzAdfqJqdjk/download "Links: Kreisförmige Wellenfront (z.B. Steinwurf in Wasser) | Rechts: Ebene Welle (z.B. Licht)")
+
+<p class="cb">
+
+__Die Wellenfronten__ sind Stellen maximaler Auslenkung (Wellenberge). Ihr Abstand voneinander ist gleich der Wellenlänge $\lambda$.
+
+@color(Die Wellennormale, red) steht immer senkrecht auf der Wellenfront und gibt die Ausbreitungsrichtung der Welle an.
+
+</p>
 
 </p>
