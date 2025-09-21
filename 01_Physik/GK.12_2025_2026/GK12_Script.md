@@ -1294,7 +1294,7 @@ __Die Wellenfronten__ sind Stellen maximaler Auslenkung (Wellenberge). Ihr Absta
 ************
 Kreisförmige Wellenfront (z.B. Steinwurf ins Wasser)
 
-??[Fallstad-Kugelwelle](https://www.falstad.com/ripple/Ripple.html?rol=$+3+512+64+0+0+668+0.048828125%0As+2+257+265+0+0.233333+0+10+100+1+0%0A)
+??[Fallstad-Kugelwelle](https://www.falstad.com/ripple/Ripple.html?rol=$+3+512+64+0+4+668+0.00390625%0As+2+257+265+0+0.233333+0+10+100+1+0%0A)
 ************
 
 <p class="cb">
