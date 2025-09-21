@@ -1310,3 +1310,87 @@ Ebene Welle (z.B. Lichtausbreitung)
 </p>
 
 </p>
+
+### 6. 4. Huygens'sche Prinzip
+
+> Jeder Punkt einer Wellenfront ist seinerseits wieder Ausgangspunkt für @color(kreis- bzw. kugelförmige Elementarwellen, red)
+
+{{1}}
+*************
+![Huygernssches-Prinzip](https://diversewolken.ddns.net/nextcloud/index.php/s/zE2kb4mDwinM5M2/download)
+
+
+-> [Simulation-Ausbreitung-Kreiswelle-EbeneWelle](https://www.leifiphysik.de/mechanik/mechanische-wellen/ausblick/huygenssches-prinzip-zur-beschreibung-von-mechanischen-wellen)
+*************
+
+### 6. 5. Reflexion
+
+__Definition:__ Trifft eine Welle auf eine ebene Oberfläche, dann wird sie __reflektiert__. Es gilt das __Reflexionsgesetz__:
+
+{{1}}
+**********
+<p class="newspaper">
+
+> 1. Bei der Reflexion von Wellen sind der Einfallswinkel $\alpha$ und der @color(Reflexionswinkel $\alpha'$, red) gleich groß. 
+>
+> 2. Die Wellennormalen der einfallenden und reflektierten Wellen liegen in einer Ebene.
+
+<p class="cb">
+
+![Reflexion_Welle](https://diversewolken.ddns.net/nextcloud/index.php/s/bkBpwMGem3rXEx6/download)
+
+</p>
+
+</p>
+**********
+
+{{2}}
+**********
+??[Fendt-Reflexion](https://www.walter-fendt.de/html5/phde/refractionhuygens_de.htm)
+**********
+
+
+### 6. 6. Brechung
+
+
+__Definition:__ Trifft eine Welle unter einem Einfallswinkel $\alpha\neq 0$ auf eine @color(__ebene Grenzfläche__, darkgreen) zweier Stoffe, in denen sie sich mit unterschiedlicher @color(Geschwindigkeit, red) ausbreitet, dann ändert sie ihre Ausbreitungsrichtung. Sie wird @color(gebrochen, red). Es gilt das __Brechungsgesetz__:
+
+---
+
+{{1}}
+**********
+<p class="newspaper">
+
+Beim Übergang von einem Stoff (1) in einen anderen Stoff (2) gilt das __Brechungsgesetz__.
+
+$$\boxed{\dfrac{\sin\alpha}{\sin\beta} = \dfrac{v_1}{v_2}}$$
+
+wobei
+
+<p style="margin-left:5%">
+
+     $\alpha$ .. Einfallswinkel
+
+     $\beta$ .. Brechungswinkel
+
+     $v_1,\,v_2$ .. Ausbreitungsgeschwindigkeiten
+
+</p>
+
+<p class="cb">
+
+![Brechung_Welle](https://diversewolken.ddns.net/nextcloud/index.php/s/3awXew9HRi54nyd/download)
+
+</p>
+
+</p>
+**********
+
+{{2}}
+**********
+??[Fendt-Reflexion](https://www.walter-fendt.de/html5/phde/refractionhuygens_de.htm)
+**********
+
+### 6. 7. Beugung
+
+### 6. 8. Interferenz
