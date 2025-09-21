@@ -1262,19 +1262,50 @@ __Die folgenden Aufgaben beziehen sich auf die Transversalwelle in Starteinstell
 
 </p>
 
-### 6. 3. Darstellung der Wellenausbreitung mit __Wellenfront und Wellennormale__
+### 6. 3. Darstellung der Wellenausbreitung mit Wellenfront und Wellennormale
 
 Zur Darstellung der Ausbreitung von Wellen nutzen man __Wellenfronten__ und @color(__Wellennormale__,red)
 
 <p class="newspaper">
 
+{{1}}
+************
 ![WellenfrontWellenNormale](https://diversewolken.ddns.net/nextcloud/index.php/s/sPE2gzAdfqJqdjk/download "Links: Kreisförmige Wellenfront (z.B. Steinwurf in Wasser) | Rechts: Ebene Welle (z.B. Licht)")
+************
 
 <p class="cb">
 
+{{4}}
+*****************
 __Die Wellenfronten__ sind Stellen maximaler Auslenkung (Wellenberge). Ihr Abstand voneinander ist gleich der Wellenlänge $\lambda$.
 
 @color(Die Wellennormale, red) steht immer senkrecht auf der Wellenfront und gibt die Ausbreitungsrichtung der Welle an.
+*****************
+
+</p>
+
+</p>
+
+---
+
+<p class="newspaper">
+
+{{2}}
+************
+Kreisförmige Wellenfront (z.B. Steinwurf ins Wasser)
+
+??[Fallstad-Kugelwelle](https://www.falstad.com/ripple/Ripple.html?rol=$+3+512+64+0+0+668+0.048828125%0As+2+257+265+0+0.233333+0+10+100+1+0%0A)
+************
+
+<p class="cb">
+
+{{3}}
+************
+
+Ebene Welle (z.B. Lichtausbreitung)
+
+??[Fallstad-Kugelwelle](https://www.falstad.com/ripple/Ripple.html?rol=$+3+512+64+0+0+569+0.048828125%0AS+2+0+1+511+1+0+0.466666+0+10+100+1+0%0A)
+************
 
 </p>
 
