@@ -2657,3 +2657,19 @@ __Die folgenden Aufgaben beziehen sich auf die Transversalwelle in Starteinstell
 @rangeQuiz2($v$,1.59, $\mathrm{\frac{m}{s}}$)
 
 </p>
+
+#### Übungsaufgaben zu Reflexion, Beugung, Brechung
+
+__Quiz zur Licht-Brechung:__
+
+- [Einfach](https://www.leifiphysik.de/optik/lichtbrechung/aufgabe/quiz-zur-lichtbrechung-einfach)
+
+- [Schwer](https://www.leifiphysik.de/optik/lichtbrechung/aufgabe/quiz-zur-lichtbrechung-schwer)
+
+__Multiplayer-Quiz:__
+
+- [Multiplayer-Learningapps](https://learningapps.org/604603)
+
+__Zuordnung Wellenausbreitung:__
+
+- [PaareZuordnen-Wellenausbreitung](https://learningapps.org/view4311115)
