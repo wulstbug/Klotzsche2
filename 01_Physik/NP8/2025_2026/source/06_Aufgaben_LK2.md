@@ -99,7 +99,7 @@ mode: presentation
 
 <p style="margin:5%">
 
-> [![Aufgabe-1-Reflexion-Ebener-Spiegel](https://diversewolken.ddns.net/nextcloud/index.php/s/n8m7YAd9rcxgBB9/download)](https://www.geogebra.org/classroom/fcghsuwb)
+> [![Aufgabe-1-Reflexion-Ebener-Spiegel](https://diversewolken.ddns.net/nextcloud/index.php/s/cFYfkmaiPxbJS7o/download)](https://www.geogebra.org/classroom/fcghsuwb)
 
 </p>
 
@@ -109,7 +109,7 @@ mode: presentation
 
 <p style="margin:5%">
 
-> [![Aufgabe-Konstruktion-2](https://diversewolken.ddns.net/nextcloud/index.php/s/n8m7YAd9rcxgBB9/download)](https://www.geogebra.org/classroom/nkdkja9k)
+> [![Aufgabe-Konstruktion-2](https://diversewolken.ddns.net/nextcloud/index.php/s/WBFHHDcPQ9JAzwH/download)](https://www.geogebra.org/classroom/nkdkja9k)
 
 </p>
 
@@ -119,7 +119,7 @@ mode: presentation
 
 <p style="margin:5%">
 
-> [![Aufgabe-Konstruktion-3](https://diversewolken.ddns.net/nextcloud/index.php/s/n8m7YAd9rcxgBB9/download)](https://www.geogebra.org/classroom/hj8euenh)
+> [![Aufgabe-Konstruktion-3](https://diversewolken.ddns.net/nextcloud/index.php/s/BnrCmjXQbceZMLQ/download)](https://www.geogebra.org/classroom/hj8euenh)
 
 </p>
 
