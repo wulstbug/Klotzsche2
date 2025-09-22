@@ -2337,6 +2337,73 @@ __Physikalische Erklärung:__
 - ?? -> bitte mal nachdenken
 ***********
 
+
+### Übung Elektromagnetischer Schwingkreis
+
+Im Unterricht soll der zeitliche Verlauf der Spannung in einem elektromagnetischen Schwingkreis aufgezeichnet werden. Dafür stehen unter anderem ein Kondensator mit der Aufschrift $C=40\,\mathrm{µF}$, eine Spule der Induktivität $L=630\,\mathrm{H}$, eine Gleichspannungsquelle, ein Schalter sowie ein geeignetes Spannungsmessgerät zur Verfügung.
+
+<p style="margin-left:5%">
+
+a) Zeige, dass für den Schwingkreis eine Periodendauer von $T=1\,\mathrm{s}$ zu erwarten ist. 
+
+<details>
+
+<summary> Lösung </summary>
+
+![Loesung_a](https://diversewolken.ddns.net/nextcloud/index.php/s/5Ngo4qfT6CabSSf/download)
+
+</details>
+
+---
+
+b) Aus der Messung erhält man den abgebildeten Spannungsverlauf.
+
+![Spannungsverlauf](https://www.leifiphysik.de/sites/default/files/2018/12/image/reale_elektromagnetische_schwingung_bild_1.svg)
+
+Bestimme mithilfe des Diagramms einen möglichst genauen Wert für die im Versuch aufgetretene Periodendauer. [zur Kontrolle: $T=0,95\,\mathrm{s}$]
+
+<details>
+
+<summary> Lösung </summary>
+
+![Loesung_b](https://diversewolken.ddns.net/nextcloud/index.php/s/qwn4cr7PnjfYrJd/download)
+
+</details>
+
+---
+
+c) Ein Schüler vermutet, dass der ohmsche Widerstand $R$ der Spule für die Abweichung zwischen den beiden Werten verantwortlich ist. Er findet in einer Formelsammlung für die Frequenz $f$ eines gedämpften elektromagnetischen Schwingkreises die Formel
+
+$$f= \frac{1}{2\pi}\sqrt{\frac{1}{L\cdot C}-\Big(\frac{R}{2L}\Big)^2}$$
+
+Die im Versuch verwendete Spule hat einen Widerstand von $R=280\,\Omega$.
+
+Zeige rechnerisch, dass der Unterschied zwischen den Werten nicht auf den Spulenwiderstand zurückgeführt werden kann.
+
+<details>
+
+<summary> Lösung </summary>
+
+![Loesung_c](https://diversewolken.ddns.net/nextcloud/index.php/s/pLBtBCiD4CyYiiM/download)
+
+</details>
+
+---
+
+d) Bei nochmaliger Betrachtung des Kondensators stellt der Schüler fest, dass für die Kapazität eine Abweichung von bis zu 10% angegeben ist.
+
+Überprüfe durch Rechnung, ob damit die Abweichung des experimentellen Werts von der theoretischen Schwingungsdauer erklärt werden kann.
+
+<details>
+
+<summary> Lösung </summary>
+
+![Loesung_d](https://diversewolken.ddns.net/nextcloud/index.php/s/TEHDXdo4x4s2woG/download)
+
+</details>
+
+</p>
+
 # LB 10 - Mechanische und Elektromagnetische Wellen
 
 
@@ -2657,19 +2724,3 @@ __Die folgenden Aufgaben beziehen sich auf die Transversalwelle in Starteinstell
 @rangeQuiz2($v$,1.59, $\mathrm{\frac{m}{s}}$)
 
 </p>
-
-#### Übungsaufgaben zu Reflexion, Beugung, Brechung
-
-__Quiz zur Licht-Brechung:__
-
-- [Einfach](https://www.leifiphysik.de/optik/lichtbrechung/aufgabe/quiz-zur-lichtbrechung-einfach)
-
-- [Schwer](https://www.leifiphysik.de/optik/lichtbrechung/aufgabe/quiz-zur-lichtbrechung-schwer)
-
-__Multiplayer-Quiz:__
-
-- [Multiplayer-Learningapps](https://learningapps.org/604603)
-
-__Zuordnung Wellenausbreitung:__
-
-- [PaareZuordnen-Wellenausbreitung](https://learningapps.org/view4311115)
