@@ -2337,8 +2337,7 @@ __Physikalische Erklärung:__
 - ?? -> bitte mal nachdenken
 ***********
 
-
-### Übung Elektromagnetischer Schwingkreis
+### Übung Schwach Gedämpfter Schwingkreis (LEIFI)
 
 Im Unterricht soll der zeitliche Verlauf der Spannung in einem elektromagnetischen Schwingkreis aufgezeichnet werden. Dafür stehen unter anderem ein Kondensator mit der Aufschrift $C=40\,\mathrm{µF}$, eine Spule der Induktivität $L=630\,\mathrm{H}$, eine Gleichspannungsquelle, ein Schalter sowie ein geeignetes Spannungsmessgerät zur Verfügung.
 
