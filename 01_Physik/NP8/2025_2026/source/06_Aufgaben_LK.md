@@ -91,22 +91,22 @@ mode: presentation
 
 ## Aufgaben LK1 - Nawi 8
 
-Von den folgenden drei Aufgaben sind __genau zwei__ Aufgaben zu lösen.
+@color(Von den folgenden drei Aufgaben sind __genau zwei__ Aufgaben zu lösen., blue)
 
-__Aufgabe 1 (Pflichtaufgabe)__
+---
+
+[Aufgabe-1-Reflexion-Ebener-Spiegel](https://www.geogebra.org/classroom/vqd5zq4w)
 
 ![Aufgabe-Konstruktion-1](https://diversewolken.ddns.net/nextcloud/index.php/s/cFYfkmaiPxbJS7o/download)
 
-[Link-Zu-Aufgabe-1](https://www.geogebra.org/classroom/vqd5zq4w)
+---
 
-__Aufgabe 2 (Wahlaufgabe 1)__
+[Aufgabe-2-Hubble-Hohlspiegel](https://www.geogebra.org/classroom/usft5wfh)
 
 ![Aufgabe-Konstruktion-2](https://diversewolken.ddns.net/nextcloud/index.php/s/WBFHHDcPQ9JAzwH/download)
 
-[Link-Zu-Aufgabe-2](https://www.geogebra.org/classroom/usft5wfh)
+---
 
-__Aufgabe 3 (Wahlaufgabe 2) - 3D Schattenkonstruktion__
+[Aufgabe-3-Schattenkonstruktion-3D](https://www.geogebra.org/classroom/usft5wfh)
 
 ![Aufgabe-Konstruktion-3](https://diversewolken.ddns.net/nextcloud/index.php/s/BnrCmjXQbceZMLQ/download)
-
-[Link-Zu-Aufgabe-3](https://www.geogebra.org/classroom/usft5wfh)
