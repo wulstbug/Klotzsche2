@@ -1390,6 +1390,31 @@ __Definition:__ Trifft eine Welle auf eine ebene Oberfläche, dann wird sie __re
 ??[Fendt-Reflexion](https://www.walter-fendt.de/html5/phde/refractionhuygens_de.htm)
 **********
 
+{{3}}
+**********
+<p style="color:blue">
+
+Aufgaben:
+
+1. In einem Wellenkanal läuft eine Wasserwelle auf eine glatte, senkrechte Wand zu. Welche Beobachtung macht man nach der Reflexion?
+
+     - [[ ]] Die Welle verschwindet vollständig an der Wand.  
+     - [[x]] Die Welle wird reflektiert und läuft in entgegengesetzter Richtung zurück.  
+     - [[ ]] Die Welle ändert ihre Frequenz und läuft mit anderer Geschwindigkeit zurück.  
+     - [[ ]] Die Welle läuft durch die Wand hindurch und setzt sich dahinter fort.
+
+2. Eine Welle läuft auf eine Wand zu und wird reflektiert. Dabei beobachtet man bei der reflektierten Welle eine Winkel von 35° zwischen der Wellennormalen und der Wand. Nennen Sie den Einfallswinkel.
+
+<p style="margin-left:10%">
+
+@rangeQuiz2($\alpha$, 55 ,°)
+
+</p>
+
+
+</p>
+**********
+
 
 ### 6. 6. Brechung
 
@@ -1432,6 +1457,30 @@ wobei
 ??[Fendt-Reflexion](https://www.walter-fendt.de/html5/phde/refractionhuygens_de.htm)
 **********
 
+
+{{3}}
+**********
+<p style="color:blue">
+
+Aufgaben:
+
+1. Markieren Sie physikalisch sinnvolle Aussagen.
+
+     - [( )] Wenn eine Welle auf eine Grenzfläche fällt, wird sie immer gebrochen.
+     - [(x)] Wenn eine Welle auf eine Grenzfläche fällt, wird sie immer gebrochen, wenn der Einfallswinkel $\alpha\neq 0^\circ$
+
+2. Ermitteln Sie den Brechungswinkel für den Übergang eines Lichtstrahls von  Luft nach Plexiglas. Die Lichtgeschwindigkeit in Luft beträgt $300'000\,\mathrm{\frac{m}{s}}$ und in Plexiglas $200'000\,\mathrm{\frac{m}{s}}$. Der Einfallswinkel beträgt 35°.
+
+<p style="margin-left:10%">
+
+@rangeQuiz2($\beta$, 22.48 ,°)
+
+</p>
+
+
+</p>
+**********
+
 ### 6. 7. Beugung
 
 Definition: Trifft eine Welle auf einen Spalt oder eine Kante, so sind die betreffenden Stellen nach _Huygens Prinzip_ Ausgangspunkt von Elementarwellen. Damit breitet sich eine Welle auch in den __Schattenraum__ aus.
@@ -1469,4 +1518,24 @@ __Spalt:__
 
 </p>
 
-### 6. 8. Interferenz
+
+{{4}}
+**********
+<p style="color:blue">
+
+Aufgaben:
+
+1. Markieren Sie physikalisch sinnvolle Aussagen.
+
+     - [( )] Beugung von Licht ist mit dem Modell des Lichtstrahls erklärbar.
+     - [(x)] Beugung ist ein Phänomen, dass sich nur mit der Welleneigenschaft des Lichts erklären lässt.
+
+2. Eine Wasserwelle trifft auf eine schmale Spaltöffnung in einer Wand im Wellenkanal. Was beobachtet man hinter der Öffnung?
+
+     - [[ ]] Die Welle läuft völlig ungestört geradeaus weiter, ohne sich zu verändern.  
+     - [[x]] Die Wellen breiten sich nach der Öffnung halbkreisförmig in den Raum dahinter aus.  
+     - [[ ]] Die Welle wird vollständig von der Wand absorbiert.  
+     - [[ ]] Die Welle verschwindet und es entsteht nur noch stehendes Wasser. 
+
+</p>
+**********

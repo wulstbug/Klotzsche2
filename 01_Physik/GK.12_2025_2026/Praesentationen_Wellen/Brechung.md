@@ -86,3 +86,27 @@ wobei
 **********
 ??[Fendt-Reflexion](https://www.walter-fendt.de/html5/phde/refractionhuygens_de.htm)
 **********
+
+
+{{3}}
+**********
+<p style="color:blue">
+
+Aufgaben:
+
+1. Markieren Sie physikalisch sinnvolle Aussagen.
+
+     - [( )] Wenn eine Welle auf eine Grenzfläche fällt, wird sie immer gebrochen.
+     - [(x)] Wenn eine Welle auf eine Grenzfläche fällt, wird sie immer gebrochen, wenn der Einfallswinkel $\alpha\neq 0^\circ$
+
+2. Ermitteln Sie den Brechungswinkel für den Übergang eines Lichtstrahls von  Luft nach Plexiglas. Die Lichtgeschwindigkeit in Luft beträgt $300'000\,\mathrm{\frac{m}{s}}$ und in Plexiglas $200'000\,\mathrm{\frac{m}{s}}$. Der Einfallswinkel beträgt 35°.
+
+<p style="margin-left:10%">
+
+@rangeQuiz2($\beta$, 22.48 ,°)
+
+</p>
+
+
+</p>
+**********

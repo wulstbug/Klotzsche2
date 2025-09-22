@@ -81,3 +81,25 @@ __Spalt:__
 </p>
 
 </p>
+
+
+{{4}}
+**********
+<p style="color:blue">
+
+Aufgaben:
+
+1. Markieren Sie physikalisch sinnvolle Aussagen.
+
+     - [( )] Beugung von Licht ist mit dem Modell des Lichtstrahls erklärbar.
+     - [(x)] Beugung ist ein Phänomen, dass sich nur mit der Welleneigenschaft des Lichts erklären lässt.
+
+2. Eine Wasserwelle trifft auf eine schmale Spaltöffnung in einer Wand im Wellenkanal. Was beobachtet man hinter der Öffnung?
+
+     - [[ ]] Die Welle läuft völlig ungestört geradeaus weiter, ohne sich zu verändern.  
+     - [[x]] Die Wellen breiten sich nach der Öffnung halbkreisförmig in den Raum dahinter aus.  
+     - [[ ]] Die Welle wird vollständig von der Wand absorbiert.  
+     - [[ ]] Die Welle verschwindet und es entsteht nur noch stehendes Wasser. 
+
+</p>
+**********
