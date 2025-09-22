@@ -1502,7 +1502,7 @@ Definition: Trifft eine Welle auf einen Spalt oder eine Kante, so sind die betre
 ********
 __Kante:__
 
-??[Simulation-Kante](https://www.falstad.com/ripple/Ripple.html?rol=$+3+512+64+0+1+489+1.5625e-8%0Aw+0+252+131+507+131%0AS+2+0+1+511+1+0+1.399998+0+10+100+1+0%0A)
+??[Simulation-Kante](https://www.falstad.com/ripple/Ripple.html?rol=$+3+512+64+0+1+489+1.5625e-8%0Aw+0+260+133+515+133%0AS+2+0+1+511+1+0+1.399998+0+10+100+1+0%0A)
 ********
 
 <p class="cb">
