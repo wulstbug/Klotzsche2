@@ -125,7 +125,7 @@ mode: presentation
 
 ---
 
-4. Aufgaben eingeben
+4. Zu bewertende Aufgaben eingeben
 
 <p style="margin:5%">
 
