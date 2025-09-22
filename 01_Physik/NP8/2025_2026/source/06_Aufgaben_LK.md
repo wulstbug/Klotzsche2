@@ -95,20 +95,30 @@ mode: presentation
 
 ---
 
-> [Aufgabe-1-Reflexion-Ebener-Spiegel](https://www.geogebra.org/classroom/fcghsuwb)
+1. [Aufgabe-1-Reflexion-Ebener-Spiegel](https://www.geogebra.org/classroom/fcghsuwb)
 
-[![Aufgabe-1-Reflexion-Ebener-Spiegel](https://diversewolken.ddns.net/nextcloud/index.php/s/cFYfkmaiPxbJS7o/download)](https://www.geogebra.org/classroom/fcghsuwb)
+<p style="margin:5%">
 
----
+> [![Aufgabe-1-Reflexion-Ebener-Spiegel](https://diversewolken.ddns.net/nextcloud/index.php/s/cFYfkmaiPxbJS7o/download)](https://www.geogebra.org/classroom/fcghsuwb)
 
-> [Aufgabe-2-Hubble-Hohlspiegel](https://www.geogebra.org/classroom/nkdkja9k)
-
-[![Aufgabe-Konstruktion-2](https://diversewolken.ddns.net/nextcloud/index.php/s/WBFHHDcPQ9JAzwH/download)](https://www.geogebra.org/classroom/nkdkja9k)
+</p>
 
 ---
 
-> [Aufgabe-3-Schattenkonstruktion-3D](https://www.geogebra.org/classroom/usft5wfh)
+2. [Aufgabe-2-Hubble-Hohlspiegel](https://www.geogebra.org/classroom/nkdkja9k)
 
-[![Aufgabe-Konstruktion-3](https://diversewolken.ddns.net/nextcloud/index.php/s/BnrCmjXQbceZMLQ/download)](https://www.geogebra.org/classroom/usft5wfh)
+<p style="margin:5%">
 
+> [![Aufgabe-Konstruktion-2](https://diversewolken.ddns.net/nextcloud/index.php/s/WBFHHDcPQ9JAzwH/download)](https://www.geogebra.org/classroom/nkdkja9k)
 
+</p>
+
+---
+
+3. [Aufgabe-3-Schattenkonstruktion-3D](https://www.geogebra.org/classroom/hj8euenh)
+
+<p style="margin:5%">
+
+[![Aufgabe-Konstruktion-3](https://diversewolken.ddns.net/nextcloud/index.php/s/BnrCmjXQbceZMLQ/download)](https://www.geogebra.org/classroom/hj8euenh)
+
+</p>
