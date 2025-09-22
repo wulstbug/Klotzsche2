@@ -119,7 +119,7 @@ mode: presentation
 
 <p style="margin:5%">
 
-[![Aufgabe-Konstruktion-3](https://diversewolken.ddns.net/nextcloud/index.php/s/BnrCmjXQbceZMLQ/download)](https://www.geogebra.org/classroom/hj8euenh)
+> [![Aufgabe-Konstruktion-3](https://diversewolken.ddns.net/nextcloud/index.php/s/BnrCmjXQbceZMLQ/download)](https://www.geogebra.org/classroom/hj8euenh)
 
 </p>
 
@@ -129,6 +129,6 @@ mode: presentation
 
 <p style="margin:5%">
 
-??[Umfrage-Aufgaben](https://forms.office.com/e/ZBexeSkgAW)
+> ??[Umfrage-Aufgaben](https://forms.office.com/e/ZBexeSkgAW)
 
 </p>
