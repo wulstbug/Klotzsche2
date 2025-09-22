@@ -81,5 +81,3 @@ __Spalt:__
 </p>
 
 </p>
-
-### 6. 8. Interferenz

@@ -1262,6 +1262,47 @@ __Die folgenden Aufgaben beziehen sich auf die Transversalwelle in Starteinstell
 
 </p>
 
+#### Aufgabenstellung zur Selbsständigen Präsentation
+
+<p style="color:blue">
+
+Aufgabe: 
+
+1. Wählen Sie eines der folgenden Themen aus.
+
+2. Erarbeiten Sie sich das Wellenphänomen.
+
+3. Stellen Sie das Wellenphänomen dem Auditorium in einem kurzen Beitrag vor. Nutzen Sie die bereitgestellte Simulation um den Sachverhalt zu verdeutlichen.
+
+4. Lösen Sie die Aufgabe allein oder gemeinsam mit dem Auditorium.
+
+
+</p>
+
+<p class="newspaper3">
+
+__Reflexion:__
+
+[qr-code](https://liascript.github.io/nightly/?https://raw.githubusercontent.com/wulstbug/Klotzsche2/2025_2026/01_Physik/GK.12_2025_2026/Praesentationen_Wellen/Reflexion.md#1)
+
+<p class="cb">
+
+__Brechung:__
+
+[qr-code](https://liascript.github.io/nightly/?https://raw.githubusercontent.com/wulstbug/Klotzsche2/2025_2026/01_Physik/GK.12_2025_2026/Praesentationen_Wellen/Brechung.md#1)
+
+<p class="cb">
+
+__Beugung:__
+
+[qr-code](https://liascript.github.io/nightly/?https://raw.githubusercontent.com/wulstbug/Klotzsche2/2025_2026/01_Physik/GK.12_2025_2026/Praesentationen_Wellen/Beugung.md#1)
+
+</p>
+
+</p>
+
+</p>
+
 ### 6. 3. Darstellung der Wellenausbreitung mit Wellenfront und Wellennormale
 
 Zur Darstellung der Ausbreitung von Wellen nutzen man __Wellenfronten__ und @color(__Wellennormale__,red)
