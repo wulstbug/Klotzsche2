@@ -432,3 +432,107 @@ __Die folgenden Aufgaben beziehen sich auf die Transversalwelle in Starteinstell
 @rangeQuiz2($v$,1.59, $\mathrm{\frac{m}{s}}$)
 
 </p>
+
+
+### 10. 3. Darstellung der Wellenausbreitung mit Wellenfront und Wellennormale
+
+Zur Darstellung der Ausbreitung von Wellen nutzen man __Wellenfronten__ und @color(__Wellennormale__,red)
+
+<p class="newspaper">
+
+{{1}}
+************
+![WellenfrontWellenNormale](https://diversewolken.ddns.net/nextcloud/index.php/s/sPE2gzAdfqJqdjk/download "Links: Kreisförmige Wellenfront (z.B. Steinwurf in Wasser) | Rechts: Ebene Welle (z.B. Licht)")
+************
+
+<p class="cb">
+
+{{4}}
+*****************
+__Die Wellenfronten__ sind Stellen maximaler Auslenkung (Wellenberge). Ihr Abstand voneinander ist gleich der Wellenlänge $\lambda$.
+
+@color(Die Wellennormale, red) steht immer senkrecht auf der Wellenfront und gibt die Ausbreitungsrichtung der Welle an.
+*****************
+
+</p>
+
+</p>
+
+---
+
+<p class="newspaper">
+
+{{2}}
+************
+Kreisförmige Wellenfront (z.B. Steinwurf ins Wasser)
+
+??[Fallstad-Kugelwelle](https://www.falstad.com/ripple/Ripple.html?rol=$+3+512+64+0+4+668+0.00390625%0As+2+257+265+0+0.233333+0+10+100+1+0%0A)
+************
+
+<p class="cb">
+
+{{3}}
+************
+
+Ebene Welle (z.B. Lichtausbreitung)
+
+??[Fallstad-Kugelwelle](https://www.falstad.com/ripple/Ripple.html?rol=$+3+512+64+0+0+569+0.048828125%0AS+2+0+1+511+1+0+0.466666+0+10+100+1+0%0A)
+************
+
+</p>
+
+</p>
+
+### 10. 4. Huygens'sche Prinzip
+
+> Jeder Punkt einer Wellenfront ist seinerseits wieder Ausgangspunkt für @color(kreis- bzw. kugelförmige Elementarwellen, red)
+
+{{1}}
+*************
+![Huygernssches-Prinzip](https://diversewolken.ddns.net/nextcloud/index.php/s/zE2kb4mDwinM5M2/download)
+
+
+-> [Simulation-Ausbreitung-Kreiswelle-EbeneWelle](https://www.leifiphysik.de/mechanik/mechanische-wellen/ausblick/huygenssches-prinzip-zur-beschreibung-von-mechanischen-wellen)
+*************
+
+
+#### Aufgabenstellung zur Selbsständigen Präsentation
+
+<p style="color:blue">
+
+Aufgabe: 
+
+1. Wählen Sie eines der folgenden Themen aus.
+
+2. Erarbeiten Sie sich das Wellenphänomen.
+
+3. Stellen Sie das Wellenphänomen dem Auditorium in einem kurzen Beitrag vor. Nutzen Sie die bereitgestellte Simulation um den Sachverhalt zu verdeutlichen.
+
+4. Lösen Sie die Aufgabe allein oder gemeinsam mit dem Auditorium.
+
+
+</p>
+
+<p class="newspaper3">
+
+__Reflexion:__
+
+[qr-code](https://liascript.github.io/nightly/?https://raw.githubusercontent.com/wulstbug/Klotzsche2/2025_2026/01_Physik/GK.12_2025_2026/Praesentationen_Wellen/Reflexion.md#1)
+
+<p class="cb">
+
+__Brechung:__
+
+[qr-code](https://liascript.github.io/nightly/?https://raw.githubusercontent.com/wulstbug/Klotzsche2/2025_2026/01_Physik/GK.12_2025_2026/Praesentationen_Wellen/Brechung.md#1)
+
+<p class="cb">
+
+__Beugung:__
+
+[qr-code](https://liascript.github.io/nightly/?https://raw.githubusercontent.com/wulstbug/Klotzsche2/2025_2026/01_Physik/GK.12_2025_2026/Praesentationen_Wellen/Beugung.md#1)
+
+</p>
+
+</p>
+
+</p>
