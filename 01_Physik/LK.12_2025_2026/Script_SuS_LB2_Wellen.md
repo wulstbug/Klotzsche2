@@ -517,22 +517,23 @@ Aufgabe:
 
 __Reflexion:__
 
-[qr-code](https://liascript.github.io/nightly/?https://raw.githubusercontent.com/wulstbug/Klotzsche2/2025_2026/01_Physik/GK.12_2025_2026/Praesentationen_Wellen/Reflexion.md#1)
+[qr-code](https://liascript.github.io/nightly/?https://raw.githubusercontent.com/wulstbug/Klotzsche2/2025_2026/01_Physik/LK.12_2025_2026/Praesentationen_Wellen/Reflexion.md#1)
 
 <p class="cb">
 
 __Brechung:__
 
-[qr-code](https://liascript.github.io/nightly/?https://raw.githubusercontent.com/wulstbug/Klotzsche2/2025_2026/01_Physik/GK.12_2025_2026/Praesentationen_Wellen/Brechung.md#1)
+[qr-code](https://liascript.github.io/nightly/?https://raw.githubusercontent.com/wulstbug/Klotzsche2/2025_2026/01_Physik/LK.12_2025_2026/Praesentationen_Wellen/Brechung.md#1)
 
 <p class="cb">
 
 __Beugung:__
 
-[qr-code](https://liascript.github.io/nightly/?https://raw.githubusercontent.com/wulstbug/Klotzsche2/2025_2026/01_Physik/GK.12_2025_2026/Praesentationen_Wellen/Beugung.md#1)
+[qr-code](https://liascript.github.io/nightly/?https://raw.githubusercontent.com/wulstbug/Klotzsche2/2025_2026/01_Physik/LK.12_2025_2026/Praesentationen_Wellen/Beugung.md#1)
 
 </p>
 
 </p>
 
 </p>
+
