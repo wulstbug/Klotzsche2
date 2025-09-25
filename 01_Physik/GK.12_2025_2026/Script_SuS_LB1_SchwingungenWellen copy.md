@@ -1194,6 +1194,184 @@ Ebene Welle (z.B. Lichtausbreitung)
 *************
 
 
+
+### 6. 5. Reflexion
+
+__Definition:__ Trifft eine Welle auf eine ebene Oberfläche, dann wird sie __reflektiert__. Es gilt das __Reflexionsgesetz__:
+
+{{1}}
+**********
+<p class="newspaper">
+
+> 1. Bei der Reflexion von Wellen sind der Einfallswinkel $\alpha$ und der @color(Reflexionswinkel $\alpha'$, red) gleich groß. 
+>
+> 2. Die Wellennormalen der einfallenden und reflektierten Wellen liegen in einer Ebene.
+
+<p class="cb">
+
+![Reflexion_Welle](https://diversewolken.ddns.net/nextcloud/index.php/s/bkBpwMGem3rXEx6/download)
+
+</p>
+
+</p>
+**********
+
+{{2}}
+**********
+??[Fendt-Reflexion](https://www.walter-fendt.de/html5/phde/refractionhuygens_de.htm)
+**********
+
+{{3}}
+**********
+<p style="color:blue">
+
+Aufgaben:
+
+1. In einem Wellenkanal läuft eine Wasserwelle auf eine glatte, senkrechte Wand zu. Welche Beobachtung macht man nach der Reflexion?
+
+     - [[ ]] Die Welle verschwindet vollständig an der Wand.  
+     - [[x]] Die Welle wird reflektiert und läuft in entgegengesetzter Richtung zurück.  
+     - [[ ]] Die Welle ändert ihre Frequenz und läuft mit anderer Geschwindigkeit zurück.  
+     - [[ ]] Die Welle läuft durch die Wand hindurch und setzt sich dahinter fort.
+
+2. Eine Welle läuft auf eine Wand zu und wird reflektiert. Dabei beobachtet man bei der reflektierten Welle eine Winkel von 35° zwischen der Wellennormalen und der Wand. Nennen Sie den Einfallswinkel.
+
+<p style="margin-left:10%">
+
+@rangeQuiz2($\alpha$, 55 ,°)
+
+</p>
+
+
+</p>
+**********
+
+
+### 6. 6. Brechung
+
+
+__Definition:__ Trifft eine Welle unter einem Einfallswinkel $\alpha\neq 0$ auf eine @color(__ebene Grenzfläche__, darkgreen) zweier Stoffe, in denen sie sich mit unterschiedlicher @color(Geschwindigkeit, red) ausbreitet, dann ändert sie ihre Ausbreitungsrichtung. Sie wird @color(gebrochen, red). Es gilt das __Brechungsgesetz__:
+
+---
+
+{{1}}
+**********
+<p class="newspaper">
+
+Beim Übergang von einem Stoff (1) in einen anderen Stoff (2) gilt das __Brechungsgesetz__.
+
+$$\boxed{\dfrac{\sin\alpha}{\sin\beta} = \dfrac{v_1}{v_2}}$$
+
+wobei
+
+<p style="margin-left:5%">
+
+     $\alpha$ .. Einfallswinkel
+
+     $\beta$ .. Brechungswinkel
+
+     $v_1,\,v_2$ .. Ausbreitungsgeschwindigkeiten
+
+</p>
+
+<p class="cb">
+
+![Brechung_Welle](https://diversewolken.ddns.net/nextcloud/index.php/s/3awXew9HRi54nyd/download)
+
+</p>
+
+</p>
+**********
+
+{{2}}
+**********
+??[Fendt-Reflexion](https://www.walter-fendt.de/html5/phde/refractionhuygens_de.htm)
+**********
+
+
+{{3}}
+**********
+<p style="color:blue">
+
+Aufgaben:
+
+1. Markieren Sie physikalisch sinnvolle Aussagen.
+
+     - [( )] Wenn eine Welle auf eine Grenzfläche fällt, wird sie immer gebrochen.
+     - [(x)] Wenn eine Welle auf eine Grenzfläche fällt, wird sie immer gebrochen, wenn der Einfallswinkel $\alpha\neq 0^\circ$
+
+2. Ermitteln Sie den Brechungswinkel für den Übergang eines Lichtstrahls von  Luft nach Plexiglas. Die Lichtgeschwindigkeit in Luft beträgt $300'000\,\mathrm{\frac{m}{s}}$ und in Plexiglas $200'000\,\mathrm{\frac{m}{s}}$. Der Einfallswinkel beträgt 35°.
+
+<p style="margin-left:10%">
+
+@rangeQuiz2($\beta$, 22.48 ,°)
+
+</p>
+
+
+</p>
+**********
+
+### 6. 7. Beugung
+
+Definition: Trifft eine Welle auf einen Spalt oder eine Kante, so sind die betreffenden Stellen nach _Huygens Prinzip_ Ausgangspunkt von Elementarwellen. Damit breitet sich eine Welle auch in den __Schattenraum__ aus.
+
+---
+
+<p class="newspaper3">
+
+{{1}}
+********
+![Welle-Beugung](https://diversewolken.ddns.net/nextcloud/index.php/s/M9eEFxFCjRATLt2/download)
+********
+
+<p class="cb">
+
+{{2}}
+********
+__Kante:__
+
+??[Simulation-Kante](https://www.falstad.com/ripple/Ripple.html?rol=$+3+512+64+0+1+489+1.5625e-8%0Aw+0+252+131+507+131%0AS+2+0+1+511+1+0+1.399998+0+10+100+1+0%0A)
+********
+
+<p class="cb">
+
+{{3}}
+********
+__Spalt:__
+
+??[Simulation-Spalt](https://www.falstad.com/ripple/Ripple.html?rol=$+3+512+64+0+1+578+1.5625e-8%0AS+2+0+1+511+1+0+2.2166635+0+10+100+1+0%0A203+0+-57+145+577+145+1+20+10%0A)
+********
+
+</p>
+
+</p>
+
+</p>
+
+
+{{4}}
+**********
+<p style="color:blue">
+
+Aufgaben:
+
+1. Markieren Sie physikalisch sinnvolle Aussagen.
+
+     - [( )] Beugung von Licht ist mit dem Modell des Lichtstrahls erklärbar.
+     - [(x)] Beugung ist ein Phänomen, dass sich nur mit der Welleneigenschaft des Lichts erklären lässt.
+
+2. Eine Wasserwelle trifft auf eine schmale Spaltöffnung in einer Wand im Wellenkanal. Was beobachtet man hinter der Öffnung?
+
+     - [[ ]] Die Welle läuft völlig ungestört geradeaus weiter, ohne sich zu verändern.  
+     - [[x]] Die Wellen breiten sich nach der Öffnung halbkreisförmig in den Raum dahinter aus.  
+     - [[ ]] Die Welle wird vollständig von der Wand absorbiert.  
+     - [[ ]] Die Welle verschwindet und es entsteht nur noch stehendes Wasser. 
+
+</p>
+**********
+
+
 #### Übungsaufgaben zu Reflexion, Beugung, Brechung
 
 __Quiz zur Licht-Brechung:__
