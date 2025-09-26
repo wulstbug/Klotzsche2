@@ -1558,3 +1558,90 @@ __Multiplayer-Quiz:__
 __Zuordnung Wellenausbreitung:__
 
 - [PaareZuordnen-Wellenausbreitung](https://learningapps.org/view4311115)
+
+### 6. 8. Interferenz
+
+> Die __Überlagerung__ oder __Superposition__ harmonischer Wellen wird als @color(Interferenz, red) bezeichnet. Diese hängt vom __Phasenunterschied__ der inteferierenden Wellen ab.
+>
+> Umgangssprachlich: _"Interferenz ist die Addition der jeweiligen Auslenkungen"_
+
+<p style="margin-left:5%;color:blue">
+
+Wir untersuchen die Interferenz von Wellen grafisch als auch mathematisch.
+
+</p>
+
+---
+
+<p class="newspaper">
+
+__Grafische Darstellung__
+
+<p class="cb">
+
+__Mathematische Beschreibung__
+
+</p>
+
+</p>
+
+### 6. 9. Stehende Wellen
+
+#### Übungsaufgaben zu Wellenphänomenen
+
+##### Übung1 Welleneigenschaften
+
+<p class="newspaper">
+
+![Phy10_LB_42_Aufgabe_2](https://diversewolken.ddns.net/nextcloud/index.php/s/Bx6NGaj2z63TtFM/download)
+
+<p class="cb">
+
+<details>
+
+<summary> Lösung </summary>
+
+- die Schwingung beginnt an einem Ausgangspunkt (hier z.B. linke Pendel)
+- durch die Kopplung der einzelnen Pendel regt das erste Pendel das Zweite an und gibt somit mechanische Energie weiter
+- das zweite Pendel wiederum regt das dritte Pendel an usw. 
+- auf diese Weise wird zwar Energie, aber keine Materie transportiert
+
+</details>
+
+</p>
+
+</p>
+
+---
+
+
+<p class="newspaper">
+
+![Phy10_LB_42_Aufgabe_4](https://diversewolken.ddns.net/nextcloud/index.php/s/xC8zPGjBriw4mL6/download)
+
+<p class="cb">
+
+@rangeQuiz2($\hat{y}$,1.667 ,mm)
+
+@rangeQuiz2($\lambda$,0.6 ,m)
+
+@rangeQuiz2($T$, 0.002 ,s)
+
+@rangeQuiz2($f$, 500 ,Hz)
+
+
+
+<details>
+
+<summary> Lösungsweg </summary>
+
+<iframe src="/pdfjs/web/viewer.html?file=https://diversewolken.ddns.net/nextcloud/index.php/s/wTgm6wH49e645Gk/download"
+        width="100%" 
+        height="600px">
+</iframe>
+
+</details>
+
+</p>
+
+</p>
