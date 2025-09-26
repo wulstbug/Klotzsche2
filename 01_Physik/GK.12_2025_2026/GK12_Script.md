@@ -1667,8 +1667,6 @@ $\blue{y_{ges}(x) = (\hat{y_1}-\hat{y_2})\cdot\sin(\frac{2\pi}{\lambda}\cdot x)}
 
 <iframe src="https://www.geogebra.org/classic/wcqzrbnh?embed" width="100%" height="600px" allowfullscreen style="border: 1px solid #e4e4e4;border-radius: 4px;" frameborder="0"></iframe>
 
-![StehendeWellenGitarre](https://diversewolken.ddns.net/nextcloud/index.php/s/bHNz7SG3HNc6mdX/download)
-
 > Wenn sich Wellen nur __in einem begrenzten Gebiet__ ausbreiten können (wie auf den Saiten einer beidseitig eingespannten Klavierseite), treten an beiden Enden Reflexionen auf. Dadurch kommt es zu einer Überlagerung von einlaufenden und reflektierten Wellen, die sich in entgegensetzter Richtung bewegen. Abhängig von der Begrenzung (Saitenlänge $ℓ$) gibt es bestimmte Frequenzen (Wellenlängen), bei denen die Wellen __stationäre Schwingungsmuster__ ausbilden. Diese heißen __Stehende Wellen__.
 
 <p class="newspaper">
@@ -1689,6 +1687,7 @@ $\blue{y_{ges}(x) = (\hat{y_1}-\hat{y_2})\cdot\sin(\frac{2\pi}{\lambda}\cdot x)}
 
 </p>
 
+![StehendeWellenGitarre](https://diversewolken.ddns.net/nextcloud/index.php/s/nERJCb4RJEyjYji/download)
 
 #### Übungsaufgaben zu Wellenphänomenen
 
