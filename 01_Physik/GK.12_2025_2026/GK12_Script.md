@@ -1561,21 +1561,39 @@ __Zuordnung Wellenausbreitung:__
 
 ### 6. 8. Interferenz
 
-> Die __Überlagerung__ oder __Superposition__ harmonischer Wellen wird als @color(Interferenz, red) bezeichnet. Diese hängt vom __Phasenunterschied__ der inteferierenden Wellen ab.
+{{0}}
+***********
+!?[LEIFI-Wellen](https://diversewolken.ddns.net/nextcloud/index.php/s/NeMj4nWBfqDXMWj/download)
+***********
+
+{{1}}
+***********
+> __Prinzip der ungestörten Überlagerung:__ Wellen durchdringen sich gegenseitig, ohne sich selbst oder einander zu verändern
+
+> Die __Überlagerung__ oder __Superposition__ harmonischer Wellen wird als @color(Interferenz, red) bezeichnet. Diese hängt vom __Gangunterschied__ der inteferierenden Wellen ab.
 >
 > Umgangssprachlich: _"Interferenz ist die Addition der jeweiligen Auslenkungen"_
 
-<p style="margin-left:5%;color:blue">
+<p style="margin:5%;color:blue">
 
 Wir untersuchen die Interferenz von Wellen grafisch als auch mathematisch.
+
+??[Geogebra-Interferenz-LK](https://www.geogebra.org/m/sd49erad)
 
 </p>
 
 ---
+***********
 
-<p class="newspaper">
+{{2}}
+***********
+<p class="newspaper3">
 
 __Grafische Darstellung__
+
+<p class="cb">
+
+_Spezialfälle_
 
 <p class="cb">
 
@@ -1585,11 +1603,94 @@ __Mathematische Beschreibung__
 
 </p>
 
+</p>
+
+---
+
+<p class="newspaper3">
+
+![Konstruktive_Interferenz](https://diversewolken.ddns.net/nextcloud/index.php/s/b788bF9RP233a38/download)
+
+<p class="cb">
+
+__Konstruktive Interferenz:__ Die Wellen überlagern sich derart, dass sich die Auslenkungen $y_1(x)$ und $y_2(x)$ addieren, es kommt zur Verstärkung der @color(resultierenden Welle, blue).
+
+> __Der Gangunterschied beträgt eine Wellenlänge $\boxed{\lambda}$ <br> (oder ein Vielfaches $\boxed{n\cdot\lambda}$)__
+
+<p class="cb">
+
+$\green{y_1(x) = \hat{y_1}\cdot\sin(\frac{2\pi}{\lambda}\cdot x)}$
+
+$\red{y_2(x) = \hat{y_2}\cdot\sin(\frac{2\pi}{\lambda}\cdot x)}$
+
+$\blue{y_{ges}(x) = (\hat{y_1}+\hat{y_2})\cdot\sin(\frac{2\pi}{\lambda}\cdot x)}$
+
+
+</p>
+
+</p>
+
+</p>
+
+---
+
+<p class="newspaper3">
+
+![Destruktive_Interferenz](https://diversewolken.ddns.net/nextcloud/index.php/s/WW2xPJiWLXGHd2D/download)
+
+<p class="cb">
+
+__Destruktive Interferenz:__ Die Wellen überlagern sich derart, dass sich die Auslenkungen $y_1(x)$ und $y_2(x)$ subtrahieren, es kann zur Auslöschen der @color(resultierenden Welle, blue) kommen.
+
+> __Der Gangunterschied beträgt <br> $\boxed{\frac{\lambda}{2}}$ (bzw. $\boxed{\frac{\lambda}{2} + n \cdot \lambda}$)__
+
+<p class="cb">
+
+$\green{y_1(x) = \hat{y_1}\cdot\sin(\frac{2\pi}{\lambda}\cdot x)}$
+
+$\red{y_2(x) = -\hat{y_2}\cdot\sin(\frac{2\pi}{\lambda}\cdot x)}$
+
+$\blue{y_{ges}(x) = (\hat{y_1}-\hat{y_2})\cdot\sin(\frac{2\pi}{\lambda}\cdot x)}$
+
+
+</p>
+
+</p>
+
+</p>
+
+---
+
+***********
+
 ### 6. 9. Stehende Wellen
+
+??[StehendeWelle](https://www.geogebra.org/classic/wcqzrbnh)
+
+> Wenn sich Wellen nur __in einem begrenzten Gebiet__ ausbreiten können (wie auf den Saiten einer beidseitig eingespannten Klavierseite), treten an beiden Enden Reflexionen auf. Dadurch kommt es zu einer Überlagerung von einlaufenden und reflektierten Wellen, die sich in entgegensetzter Richtung bewegen. Abhängig von der Begrenzung (Saitenlänge $ℓ$) gibt es bestimmte Frequenzen (Wellenlängen), bei denen die Wellen __stationäre Schwingungsmuster__ ausbilden. Diese heißen __Stehende Wellen__.
+
+<p class="newspaper">
+
+![StehendeWellenAufEinerSeite](https://diversewolken.ddns.net/nextcloud/index.php/s/9qCpdFZJ8zQixd9/download)
+
+<p class="cb">
+
+> Eine __stehende Wellen__ kennzeichnet sich durch __Bäuche (B)__ (verstärkte Schwingung) und __Knoten (K)__ (keine Schwingung).
+>
+> Eine __(eindimensionale)__ stehende Welle kann auftreten, wenn die Ausdehung $ℓ$ ein Vielfaches der halben Wellenlänge $\frac{\lambda}{2}$ ist.
+>
+> $$ \boxed{ℓ = n \cdot \frac{\lambda}{2}} \,\,\,n=1,2,3...$$
+>
+> Man nennt die zugehörigen Schwingungen die __$n$-te Harmonische__.
+
+</p>
+
+</p>
+
 
 #### Übungsaufgaben zu Wellenphänomenen
 
-##### Übung1 Welleneigenschaften
+##### Übung 1 - Welleneigenschaften
 
 <p class="newspaper">
 
@@ -1629,19 +1730,48 @@ __Mathematische Beschreibung__
 
 @rangeQuiz2($f$, 500 ,Hz)
 
+</p>
 
+</p>
 
 <details>
 
-<summary> Lösungsweg </summary>
+<summary> Lösungsweg Aufgabe 4 </summary>
 
 <iframe src="https://diversewolken.ddns.net/pdfjs/web/viewer.html?file=https://diversewolken.ddns.net/nextcloud/index.php/s/wTgm6wH49e645Gk/download"
         width="100%" 
-        height="600px">
+        height="400px">
 </iframe>
 
 </details>
 
+---
+
+<p class="newspaper">
+
+![Phy10_LB_42_Aufgabe_5](https://diversewolken.ddns.net/nextcloud/index.php/s/oHA9JEFt3oLrick/download)
+
+<details>
+
+<summary> _Lösungshinweis_ </summary>
+
+Recherchieren Sie in Ihrer Formelsammlung die Schallgeschwindigkeit in Luft bei 20°C._
+
+@rangeQuiz2($v_{S}$,434, $\mathrm{\frac{m}{s}}$)
+
+</details>
+
+<p class="cb">
+
+@rangeQuiz2($T$, 1.9 , ms)
+
+@rangeQuiz2($\lambda$, 0.658 ,m)
+
 </p>
 
 </p>
+
+##### Übung 2 - Wellenphänomene
+
+Ordne den folgenden Abbildungen das Wellenphänomen zu.
+
