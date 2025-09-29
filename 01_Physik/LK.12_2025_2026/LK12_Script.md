@@ -3271,6 +3271,7 @@ Ordne den folgenden Abbildungen das Wellenphänomen zu.
 
 </p>
 
+
 1. 4. Die G-Saite einer Violine ist $30\,\mathrm{cm}$ lang. Wenn Sie ohne Griff (d.h. ohne Saitenverkürzung) gespielt wird, schwingt sie mit einer Frequenz von $196\,\mathrm{Hz}$. <br> Als nächst höhere Schwingungsmoden folgen die Violinennoten a($220\,\mathrm{Hz}$), h ($247\,\mathrm{Hz}$), c ($262\,\mathrm{Hz}$) und d ($294\,\mathrm{Hz}$). <br> Ermitteln Sie den Abstand vom Saitenende, an dem der Finger aufgesetzt werden muss, damit diese Noten gespielt werden können.
 
 <p style="margin-left:10%">
@@ -3284,18 +3285,19 @@ Ordne den folgenden Abbildungen das Wellenphänomen zu.
 @rangeQuiz2(d: $s_d$,10,$\mathrm{cm}$)
 
 
-
 <details>
 
 <summary> _Lösungshinweis_ </summary>
 
 Die Wellenlänge der Grundschwingung einer beidseitig eingespannten, unverkürzten Saite (Note g) ist $\lambda_G=2ℓ$. Man kann nun die Ausbreitungsgeschwindigkeit der Welle $v$ auf der Saite ermitteln.
 
-@rangeQuiz2($v=\lambda_g \cdot f_g$,235.2,$\mathrm{\frac{m}{s}}$)
+@rangeQuiz2($v=\lambda_g \cdot f_g$,117.6,$\mathrm{\frac{m}{s}}$)
 
 Somit ergibt sich für die Wellenlänge der Grundschwingung der verkürzten Saite mit der Note a die Wellenlänge
 
-@rangeQuiz2($\lambda_a = \frac{v}{f_a}$,115.1,$\mathrm{cm}$)
+@rangeQuiz2($\lambda_a = \frac{v}{f_a}$,53.45,$\mathrm{cm}$)
+
+Da die Grundschwingung der Saite der halben Wellenlänge $\lambda_a$ entspricht, muss die Saite 3,28 cm verkürzt werden
 
 </details>
 
