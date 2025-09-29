@@ -1819,18 +1819,19 @@ Ordne den folgenden Abbildungen das Wellenphänomen zu.
 @rangeQuiz2(d: $s_d$,10,$\mathrm{cm}$)
 
 
-
 <details>
 
 <summary> _Lösungshinweis_ </summary>
 
 Die Wellenlänge der Grundschwingung einer beidseitig eingespannten, unverkürzten Saite (Note g) ist $\lambda_G=2ℓ$. Man kann nun die Ausbreitungsgeschwindigkeit der Welle $v$ auf der Saite ermitteln.
 
-@rangeQuiz2($v=\lambda_g \cdot f_g$,235.2,$\mathrm{\frac{m}{s}}$)
+@rangeQuiz2($v=\lambda_g \cdot f_g$,117.6,$\mathrm{\frac{m}{s}}$)
 
 Somit ergibt sich für die Wellenlänge der Grundschwingung der verkürzten Saite mit der Note a die Wellenlänge
 
-@rangeQuiz2($\lambda_a = \frac{v}{f_a}$,115.1,$\mathrm{cm}$)
+@rangeQuiz2($\lambda_a = \frac{v}{f_a}$,53.45,$\mathrm{cm}$)
+
+Da die Grundschwingung der Saite der halben Wellenlänge $\lambda_a$ entspricht, muss die Saite 3,28 cm verkürzt werden
 
 </details>
 
