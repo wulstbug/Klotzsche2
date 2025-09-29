@@ -1187,3 +1187,104 @@ __Antwort Periodische Bewegung:__ Diese Bewegung ist streng periodisch, aber es 
 </details>
 
 </p>
+
+
+## 2. 3. Das Federpendel
+
+!?[Kurzprotokoll-Federpendel](https://diversewolken.ddns.net/nextcloud/index.php/s/XpBtEZZQy5yJJbG/download)
+
+<p style="color:blue">
+
+__Aufgabe:__ Untersuche die Schwingung eines Federpendels.
+
+- nimm die Datenpunkte der Bewegung Position/Ort: y und Zeit t auf
+
+- zeichne das Diagramm y(t) für zwei Perioden
+
+- ermittle die Periodendauer
+
+</p>
+
+### Übungsaufgaben
+
+1. Ermittle Frequenz und die Periodendauer eines Tages. Nutze die Standardeinheiten.
+
+<p style="margin-left:10%">
+
+@rangeQuiz2($f$,1.1574e-5,$Hz$)
+
+@rangeQuiz0($T$,86400,$s$)
+
+<details style="margin-left:10%">
+
+<summary> Lösungshinweise </summary>
+
+Beginne mit der Periodendauer $T$. Überlege, wie lange die Periode eines Tages dauert. Berechne $T$ in Sekunden. Nutze anschließend die Formeln um $f$ zu berechnen.
+
+</details>
+
+</p>
+
+2. An einer Haushaltssteckdose liegt eine Wechselspannung an, welche mit einer Frequenz von 50 Hz schwingt. Ermittle die Periodendauer einer solchen Schwingung. Ermittle, wie oft die Spannung während einer Sekunde ihr Vorzeichen wechseln.
+
+<p style="margin-left:10%">
+
+@rangeQuiz0($T$,0.02,$s$)
+
+@rangeQuiz0($n$,100,$1/s$)
+
+</p>
+
+## 2. 4. Beschreibung einer mechanischen Schwingung
+
+{{1-2}}
+********
+??[Federschwinger](https://www.geogebra.org/m/g5vm3e2r)
+********
+
+{{2}}
+********
+
+Für eine mechanische Schwingung verwenden wir zeitlich periodische Größe _Auslenkung_ $y(t)$.
+
+Für eine @color(harmonische Schwingung, orange) gilt:
+
+> $$y(t) = y_{max} \cdot \sin\Big(\frac{2\pi}{T} \cdot t\Big)$$
+
+hierbei ist:
+
+<p style="margin-left:10%">
+
+$y(t)$ ... Momentane Auslenkung (@color(Elongation, red))
+
+$y_{max}$ ... Maximale Auslenkung (@color(Amplitude,red))
+
+$T$ ... @color(Periodendauer, red)
+
+</p>
+
+Die @color(Frequenz, red) $f$ einer Schwingung ist definiert als
+
+> $$ \boxed{f = \dfrac{1}{T}}$$
+********
+
+
+{{3}}
+********
+__Am Beispiel des Federschwingers:__
+
+![Auslenkung-Federschwinger](https://diversewolken.ddns.net/nextcloud/index.php/s/Kg69nobexc7CgjH/download)
+********
+
+### Weitere Übungsaufgaben
+
+<iframe src="https://learningapps.org/watch?app=17778381" style="border:0px;width:100%;height:500px" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"></iframe>
+
+<iframe src="https://learningapps.org/watch?app=4620967" style="border:0px;width:100%;height:500px" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"></iframe>
+
+<iframe src="https://learningapps.org/watch?app=4316694" style="border:0px;width:100%;height:500px" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"></iframe>
+
+<iframe src="https://learningapps.org/watch?app=1054249" style="border:0px;width:100%;height:500px" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"></iframe>
+
+<iframe src="https://learningapps.org/watch?app=4316402" style="border:0px;width:100%;height:500px" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"></iframe>
+
