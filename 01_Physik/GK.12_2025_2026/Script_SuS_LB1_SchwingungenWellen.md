@@ -1404,7 +1404,7 @@ __Zuordnung Wellenausbreitung:__
 
 Wir untersuchen die Interferenz von Wellen grafisch als auch mathematisch.
 
-??[Geogebra-Interferenz-LK](https://www.geogebra.org/m/sd49erad)
+[Geogebra-Interferenz-LK](https://www.geogebra.org/m/sd49erad)
 
 </p>
 
