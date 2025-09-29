@@ -537,3 +537,475 @@ __Beugung:__
 
 </p>
 
+
+
+### 10. 5. Reflexion
+
+__Definition:__ Trifft eine Welle auf eine ebene Oberfläche, dann wird sie __reflektiert__. Es gilt das __Reflexionsgesetz__:
+
+{{1}}
+**********
+<p class="newspaper">
+
+> 1. Bei der Reflexion von Wellen sind der Einfallswinkel $\alpha$ und der @color(Reflexionswinkel $\alpha'$, red) gleich groß. 
+>
+> 2. Die Wellennormalen der einfallenden und reflektierten Wellen liegen in einer Ebene.
+
+<p class="cb">
+
+![Reflexion_Welle](https://diversewolken.ddns.net/nextcloud/index.php/s/bkBpwMGem3rXEx6/download)
+
+</p>
+
+</p>
+**********
+
+{{2}}
+**********
+??[Fendt-Reflexion](https://www.walter-fendt.de/html5/phde/refractionhuygens_de.htm)
+**********
+
+{{3}}
+**********
+<p style="color:blue">
+
+Aufgaben:
+
+1. In einem Wellenkanal läuft eine Wasserwelle auf eine glatte, senkrechte Wand zu. Welche Beobachtung macht man nach der Reflexion?
+
+     - [[ ]] Die Welle verschwindet vollständig an der Wand.  
+     - [[x]] Die Welle wird reflektiert und läuft in entgegengesetzter Richtung zurück.  
+     - [[ ]] Die Welle ändert ihre Frequenz und läuft mit anderer Geschwindigkeit zurück.  
+     - [[ ]] Die Welle läuft durch die Wand hindurch und setzt sich dahinter fort.
+
+2. Eine Welle läuft auf eine Wand zu und wird reflektiert. Dabei beobachtet man bei der reflektierten Welle eine Winkel von 35° zwischen der Wellennormalen und der Wand. Nennen Sie den Einfallswinkel.
+
+<p style="margin-left:10%">
+
+@rangeQuiz2($\alpha$, 55 ,°)
+
+</p>
+
+
+</p>
+**********
+
+
+### 10. 6. Brechung
+
+
+__Definition:__ Trifft eine Welle unter einem Einfallswinkel $\alpha\neq 0$ auf eine @color(__ebene Grenzfläche__, darkgreen) zweier Stoffe, in denen sie sich mit unterschiedlicher @color(Geschwindigkeit, red) ausbreitet, dann ändert sie ihre Ausbreitungsrichtung. Sie wird @color(gebrochen, red). Es gilt das __Brechungsgesetz__:
+
+---
+
+{{1}}
+**********
+<p class="newspaper">
+
+Beim Übergang von einem Stoff (1) in einen anderen Stoff (2) gilt das __Brechungsgesetz__.
+
+$$\boxed{\dfrac{\sin\alpha}{\sin\beta} = \dfrac{v_1}{v_2}}$$
+
+wobei
+
+<p style="margin-left:5%">
+
+     $\alpha$ .. Einfallswinkel
+
+     $\beta$ .. Brechungswinkel
+
+     $v_1,\,v_2$ .. Ausbreitungsgeschwindigkeiten
+
+</p>
+
+<p class="cb">
+
+![Brechung_Welle](https://diversewolken.ddns.net/nextcloud/index.php/s/3awXew9HRi54nyd/download)
+
+</p>
+
+</p>
+**********
+
+{{2}}
+**********
+??[Fendt-Reflexion](https://www.walter-fendt.de/html5/phde/refractionhuygens_de.htm)
+**********
+
+
+{{3}}
+**********
+<p style="color:blue">
+
+Aufgaben:
+
+1. Markieren Sie physikalisch sinnvolle Aussagen.
+
+     - [( )] Wenn eine Welle auf eine Grenzfläche fällt, wird sie immer gebrochen.
+     - [(x)] Wenn eine Welle auf eine Grenzfläche fällt, wird sie immer gebrochen, wenn der Einfallswinkel $\alpha\neq 0^\circ$
+
+2. Ermitteln Sie den Brechungswinkel für den Übergang eines Lichtstrahls von  Luft nach Plexiglas. Die Lichtgeschwindigkeit in Luft beträgt $300'000\,\mathrm{\frac{m}{s}}$ und in Plexiglas $200'000\,\mathrm{\frac{m}{s}}$. Der Einfallswinkel beträgt 35°.
+
+<p style="margin-left:10%">
+
+@rangeQuiz2($\beta$, 22.48 ,°)
+
+</p>
+
+
+</p>
+**********
+
+### 10. 7. Beugung
+
+Definition: Trifft eine Welle auf einen Spalt oder eine Kante, so sind die betreffenden Stellen nach _Huygens Prinzip_ Ausgangspunkt von Elementarwellen. Damit breitet sich eine Welle auch in den __Schattenraum__ aus.
+
+---
+
+<p class="newspaper3">
+
+{{1}}
+********
+![Welle-Beugung](https://diversewolken.ddns.net/nextcloud/index.php/s/M9eEFxFCjRATLt2/download)
+********
+
+<p class="cb">
+
+{{2}}
+********
+__Kante:__
+
+??[Simulation-Kante](https://www.falstad.com/ripple/Ripple.html?rol=$+3+512+64+0+1+489+1.5625e-8%0Aw+0+255+132+514+132%0AS+2+0+1+511+1+0+1.399998+0+10+100+1+0%0Aw+0+511+-5+511+131%0A)
+********
+
+<p class="cb">
+
+{{3}}
+********
+__Spalt:__
+
+??[Simulation-Spalt](https://www.falstad.com/ripple/Ripple.html?rol=$+3+512+64+0+1+578+1.5625e-8%0AS+2+0+1+511+1+0+2.2166635+0+10+100+1+0%0A203+0+-57+145+577+145+1+20+10%0A)
+********
+
+</p>
+
+</p>
+
+</p>
+
+
+{{4}}
+**********
+<p style="color:blue">
+
+Aufgaben:
+
+1. Markieren Sie physikalisch sinnvolle Aussagen.
+
+     - [( )] Beugung von Licht ist mit dem Modell des Lichtstrahls erklärbar.
+     - [(x)] Beugung ist ein Phänomen, dass sich nur mit der Welleneigenschaft des Lichts erklären lässt.
+
+2. Eine Wasserwelle trifft auf eine schmale Spaltöffnung in einer Wand im Wellenkanal. Was beobachtet man hinter der Öffnung?
+
+     - [[ ]] Die Welle läuft völlig ungestört geradeaus weiter, ohne sich zu verändern.  
+     - [[x]] Die Wellen breiten sich nach der Öffnung halbkreisförmig in den Raum dahinter aus.  
+     - [[ ]] Die Welle wird vollständig von der Wand absorbiert.  
+     - [[ ]] Die Welle verschwindet und es entsteht nur noch stehendes Wasser. 
+
+</p>
+**********
+
+
+#### Übungsaufgaben zu Reflexion, Beugung, Brechung
+
+__Quiz zur Licht-Brechung:__
+
+- [Einfach](https://www.leifiphysik.de/optik/lichtbrechung/aufgabe/quiz-zur-lichtbrechung-einfach)
+
+- [Schwer](https://www.leifiphysik.de/optik/lichtbrechung/aufgabe/quiz-zur-lichtbrechung-schwer)
+
+__Multiplayer-Quiz:__
+
+- [Multiplayer-Learningapps](https://learningapps.org/604603)
+
+__Zuordnung Wellenausbreitung:__
+
+- [PaareZuordnen-Wellenausbreitung](https://learningapps.org/view4311115)
+
+
+### 10. 8. Interferenz
+
+{{0}}
+***********
+!?[LEIFI-Wellen](https://diversewolken.ddns.net/nextcloud/index.php/s/NeMj4nWBfqDXMWj/download)
+***********
+
+{{1}}
+***********
+> __Prinzip der ungestörten Überlagerung:__ Wellen durchdringen sich gegenseitig, ohne sich selbst oder einander zu verändern
+
+> Die __Überlagerung__ oder __Superposition__ harmonischer Wellen wird als @color(Interferenz, red) bezeichnet. Diese hängt vom __Gangunterschied__ der inteferierenden Wellen ab.
+>
+> Umgangssprachlich: _"Interferenz ist die Addition der jeweiligen Auslenkungen"_
+
+<p style="margin:5%;color:blue">
+
+Wir untersuchen die Interferenz von Wellen grafisch als auch mathematisch.
+
+??[Geogebra-Interferenz-LK](https://www.geogebra.org/m/sd49erad)
+
+</p>
+
+---
+***********
+
+{{2}}
+***********
+<p class="newspaper3">
+
+__Grafische Darstellung__
+
+<p class="cb">
+
+_Spezialfälle_
+
+<p class="cb">
+
+__Mathematische Beschreibung__
+
+</p>
+
+</p>
+
+</p>
+
+---
+
+<p class="newspaper3">
+
+![Konstruktive_Interferenz](https://diversewolken.ddns.net/nextcloud/index.php/s/b788bF9RP233a38/download)
+
+<p class="cb">
+
+__Konstruktive Interferenz:__ Die Wellen überlagern sich derart, dass sich die Auslenkungen $y_1(x)$ und $y_2(x)$ addieren, es kommt zur Verstärkung der @color(resultierenden Welle, blue).
+
+> __Der Gangunterschied beträgt eine Wellenlänge $\boxed{\lambda}$ <br> (oder ein Vielfaches $\boxed{n\cdot\lambda}$)__
+
+<p class="cb">
+
+$\green{y_1(x) = \hat{y_1}\cdot\sin(\frac{2\pi}{\lambda}\cdot x)}$
+
+$\red{y_2(x) = \hat{y_2}\cdot\sin(\frac{2\pi}{\lambda}\cdot x)}$
+
+$\blue{y_{ges}(x) = (\hat{y_1}+\hat{y_2})\cdot\sin(\frac{2\pi}{\lambda}\cdot x)}$
+
+
+</p>
+
+</p>
+
+</p>
+
+---
+
+<p class="newspaper3">
+
+![Destruktive_Interferenz](https://diversewolken.ddns.net/nextcloud/index.php/s/WW2xPJiWLXGHd2D/download)
+
+<p class="cb">
+
+__Destruktive Interferenz:__ Die Wellen überlagern sich derart, dass sich die Auslenkungen $y_1(x)$ und $y_2(x)$ subtrahieren, es kann zur Auslöschen der @color(resultierenden Welle, blue) kommen.
+
+> __Der Gangunterschied beträgt <br> $\boxed{\frac{\lambda}{2}}$ (bzw. $\boxed{\frac{\lambda}{2} + n \cdot \lambda}$)__
+
+<p class="cb">
+
+$\green{y_1(x) = \hat{y_1}\cdot\sin(\frac{2\pi}{\lambda}\cdot x)}$
+
+$\red{y_2(x) = -\hat{y_2}\cdot\sin(\frac{2\pi}{\lambda}\cdot x)}$
+
+$\blue{y_{ges}(x) = (\hat{y_1}-\hat{y_2})\cdot\sin(\frac{2\pi}{\lambda}\cdot x)}$
+
+
+</p>
+
+</p>
+
+</p>
+
+---
+
+***********
+
+### 10. 9. Stehende Wellen
+
+[StehendeWellen-Geogebra](https://www.geogebra.org/m/wcqzrbnh)
+
+> Wenn sich Wellen nur __in einem begrenzten Gebiet__ ausbreiten können (wie auf den Saiten einer beidseitig eingespannten Klavierseite), treten an beiden Enden Reflexionen auf. Dadurch kommt es zu einer Überlagerung von einlaufenden und reflektierten Wellen, die sich in entgegensetzter Richtung bewegen. Abhängig von der Begrenzung (Saitenlänge $ℓ$) gibt es bestimmte Frequenzen (Wellenlängen), bei denen die Wellen __stationäre Schwingungsmuster__ ausbilden. Diese heißen __Stehende Wellen__.
+
+<p class="newspaper">
+
+![StehendeWellenAufEinerSeite](https://diversewolken.ddns.net/nextcloud/index.php/s/9qCpdFZJ8zQixd9/download)
+
+<p class="cb">
+
+> Eine __stehende Wellen__ kennzeichnet sich durch __Bäuche (B)__ (verstärkte Schwingung) und __Knoten (K)__ (keine Schwingung).
+>
+> Eine __(eindimensionale)__ stehende Welle kann auftreten, wenn die Ausdehung $ℓ$ ein Vielfaches der halben Wellenlänge $\frac{\lambda}{2}$ ist.
+>
+> $$ \boxed{ℓ = n \cdot \frac{\lambda}{2}} \,\,\,n=1,2,3...$$
+>
+> Man nennt die zugehörigen Schwingungen die __$n$-te Harmonische__.
+
+</p>
+
+</p>
+
+![Stehende-WellenGitarre](https://diversewolken.ddns.net/nextcloud/index.php/s/nERJCb4RJEyjYji/download)
+
+#### Übungsaufgaben zu Wellenphänomenen
+
+##### Übung 1 - Welleneigenschaften
+
+<p class="newspaper">
+
+![Phy10_LB_42_Aufgabe_2](https://diversewolken.ddns.net/nextcloud/index.php/s/Bx6NGaj2z63TtFM/download)
+
+<p class="cb">
+
+<details>
+
+<summary> Lösung </summary>
+
+- die Schwingung beginnt an einem Ausgangspunkt (hier z.B. linke Pendel)
+- durch die Kopplung der einzelnen Pendel regt das erste Pendel das Zweite an und gibt somit mechanische Energie weiter
+- das zweite Pendel wiederum regt das dritte Pendel an usw. 
+- auf diese Weise wird zwar Energie, aber keine Materie transportiert
+
+</details>
+
+</p>
+
+</p>
+
+---
+
+
+<p class="newspaper">
+
+![Phy10_LB_42_Aufgabe_4](https://diversewolken.ddns.net/nextcloud/index.php/s/xC8zPGjBriw4mL6/download)
+
+<p class="cb">
+
+@rangeQuiz2($\hat{y}$,1.667 ,mm)
+
+@rangeQuiz2($\lambda$,0.6 ,m)
+
+@rangeQuiz2($T$, 0.002 ,s)
+
+@rangeQuiz2($f$, 500 ,Hz)
+
+</p>
+
+</p>
+
+<details>
+
+<summary> Lösungsweg Aufgabe 4 </summary>
+
+<iframe src="https://diversewolken.ddns.net/pdfjs/web/viewer.html?file=https://diversewolken.ddns.net/nextcloud/index.php/s/wTgm6wH49e645Gk/download"
+        width="100%" 
+        height="400px">
+</iframe>
+
+</details>
+
+---
+
+<p class="newspaper">
+
+![Phy10_LB_42_Aufgabe_5](https://diversewolken.ddns.net/nextcloud/index.php/s/oHA9JEFt3oLrick/download)
+
+<details>
+
+<summary> _Lösungshinweis_ </summary>
+
+Recherchieren Sie in Ihrer Formelsammlung die Schallgeschwindigkeit in Luft bei 20°C._
+
+@rangeQuiz2($v_{S}$,434, $\mathrm{\frac{m}{s}}$)
+
+</details>
+
+<p class="cb">
+
+@rangeQuiz2($T$, 1.9 , ms)
+
+@rangeQuiz2($\lambda$, 0.658 ,m)
+
+</p>
+
+</p>
+
+##### Übung 2 - Wellenphänomene
+
+Ordne den folgenden Abbildungen das Wellenphänomen zu.
+
+<iframe src="https://learningapps.org/watch?v=p29hwaena25" style="border:0px;width:100%;height:500px" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"></iframe>
+
+##### Übung 3 - Stehende Wellen
+
+1. Die $60\,\mathrm{cm}$ lange H-Saite einer Gitarre schwinge mit $247\,\mathrm{Hz}$. <br> 
+
+1. 1. Nennen Sie die Art der Wellen, mit der die Saite schwingt.
+
+<p style="margin-left:5%">
+
+[[ (Transversalwelle) | Longitudinalwelle | Kreiswelle ]]
+
+</p>
+
+1. 2. Ermittlen Sie die Ausbreitungsgeschwindigkeit der Transversalwelle auf der Saite. 
+
+<p style="margin-left:5%">
+
+@rangeQuiz2($v$,296,$\mathrm{\frac{m}{s}}$)
+
+</p>
+
+1. 3. Die Saite überträgt die Schwingung auf die Luft. Nennen Sie die Art der Welle von Schall in Luft.
+
+<p style="margin-left:5%">
+
+[[ Transversalwelle | (Longitudinalwelle) | Kreiswelle ]]
+
+</p>
+
+1. 4. Die G-Saite einer Violine ist $30\,\mathrm{cm}$ lang. Wenn Sie ohne Griff (d.h. ohne Saitenverkürzung) gespielt wird, schwingt sie mit einer Frequenz von $196\,\mathrm{Hz}$. <br> Als nächst höhere Schwingungsmoden folgen die Violinennoten a($220\,\mathrm{Hz}$), h ($247\,\mathrm{Hz}$), c ($262\,\mathrm{Hz}$) und d ($294\,\mathrm{Hz}$). <br> Ermitteln Sie den Abstand vom Saitenende, an dem der Finger aufgesetzt werden muss, damit diese Noten gespielt werden können.
+
+<p style="margin-left:10%">
+
+@rangeQuiz2(a: $s_a$,3.27,$\mathrm{cm}$)
+
+@rangeQuiz2(h: $s_h$,6.19,$\mathrm{cm}$)
+
+@rangeQuiz2(c: $s_c$,7.56,$\mathrm{cm}$)
+
+@rangeQuiz2(d: $s_d$,10,$\mathrm{cm}$)
+
+
+
+<details>
+
+<summary> _Lösungshinweis_ </summary>
+
+Die Wellenlänge der Grundschwingung einer beidseitig eingespannten, unverkürzten Saite (Note g) ist $\lambda_G=2ℓ$. Man kann nun die Ausbreitungsgeschwindigkeit der Welle $v$ auf der Saite ermitteln.
+
+@rangeQuiz2($v=\lambda_g \cdot f_g$,235.2,$\mathrm{\frac{m}{s}}$)
+
+Somit ergibt sich für die Wellenlänge der Grundschwingung der verkürzten Saite mit der Note a die Wellenlänge
+
+@rangeQuiz2($\lambda_a = \frac{v}{f_a}$,115.1,$\mathrm{cm}$)
+
+</details>
+
+</p>
