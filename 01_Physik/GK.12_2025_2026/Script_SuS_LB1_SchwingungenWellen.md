@@ -1388,3 +1388,269 @@ __Multiplayer-Quiz:__
 __Zuordnung Wellenausbreitung:__
 
 - [PaareZuordnen-Wellenausbreitung](https://learningapps.org/view4311115)
+
+
+### 6. 8. Interferenz
+
+[LEIFI-Wellen-Interferenz](https://diversewolken.ddns.net/nextcloud/index.php/s/NeMj4nWBfqDXMWj/download)
+
+> __Prinzip der ungestörten Überlagerung:__ Wellen durchdringen sich gegenseitig, ohne sich selbst oder einander zu verändern
+
+> Die __Überlagerung__ oder __Superposition__ harmonischer Wellen wird als @color(Interferenz, red) bezeichnet. Diese hängt vom __Gangunterschied__ der inteferierenden Wellen ab.
+>
+> Umgangssprachlich: _"Interferenz ist die Addition der jeweiligen Auslenkungen"_
+
+<p style="margin:5%;color:blue">
+
+Wir untersuchen die Interferenz von Wellen grafisch als auch mathematisch.
+
+??[Geogebra-Interferenz-LK](https://www.geogebra.org/m/sd49erad)
+
+</p>
+
+---
+
+<p class="newspaper3">
+
+__Grafische Darstellung__
+
+<p class="cb">
+
+_Spezialfälle_
+
+<p class="cb">
+
+__Mathematische Beschreibung__
+
+</p>
+
+</p>
+
+</p>
+
+---
+
+<p class="newspaper3">
+
+![Konstruktive_Interferenz](https://diversewolken.ddns.net/nextcloud/index.php/s/b788bF9RP233a38/download)
+
+<p class="cb">
+
+__Konstruktive Interferenz:__ Die Wellen überlagern sich derart, dass sich die Auslenkungen $y_1(x)$ und $y_2(x)$ addieren, es kommt zur Verstärkung der @color(resultierenden Welle, blue).
+
+> __Der Gangunterschied beträgt eine Wellenlänge $\boxed{\lambda}$ <br> (oder ein Vielfaches $\boxed{n\cdot\lambda}$)__
+
+<p class="cb">
+
+$\green{y_1(x) = \hat{y_1}\cdot\sin(\frac{2\pi}{\lambda}\cdot x)}$
+
+$\red{y_2(x) = \hat{y_2}\cdot\sin(\frac{2\pi}{\lambda}\cdot x)}$
+
+$\blue{y_{ges}(x) = (\hat{y_1}+\hat{y_2})\cdot\sin(\frac{2\pi}{\lambda}\cdot x)}$
+
+
+</p>
+
+</p>
+
+</p>
+
+---
+
+<p class="newspaper3">
+
+![Destruktive_Interferenz](https://diversewolken.ddns.net/nextcloud/index.php/s/WW2xPJiWLXGHd2D/download)
+
+<p class="cb">
+
+__Destruktive Interferenz:__ Die Wellen überlagern sich derart, dass sich die Auslenkungen $y_1(x)$ und $y_2(x)$ subtrahieren, es kann zur Auslöschen der @color(resultierenden Welle, blue) kommen.
+
+> __Der Gangunterschied beträgt <br> $\boxed{\frac{\lambda}{2}}$ (bzw. $\boxed{\frac{\lambda}{2} + n \cdot \lambda}$)__
+
+<p class="cb">
+
+$\green{y_1(x) = \hat{y_1}\cdot\sin(\frac{2\pi}{\lambda}\cdot x)}$
+
+$\red{y_2(x) = -\hat{y_2}\cdot\sin(\frac{2\pi}{\lambda}\cdot x)}$
+
+$\blue{y_{ges}(x) = (\hat{y_1}-\hat{y_2})\cdot\sin(\frac{2\pi}{\lambda}\cdot x)}$
+
+
+</p>
+
+</p>
+
+</p>
+
+---
+
+### 6. 9. Stehende Wellen
+
+> Wenn sich Wellen nur __in einem begrenzten Gebiet__ ausbreiten können (wie auf den Saiten einer beidseitig eingespannten Klavierseite), treten an beiden Enden Reflexionen auf. Dadurch kommt es zu einer Überlagerung von einlaufenden und reflektierten Wellen, die sich in entgegensetzter Richtung bewegen. Abhängig von der Begrenzung (Saitenlänge $ℓ$) gibt es bestimmte Frequenzen (Wellenlängen), bei denen die Wellen __stationäre Schwingungsmuster__ ausbilden. Diese heißen __Stehende Wellen__.
+
+<p class="newspaper">
+
+![StehendeWellenAufEinerSeite](https://diversewolken.ddns.net/nextcloud/index.php/s/9qCpdFZJ8zQixd9/download)
+
+<p class="cb">
+
+> Eine __stehende Wellen__ kennzeichnet sich durch __Bäuche (B)__ (verstärkte Schwingung) und __Knoten (K)__ (keine Schwingung).
+>
+> Eine __(eindimensionale)__ stehende Welle kann auftreten, wenn die Ausdehung $ℓ$ ein Vielfaches der halben Wellenlänge $\frac{\lambda}{2}$ ist.
+>
+> $$ \boxed{ℓ = n \cdot \frac{\lambda}{2}} \,\,\,n=1,2,3...$$
+>
+> Man nennt die zugehörigen Schwingungen die __$n$-te Harmonische__.
+
+</p>
+
+</p>
+
+![StehendeWellenGitarre](https://diversewolken.ddns.net/nextcloud/index.php/s/nERJCb4RJEyjYji/download)
+
+#### Übungsaufgaben zu Wellenphänomenen
+
+##### Übung 1 - Welleneigenschaften
+
+<p class="newspaper">
+
+![Phy10_LB_42_Aufgabe_2](https://diversewolken.ddns.net/nextcloud/index.php/s/Bx6NGaj2z63TtFM/download)
+
+<p class="cb">
+
+<details>
+
+<summary> Lösung </summary>
+
+- die Schwingung beginnt an einem Ausgangspunkt (hier z.B. linke Pendel)
+- durch die Kopplung der einzelnen Pendel regt das erste Pendel das Zweite an und gibt somit mechanische Energie weiter
+- das zweite Pendel wiederum regt das dritte Pendel an usw. 
+- auf diese Weise wird zwar Energie, aber keine Materie transportiert
+
+</details>
+
+</p>
+
+</p>
+
+---
+
+
+<p class="newspaper">
+
+![Phy10_LB_42_Aufgabe_4](https://diversewolken.ddns.net/nextcloud/index.php/s/xC8zPGjBriw4mL6/download)
+
+<p class="cb">
+
+@rangeQuiz2($\hat{y}$,1.667 ,mm)
+
+@rangeQuiz2($\lambda$,0.6 ,m)
+
+@rangeQuiz2($T$, 0.002 ,s)
+
+@rangeQuiz2($f$, 500 ,Hz)
+
+</p>
+
+</p>
+
+<details>
+
+<summary> Lösungsweg Aufgabe 4 </summary>
+
+<iframe src="https://diversewolken.ddns.net/pdfjs/web/viewer.html?file=https://diversewolken.ddns.net/nextcloud/index.php/s/wTgm6wH49e645Gk/download"
+        width="100%" 
+        height="400px">
+</iframe>
+
+</details>
+
+---
+
+<p class="newspaper">
+
+![Phy10_LB_42_Aufgabe_5](https://diversewolken.ddns.net/nextcloud/index.php/s/oHA9JEFt3oLrick/download)
+
+<details>
+
+<summary> _Lösungshinweis_ </summary>
+
+Recherchieren Sie in Ihrer Formelsammlung die Schallgeschwindigkeit in Luft bei 20°C._
+
+@rangeQuiz2($v_{S}$,434, $\mathrm{\frac{m}{s}}$)
+
+</details>
+
+<p class="cb">
+
+@rangeQuiz2($T$, 1.9 , ms)
+
+@rangeQuiz2($\lambda$, 0.658 ,m)
+
+</p>
+
+</p>
+
+##### Übung 2 - Wellenphänomene
+
+Ordne den folgenden Abbildungen das Wellenphänomen zu.
+
+<iframe src="https://learningapps.org/watch?v=p29hwaena25" style="border:0px;width:100%;height:500px" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"></iframe>
+
+##### Übung 3 - Stehende Wellen
+
+1. Die $60\,\mathrm{cm}$ lange H-Saite einer Gitarre schwinge mit $247\,\mathrm{Hz}$. <br> 
+
+1. 1. Nennen Sie die Art der Wellen, mit der die Saite schwingt.
+
+<p style="margin-left:5%">
+
+[[ (Transversalwelle) | Longitudinalwelle | Kreiswelle ]]
+
+</p>
+
+1. 2. Ermittlen Sie die Ausbreitungsgeschwindigkeit der Transversalwelle auf der Saite. 
+
+<p style="margin-left:5%">
+
+@rangeQuiz2($v$,296,$\mathrm{\frac{m}{s}}$)
+
+</p>
+
+1. 3. Die Saite überträgt die Schwingung auf die Luft. Nennen Sie die Art der Welle von Schall in Luft.
+
+<p style="margin-left:5%">
+
+[[ Transversalwelle | (Longitudinalwelle) | Kreiswelle ]]
+
+</p>
+
+1. 4. Die G-Saite einer Violine ist $30\,\mathrm{cm}$ lang. Wenn Sie ohne Griff (d.h. ohne Saitenverkürzung) gespielt wird, schwingt sie mit einer Frequenz von $196\,\mathrm{Hz}$. <br> Als nächst höhere Schwingungsmoden folgen die Violinennoten a($220\,\mathrm{Hz}$), h ($247\,\mathrm{Hz}$), c ($262\,\mathrm{Hz}$) und d ($294\,\mathrm{Hz}$). <br> Ermitteln Sie den Abstand vom Saitenende, an dem der Finger aufgesetzt werden muss, damit diese Noten gespielt werden können.
+
+<p style="margin-left:10%">
+
+@rangeQuiz2(a: $s_a$,3.27,$\mathrm{cm}$)
+
+@rangeQuiz2(h: $s_h$,6.19,$\mathrm{cm}$)
+
+@rangeQuiz2(c: $s_c$,7.56,$\mathrm{cm}$)
+
+@rangeQuiz2(d: $s_d$,10,$\mathrm{cm}$)
+
+
+
+<details>
+
+<summary> _Lösungshinweis_ </summary>
+
+Die Wellenlänge der Grundschwingung einer beidseitig eingespannten, unverkürzten Saite (Note g) ist $\lambda_G=2ℓ$. Man kann nun die Ausbreitungsgeschwindigkeit der Welle $v$ auf der Saite ermitteln.
+
+@rangeQuiz2($v=\lambda_g \cdot f_g$,235.2,$\mathrm{\frac{m}{s}}$)
+
+Somit ergibt sich für die Wellenlänge der Grundschwingung der verkürzten Saite mit der Note a die Wellenlänge
+
+@rangeQuiz2($\lambda_a = \frac{v}{f_a}$,115.1,$\mathrm{cm}$)
+
+</details>
+
+</p>
