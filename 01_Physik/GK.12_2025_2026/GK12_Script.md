@@ -1776,3 +1776,62 @@ Recherchieren Sie in Ihrer Formelsammlung die Schallgeschwindigkeit in Luft bei 
 
 Ordne den folgenden Abbildungen das Wellenphänomen zu.
 
+<iframe src="https://learningapps.org/watch?v=p29hwaena25" style="border:0px;width:100%;height:500px" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"></iframe>
+
+##### Übung 3 - Stehende Wellen
+
+1. Die $60\,\mathrm{cm}$ lange H-Saite einer Gitarre schwinge mit $247\,\mathrm{Hz}$. <br> 
+
+1. 1. Nennen Sie die Art der Wellen, mit der die Saite schwingt.
+
+<p style="margin-left:5%">
+
+[[ (Transversalwelle) | Longitudinalwelle | Kreiswelle ]]
+
+</p>
+
+1. 2. Ermittlen Sie die Ausbreitungsgeschwindigkeit der Transversalwelle auf der Saite. 
+
+<p style="margin-left:5%">
+
+@rangeQuiz2($v$,296,$\mathrm{\frac{m}{s}}$)
+
+</p>
+
+1. 3. Die Saite überträgt die Schwingung auf die Luft. Nennen Sie die Art der Welle von Schall in Luft.
+
+<p style="margin-left:5%">
+
+[[ Transversalwelle | (Longitudinalwelle) | Kreiswelle ]]
+
+</p>
+
+1. 4. Die G-Saite einer Violine ist $30\,\mathrm{cm}$ lang. Wenn Sie ohne Griff (d.h. ohne Saitenverkürzung) gespielt wird, schwingt sie mit einer Frequenz von $196\,\mathrm{Hz}$. <br> Als nächst höhere Schwingungsmoden folgen die Violinennoten a($220\,\mathrm{Hz}$), h ($247\,\mathrm{Hz}$), c ($262\,\mathrm{Hz}$) und d ($294\,\mathrm{Hz}$). <br> Ermitteln Sie den Abstand vom Saitenende, an dem der Finger aufgesetzt werden muss, damit diese Noten gespielt werden können.
+
+<p style="margin-left:10%">
+
+@rangeQuiz2(a: $s_a$,3.27,$\mathrm{cm}$)
+
+@rangeQuiz2(h: $s_h$,6.19,$\mathrm{cm}$)
+
+@rangeQuiz2(c: $s_c$,7.56,$\mathrm{cm}$)
+
+@rangeQuiz2(d: $s_d$,10,$\mathrm{cm}$)
+
+
+
+<details>
+
+<summary> _Lösungshinweis_ </summary>
+
+Die Wellenlänge der Grundschwingung einer beidseitig eingespannten, unverkürzten Saite (Note g) ist $\lambda_G=2ℓ$. Man kann nun die Ausbreitungsgeschwindigkeit der Welle $v$ auf der Saite ermitteln.
+
+@rangeQuiz2($v=\lambda_g \cdot f_g$,235.2,$\mathrm{\frac{m}{s}}$)
+
+Somit ergibt sich für die Wellenlänge der Grundschwingung der verkürzten Saite mit der Note a die Wellenlänge
+
+@rangeQuiz2($\lambda_a = \frac{v}{f_a}$,115.1,$\mathrm{cm}$)
+
+</details>
+
+</p>
