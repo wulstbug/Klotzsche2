@@ -56,6 +56,22 @@ icon:   https://diversewolken.ddns.net/klotzsche/logo.jpg
 
 @uhr
 
+<details>
+
+<summary> Tablets_10a </summary>
+
+![Tablets_10a](https://diversewolken.ddns.net/nextcloud/index.php/s/LCJSHz6F7KGEzxS/download)
+
+</details>
+
+<details>
+
+<summary> Tablets_10b </summary>
+
+![Tablets_10b](https://diversewolken.ddns.net/nextcloud/index.php/s/zrJFW6ZCPeaK3Ct/download)
+
+</details>
+
 ### Belehrung Fachraum
 
 [Fachraum](https://diversewolken.ddns.net/nextcloud/index.php/s/ztxmdn93gLF5FZt)
