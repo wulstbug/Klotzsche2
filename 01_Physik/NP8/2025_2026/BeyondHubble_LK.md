@@ -606,6 +606,11 @@ __Ergebnis:__ Je bläulicher die Farbe der Flamme (bzw. die Farbe des Sterns), d
 *********
 
 {{3}}
+************
+??[Simulation-Schwarzkörperstrahlung](https://phet.colorado.edu/sims/html/blackbody-spectrum/latest/blackbody-spectrum_all.html?locale=de)
+************
+
+{{4}}
 *********
 !?[WebbFarbenUndTemperatur](https://stsci-opo.org/STScI-01F9KZD9ZC39HDK9Q4DC3KC7QH.mp4)
 *********

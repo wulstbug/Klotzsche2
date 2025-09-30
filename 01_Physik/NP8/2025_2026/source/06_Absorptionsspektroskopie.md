@@ -132,26 +132,43 @@ Analysiere die Absorptionsspektren und ordne die Elemente zu.
 
 1. ![Na](https://diversewolken.ddns.net/nextcloud/index.php/s/X7NQccm7prTcExG/download)
 
+<!-- data-solution-button="3" -->
 [[ Natrium ]]
+
 
 ---
 
 2. ![O2](https://diversewolken.ddns.net/nextcloud/index.php/s/dCmpMGaXMw3ikeL/download)
 
+<!-- data-solution-button="3" -->
 [[ Sauerstoff ]]
+
 
 ---
 
 3. ![H2](https://diversewolken.ddns.net/nextcloud/index.php/s/g75rrGPjtNMTMFi/download)
 
+<!-- data-solution-button="3" -->
 [[ Wasserstoff ]]
+
 
 ---
 
 4. ![N2](https://diversewolken.ddns.net/nextcloud/index.php/s/7cmpM6Ag5arjF9e/download)
 
+<!-- data-solution-button="3" -->
 [[ Stickstoff ]]
+
 
 ---
 
 </p>
+
+### Erkenne die Planeten
+
+<p style="color:blue">
+
+Benenne die dargestellten Planeten
+
+</p>
+
