@@ -737,7 +737,7 @@ __Zuordnung Wellenausbreitung:__
 
 {{0}}
 ***********
-!?[LEIFI-Wellen](https://diversewolken.ddns.net/nextcloud/index.php/s/NeMj4nWBfqDXMWj/download)
+[LEIFI-Wellen](https://diversewolken.ddns.net/nextcloud/index.php/s/NeMj4nWBfqDXMWj/download)
 ***********
 
 {{1}}
@@ -752,7 +752,7 @@ __Zuordnung Wellenausbreitung:__
 
 Wir untersuchen die Interferenz von Wellen grafisch als auch mathematisch.
 
-??[Geogebra-Interferenz-LK](https://www.geogebra.org/m/sd49erad)
+[Geogebra-Interferenz-LK](https://www.geogebra.org/m/sd49erad)
 
 </p>
 
