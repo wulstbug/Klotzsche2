@@ -116,7 +116,7 @@ A: [[ 1000 K | 2000 K | 3000 K | (4000 K) | 5000 K | 6000 K | 7000 K | 8000 K | 
 <!-- data-solution-button="3" -->
 B: [[ 1000 K | 2000 K | 3000 K | 4000 K | 5000 K | 6000 K | 7000 K | (8000 K) | (9000 K) | (>10000K) ]]
 
-<!-- data-solution-button="3" -->
+<!-- data-solution-button="3" --><!-- data-solution-button="3" -->
 C: [[ 1000 K | (2000 K) | 3000 K | 4000 K | 5000 K | 6000 K | 7000 K | 8000 K | 9000 K | >10000 K ]]
 
 </p>
