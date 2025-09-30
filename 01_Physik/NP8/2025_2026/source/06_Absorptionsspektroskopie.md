@@ -92,7 +92,7 @@ mode: presentation
 ## Absorptionsspektroskopie
 
 
-### Aufgabe 1
+### Aufgabe 1: Quiz Regenbogen
 
 __Quiz Regenbogen: Spektral-Farben__
 
@@ -164,11 +164,26 @@ Analysiere die Absorptionsspektren und ordne die Elemente zu.
 
 </p>
 
-### Erkenne die Planeten
+### Aufgabe 4: Erkenne die Planeten
 
 <p style="color:blue">
 
-Benenne die dargestellten Planeten
+Benenne die vom James Webb Telescope aufgenommenen Planeten.
 
 </p>
+
+1. ![Jupiter](https://diversewolken.ddns.net/nextcloud/index.php/s/JxLJdxT5HNbeNQX/download)
+
+<!-- data-solution-button="3" -->
+[[ Jupiter ]]
+
+2. ![Saturn](https://diversewolken.ddns.net/nextcloud/index.php/s/bxHecCkgfqoTX3F/download)
+
+<!-- data-solution-button="3" -->
+[[ Saturn ]]
+
+3. ![Neptun](https://diversewolken.ddns.net/nextcloud/index.php/s/9sAXacWqpGgoes2/download)
+
+<!-- data-solution-button="3" -->
+[[ Neptun ]]
 
