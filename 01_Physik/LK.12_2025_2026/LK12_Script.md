@@ -3302,3 +3302,48 @@ Da die Grundschwingung der Saite der halben Wellenlänge $\lambda_a$ entspricht,
 </details>
 
 </p>
+
+### 10. 10. Begründung des Relfexionsgesetzes mit dem Huygens'schen Prinzip
+
+![RG_TB1](https://diversewolken.ddns.net/nextcloud/index.php/s/oNFR69QaAyscHcM/download)
+
+![RG_TB2](https://diversewolken.ddns.net/nextcloud/index.php/s/nAGqm7nxZKQ3WRo/download)
+
+
+#### Übungsaufgaben
+
+1. In einer Wellenwanne läuft eine Wasserwelle von einem seichten Bereich in ein Gebiet mit tieferem Wasser unter dem Einfallswinkel von 45° und einem Brechungswinkel von 60°. Bestimmen Sie die Geschwindigkeit im flachen Teil, wenn sie im tiefen Teil $25\,\mathrm{\frac{cm}{s}}$ beträgt.<br><br> _Hinweis: Die Ausbreitungsgeschwindigkeit von Wasserwellen folgt näherungsweise derm Zusammenhang $v\sim\sqrt{h}$, wobei h die Wassertiefe ist._
+
+<p style="margin-left:10%">
+
+@rangeQuiz2($v_{flach}$,20.4,$\mathrm{\frac{cm}{s}}$)
+
+</p>
+
+2. Wasserwellen bewegen sich in tiefem Wasser mit der Geschwindigkeit $v_1=35\,\mathrm{\frac{cm}{s}}$. Sie treffen unter dem Winkel $\alpha=60\,^\circ$ auf die Grenzlinie zu einem flacheren Teil, wo sie sich mit $v_2=24\,\mathrm{\frac{cm}{s}}$
+
+2. 1. Berechnen Sie den Brechungswinkel.
+
+<p style="margin-left:10%">
+
+@rangeQuiz2($\beta$,37.7,$^\circ$)
+
+</p>
+
+2. 2. Die Wellenlänge im tieferen Teil beträgt $\lambda_1=1,7\,\mathrm{cm}$. Berechnen Sie die Wellenlänge im flacheren Teil. Geben Sie ebenfalls die Frequenzen $f_1$ und $f_2$ an.
+
+<p style="margin-left:10%">
+
+@rangeQuiz2($\lambda_2$,1.2,cm)
+
+@rangeQuiz2($f_1$,20,Hz)
+
+@rangeQuiz2($f_2$,20,Hz)
+
+</p>
+
+### 10. 11. Begründung des Brechungsgesetzes mit dem Huygens'schen Prinzip
+
+![BG_TB1](https://diversewolken.ddns.net/nextcloud/index.php/s/FitcjCLbt8ecfCW/download)
+
+![BG_TB2](https://diversewolken.ddns.net/nextcloud/index.php/s/qyW7ZLqZLZKgbEs/download)
