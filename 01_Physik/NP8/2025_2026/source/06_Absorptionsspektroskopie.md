@@ -97,3 +97,61 @@ mode: presentation
 __Quiz Regenbogen: Spektral-Farben__
 
 ??[Regenbogen-Spektralfarben](https://learningapps.org/692413)
+
+### Aufgabe 2 - Helligkeit von Leuchtenden Objekten
+
+??[Simulation-Schwarzkörperstrahlung](https://phet.colorado.edu/sims/html/blackbody-spectrum/latest/blackbody-spectrum_all.html?locale=de)
+
+@color(Schätze mit Hilfe der Simulation die ungefähre Temperatur der Sterne, blue)
+
+<p class="newspaper">
+
+![Sternfärbung](https://diversewolken.ddns.net/nextcloud/index.php/s/dQKqBZmDJPKxD8G/download)
+
+<p class="cb">
+
+A: [[ 1000K | (2000K) | 3000K | (4000K) | 5000K | 6000 K | 7000 K, 8000 K | 9000 K | >10000 K ]]
+
+
+B: [[ 1000K | 2000K | 3000K | 4000K | 5000K | 6000 K | 7000 K, 8000 K | 9000 K | >10000 K ]]
+
+
+C: [[ 1000K | (2000K) | 3000K | 4000K | 5000K | 6000 K | 7000 K | (8000 K) | (9000 K) | (>10000K) ]]
+
+</p>
+
+</p>
+
+### Aufgabe 3 - Erkenne die Elemente
+
+<p style="color:blue">
+
+Wenn das weiße Licht eines Sterns die Atmosphäre eines Planeten durchläuft, so werden einzelne Teile des Farbenspektrums absorbiert.
+
+Analysiere die Absorptionsspektren und ordne die Elemente zu.
+
+1. ![Na](https://diversewolken.ddns.net/nextcloud/index.php/s/X7NQccm7prTcExG/download)
+
+[[ Natrium ]]
+
+---
+
+2. ![O2](https://diversewolken.ddns.net/nextcloud/index.php/s/dCmpMGaXMw3ikeL/download)
+
+[[ Sauerstoff ]]
+
+---
+
+3. ![H2](https://diversewolken.ddns.net/nextcloud/index.php/s/g75rrGPjtNMTMFi/download)
+
+[[ Wasserstoff ]]
+
+---
+
+4. ![N2](https://diversewolken.ddns.net/nextcloud/index.php/s/7cmpM6Ag5arjF9e/download)
+
+[[ Stickstoff ]]
+
+---
+
+</p>
