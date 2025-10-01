@@ -563,6 +563,10 @@ __Crab Nebula (Krebs-Nebel)__
 !?[PillarsOfConstruction](https://stsci-opo.org/STScI-01EVS92176D4JGEVERK66TVD6W.mp4)
 *************
 
+## 2. Hubble und James Webb
+
+> Mit dem James Webb Space Teleskop (JWST) versuchen Forschende bewohnbare Planeten und extraterestrisches Leben zu finden. Dabei nutzen Sie das Licht ferner Sterne um an zusätzliche Informationen zu gelangen.
+
 ## 2.1 Farben von Sonne und Glühlampe
 
 > Die Sonne oder eine Glühlampe sendet weißes Licht aus. Dieses Licht enthält die Farben des Regenbogens.
