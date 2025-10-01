@@ -3329,7 +3329,7 @@ Da die Grundschwingung der Saite der halben Wellenlänge $\lambda_a$ entspricht,
 
 <p style="margin-left:10%">
 
-@rangeQuiz2($\beta$,37.7,$^\circ$)
+@rangeQuiz2($\beta$,20.05,$^\circ$)
 
 </p>
 
