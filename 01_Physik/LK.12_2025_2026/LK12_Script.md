@@ -3475,6 +3475,14 @@ Da die Grundschwingung der Saite der halben Wellenlänge $\lambda_a$ entspricht,
 
 8. Ermitteln Sie aus der Lage dieser Wellenfront den Brechungswinkel.
 
+<details>
+
+<summary> _Lösung_ </summary>
+
+![Lsg_4](https://diversewolken.ddns.net/nextcloud/index.php/s/j9A9WoDsmDp22CP/download)
+
+</details>
+
 </details>
 
 </p>
