@@ -1042,11 +1042,11 @@ Da die Grundschwingung der Saite der halben Wellenlänge $\lambda_a$ entspricht,
 
 <p style="margin-left:10%">
 
-@rangeQuiz2($\lambda_2$,1.2,cm)
+@rangeQuiz2($\lambda_2$,1.17,cm)
 
-@rangeQuiz2($f_1$,20,Hz)
+@rangeQuiz2($f_1$,20.6,Hz)
 
-@rangeQuiz2($f_2$,20,Hz)
+@rangeQuiz2($f_2$,20.6,Hz)
 
 </p>
 
