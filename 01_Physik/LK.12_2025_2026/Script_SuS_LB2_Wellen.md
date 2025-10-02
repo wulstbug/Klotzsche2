@@ -1054,3 +1054,140 @@ Da die Grundschwingung der Saite der halben Wellenlänge $\lambda_a$ entspricht,
 
 ![BG_TB1](https://diversewolken.ddns.net/nextcloud/index.php/s/FitcjCLbt8ecfCW/download)
 
+
+
+#### Aufgaben zu Wellen
+
+1. Geben Sie an, welche Aussagen richtig sind:
+
+     <!-- data-solution-button="3" -->
+     [[X]] Jede Wellerscheinung ist mit der Übertragung von Energie, aber nicht mit dem Transport von Stoff verknüpft.  
+     [[ ]] Wird die Frequenz von Schallwellen bei sonst gleichen Bedingungen erhöht, erhöht sich auch deren Wellenlänge.  
+     [[ ]] Die Ausbreitungsgeschwindigkeit mechanischer Wellen hängt ausschließlich und allein von der Intensität ihrer Anregung ab.  
+     [[X]] Mechanische Wellen können als Transversal- oder Longitudinalwellen auftreten.  
+     [[ ]] Bei mechanischen Longitudinalwellen schwingen Teilchen senkrecht zur Ausbreitungsrichtung der Welle.  
+
+---
+
+2. Eine eindimensionale Seilwelle der Frequenz $0,8\,\mathrm{Hz}$, der Amplitude $12\,\mathrm{cm}$ und der Wellengeschwindigkeit $2\,\mathrm{m/s}$ breitet sich in x-Richtung aus. Die Welle startet zum Zeitpunkt $t=0$ an einem Seilende ($x=0$).
+
+2. 1. Ermitteln Sie die Zeit, wann das  beginnt das Seilteilchen bei $x=2\,\mathrm{m}$ zu schwingen beginnt.
+
+
+<p style="margin-left:10%">
+
+@rangeQuiz2($t$,1,s)
+
+</p>
+
+2. 2. Ermitteln Sie die Auslenkung, welche das Seilteilchen bei $x=1\,\mathrm{m}$ nach $3\,\mathrm{s}$ besitzt.
+
+<p style="margin-left:10%">
+
+@rangeQuiz0($y$,0,cm)
+
+<details>
+
+<summary> _Lösung_ </summary>
+
+![Lsg_2_2](https://diversewolken.ddns.net/nextcloud/index.php/s/RLrnBznYZFbsGGp/download)
+
+</details>
+
+</p>
+
+---
+
+3. Auf einem linearen Wellenträger breitet sich eine transversale Welle vom Ursprung eines Koordinatensystems in Richtung der positiven x-Achse mit der Geschwindigkeit $c=0,5\,\mathrm{m/s}$ aus. Der Erreger schwingt sinusförmig mit $10\,\mathrm{Hz}$ und beginnt zur Zeit $t=0$ mit einer Bewegung nach oben. Die Amplitude beträgt $1\,\mathrm{cm}$.
+
+3. 1. Ermitteln Sie Wellenlänge und Schwingungsdauer.
+
+
+<p style="margin-left:10%">
+
+@rangeQuiz2($\lambda$,5,cm)
+
+@rangeQuiz2($T$,0.1,s)
+
+<details>
+
+<summary> _Lösung_ </summary>
+
+![Lsg_3_1](https://diversewolken.ddns.net/nextcloud/index.php/s/nzELxH4RGGWzsrL/download)
+
+</details>
+
+</p>
+
+3. 2. Ermitteln Sie die Zeit, wann die Welle den Ort $x=0,2\,\mathrm{m}$ erreicht hat.
+
+<p style="margin-left:10%">
+
+@rangeQuiz2($t$,0.4,s)
+
+
+
+<details>
+
+<summary> _Lösung_ </summary>
+
+![Lsg_3_2](https://diversewolken.ddns.net/nextcloud/index.php/s/XprpMejgsPbffET/download)
+
+</details>
+
+</p>
+
+3. 3. Zeichnen Sie ein Momentanbild $y(x)$ der Welle zur Zeit $t=0,18\,\mathrm{s}$.
+
+
+<p style="margin-left:10%">
+
+<details>
+
+<summary> _Lösung_ </summary>
+
+![Lsg_3_3](https://diversewolken.ddns.net/nextcloud/index.php/s/bBrjopKFCdNrXes/download)
+
+</details>
+
+</p>
+
+---
+
+4. Eine Welle, trifft in einem Winkel von 40° auf eine Grenzfläche. Im ersten Medium ist die Wellengeschwindigkeit doppelt so hoch, wie im zweiten Medium. Ermitteln Sie den Brechungswinkel ausschließlich unter durch eine Konstruktion mit Zirkel und Lineal.
+
+<p style="margin-left:10%">
+
+@rangeQuiz20($\beta$,20,$^\circ$)
+
+<details>
+
+<summary> _Lösunghinweise_ </summary>
+
+1. Zeichnen Sie zunächst die Grenzfläche und die Wellennormale, die in einem Winkel von 40° auf die Grenzfläche fällt. 
+
+2. Zeichnen sie eine Wellenfront und verlängern sie die Wellenfront bis zur Grenzfläche (Schnittpunkt A -> siehe 10.11). 
+
+3. Ermitteln Sie mit dem Zirkel den Abstand der Wellenfront von der Grenzfläche entlang der Wellennormale (Abstand Punkte B & B')
+
+4. Da die Welle im zweiten Medium nur die halbe Geschwindigkeit hat, wie im ersten Medium, müssen Sie diese Strecke halbieren. Legen Sie den Zirkel auf die halbe Streckenlänge an.
+
+5. Ziehen Sie um den Punkt A im zweiten Medium einen Halbkreis mit dem Radius des halben Abstands der Strecke $\overline{BB'}$
+
+6. Um den Schnittpunkt der neuen Wellenfront mit dem gezeichneten Halbkreis zu ermitteln, zeichnen Sie einen Thaleskreis über der Strecke $\overline{AB'}$. Der Schnittpunkt zwischen dem Halbkreis aus 5. und dem Thaleskreis markiert einen Punkt der neuen Wellenfront (Punkte A').
+
+7. Verbinden Sie die Punkte A' und B' zu einer neuen Wellenfront im Medium zwei.
+
+8. Ermitteln Sie aus der Lage dieser Wellenfront den Brechungswinkel.
+
+<details>
+
+<summary> _Lösung_ </summary>
+
+![Lsg_4](https://diversewolken.ddns.net/nextcloud/index.php/s/j9A9WoDsmDp22CP/download)
+
+</details>
+
+</details>
+
+</p>

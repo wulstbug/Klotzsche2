@@ -3349,7 +3349,7 @@ Da die Grundschwingung der Saite der halben Wellenlänge $\lambda_a$ entspricht,
 
 ![BG_TB1](https://diversewolken.ddns.net/nextcloud/index.php/s/FitcjCLbt8ecfCW/download)
 
-![BG_TB2](https://diversewolken.ddns.net/nextcloud/index.php/s/qyW7ZLqZLZKgbEs/download)
+
 
 #### Aufgaben zu Wellen
 
