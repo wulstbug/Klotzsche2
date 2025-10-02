@@ -3453,6 +3453,8 @@ Da die Grundschwingung der Saite der halben Wellenlänge $\lambda_a$ entspricht,
 
 <p style="margin-left:10%">
 
+@rangeQuiz20($\beta$,20,$^\circ$)
+
 <details>
 
 <summary> _Lösunghinweise_ </summary>
