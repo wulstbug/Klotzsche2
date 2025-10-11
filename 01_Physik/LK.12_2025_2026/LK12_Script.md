@@ -3486,3 +3486,4 @@ Da die Grundschwingung der Saite der halben Wellenlänge $\lambda_a$ entspricht,
 </details>
 
 </p>
+
