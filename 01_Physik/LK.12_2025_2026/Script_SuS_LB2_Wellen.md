@@ -13,7 +13,22 @@ logo: https://diversewolken.ddns.net/nextcloud/index.php/s/WqqAQR3Xk4gkpNG/downl
 }
 .lia-effect__circle {
     display: none !important;
-} 
+}
+.flex-container {
+    display: flex;
+    flex-wrap: wrap; /* Allows the items to wrap as needed */
+    align-items: stretch;
+    gap: 40px;
+}
+.flex-child,
+.flex-child-1 { flex: 1; }
+.flex-child-2 { flex: 2; }
+.flex-child-3 { flex: 3; }
+.flex-child-4 { flex: 4; }
+.flex-child-5 { flex: 5; }
+.flex-child-6 { flex: 6; }
+.flex-child-7 { flex: 7; }
+.flex-child-8 { flex: 8; }
 
 @media (min-width: 600px) {
     .newspaper {
@@ -28,6 +43,18 @@ logo: https://diversewolken.ddns.net/nextcloud/index.php/s/WqqAQR3Xk4gkpNG/downl
     }    
 }
 
+@media (min-width: 600px) {
+    .newspaper {
+        column-count: 2;
+        column-gap: 40px;
+        column-rule: 1px solid lightblue;
+    }
+    .newspaper3 {
+        column-count: 3;
+        column-gap: 20px;
+        column-rule: 1px solid lightblue;
+    }    
+}
 @end
 
 @onload
@@ -172,40 +199,6 @@ try {
 @2
 </div>
 </div>
-@end
-
-@style
-.flex-container {
-    display: flex;
-    flex-wrap: wrap; /* Allows the items to wrap as needed */
-    align-items: stretch;
-    gap: 10px;
-}
-
-.flex-child,
-.flex-child-1 { flex: 1; }
-.flex-child-2 { flex: 2; }
-.flex-child-3 { flex: 3; }
-.flex-child-4 { flex: 4; }
-.flex-child-5 { flex: 5; }
-.flex-child-6 { flex: 6; }
-.flex-child-7 { flex: 7; }
-.flex-child-8 { flex: 8; }
-
-@media (max-width: 500px) {
-    .flex-child,
-    .flex-child-1,
-    .flex-child-2,
-    .flex-child-3,
-    .flex-child-4,
-    .flex-child-5,
-    .flex-child-6,
-    .flex-child-7,
-    .flex-child-8 {
-        flex: 100%; /* Makes the child divs take up the full width on slim devices */
-        margin-right: 0; /* Removes the right margin */
-    }
-}
 @end
 
 mode: presentation
@@ -795,37 +788,48 @@ Wir untersuchen die Interferenz von Wellen grafisch als auch mathematisch.
 
 {{2}}
 ***********
-<p class="newspaper3">
+
+<section class="flex-container">
+
+<div class="flex-child-1" style="min-width: 200px; margin-bottom: -10px">
 
 __Grafische Darstellung__
 
-<p class="cb">
+</div>
+
+<div class="flex-child-1" style="min-width: 200px; margin-bottom: -10px">
 
 _Spezialfälle_
 
-<p class="cb">
+</div>
+
+<div class="flex-child-1" style="min-width: 200px; margin-bottom: -10px">
 
 __Mathematische Beschreibung__
 
-</p>
+</div>
 
-</p>
-
-</p>
+</section>
 
 ---
 
-<p class="newspaper3">
+<section class="flex-container">
+
+<div class="flex-child-1" style="min-width: 200px; margin-bottom: -10px">
 
 ![Konstruktive_Interferenz](https://diversewolken.ddns.net/nextcloud/index.php/s/b788bF9RP233a38/download)
 
-<p class="cb">
+</div>
+
+<div class="flex-child-1" style="min-width: 200px; margin-bottom: -10px">
 
 __Konstruktive Interferenz:__ Die Wellen überlagern sich derart, dass sich die Auslenkungen $y_1(x)$ und $y_2(x)$ addieren, es kommt zur Verstärkung der @color(resultierenden Welle, blue).
 
 > __Der Gangunterschied beträgt eine Wellenlänge $\boxed{\lambda}$ <br> (oder ein Vielfaches $\boxed{n\cdot\lambda}$)__
 
-<p class="cb">
+</div>
+
+<div class="flex-child-1" style="min-width: 200px; margin-bottom: -10px">
 
 $\green{y_1(x) = \hat{y_1}\cdot\sin(\frac{2\pi}{\lambda}\cdot x)}$
 
@@ -833,26 +837,30 @@ $\red{y_2(x) = \hat{y_2}\cdot\sin(\frac{2\pi}{\lambda}\cdot x)}$
 
 $\blue{y_{ges}(x) = (\hat{y_1}+\hat{y_2})\cdot\sin(\frac{2\pi}{\lambda}\cdot x)}$
 
+</div>
 
-</p>
-
-</p>
-
-</p>
+</section>
 
 ---
 
-<p class="newspaper3">
+<section class="flex-container">
+
+<div class="flex-child-1" style="min-width: 200px; margin-bottom: -10px">
 
 ![Destruktive_Interferenz](https://diversewolken.ddns.net/nextcloud/index.php/s/WW2xPJiWLXGHd2D/download)
 
-<p class="cb">
+</div>
+
+<div class="flex-child-1" style="min-width: 200px; margin-bottom: -10px">
 
 __Destruktive Interferenz:__ Die Wellen überlagern sich derart, dass sich die Auslenkungen $y_1(x)$ und $y_2(x)$ subtrahieren, es kann zur Auslöschen der @color(resultierenden Welle, blue) kommen.
 
 > __Der Gangunterschied beträgt <br> $\boxed{\frac{\lambda}{2}}$ (bzw. $\boxed{\frac{\lambda}{2} + n \cdot \lambda}$)__
 
-<p class="cb">
+</div>
+
+<div class="flex-child-1" style="min-width: 200px; margin-bottom: -10px">
+
 
 $\green{y_1(x) = \hat{y_1}\cdot\sin(\frac{2\pi}{\lambda}\cdot x)}$
 
@@ -860,12 +868,9 @@ $\red{y_2(x) = -\hat{y_2}\cdot\sin(\frac{2\pi}{\lambda}\cdot x)}$
 
 $\blue{y_{ges}(x) = (\hat{y_1}-\hat{y_2})\cdot\sin(\frac{2\pi}{\lambda}\cdot x)}$
 
+</div>
 
-</p>
-
-</p>
-
-</p>
+</section>
 
 ---
 
