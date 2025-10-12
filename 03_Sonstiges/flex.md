@@ -73,3 +73,21 @@ Lorem ipsum odor amet, consectetuer adipiscing elit. Vivamus egestas nisl ut por
 </section>
 
 ---
+
+# Test 2
+
+<section class="flex-container">
+
+<div class="flex-child-1" style="min-width: 300px; margin-bottom: -10px">
+
+A
+
+</div>
+
+<div class="flex-child-1" style="min-width: 300px; margin-bottom: -10px">
+
+B
+
+</div>
+
+</section>
