@@ -9,8 +9,6 @@ logo: https://cmscollege.ac.in/wp-content/uploads/2024/01/physics_image.webp
 
 import: https://raw.githubusercontent.com/wulstbug/Klotzsche2/2025_2026/03_Sonstiges/settings.md
 
-import: https://raw.githubusercontent.com/wulstbug/Klotzsche2/2025_2026/03_Sonstiges/flex.md
-
 @style
 .lia-slide__footer {
       display: none !important;
