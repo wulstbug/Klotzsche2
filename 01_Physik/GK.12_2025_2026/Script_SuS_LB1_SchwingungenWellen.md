@@ -1695,3 +1695,177 @@ Da die Grundschwingung der Saite der halben Wellenlänge $\lambda_a$ entspricht,
 </details>
 
 </p>
+
+
+### 6. 10. Das Doppelspalt-Experiment
+
+<section class="flex-container">
+
+<div class="flex-child-1" style="min-width: 300px; margin-bottom: -10px">
+
+> __Beschreibung:__ Beim Doppelspaltexperiment schickt man @color(kohärentes, orange), einfarbiges Licht (z.B. Laserlicht) durch zwei nahe beieinander liegende Spalte, den sogenannten Doppelspalt. Das Licht fällt auf einen hinter dem Doppelspalt liegenden Schirm.
+>
+> __Beobachtung:__ Auf dem Schirm entsteht ein Muster aus vertikalen hellen und dunklen Streifen.
+>
+> __Erklärung:__ An den beiden Spalten entstehen laut dem huygen'schen Prinzip neue Elementarwellen. Diese Wellen überlagern (__interferieren__) sich und bilden beim Auftreffen auf einem Beobachtungsschirm ein Interferenzmuster aus hellen und dunklen Bereichen.
+
+</div>
+
+<div class="flex-child-1" style="min-width: 300px; margin-bottom: -10px">
+
+![Doppelspalt](https://diversewolken.ddns.net/nextcloud/index.php/s/PWMnf2JX4xiXamx/download "Prinzipskizze des Doppelspalt-Experiments")
+
+</div>
+
+</section>
+
+---
+
+> __Schlussfolgerung:__
+>
+> Das Muster auf dem Schirm ist nur durch Beugung und Interferenz, d.h. also durch Wellenerscheinungen, erklärbar: <br> => @color(Licht besitzt Welleneigenschaften, orange).
+
+---
+
+> __Eigenschaften von Lichtwellen:__
+
+<section class="flex-container">
+
+<div class="flex-child-1" style="min-width: 200px; margin-bottom: -10px">
+
+1. bei einer Lichtwelle schwingt das <span style="color:orange">***elektrische und das magnetische Feld.***</span>
+
+2. eine Lichtwelle benötigt @color(****kein Medium***, orange) (anders als z.B. Schall[Luft], Wasserwellen[Wasser]) zur Ausbreitung. 
+
+3. Licht ist eine @color(***Transversalwelle***, orange). 
+
+4. Das elektromagnetische Feld @color(***transportiert Energie***, orange).
+
+</div>
+
+<div class="flex-child-1" style="min-width: 200px; margin-bottom: -10px">
+
+5. Die Ausbreitungsgeschwindigkeit (Lichtgeschwindigkeit) im Vakuum beträgt 
+
+$$\boxed{c = 300.000 \dfrac{km}{s}}$$
+
+6. Für die Lichtgeschwindigkeit in einem Medium gilt:
+
+$$\boxed{c_{Medium} < 300.000 \dfrac{km}{s}}$$
+
+</div>
+
+<div class="flex-child-1" style="min-width: 200px; margin-bottom: -10px">
+
+6. Es gilt die Wellengleichung: <br> $$ \boxed{c = \lambda \cdot f}$$ <br> Die Wellenlänge $\lambda$ der Lichtwelle bestimmt die <span style="color:orange">***Lichtfarbe***</span>.
+
+</div>
+
+</section>
+
+
+### 6. 11. Bestimmung der Wellenlänge des Lichts am Doppelspalt
+
+<section class="flex-container">
+
+<div class="flex-child-1" style="min-width: 300px; margin-bottom: -10px">
+
+![Doppelspalt4](https://diversewolken.ddns.net/nextcloud/index.php/s/nrWbK4zgxdcmTJt/download)
+
+</div>
+
+<div class="flex-child-1" style="min-width: 300px; margin-bottom: -10px">
+
+1. Die Spalte haben den Abstand $\blue{d}$, der Schirm hat vom Spalt den Abstand $\blue{e}.$
+
+2. Im Punkt __A__ beobachten wir konstruktive Interferenz, wir nennen es @color(***Interferenz-Maximum***, orange). Dieses Maximum ergibt sich aus der Überlagerung der Elementarwellen aus den Spalten $s_1$ und $s_2$.
+
+3. Für konstruktive Interferenz muss der Gangunterschied $\purple{\Delta s}$ einem Vielfachen der Wellenlänge entsprechen. <br> $$ \purple{\Delta s= k \cdot \lambda} \hspace{1cm}\mathrm{mit}\,\,k=1,\,2,..$$
+
+4. Im rechtwinkligen Dreieck $\triangle S_1 S_2 P$ gilt:
+
+$$ \dfrac{\purple{\Delta s}}{\blue{d}} = \boxed{\dfrac{\purple{k\cdot\lambda}}{\blue{d}} = \sin(\alpha) }$$
+
+5. Im rechtwinkligen Dreieck $\triangle M O A$ gilt:
+
+$$ \boxed{\tan(\alpha) = \blue{\dfrac{a}{e}}}$$
+
+</div>
+
+</section>
+
+> Da wird die Größen $\blue{d,\,e}$ und $\blue{a}$ @color(__messen__, blue) können, lässt sich mit dem __Doppelspalt-Experiment__ die @color(Wellenlänge $\lambda$, purple) des Laserlichts bestimmen.
+
+---
+
+#### Aufgaben zum Thema _Licht als Welle_
+
+1. Die Lichtgeschwindigkeit im Vakuum beträgt etwa $3 \cdot 10^8 \, \mathrm{\frac{m}{s}}$. Berechne die Frequenz von grünem Licht mit einer Wellenlänge von 500 nm.
+
+<p style='margin-left:10%'>
+
+@rangeQuiz2($f$,6e14,Hz)
+
+</p>
+
+---
+
+2. Zwei enge Spalte deren Abstand 1,5 mm beträgt werden mit Licht einer Natriumdampflampe (Wellenlänge 589 nm) beleuchtet. Auf einem Schirm in 3 Metern Entfernung werden Interferenzstreifen beobachtet. Berechnen Sie den Abstand der Streifen.
+
+<p style='margin-left:10%'>
+
+@rangeQuiz2($a$,1.18,mm)
+
+</p>
+
+<details style='margin-left:10%'>
+
+<summary> Lösungshinweis </summary>
+
+Achten Sie auf die Nutzung der Standardeinheit _Meter_ für alle Längenangaben.
+
+</details>
+
+---
+
+3. Auf ein optisches Gitter mit der Gitterkonstante $4,00\cdot10^{-6}\,\mathrm{m}$ (_wie Doppelspalt mit Abstand $d$ zu behandeln_) fällt Licht der Wellenlänge $694\,\mathrm{nm}$ senkrecht ein. Das Interferenzbild wird auf einem $2\,\mathrm{m}$ entfernten ebenen Schirm beobachtet, der parallel zum Gitter steht.
+
+3. 1. Berechnen Sie den Abstand $x$ der auf dem Schirm sichtbaren Maxima erster Ordnung.
+
+<p style='margin-left:10%'>
+
+@rangeQuiz2($x$,0.7,m)
+
+<details>
+
+<summary> Lösungshinweis </summary>
+
+Der Abstand der Maxima ist doppelt so groß, wie der Abstand des ersten Maximums vom mittleren Punkt (__O__).
+
+</details>
+
+</p>
+
+3. 2. Überprüfen Sie, bis zu welcher Ordnung Maxima überhaupt beobachtet werden können.
+
+<p style='margin-left:10%'>
+
+@rangeQuiz2($k$,5,.)
+
+</p>
+
+<details style='margin-left:10%'>
+
+<summary> Lösungshinweis1 </summary>
+
+Überlegen Sie, welcher Winkel $\alpha$ für die Beobachtung einer Interferenz hinter einem Beugungsgitter maximal sinnvoll ist.
+
+</details>
+
+<details style='margin-left:10%'>
+
+<summary> Lösungshinweis 2 </summary>
+
+Ein Winkel $\alpha$ von über 90° ist nicht beobachtbar. Überprüfen Sie, dem wievielten Maximum dieser Winkel entspricht.
+
+</details>
