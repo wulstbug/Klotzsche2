@@ -1436,7 +1436,7 @@ __Fadenpendel:__
 
 <summary> Aussage: </summary>
 
-Die Masse hat auf das Federpendel keinen Einfluss.
+Die Masse hat auf die Periodendauer keinen Einfluss.
 
 </details>
 
