@@ -10,9 +10,6 @@ logo: https://snu.edu.in/site/assets/files/18322/nanotechnology-molecule-atom-mo
 import: https://raw.githubusercontent.com/wulstbug/Klotzsche2/2025_2026/03_Sonstiges/settings.md
 
 @style
-.lia-slide__footer {
-      display: none !important;
-}
 .lia-effect__circle {
     display: none !important;
 }
@@ -1333,3 +1330,45 @@ __Am Beispiel des Federschwingers:__
 
 <iframe src="https://learningapps.org/watch?app=4316402" style="border:0px;width:100%;height:500px" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"></iframe>
 
+
+## Motivation Federschwinger
+
+<section class="flex-container">
+
+<div class="flex-child-2" style="min-width: 400px; margin-bottom: -10px">
+
+![Federschwinger](https://diversewolken.ddns.net/nextcloud/index.php/s/p3yAnoYf8DmnrPw/download)
+
+</div>
+
+<div class="flex-child-1" style="min-width: 200px; margin-bottom: -10px">
+
+{{1}}
+*********
+<iframe style="width:100%;max-width:360px;height:360px;" src="https://stopwatch-app.com/widget/stopwatch?theme=light&color=indigo" frameborder="0"></iframe>
+*********
+
+</div>
+
+</section>
+
+{{2}}
+**************
+> __Aufgabe:__ Bestimme die Periodendauer dieses Uhrenpendels.
+**************
+
+{{3}}
+*************
+> Um die Periodendauer eines Pendels zu bestimmen, messen wir die Zeit für mehrere Perioden (10+) und ermitteln daraus die Periodendauer.
+*************
+
+## 2. 5. Der Federschwinger und das Fadenpendel
+
+{{0-1}}
+******
+!?[Schaukel_Full](https://diversewolken.ddns.net/nextcloud/index.php/s/dfriqFSZXWSK26i/download)
+******
+
+### Aufgaben zur Periodendauer
+
+1. Bei einem Federpendel wird die Periodendauer größer, wenn die Masse größer wird.
