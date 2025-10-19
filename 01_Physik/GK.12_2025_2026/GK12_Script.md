@@ -1954,11 +1954,7 @@ $$\boxed{c_{Medium} < 300.000 \dfrac{km}{s}}$$
 
 {{7}}
 *********
-6. Es gilt die Wellengleichung:
-
-$$ \boxed{c = \lambda \cdot f}$$
-
-Die Wellenlänge $\lambda$ der Lichtwelle bestimmt die <span style="color:orange">***Lichtfarbe***</span>.
+6. Es gilt die Wellengleichung: <br> $$ \boxed{c = \lambda \cdot f}$$ <br> Die Wellenlänge $\lambda$ der Lichtwelle bestimmt die <span style="color:orange">***Lichtfarbe***</span>.
 *********
 
 </div>
@@ -2091,11 +2087,19 @@ Für das erste Interferenz-Maximum ($k=1$) gilt:
 
 </p>
 
+<details style='margin-left:10%'>
+
+<summary> Lösungshinweis </summary>
+
+Achten Sie auf die Nutzung der Standardeinheit _Meter_ für alle Längenangaben.
+
+</details>
+
 ---
 
 3. Auf ein optisches Gitter mit der Gitterkonstante $4,00\cdot10^{-6}\,\mathrm{m}$ (_wie Doppelspalt mit Abstand $d$ zu behandeln_) fällt Licht der Wellenlänge $694\,\mathrm{nm}$ senkrecht ein. Das Interferenzbild wird auf einem $2\,\mathrm{m}$ entfernten ebenen Schirm beobachtet, der parallel zum Gitter steht.
 
-3. 1. Berechnen Sie den Abstand der auf dem Schirm sichtbaren Maxima erster Ordnung.
+3. 1. Berechnen Sie den Abstand $x$ der auf dem Schirm sichtbaren Maxima erster Ordnung.
 
 <p style='margin-left:10%'>
 
