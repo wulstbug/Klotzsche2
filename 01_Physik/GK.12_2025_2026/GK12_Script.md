@@ -2021,7 +2021,116 @@ $$ \boxed{\tan(\alpha) = \blue{\dfrac{a}{e}}}$$
 
 {{6}}
 ***************
-> Da wird die Größen $\blue{d,\,e}$ und $\blue{a}$ @color(messen, blue) können, lässt sich mit dem __Doppelspalt-Experiment__ die @color(Wellenlänge $\lambda$, purple) des Laserlichts bestimmen.
+> Da wird die Größen $\blue{d,\,e}$ und $\blue{a}$ @color(__messen__, blue) können, lässt sich mit dem __Doppelspalt-Experiment__ die @color(Wellenlänge $\lambda$, purple) des Laserlichts bestimmen.
+
+---
+***************
+
+{{7}}
+***************
+<section class="flex-container">
+
+<div class="flex-child-1" style="min-width: 300px; margin-bottom: -10px">
+
+__Experimentelle Messwerte:__
+
+> $d$ = <input type="number" default="0" min="0" max="10" id="d" size="5"> m <br> <br> $a$ = <input type="number" default="0" min="0" max="10" id="a" size="5"> m <br> <br> $e$ = <input type="number" default="1" min="0" max="10" id="e" size="5">m
+
+</div>
+
+<div class="flex-child-1" style="min-width: 300px; margin-bottom: -10px">
+
+__Ermittlung der Wellenlänge:__
+
+{{8}}
+***************
+> $\tan{\alpha} = \dfrac{a}{e} \hspace{0.5cm}\Rightarrow\hspace{0.5cm}\alpha = \tan^{-1}\Big(\dfrac{a}{e}\Big) = $ <script input="button">
+    let d = document.getElementById("d").value;
+    let a = document.getElementById("a").value;
+    let e = document.getElementById("e").value;
+    Math.atan(a/e)*180/Math.PI
+</script> °
+***************
+
+{{9}}
+***************
+Für das erste Interferenz-Maximum ($k=1$) gilt:
+
+> $ \lambda = d \cdot \sin\alpha \approx $ <script input="button">
+    let d = document.getElementById("d").value;
+    let a = document.getElementById("a").value;
+    let e = document.getElementById("e").value;
+    Math.round(d*Math.sin(Math.atan(a/e)))
+</script> nm $\hspace{1cm}\big[\mathrm{nm}=10^{-9}\mathrm{m}\big]$
 ***************
 
 
+</div>
+
+</section>
+
+***************
+
+#### Aufgaben zum Thema _Licht als Welle_
+
+1. Die Lichtgeschwindigkeit im Vakuum beträgt etwa $3 \cdot 10^8 \, \mathrm{\frac{m}{s}}$. Berechne die Frequenz von grünem Licht mit einer Wellenlänge von 500 nm.
+
+<p style='margin-left:10%'>
+
+@rangeQuiz2($f$,6e14,Hz)
+
+</p>
+
+---
+
+2. Zwei enge Spalte deren Abstand 1,5 mm beträgt werden mit Licht einer Natriumdampflampe (Wellenlänge 589 nm) beleuchtet. Auf einem Schirm in 3 Metern Entfernung werden Interferenzstreifen beobachtet. Berechnen Sie den Abstand der Streifen.
+
+<p style='margin-left:10%'>
+
+@rangeQuiz2($a$,1.18,mm)
+
+</p>
+
+---
+
+3. Auf ein optisches Gitter mit der Gitterkonstante $4,00\cdot10^{-6}\,\mathrm{m}$ (_wie Doppelspalt mit Abstand $d$ zu behandeln_) fällt Licht der Wellenlänge $694\,\mathrm{nm}$ senkrecht ein. Das Interferenzbild wird auf einem $2\,\mathrm{m}$ entfernten ebenen Schirm beobachtet, der parallel zum Gitter steht.
+
+3. 1. Berechnen Sie den Abstand der auf dem Schirm sichtbaren Maxima erster Ordnung.
+
+<p style='margin-left:10%'>
+
+@rangeQuiz2($x$,0.7,m)
+
+<details>
+
+<summary> Lösungshinweis </summary>
+
+Der Abstand der Maxima ist doppelt so groß, wie der Abstand des ersten Maximums vom mittleren Punkt (__O__).
+
+</details>
+
+</p>
+
+3. 2. Überprüfen Sie, bis zu welcher Ordnung Maxima überhaupt beobachtet werden können.
+
+<p style='margin-left:10%'>
+
+@rangeQuiz2($k$,5,.)
+
+</p>
+
+<details style='margin-left:10%'>
+
+<summary> Lösungshinweis1 </summary>
+
+Überlegen Sie, welcher Winkel $\alpha$ für die Beobachtung einer Interferenz hinter einem Beugungsgitter maximal sinnvoll ist.
+
+</details>
+
+<details style='margin-left:10%'>
+
+<summary> Lösungshinweis 2 </summary>
+
+Ein Winkel $\alpha$ von über 90° ist nicht beobachtbar. Überprüfen Sie, dem wievielten Maximum dieser Winkel entspricht.
+
+</details>
