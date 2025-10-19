@@ -2053,7 +2053,7 @@ Für das erste Interferenz-Maximum ($k=1$) gilt:
     let d = document.getElementById("d").value;
     let a = document.getElementById("a").value;
     let e = document.getElementById("e").value;
-    Math.round(d*Math.sin(Math.atan(a/e)))
+    Math.round(d*Math.sin(Math.atan(a/e))/1e-9)
 </script> nm $\hspace{1cm}\big[\mathrm{nm}=10^{-9}\mathrm{m}\big]$
 ***************
 
