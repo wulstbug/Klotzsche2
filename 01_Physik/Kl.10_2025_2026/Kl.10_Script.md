@@ -1331,7 +1331,7 @@ __Am Beispiel des Federschwingers:__
 <iframe src="https://learningapps.org/watch?app=4316402" style="border:0px;width:100%;height:500px" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"></iframe>
 
 
-## Motivation Federschwinger
+## Motivation 1 - Pendel
 
 <section class="flex-container">
 
@@ -1362,13 +1362,178 @@ __Am Beispiel des Federschwingers:__
 > Um die Periodendauer eines Pendels zu bestimmen, messen wir die Zeit für mehrere Perioden (10+) und ermitteln daraus die Periodendauer.
 *************
 
-## 2. 5. Der Federschwinger und das Fadenpendel
+## Motivation 2 - Pendel
 
-{{0-1}}
-******
 !?[Schaukel_Full](https://diversewolken.ddns.net/nextcloud/index.php/s/dfriqFSZXWSK26i/download)
-******
 
-### Aufgaben zur Periodendauer
+> __Aufgabe:__ Beobachte die drei Fadenpendel. Formuliere eine Gemeinsamkeit. Formuliere einen Unterschied.
 
-1. Bei einem Federpendel wird die Periodendauer größer, wenn die Masse größer wird.
+### Simulation 1 - Fadenpendel
+
+??[Federpendel-Simulation](https://phet.colorado.edu/sims/html/pendulum-lab/latest/pendulum-lab_all.html?locale=de)
+
+### Simulation 2 - Federpendel
+
+??[Fadenpendel-Simulation](https://phet.colorado.edu/sims/html/masses-and-springs/latest/masses-and-springs_all.html?locale=de)
+
+### Aufgabe: Formulieren Sie eine Je-desto-Aussage
+
+<section class="flex-container">
+
+<div class="flex-child-1" style="min-width: 300px; margin-bottom: -10px">
+
+__Federpendel (Federschwinger):__
+
+1. Beobachten Sie zwei Federpendel mit identischer Federkonstante, aber unterschiedlicher Masse. <br>  <br> __Masse und Periodendauer__ <br>
+
+<details style='margin-left:10%; color:blue'>
+
+<summary> Aussage: </summary>
+
+Je größer die Masse, desto größer ist die Periodendauer.
+
+</details>
+
+<br> <br> <br>
+
+---
+
+2. Beobachten Sie zwei Federpendel mit identischer Masse, aber unterschiedlicher Federkonstante. <br>  <br> __Federkonstante und Periodendauer__  
+
+<details style='margin-left:10%; color:blue'>
+
+<summary> Aussage: </summary>
+
+Je größer die Federkonstante, desto kleiner ist die Periodendauer.
+
+</details>
+
+<br> <br> <br>
+
+---
+
+3. BeobachtenSie zwei Federpendel mit unterschiedlicher Amplitude (Auslenkung zu Beginn). <br>  <br> __Auslenkung und Periodendauer__  
+
+<details style='margin-left:10%; color:blue'>
+
+<summary> Aussage: </summary>
+
+Die Amplitude hat auf die Periodendauer keinen Einfluss.
+
+</details>
+
+<br> <br> <br>
+
+</div>
+
+<div class="flex-child-1" style="min-width: 300px; margin-bottom: -10px">
+
+__Fadenpendel:__
+
+1. Beobachten Sie zwei Fadenpendel mit identischer Länge, aber unterschiedlicher Masse. <br>  <br> __Masse und Periodendauer__ <br> 
+
+<details style='margin-left:10%; color:blue'>
+
+<summary> Aussage: </summary>
+
+Die Masse hat auf das Federpendel keinen Einfluss.
+
+</details>
+
+<br> <br> <br>
+
+---
+
+2. Beobachten Sie zwei Federpendel mit identischer Masse, aber unterschiedlicher Pendellänge. <br>  <br> __Pendellänge und Periodendauer__  <br> 
+
+<details style='margin-left:10%; color:blue'>
+
+<summary> Aussage: </summary>
+
+Je größer die Pendellänge, desto größer die Periodendauer.
+
+</details>
+
+<br> <br> <br>
+
+---
+
+3. BeobachtenSie zwei Federpendel mit unterschiedlicher Auslenkung zu Beginn. <br>  <br> __Auslenkung und Periodendauer__  <br> 
+
+<details style='margin-left:10%; color:blue'>
+
+<summary> Aussage: </summary>
+
+Die Auslenkung hat auf die Periodendauer keinen Einfluss.
+
+</details>
+
+<br> <br> <br>
+
+</div>
+
+</section>
+
+## 2. 5. Periodendauern bei Federpendel und das Fadenpendel
+
+<section class="flex-container">
+
+<div class="flex-child-1" style="min-width: 300px; margin-bottom: -10px">
+
+__Federpendel (Federschwinger)__
+
+> Die Periodendauer $T$ eines Federpendels lässt sich unter den Vorraussetzungen (1.-3.) mit
+>
+> $$ \boxed{T = 2\pi \sqrt{\dfrac{m}{D}}} $$
+>
+> berechnen. Hier ist $m$ die angehängte Masse und $D$ die Federkonstante.
+> <br>
+</div>
+
+<div class="flex-child-1" style="min-width: 300px; margin-bottom: -10px">
+
+__Fadenpendel__
+
+> Die Periodendauer $T$ eines Fadenpendels lässt sich unter den Vorraussetzungen (1. & 2.) mit
+>
+> $$ \boxed{T = 2\pi \sqrt{\dfrac{ℓ}{g}}} $$
+>
+> berechnen. Hier ist $ℓ$ die Länge des Fadens und $g=9,81\mathrm{\frac{m}{s^2}}$ der Ortsfaktor (Erdbeschleunigung).
+
+</div>
+
+</section>
+
+---
+
+<section class="flex-container">
+
+<div class="flex-child-1" style="min-width: 300px; margin-bottom: -10px">
+
+__Vorraussetzungen:__
+
+1. Die Feder schwinkt nach dem Hook'schen Gesetz, das heißt die rücktreibende Kraft $F$ ist proportional zur Auslenkung $y$. Der Proportionalitätsfaktor ist die Federkonstante $D$.
+
+$$ F = - D \cdot y $$
+
+2. Das System schwingt reibungsfrei.
+
+3. Die Feder sei Masselos
+
+</div>
+
+<div class="flex-child-1" style="min-width: 300px; margin-bottom: -10px">
+
+__Vorraussetzungen:__
+
+1. Es erfolgt nur eine __kleine Auslenkung__ 
+
+$$ \alpha_{max} \leq 5^\circ $$
+
+2. Das System schwingt reibungsfrei.
+
+3. Der Faden sei masselos.
+
+</div>
+
+</section>
