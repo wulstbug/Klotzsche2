@@ -83,7 +83,7 @@ icon:   https://diversewolken.ddns.net/klotzsche/logo.jpg
 
 @uhr
 
-# LB VI Schwingungen
+# LB VI Schwingungen und Wellen
 
 ![Schwingungen](https://cmscollege.ac.in/wp-content/uploads/2024/01/physics_image.webp)
 
@@ -1874,3 +1874,154 @@ Da die Grundschwingung der Saite der halben Wellenlänge $\lambda_a$ entspricht,
 </details>
 
 </p>
+
+### 6. 10. Das Doppelspalt-Experiment
+
+<section class="flex-container">
+
+<div class="flex-child-1" style="min-width: 300px; margin-bottom: -10px">
+
+> __Beschreibung:__ Beim Doppelspaltexperiment schickt man @color(kohärentes, orange), einfarbiges Licht (z.B. Laserlicht) durch zwei nahe beieinander liegende Spalte, den sogenannten Doppelspalt. Das Licht fällt auf einen hinter dem Doppelspalt liegenden Schirm.
+>
+> {1}{__Beobachtung:__ Auf dem Schirm entsteht ein Muster aus vertikalen hellen und dunklen Streifen.}
+>
+> {2}{__Erklärung:__ An den beiden Spalten entstehen laut dem huygen'schen Prinzip neue Elementarwellen. Diese Wellen überlagern (__interferieren__) sich und bilden beim Auftreffen auf einem Beobachtungsschirm ein Interferenzmuster aus hellen und dunklen Bereichen.}
+
+</div>
+
+<div class="flex-child-1" style="min-width: 300px; margin-bottom: -10px">
+
+{0-1}{![Doppelspalt_KeinSchirm](https://diversewolken.ddns.net/nextcloud/index.php/s/c8TRSPoriw65AC9/download "Prinzipskizze des Doppelspalt-Experiments")}
+
+{1}{![Doppelspalt](https://diversewolken.ddns.net/nextcloud/index.php/s/PWMnf2JX4xiXamx/download "Prinzipskizze des Doppelspalt-Experiments")}
+
+</div>
+
+</section>
+
+---
+
+{{3}}
+*********
+> __Schlussfolgerung:__
+>
+> Das Muster auf dem Schirm ist nur durch Beugung und Interferenz, d.h. also durch Wellenerscheinungen, erklärbar: <br> => @color(Licht besitzt Welleneigenschaften, orange).
+
+---
+*********
+
+
+
+{{4}}
+*********
+> __Eigenschaften von Lichtwellen:__
+
+<section class="flex-container">
+
+<div class="flex-child-1" style="min-width: 200px; margin-bottom: -10px">
+
+{{5}}
+*********
+1. bei einer Lichtwelle schwingt das <span style="color:orange">***elektrische und das magnetische Feld.***</span>
+
+2. eine Lichtwelle benötigt @color(****kein Medium***, orange) (anders als z.B. Schall[Luft], Wasserwellen[Wasser]) zur Ausbreitung. 
+
+3. Licht ist eine @color(***Transversalwelle***, orange). 
+
+4. Das elektromagnetische Feld @color(***transportiert Energie***, orange).
+*********
+
+</div>
+
+<div class="flex-child-1" style="min-width: 200px; margin-bottom: -10px">
+
+{{6}}
+*********
+
+5. Die Ausbreitungsgeschwindigkeit (Lichtgeschwindigkeit) im Vakuum beträgt 
+
+$$\boxed{c = 300.000 \dfrac{km}{s}}$$
+
+6. Für die Lichtgeschwindigkeit in einem Medium gilt:
+
+$$\boxed{c_{Medium} < 300.000 \dfrac{km}{s}}$$
+
+*********
+
+</div>
+
+<div class="flex-child-1" style="min-width: 200px; margin-bottom: -10px">
+
+{{7}}
+*********
+6. Es gilt die Wellengleichung:
+
+$$ \boxed{c = \lambda \cdot f}$$
+
+Die Wellenlänge $\lambda$ der Lichtwelle bestimmt die <span style="color:orange">***Lichtfarbe***</span>.
+*********
+
+</div>
+
+</section>
+
+
+*********
+
+### 6. 11. Bestimmung der Wellenlänge des Lichts am Doppelspalt
+
+<section class="flex-container">
+
+<div class="flex-child-1" style="min-width: 300px; margin-bottom: -10px">
+
+{0-1}{![Doppelspalt1](https://diversewolken.ddns.net/nextcloud/index.php/s/k9B2BRzezjccY9b/download)}
+{1-2}{![Doppelspalt2](https://diversewolken.ddns.net/nextcloud/index.php/s/o3ETdEtdpLHAWrN/download)}
+{2-3}{![Doppelspalt3](https://diversewolken.ddns.net/nextcloud/index.php/s/Sy7HgjwPbEmNG3B/download)}
+{3}{![Doppelspalt3](https://diversewolken.ddns.net/nextcloud/index.php/s/6i39C3mY2YFaZX6/download)}
+
+
+</div>
+
+<div class="flex-child-1" style="min-width: 300px; margin-bottom: -10px">
+
+{{1}}
+***************
+1. Die Spalte haben den Abstand $\blue{d}$, der Schirm hat vom Spalt den Abstand $\blue{e}.$
+***************
+
+{{2}}
+***************
+2. Im Punkt __A__ beobachten wir konstruktive Interferenz, wir nennen es @color(***Interferenz-Maximum***, orange). Dieses Maximum ergibt sich aus der Überlagerung der Elementarwellen aus den Spalten $s_1$ und $s_2$.
+***************
+
+{{3}}
+***************
+3. Für konstruktive Interferenz muss der Gangunterschied $\purple{\Delta s}$ einem Vielfachen der Wellenlänge entsprechen. <br> $$ \purple{\Delta s= k \cdot \lambda} \hspace{1cm}\mathrm{mit}\,\,k=1,\,2,..$$
+***************
+
+{{4}}
+***************
+4. Im rechtwinkligen Dreieck $\triangle S_1 S_2 P$ gilt:
+
+$$ \dfrac{\purple{\Delta s}}{\blue{d}} = \boxed{\dfrac{\purple{k\cdot\lambda}}{\blue{d}} = \sin(\alpha) }$$
+
+***************
+
+{{5}}
+***************
+5. Im rechtwinkligen Dreieck $\triangle M O A$ gilt:
+
+$$ \boxed{\tan(\alpha) = \blue{\dfrac{a}{e}}}$$
+
+***************
+
+</div>
+
+</section>
+
+{{6}}
+***************
+> Da wird die Größen $\blue{d,\,e}$ und $\blue{a}$ @color(messen, blue) können, lässt sich mit dem __Doppelspalt-Experiment__ die @color(Wellenlänge $\lambda$, purple) des Laserlichts bestimmen.
+***************
+
+
