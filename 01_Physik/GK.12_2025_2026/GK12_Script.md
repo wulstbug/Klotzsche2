@@ -2041,7 +2041,7 @@ __Ermittlung der Wellenlänge:__
     let d = document.getElementById("d").value;
     let a = document.getElementById("a").value;
     let e = document.getElementById("e").value;
-    Math.round(Math.atan(a/e)*180/Math.PI*100)/100
+    Math.round(Math.atan(a/e)*180/Math.PI*1000)/1000
 </script> °
 ***************
 
