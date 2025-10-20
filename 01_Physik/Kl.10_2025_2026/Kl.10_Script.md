@@ -1512,7 +1512,7 @@ __Fadenpendel__
 
 __Vorraussetzungen:__
 
-1. Die Feder schwigkt nach dem Hook'schen Gesetz, das heißt die rücktreibende Kraft $F$ ist proportional zur Auslenkung $y$. Der Proportionalitätsfaktor ist die Federkonstante $D$.
+1. Die Feder schwingt nach dem Hook'schen Gesetz, das heißt die rücktreibende Kraft $F$ ist proportional zur Auslenkung $y$. Der Proportionalitätsfaktor ist die Federkonstante $D$.
 
 $$ F = - D \cdot y $$
 
