@@ -1537,3 +1537,68 @@ $$ \alpha_{max} \leq 5^\circ $$
 </div>
 
 </section>
+
+### Übungaufgaben zum Faden- und Federpendel
+
+1. ![Pendel](https://diversewolken.ddns.net/nextcloud/index.php/s/FtrzR267SSwHHRW/download) Ein Fadenpendel hat eine Länge von 30 cm. Ermitteln Sie die Periodendauer und die Frequenz, wenn das Pendel als ideales Pendel betrachtet werden soll.
+
+<p style='margin-left:10%'>
+
+@rangeQuiz2($T$,1.099,s)
+
+@rangeQuiz2($f$,0.91,Hz)
+
+</p>
+
+<details style='margin-left:10%'>
+
+<summary> Lösunghinweis </summary>
+
+Nutzen Sie die Formel aus 2.5 für das Fadenpendel um die Aufgabe zu lösen. Achten Sie darauf, die Länge in die Standardeinheit umzurechnen.
+
+</details>
+
+----
+
+2. ![Uhr](https://diversewolken.ddns.net/nextcloud/index.php/s/p3yAnoYf8DmnrPw/download) Das Pendel aus Aufgabe 1 soll nun für eine Pendel-Uhr verwendet werden, welche die vollständigen Schwingungen zählt und so die Zeit misst. Es wird angenommen, dass die Periodendauer genau 1 s beträgt. Würde man das Pendel so benutzen, wie es in Aufgabe 1 aufgebaut ist, dann würde die Uhr.
+
+     - [( )] nach einiger Zeit vorgehen
+     - [(x)] nach einiger Zeit nachgehen
+     - [( )] die richtige Zeit anzeigen
+
+---
+
+3. Auf welche Weise müsst man das Pendel aus Aufgabe 1 verändern, dass die Uhr richtig geht.
+
+     - [( )] eine größere Masse anhängen
+     - [( )] eine kleiner Masse anhängen
+     - [( )] die Pendellänge vergrößern
+     - [(x)] die Pendellänge verkleinern
+     - [( )] die Amplitude verringern
+     - [( )] die Amplitude vergrößern
+
+---
+
+4. An eine Hook'sche Feder soll eine Masse gehängt werden, sodass eine vollständige Schwingung genau eine Sekunde dauert.Die Federkonstante $D$ beträgt $0.4\frac{N}{m}$. Ermitteln Sie aus den Angaben die Masse in der Einheit Gramm, welche angehängt werden muss.
+
+<p style="margin-left:10%">
+
+@rangeQuiz2($m$,10.13,$g$)
+
+</p>
+
+<details style="margin-left:10%">
+
+<summary> Lösungshinweise </summary>
+
+Verwenden Sie die Formel zur Ermittlung der Periodendauer eines Federschwingers. Stellen Sie diese Formel nach der Masse um.
+
+</details>
+
+<details style="margin-left:10%">
+
+<summary> Lösungsweg </summary>
+
+![Loesung-2.1.2](https://diversewolken.ddns.net/nextcloud/index.php/s/D9eJbRdg5wja99t/download)
+
+</details>
