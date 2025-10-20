@@ -43,7 +43,7 @@ __Notengebung__
 | | | |
 | Art | Termin | Bemerkungen |
 | 1. Sonstige (LK) | 11.09. | 5. Woche |
-| 2. Sonstige (Prakt) | tba. | 9. Woche , Einzelarbeit |
+| 2. Sonstige (Prakt) | 10.11 | 11. Woche , Einzelarbeit |
 | 2. Klausur| 20.11. | 13. Woche | 
 
 </details>
