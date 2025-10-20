@@ -1494,7 +1494,7 @@ __Federpendel (Federschwinger)__
 
 __Fadenpendel__
 
-> Die Periodendauer $T$ eines Fadenpendels lässt sich unter den Vorraussetzungen (1. & 2.) mit
+> Die Periodendauer $T$ eines Fadenpendels lässt sich unter den Vorraussetzungen (1.-3.) mit
 >
 > $$ \boxed{T = 2\pi \sqrt{\dfrac{ℓ}{g}}} $$
 >
