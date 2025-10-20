@@ -1444,7 +1444,7 @@ Die Masse hat auf die Periodendauer keinen Einfluss.
 
 ---
 
-2. Beobachten Sie zwei Federpendel mit identischer Masse, aber unterschiedlicher Pendellänge. <br>  <br> __Pendellänge und Periodendauer__  <br> 
+2. Beobachten Sie zwei Fadenpendel mit identischer Masse, aber unterschiedlicher Pendellänge. <br>  <br> __Pendellänge und Periodendauer__  <br> 
 
 <details style='margin-left:10%; color:blue'>
 
