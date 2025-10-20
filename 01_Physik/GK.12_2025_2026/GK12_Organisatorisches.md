@@ -23,26 +23,6 @@ mode: presentation
 icon:   https://diversewolken.ddns.net/klotzsche/logo.jpg
 -->
 
-__Checkliste zur 1. LK __
-
-- Beschreibung einer harmonischen mechanischen Schwingung y(t), v(t), a(t) und Ermittlung der Maximalgeschwindigkeit / Beschleunigung
-
-- Mechanische Schwingung am Beispiel des Federschwingers, Grundannahmen für harmonische Schwingung, Periodendauer, Begriffe der mechanischen Schwingung (z.B. Elongation, Amplitude)
-
-- Verständnis des Messens einer Periodendauer am Beispiel des Federschwingers
-
-- Energieumwandlungen bei mechanischen Schwingungen
-
-- realer/idealer mechanischer Schwinger
-
-- Aussagen zu mechanischen Schwingungen einschätzen
-
-- Grundlagen des elektrischen Schwingkreises (Energieumwandlungen)
-
-- Eigenschaften des elektrischen Schwingkreises (Periodendauer, idealer/realer Schwingkreis)
-
-- Vergleich / Gemeinsamkeiten & Unterschieder mechanischer Schwinger / Schwingkreis
-
 
 ## Notengebung
 
