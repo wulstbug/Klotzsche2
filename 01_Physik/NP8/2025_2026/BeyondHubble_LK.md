@@ -1339,6 +1339,10 @@ Konstruiere die Aufgaben a) bis d). Nutze für jede neue Konstruktion einen neue
 
 </p>
 
+# Entstehung unseres Sonnensystems
+
+[ZDF-Dokumentation-Sonnensystem](https://www.zdf.de/video/dokus/das-universum-eine-reise-durch-raum-und-zeit-112/das-universum-eine-reise-durch-raum-und-zeit-die-geheimnisse-des-sonnensystems-100)
+
 ## Sonnensystem mit Geogebra
 
 Erstelle mit Hilfe von Geogebra dein eigenes Sonnensystem.
