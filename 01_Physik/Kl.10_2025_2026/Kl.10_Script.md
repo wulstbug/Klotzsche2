@@ -1415,7 +1415,7 @@ Je größer die Federkonstante, desto kleiner ist die Periodendauer.
 
 <summary> Aussage: </summary>
 
-Die Amplitude hat auf die Periodendauer keinen Einfluss.
+Bei einer kleinen Amplitude hat die Auslenkung hat auf die Periodendauer keinen Einfluss.
 
 </details>
 
@@ -1450,13 +1450,13 @@ Je größer die Pendellänge, desto größer die Periodendauer.
 
 ---
 
-3. BeobachtenSie zwei Federpendel mit unterschiedlicher Auslenkung zu Beginn. <br>  <br> __Auslenkung und Periodendauer__  <br> 
+3. BeobachtenSie zwei Fadenpendel mit unterschiedlicher Auslenkung zu Beginn. <br>  <br> __Auslenkung und Periodendauer__  <br> 
 
 <details style='margin-left:10%; color:blue'>
 
 <summary> Aussage: </summary>
 
-Die Auslenkung hat auf die Periodendauer keinen Einfluss.
+Bei einer kleinen Amplitude hat die Auslenkung hat auf die Periodendauer keinen Einfluss.
 
 </details>
 
