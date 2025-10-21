@@ -18,7 +18,7 @@ logo: https://www.sciencedaily.com/images/1920/Quantum-Clock.webp
     display: flex;
     flex-wrap: wrap; /* Allows the items to wrap as needed */
     align-items: stretch;
-    gap: 40px;
+    gap: 20px;
 }
 .flex-child,
 .flex-child-1 { flex: 1; }
@@ -3753,3 +3753,187 @@ $$\boxed{c_{Medium} < 300.000 \dfrac{km}{s}}$$
 
 
 *********
+
+
+### 10. 12. Bestimmung der Wellenlänge des Lichts am Doppelspalt
+
+<section class="flex-container">
+
+<div class="flex-child-3" style="min-width: 300px; margin-bottom: -10px">
+
+{0-1}{![Doppelspalt1](https://diversewolken.ddns.net/nextcloud/index.php/s/CjeoRm63RYeerPN/download)<!-- style="width:100%" -->}
+{1-2}{![Doppelspalt2](https://diversewolken.ddns.net/nextcloud/index.php/s/MgaPdZqPbmTWGLp/download)<!-- style="width:100%" -->}
+{2-3}{![Doppelspalt3](https://diversewolken.ddns.net/nextcloud/index.php/s/QaNR3Q4A8JfSsfA/download)<!-- style="width:100%" -->}
+{3-4}{![Doppelspalt4](https://diversewolken.ddns.net/nextcloud/index.php/s/sAMqHnH3omTsE9W/download)<!-- style="width:100%" -->}
+{4}{![Doppelspalt5](https://diversewolken.ddns.net/nextcloud/index.php/s/rR93K2CqrPDwTDR/download)<!-- style="width:100%" -->}
+
+
+</div>
+
+<div class="flex-child-2" style="min-width: 300px; margin-bottom: -10px">
+
+{{1}}
+***************
+1. Auf dem Schirm entsteht ein @color(***Interferenzmuster***, green).
+***************
+
+{{2}}
+***************
+2. Die Spalte haben den Abstand $\blue{d}$, der Schirm hat vom Spalt den Abstand $\blue{e}.$
+***************
+
+{{3}}
+***************
+3. Im Punkt __A__ beobachten wir konstruktive Interferenz, wir nennen es @color(***Interferenz-Maximum***, green). Dieses Maximum ergibt sich aus der Überlagerung der Elementarwellen aus den Spalten $s_1$ und $s_2$.
+***************
+
+{{4}}
+***************
+4. Für konstruktive Interferenz muss der Gangunterschied $\purple{\Delta s}$ einem Vielfachen der Wellenlänge entsprechen. <br> $$ \purple{\Delta s= k \cdot \lambda} \hspace{1cm}\mathrm{mit}\,\,k=1,\,2,..$$
+***************
+
+{{5}}
+***************
+5. Im rechtwinkligen Dreieck $\triangle S_1 S_2 P$ gilt:
+
+$$ \dfrac{\purple{\Delta s}}{\blue{d}} = \boxed{\dfrac{\purple{k\cdot\lambda}}{\blue{d}} = \sin(\alpha) }$$
+
+***************
+
+{{6}}
+***************
+6. Im rechtwinkligen Dreieck $\triangle M O A$ gilt:
+
+$$ \boxed{\tan(\alpha) = \blue{\dfrac{a}{e}}}$$
+
+***************
+
+</div>
+
+</section>
+
+{{6}}
+***************
+> Da wird die Größen $\blue{d,\,e}$ und $\blue{a}$ @color(__messen__, blue) können, lässt sich mit dem __Doppelspalt-Experiment__ die @color(Wellenlänge $\lambda$, purple) des Laserlichts bestimmen.
+
+---
+***************
+
+{{7}}
+***************
+<section class="flex-container">
+
+<div class="flex-child-2" style="min-width: 300px; margin-bottom: -10px">
+
+__Experimentelle Messwerte:__ 
+
+> $d$ = <input type="number" default="0" min="0" max="10" id="d" size="5"> m <br> <br> $a$ = <input type="number" default="0" min="0" max="10" id="a" size="5"> m <br> <br> $e$ = <input type="number" default="1" min="0" max="10" id="e" size="5">m
+
+@color(_Hinweis: Dezimalzahlen mit "."_, gray)
+
+</div>
+
+<div class="flex-child-3" style="min-width: 300px; margin-bottom: -10px">
+
+__Ermittlung der Wellenlänge:__
+
+{{8}}
+***************
+> $\tan{\alpha} = \dfrac{a}{e} \hspace{0.5cm}\Rightarrow\hspace{0.5cm}\alpha = \tan^{-1}\Big(\dfrac{a}{e}\Big) = $ <script input="button">
+    let d = document.getElementById("d").value;
+    let a = document.getElementById("a").value;
+    let e = document.getElementById("e").value;
+    Math.round(Math.atan(a/e)*180/Math.PI*1000)/1000
+</script> °
+***************
+
+{{9}}
+***************
+Für das erste Interferenz-Maximum ($k=1$) gilt:
+
+> $ \lambda = d \cdot \sin\alpha \approx $ <script input="button">
+    let d = document.getElementById("d").value;
+    let a = document.getElementById("a").value;
+    let e = document.getElementById("e").value;
+    Math.round(d*Math.sin(Math.atan(a/e))/1e-9)
+</script> nm $\hspace{1cm}\big[\mathrm{nm}=10^{-9}\mathrm{m}\big]$
+***************
+
+
+</div>
+
+</section>
+
+***************
+
+#### Aufgaben zum Thema _Licht als Welle_
+
+1. Die Lichtgeschwindigkeit im Vakuum beträgt etwa $3 \cdot 10^8 \, \mathrm{\frac{m}{s}}$. Berechne die Frequenz von grünem Licht mit einer Wellenlänge von 500 nm.
+
+<p style='margin-left:10%'>
+
+@rangeQuiz2($f$,6e14,Hz)
+
+</p>
+
+---
+
+2. Zwei enge Spalte deren Abstand 1,5 mm beträgt werden mit Licht einer Natriumdampflampe (Wellenlänge 589 nm) beleuchtet. Auf einem Schirm in 3 Metern Entfernung werden Interferenzstreifen beobachtet. Berechnen Sie den Abstand der Streifen.
+
+<p style='margin-left:10%'>
+
+@rangeQuiz2($a$,1.18,mm)
+
+</p>
+
+<details style='margin-left:10%'>
+
+<summary> Lösungshinweis </summary>
+
+Achten Sie auf die Nutzung der Standardeinheit _Meter_ für alle Längenangaben.
+
+</details>
+
+---
+
+3. Auf ein optisches Gitter mit der Gitterkonstante $4,00\cdot10^{-6}\,\mathrm{m}$ (_wie Doppelspalt mit Abstand $d$ zu behandeln_) fällt Licht der Wellenlänge $694\,\mathrm{nm}$ senkrecht ein. Das Interferenzbild wird auf einem $2\,\mathrm{m}$ entfernten ebenen Schirm beobachtet, der parallel zum Gitter steht.
+
+3. 1. Berechnen Sie den Abstand $x$ der auf dem Schirm sichtbaren Maxima erster Ordnung.
+
+<p style='margin-left:10%'>
+
+@rangeQuiz2($x$,0.7,m)
+
+<details>
+
+<summary> Lösungshinweis </summary>
+
+Der Abstand der Maxima ist doppelt so groß, wie der Abstand des ersten Maximums vom mittleren Punkt (__O__).
+
+</details>
+
+</p>
+
+3. 2. Überprüfen Sie, bis zu welcher Ordnung Maxima überhaupt beobachtet werden können.
+
+<p style='margin-left:10%'>
+
+@rangeQuiz2($k$,5,.)
+
+</p>
+
+<details style='margin-left:10%'>
+
+<summary> Lösungshinweis1 </summary>
+
+Überlegen Sie, welcher Winkel $\alpha$ für die Beobachtung einer Interferenz hinter einem Beugungsgitter maximal sinnvoll ist.
+
+</details>
+
+<details style='margin-left:10%'>
+
+<summary> Lösungshinweis 2 </summary>
+
+Ein Winkel $\alpha$ von über 90° ist nicht beobachtbar. Überprüfen Sie, dem wievielten Maximum dieser Winkel entspricht.
+
+</details>

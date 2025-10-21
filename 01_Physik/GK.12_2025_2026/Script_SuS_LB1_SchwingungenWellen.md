@@ -1768,13 +1768,13 @@ $$\boxed{c_{Medium} < 300.000 \dfrac{km}{s}}$$
 
 <section class="flex-container">
 
-<div class="flex-child-1" style="min-width: 300px; margin-bottom: -10px">
+<div class="flex-child-3" style="min-width: 300px; margin-bottom: -10px">
 
-![Doppelspalt4](https://diversewolken.ddns.net/nextcloud/index.php/s/nrWbK4zgxdcmTJt/download)
+![Doppelspalt5](https://diversewolken.ddns.net/nextcloud/index.php/s/rR93K2CqrPDwTDR/download)<!-- style="width:100%" -->
 
 </div>
 
-<div class="flex-child-1" style="min-width: 300px; margin-bottom: -10px">
+<div class="flex-child-2" style="min-width: 300px; margin-bottom: -10px">
 
 1. Die Spalte haben den Abstand $\blue{d}$, der Schirm hat vom Spalt den Abstand $\blue{e}.$
 
