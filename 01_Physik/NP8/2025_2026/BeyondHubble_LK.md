@@ -1375,16 +1375,16 @@ Sonnenradius: 696.000 km
 | Neptun   |4498.0                |
 
 <!-- data-type="bar" data-show -->
-| Planet   | Geschwindigkeit (km/h) |
+| Planet   | Geschwindigkeit (Mio km/h) |
 |----------|------------------------|
-| Merkur   | 172332                |
-| Venus    | 126072                |
-| Erde     | 107226                |
-| Mars     | 86868                 |
-| Jupiter  | 47052                 |
-| Saturn   | 34884                 |
-| Uranus   | 24516                 |
-| Neptun   | 19548                 |
+| Merkur   | 0.172                |
+| Venus    | 0.126                |
+| Erde     | 0.107                |
+| Mars     | 0.087                 |
+| Jupiter  | 0.047                 |
+| Saturn   | 0.035                 |
+| Uranus   | 0.025                 |
+| Neptun   | 0.020                 |
 
 </details>
 
@@ -1496,14 +1496,14 @@ Sonnenradius: 696.000 km
 <!-- data-type="bar" data-show -->
 | Planet   | Geschwindigkeit (Mio km/h) |
 |----------|------------------------|
-| Merkur   | 0,172                |
-| Venus    | 0,126                |
-| Erde     | 0,107                |
-| Mars     | 0,087                 |
-| Jupiter  | 0,047                 |
-| Saturn   | 0,035                 |
-| Uranus   | 0,025                 |
-| Neptun   | 0,020                 |
+| Merkur   | 0.172                |
+| Venus    | 0.126                |
+| Erde     | 0.107                |
+| Mars     | 0.087                 |
+| Jupiter  | 0.047                 |
+| Saturn   | 0.035                 |
+| Uranus   | 0.025                 |
+| Neptun   | 0.020                 |
 
 </details>
 
