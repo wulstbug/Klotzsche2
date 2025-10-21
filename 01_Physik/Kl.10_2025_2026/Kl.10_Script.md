@@ -1540,7 +1540,7 @@ $$ \alpha_{max} \leq 5^\circ $$
 
 </p>
 
-<details style='margin-left:10%'>
+<details style='margin-left:10%;color:blue'>
 
 <summary> Lösunghinweis </summary>
 
@@ -1577,7 +1577,7 @@ Nutzen Sie die Formel aus 2.5 für das Fadenpendel um die Aufgabe zu lösen. Ach
 
 </p>
 
-<details style="margin-left:10%">
+<details style="margin-left:10%;color:blue">
 
 <summary> Lösungshinweise </summary>
 
@@ -1585,7 +1585,7 @@ Verwenden Sie die Formel zur Ermittlung der Periodendauer eines Federschwingers.
 
 </details>
 
-<details style="margin-left:10%">
+<details style="margin-left:10%;color:blue">
 
 <summary> Lösungsweg </summary>
 
