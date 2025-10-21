@@ -1464,7 +1464,7 @@ Bei einer kleinen Amplitude hat die Auslenkung hat auf die Periodendauer keinen 
 
 </section>
 
-## 2. 5. Periodendauern bei Federpendel und das Fadenpendel
+## 2. 5. Periodendauern bei Feder- und Fadenpendel
 
 <section class="flex-container">
 
