@@ -1394,8 +1394,6 @@ Je größer die Masse, desto größer ist die Periodendauer.
 
 </details>
 
-<br> <br> <br>
-
 ---
 
 2. Beobachten Sie zwei Federpendel mit identischer Masse, aber unterschiedlicher Federkonstante. <br>  <br> __Federkonstante und Periodendauer__  
@@ -1408,7 +1406,6 @@ Je größer die Federkonstante, desto kleiner ist die Periodendauer.
 
 </details>
 
-<br> <br> <br>
 
 ---
 
@@ -1421,8 +1418,6 @@ Je größer die Federkonstante, desto kleiner ist die Periodendauer.
 Die Amplitude hat auf die Periodendauer keinen Einfluss.
 
 </details>
-
-<br> <br> <br>
 
 </div>
 
@@ -1440,7 +1435,6 @@ Die Masse hat auf die Periodendauer keinen Einfluss.
 
 </details>
 
-<br> <br> <br>
 
 ---
 
@@ -1454,8 +1448,6 @@ Je größer die Pendellänge, desto größer die Periodendauer.
 
 </details>
 
-<br> <br> <br>
-
 ---
 
 3. BeobachtenSie zwei Federpendel mit unterschiedlicher Auslenkung zu Beginn. <br>  <br> __Auslenkung und Periodendauer__  <br> 
@@ -1467,8 +1459,6 @@ Je größer die Pendellänge, desto größer die Periodendauer.
 Die Auslenkung hat auf die Periodendauer keinen Einfluss.
 
 </details>
-
-<br> <br> <br>
 
 </div>
 
