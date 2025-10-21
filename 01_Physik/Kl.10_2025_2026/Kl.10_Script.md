@@ -1530,7 +1530,7 @@ $$ \alpha_{max} \leq 5^\circ $$
 
 ### Übungaufgaben zum Faden- und Federpendel
 
-1. ![Pendel](https://diversewolken.ddns.net/nextcloud/index.php/s/FtrzR267SSwHHRW/download) Ein Fadenpendel hat eine Länge von 30 cm. Ermitteln Sie die Periodendauer und die Frequenz, wenn das Pendel als ideales Pendel betrachtet werden soll.
+1. ![Pendel](https://diversewolken.ddns.net/nextcloud/index.php/s/FtrzR267SSwHHRW/download)<!-- style="max-width:100px"--> Ein Fadenpendel hat eine Länge von 30 cm. Ermitteln Sie die Periodendauer und die Frequenz, wenn das Pendel als ideales Pendel betrachtet werden soll.
 
 <p style='margin-left:10%'>
 
