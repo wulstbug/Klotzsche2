@@ -1341,7 +1341,24 @@ Konstruiere die Aufgaben a) bis d). Nutze für jede neue Konstruktion einen neue
 
 # Entstehung unseres Sonnensystems
 
+{{1}}
+*************
+__Modell Sonnensystem in 2D__
+
+<iframe src="https://www.geogebra.org/classic/bx5mjs6w?embed" width="100%" height="600" allowfullscreen style="border: 1px solid #e4e4e4;border-radius: 4px;" frameborder="0"></iframe>
+*************
+
+{{2}}
+*************
+__Modell Sonnensystem in 3D__
+
+
+*************
+
+{{3}}
+*************
 [ZDF-Dokumentation-Sonnensystem](https://www.zdf.de/video/dokus/das-universum-eine-reise-durch-raum-und-zeit-112/das-universum-eine-reise-durch-raum-und-zeit-die-geheimnisse-des-sonnensystems-100)
+*************
 
 ## Sonnensystem mit Geogebra
 
