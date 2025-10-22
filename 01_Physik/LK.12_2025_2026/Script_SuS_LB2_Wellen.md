@@ -1230,7 +1230,7 @@ Da die Grundschwingung der Saite der halben Wellenlänge $\lambda_a$ entspricht,
 </p>
 
 
-### 10. 11. Das Doppelspalt-Experiment
+### 10. 12. Das Doppelspalt-Experiment
 
 <section class="flex-container">
 
@@ -1297,7 +1297,7 @@ $$\boxed{c_{Medium} < 300.000 \dfrac{km}{s}}$$
 </section>
 
 
-### 10. 12. Bestimmung der Wellenlänge des Lichts am Doppelspalt
+### 10. 13. Bestimmung der Wellenlänge des Lichts am Doppelspalt
 
 <section class="flex-container">
 
