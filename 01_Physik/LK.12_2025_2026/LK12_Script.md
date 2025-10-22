@@ -8,9 +8,6 @@ language: de
 logo: https://www.sciencedaily.com/images/1920/Quantum-Clock.webp
 
 @style
-.lia-slide__footer {
-      display: none !important;
-}
 .lia-effect__circle {
     display: none !important;
 } 
