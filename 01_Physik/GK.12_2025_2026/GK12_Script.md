@@ -1896,6 +1896,8 @@ Da die Grundschwingung der Saite der halben Wellenlänge $\lambda_a$ entspricht,
 
 </p>
 
+## 6. Elektromagnetische Wellen
+
 ### 6. 10. Das Doppelspalt-Experiment
 
 <section class="flex-container">
@@ -1989,44 +1991,50 @@ $$\boxed{c_{Medium} < 300.000 \dfrac{km}{s}}$$
 
 <section class="flex-container">
 
-<div class="flex-child-1" style="min-width: 300px; margin-bottom: -10px">
+<div class="flex-child-3" style="min-width: 300px; margin-bottom: -10px">
 
-{0-1}{![Doppelspalt1](https://diversewolken.ddns.net/nextcloud/index.php/s/k9B2BRzezjccY9b/download)}
-{1-2}{![Doppelspalt2](https://diversewolken.ddns.net/nextcloud/index.php/s/o3ETdEtdpLHAWrN/download)}
-{2-3}{![Doppelspalt3](https://diversewolken.ddns.net/nextcloud/index.php/s/Sy7HgjwPbEmNG3B/download)}
-{3}{![Doppelspalt4](https://diversewolken.ddns.net/nextcloud/index.php/s/nrWbK4zgxdcmTJt/download)}
+{0-1}{![Doppelspalt1](https://diversewolken.ddns.net/nextcloud/index.php/s/CjeoRm63RYeerPN/download)<!-- style="width:100%" -->}
+{1-2}{![Doppelspalt2](https://diversewolken.ddns.net/nextcloud/index.php/s/MgaPdZqPbmTWGLp/download)<!-- style="width:100%" -->}
+{2-3}{![Doppelspalt3](https://diversewolken.ddns.net/nextcloud/index.php/s/QaNR3Q4A8JfSsfA/download)<!-- style="width:100%" -->}
+{3-4}{![Doppelspalt4](https://diversewolken.ddns.net/nextcloud/index.php/s/sAMqHnH3omTsE9W/download)<!-- style="width:100%" -->}
+{4}{![Doppelspalt5](https://diversewolken.ddns.net/nextcloud/index.php/s/rR93K2CqrPDwTDR/download)<!-- style="width:100%" -->}
 
 
 </div>
 
-<div class="flex-child-1" style="min-width: 300px; margin-bottom: -10px">
+<div class="flex-child-2" style="min-width: 300px; margin-bottom: -10px">
 
 {{1}}
 ***************
-1. Die Spalte haben den Abstand $\blue{d}$, der Schirm hat vom Spalt den Abstand $\blue{e}.$
+1. Auf dem Schirm entsteht ein @color(***Interferenzmuster***, green).
 ***************
 
 {{2}}
 ***************
-2. Im Punkt __A__ beobachten wir konstruktive Interferenz, wir nennen es @color(***Interferenz-Maximum***, orange). Dieses Maximum ergibt sich aus der Überlagerung der Elementarwellen aus den Spalten $s_1$ und $s_2$.
+2. Die Spalte haben den Abstand $\blue{d}$, der Schirm hat vom Spalt den Abstand $\blue{e}.$
 ***************
 
 {{3}}
 ***************
-3. Für konstruktive Interferenz muss der Gangunterschied $\purple{\Delta s}$ einem Vielfachen der Wellenlänge entsprechen. <br> $$ \purple{\Delta s= k \cdot \lambda} \hspace{1cm}\mathrm{mit}\,\,k=1,\,2,..$$
+3. Im Punkt __A__ beobachten wir konstruktive Interferenz, wir nennen es @color(***Interferenz-Maximum***, green). Dieses Maximum ergibt sich aus der Überlagerung der Elementarwellen aus den Spalten $s_1$ und $s_2$.
 ***************
 
 {{4}}
 ***************
-4. Im rechtwinkligen Dreieck $\triangle S_1 S_2 P$ gilt:
+4. Für konstruktive Interferenz muss der Gangunterschied $\purple{\Delta s}$ einem Vielfachen der Wellenlänge entsprechen. <br> $$ \purple{\Delta s= k \cdot \lambda} \hspace{1cm}\mathrm{mit}\,\,k=1,\,2,..$$
+***************
+
+{{5}}
+***************
+5. Im rechtwinkligen Dreieck $\triangle S_1 S_2 P$ gilt:
 
 $$ \dfrac{\purple{\Delta s}}{\blue{d}} = \boxed{\dfrac{\purple{k\cdot\lambda}}{\blue{d}} = \sin(\alpha) }$$
 
 ***************
 
-{{5}}
+{{6}}
 ***************
-5. Im rechtwinkligen Dreieck $\triangle M O A$ gilt:
+6. Im rechtwinkligen Dreieck $\triangle M O A$ gilt:
 
 $$ \boxed{\tan(\alpha) = \blue{\dfrac{a}{e}}}$$
 
@@ -2047,15 +2055,17 @@ $$ \boxed{\tan(\alpha) = \blue{\dfrac{a}{e}}}$$
 ***************
 <section class="flex-container">
 
-<div class="flex-child-1" style="min-width: 300px; margin-bottom: -10px">
+<div class="flex-child-2" style="min-width: 300px; margin-bottom: -10px">
 
-__Experimentelle Messwerte:__
+__Experimentelle Messwerte:__ 
 
 > $d$ = <input type="number" default="0" min="0" max="10" id="d" size="5"> m <br> <br> $a$ = <input type="number" default="0" min="0" max="10" id="a" size="5"> m <br> <br> $e$ = <input type="number" default="1" min="0" max="10" id="e" size="5">m
 
+@color(_Hinweis: Dezimalzahlen mit "."_, gray)
+
 </div>
 
-<div class="flex-child-1" style="min-width: 300px; margin-bottom: -10px">
+<div class="flex-child-3" style="min-width: 300px; margin-bottom: -10px">
 
 __Ermittlung der Wellenlänge:__
 
