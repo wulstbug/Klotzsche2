@@ -3665,7 +3665,7 @@ Da die Grundschwingung der Saite der halben Wellenlänge $\lambda_a$ entspricht,
 
 
 
-### 10. 12. Das Doppelspalt-Experiment
+### 10. 11. Das Doppelspalt-Experiment
 
 <section class="flex-container">
 
