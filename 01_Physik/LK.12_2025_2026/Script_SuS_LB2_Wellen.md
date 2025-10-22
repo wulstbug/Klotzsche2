@@ -218,7 +218,7 @@ mode: presentation
 > - die einzelnen schwingenden Teilchen bewegen sich ausschließlich um ihre Gleichgewichtslage
 
 
-### 10. 1. Arten mechanischer Wellen
+## 10. 1. Arten mechanischer Wellen
 
 <p class="newspaper3">
 
@@ -264,7 +264,7 @@ __Beobachtung:__
 
 </p>
 
-### 10. 2. Eigenschaften mechanischer Wellen
+## 10. 2. Eigenschaften mechanischer Wellen
 
 @color(_Tipp: Nutze für diese Übersicht eine eigene Seite_, orange)
 
@@ -458,7 +458,7 @@ __Die folgenden Aufgaben beziehen sich auf die Transversalwelle in Starteinstell
 </p>
 
 
-### 10. 3. Darstellung der Wellenausbreitung mit Wellenfront und Wellennormale
+## 10. 3. Darstellung der Wellenausbreitung mit Wellenfront und Wellennormale
 
 Zur Darstellung der Ausbreitung von Wellen nutzen man __Wellenfronten__ und @color(__Wellennormale__,red)
 
@@ -507,7 +507,7 @@ Ebene Welle (z.B. Lichtausbreitung)
 
 </p>
 
-### 10. 4. Huygens'sche Prinzip
+## 10. 4. Huygens'sche Prinzip
 
 > Jeder Punkt einer Wellenfront ist seinerseits wieder Ausgangspunkt für @color(kreis- bzw. kugelförmige Elementarwellen, red)
 
@@ -520,7 +520,7 @@ Ebene Welle (z.B. Lichtausbreitung)
 *************
 
 
-#### Aufgabenstellung zur Selbsständigen Präsentation
+### Aufgabenstellung zur Selbsständigen Präsentation
 
 <p style="color:blue">
 
@@ -563,7 +563,7 @@ __Beugung:__
 
 
 
-### 10. 5. Reflexion
+## 10. 5. Reflexion
 
 __Definition:__ Trifft eine Welle auf eine ebene Oberfläche, dann wird sie __reflektiert__. Es gilt das __Reflexionsgesetz__:
 
@@ -615,7 +615,7 @@ Aufgaben:
 **********
 
 
-### 10. 6. Brechung
+## 10. 6. Brechung
 
 
 __Definition:__ Trifft eine Welle unter einem Einfallswinkel $\alpha\neq 0$ auf eine @color(__ebene Grenzfläche__, darkgreen) zweier Stoffe, in denen sie sich mit unterschiedlicher @color(Geschwindigkeit, red) ausbreitet, dann ändert sie ihre Ausbreitungsrichtung. Sie wird @color(gebrochen, red). Es gilt das __Brechungsgesetz__:
@@ -680,7 +680,7 @@ Aufgaben:
 </p>
 **********
 
-### 10. 7. Beugung
+## 10. 7. Beugung
 
 Definition: Trifft eine Welle auf einen Spalt oder eine Kante, so sind die betreffenden Stellen nach _Huygens Prinzip_ Ausgangspunkt von Elementarwellen. Damit breitet sich eine Welle auch in den __Schattenraum__ aus.
 
@@ -740,7 +740,7 @@ Aufgaben:
 **********
 
 
-#### Übungsaufgaben zu Reflexion, Beugung, Brechung
+### Übungsaufgaben zu Reflexion, Beugung, Brechung
 
 __Quiz zur Licht-Brechung:__
 
@@ -757,7 +757,7 @@ __Zuordnung Wellenausbreitung:__
 - [PaareZuordnen-Wellenausbreitung](https://learningapps.org/view4311115)
 
 
-### 10. 8. Interferenz
+## 10. 8. Interferenz
 
 {{0}}
 ***********
@@ -873,7 +873,7 @@ $\blue{y_{ges}(x) = (\hat{y_1}-\hat{y_2})\cdot\sin(\frac{2\pi}{\lambda}\cdot x)}
 
 ***********
 
-### 10. 9. Stehende Wellen
+## 10. 9. Stehende Wellen
 
 [StehendeWellen-Geogebra](https://www.geogebra.org/m/wcqzrbnh)
 
@@ -897,9 +897,9 @@ $\blue{y_{ges}(x) = (\hat{y_1}-\hat{y_2})\cdot\sin(\frac{2\pi}{\lambda}\cdot x)}
 
 </p>
 
-#### Übungsaufgaben zu Wellenphänomenen
+### Übungsaufgaben zu Wellenphänomenen
 
-##### Übung 1 - Welleneigenschaften
+#### Übung 1 - Welleneigenschaften
 
 <p class="newspaper">
 
@@ -980,13 +980,13 @@ Recherchieren Sie in Ihrer Formelsammlung die Schallgeschwindigkeit in Luft bei 
 
 </p>
 
-##### Übung 2 - Wellenphänomene
+#### Übung 2 - Wellenphänomene
 
 Ordne den folgenden Abbildungen das Wellenphänomen zu.
 
 <iframe src="https://learningapps.org/watch?v=p29hwaena25" style="border:0px;width:100%;height:500px" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"></iframe>
 
-##### Übung 3 - Stehende Wellen
+#### Übung 3 - Stehende Wellen
 
 1. Die $60\,\mathrm{cm}$ lange H-Saite einer Gitarre schwinge mit $247\,\mathrm{Hz}$. <br> 
 
@@ -1047,7 +1047,7 @@ Da die Grundschwingung der Saite der halben Wellenlänge $\lambda_a$ entspricht,
 </p>
 
 
-### 10. 10. Begründung des Relfexionsgesetzes mit dem Huygens'schen Prinzip
+## 10. 10. Begründung des Relfexionsgesetzes mit dem Huygens'schen Prinzip
 
 ![RG_TB1](https://diversewolken.ddns.net/nextcloud/index.php/s/oNFR69QaAyscHcM/download)
 
@@ -1055,7 +1055,7 @@ Da die Grundschwingung der Saite der halben Wellenlänge $\lambda_a$ entspricht,
 
 
 
-#### Übungsaufgaben
+### Übungsaufgaben
 
 1. In einer Wellenwanne läuft eine Wasserwelle von einem seichten Bereich in ein Gebiet mit tieferem Wasser unter dem Einfallswinkel von 45° und einem Brechungswinkel von 60°. Bestimmen Sie die Geschwindigkeit im flachen Teil, wenn sie im tiefen Teil $25\,\mathrm{\frac{cm}{s}}$ beträgt.<br><br> _Hinweis: Die Ausbreitungsgeschwindigkeit von Wasserwellen folgt näherungsweise derm Zusammenhang $v\sim\sqrt{h}$, wobei h die Wassertiefe ist._
 
@@ -1087,13 +1087,13 @@ Da die Grundschwingung der Saite der halben Wellenlänge $\lambda_a$ entspricht,
 
 </p>
 
-### 10. 11. Begründung des Brechungsgesetzes mit dem Huygens'schen Prinzip
+## 10. 11. Begründung des Brechungsgesetzes mit dem Huygens'schen Prinzip
 
 ![BG_TB1](https://diversewolken.ddns.net/nextcloud/index.php/s/FitcjCLbt8ecfCW/download)
 
 
 
-#### Aufgaben zu Wellen
+### Aufgaben zu Wellen
 
 1. Geben Sie an, welche Aussagen richtig sind:
 
@@ -1230,7 +1230,7 @@ Da die Grundschwingung der Saite der halben Wellenlänge $\lambda_a$ entspricht,
 </p>
 
 
-### 10. 12. Das Doppelspalt-Experiment
+## 10. 12. Das Doppelspalt-Experiment
 
 <section class="flex-container">
 
@@ -1297,7 +1297,7 @@ $$\boxed{c_{Medium} < 300.000 \dfrac{km}{s}}$$
 </section>
 
 
-### 10. 13. Bestimmung der Wellenlänge des Lichts am Doppelspalt
+## 10. 13. Bestimmung der Wellenlänge des Lichts am Doppelspalt
 
 <section class="flex-container">
 
@@ -1331,7 +1331,7 @@ $$ \boxed{\tan(\alpha) = \blue{\dfrac{a}{e}}}$$
 
 ---
 
-#### Aufgaben zum Thema _Licht als Welle_
+### Aufgaben zum Thema _Licht als Welle_
 
 1. Die Lichtgeschwindigkeit im Vakuum beträgt etwa $3 \cdot 10^8 \, \mathrm{\frac{m}{s}}$. Berechne die Frequenz von grünem Licht mit einer Wellenlänge von 500 nm.
 
@@ -1404,7 +1404,7 @@ Ein Winkel $\alpha$ von über 90° ist nicht beobachtbar. Überprüfen Sie, dem 
 </details>
 
 
-### 10. 14. Interferenz am Beugungsgitter
+## 10. 14. Interferenz am Beugungsgitter
 
 <p style="color:blue">
 
@@ -1420,7 +1420,7 @@ __Aufgabenstellung:__
 
 </p>
 
-#### Experimentelle Aufgabe zum optischen Gitter
+### Experimentelle Aufgabe zum optischen Gitter
 
 <p style="color:blue">
 
@@ -1447,7 +1447,7 @@ __Ergebnis-Überprüfung:__
 </p>
 
 
-#### Abituraufgabe zum optischen Gitter
+### Abituraufgabe zum optischen Gitter
 
 > In einem Experiment fällt das Infrarotlicht einer Fernbedienung senkrecht auf ein Gitter mit 600 vertikalen Spalten pro Millimeter. Eine Handy-Kamera wird auf einem Halbkreis um das Gitter geführt (siehe Abbildung 1). Sie registriert dabei die Intensität des Infrarotlichts. Der Winkel zwischen den beiden Maxima erster Ordnung beträgt 70°.
 
