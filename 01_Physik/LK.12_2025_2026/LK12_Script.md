@@ -4037,8 +4037,15 @@ Ort der Kamera beitragen, als parallel betrachtet werden. Da dies der Fall ist, 
 <summary> Lösungshinweise </summary>
 
 Du sollst die Wellenlänge des Infrarotlichtes berechnen. Dazu brauchst du zum einen den Winkel $\alpha$ zwischen dem Maximum nullter Ordnung und dem erster Ordnung. Es ist gegeben, dass zwischen den beiden Maxima
-erster Ordnung ein Winkel von 70° zu messen ist. Demnach beträgt der gesuchte Winkel genau die Hälfte, also $\alpha=35°$. Es ist außerdem die Gitterkontante $d$ gesucht: In der Aufgabenstellung wird beschrieben, dass das Gitter 600 Spalte pro Millimeter hat. Mit dieser Angabe kannst du $d$ bestimmen.
-Der Beugungswinkel $\alpha_k$ in Abhängigkeit von der Wellenlänge und dem Maximum $k$-ter Ordnung wird durch folgende Formel beschrieben: $\sin(\alpha_k)=\frac{k\cdot\lambda}{d}$.
+erster Ordnung ein Winkel von 70° zu messen ist. Demnach beträgt der gesuchte Winkel genau die Hälfte, also $\alpha=35°$. Es ist außerdem die Gitterkontante $g$ gesucht: In der Aufgabenstellung wird beschrieben, dass das Gitter 600 Spalte pro Millimeter hat. Mit dieser Angabe kannst du $g$ bestimmen.
+
+<p>
+
+@rangeQuiz2($g$,1.667e-6,m)
+
+</p>
+
+Der Beugungswinkel $\alpha_k$ in Abhängigkeit von der Wellenlänge und dem Maximum $k$-ter Ordnung wird durch folgende Formel beschrieben: $\sin(\alpha_k)=\frac{k\cdot\lambda}{g}$.
 
 Durch Einsetzen und Umformen erhältst du die gesuchte Größe.
 
@@ -4048,14 +4055,14 @@ Durch Einsetzen und Umformen erhältst du die gesuchte Größe.
 
 <summary> Lösung </summary>
 
-Du sollst die Wellenlänge $\lambda$ des Infrarotlichtes berechnen. Dazu brauchst du zum einen den Winkel $\alpha$ zwischen dem Maximum nullter Ordnung und dem erster Ordnung. Es ist gegeben, dass zwischen den beiden Maxima erster Ordnung ein Winkel von 70° beträgt. Demnach gilt: $\alpha_1=35^\circ$. Es ist außerdem die Gitterkontante $d$ gesucht: In der Aufgabenstellung wird beschrieben, dass das Gitter 600
+Du sollst die Wellenlänge $\lambda$ des Infrarotlichtes berechnen. Dazu brauchst du zum einen den Winkel $\alpha$ zwischen dem Maximum nullter Ordnung und dem erster Ordnung. Es ist gegeben, dass zwischen den beiden Maxima erster Ordnung ein Winkel von 70° beträgt. Demnach gilt: $\alpha_1=35^\circ$. Es ist außerdem die Gitterkontante $g$ gesucht: In der Aufgabenstellung wird beschrieben, dass das Gitter 600
 Spalte pro Millimeter hat. Somit ergibt sich für :
 
-$$ d = \frac{1}{600}\cdot 10^{-3}\,\mathrm{mm} = 1.67\cdot 10^{-6} m$$
+$$ g = \frac{1}{600}\cdot 10^{-3}\,\mathrm{mm} = 1,67\cdot 10^{-6} m$$
 
 Der Beugungswinkel $\alpha_k$ in Abhängigkeit von der Wellenlänge $\lambda$ wird durch folgende Formel beschrieben:
 
-$$\sin(\alpha_k)=\frac{k\cdot\lambda}{d}$$
+$$\sin(\alpha_k)=\frac{k\cdot\lambda}{g}$$
 
 Durch Einsetzen uns umstellen erhältst du 
 
@@ -4080,7 +4087,7 @@ In diesem Versuchsaufbau kann der Beobachtungswinkel gegenüber dem Maximum null
 
 <summary> Lösung </summary>
 
-Im Grenzfall des Winkels $\alpha=90^\circ$ entspricht der Gangunterschied $\Delta s$ genau der Gitterkonstante $d$. Im vorliegenden Beispiel ist die Gitterkonstante $d=833\,\mathrm{nm}$ __kleiner__ als die Wellenlänge $\lambda=956\,\mathrm{nm}$. Somit kann keine konstruktive Interferenz erreicht werden und ein Maximum erster Ordnung ist nicht zu beobachten.
+Im Grenzfall des Winkels $\alpha=90^\circ$ entspricht der Gangunterschied $\Delta s$ genau der Gitterkonstante $g$. Im vorliegenden Beispiel ist die Gitterkonstante $g=833\,\mathrm{nm}$ __kleiner__ als die Wellenlänge $\lambda=956\,\mathrm{nm}$. Somit kann keine konstruktive Interferenz erreicht werden und ein Maximum erster Ordnung ist nicht zu beobachten.
 
 </details>
 
@@ -4108,7 +4115,7 @@ Der hier gefragte Grenzfall erfordert, dass die Gitterkonstante genau der Wellen
 
 Der hier gefragte Grenzfall erfordert, dass die Gitterkonstante genau der Wellenlänge entspricht.
 
-$$ d=\lambda= 956\,\mathrm{nm}$$
+$$ g=\lambda= 956\,\mathrm{nm}$$
 
 Dies entspricht
 
@@ -4152,7 +4159,7 @@ Das Spektrum erster Ordnung wird ab einem minimalen Beugungswinkel von $4,50^\ci
 
 <p style='margin-left:10%'>
 
-@rangeQuiz2($d$,5.35e-6,m)
+@rangeQuiz2($g$,5.35e-6,m)
 
 </p>
 
@@ -4160,7 +4167,7 @@ Das Spektrum erster Ordnung wird ab einem minimalen Beugungswinkel von $4,50^\ci
 
 <summary> Lösunghinweis </summary>
 
-Die näherliegenden Maxima habe die größten Wellenlängen. Nutze die größte Wellenlänge, um die Gitterkonstante zu ermitteln.
+Die näher am Maximum nultter Ordnung liegenden Maxima haben die kleinsten Wellenlängen. Der Rand des Spektrums gehört als zur kleinst möglichen Wellenlänge. Nutze diese, um die Gitterkonstante zu ermitteln.
 
 </details>
 
@@ -4168,9 +4175,9 @@ Die näherliegenden Maxima habe die größten Wellenlängen. Nutze die größte 
 
 <summary> Lösung </summary>
 
-Die größte Wellenlänge ist $420\,\mathrm{nm}$. Wenn der zugehörige Winkel $\alpha=4,50^\circ$ beträgt, ergibt sich als Gitterkonstante:
+Die kleinste Wellenlänge ist $420\,\mathrm{nm}$. Wenn der zugehörige Winkel $\alpha=4,50^\circ$ beträgt, ergibt sich als Gitterkonstante:
 
-$$ d = \frac{\lambda}{\sin\alpha} = 5,35\cdot 10^{-6}\,\mathrm{m}$$
+$$ g = \frac{\lambda}{\sin\alpha} = 5,35\cdot 10^{-6}\,\mathrm{m}$$
 
 </details>
 
@@ -4193,11 +4200,11 @@ Damit die Spektren von einander getrennt sind, muss das Maximum zweiter Ordnung 
 
 Das Maximum erster Ordnung, dass am weitesten von der Mitte entfernt ist, gehört zur größten Wellenlänge, d.h. $780\,\mathrm{nm}$. Es erscheint unter dem Winkel:
 
-$$\alpha_1(780\,\mathrm{nm}) = \frac{780\,\mathrm{nm}}{} = 8,38^\circ$$
+$$\alpha_1(780\,\mathrm{nm}) = \frac{780\,\mathrm{nm}}{g} = 8,38^\circ$$
 
 Das Maximum zweiter Ordnung, dass am nächsten an der Mitte liegt, gehört zur kleinsten Wellenlänge, d.h. $420\,\mathrm{nm}$. Es erscheint unter dem Winkel:
 
-$$\alpha_2(420\,\mathrm{nm}) = \frac{2\cdot420\,\mathrm{nm}}{} = 9,03^\circ$$
+$$\alpha_2(420\,\mathrm{nm}) = \frac{2\cdot420\,\mathrm{nm}}{g} = 9,03^\circ$$
 
 Da $\alpha_1(780\,\mathrm{nm}) < \alpha_2(420\,\mathrm{nm})$ sind die Spektren getrennt.
 
@@ -4237,14 +4244,12 @@ Der kleinstmögliche Winkel des Spektrums dritter Ordnung $\alpha_3(420\,\mathrm
 
 $$ \sin\alpha_3(420\,\mathrm{nm}) = \sin\alpha_2(\lambda_2)$$
 
-Der Sinus jedes Winkels kann über die Formel für das Interferenzmaximum berechnet werden $\sin\alpha=\frac{k\cdot\lambda_2}{d}.$ Eingesetzt für die beiden diskutierten Winkel ergibt sich
+Der Sinus jedes Winkels kann über die Formel für das Interferenzmaximum berechnet werden $\sin\alpha=\frac{k\cdot\lambda_2}{g}.$ Eingesetzt für die beiden diskutierten Winkel ergibt sich
 
-$$ \frac{3\cdot420\,\mathrm{nm}}{d}=\frac{2\cdot\lambda_2}{d} $$
+$$ \frac{3\cdot420\,\mathrm{nm}}{g}=\frac{2\cdot\lambda_2}{g} $$
 
 Daraus ergibt sich
 
 $$ \lambda_2 = 630\,\mathrm{nm} $$
 
 </details>
-
----
