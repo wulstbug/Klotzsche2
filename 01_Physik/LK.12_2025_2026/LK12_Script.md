@@ -3463,7 +3463,7 @@ Da die Grundschwingung der Saite der halben Wellenlänge $\lambda_a$ entspricht,
 
 
 
-## Aufgaben zu Wellen
+### Aufgaben zu Wellen
 
 1. Geben Sie an, welche Aussagen richtig sind:
 
