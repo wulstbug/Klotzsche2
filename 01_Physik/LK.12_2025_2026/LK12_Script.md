@@ -3935,10 +3935,53 @@ Ein Winkel $\alpha$ von über 90° ist nicht beobachtbar. Überprüfen Sie, dem 
 
 </details>
 
+
+### 10. 14. Interferenz am Beugungsgitter
+
+<p style="color:blue">
+
+__Aufgabenstellung:__ 
+
+- Erarbeiten Sie sich selbstständig die Grundlagen zum Thema: _Interferenz am Beugungsgitter_. 
+
+- Nutzen Sie dafür (je nach Vorliebe) __Metzler__ S. 304-305 oder __Duden__ S. 413-414.
+
+- Achten Sie darauf, dass Sie die Beschreibung eines Beugungsgitters notiert haben, das Beugungsmuster verstanden haben und die zugehörigen Berechnungsformeln notiert haben.
+
+- Bearbeiten Sie anschließend die experimentelle Aufgabe sowie die Abituraufgabe
+
+</p>
+
+#### Experimentelle Aufgabe zum optischen Gitter
+
+<p style="color:blue">
+
+__Aufgabenstellung:__ 
+
+Ihnen wird ein optisches (Transmissions-)Gitter mit unbekannter Gitterkonstante $b$ ausgehändigt. Nutzen Sie das Experiment _Interferenz am optischen Gitter_ um die Gitterkonstante $b$ zu ermitteln.
+
+- Zeichnen Sie sich eine Skizze Ihres Versuchsaufbaus. Tragen Sie in Ihre Skizze die zum messenden Größen ein.
+
+- Notieren Sie die Berechnungsformeln zur Ermittlung der Gitterkonstante
+
+- Bestimmen Sie die Gitterkonstante für zwei Wellenlängen einfallenden Lichtes (roter und grüner Laser)
+
+- Notieren Sie sich Ihre Messwerte und überprüfen Sie die Übereinstimmung der ermittelten Gitterkonstante für die beiden Laserfarben
+
+</p>
+
+<p style='margin-left:10%'>
+
+__Ergebnis-Überprüfung:__
+
+@rangeQuiz2($b$,1,m)
+
+</p>
+
+
 #### Abituraufgabe zum optischen Gitter
 
-
-In einem Experiment fällt das Infrarotlicht einer Fernbedienung senkrecht auf ein Gitter mit 600 vertikalen Spalten pro Millimeter. Eine Handy-Kamera wird auf einem Halbkreis um das Gitter geführt (siehe Abbildung 1). Sie registriert dabei die Intensität des Infrarotlichts. Der Winkel zwischen den beiden Maxima erster Ordnung beträgt 70°.
+> In einem Experiment fällt das Infrarotlicht einer Fernbedienung senkrecht auf ein Gitter mit 600 vertikalen Spalten pro Millimeter. Eine Handy-Kamera wird auf einem Halbkreis um das Gitter geführt (siehe Abbildung 1). Sie registriert dabei die Intensität des Infrarotlichts. Der Winkel zwischen den beiden Maxima erster Ordnung beträgt 70°.
 
 ![Abituraufgabe_Messaufbau](https://diversewolken.ddns.net/nextcloud/index.php/s/NomQLdczLDTFp4m/download "Abbildung 1: Mesaufbau")
 
@@ -4075,7 +4118,7 @@ $ n = \frac{1}{\lamda} \ 10^3 = 1046 $ Striche pro Millimeter
 
 ---
 
-Weißes Licht des Wellenlängenbereichs von $420\,\mathrm{nm}$ bis $780\,\mathrm{nm}$ fällt senkrecht auf ein Gitter. Auf einem parallel hinter dem Gitter angebrachten Schirm sind  mehrere Spektren und ein weißer Streifen zu sehen.
+> Weißes Licht des Wellenlängenbereichs von $420\,\mathrm{nm}$ bis $780\,\mathrm{nm}$ fällt senkrecht auf ein Gitter. Auf einem parallel hinter dem Gitter angebrachten Schirm sind  mehrere Spektren und ein weißer Streifen zu sehen.
 
 2. 1. Erläutere diesen Sachverhalt.
 
@@ -4172,11 +4215,17 @@ für $780\,\mathrm{nm}$ kleiner ist als für $2\cdot420\,\mathrm{nm}$, da $\sin$
 
 2. 4. Berechne die Wellenlänge im Spektrum zweiter Ordnung, ab der sich die Spektren zweiter und dritter Ordnung überlappen.
 
+<p style='margin-left:10%'>
+
+@rangeQuiz2($\lambda_2$,630,nm)
+
+</p>
+
 <details style='margin-left:10%'>
 
 <summary> Lösunghinweis </summary>
 
-Das Spektrum der dritten Ordnung reicht in das Spektrum der zweiten Ordnung hinein.
+Das Spektrum der dritten Ordnung reicht in das Spektrum der zweiten Ordnung hinein. Die kleinste Wellenlänge ($420\,\mathrm{nm}$) definiert den Winkel $\alpha_3(420\,\mathrm{nm})$, bei welchem das Spektrum der dritten Ordnung beginnt. Überprüfe nun, welcher Wellenlänge im Spektrum zweiter Ordnung dieser Winkel entspricht.
 
 </details>
 
@@ -4184,23 +4233,17 @@ Das Spektrum der dritten Ordnung reicht in das Spektrum der zweiten Ordnung hine
 
 <summary> Lösung </summary>
 
-Das Maximum erster Ordnung, dass am weitesten von der Mitte entfernt ist, gehört zur größten Wellenlänge, d.h. $780\,\mathrm{nm}$. Es erscheint unter dem Winkel:
+Der kleinstmögliche Winkel des Spektrums dritter Ordnung $\alpha_3(420\,\mathrm{nm})$ ist gleich dem Winkel der gesuchten Wellenlänge im Spektrum zweiter Ordnung $\alpha_2(\lambda_2)$. Selbiges gilt natürlich auch für den Sinus dieser beiden Winkel.
 
-$$\alpha_1(780\,\mathrm{nm}) = \frac{780\,\mathrm{nm}}{} = 8,38^\circ$$
+$$ \sin\alpha_3(420\,\mathrm{nm}) = \sin\alpha_2(\lambda_2)$$
 
-Das Maximum zweiter Ordnung, dass am nächsten an der Mitte liegt, gehört zur kleinsten Wellenlänge, d.h. $420\,\mathrm{nm}$. Es erscheint unter dem Winkel:
+Der Sinus jedes Winkels kann über die Formel für das Interferenzmaximum berechnet werden $\sin\alpha=\frac{k\cdot\lambda_2}{d}.$ Eingesetzt für die beiden diskutierten Winkel ergibt sich
 
-$$\alpha_2(420\,\mathrm{nm}) = \frac{2\cdot420\,\mathrm{nm}}{} = 9,03^\circ$$
+$$ \frac{3\cdot420\,\mathrm{nm}}{d}=\frac{2\cdot\lambda_2}{d} $$
 
-Da $\alpha_1(780\,\mathrm{nm}) < \alpha_2(420\,\mathrm{nm})$ sind die Spektren getrennt.
+Daraus ergibt sich
 
----
-
-Alternativ kann man argumentieren, dass die größte Wellenlänge ($780\,\mathrm{nm}$) kleiner ist als die doppelte kleinste Wellenlänge ($2\cdot420\,\mathrm{nm}$) und somit der zugehörige Winkel in der Formel
-
-$$ \sin\alpha=\frac{k\cdot\lambda}{d} $$
-
-für $780\,\mathrm{nm}$ kleiner ist als für $2\cdot420\,\mathrm{nm}$, da $\sin$ eine stetige Funktion ist.
+$$ \lambda_2 = 630\,\mathrm{nm} $$
 
 </details>
 
