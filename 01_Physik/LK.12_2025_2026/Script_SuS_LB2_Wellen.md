@@ -1268,7 +1268,7 @@ Da die Grundschwingung der Saite der halben Wellenlänge $\lambda_a$ entspricht,
 
 1. bei einer Lichtwelle schwingt das <span style="color:orange">***elektrische und das magnetische Feld.***</span>
 
-2. eine Lichtwelle benötigt @color(****kein Medium***, orange) (anders als z.B. Schall[Luft], Wasserwellen[Wasser]) zur Ausbreitung. 
+2. eine Lichtwelle benötigt @color(***kein Medium***, orange) (anders als z.B. Schall[Luft], Wasserwellen[Wasser]) zur Ausbreitung. 
 
 3. Licht ist eine @color(***Transversalwelle***, orange). 
 
@@ -1290,7 +1290,7 @@ $$\boxed{c_{Medium} < 300.000 \dfrac{km}{s}}$$
 
 <div class="flex-child-1" style="min-width: 200px; margin-bottom: -10px">
 
-6. Es gilt die Wellengleichung: <br> $$ \boxed{c = \lambda \cdot f}$$ <br> Die Wellenlänge $\lambda$ der Lichtwelle bestimmt die <span style="color:orange">***Lichtfarbe***</span>.
+6. Es gilt die Wellenausbreitungsgleichung: <br> $$ \boxed{c = \lambda \cdot f}$$ <br> Die Wellenlänge $\lambda$ der Lichtwelle bestimmt die <span style="color:orange">***Lichtfarbe***</span>.
 
 </div>
 
