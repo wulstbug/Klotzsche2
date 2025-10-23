@@ -4072,6 +4072,8 @@ $$\lambda \approx 956\,\mathrm{nm}$$
 
 ---
 
+> Der Versuch wird mit einem Gitter von 1200 Spalten pro Millimeter wiederholt.
+
 1. 3. Begründe, weshalb man außer dem Maximum nullter Ordnung keine Maxima höherer Ordnung registriert.
 
 
