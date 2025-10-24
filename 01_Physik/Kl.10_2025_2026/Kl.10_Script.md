@@ -1671,12 +1671,26 @@ Die Länge von Luis Schaukel beträgt
 
 ---
 
-4. Ermitteln Sie die Länge der hier dargestellten Schaukel.
+4. Ermittle die Länge der hier dargestellten Schaukel.
 
-<p style='margin:10%'>
+<p style='margin-left:10%'>
 
 !?[Schaukel_Full](https://diversewolken.ddns.net/nextcloud/index.php/s/dfriqFSZXWSK26i/download)<!--muted="true"-->
 
 </p>
+
+<p style='margin-left:10%'>
+
+@rangeQuiz20(ℓ,4,m)
+
+</p>
+
+<details style='margin-left:10%'>
+
+<summary> Lösungshinweis </summary>
+
+Ermittle aus dem Video die Periodendauer. Bestimme anschließend die Pendellänge.
+
+</details>
 
 </p>
