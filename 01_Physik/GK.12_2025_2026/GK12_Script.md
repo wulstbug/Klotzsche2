@@ -2233,7 +2233,7 @@ __Aufgabenstellung:__
 </div>
 
 
-### Experimentelle Aufgabe zum optischen Gitter
+#### Experimentelle Aufgabe zum optischen Gitter
 
 <p style="color:blue">
 
@@ -2255,12 +2255,12 @@ Ihnen wird ein optisches (Transmissions-)Gitter mit unbekannter Gitterkonstante 
 
 __Ergebnis-Überprüfung:__
 
-@rangeQuiz2($g$,12.5e-6,m)
+@rangeQuiz2($b$,12.5e-6,m)
 
 </p>
 
 
-### Abituraufgabe zum optischen Gitter
+#### Abituraufgabe zum optischen Gitter
 
 > In einem Experiment fällt das Infrarotlicht einer Fernbedienung senkrecht auf ein Gitter mit 600 vertikalen Spalten pro Millimeter. Eine Handy-Kamera wird auf einem Halbkreis um das Gitter geführt (siehe Abbildung 1). Sie registriert dabei die Intensität des Infrarotlichts. Der Winkel zwischen den beiden Maxima erster Ordnung beträgt 70°.
 
