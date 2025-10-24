@@ -2,6 +2,7 @@
 theme: moon
 enableChalkboard: true
 transition: fade
+enableMenu: false
 ---
 
 <section data-auto-animate>
