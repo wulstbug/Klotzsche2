@@ -1530,7 +1530,7 @@ $$ \alpha_{max} \leq 5^\circ $$
 
 ### Übungaufgaben zum Faden- und Federpendel
 
-1. ![Pendel](https://diversewolken.ddns.net/nextcloud/index.php/s/FtrzR267SSwHHRW/download)<!-- style="max-width:100px"--> Ein Fadenpendel hat eine Länge von 30 cm. Ermitteln Sie die Periodendauer und die Frequenz, wenn das Pendel als ideales Pendel betrachtet werden soll.
+1. ![Pendel](https://diversewolken.ddns.net/nextcloud/index.php/s/FtrzR267SSwHHRW/download)<!-- style="max-width:100px"--> Ein Fadenpendel hat eine Länge von 30 cm. Ermittel die Periodendauer und die Frequenz, wenn das Pendel als ideales Pendel betrachtet werden soll.
 
 <p style='margin-left:10%'>
 
@@ -1544,7 +1544,7 @@ $$ \alpha_{max} \leq 5^\circ $$
 
 <summary> Lösunghinweis </summary>
 
-Nutzen Sie die Formel aus 2.5 für das Fadenpendel um die Aufgabe zu lösen. Achten Sie darauf, die Länge in die Standardeinheit umzurechnen.
+Nutze die Formel aus 2.5 für das Fadenpendel um die Aufgabe zu lösen. Achte darauf, die Länge in die Standardeinheit umzurechnen.
 
 </details>
 
@@ -1569,7 +1569,7 @@ Nutzen Sie die Formel aus 2.5 für das Fadenpendel um die Aufgabe zu lösen. Ach
 
 ---
 
-4. An eine Hook'sche Feder soll eine Masse gehängt werden, sodass eine vollständige Schwingung genau eine Sekunde dauert.Die Federkonstante $D$ beträgt $0.4\frac{N}{m}$. Ermitteln Sie aus den Angaben die Masse in der Einheit Gramm, welche angehängt werden muss.
+4. An eine Hook'sche Feder soll eine Masse gehängt werden, sodass eine vollständige Schwingung genau eine Sekunde dauert.Die Federkonstante $D$ beträgt $0.4\frac{N}{m}$. Ermittle aus den Angaben die Masse in der Einheit Gramm, welche angehängt werden muss.
 
 <p style="margin-left:10%">
 
@@ -1581,7 +1581,7 @@ Nutzen Sie die Formel aus 2.5 für das Fadenpendel um die Aufgabe zu lösen. Ach
 
 <summary> Lösungshinweise </summary>
 
-Verwenden Sie die Formel zur Ermittlung der Periodendauer eines Federschwingers. Stellen Sie diese Formel nach der Masse um.
+Verwende die Formel zur Ermittlung der Periodendauer eines Federschwingers. Stelle diese Formel nach der Masse um.
 
 </details>
 
@@ -1592,3 +1592,91 @@ Verwenden Sie die Formel zur Ermittlung der Periodendauer eines Federschwingers.
 ![Loesung-2.1.2](https://diversewolken.ddns.net/nextcloud/index.php/s/D9eJbRdg5wja99t/download)
 
 </details>
+
+### Übungsaufgaben zum Faden- und Federpendel (Teil 2)
+
+
+1. ![Feder](https://diversewolken.ddns.net/nextcloud/index.php/s/tCfLndq4nrmkq2M/download) <!-- style="max-width:100px"--> An eine Hook'sche Feder soll eine Masse gehängt werden, sodass eine vollständige Schwingung genau eine Sekunde dauert.Die Federkonstante $D$ beträgt $0.4\frac{N}{m}$. Ermittle aus den Angaben die Masse in der Einheit Gramm, welche angehängt werden muss.
+
+<p style="margin-left:10%">
+
+@rangeQuiz2($m$,10.13,$g$)
+
+</p>
+
+<details style="margin-left:10%">
+
+<summary> Lösungshinweise </summary>
+
+Verwende die Formel zur Ermittlung der Periodendauer eines Federschwingers. Stelle diese Formel nach der Masse um.
+
+</details>
+
+<details style="margin-left:10%">
+
+<summary> Lösungsweg </summary>
+
+![Loesung-2.1.2](https://diversewolken.ddns.net/nextcloud/index.php/s/D9eJbRdg5wja99t/download)
+
+</details>
+
+---
+
+2. ![Pendel](https://diversewolken.ddns.net/nextcloud/index.php/s/FtrzR267SSwHHRW/download) <!-- style="max-width:100px"-->  Ermittle die Länge eines Fadenpendels, dass eine Periodendauer von genau einer Sekunde besitzt.
+
+<p style='margin-left:10%'>
+
+@rangeQuiz2(ℓ,0.2485,s)
+
+</p>
+
+<details style='margin-left:10%'>
+
+<summary> Lösungshinweis </summary>
+
+Nutze die Formel zur Berechnung der Periodendauer bei einem Fadenpendel. Setze die bekannten Werte ein und ermittle die Pendellänge.
+
+</details>
+
+---
+
+3. Ergänze folgenden Lückentext. Nutze dafür die Ergebnisse der Experimente aus der letzten Woche.
+
+<p style="margin-left:10%">
+
+> ![Pendel](https://diversewolken.ddns.net/nextcloud/index.php/s/DqRMH7GwJaWwJX3/download) <!-- style="max-width:200px"--> Martha, Simon und Luis gehen zusammen auf den Spielplatz. Dort gibt es mehrere Schaukeln, ingesamt drei verschiedene Modelle: Schaukel 1, Schaukel 2 und Schaukel 3. Zunächst geht Luis auf die Schaukel 1, er gibt sich einen kleinen Schwung und lässt sich Schaukeln. Für fünf vollständige Schwingungen benötigt er $14,185\,\mathrm{s}$. Simon geht auf die zweite Schaukel, stößt sich ab und benötigt $20\,\mathrm{s}$ für 5 vollständige Schwingungen.
+>
+> ---
+>
+> Entscheide für die folgenden Aussagen, ob sie wahr oder falsch sind.
+>
+> Luis sagt: "Es war zu erwarten, dass es bei dir länger dauert, als bei mir, denn du bist ja schwerer als ich." [[ wahr | (falsch) ]]
+>
+> Simon sagt: "Der Grund dafür, dass es bei mir länger gedauert hat, liegt nicht an der Masse, sondern an der Länge der Schaukel. Mein Schaukel ist länger als deine." [[ (wahr) | falsch ]]
+>
+> Martha sagt: "Der Grund, dafür, dass es bei Luis länger gedauert hat ist, weil er sich am Anfang stärker abgestoßen hat und die Schaukel somit weiter ausgeschlagen ist. [[ wahr | (falsch) ]]
+>
+
+Die Länge von Luis Schaukel beträgt
+
+<p style="margin-left:10%">
+
+@rangeQuiz2($ℓ$,2,m)
+
+</p>
+
+> Nun setzt sich Martha auf die dritte Schaukel. Sie benötigt für vier vollständige Schwingungen genauso lange wie Simon für fünf. Man kann darauf Schlussfolgern, dass
+> 
+> [[ Martha leichter ist als Luis aber schwerer als Simon | Martha schwerer ist als Luis aber leichter als Luis | Schaukel 3 länger ist als Schaukel 2, aber kürzer als Schaukel 1 | (Schaukel 3 kürzer ist als Schaukel 2, aber länger als Schaukel 1) ]]
+
+---
+
+4. Ermitteln Sie die Länge der hier dargestellten Schaukel.
+
+<p style='margin:10%'>
+
+!?[Schaukel_Full](https://diversewolken.ddns.net/nextcloud/index.php/s/dfriqFSZXWSK26i/download)<!--muted="true"-->
+
+</p>
+
+</p>
