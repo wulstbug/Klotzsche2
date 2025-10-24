@@ -3938,6 +3938,31 @@ Ein Winkel $\alpha$ von über 90° ist nicht beobachtbar. Überprüfen Sie, dem 
 
 ## 10. 14. Interferenz am Beugungsgitter
 
+<section class="flex-container">
+
+<div class="flex-child-3" style="min-width: 300px; margin-bottom: -10px">
+
+{0-1}{![Gitter1](https://diversewolken.ddns.net/nextcloud/index.php/s/GMq4Sf9ikwojNzn/download)<!-- style="width:100%" -->}
+{1-2}{![Gitter2](https://diversewolken.ddns.net/nextcloud/index.php/s/EDFRkcpcaE4Pn9C/download)<!-- style="width:100%" -->}
+{2-3}{![Gitter3](https://diversewolken.ddns.net/nextcloud/index.php/s/cF9KjeQkzS9Efy4/download)<!-- style="width:100%" -->}
+{3-4}{![Gitter4](https://diversewolken.ddns.net/nextcloud/index.php/s/pcWt3TfDmLCN4pH/download)<!-- style="width:100%" -->}
+{4-5}{![Gitter5](https://diversewolken.ddns.net/nextcloud/index.php/s/ag8fSHexziD8WXZ/download)<!-- style="width:100%" -->}
+{5-6}{![Gitter6](https://diversewolken.ddns.net/nextcloud/index.php/s/bnZMewH3qSqd7Ja/download)<!-- style="width:100%" -->}
+{6-7}{![Gitter7](https://diversewolken.ddns.net/nextcloud/index.php/s/X8FjKjwoxSDX7FX/download)<!-- style="width:100%" -->}
+{7}{![Gitter8](https://diversewolken.ddns.net/nextcloud/index.php/s/4igXLgZHtQ6nN6e/download)<!-- style="width:100%" -->}
+
+</div>
+
+<div class="flex-child-2" style="min-width: 300px; margin-bottom: -10px">
+
+
+
+</div>
+
+</section>
+
+<!--
+
 <p style="color:blue">
 
 __Aufgabenstellung:__ 
@@ -3951,6 +3976,8 @@ __Aufgabenstellung:__
 - Bearbeiten Sie anschließend die experimentelle Aufgabe sowie die Abituraufgabe
 
 </p>
+
+-->
 
 ### Experimentelle Aufgabe zum optischen Gitter
 
@@ -4255,3 +4282,4 @@ Daraus ergibt sich
 $$ \lambda_2 = 630\,\mathrm{nm} $$
 
 </details>
+
