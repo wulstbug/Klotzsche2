@@ -1625,7 +1625,7 @@ Für größere Wellenlängen ist der Abstand der Maxima nullter und erster Ordnu
 
 ---
 
-Das Spektrum erster Ordnung wird ab einem minimalen Beugungswinkel von $4,50^\circ$ beobachtet.
+> Das Spektrum erster Ordnung wird ab einem minimalen Beugungswinkel von $4,50^\circ$ beobachtet.
 
 2. 2. Ermittle die Gitterkonstante.
 
