@@ -3955,16 +3955,37 @@ Ein Winkel $\alpha$ von über 90° ist nicht beobachtbar. Überprüfen Sie, dem 
 
 <div class="flex-child-2" style="min-width: 300px; margin-bottom: -10px">
 
+{{7}}
+***************
+1. Es gelten die Formeln wie beim Doppelspalt
 
+$$ \boxed{ \sin(\alpha) = \dfrac{\purple{k\cdot\lambda}}{\blue{b}}  } \hspace{.5cm} \boxed{\tan(\alpha) = \blue{\dfrac{a}{e}}}$$
+***************
 
+{{8}}
+***************
+2. Eigenschaften des Interferenzbildes am Gitter
+
+<p style="margin-left:5%">
+
+- Maxima sind schärfer abgegrenzt als beim Doppelspalt
+
+- zwischen den Maxima ist die Lichtintensität sehr gering (Auslöschung)
+
+</p>
+***************
+
+{{9}}
+***************
+3. __Kleinwinkelnäherung__ <br> <br> Wenn der Beobachtungswinkel $\alpha \leq 5^\circ$  beträgt, dann gilt in guter Näherung $$ sin(\alpha) = \tan(\alpha)$$ und die Formeln (1.) vereinfachen sich zu $$ \boxed{\dfrac{\purple{k\cdot\lambda}}{\blue{b}} = \blue{\dfrac{a}{e}}} $$ wobei das Maximum $\purple{k}$-ter Ordnung betrachtet wird.
+
+***************
 </div>
 
 </section>
 
-<!--
-
-<p style="color:blue">
-
+<!-- style="display:none" -->
+<div style="display:block" id="fooBar">
 __Aufgabenstellung:__ 
 
 - Erarbeiten Sie sich selbstständig die Grundlagen zum Thema: _Interferenz am Beugungsgitter_. 
@@ -3974,10 +3995,8 @@ __Aufgabenstellung:__
 - Achten Sie darauf, dass Sie die Beschreibung eines Beugungsgitters notiert haben, das Beugungsmuster verstanden haben und die zugehörigen Berechnungsformeln notiert haben.
 
 - Bearbeiten Sie anschließend die experimentelle Aufgabe sowie die Abituraufgabe
+</div>
 
-</p>
-
--->
 
 ### Experimentelle Aufgabe zum optischen Gitter
 
@@ -4241,7 +4260,7 @@ Da $\alpha_1(780\,\mathrm{nm}) < \alpha_2(420\,\mathrm{nm})$ sind die Spektren g
 
 Alternativ kann man argumentieren, dass die größte Wellenlänge ($780\,\mathrm{nm}$) kleiner ist als die doppelte kleinste Wellenlänge ($2\cdot420\,\mathrm{nm}$) und somit der zugehörige Winkel in der Formel
 
-$$ \sin\alpha=\frac{k\cdot\lambda}{d} $$
+$$ \sin\alpha=\frac{k\cdot\lambda}{g} $$
 
 für $780\,\mathrm{nm}$ kleiner ist als für $2\cdot420\,\mathrm{nm}$, da $\sin$ eine stetige Funktion ist.
 

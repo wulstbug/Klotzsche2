@@ -1684,7 +1684,7 @@ Da $\alpha_1(780\,\mathrm{nm}) < \alpha_2(420\,\mathrm{nm})$ sind die Spektren g
 
 Alternativ kann man argumentieren, dass die größte Wellenlänge ($780\,\mathrm{nm}$) kleiner ist als die doppelte kleinste Wellenlänge ($2\cdot420\,\mathrm{nm}$) und somit der zugehörige Winkel in der Formel
 
-$$ \sin\alpha=\frac{k\cdot\lambda}{d} $$
+$$ \sin\alpha=\frac{k\cdot\lambda}{g} $$
 
 für $780\,\mathrm{nm}$ kleiner ist als für $2\cdot420\,\mathrm{nm}$, da $\sin$ eine stetige Funktion ist.
 
