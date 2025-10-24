@@ -10,12 +10,38 @@ logo: https://snu.edu.in/site/assets/files/18322/nanotechnology-molecule-atom-mo
 import: https://raw.githubusercontent.com/wulstbug/Klotzsche2/2025_2026/03_Sonstiges/settings.md
 
 @style
-.lia-slide__footer {
-      display: none !important;
-}
 .lia-effect__circle {
     display: none !important;
-} 
+}
+.flex-container {
+    display: flex;
+    flex-wrap: wrap; /* Allows the items to wrap as needed */
+    align-items: stretch;
+    gap: 40px;
+}
+.flex-child,
+.flex-child-1 { flex: 1; }
+.flex-child-2 { flex: 2; }
+.flex-child-3 { flex: 3; }
+.flex-child-4 { flex: 4; }
+.flex-child-5 { flex: 5; }
+.flex-child-6 { flex: 6; }
+.flex-child-7 { flex: 7; }
+.flex-child-8 { flex: 8; }
+
+@media (min-width: 600px) {
+    .newspaper {
+        column-count: 2;
+        column-gap: 40px;
+        column-rule: 1px solid lightblue;
+    }
+    .newspaper3 {
+        column-count: 3;
+        column-gap: 20px;
+        column-rule: 1px solid lightblue;
+    }    
+}
+
 
 @media (min-width: 600px) {
     .newspaper {
@@ -1304,3 +1330,265 @@ __Am Beispiel des Federschwingers:__
 
 <iframe src="https://learningapps.org/watch?app=4316402" style="border:0px;width:100%;height:500px" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"></iframe>
 
+
+## Motivation 1 - Pendel
+
+<section class="flex-container">
+
+<div class="flex-child-2" style="min-width: 400px; margin-bottom: -10px">
+
+![Federschwinger](https://diversewolken.ddns.net/nextcloud/index.php/s/p3yAnoYf8DmnrPw/download)
+
+</div>
+
+<div class="flex-child-1" style="min-width: 200px; margin-bottom: -10px">
+
+{{1}}
+*********
+<iframe style="width:100%;max-width:360px;height:360px;" src="https://stopwatch-app.com/widget/stopwatch?theme=light&color=indigo" frameborder="0"></iframe>
+*********
+
+</div>
+
+</section>
+
+{{2}}
+**************
+> __Aufgabe:__ Bestimme die Periodendauer dieses Uhrenpendels.
+**************
+
+{{3}}
+*************
+> Um die Periodendauer eines Pendels zu bestimmen, messen wir die Zeit für mehrere Perioden (10+) und ermitteln daraus die Periodendauer.
+*************
+
+## Motivation 2 - Pendel
+
+!?[Schaukel_Full](https://diversewolken.ddns.net/nextcloud/index.php/s/dfriqFSZXWSK26i/download)
+
+> __Aufgabe:__ Beobachte die drei Fadenpendel. Formuliere eine Gemeinsamkeit. Formuliere einen Unterschied.
+
+### Simulation 1 - Fadenpendel
+
+??[Federpendel-Simulation](https://phet.colorado.edu/sims/html/pendulum-lab/latest/pendulum-lab_all.html?locale=de)
+
+### Simulation 2 - Federpendel
+
+??[Fadenpendel-Simulation](https://phet.colorado.edu/sims/html/masses-and-springs/latest/masses-and-springs_all.html?locale=de)
+
+### Aufgabe: Formulieren Sie eine Je-desto-Aussage
+
+<section class="flex-container">
+
+<div class="flex-child-1" style="min-width: 300px; margin-bottom: -10px">
+
+__Federpendel (Federschwinger):__
+
+1. Beobachten Sie zwei Federpendel mit identischer Federkonstante, aber unterschiedlicher Masse. <br>  <br> __Masse und Periodendauer__ <br>
+
+<details style='margin-left:10%; color:blue'>
+
+<summary> Aussage: </summary>
+
+Je größer die Masse, desto größer ist die Periodendauer.
+
+</details>
+
+---
+
+2. Beobachten Sie zwei Federpendel mit identischer Masse, aber unterschiedlicher Federkonstante. <br>  <br> __Federkonstante und Periodendauer__  
+
+<details style='margin-left:10%; color:blue'>
+
+<summary> Aussage: </summary>
+
+Je größer die Federkonstante, desto kleiner ist die Periodendauer.
+
+</details>
+
+
+---
+
+3. BeobachtenSie zwei Federpendel mit unterschiedlicher Amplitude (Auslenkung zu Beginn). <br>  <br> __Auslenkung und Periodendauer__  
+
+<details style='margin-left:10%; color:blue'>
+
+<summary> Aussage: </summary>
+
+Bei einer kleinen Amplitude hat die Auslenkung hat auf die Periodendauer keinen Einfluss.
+
+</details>
+
+</div>
+
+<div class="flex-child-1" style="min-width: 300px; margin-bottom: -10px">
+
+__Fadenpendel:__
+
+1. Beobachten Sie zwei Fadenpendel mit identischer Länge, aber unterschiedlicher Masse. <br>  <br> __Masse und Periodendauer__ <br> 
+
+<details style='margin-left:10%; color:blue'>
+
+<summary> Aussage: </summary>
+
+Die Masse hat auf die Periodendauer keinen Einfluss.
+
+</details>
+
+
+---
+
+2. Beobachten Sie zwei Fadenpendel mit identischer Masse, aber unterschiedlicher Pendellänge. <br>  <br> __Pendellänge und Periodendauer__  <br> 
+
+<details style='margin-left:10%; color:blue'>
+
+<summary> Aussage: </summary>
+
+Je größer die Pendellänge, desto größer die Periodendauer.
+
+</details>
+
+---
+
+3. BeobachtenSie zwei Fadenpendel mit unterschiedlicher Auslenkung zu Beginn. <br>  <br> __Auslenkung und Periodendauer__  <br> 
+
+<details style='margin-left:10%; color:blue'>
+
+<summary> Aussage: </summary>
+
+Bei einer kleinen Amplitude hat die Auslenkung hat auf die Periodendauer keinen Einfluss.
+
+</details>
+
+</div>
+
+</section>
+
+## 2. 5. Periodendauern bei Feder- und Fadenpendel
+
+<section class="flex-container">
+
+<div class="flex-child-1" style="min-width: 300px; margin-bottom: -10px">
+
+__Federpendel (Federschwinger)__
+
+> Die Periodendauer $T$ eines Federpendels lässt sich unter den Vorraussetzungen (1.-3.) mit
+>
+> $$ \boxed{T = 2\pi \sqrt{\dfrac{m}{D}}} $$
+>
+> berechnen. Hier ist $m$ die angehängte Masse und $D$ die Federkonstante.
+> <br>
+</div>
+
+<div class="flex-child-1" style="min-width: 300px; margin-bottom: -10px">
+
+__Fadenpendel__
+
+> Die Periodendauer $T$ eines Fadenpendels lässt sich unter den Vorraussetzungen (1.-3.) mit
+>
+> $$ \boxed{T = 2\pi \sqrt{\dfrac{ℓ}{g}}} $$
+>
+> berechnen. Hier ist $ℓ$ die Länge des Fadens und $g=9,81\mathrm{\frac{m}{s^2}}$ der Ortsfaktor (Erdbeschleunigung).
+
+</div>
+
+</section>
+
+---
+
+<section class="flex-container">
+
+<div class="flex-child-1" style="min-width: 300px; margin-bottom: -10px">
+
+__Vorraussetzungen:__
+
+1. Die Feder schwingt nach dem Hook'schen Gesetz, das heißt die rücktreibende Kraft $F$ ist proportional zur Auslenkung $y$. Der Proportionalitätsfaktor ist die Federkonstante $D$.
+
+$$ F = - D \cdot y $$
+
+2. Das System schwingt reibungsfrei.
+
+3. Die Feder sei Masselos
+
+</div>
+
+<div class="flex-child-1" style="min-width: 300px; margin-bottom: -10px">
+
+__Vorraussetzungen:__
+
+1. Es erfolgt nur eine __kleine Auslenkung__ 
+
+$$ \alpha_{max} \leq 5^\circ $$
+
+2. Das System schwingt reibungsfrei.
+
+3. Der Faden sei masselos.
+
+</div>
+
+</section>
+
+### Übungaufgaben zum Faden- und Federpendel
+
+1. ![Pendel](https://diversewolken.ddns.net/nextcloud/index.php/s/FtrzR267SSwHHRW/download)<!-- style="max-width:100px"--> Ein Fadenpendel hat eine Länge von 30 cm. Ermitteln Sie die Periodendauer und die Frequenz, wenn das Pendel als ideales Pendel betrachtet werden soll.
+
+<p style='margin-left:10%'>
+
+@rangeQuiz2($T$,1.099,s)
+
+@rangeQuiz2($f$,0.91,Hz)
+
+</p>
+
+<details style='margin-left:10%;color:blue'>
+
+<summary> Lösunghinweis </summary>
+
+Nutzen Sie die Formel aus 2.5 für das Fadenpendel um die Aufgabe zu lösen. Achten Sie darauf, die Länge in die Standardeinheit umzurechnen.
+
+</details>
+
+----
+
+2. ![Uhr](https://diversewolken.ddns.net/nextcloud/index.php/s/p3yAnoYf8DmnrPw/download) Das Pendel aus Aufgabe 1 soll nun für eine Pendel-Uhr verwendet werden, welche die vollständigen Schwingungen zählt und so die Zeit misst. Es wird angenommen, dass die Periodendauer genau 1 s beträgt. Würde man das Pendel so benutzen, wie es in Aufgabe 1 aufgebaut ist, dann würde die Uhr.
+
+     - [( )] nach einiger Zeit vorgehen
+     - [(x)] nach einiger Zeit nachgehen
+     - [( )] die richtige Zeit anzeigen
+
+---
+
+3. Auf welche Weise müsst man das Pendel aus Aufgabe 1 verändern, dass die Uhr richtig geht.
+
+     - [( )] eine größere Masse anhängen
+     - [( )] eine kleiner Masse anhängen
+     - [( )] die Pendellänge vergrößern
+     - [(x)] die Pendellänge verkleinern
+     - [( )] die Amplitude verringern
+     - [( )] die Amplitude vergrößern
+
+---
+
+4. An eine Hook'sche Feder soll eine Masse gehängt werden, sodass eine vollständige Schwingung genau eine Sekunde dauert.Die Federkonstante $D$ beträgt $0.4\frac{N}{m}$. Ermitteln Sie aus den Angaben die Masse in der Einheit Gramm, welche angehängt werden muss.
+
+<p style="margin-left:10%">
+
+@rangeQuiz2($m$,10.13,$g$)
+
+</p>
+
+<details style="margin-left:10%;color:blue">
+
+<summary> Lösungshinweise </summary>
+
+Verwenden Sie die Formel zur Ermittlung der Periodendauer eines Federschwingers. Stellen Sie diese Formel nach der Masse um.
+
+</details>
+
+<details style="margin-left:10%;color:blue">
+
+<summary> Lösungsweg </summary>
+
+![Loesung-2.1.2](https://diversewolken.ddns.net/nextcloud/index.php/s/D9eJbRdg5wja99t/download)
+
+</details>

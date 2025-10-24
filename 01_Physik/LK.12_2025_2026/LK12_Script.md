@@ -8,12 +8,24 @@ language: de
 logo: https://www.sciencedaily.com/images/1920/Quantum-Clock.webp
 
 @style
-.lia-slide__footer {
-      display: none !important;
-}
 .lia-effect__circle {
     display: none !important;
 } 
+.flex-container {
+    display: flex;
+    flex-wrap: wrap; /* Allows the items to wrap as needed */
+    align-items: stretch;
+    gap: 20px;
+}
+.flex-child,
+.flex-child-1 { flex: 1; }
+.flex-child-2 { flex: 2; }
+.flex-child-3 { flex: 3; }
+.flex-child-4 { flex: 4; }
+.flex-child-5 { flex: 5; }
+.flex-child-6 { flex: 6; }
+.flex-child-7 { flex: 7; }
+.flex-child-8 { flex: 8; }
 
 @media (min-width: 600px) {
     .newspaper {
@@ -26,6 +38,21 @@ logo: https://www.sciencedaily.com/images/1920/Quantum-Clock.webp
         column-gap: 20px;
         column-rule: 1px solid lightblue;
     }    
+}
+
+@media (max-width: 500px) {
+    .flex-child,
+    .flex-child-1,
+    .flex-child-2,
+    .flex-child-3,
+    .flex-child-4,
+    .flex-child-5,
+    .flex-child-6,
+    .flex-child-7,
+    .flex-child-8 {
+        flex: 100%; /* Makes the child divs take up the full width on slim devices */
+        margin-right: 0; /* Removes the right margin */
+    }
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -2432,7 +2459,7 @@ __Motivation:__
 *********
 
 
-### 10. 1. Arten mechanischer Wellen
+## 10. 1. Arten mechanischer Wellen
 
 <p class="newspaper3">
 
@@ -2478,7 +2505,7 @@ __Beobachtung:__
 
 </p>
 
-### 10. 2. Eigenschaften mechanischer Wellen
+## 10. 2. Eigenschaften mechanischer Wellen
 
 @color(_Tipp: Nutze für diese Übersicht eine eigene Seite_, orange)
 
@@ -2654,7 +2681,7 @@ Wir stellen die **zeitliche Bewegung** eines einzelnen Oszillators (d.h. ein sch
 ************
 
 
-#### Aufgaben zur Charakterisierung von Wellen
+### Aufgaben zur Charakterisierung von Wellen
 
 <iframe src="https://www.geogebra.org/classic/nc2tbcdm?embed" width="100%" height="600" allowfullscreen style="border: 1px solid #e4e4e4;border-radius: 4px;" frameborder="0"></iframe>
 
@@ -2725,7 +2752,7 @@ __Die folgenden Aufgaben beziehen sich auf die Transversalwelle in Starteinstell
 </p>
 
 
-### 10. 3. Darstellung der Wellenausbreitung mit Wellenfront und Wellennormale
+## 10. 3. Darstellung der Wellenausbreitung mit Wellenfront und Wellennormale
 
 Zur Darstellung der Ausbreitung von Wellen nutzen man __Wellenfronten__ und @color(__Wellennormale__,red)
 
@@ -2774,7 +2801,7 @@ Ebene Welle (z.B. Lichtausbreitung)
 
 </p>
 
-### 10. 4. Huygens'sche Prinzip
+## 10. 4. Huygens'sche Prinzip
 
 > Jeder Punkt einer Wellenfront ist seinerseits wieder Ausgangspunkt für @color(kreis- bzw. kugelförmige Elementarwellen, red)
 
@@ -2787,7 +2814,7 @@ Ebene Welle (z.B. Lichtausbreitung)
 *************
 
 
-#### Aufgabenstellung zur Selbsständigen Präsentation
+### Aufgabenstellung zur Selbsständigen Präsentation
 
 <p style="color:blue">
 
@@ -2830,7 +2857,7 @@ __Beugung:__
 
 
 
-### 10. 5. Reflexion
+## 10. 5. Reflexion
 
 __Definition:__ Trifft eine Welle auf eine ebene Oberfläche, dann wird sie __reflektiert__. Es gilt das __Reflexionsgesetz__:
 
@@ -2882,7 +2909,7 @@ Aufgaben:
 **********
 
 
-### 10. 6. Brechung
+## 10. 6. Brechung
 
 
 __Definition:__ Trifft eine Welle unter einem Einfallswinkel $\alpha\neq 0$ auf eine @color(__ebene Grenzfläche__, darkgreen) zweier Stoffe, in denen sie sich mit unterschiedlicher @color(Geschwindigkeit, red) ausbreitet, dann ändert sie ihre Ausbreitungsrichtung. Sie wird @color(gebrochen, red). Es gilt das __Brechungsgesetz__:
@@ -2947,7 +2974,7 @@ Aufgaben:
 </p>
 **********
 
-### 10. 7. Beugung
+## 10. 7. Beugung
 
 Definition: Trifft eine Welle auf einen Spalt oder eine Kante, so sind die betreffenden Stellen nach _Huygens Prinzip_ Ausgangspunkt von Elementarwellen. Damit breitet sich eine Welle auch in den __Schattenraum__ aus.
 
@@ -3007,7 +3034,7 @@ Aufgaben:
 **********
 
 
-#### Übungsaufgaben zu Reflexion, Beugung, Brechung
+### Übungsaufgaben zu Reflexion, Beugung, Brechung
 
 __Quiz zur Licht-Brechung:__
 
@@ -3024,7 +3051,7 @@ __Zuordnung Wellenausbreitung:__
 - [PaareZuordnen-Wellenausbreitung](https://learningapps.org/view4311115)
 
 
-### 10. 8. Interferenz
+## 10. 8. Interferenz
 
 {{0}}
 ***********
@@ -3128,7 +3155,92 @@ $\blue{y_{ges}(x) = (\hat{y_1}-\hat{y_2})\cdot\sin(\frac{2\pi}{\lambda}\cdot x)}
 
 ***********
 
-### 10. 9. Stehende Wellen
+## 10. 8. Interferenz
+
+<section class="flex-container">
+
+<div class="flex-child-1" style="min-width: 200px; margin-bottom: -10px">
+
+__Grafische Darstellung__
+
+</div>
+
+<div class="flex-child-1" style="min-width: 200px; margin-bottom: -10px">
+
+_Spezialfälle_
+
+</div>
+
+<div class="flex-child-1" style="min-width: 200px; margin-bottom: -10px">
+
+__Mathematische Beschreibung__
+
+</div>
+
+</section>
+
+---
+
+<section class="flex-container">
+
+<div class="flex-child-1" style="min-width: 200px; margin-bottom: -10px">
+
+![Konstruktive_Interferenz](https://diversewolken.ddns.net/nextcloud/index.php/s/b788bF9RP233a38/download)
+
+</div>
+
+<div class="flex-child-1" style="min-width: 200px; margin-bottom: -10px">
+
+__Konstruktive Interferenz:__ Die Wellen überlagern sich derart, dass sich die Auslenkungen $y_1(x)$ und $y_2(x)$ addieren, es kommt zur Verstärkung der @color(resultierenden Welle, blue).
+
+> __Der Gangunterschied beträgt eine Wellenlänge $\boxed{\lambda}$ <br> (oder ein Vielfaches $\boxed{n\cdot\lambda}$)__
+
+</div>
+
+<div class="flex-child-1" style="min-width: 200px; margin-bottom: -10px">
+
+$\green{y_1(x) = \hat{y_1}\cdot\sin(\frac{2\pi}{\lambda}\cdot x)}$
+
+$\red{y_2(x) = \hat{y_2}\cdot\sin(\frac{2\pi}{\lambda}\cdot x)}$
+
+$\blue{y_{ges}(x) = (\hat{y_1}+\hat{y_2})\cdot\sin(\frac{2\pi}{\lambda}\cdot x)}$
+
+</div>
+
+</section>
+
+---
+
+<section class="flex-container">
+
+<div class="flex-child-1" style="min-width: 200px; margin-bottom: -10px">
+
+![Destruktive_Interferenz](https://diversewolken.ddns.net/nextcloud/index.php/s/WW2xPJiWLXGHd2D/download)
+
+</div>
+
+<div class="flex-child-1" style="min-width: 200px; margin-bottom: -10px">
+
+__Destruktive Interferenz:__ Die Wellen überlagern sich derart, dass sich die Auslenkungen $y_1(x)$ und $y_2(x)$ subtrahieren, es kann zur Auslöschen der @color(resultierenden Welle, blue) kommen.
+
+> __Der Gangunterschied beträgt <br> $\boxed{\frac{\lambda}{2}}$ (bzw. $\boxed{\frac{\lambda}{2} + n \cdot \lambda}$)__
+
+</div>
+
+<div class="flex-child-1" style="min-width: 200px; margin-bottom: -10px">
+
+
+$\green{y_1(x) = \hat{y_1}\cdot\sin(\frac{2\pi}{\lambda}\cdot x)}$
+
+$\red{y_2(x) = -\hat{y_2}\cdot\sin(\frac{2\pi}{\lambda}\cdot x)}$
+
+$\blue{y_{ges}(x) = (\hat{y_1}-\hat{y_2})\cdot\sin(\frac{2\pi}{\lambda}\cdot x)}$
+
+</div>
+
+</section>
+
+## 10. 9. Stehende Wellen
 
 [StehendeWellen-Geogebra](https://www.geogebra.org/m/wcqzrbnh)
 
@@ -3154,9 +3266,9 @@ $\blue{y_{ges}(x) = (\hat{y_1}-\hat{y_2})\cdot\sin(\frac{2\pi}{\lambda}\cdot x)}
 
 ![Stehende-WellenGitarre](https://diversewolken.ddns.net/nextcloud/index.php/s/nERJCb4RJEyjYji/download)
 
-#### Übungsaufgaben zu Wellenphänomenen
+### Übungsaufgaben zu Wellenphänomenen
 
-##### Übung 1 - Welleneigenschaften
+#### Übung 1 - Welleneigenschaften
 
 <p class="newspaper">
 
@@ -3237,13 +3349,13 @@ Recherchieren Sie in Ihrer Formelsammlung die Schallgeschwindigkeit in Luft bei 
 
 </p>
 
-##### Übung 2 - Wellenphänomene
+#### Übung 2 - Wellenphänomene
 
 Ordne den folgenden Abbildungen das Wellenphänomen zu.
 
 <iframe src="https://learningapps.org/watch?v=p29hwaena25" style="border:0px;width:100%;height:500px" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"></iframe>
 
-##### Übung 3 - Stehende Wellen
+#### Übung 3 - Stehende Wellen
 
 1. Die $60\,\mathrm{cm}$ lange H-Saite einer Gitarre schwinge mit $247\,\mathrm{Hz}$. <br> 
 
@@ -3303,17 +3415,17 @@ Da die Grundschwingung der Saite der halben Wellenlänge $\lambda_a$ entspricht,
 
 </p>
 
-### 10. 10. Begründung des Relfexionsgesetzes mit dem Huygens'schen Prinzip
+## 10. 10. Begründung des Relfexionsgesetzes mit dem Huygens'schen Prinzip
 
 ![RG_TB1](https://diversewolken.ddns.net/nextcloud/index.php/s/oNFR69QaAyscHcM/download)
 
 ![RG_TB2](https://diversewolken.ddns.net/nextcloud/index.php/s/nAGqm7nxZKQ3WRo/download)
 
-#### Konstruktion der Reflexion mit Geogebra
+### Konstruktion der Reflexion mit Geogebra
 
 ??[Reflexionsgesetz_Grundeinstellungen](https://www.geogebra.org/m/drjnyjee)
 
-#### Übungsaufgaben
+### Übungsaufgaben
 
 1. In einer Wellenwanne läuft eine Wasserwelle von einem seichten Bereich in ein Gebiet mit tieferem Wasser unter dem Einfallswinkel von 45° und einem Brechungswinkel von 60°. Bestimmen Sie die Geschwindigkeit im flachen Teil, wenn sie im tiefen Teil $25\,\mathrm{\frac{cm}{s}}$ beträgt.<br><br> _Hinweis: Die Ausbreitungsgeschwindigkeit von Wasserwellen folgt näherungsweise derm Zusammenhang $v\sim\sqrt{h}$, wobei h die Wassertiefe ist._
 
@@ -3345,13 +3457,13 @@ Da die Grundschwingung der Saite der halben Wellenlänge $\lambda_a$ entspricht,
 
 </p>
 
-### 10. 11. Begründung des Brechungsgesetzes mit dem Huygens'schen Prinzip
+## 10. 11. Begründung des Brechungsgesetzes mit dem Huygens'schen Prinzip
 
 ![BG_TB1](https://diversewolken.ddns.net/nextcloud/index.php/s/FitcjCLbt8ecfCW/download)
 
 
 
-#### Aufgaben zu Wellen
+### Aufgaben zu Wellen
 
 1. Geben Sie an, welche Aussagen richtig sind:
 
@@ -3487,3 +3599,659 @@ Da die Grundschwingung der Saite der halben Wellenlänge $\lambda_a$ entspricht,
 
 </p>
 
+
+
+### Entwicklung Leistungen 12Ph2
+
+![Ergebnisse_12LKA1](https://diversewolken.ddns.net/nextcloud/index.php/s/7AQEiYWeiiwRSnp/download)
+
+{{1}}
+*********
+<!--
+     data-show
+     data-title=""
+     data-type="line"
+     data-xlabel="Bewertung"
+     data-ylabel="Durchschnitt"
+-->
+| Test | Durchschnittsnote | Trend |
+| ---- | ---- | ---- |
+| 11/LK1 | 7.9 | 8.05 |
+| 11/KA1 | 6.3 | 8.23 |
+| 11/EX1 | 11.9| 8.41 |
+| 11/KA2 | 7.7 | 8.59 |
+| 11/LK2 | 8.8 | 8.77 |
+| 11/KA3 | 8.7 | 8.95 |
+| 11/KA4 | 9.1 | 9.13 | 
+| 11/EX2 | 10.5 | 9.31 |
+| 12/LK1  | 8.9 | 9.49 |
+| 12/KA1  | 9.5 | 9.67 |
+*********
+
+
+
+{{2}}
+*************
+
+<!--
+     data-show
+     data-title=""
+     data-type="line"
+     data-xlabel="Bewertung"
+     data-ylabel="Note"
+     data-transpose
+-->
+|	|LK1	|KA1	|KA2	|LK2	|KA3	|KA4 | EX2 | LK3 | KA5 |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |  :---: |
+|1	|6	|2	|5	|8	|10	|7 | 10 | 5 |  8|
+|2	|6	|5	|4	|8	|9	|9 | 11 | 5 |  10|
+|3	|9	|6	|9	|6	|10	|11 |11 | 11 | 12|
+|4	|9	|8	|10	|9	|5	|6 | 8  | 8 |  8|
+|5	|6	|3	|4	|5	|7	|5 | 8  | 6 |  7|
+|6	|8	|6	|8	|6	|6	|8 | 8  | 7 |  8|
+|7	|9	|3	|7	|11	|12	|14 |9  | 11 | 8|
+|8	|7	|3	|7	|7	|5	|8 | 12 | 8 |  6|
+|9	|3	|4	|6	|8	|10	|2 | 12 | 9 |  7|
+|10	|9	|3	|9	|11	|8	|10 |9  | 12 | 11|
+|11	|13	|12	|15	|15	|14	|14 |15 | 13 | 14|
+|13	|11	|7	|9	|10	|10	|12 |14 | 10 | 12|
+|14	|11	|12	|14	|15	|15	|15 |14 | 14 | 15|
+|15	|9	|12	|6	|8	|3	|9 | 10 | 5 |  7|
+
+*************
+
+
+
+## 10. 12. Das Doppelspalt-Experiment
+
+<section class="flex-container">
+
+<div class="flex-child-1" style="min-width: 300px; margin-bottom: -10px">
+
+> __Beschreibung:__ Beim Doppelspaltexperiment schickt man @color(kohärentes, orange), einfarbiges Licht (z.B. Laserlicht) durch zwei nahe beieinander liegende Spalte, den sogenannten Doppelspalt. Das Licht fällt auf einen hinter dem Doppelspalt liegenden Schirm.
+>
+> {1}{__Beobachtung:__ Auf dem Schirm entsteht ein Muster aus vertikalen hellen und dunklen Streifen.}
+>
+> {2}{__Erklärung:__ An den beiden Spalten entstehen laut dem huygen'schen Prinzip neue Elementarwellen. Diese Wellen überlagern (__interferieren__) sich und bilden beim Auftreffen auf einem Beobachtungsschirm ein Interferenzmuster aus hellen und dunklen Bereichen. ->[DoppelSpalt-Simulation](https://falstad.com/ripple/Ripple.html?rol=$+3+512+64+0+1+578+1.5625e-8%0AS+2+0+1+511+1+0+1.633331+0+10+100+1+0%0A203+0+-60+54+574+54+2+6+15%0A)}
+
+</div>
+
+<div class="flex-child-1" style="min-width: 300px; margin-bottom: -10px">
+
+{0-1}{![Doppelspalt_KeinSchirm](https://diversewolken.ddns.net/nextcloud/index.php/s/c8TRSPoriw65AC9/download "Prinzipskizze des Doppelspalt-Experiments")}
+
+{1}{![Doppelspalt](https://diversewolken.ddns.net/nextcloud/index.php/s/PWMnf2JX4xiXamx/download "Prinzipskizze des Doppelspalt-Experiments")}
+
+</div>
+
+</section>
+
+---
+
+{{3}}
+*********
+> __Schlussfolgerung:__
+>
+> Das Muster auf dem Schirm ist nur durch Beugung und Interferenz, d.h. also durch Wellenerscheinungen, erklärbar: <br> => @color(Licht besitzt Welleneigenschaften, orange).
+
+---
+*********
+
+
+
+{{4}}
+*********
+> __Eigenschaften von Lichtwellen:__
+
+<section class="flex-container">
+
+<div class="flex-child-1" style="min-width: 200px; margin-bottom: -10px">
+
+{{5}}
+*********
+1. bei einer Lichtwelle schwingt das <span style="color:orange">***elektrische und das magnetische Feld.***</span>
+
+2. eine Lichtwelle benötigt @color(***kein Medium***, orange) (anders als z.B. Schall[Luft], Wasserwellen[Wasser]) zur Ausbreitung. 
+
+3. Licht ist eine @color(***Transversalwelle***, orange). 
+
+4. Das elektromagnetische Feld @color(***transportiert Energie***, orange).
+*********
+
+</div>
+
+<div class="flex-child-1" style="min-width: 200px; margin-bottom: -10px">
+
+{{6}}
+*********
+
+5. Die Ausbreitungsgeschwindigkeit (Lichtgeschwindigkeit) im Vakuum beträgt 
+
+$$\boxed{c = 300.000 \dfrac{km}{s}}$$
+
+6. Für die Lichtgeschwindigkeit in einem Medium gilt:
+
+$$\boxed{c_{Medium} < 300.000 \dfrac{km}{s}}$$
+
+*********
+
+</div>
+
+<div class="flex-child-1" style="min-width: 200px; margin-bottom: -10px">
+
+{{7}}
+*********
+6. Es gilt die Wellenausbreitungsgleichung: <br> $$ \boxed{c = \lambda \cdot f}$$ <br> Die Wellenlänge $\lambda$ der Lichtwelle bestimmt die <span style="color:orange">***Lichtfarbe***</span>.
+*********
+
+</div>
+
+</section>
+
+
+*********
+
+
+## 10. 13. Bestimmung der Wellenlänge des Lichts am Doppelspalt
+
+<section class="flex-container">
+
+<div class="flex-child-3" style="min-width: 300px; margin-bottom: -10px">
+
+{0-1}{![Doppelspalt1](https://diversewolken.ddns.net/nextcloud/index.php/s/CjeoRm63RYeerPN/download)<!-- style="width:100%" -->}
+{1-2}{![Doppelspalt2](https://diversewolken.ddns.net/nextcloud/index.php/s/MgaPdZqPbmTWGLp/download)<!-- style="width:100%" -->}
+{2-3}{![Doppelspalt3](https://diversewolken.ddns.net/nextcloud/index.php/s/QaNR3Q4A8JfSsfA/download)<!-- style="width:100%" -->}
+{3-4}{![Doppelspalt4](https://diversewolken.ddns.net/nextcloud/index.php/s/sAMqHnH3omTsE9W/download)<!-- style="width:100%" -->}
+{4}{![Doppelspalt5](https://diversewolken.ddns.net/nextcloud/index.php/s/rR93K2CqrPDwTDR/download)<!-- style="width:100%" -->}
+
+
+</div>
+
+<div class="flex-child-2" style="min-width: 300px; margin-bottom: -10px">
+
+{{1}}
+***************
+1. Auf dem Schirm entsteht ein @color(***Interferenzmuster***, green).
+***************
+
+{{2}}
+***************
+2. Die Spalte haben den Abstand $\blue{d}$, der Schirm hat vom Spalt den Abstand $\blue{e}.$
+***************
+
+{{3}}
+***************
+3. Im Punkt __A__ beobachten wir konstruktive Interferenz, wir nennen es @color(***Interferenz-Maximum***, green). Dieses Maximum ergibt sich aus der Überlagerung der Elementarwellen aus den Spalten $s_1$ und $s_2$.
+***************
+
+{{4}}
+***************
+4. Für konstruktive Interferenz muss der Gangunterschied $\purple{\Delta s}$ einem Vielfachen der Wellenlänge entsprechen. <br> $$ \purple{\Delta s= k \cdot \lambda} \hspace{1cm}\mathrm{mit}\,\,k=1,\,2,..$$
+***************
+
+{{5}}
+***************
+5. Im rechtwinkligen Dreieck $\triangle S_1 S_2 P$ gilt:
+
+$$ \dfrac{\purple{\Delta s}}{\blue{d}} = \boxed{\dfrac{\purple{k\cdot\lambda}}{\blue{d}} = \sin(\alpha) }$$
+
+***************
+
+{{6}}
+***************
+6. Im rechtwinkligen Dreieck $\triangle M O A$ gilt:
+
+$$ \boxed{\tan(\alpha) = \blue{\dfrac{a}{e}}}$$
+
+***************
+
+</div>
+
+</section>
+
+{{6}}
+***************
+> Da wird die Größen $\blue{d,\,e}$ und $\blue{a}$ @color(__messen__, blue) können, lässt sich mit dem __Doppelspalt-Experiment__ die @color(Wellenlänge $\lambda$, purple) des Laserlichts bestimmen.
+
+---
+***************
+
+{{7}}
+***************
+<section class="flex-container">
+
+<div class="flex-child-2" style="min-width: 300px; margin-bottom: -10px">
+
+__Experimentelle Messwerte:__ 
+
+> $d$ = <input type="number" default="0" min="0" max="10" id="d" size="5"> m <br> <br> $a$ = <input type="number" default="0" min="0" max="10" id="a" size="5"> m <br> <br> $e$ = <input type="number" default="1" min="0" max="10" id="e" size="5">m
+
+@color(_Hinweis: Dezimalzahlen mit "."_, gray)
+
+</div>
+
+<div class="flex-child-3" style="min-width: 300px; margin-bottom: -10px">
+
+__Ermittlung der Wellenlänge:__
+
+{{8}}
+***************
+> $\tan{\alpha} = \dfrac{a}{e} \hspace{0.5cm}\Rightarrow\hspace{0.5cm}\alpha = \tan^{-1}\Big(\dfrac{a}{e}\Big) = $ <script input="button">
+    let d = document.getElementById("d").value;
+    let a = document.getElementById("a").value;
+    let e = document.getElementById("e").value;
+    Math.round(Math.atan(a/e)*180/Math.PI*1000)/1000
+</script> °
+***************
+
+{{9}}
+***************
+Für das erste Interferenz-Maximum ($k=1$) gilt:
+
+> $ \lambda = d \cdot \sin\alpha \approx $ <script input="button">
+    let d = document.getElementById("d").value;
+    let a = document.getElementById("a").value;
+    let e = document.getElementById("e").value;
+    Math.round(d*Math.sin(Math.atan(a/e))/1e-9)
+</script> nm $\hspace{1cm}\big[\mathrm{nm}=10^{-9}\mathrm{m}\big]$
+***************
+
+
+</div>
+
+</section>
+
+***************
+
+### Aufgaben zum Thema _Licht als Welle_
+
+1. Die Lichtgeschwindigkeit im Vakuum beträgt etwa $3 \cdot 10^8 \, \mathrm{\frac{m}{s}}$. Berechne die Frequenz von grünem Licht mit einer Wellenlänge von 500 nm.
+
+<p style='margin-left:10%'>
+
+@rangeQuiz2($f$,6e14,Hz)
+
+</p>
+
+---
+
+2. Zwei enge Spalte deren Abstand 1,5 mm beträgt werden mit Licht einer Natriumdampflampe (Wellenlänge 589 nm) beleuchtet. Auf einem Schirm in 3 Metern Entfernung werden Interferenzstreifen beobachtet. Berechnen Sie den Abstand der Streifen.
+
+<p style='margin-left:10%'>
+
+@rangeQuiz2($a$,1.18,mm)
+
+</p>
+
+<details style='margin-left:10%'>
+
+<summary> Lösungshinweis </summary>
+
+Achten Sie auf die Nutzung der Standardeinheit _Meter_ für alle Längenangaben.
+
+</details>
+
+---
+
+3. Auf ein optisches Gitter mit der Gitterkonstante $4,00\cdot10^{-6}\,\mathrm{m}$ (_wie Doppelspalt mit Abstand $d$ zu behandeln_) fällt Licht der Wellenlänge $694\,\mathrm{nm}$ senkrecht ein. Das Interferenzbild wird auf einem $2\,\mathrm{m}$ entfernten ebenen Schirm beobachtet, der parallel zum Gitter steht.
+
+3. 1. Berechnen Sie den Abstand $x$ der auf dem Schirm sichtbaren Maxima erster Ordnung.
+
+<p style='margin-left:10%'>
+
+@rangeQuiz2($x$,0.7,m)
+
+<details>
+
+<summary> Lösungshinweis </summary>
+
+Der Abstand der Maxima ist doppelt so groß, wie der Abstand des ersten Maximums vom mittleren Punkt (__O__).
+
+</details>
+
+</p>
+
+3. 2. Überprüfen Sie, bis zu welcher Ordnung Maxima überhaupt beobachtet werden können.
+
+<p style='margin-left:10%'>
+
+@rangeQuiz2($k$,5,.)
+
+</p>
+
+<details style='margin-left:10%'>
+
+<summary> Lösungshinweis1 </summary>
+
+Überlegen Sie, welcher Winkel $\alpha$ für die Beobachtung einer Interferenz hinter einem Beugungsgitter maximal sinnvoll ist.
+
+</details>
+
+<details style='margin-left:10%'>
+
+<summary> Lösungshinweis 2 </summary>
+
+Ein Winkel $\alpha$ von über 90° ist nicht beobachtbar. Überprüfen Sie, dem wievielten Maximum dieser Winkel entspricht.
+
+</details>
+
+
+## 10. 14. Interferenz am Beugungsgitter
+
+<p style="color:blue">
+
+__Aufgabenstellung:__ 
+
+- Erarbeiten Sie sich selbstständig die Grundlagen zum Thema: _Interferenz am Beugungsgitter_. 
+
+- Nutzen Sie dafür (je nach Vorliebe) __Metzler__ S. 304-305 oder __Duden__ S. 413-414.
+
+- Achten Sie darauf, dass Sie die Beschreibung eines Beugungsgitters notiert haben, das Beugungsmuster verstanden haben und die zugehörigen Berechnungsformeln notiert haben.
+
+- Bearbeiten Sie anschließend die experimentelle Aufgabe sowie die Abituraufgabe
+
+</p>
+
+### Experimentelle Aufgabe zum optischen Gitter
+
+<p style="color:blue">
+
+__Aufgabenstellung:__ 
+
+Ihnen wird ein optisches (Transmissions-)Gitter mit unbekannter Gitterkonstante $b$ ausgehändigt. Nutzen Sie das Experiment _Interferenz am optischen Gitter_ um die Gitterkonstante $b$ zu ermitteln.
+
+- Zeichnen Sie sich eine Skizze Ihres Versuchsaufbaus. Tragen Sie in Ihre Skizze die zum messenden Größen ein.
+
+- Notieren Sie die Berechnungsformeln zur Ermittlung der Gitterkonstante
+
+- Bestimmen Sie die Gitterkonstante für zwei Wellenlängen einfallenden Lichtes (roter und grüner Laser)
+
+- Notieren Sie sich Ihre Messwerte und überprüfen Sie die Übereinstimmung der ermittelten Gitterkonstante für die beiden Laserfarben
+
+</p>
+
+<p style='margin-left:10%'>
+
+__Ergebnis-Überprüfung:__
+
+@rangeQuiz2($g$,12.5e-6,m)
+
+</p>
+
+
+### Abituraufgabe zum optischen Gitter
+
+> In einem Experiment fällt das Infrarotlicht einer Fernbedienung senkrecht auf ein Gitter mit 600 vertikalen Spalten pro Millimeter. Eine Handy-Kamera wird auf einem Halbkreis um das Gitter geführt (siehe Abbildung 1). Sie registriert dabei die Intensität des Infrarotlichts. Der Winkel zwischen den beiden Maxima erster Ordnung beträgt 70°.
+
+![Abituraufgabe_Messaufbau](https://diversewolken.ddns.net/nextcloud/index.php/s/NomQLdczLDTFp4m/download "Abbildung 1: Messaufbau")
+
+1. 1. Erläutere mithilfe einer Skizze, dass Maxima der Intensität nachgewiesen werden können.
+
+<details style='margin-left:10%'>
+
+<summary> Lösungshinweise </summary>
+
+Das optische Gitter hat 600 vertikale Spalte. Die Spalte sind Ausgangspunkte einer Elementarwelle, die sich, je nach Gangunterschied $\Delta s$, unterschiedlich überlagern. Immer wenn der Gangunterschied ein ganzzahliges Vielfaches der Wellenlänge ist, kommt es zur konstruktiven Interferenz, es tritt also ein
+Maximum auf. Vorraussetzung für den Versuch ist ebenfalls, dass der Abstand zwischen Gitter und Schirm viel größer ist als der Gangunterschied. Überlege dir, ob das der Fall ist.
+
+</details>
+
+<details style='margin-left:10%'>
+
+<summary> Lösung </summary>
+
+<section class="flex-container">
+
+<div class="flex-child-1" style="min-width: 300px; margin-bottom: -10px">
+
+![Lsg_1_1](https://diversewolken.ddns.net/nextcloud/index.php/s/E4WRpeyCePddaqD/download "Hinweis: Die Gitterkonstante wird hier mit g bezeichnet.")
+
+</div>
+
+<div class="flex-child-1" style="min-width: 300px; margin-bottom: -10px">
+
+Das optische Gitter hat 600 vertikale Spalte. Jeder Punkt, der von der Wellenfront erreicht wird, ist Ausgangspunkt einer Elementarwelle. Diese interferieren miteinander und es ergeben sich, je nach Gangunterschied $\Delta s$, Maxima und Minima. Immer wenn der Gangunterschied ein ganzzahliges Vielfaches der Wellenlänge ist, kommt es zur konstruktiven Interferenz, es tritt also ein Maximum auf.
+
+Vorraussetzung für den Versuch ist ebenfalls, dass der Abstand zwischen Gitter und Schirm, in diesem Fall Gitter und Handy, viel größer ist als der Gangunterschied. So können die Wellen, welche zur Interferenzr am
+Ort der Kamera beitragen, als parallel betrachtet werden. Da dies der Fall ist, kann Interferenz stattfinden und somit können auch Maxima registriert werden.
+
+
+</div>
+
+</section>
+
+</details>
+
+---
+
+1. 2. Berechne die Wellenlänge des Infrarotlichts.
+
+<p style='margin-left:10%'>
+
+@rangeQuiz2($\lambda$,956,nm)
+
+</p>
+
+<details style='margin-left:10%'>
+
+<summary> Lösungshinweise </summary>
+
+Du sollst die Wellenlänge des Infrarotlichtes berechnen. Dazu brauchst du zum einen den Winkel $\alpha$ zwischen dem Maximum nullter Ordnung und dem erster Ordnung. Es ist gegeben, dass zwischen den beiden Maxima
+erster Ordnung ein Winkel von 70° zu messen ist. Demnach beträgt der gesuchte Winkel genau die Hälfte, also $\alpha=35°$. Es ist außerdem die Gitterkontante $g$ gesucht: In der Aufgabenstellung wird beschrieben, dass das Gitter 600 Spalte pro Millimeter hat. Mit dieser Angabe kannst du $g$ bestimmen.
+
+<p>
+
+@rangeQuiz2($g$,1.667e-6,m)
+
+</p>
+
+Der Beugungswinkel $\alpha_k$ in Abhängigkeit von der Wellenlänge und dem Maximum $k$-ter Ordnung wird durch folgende Formel beschrieben: $\sin(\alpha_k)=\frac{k\cdot\lambda}{g}$.
+
+Durch Einsetzen und Umformen erhältst du die gesuchte Größe.
+
+</details>
+
+<details style='margin-left:10%'>
+
+<summary> Lösung </summary>
+
+Du sollst die Wellenlänge $\lambda$ des Infrarotlichtes berechnen. Dazu brauchst du zum einen den Winkel $\alpha$ zwischen dem Maximum nullter Ordnung und dem erster Ordnung. Es ist gegeben, dass zwischen den beiden Maxima erster Ordnung ein Winkel von 70° beträgt. Demnach gilt: $\alpha_1=35^\circ$. Es ist außerdem die Gitterkontante $g$ gesucht: In der Aufgabenstellung wird beschrieben, dass das Gitter 600
+Spalte pro Millimeter hat. Somit ergibt sich für :
+
+$$ g = \frac{1}{600}\cdot 10^{-3}\,\mathrm{mm} = 1,67\cdot 10^{-6} m$$
+
+Der Beugungswinkel $\alpha_k$ in Abhängigkeit von der Wellenlänge $\lambda$ wird durch folgende Formel beschrieben:
+
+$$\sin(\alpha_k)=\frac{k\cdot\lambda}{g}$$
+
+Durch Einsetzen uns umstellen erhältst du 
+
+$$\lambda \approx 956\,\mathrm{nm}$$
+
+</details>
+
+---
+
+> Der Versuch wird mit einem Gitter von 1200 Spalten pro Millimeter wiederholt.
+
+1. 3. Begründe, weshalb man außer dem Maximum nullter Ordnung keine Maxima höherer Ordnung registriert.
+
+
+<details style='margin-left:10%'>
+
+<summary> Lösungshinweise </summary>
+
+In diesem Versuchsaufbau kann der Beobachtungswinkel gegenüber dem Maximum nullter Ordnung höchstens 90° betragen. Überprüfe, ob der geforderte nötige Gangunterschied bei einem Winkel von 90° für eine konstruktive Interferenz erreicht werden kann.
+
+</details>
+
+<details style='margin-left:10%'>
+
+<summary> Lösung </summary>
+
+Im Grenzfall des Winkels $\alpha=90^\circ$ entspricht der Gangunterschied $\Delta s$ genau der Gitterkonstante $g$. Im vorliegenden Beispiel ist die Gitterkonstante $g=833\,\mathrm{nm}$ __kleiner__ als die Wellenlänge $\lambda=956\,\mathrm{nm}$. Somit kann keine konstruktive Interferenz erreicht werden und ein Maximum erster Ordnung ist nicht zu beobachten.
+
+</details>
+
+---
+
+1. 4. Bestimme die Anzahl der vertikalen Spalte pro Millimeter, die ein Gitter mindestens haben müsste, damit nur das Maximum nullter Ordnung zu registrieren ist.
+
+<p style='margin-left:10%'>
+
+@rangeQuiz2($n$,1046,Striche pro Millimeter)
+
+</p>
+
+<details style='margin-left:10%'>
+
+<summary> Lösunghinweise </summary>
+
+Der hier gefragte Grenzfall erfordert, dass die Gitterkonstante genau der Wellenlänge entspricht.
+
+</details>
+
+<details style='margin-left:10%'>
+
+<summary> Lösung </summary>
+
+Der hier gefragte Grenzfall erfordert, dass die Gitterkonstante genau der Wellenlänge entspricht.
+
+$$ g=\lambda= 956\,\mathrm{nm}$$
+
+Dies entspricht
+
+$ n = \frac{1}{\lamda} \ 10^3 = 1046 $ Striche pro Millimeter
+
+</details>
+
+---
+
+> Weißes Licht des Wellenlängenbereichs von $420\,\mathrm{nm}$ bis $780\,\mathrm{nm}$ fällt senkrecht auf ein Gitter. Auf einem parallel hinter dem Gitter angebrachten Schirm sind  mehrere Spektren und ein weißer Streifen zu sehen.
+
+2. 1. Erläutere diesen Sachverhalt.
+
+<details style='margin-left:10%'>
+
+<summary> Lösunghinweis </summary>
+
+Überprüfe, an welcher Stelle der weiße Strich zu sehen ist. Es sollte einem Maximum entsprechen.
+
+Auch die Spektren sind Maxima. Allerdings liegen die Maxima hier abhängig von der Wellenlänge an unterschiedlicher Position.
+
+</details>
+
+<details style='margin-left:10%'>
+
+<summary> Lösung </summary>
+
+Der weiße Strich entspricht dem Maximum nullter Ordnung. Da die Position des Maximums nullter Ordnung unabhängig von der Wellenlänge ist, fallen hier die Maxima aller Wellenlängen aufeinander und es entsteht ein weißer Streifen.
+
+Die Spektren entstehen am Ort der Maxima erster und höherer Ordnung.
+
+Für größere Wellenlängen ist der Abstand der Maxima nullter und erster Ordnung $a$ größer als für kleine Wellenlängen.
+
+</details>
+
+---
+
+> Das Spektrum erster Ordnung wird ab einem minimalen Beugungswinkel von $4,50^\circ$ beobachtet.
+
+2. 2. Ermittle die Gitterkonstante.
+
+<p style='margin-left:10%'>
+
+@rangeQuiz2($g$,5.35e-6,m)
+
+</p>
+
+<details style='margin-left:10%'>
+
+<summary> Lösunghinweis </summary>
+
+Die näher am Maximum nultter Ordnung liegenden Maxima haben die kleinsten Wellenlängen. Der Rand des Spektrums gehört als zur kleinst möglichen Wellenlänge. Nutze diese, um die Gitterkonstante zu ermitteln.
+
+</details>
+
+<details style='margin-left:10%'>
+
+<summary> Lösung </summary>
+
+Die kleinste Wellenlänge ist $420\,\mathrm{nm}$. Wenn der zugehörige Winkel $\alpha=4,50^\circ$ beträgt, ergibt sich als Gitterkonstante:
+
+$$ g = \frac{\lambda}{\sin\alpha} = 5,35\cdot 10^{-6}\,\mathrm{m}$$
+
+</details>
+
+---
+
+2. 3. Zeige, dass die Spektren erster und zweiter Ordnung voneinander getrennt sind.
+
+
+<details style='margin-left:10%'>
+
+<summary> Lösunghinweis </summary>
+
+Damit die Spektren von einander getrennt sind, muss das Maximum zweiter Ordnung der kleinsten Wellenlänge unter einem größeren Winkel auftreten, als das Maximum erster Ordnung der größten Wellenlänge.
+
+</details>
+
+<details style='margin-left:10%'>
+
+<summary> Lösung </summary>
+
+Das Maximum erster Ordnung, dass am weitesten von der Mitte entfernt ist, gehört zur größten Wellenlänge, d.h. $780\,\mathrm{nm}$. Es erscheint unter dem Winkel:
+
+$$\alpha_1(780\,\mathrm{nm}) = \frac{780\,\mathrm{nm}}{g} = 8,38^\circ$$
+
+Das Maximum zweiter Ordnung, dass am nächsten an der Mitte liegt, gehört zur kleinsten Wellenlänge, d.h. $420\,\mathrm{nm}$. Es erscheint unter dem Winkel:
+
+$$\alpha_2(420\,\mathrm{nm}) = \frac{2\cdot420\,\mathrm{nm}}{g} = 9,03^\circ$$
+
+Da $\alpha_1(780\,\mathrm{nm}) < \alpha_2(420\,\mathrm{nm})$ sind die Spektren getrennt.
+
+---
+
+Alternativ kann man argumentieren, dass die größte Wellenlänge ($780\,\mathrm{nm}$) kleiner ist als die doppelte kleinste Wellenlänge ($2\cdot420\,\mathrm{nm}$) und somit der zugehörige Winkel in der Formel
+
+$$ \sin\alpha=\frac{k\cdot\lambda}{d} $$
+
+für $780\,\mathrm{nm}$ kleiner ist als für $2\cdot420\,\mathrm{nm}$, da $\sin$ eine stetige Funktion ist.
+
+</details>
+
+---
+
+2. 4. Berechne die Wellenlänge im Spektrum zweiter Ordnung, ab der sich die Spektren zweiter und dritter Ordnung überlappen.
+
+<p style='margin-left:10%'>
+
+@rangeQuiz2($\lambda_2$,630,nm)
+
+</p>
+
+<details style='margin-left:10%'>
+
+<summary> Lösunghinweis </summary>
+
+Das Spektrum der dritten Ordnung reicht in das Spektrum der zweiten Ordnung hinein. Die kleinste Wellenlänge ($420\,\mathrm{nm}$) definiert den Winkel $\alpha_3(420\,\mathrm{nm})$, bei welchem das Spektrum der dritten Ordnung beginnt. Überprüfe nun, welcher Wellenlänge im Spektrum zweiter Ordnung dieser Winkel entspricht.
+
+</details>
+
+<details style='margin-left:10%'>
+
+<summary> Lösung </summary>
+
+Der kleinstmögliche Winkel des Spektrums dritter Ordnung $\alpha_3(420\,\mathrm{nm})$ ist gleich dem Winkel der gesuchten Wellenlänge im Spektrum zweiter Ordnung $\alpha_2(\lambda_2)$. Selbiges gilt natürlich auch für den Sinus dieser beiden Winkel.
+
+$$ \sin\alpha_3(420\,\mathrm{nm}) = \sin\alpha_2(\lambda_2)$$
+
+Der Sinus jedes Winkels kann über die Formel für das Interferenzmaximum berechnet werden $\sin\alpha=\frac{k\cdot\lambda_2}{g}.$ Eingesetzt für die beiden diskutierten Winkel ergibt sich
+
+$$ \frac{3\cdot420\,\mathrm{nm}}{g}=\frac{2\cdot\lambda_2}{g} $$
+
+Daraus ergibt sich
+
+$$ \lambda_2 = 630\,\mathrm{nm} $$
+
+</details>

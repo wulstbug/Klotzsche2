@@ -1339,6 +1339,27 @@ Konstruiere die Aufgaben a) bis d). Nutze für jede neue Konstruktion einen neue
 
 </p>
 
+# Entstehung unseres Sonnensystems
+
+{{1}}
+*************
+__Modell Sonnensystem in 2D__
+
+<iframe src="https://www.geogebra.org/classic/bx5mjs6w?embed" width="100%" height="600" allowfullscreen style="border: 1px solid #e4e4e4;border-radius: 4px;" frameborder="0"></iframe>
+*************
+
+{{2}}
+*************
+__Modell Sonnensystem in 3D__
+
+<iframe src="https://www.geogebra.org/classic/drxrvnnn?embed" width="800" height="600" allowfullscreen style="border: 1px solid #e4e4e4;border-radius: 4px;" frameborder="0"></iframe>
+*************
+
+{{3}}
+*************
+[ZDF-Dokumentation-Sonnensystem](https://www.zdf.de/video/dokus/das-universum-eine-reise-durch-raum-und-zeit-112/das-universum-eine-reise-durch-raum-und-zeit-die-geheimnisse-des-sonnensystems-100)
+*************
+
 ## Sonnensystem mit Geogebra
 
 Erstelle mit Hilfe von Geogebra dein eigenes Sonnensystem.
@@ -1375,16 +1396,16 @@ Sonnenradius: 696.000 km
 | Neptun   |4498.0                |
 
 <!-- data-type="bar" data-show -->
-| Planet   | Geschwindigkeit (km/h) |
+| Planet   | Geschwindigkeit (Mio km/h) |
 |----------|------------------------|
-| Merkur   | 172332                |
-| Venus    | 126072                |
-| Erde     | 107226                |
-| Mars     | 86868                 |
-| Jupiter  | 47052                 |
-| Saturn   | 34884                 |
-| Uranus   | 24516                 |
-| Neptun   | 19548                 |
+| Merkur   | 0.172                |
+| Venus    | 0.126                |
+| Erde     | 0.107                |
+| Mars     | 0.087                 |
+| Jupiter  | 0.047                 |
+| Saturn   | 0.035                 |
+| Uranus   | 0.025                 |
+| Neptun   | 0.020                 |
 
 </details>
 
@@ -1496,14 +1517,14 @@ Sonnenradius: 696.000 km
 <!-- data-type="bar" data-show -->
 | Planet   | Geschwindigkeit (Mio km/h) |
 |----------|------------------------|
-| Merkur   | 0,172                |
-| Venus    | 0,126                |
-| Erde     | 0,107                |
-| Mars     | 0,087                 |
-| Jupiter  | 0,047                 |
-| Saturn   | 0,035                 |
-| Uranus   | 0,025                 |
-| Neptun   | 0,020                 |
+| Merkur   | 0.172                |
+| Venus    | 0.126                |
+| Erde     | 0.107                |
+| Mars     | 0.087                 |
+| Jupiter  | 0.047                 |
+| Saturn   | 0.035                 |
+| Uranus   | 0.025                 |
+| Neptun   | 0.020                 |
 
 </details>
 
