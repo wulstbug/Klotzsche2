@@ -1595,7 +1595,7 @@ Verwende die Formel zur Ermittlung der Periodendauer eines Federschwingers. Stel
 
 ## 2. 6. Bestimmung der Erdbeschleunigung mit einem Fadenpendel
 
-??[Canvaszeichnung_FocaultPendel](https://www.canva.com/design/DAG3AQH8f34/7m_qCvHsooSxgV2AuEeaow/view?utm_content=DAG3AQH8f34&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=he4287a600e)
+![Erdbeschleunigung_Pendel](https://diversewolken.ddns.net/nextcloud/index.php/s/no5z5YpceftdCjC/download)
 
 ### Übungsaufgaben zum Faden- und Federpendel (Teil 2)
 
