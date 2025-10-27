@@ -4308,13 +4308,13 @@ $$ \lambda_2 = 630\,\mathrm{nm} $$
 *************
 <section class="flex-container">
 
-<div class="flex-child-2" style="min-width: 200px; margin-bottom: -10px">
+<div class="flex-child-2" style="min-width: 400px; margin-bottom: -10px">
 
 ![Einzelspalt](https://diversewolken.ddns.net/nextcloud/index.php/s/obZ2NPnD2TyRds8/download)<!-- style="width:100%"-->
 
 </div>
 
-<div class="flex-child-1" style="min-width: 400px; margin-bottom: -10px">
+<div class="flex-child-1" style="min-width: 200px; margin-bottom: -10px">
 
 
 __Beschreibung:__ Beträgt der Gangunterschied $\Delta s$ zwischen den beiden Randstrahlen gerade $\lambda$, dann kann man zu jedem Strahl aus dem Lichtbündundel der @color(__einen Hälfte__, green) einen Strahl aus dem Bündel der @color(__anderen Hälfte__, purple) finden, dessen Gangunterschied gerade $\frac{\lambda}{2}$ beträgt.Es kommt folglich zu einer Auslöschung aller Wellen.
