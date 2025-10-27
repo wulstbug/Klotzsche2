@@ -907,7 +907,7 @@ $$ y_{max} = \frac{v_{max}\cdot T}{2\pi} = 9.55\cdot 10^{-3} m $$
 </p>
 
 
-## 6. Mechanische Wellen
+## 6. (Teil I) Mechanische Wellen
 
 <iframe src="https://www.geogebra.org/classic/sn4xvwsj?embed" width="100%" height="600" allowfullscreen style="border: 1px solid #e4e4e4;border-radius: 4px;" frameborder="0"></iframe>
 
@@ -1696,7 +1696,7 @@ Da die Grundschwingung der Saite der halben Wellenlänge $\lambda_a$ entspricht,
 
 </p>
 
-## 6. Elektromagnetische Wellen
+## 6. (Teil II) Elektromagnetische Wellen
 
 ### 6. 10. Das Doppelspalt-Experiment
 
