@@ -1725,3 +1725,30 @@ Daraus ergibt sich
 $$ \lambda_2 = 630\,\mathrm{nm} $$
 
 </details>
+
+
+## 10. 15. Interenz am Einzelspalt
+
+<section class="flex-container">
+
+<div class="flex-child-2" style="min-width: 200px; margin-bottom: -10px">
+
+![Einzelspalt](https://diversewolken.ddns.net/nextcloud/index.php/s/obZ2NPnD2TyRds8/download)<!-- style="width:100%"-->
+
+</div>
+
+<div class="flex-child-1" style="min-width: 400px; margin-bottom: -10px">
+
+
+__Beschreibung:__ Beträgt der Gangunterschied $\Delta s$ zwischen den beiden Randstrahlen gerade $\lambda$, dann kann man zu jedem Strahl aus dem Lichtbündundel der @color(__einen Hälfte__, green) einen Strahl aus dem Bündel der @color(__anderen Hälfte__, purple) finden, dessen Gangunterschied gerade $\frac{\lambda}{2}$ beträgt.Es kommt folglich zu einer Auslöschung aller Wellen.
+
+> Für das **erste Minimum** gilt: $$ \boxed{\sin\alpha=\frac{\lambda}{d}}$$
+>
+> Für das **erste Maximum** gilt: $$ \boxed{\sin\alpha=\frac{(2k+1)\frac{\lambda}{2}}{d}}$$ <br> _Hinweis: Die Nebenmaxima (d.h. $k\neq0$) sind beim Einzelspalt von sehr geringer Intensität._
+
+</div>
+
+</section>
+
+> -> [Simulation-LEIFI](https://www.leifiphysik.de/optik/beugung-und-interferenz/grundwissen/einzelspalt)
+

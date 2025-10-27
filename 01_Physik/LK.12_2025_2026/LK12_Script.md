@@ -4304,8 +4304,8 @@ $$ \lambda_2 = 630\,\mathrm{nm} $$
 
 ## 10. 15. Interenz am Einzelspalt
 
-> -> [Simulation-LEIFI](https://www.leifiphysik.de/optik/beugung-und-interferenz/grundwissen/einzelspalt)
-
+{{2}}
+*************
 <section class="flex-container">
 
 <div class="flex-child-2" style="min-width: 200px; margin-bottom: -10px">
@@ -4326,3 +4326,10 @@ __Beschreibung:__ Beträgt der Gangunterschied $\Delta s$ zwischen den beiden Ra
 </div>
 
 </section>
+*************
+
+
+{{1}}
+*************
+> -> [Simulation-LEIFI](https://www.leifiphysik.de/optik/beugung-und-interferenz/grundwissen/einzelspalt)
+*************
