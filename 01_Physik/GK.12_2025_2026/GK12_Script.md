@@ -2255,7 +2255,7 @@ Ihnen wird ein optisches (Transmissions-)Gitter mit unbekannter Gitterkonstante 
 
 __Ergebnis-Überprüfung:__
 
-@rangeQuiz2($b$,12.5e-6,m)
+@rangeQuiz20($b$,12.5e-6,m)
 
 </p>
 
