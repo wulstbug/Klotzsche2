@@ -1403,9 +1403,40 @@ Ein Winkel $\alpha$ von über 90° ist nicht beobachtbar. Überprüfen Sie, dem 
 
 </details>
 
-
 ## 10. 14. Interferenz am Beugungsgitter
 
+<section class="flex-container">
+
+<div class="flex-child-3" style="min-width: 300px; margin-bottom: -10px">
+
+![Gitter8](https://diversewolken.ddns.net/nextcloud/index.php/s/4igXLgZHtQ6nN6e/download)<!-- style="width:100%" -->
+
+</div>
+
+<div class="flex-child-2" style="min-width: 300px; margin-bottom: -10px">
+
+
+1. Es gelten die Formeln wie beim Doppelspalt
+
+$$ \boxed{ \sin(\alpha) = \dfrac{\purple{k\cdot\lambda}}{\blue{b}}  } \hspace{.5cm} \boxed{\tan(\alpha) = \blue{\dfrac{a}{e}}}$$
+
+2. Eigenschaften des Interferenzbildes am Gitter
+
+<p style="margin-left:5%">
+
+- Maxima sind schärfer abgegrenzt als beim Doppelspalt
+
+- zwischen den Maxima ist die Lichtintensität sehr gering (Auslöschung)
+
+</p>
+
+3. __Kleinwinkelnäherung__ <br> <br> Wenn der Beobachtungswinkel $\alpha \leq 5^\circ$  beträgt, dann gilt in guter Näherung $$ sin(\alpha) = \tan(\alpha)$$ und die Formeln (1.) vereinfachen sich zu $$ \boxed{\dfrac{\purple{k\cdot\lambda}}{\blue{b}} = \blue{\dfrac{a}{e}}} $$ wobei das Maximum $\purple{k}$-ter Ordnung betrachtet wird.
+
+</div>
+
+</section>
+
+<!-- style="display:none" -->
 <p style="color:blue">
 
 __Aufgabenstellung:__ 
@@ -1725,6 +1756,7 @@ Daraus ergibt sich
 $$ \lambda_2 = 630\,\mathrm{nm} $$
 
 </details>
+
 
 
 ## 10. 15. Interenz am Einzelspalt

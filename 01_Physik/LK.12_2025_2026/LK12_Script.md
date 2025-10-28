@@ -4328,9 +4328,9 @@ __Beschreibung:__ Beträgt der Gangunterschied $\Delta s$ zwischen den beiden Ra
 </section>
 *************
 
-<iframe src="https://diversewolken.ddns.net/moodle/h5p/embed.php?url=https%3A%2F%2Fdiversewolken.ddns.net%2Fmoodle%2Fpluginfile.php%2F3413%2Fmod_h5pactivity%2Fpackage%2F0%2FEinzelspalt.h5p&amp;component=mod_h5pactivity" name="h5player" width="100%" height="600px"
+<iframe src="https://diversewolken.ddns.net/moodle/h5p/embed.php?url=https%3A%2F%2Fdiversewolken.ddns.net%2Fmoodle%2Fpluginfile.php%2F3413%2Fmod_h5pactivity%2Fpackage%2F0%2FEinzelspalt.h5p&amp;component=mod_h5pactivity" name="h5player" width="100%" height="800px"
    allowfullscreen="allowfullscreen" class="h5p-player w-100 border-0"
-   style="height: 600px;" id="68ffc5eee8fae68ffc5eee8fb01-h5player">
+   style="height: 800px;" id="68ffc5eee8fae68ffc5eee8fb01-h5player">
 </iframe><script src="https://diversewolken.ddns.net/moodle/h5p/h5plib/v124/joubel/core/js/h5p-resizer.js"></script>
 
 {{1}}
