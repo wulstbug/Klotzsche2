@@ -1436,23 +1436,6 @@ $$ \boxed{ \sin(\alpha) = \dfrac{\purple{k\cdot\lambda}}{\blue{b}}  } \hspace{.5
 
 </section>
 
-<!-- style="display:none" -->
-<p style="color:blue">
-
-__Aufgabenstellung:__ 
-
-- Erarbeiten Sie sich selbstständig die Grundlagen zum Thema: _Interferenz am Beugungsgitter_. 
-
-- Nutzen Sie dafür (je nach Vorliebe) __Metzler__ S. 304-305 oder __Duden__ S. 413-414.
-
-> Hinweis: Je nach Literaturquelle wird die Gitterkonstante mit dem Buchstaben $g$ oder $b$ angegeben.
-
-- Achten Sie darauf, dass Sie die Beschreibung eines Beugungsgitters notiert haben, das Beugungsmuster verstanden haben und die zugehörigen Berechnungsformeln notiert haben.
-
-- Bearbeiten Sie anschließend die experimentelle Aufgabe sowie die Abituraufgabe
-
-</p>
-
 ### Experimentelle Aufgabe zum optischen Gitter
 
 <p style="color:blue">
