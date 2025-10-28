@@ -1593,9 +1593,9 @@ Verwende die Formel zur Ermittlung der Periodendauer eines Federschwingers. Stel
 
 </details>
 
-## 2. 6. Bestimmung der Erdbeschleunigung mit einem Fadenpendel
+## 2. 6. Erzwungene Schwingungen und Resonanz
 
-![Erdbeschleunigung_Pendel](https://diversewolken.ddns.net/nextcloud/index.php/s/no5z5YpceftdCjC/download)
+
 
 ### Übungsaufgaben zum Faden- und Federpendel (Teil 2)
 
