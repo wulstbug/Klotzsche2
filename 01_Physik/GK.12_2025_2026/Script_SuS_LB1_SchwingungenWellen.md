@@ -1874,6 +1874,8 @@ Ein Winkel $\alpha$ von über 90° ist nicht beobachtbar. Überprüfen Sie, dem 
 
 ### 6. 12. Interferenz am Beugungsgitter
 
+> [Video: Ausführliche Erklärung zur Interferenz am Gitter](https://www.youtube.com/watch?v=FedzH3QNptQ&t=201s)
+
 <section class="flex-container">
 
 <div class="flex-child-3" style="min-width: 300px; margin-bottom: -10px">
