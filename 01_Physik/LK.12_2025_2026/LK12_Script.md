@@ -4350,11 +4350,11 @@ __Beschreibung:__ Beträgt der Gangunterschied $\Delta s$ zwischen den beiden Ra
 
 ---
 
-2. ![Interferenz-An-Dünner-Schicht](https://diversewolken.ddns.net/nextcloud/index.php/s/b2tedQNXs4LAHdT/download) Auf einer Wasseroberfläche schwimmt eine dünne Ölschicht. Das Wasser habe einen Brechungsindex $n_{H_2O}=1,333$, das Öl habe einen Brechungsindex von $n=1,2$.
+2. ![Interferenz-An-Dünner-Schicht](https://diversewolken.ddns.net/nextcloud/index.php/s/b2tedQNXs4LAHdT/download) Auf einer Wasseroberfläche schwimmt eine dünne Ölschicht. Das Wasser habe einen Brechungsindex $n_{H_2O}=1,333$, das Öl habe einen Brechungsindex von $n_{Öl}=1,2$.
 
 2. 1. Erläutern Sie, warum das Öl auf der Pfütze bei Tageslicht in verschiedenen Farben schimmert.
 
-2. 2. Ermitteln Sie den Winkel, unter welchem blaues Licht der Wellenlänge $440\,\mathrm{nm}$ destruktive Interferenz erfährt, wenn die Ölschicht eine Dicke von $600\,\mathrm{nm}$ besitzt. <br><br> _Hinweis: Der Gangunterschied für eine dünne Schicht kann mit der Formel <br> $$ \Delta s = 2\cdot d\cdot\sqrt{n_{Öl}^2-sin^2(\alpha)} $$ ermittelt werden._
+2. 2. Ermitteln Sie den Winkel $\alpha$, unter welchem blaues Licht der Wellenlänge $440\,\mathrm{nm}$ destruktive Interferenz erfährt, wenn die Ölschicht eine Dicke von $600\,\mathrm{nm}$ besitzt. <br><br> _Hinweis: Der Gangunterschied der beiden Lichtstrahlen kann für eine dünne Schicht mit der Formel <br> $$ \Delta s = 2\cdot d\cdot\sqrt{n_{Öl}^2-sin^2(\alpha)} $$ ermittelt werden._
 
 <p style='margin-left:10%'>
 
