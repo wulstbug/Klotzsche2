@@ -1768,4 +1768,41 @@ __Beschreibung:__ Beträgt der Gangunterschied $\Delta s$ zwischen den beiden Ra
 
 </section>
 
+## 10. 16. Intereferenz an dünnen Schichten
 
+[Lernvideo-Interferenz-Dünne-Schichten](https://www.leifiphysik.de/optik/beugung-und-interferenz/grundwissen/interferenz-duennen-schichten)
+
+### Aufgaben zu Interferenz an dünnen Schichten
+
+1. [Quiz-Zur-Interferenz-An-Dünner-Schicht](https://www.leifiphysik.de/optik/beugung-und-interferenz/grundwissen/interferenz-duennen-schichten)
+
+---
+
+2. ![Interferenz-An-Dünner-Schicht](https://diversewolken.ddns.net/nextcloud/index.php/s/b2tedQNXs4LAHdT/download) Auf einer Wasseroberfläche schwimmt eine dünne Ölschicht. Das Wasser habe einen Brechungsindex $n_{H_2O}=1,333$, das Öl habe einen Brechungsindex von $n=1,2$.
+
+2. 1. Erläutern Sie, warum das Öl auf der Pfütze bei Tageslicht in verschiedenen Farben schimmert.
+
+2. 2. Ermitteln Sie den Winkel, unter welchem blaues Licht der Wellenlänge $440\,\mathrm{nm}$ destruktive Interferenz erfährt, wenn die Ölschicht eine Dicke von $600\,\mathrm{nm}$ besitzt. <br><br> _Hinweis: Der Gangunterschied für eine dünne Schicht kann mit der Formel <br> $$ \Delta s = 2\cdot d\cdot\sqrt{n_{Öl}^2-sin^2(\alpha)} $$ ermittelt werden._
+
+<p style='margin-left:10%'>
+
+@rangeQuiz2($\alpha$,50.75,$^\circ$)
+
+</p>
+
+<details style='margin-left:10%'>
+
+<summary> Lösungshinweise </summary>
+
+Überlegen Sie, welche Bedingung für den Gangunterschied $\Delta s$ gilt, damit destruktive Interferenz auftritt.
+
+[Lösungsvideo](https://www.youtube.com/watch?v=-0CPyBhD70o)
+
+</details>
+
+
+## 10. 17. Polarisation von Licht
+
+[Experimentelle-Deutung-der-Polarisation](https://youtu.be/eYguAcvjN2o)
+
+ 
