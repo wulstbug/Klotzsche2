@@ -2539,3 +2539,194 @@ $$ \lambda_2 = 630\,\mathrm{nm} $$
 
 </details>
 
+#### Vorbereitungsaufgaben zum Praktikum - _Licht als Welle_
+
+1. Paralleles weißes Licht (Frequenzintervall: $3{,}747 \cdot 10^{14} \, \mathrm{Hz} \leq f \leq 7{,}495 \cdot 10^{14} \, \mathrm{Hz}$) einer Glühlampe trifft senkrecht auf ein optisches Gitter. Das Interferenzbild wird auf einen $1{,}00 \, \mathrm{m}$ entfernten Schirm projiziert. Links und rechts vom Maximum $0$. Ordnung wird für die $1.$ Ordnung ein vollständig kontinuierliches Farbspektrum sichtbar.
+
+1. 1. Berechnen Sie für die Grenzen des Frequenzintervalls die zugehörigen Wellenlängen und ordnen Sie diesen die Farben Rot und Violett zu.
+
+<p style='margin-left:10%'>
+
+__Untere Grenze:__ 
+
+<p style='margin-left:5%'>
+
+@rangeQuiz2($\lambda_u$,800.64,nm)
+
+Farbe: [[ (rot) | violett ]]
+
+</p>
+
+__Obere Grenze:__ 
+
+<p style='margin-left:5%'>
+
+@rangeQuiz2($\lambda_o$, 400.27,nm)
+
+Farbe: [[ rot | (violett) ]]
+
+</p>
+
+</p>
+
+<details style='margin-left:10%;color:blue'>
+
+<summary> Lösungshinweise </summary>
+
+Überprüfen Sie mit Hilfe Ihrer Aufzeichnungen, welche Gleichung für Wellen die Frequenz und die Wellenlänge beinhaltet. Nutzen Sie für die fehlende Größe der Gleichung den Wert im Vakuum. Nutzen Sie die Formelsammlung für die Zuordnung der Farben. 
+
+</details>
+
+<details style='margin-left:10%;color:blue'>
+
+<summary> Lösung </summary>
+
+Nutzen Sie die Wellenausbreitungsgleichung und die Lichtgeschwindigkeit im Vakuum um die Wellenlänge zu berechnen. 
+
+
+$$ \lambda_u = \frac{c}{f_o} = \frac{3\cdot 10^8\,\mathrm{m}}{3{,}747 \cdot 10^{14} \, \mathrm{Hz}} = 800,64\,\mathrm{nm}$$
+
+und
+
+$$ \lambda_o = \frac{c}{f_o} = \frac{3\cdot 10^8\,\mathrm{m}}{7{,}495 \cdot 10^{14} \, \mathrm{Hz}} = 400,27\,\mathrm{nm}$$
+
+
+
+Nutzen Sie anschließend die Formelsammlung (S. 65) um den Wellenlängen die Farben zuzuordnen.
+
+</details>
+
+---
+
+1. 2. Der Abstand des Maximums $1.$ Ordnung für das Licht der größten Frequenz von der Mitte des Maximums $0.$ Ordnung beträgt genau $10{,}0 \, \mathrm{cm}$. <br> Überprüfen Sie, ob für diese Messergebnisse die _Kleinwinkelnäherung_ angewendet werden kann (Bründung erforderlich).
+
+<p style='margin-left:10%'>
+
+_Kleinwinkelnäherung_ kann [[ angewendet | (nicht angewendet) ]] werden.
+
+</p>
+
+<details style='margin-left:10%; color:blue'>
+
+<summary> Lösungshinweise </summary>
+
+Ermitteln Sie den Winkel $\alpha$. 
+
+<p style='margin-left:10%'>
+
+@rangeQuiz2($\alpha$,5.71,°)
+
+</p>
+
+Recherchieren Sie in Ihren Unterlagen, welcher Bedingung der Winkel genügen muss, damit die _Kleinwinkelnäherung_ angewendet werden darf.
+
+</details>
+
+<details style='margin-left:10%; color:blue'>
+
+<summary> Begründung </summary>
+
+Der Winkel $\alpha$ beträgt in diesem Experiment: $$\alpha = \tan^{-1}\big(\frac{a}{e}\big)=\tan^{-1}\big(\frac{0.1\,\mathrm{m}}{1\,\mathrm{m}}\big)= 5,7^\circ$$
+
+Als Regel gilt: Wenn $\alpha<5^\circ$ kann die Kleinwinkelnäherung angewendet werden. Das ist hier nicht der Fall.
+
+</details>
+
+---
+
+
+1. 3. Berechnen Sie anschließend die Gitterkonstante und die Breite eines solchen Spektrums.
+
+<p style='margin-left:10%'>
+
+@rangeQuiz2($b$,8.041,µm ->Gitterkonstante)
+
+@rangeQuiz2($B$,0.103,m ->Breite des Spektrums)
+
+</p>
+
+
+<details style='margin-left:10%; color:blue'>
+
+<summary> Lösungshinweise </summary>
+
+Nutzen Sie für die Gitterkonstante den in Aufgabe 1. 2. ermittelten Winkel $\alpha=5,71\,^\circ$, um mit der Wellenlänge $\lambda_o$ (1. 1.) die Gitterkonstante zu berechnen.
+
+Für die größere Wellenlänge $\lambda_u$ (kleinere Frequenz) befindet sich das Maximum 1. Ordnung in einem anderen Abstand vom Maximum 0. Ordnung. Der Abstand der beiden Maxima erster Ordnung ergibt die Breite des Spektrums.
+
+</details>
+
+<details style='margin-left:10%; color:blue'>
+
+<summary> Lösung $b$ </summary>
+
+Der Winkel $\alpha$ beträgt in diesem Experiment: $$\alpha = 5,71^\circ$$
+
+Die zur größten Frequenz gehörende Wellenlänge beträgt $$ \lambda_o = 400\,\mathrm{nm}$$
+
+Mit der Formel $\sin\alpha=\frac{\lambda}{b}$ ergibt sich die Gitterkonstante $b$ zu:
+
+$$ b = \frac{\lambda}{\sin\alpha} = \frac{400\cdot10^{-9}\,\mathrm{m}}{\sin(5,71^\circ)} = 4,02\cdot10^{-6}\,\mathrm{m}=4,02\,\mathrm{\mu m} $$
+
+</details>
+
+<details style='margin-left:10%; color:blue'>
+
+<summary> Lösung $B$ </summary>
+
+Für das rote Licht ($\lambda_u=800\,\mathrm{nm}$) ergibt sich der Winkel $\alpha$ zu
+
+$$\alpha=\sin^{-1}\big(\frac{\lambda_u}{b}\big) = \sin^{-1}\big(\frac{800\cdot 10^{-9}\,\mathrm{m}}{4,02\cdot10^{-6}\,\mathrm{m}}\big) = 11.49\,^\circ$$
+
+Bei einem Schirmabstand von $e=1\,\mathrm{m}$ ergibt sich der Abstand des ersten Maximums $a$ zu 
+
+$$ a = \tan\alpha\cdot e = 0,203\,\mathrm{m}$$
+
+Das Farbspektrum erstreckt sich vom Maximum des violetten Lichts bis zum Maximum des roten Lichts und ist somit
+
+$$B = 0,203\,\mathrm{m}-0,1\,\mathrm{m}=0,103\,\mathrm{m}$$
+
+breit.
+
+</details>
+
+---
+
+1. 4. *Ermitteln Sie den prozentualen Fehler $\frac{\Delta b}{b}$ bei der Berechnung der Gitterkonstante $b$ zwischen der exakten Lösung (siehe Aufgabe 1. 3.) und der Berechnung mittels _Kleinwinkelnäherung_. Interpretieren Sie Ihr Ergebnis.
+
+<p style='margin-left:10%'>
+
+@rangeQuiz20($\frac{\Delta b}{b}$,0.5,%)
+
+</p>
+
+
+<details style='margin-left:10%; color:blue'>
+
+<summary> Lösungshinweise </summary>
+
+Ermitteln Sie die Gitterkonstante $b_{KW}$ mit den Angaben aus 1. 2., wenn Sie die _Kleinwinkelnäherung_ $\sin\alpha=\tan\alpha$ anwenden. <br> Nutzen Sie das Ergebnis für $b$ aus Aufgabe 1. 3. <br> Ermitteln Sie anschließend die Abweichung mit $\Delta b = b - b_{KW}$ und ermitteln Sie die prozentuale Abweichung:
+
+$$ \frac{\Delta b}{b} $$
+
+</details>
+
+<details style='margin-left:10%; color:blue'>
+
+<summary> Lösung $ \frac{\Delta b}{b} $ </summary>
+
+Wenn man für die Angaben $\lambda_o = 400\,\mathrm{nm}$, Schirmabstand $e=1\,\mathrm{m}$ und Abstand $a=0,1\,\mathrm{m}$ die _Kleinwinkelnäherung_ ($\sin\alpha=\tan\alpha$):
+
+$$\dfrac{\lambda}{b_{KW}} = \dfrac{a}{e}$$
+
+ansetzt, ergibt sich für $b_{KW}$ der Wert:
+
+$$ b_{KW} = \dfrac{\lambda\cdot e}{a} = 4\,\mathrm{\mu m}$$
+
+Und der prozentuale Unterschied
+
+$$ \frac{\Delta b}{b} = \frac{b - b_{KW}}{b} = \frac{0,02\,\mathrm{\mu m}}{4\,\mathrm{\mu m}} = 0.5 \,\mathrm{\%}$$
+
+Der Fehler, welcher bei der Berechnung der Gitterkonstante durch _Kleinwinkelnäherung_ gemacht wird liegt im Sub-Prozentbereich und ist somit sehr klein.
+
+</details>
