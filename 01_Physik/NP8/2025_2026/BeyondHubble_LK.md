@@ -1537,3 +1537,27 @@ Sonnenradius: 696.000 km
 13. Ändere anschließend die Hintergrundfarbe auf __Schwarz__ und blende das Koordinatensystem aus.
 
 ![13_Sonnensystem](https://diversewolken.ddns.net/nextcloud/index.php/s/jMpgRP8H3fxtyHa/download)
+
+
+## Bearbeitung Astronomischer Bilder (1)
+<!-- style="background:black"-->
+
+![Moon_Lagoon](https://diversewolken.ddns.net/nextcloud/index.php/s/s92S5jps7G29Fbz/download)
+
+> <H3> Erstellung eines eigenen astronomischen Bildes aus echten astronomischen Messdaten. </H3>
+
+## Überblick
+
+{{1-2}}
+*********
+![ObservingWithNASA](https://diversewolken.ddns.net/nextcloud/index.php/s/qpGQPSZTzsyHWQT/download)
+
+> <H3> Astronomische Daten (FITS-Dateien) auswählen </H3>
+*********
+
+{{2}}
+*********
+![Mond2](https://diversewolken.ddns.net/nextcloud/index.php/s/GyYk6Q6g5cYZxti/download)
+
+> <H3> Bilder bearbeiten </H3>
+*********
