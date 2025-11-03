@@ -4378,3 +4378,48 @@ __Beschreibung:__ Beträgt der Gangunterschied $\Delta s$ zwischen den beiden Ra
 [Experimentelle-Deutung-der-Polarisation](https://youtu.be/eYguAcvjN2o)
 
  
+## 10. 18. Das Spektrum elektromagnetischer Wellen
+
+![Wikipedia-Spektrum](https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Electromagnetic_spectrum_-de_c.svg/1920px-Electromagnetic_spectrum_-de_c.svg.png)
+
+
+{{1}}
+****************
+<iframe src="https://learningapps.org/watch?v=pgqf50hd225" style="border:0px;width:100%;height:500px" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"></iframe>
+
+_Bitte anschließend stichpunktartig übernehmen_
+****************
+
+## 10. 19. Interferometer
+
+<section class="flex-container">
+
+<div class="flex-child-1" style="min-width: 300px; margin-bottom: -10px">
+
+__Prinzipskizze:__
+
+![Skizze-Interferometer](https://diversewolken.ddns.net/nextcloud/index.php/s/wjbdfpxRgZ5n6jx/download "Interferometer nach dem klassischen Beispiel von _Michelson und Morley_.")
+
+</div>
+
+<div class="flex-child-1" style="min-width: 300px; margin-bottom: -10px">
+
+__Beschreibung:__
+
+{{1}}
+*************
+> Interferometer sind Geräte, mit denen man Längenunterschiede sehr exakt bestimmen kann.
+*************
+{{2}}
+*************
+> Das einfallende Licht wird durch einen halbdurchlässigen Spiegel geteilt und legt dann zwei Wege $s_1$ und $s_2$ zurück.
+*************
+{{3}}
+*************
+> Das an den Spiegeln 1 und 2 reflektierte Licht gelangt zum Schirm. Der Gangunterschied $\Delta s = s_1 - s_2$ bewirkt eine Interferenz auf dem Schirm.
+*************
+
+</div>
+
+</section>
+
