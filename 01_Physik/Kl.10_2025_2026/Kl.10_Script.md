@@ -1781,3 +1781,15 @@ _Hinweis: Die Eigenfrequenz $f_0$ entpricht dem frei schwingende System ohne äu
 ### Video zu erzwungenen Schwingungen
 
 <iframe src="https://learningapps.org/watch?app=15784046" style="border:0px;width:100%;height:500px" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"></iframe>
+
+## Übungsaufgaben zu Schwingungen
+
+<iframe src="https://learningapps.org/watch?app=17778381" style="border:0px;width:100%;height:500px" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"></iframe>
+
+<iframe src="https://learningapps.org/watch?app=4620967" style="border:0px;width:100%;height:500px" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"></iframe>
+
+<iframe src="https://learningapps.org/watch?app=4316694" style="border:0px;width:100%;height:500px" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"></iframe>
+
+<iframe src="https://learningapps.org/watch?app=1054249" style="border:0px;width:100%;height:500px" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"></iframe>
+
+<iframe src="https://learningapps.org/watch?app=4316402" style="border:0px;width:100%;height:500px" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"></iframe>
