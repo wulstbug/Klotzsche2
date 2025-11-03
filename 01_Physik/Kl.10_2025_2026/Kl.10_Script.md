@@ -1710,15 +1710,63 @@ Ermittle aus dem Video die Periodendauer. Bestimme anschließend die Pendelläng
 
 <section class="flex-container">
 
-<div class="flex-child-1" style="min-width: 200px; margin-bottom: -10px">
+<div class="flex-child-1" style="min-width: 300px; margin-bottom: -10px">
 
-__Foto:__
+<details style='margin-left:10%'>
+
+<summary> __Foto__ </summary>
 
 ![Demo-Erzwungene-Schwingung](https://diversewolken.ddns.net/nextcloud/index.php/s/H2s3ECYWkL9ygoc/download)<!-- style="max-height:400px"-->
 
+</details>
+
+<details style='margin-left:10%'>
+
+<summary> __Webcam__ </summary>
+
+<!--
+persistent: true
+-->
+
+<video autoplay="false" id="videoElement" style="display: none; width: 100%; padding: 5px"></video>
+
+<script input="submit" default="Open Camera">
+const video = document.querySelector("#videoElement")
+
+if (video.srcObject === null) {
+    if (navigator.mediaDevices.getUserMedia) {
+        navigator.mediaDevices.getUserMedia({ video: true })
+            .then(function (stream) {
+                video.srcObject = stream
+                video.style.display = "block"
+                send.lia("Close Camera")
+            })
+            .catch(function (error) {
+                console.log("Something went wrong!")
+                send.lia("Camera Problem")
+            });
+
+        send.output("Waiting for Camera")
+        "LIA: wait"
+    } else {
+        "No Camera connected"
+    }
+} else {
+    const tracks = video.srcObject.getTracks()
+    // Stop all tracks
+    tracks.forEach(track => track.stop())
+    video.style.display = "none"
+    video.srcObject = null
+    "Open Camera"
+}
+</script>
+
+</details>
+
+
 </div>
 
-<div class="flex-child-2" style="min-width: 400px; margin-bottom: -10px">
+<div class="flex-child-1" style="min-width: 300px; margin-bottom: -10px">
 
 
 __Skizze:__
