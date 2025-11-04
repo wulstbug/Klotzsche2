@@ -338,6 +338,8 @@ __Arbeitsablauf:__
 
 </details>
 
+---
+
 8. __Bilder überblenden:__ Das Programm hat im Hintergrund beide Bilder geladen. Du kannst nun über den Menüpunkt _Tools_ -> _Blending_ beide Bilder übereinander legen. <br> <br> @color(Probiere es einfach aus., blue)
 
 
