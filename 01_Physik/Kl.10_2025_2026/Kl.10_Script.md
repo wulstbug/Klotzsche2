@@ -1629,7 +1629,7 @@ Verwende die Formel zur Ermittlung der Periodendauer eines Federschwingers. Stel
 
 <p style='margin-left:10%'>
 
-@rangeQuiz2(ℓ,0.2485,s)
+@rangeQuiz2(ℓ,0.2485,m)
 
 </p>
 
