@@ -1629,7 +1629,7 @@ Verwende die Formel zur Ermittlung der Periodendauer eines Federschwingers. Stel
 
 <p style='margin-left:10%'>
 
-@rangeQuiz2(ℓ,0.2485,s)
+@rangeQuiz2(ℓ,0.2485,m)
 
 </p>
 
@@ -1670,7 +1670,7 @@ Die Länge von Luis Schaukel beträgt
 
 > Nun setzt sich Martha auf die dritte Schaukel. Sie benötigt für vier vollständige Schwingungen genauso lange wie Simon für fünf. Man kann darauf Schlussfolgern, dass
 > 
-> [[ Martha leichter ist als Luis aber schwerer als Simon | Martha schwerer ist als Luis aber leichter als Luis | Schaukel 3 länger ist als Schaukel 2, aber kürzer als Schaukel 1 | (Schaukel 3 kürzer ist als Schaukel 2, aber länger als Schaukel 1) ]]
+> [[ Martha leichter ist als Luis aber schwerer als Simon | Martha schwerer ist als Luis aber leichter als Luis | Schaukel 3 länger ist als Schaukel 2, aber kürzer als Schaukel 1 | Schaukel 3 kürzer ist als Schaukel 2, aber länger als Schaukel 1 | (Martha hat die längste Schaukel) | Martha hat die kürzeste Schaukel ]]
 
 ---
 
@@ -1776,7 +1776,7 @@ __Skizze:__
 
 {{1}}
 **********
-__Beschreibung:__ @color(Der Motor, green) dreht sich. Er hat die Frequenz @color($f_E$, green)(@color(Erregerfrequenz, green)). Über eine Rolle und einen Faden ist der Moter mit einem @color(Federpendel, blue) verbunden.
+__Beschreibung:__ @color(Der Motor, green) dreht sich. Er hat die Frequenz @color($f_E$, green)(@color(Erregerfrequenz, green)). Über eine Rolle und einen Faden ist der Motor mit einem @color(Federpendel, blue) verbunden.
 **********
 
 
@@ -1809,7 +1809,7 @@ __Beschreibung:__ @color(Der Motor, green) dreht sich. Er hat die Frequenz @colo
 *****************
 > Wird einem @color(schwingenden System, blue) von außen periodisch Energie mit der @color(Erregerfrequenz $f_E$, green) zugefügt, so spricht man von einer @color(erzwungenen Schwingung, red)
 >
-> Dabei wird dem @color(schwingenden System, blue) wird die @color(Erregerfrequenz $f_E$, green) @color(aufgezwungen, red).
+> Dabei wird dem @color(schwingenden System, blue) die @color(Erregerfrequenz $f_E$, green) @color(aufgezwungen, red).
 *****************
 
 {{2}}
@@ -1822,7 +1822,7 @@ __Resonanzbedingung:__
 
 $$\boxed{f_E \approx f_0} $$
 
-_Hinweis: Die Eigenfrequenz $f_0$ entpricht dem frei schwingende System ohne äußere Anregung, z.B. beim Federpendel: $f_0 = 2\pi \sqrt{\frac{m}{D}}$_
+_Hinweis: Die Eigenfrequenz $f_0$ entpricht dem frei schwingenden System ohne äußere Anregung, z.B. beim Federpendel: $f_0 = 2\pi \sqrt{\frac{m}{D}}$_
 
 *****************
 
