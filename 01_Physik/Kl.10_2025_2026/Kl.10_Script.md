@@ -1776,7 +1776,7 @@ __Skizze:__
 
 {{1}}
 **********
-__Beschreibung:__ @color(Der Motor, green) dreht sich. Er hat die Frequenz @color($f_E$, green)(@color(Erregerfrequenz, green)). Über eine Rolle und einen Faden ist der Moter mit einem @color(Federpendel, blue) verbunden.
+__Beschreibung:__ @color(Der Motor, green) dreht sich. Er hat die Frequenz @color($f_E$, green)(@color(Erregerfrequenz, green)). Über eine Rolle und einen Faden ist der Motor mit einem @color(Federpendel, blue) verbunden.
 **********
 
 
