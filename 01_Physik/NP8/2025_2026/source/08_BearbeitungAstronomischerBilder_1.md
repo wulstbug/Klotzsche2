@@ -304,3 +304,40 @@ __Arbeitsablauf:__
 </section>
 
 </details>
+
+
+---
+
+6. __Daten abspeichern:__ Um ein Bild mit den gegebenen Einstellungen abzuspeichern, nutze den Menüpunkt _Image_ ->Save as FITS. <br> <br> Speichere die FITS-Datei in einem eigenen Order in deinem Laufwerk.
+
+---
+
+7. Ein zweites Bild bearbeiten. Wähle in den __Archived Images__ die Datei __Hubble-Lagoon-502nVisB__.
+
+<details style='margin-left:10%'>
+
+<summary> @color(Details, blue) </summary>
+
+<section class="flex-container">
+
+<div class="flex-child-1" style="min-width: 200px; margin-bottom: -10px">
+
+7. 1. Zunächst siehst du in diesen Daten nichts. Der hier vom HUBBLE-Teleskop aufgenommene Nebel hat eine sehr schwache Intensität. Wir müssen durch eine geeignete Einstellung die schwachen Bildsignale deutlich sichtbar machen. <br> <br> @color(Wähle dazu im Menü _Scale_ die Option _Log_. Nun werden die Helligkeitswerte auf einer Logarithmischen Skala dargestellt., blue)
+
+</div>
+
+<div class="flex-child-1" style="min-width: 200px; margin-bottom: -10px">
+
+![FITS_5.1](https://diversewolken.ddns.net/nextcloud/index.php/s/mox49BDKfSJrMCc/download)
+
+</div>
+
+</section>
+
+7. 2. Probiere anschließend eine geeignete Anpassung der Helligkeitswerte und der Farbtabelle.
+
+</details>
+
+8. __Bilder überblenden:__ Das Programm hat im Hintergrund beide Bilder geladen. Du kannst nun über den Menüpunkt _Tools_ -> _Blending_ beide Bilder übereinander legen. <br> <br> @color(Probiere es einfach aus., blue)
+
+
