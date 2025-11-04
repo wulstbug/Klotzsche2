@@ -279,3 +279,28 @@ __Arbeitsablauf:__
 </section>
 
 </details>
+
+5. Position des Objektes anpassen
+
+
+<details style='margin-left:10%'>
+
+<summary> @color(Details, blue) </summary>
+
+<section class="flex-container">
+
+<div class="flex-child-1" style="min-width: 200px; margin-bottom: -10px">
+
+5. 1. Wir können die Position eines dargestellten Objektes innerhalb unseres Bildausschnittes gut anpassen. Dafür benötigen wir das _Tool_: __SHIFT__  <br> <br> @color( Wähle im Menüpunkt _Tools_ __SHIFT__. Verschiebe den Mond innerhalb deines Bildes ein bisschen. ACHTUNG: WILDES Klicken führt zu Verzögerungen. , blue)
+
+</div>
+
+<div class="flex-child-1" style="min-width: 200px; margin-bottom: -10px">
+
+![FITS_5.1](https://diversewolken.ddns.net/nextcloud/index.php/s/Mmij7MaLkDZDwA8/download)
+
+</div>
+
+</section>
+
+</details>
