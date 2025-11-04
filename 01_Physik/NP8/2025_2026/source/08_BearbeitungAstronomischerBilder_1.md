@@ -11,6 +11,21 @@ language: de
 .lia-effect__circle {
     display: none !important;
 }
+.flex-container {
+    display: flex;
+    flex-wrap: wrap; /* Allows the items to wrap as needed */
+    align-items: stretch;
+    gap: 20px;
+}
+.flex-child,
+.flex-child-1 { flex: 1; }
+.flex-child-2 { flex: 2; }
+.flex-child-3 { flex: 3; }
+.flex-child-4 { flex: 4; }
+.flex-child-5 { flex: 5; }
+.flex-child-6 { flex: 6; }
+.flex-child-7 { flex: 7; }
+.flex-child-8 { flex: 8; }
 
 @media (min-width: 600px) {
     .newspaper {
@@ -25,6 +40,20 @@ language: de
     }
 }
 
+@media (max-width: 500px) {
+    .flex-child,
+    .flex-child-1,
+    .flex-child-2,
+    .flex-child-3,
+    .flex-child-4,
+    .flex-child-5,
+    .flex-child-6,
+    .flex-child-7,
+    .flex-child-8 {
+        flex: 100%; /* Makes the child divs take up the full width on slim devices */
+        margin-right: 0; /* Removes the right margin */
+    }
+}
 h1, h2, h3, h4, h5, h6 {
   column-span: all;
 }
@@ -90,24 +119,163 @@ mode: presentation
 
 
 # Bearbeitung Astronomischer Bilder (1)
-<!-- style="background:black"-->
 
-![Moon_Lagoon](https://diversewolken.ddns.net/nextcloud/index.php/s/s92S5jps7G29Fbz/download)
 
-> <H3> Erstellung eines eigenen astronomischen Bildes aus echten astronomischen Messdaten. </H3>
+__Arbeitsablauf:__
 
-## Überblick
+1. __Datei besorgen:__ Astronomische Daten werden in einem eigenen Datei-Format, dem __FITS-Format__ gespeichert.
 
-{{1-2}}
-*********
-![ObservingWithNASA](https://diversewolken.ddns.net/nextcloud/index.php/s/qpGQPSZTzsyHWQT/download)
+---
 
-> <H3> Astronomische Daten (FITS-Dateien) auswählen </H3>
-*********
+2. __Datei in Bearbeitungsprogramm laden:__ FITS-Dateien können nur von speziellen Programmen gelesen werden. Wir nutzen die Seite https://ogy.de/gykl_fits
 
-{{2}}
-*********
-![Mond2](https://diversewolken.ddns.net/nextcloud/index.php/s/GyYk6Q6g5cYZxti/download)
+<details style='margin-left:10%'>
 
-> <H3> Bilder bearbeiten </H3>
-*********
+<summary> @color(Details, blue) </summary>
+
+<section class="flex-container">
+
+<div class="flex-child-1" style="min-width: 200px; margin-bottom: -10px">
+
+2. 1. Rufen wir die Seite https://ogy.de/gykl_fits auf, so erhalten wir zunächst einen Willkommensbildschirm der uns in die Nutzung des Programms einführt.
+
+</div>
+
+<div class="flex-child-1" style="min-width: 200px; margin-bottom: -10px">
+
+![FITS_2.1](https://diversewolken.ddns.net/nextcloud/index.php/s/K3Hy3i5XWWsRa3m/download)
+
+</div>
+
+</section>
+
+---
+
+<section class="flex-container">
+
+<div class="flex-child-1" style="min-width: 200px; margin-bottom: -10px">
+
+2. 2. Wir können uns das Tutorial ansehen (Englisch) oder die Info wegklicken. Wir öffnen heute mindestens ein Archiviertes Bild. Das erste Bild ist eine Aufnahme des Mondes. Klicke auf @color(Archived Images, blue) und öffne die Datei __Moon160919094536__
+
+</div>
+
+<div class="flex-child-1" style="min-width: 200px; margin-bottom: -10px">
+
+![FITS_2.2](https://diversewolken.ddns.net/nextcloud/index.php/s/resR9ynmMfxHBm9/download)
+
+</div>
+
+</section>
+
+
+
+
+</details>
+
+---
+
+3. __Graustufen geeignet darstellen:__ Astronomische Bilder enthalten keine Farben sondern Helligkeitsstufen (Graustufen). Bevor man einem Bild Farbe hinzufügt, muss die Darstellung geeignet angepasst werden.
+
+<details style='margin-left:10%'>
+
+<summary> @color(Details, blue) </summary>
+
+<section class="flex-container">
+
+<div class="flex-child-1" style="min-width: 200px; margin-bottom: -10px">
+
+3. 1. Bei einer astronomischen Aufnahme wird das Bild meistens sehr lange beleuchtet. Daher gibt es nicht nur Helligkeitswerte am Objekt selbst, sondern auch im __Hintergrund__. <br> <br> Der Hintergrund des Mondes sollte eigentlich schwarz sein, ist aber grau darstellt.
+
+</div>
+
+<div class="flex-child-1" style="min-width: 200px; margin-bottom: -10px">
+
+![FITS_3.1](https://diversewolken.ddns.net/nextcloud/index.php/s/en8HK7mz5y7cqjs/download)
+
+</div>
+
+</section>
+
+---
+
+<section class="flex-container">
+
+<div class="flex-child-1" style="min-width: 200px; margin-bottom: -10px">
+
+3. 2. Um einen grau erscheinenden Untergrund zu reduzieren, können wir die __untere Schwelle__, d.h. den Wert für einen schwarzen Bildpunkt anpassen. Diese Schwelle nennt man @color(Low Brightness Limit, red). <br> <br> @color(Bewege den Schieber vorsichtig nach links und rechts.Beobachte die Anpassung des Hintergrundschwarz. Ein geeigneter Wert ist hier 300. Stelle das ein., blue)
+
+</div>
+
+<div class="flex-child-1" style="min-width: 200px; margin-bottom: -10px">
+
+![FITS_3.2](https://diversewolken.ddns.net/nextcloud/index.php/s/resR9ynmMfxHBm9/download)
+
+</div>
+
+</section>
+
+---
+
+<section class="flex-container">
+
+<div class="flex-child-1" style="min-width: 200px; margin-bottom: -10px">
+
+3. 3. Auch die __Obere Schwelle__ kann hier angepasst werden, sie heißt @color(High Brightness Limit, red). <br> <br> @color(Verändere auch hier den Reiter und beobachte das Bild. Hier ist der voreingestellte Wert von 809 sinnvoll., blue)
+
+</div>
+
+<div class="flex-child-1" style="min-width: 200px; margin-bottom: -10px">
+
+![FITS_3.3](https://diversewolken.ddns.net/nextcloud/index.php/s/yGqZA89CnRmrCm5/download)
+
+</div>
+
+</section>
+
+</details>
+
+
+---
+
+4. __Farbdarstellung bearbeiten:__ Wenn eine geeignete Graustufendarstellung gelungen ist, kann mit der Farbbearbeitung begonnen werden.
+
+
+<details style='margin-left:10%'>
+
+<summary> @color(Details, blue) </summary>
+
+<section class="flex-container">
+
+<div class="flex-child-1" style="min-width: 200px; margin-bottom: -10px">
+
+4. 1. Wir haben bis zu diesem Punkt nur ein Graustufen-Bild. An dieser Stelle wollen wir dem Bild eine Farbe verpassen. Mit Hilfe des Reiters. Im Menüpunkt _Color_ gibt es verschiedene Farbtabellen/Farbverläufe, welche  dem Bild zugewiesen werden können. <br> <br> @color( Probiere verschiedene Farbverläufe aus. Wähle anschließend eine Einstellung die dir gefällt., blue)
+
+</div>
+
+<div class="flex-child-1" style="min-width: 200px; margin-bottom: -10px">
+
+![FITS_4.1](https://diversewolken.ddns.net/nextcloud/index.php/s/i24GN2Zb8mZBm9r/download)
+
+</div>
+
+</section>
+
+<section class="flex-container">
+
+<div class="flex-child-1" style="min-width: 200px; margin-bottom: -10px">
+
+---
+
+4. 2. Mit den Schiebereglern _Stretch/Contrast_ lassen sich die Farbwerte verschieben und die Darstellungen anpassen.  <br> <br> @color(Probiere verschiedene Einstellungen aus., blue)
+
+</div>
+
+<div class="flex-child-1" style="min-width: 200px; margin-bottom: -10px">
+
+![FITS_4.2](https://diversewolken.ddns.net/nextcloud/index.php/s/DjEZ7nQLx2n4zqq/download)
+
+</div>
+
+</section>
+
+</details>
