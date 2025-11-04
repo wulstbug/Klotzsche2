@@ -1822,7 +1822,7 @@ __Resonanzbedingung:__
 
 $$\boxed{f_E \approx f_0} $$
 
-_Hinweis: Die Eigenfrequenz $f_0$ entpricht dem frei schwingende System ohne äußere Anregung, z.B. beim Federpendel: $f_0 = 2\pi \sqrt{\frac{m}{D}}$_
+_Hinweis: Die Eigenfrequenz $f_0$ entpricht dem frei schwingenden System ohne äußere Anregung, z.B. beim Federpendel: $f_0 = 2\pi \sqrt{\frac{m}{D}}$_
 
 *****************
 
