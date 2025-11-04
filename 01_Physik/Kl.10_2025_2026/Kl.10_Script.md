@@ -1809,7 +1809,7 @@ __Beschreibung:__ @color(Der Motor, green) dreht sich. Er hat die Frequenz @colo
 *****************
 > Wird einem @color(schwingenden System, blue) von außen periodisch Energie mit der @color(Erregerfrequenz $f_E$, green) zugefügt, so spricht man von einer @color(erzwungenen Schwingung, red)
 >
-> Dabei wird dem @color(schwingenden System, blue) wird die @color(Erregerfrequenz $f_E$, green) @color(aufgezwungen, red).
+> Dabei wird dem @color(schwingenden System, blue) die @color(Erregerfrequenz $f_E$, green) @color(aufgezwungen, red).
 *****************
 
 {{2}}
