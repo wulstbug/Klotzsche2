@@ -4628,21 +4628,26 @@ __Beschreibung:__
 
 </section>
 
-{{6}}
+{{6-7}}
 **********
 __Messwerte:__
 
 
 | | | |
-| $\lambda$ in nm | $f$ in $10^{14}\,$Hz | $U_g$ in V | $E_{kin}=U\cdot e$ in eV |
+| $\lambda$ in nm | $f$ in $10^{14}\,$Hz | $U_g$ in V | $E_{kin}=U\cdot e$ in J |
 | 365 | | | |
 | 405 | | | |
 | 436 | | | |
 | 546 | | | |
 | 577 | | | |
 
-{{8}}
+@color(_Bereite die Tabelle vor. Ermittle bereits die zugehörigen Frequenzen._, blue)
+**********
+
+{{7}}
 ****************
+__Messwerte:__
+
 | | | |
 | $\lambda$ in nm | $f$ in $10^{14}\,$Hz | $U_g$ in V | $E_{kin}=U_g\cdot e$ in J |
 | 365 | 8.22 | | |
@@ -4650,10 +4655,41 @@ __Messwerte:__
 | 436 | 6.88 | | |
 | 546 | 4.49 | | |
 | 577 | 5.20 | | |
+
+<p style="color:blue">
+
+1. _Ergänze die gemessenen Daten $U_g$ für die verschiedenen Wellenlängen und berechne $E_{kin}$._ 
+
+2. _Zeichne ein Diagramm der $E_{kin}(f)$._
+
+3. _Zeichne eine geeignete Ausgleichsgerade und ermittle den Anstieg $h = \frac{\Delta E_{kin}}{\Delta f}$._
+</p>
 ****************
 
-@color(_Bereite die Tabelle vor. Ermittle bereits die zugehörigen Frequenzen._, blue)
-**********
+{{8}}
+****************
+![TB_Diagramm-Planck](https://diversewolken.ddns.net/nextcloud/index.php/s/zaKaAjcBMaNcdnr/download)
+****************
+
+{{9}}
+****************
+Das __Plancksche Wirkungsquantum__ oder auch __Planck-Konstante__ $h$ ist eine fundamentale Naturkonstante. Sie hat den Wert: $$ \boxed{h = 6,626\cdot10^{-34}\,\mathrm{J\cdot s}} $$
+****************
+
+{{10}}
+****************
+> Die Energiebilanz beim äußeren Lichtelektrischen Effekt lautet:
+>
+> $$ h\cdot f = W_A + E_{kin} $$
+>
+> wobei:
+>
+> $\hspace{1cm} f$ .. Frequenz des Lichts
+>
+> $\hspace{1cm} W_A$ .. Austrittsarbeit (Auslösearbeit) des Kathodenmaterials (vlg. FS S. )
+>
+> $\hspace{1cm} E_{kin}$ .. kinetische Energie der Elektronen
+****************
 
 ## 11. 4. Energie, Masse und Impuls von Photonen
 
@@ -4669,5 +4705,62 @@ __Messwerte:__
 
 {{3}}
 *********
-> Die Energie eines Photons
+> __Die Energie __eines Photons
+>
+> $$ \boxed{E_{ph} = h \cdot f = \frac{h\cdot c}{\lambda}}$$
+*********
+
+{{4}}
+*********
+_Nutzt man die Äquivalenz aus Masse und Energie  $E = m \cdot c^2$ der speziellen Relativitätstheorie so beträgt:_
+*********
+
+{{5}}
+*********
+> __Die Masse__ eines Photons
+>
+> $$ \boxed{m_{ph} = \frac{E_{ph}}{c^2} = \frac{h \cdot f}{c} = \frac{h}{c\cdot \lambda}} $$
+*********
+
+{{6}}
+*********
+_Das bewegte massebehaftete Objekte einen Impuls $p = m \cdot v$ besitzen, können wir einen Photonenimpuls berechnen zu_
+*********
+
+{{7}}
+*********
+> __Der Impuls__ eines Photons
+>
+> $$ \boxed{p_{ph} = m_{ph} \cdot c = \frac{h \cdot f}{c}} $$
+*********
+
+{{8}}
+*********
+__Hinweis zur Einheit @color(Elektronenvolt $\mathrm{eV}$, red):__
+
+> Für die Energie von Elementarteilchen (z.B. Elektronen) und Photonen wird häufig die Einheit $\mathrm{eV}$ (gesprochen _Elektronenvolt_) genutzt. 
+>
+> Ein $\mathrm{eV}$ entspricht genau der Energie, die ein Elektron erhält, wenn es mit einer Spannung von $1\,\mathrm{V}$ beschleunigt wird.
+>
+> $$ \boxed{1 \mathrm{eV} = 1\,\mathrm{V}\cdot e = 1,602\cdot10^{-19} J}$$
+*********
+
+{{9}}
+*********
+_Beispiel:_
+
+Ein Photon von rotem Licht mit der Wellenlänge $\lambda = 630\,\mathrm{nm}$ besitzt eine Energie von
+
+<p style='margin-left:10%'>
+
+__In Joule__
+
+@rangeQuiz2($E_{ph}$, 3.155e-19 , $\mathrm{J}$)
+
+__bzw. in Elektronenvolt__
+
+@rangeQuiz2($E_{ph}$, 1.97 , $eV$)
+
+</p>
+
 *********
