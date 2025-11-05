@@ -335,10 +335,10 @@ __Messwerte:__
 
 | | | |
 | $\lambda$ in nm | $f$ in $10^{14}\,$Hz | $U_g$ in V | $E_{kin}=U\cdot e$ in eV |
-| 365 | | |
-| 405 | | |
-| 436 | | |
-| 546 | | |
-| 577 | | |
+| 365 | | | |
+| 405 | | | |
+| 436 | | | |
+| 546 | | | |
+| 577 | | | |
 
 @color(_Bereite die Tabelle vor. Ermittle bereits die zugehörigen Frequenzen._, blue)
