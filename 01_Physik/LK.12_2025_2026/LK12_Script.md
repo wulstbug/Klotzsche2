@@ -4504,7 +4504,7 @@ __Beschreibung:__
 ??[Simulation-Photoeffekt](https://phet.colorado.edu/sims/cheerpj/photoelectric/latest/photoelectric.html?simulation=photoelectric&locale=de)
 ***********
 
-{{1-8}}
+{{8}}
 ***********
 ![Skizze-Photoeffekt](https://diversewolken.ddns.net/nextcloud/index.php/s/zL6DpdmEcFEiAJA/download)
 ***********
