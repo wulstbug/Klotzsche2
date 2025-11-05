@@ -207,185 +207,9 @@ mode: presentation
 
 <iframe src="https://www.geogebra.org/classic/sn4xvwsj?embed" width="100%" height="600" allowfullscreen style="border: 1px solid #e4e4e4;border-radius: 4px;" frameborder="0"></iframe>
 
-> Eine @color(mechanische Welle, orange) ist die Ausbreitung eines Schwingungszustands von einem Ort im Raum zu einem anderen. 
->
->> Sie ist eine zeitlich __und räumlich__ periodische Änderung physikalischer Größen
->
-> - Vorraussetzung sind __gekoppelte Schwinger__
->
-> - eine Welle transportiert __Energie aber keine Masse__
->
-> - die einzelnen schwingenden Teilchen bewegen sich ausschließlich um ihre Gleichgewichtslage
-
-
 ## 10. 1. Arten mechanischer Wellen
 
-<p class="newspaper3">
-
-Längswellen (Longitudinalwellen)
-
-__Beispiel:__ Schallwellen
-
-> Schwingungsrichtung und Ausbreitungsrichtung stimmen überein.
-
-<p class="cb">
-
-Querwellen (Transversalwellen)
-
-__Beispiel:__ Seilwellen, Erdbebenwellen
-
-> Schwingungsrichtung und Ausbreitungsrichtung verlaufen senkrecht zueinander
-
-<p class="cb">
-
-Oberflächenwellen (Kreiswellen)
-
-__Beispiel:__ Wasserwellen
-
-> Teilchen führen kreisförmige Bewegung aus. Es wirken Kohäsionskräfte (Oberflächenspannung) und die Schwerkraft
-
-</p>
-
-</p>
-
-</p>
-
-<p style="color:blue">
-
-__Beobachtung:__
-
-1. Betrachten Sie die laufende Welle. Wechseln Sie zwischen Transversalwelle und Logitudinalwelle und beobachten Sie die Schwingung der Teilchen.
-
-2. Ändern Sie die Amplitude und beobachten Sie die Welle. 
-
-3. Verschieben Sie den Schieberegler ganz nach rechts und betrachten Sie die eingefrorene Welle.
-
-<iframe src="https://www.geogebra.org/classic/cdyxv6pt?embed" width="100%" height="600" allowfullscreen style="border: 1px solid #e4e4e4;border-radius: 4px;" frameborder="0"></iframe>
-
-</p>
-
 ## 10. 2. Eigenschaften mechanischer Wellen
-
-@color(_Tipp: Nutze für diese Übersicht eine eigene Seite_, orange)
-
----
-
-__Diagrammdarstellung__: 
-
-Wir stellen die **zeitliche Bewegung** eines einzelnen Oszillators (d.h. ein schwingendes Teilchen) mit einem **$y$-$t$-Diagramm** dar und die **räumliche Ausbreitung** mit einem **$y$-$x$-Diagramm**.
-
----
-
-<p class="newspaper">
-
-> __$y(x)$-Diagramm__
->
-> Für einen **bestimmten Zeitpunkt** ($t =$ konstant) wird dargestellt, **welche Lage die Gesamtheit der Oszillatoren** hat.
->
-> __Wellengleichung $y(x)$ einer harmonischen Welle:__
->
-> $$ \boxed{y(x) = y_{max} \cdot \sin\big(\frac{2\pi}{\lambda}\cdot x\big)}$$
-
-<p class="cb">
-
-> __$y(t)$-Diagramm__
->
-> Für einen **bestimmten Ort** ($x =$ konstant) wird dargestellt, wie sich der betreffende Oszillator in **Abhängigkeit von der Zeit** bewegt.
->
-> __Wellengleichung $y(t)$ einer harmonischen Welle:__
->
-> $$ \boxed{y(t) = y_{max} \cdot \sin\big(\frac{2\pi}{T}\cdot t\big)}$$
-
-
-</p>
-
-</p>
-
----
-
-<p class="newspaper">
-
-![y-x-Diagramm](https://diversewolken.ddns.net/nextcloud/index.php/s/gJp99q4HHbZ7z8e/download)
-
-<p class="cb">
-
-![y-t-Diagramm](https://diversewolken.ddns.net/nextcloud/index.php/s/wfReL2Xbc5iGoXs/download)
-
-</p>
-
-</p>
-
----
-
-
-<p class="newspaper3">
-
-> **Wellenlänge $\lambda$**
->
-> Die Wellenlänge ist der minimale Abstand zwischen zwei Oszillatoren, die sich im gleichen Schwingungszustand befinden.  
-> Das ist auch der Abstand zwischen zwei benachbarten **Wellenbergen** oder **Wellentälern**.  
-
-<p class="cb">
-
-> **Frequenz $f$**
->
-> Die Frequenz $f$ beschreibt die Anzahl an Schwingungen eines schwingende Teilchens pro Sekunde.
->
-> Es gilt weiterhin: $f=\frac{1}{T}$
-
-<p class="cb">
-
-> **Ausbreitungsgeschwindigkeit $v$**
->
-> Die Ausbreitungsgeschwindigkeit einer Welle ist die Geschwindigkeit, mit der sich eine bestimmte Phase im Raum ausbreitet.  
-
-</p>
-
-</p>
-
-</p>
-
----
-
-<p class="newspaper3">
-
-> **Formelzeichen:** $\lambda$  
->
-> **Einheit:** [1 m]
-
-<p class="cb">
-
-> **Formelzeichen:** $f$  
->
-> **Einheit:** Hertz $[1\,\mathrm{Hz}=1\,\mathrm{\frac{1}{s}]}$
-
-<p class="cb">
-
-> **Formelzeichen:** $v$  
->
-> **Einheit:** $[1\,\mathrm{\frac{m}{s}}]$
-
-</p>
-
-</p>
-
-</p>
-
----
-
-> __Wellenausbreitungsgleichung__ (Zusammenhang zwischen $\lambda$, $f$ und $v$:):
->
-> $$ \boxed{v = \lambda \cdot f}$$
-
----
-
-> __(*) Wellengleichung $y(x, t)$ einer harmonischen Welle:__
->
-> Die Auslenkung $y$ der gesamten Welle lässt sich zu jedem Zeitpunkt $t$ und an jedem Ort $x$ mit der Wellengleichung angeben:
->
-> $$ \boxed{y(x,t) = y_{max} \cdot \sin\Big( \frac{2\pi}{\lambda}\cdot x-\frac{2\pi}{T}\cdot t\Big)}$$
-
-
 
 ### Aufgaben zur Charakterisierung von Wellen
 
@@ -460,138 +284,9 @@ __Die folgenden Aufgaben beziehen sich auf die Transversalwelle in Starteinstell
 
 ## 10. 3. Darstellung der Wellenausbreitung mit Wellenfront und Wellennormale
 
-Zur Darstellung der Ausbreitung von Wellen nutzen man __Wellenfronten__ und @color(__Wellennormale__,red)
-
-<p class="newspaper">
-
-{{1}}
-************
-![WellenfrontWellenNormale](https://diversewolken.ddns.net/nextcloud/index.php/s/sPE2gzAdfqJqdjk/download "Links: Kreisförmige Wellenfront (z.B. Steinwurf in Wasser) | Rechts: Ebene Welle (z.B. Licht)")
-************
-
-<p class="cb">
-
-{{4}}
-*****************
-__Die Wellenfronten__ sind Stellen maximaler Auslenkung (Wellenberge). Ihr Abstand voneinander ist gleich der Wellenlänge $\lambda$.
-
-@color(Die Wellennormale, red) steht immer senkrecht auf der Wellenfront und gibt die Ausbreitungsrichtung der Welle an.
-*****************
-
-</p>
-
-</p>
-
----
-
-<p class="newspaper">
-
-{{2}}
-************
-Kreisförmige Wellenfront (z.B. Steinwurf ins Wasser)
-
-??[Fallstad-Kugelwelle](https://www.falstad.com/ripple/Ripple.html?rol=$+3+512+64+0+4+668+0.00390625%0As+2+257+265+0+0.233333+0+10+100+1+0%0A)
-************
-
-<p class="cb">
-
-{{3}}
-************
-
-Ebene Welle (z.B. Lichtausbreitung)
-
-??[Fallstad-Kugelwelle](https://www.falstad.com/ripple/Ripple.html?rol=$+3+512+64+0+0+569+0.048828125%0AS+2+0+1+511+1+0+0.466666+0+10+100+1+0%0A)
-************
-
-</p>
-
-</p>
-
 ## 10. 4. Huygens'sche Prinzip
 
-> Jeder Punkt einer Wellenfront ist seinerseits wieder Ausgangspunkt für @color(kreis- bzw. kugelförmige Elementarwellen, red)
-
-{{1}}
-*************
-![Huygernssches-Prinzip](https://diversewolken.ddns.net/nextcloud/index.php/s/zE2kb4mDwinM5M2/download)
-
-
--> [Simulation-Ausbreitung-Kreiswelle-EbeneWelle](https://www.leifiphysik.de/mechanik/mechanische-wellen/ausblick/huygenssches-prinzip-zur-beschreibung-von-mechanischen-wellen)
-*************
-
-
-### Aufgabenstellung zur Selbsständigen Präsentation
-
-<p style="color:blue">
-
-Aufgabe: 
-
-1. Wählen Sie eines der folgenden Themen aus.
-
-2. Erarbeiten Sie sich das Wellenphänomen.
-
-3. Stellen Sie das Wellenphänomen dem Auditorium in einem kurzen Beitrag vor. Nutzen Sie die bereitgestellte Simulation um den Sachverhalt zu verdeutlichen.
-
-4. Lösen Sie die Aufgabe allein oder gemeinsam mit dem Auditorium.
-
-
-</p>
-
-<p class="newspaper3">
-
-__Reflexion:__
-
-[qr-code](https://liascript.github.io/nightly/?https://raw.githubusercontent.com/wulstbug/Klotzsche2/2025_2026/01_Physik/LK.12_2025_2026/Praesentationen_Wellen/Reflexion.md#1)
-
-<p class="cb">
-
-__Brechung:__
-
-[qr-code](https://liascript.github.io/nightly/?https://raw.githubusercontent.com/wulstbug/Klotzsche2/2025_2026/01_Physik/LK.12_2025_2026/Praesentationen_Wellen/Brechung.md#1)
-
-<p class="cb">
-
-__Beugung:__
-
-[qr-code](https://liascript.github.io/nightly/?https://raw.githubusercontent.com/wulstbug/Klotzsche2/2025_2026/01_Physik/LK.12_2025_2026/Praesentationen_Wellen/Beugung.md#1)
-
-</p>
-
-</p>
-
-</p>
-
-
-
 ## 10. 5. Reflexion
-
-__Definition:__ Trifft eine Welle auf eine ebene Oberfläche, dann wird sie __reflektiert__. Es gilt das __Reflexionsgesetz__:
-
-{{1}}
-**********
-<p class="newspaper">
-
-> 1. Bei der Reflexion von Wellen sind der Einfallswinkel $\alpha$ und der @color(Reflexionswinkel $\alpha'$, red) gleich groß. 
->
-> 2. Die Wellennormalen der einfallenden und reflektierten Wellen liegen in einer Ebene.
-
-<p class="cb">
-
-![Reflexion_Welle](https://diversewolken.ddns.net/nextcloud/index.php/s/bkBpwMGem3rXEx6/download)
-
-</p>
-
-</p>
-**********
-
-{{2}}
-**********
-??[Fendt-Reflexion](https://www.walter-fendt.de/html5/phde/refractionhuygens_de.htm)
-**********
-
-{{3}}
-**********
-<p style="color:blue">
 
 Aufgaben:
 
@@ -617,48 +312,6 @@ Aufgaben:
 
 ## 10. 6. Brechung
 
-
-__Definition:__ Trifft eine Welle unter einem Einfallswinkel $\alpha\neq 0$ auf eine @color(__ebene Grenzfläche__, darkgreen) zweier Stoffe, in denen sie sich mit unterschiedlicher @color(Geschwindigkeit, red) ausbreitet, dann ändert sie ihre Ausbreitungsrichtung. Sie wird @color(gebrochen, red). Es gilt das __Brechungsgesetz__:
-
----
-
-{{1}}
-**********
-<p class="newspaper">
-
-Beim Übergang von einem Stoff (1) in einen anderen Stoff (2) gilt das __Brechungsgesetz__.
-
-$$\boxed{\dfrac{\sin\alpha}{\sin\beta} = \dfrac{v_1}{v_2}}$$
-
-wobei
-
-<p style="margin-left:5%">
-
-     $\alpha$ .. Einfallswinkel
-
-     $\beta$ .. Brechungswinkel
-
-     $v_1,\,v_2$ .. Ausbreitungsgeschwindigkeiten
-
-</p>
-
-<p class="cb">
-
-![Brechung_Welle](https://diversewolken.ddns.net/nextcloud/index.php/s/3awXew9HRi54nyd/download)
-
-</p>
-
-</p>
-**********
-
-{{2}}
-**********
-??[Fendt-Reflexion](https://www.walter-fendt.de/html5/phde/refractionhuygens_de.htm)
-**********
-
-
-{{3}}
-**********
 <p style="color:blue">
 
 Aufgaben:
@@ -678,48 +331,9 @@ Aufgaben:
 
 
 </p>
-**********
 
 ## 10. 7. Beugung
 
-Definition: Trifft eine Welle auf einen Spalt oder eine Kante, so sind die betreffenden Stellen nach _Huygens Prinzip_ Ausgangspunkt von Elementarwellen. Damit breitet sich eine Welle auch in den __Schattenraum__ aus.
-
----
-
-<p class="newspaper3">
-
-{{1}}
-********
-![Welle-Beugung](https://diversewolken.ddns.net/nextcloud/index.php/s/M9eEFxFCjRATLt2/download)
-********
-
-<p class="cb">
-
-{{2}}
-********
-__Kante:__
-
-??[Simulation-Kante](https://www.falstad.com/ripple/Ripple.html?rol=$+3+512+64+0+1+489+1.5625e-8%0Aw+0+255+132+514+132%0AS+2+0+1+511+1+0+1.399998+0+10+100+1+0%0Aw+0+511+-5+511+131%0A)
-********
-
-<p class="cb">
-
-{{3}}
-********
-__Spalt:__
-
-??[Simulation-Spalt](https://www.falstad.com/ripple/Ripple.html?rol=$+3+512+64+0+1+578+1.5625e-8%0AS+2+0+1+511+1+0+2.2166635+0+10+100+1+0%0A203+0+-57+145+577+145+1+20+10%0A)
-********
-
-</p>
-
-</p>
-
-</p>
-
-
-{{4}}
-**********
 <p style="color:blue">
 
 Aufgaben:
@@ -737,8 +351,6 @@ Aufgaben:
      - [[ ]] Die Welle verschwindet und es entsteht nur noch stehendes Wasser. 
 
 </p>
-**********
-
 
 ### Übungsaufgaben zu Reflexion, Beugung, Brechung
 
@@ -759,143 +371,9 @@ __Zuordnung Wellenausbreitung:__
 
 ## 10. 8. Interferenz
 
-{{0}}
-***********
-[LEIFI-Wellen](https://diversewolken.ddns.net/nextcloud/index.php/s/NeMj4nWBfqDXMWj/download)
-***********
-
-{{1}}
-***********
-> __Prinzip der ungestörten Überlagerung:__ Wellen durchdringen sich gegenseitig, ohne sich selbst oder einander zu verändern
-
-> Die __Überlagerung__ oder __Superposition__ harmonischer Wellen wird als @color(Interferenz, red) bezeichnet. Diese hängt vom __Gangunterschied__ der inteferierenden Wellen ab.
->
-> Umgangssprachlich: _"Interferenz ist die Addition der jeweiligen Auslenkungen"_
-
-<p style="margin:5%;color:blue">
-
-Wir untersuchen die Interferenz von Wellen grafisch als auch mathematisch.
-
-[Geogebra-Interferenz-LK](https://www.geogebra.org/m/sd49erad)
-
-</p>
-
----
-***********
-
-{{2}}
-***********
-
-<section class="flex-container">
-
-<div class="flex-child-1" style="min-width: 200px; margin-bottom: -10px">
-
-__Grafische Darstellung__
-
-</div>
-
-<div class="flex-child-1" style="min-width: 200px; margin-bottom: -10px">
-
-_Spezialfälle_
-
-</div>
-
-<div class="flex-child-1" style="min-width: 200px; margin-bottom: -10px">
-
-__Mathematische Beschreibung__
-
-</div>
-
-</section>
-
----
-
-<section class="flex-container">
-
-<div class="flex-child-1" style="min-width: 200px; margin-bottom: -10px">
-
-![Konstruktive_Interferenz](https://diversewolken.ddns.net/nextcloud/index.php/s/b788bF9RP233a38/download)
-
-</div>
-
-<div class="flex-child-1" style="min-width: 200px; margin-bottom: -10px">
-
-__Konstruktive Interferenz:__ Die Wellen überlagern sich derart, dass sich die Auslenkungen $y_1(x)$ und $y_2(x)$ addieren, es kommt zur Verstärkung der @color(resultierenden Welle, blue).
-
-> __Der Gangunterschied beträgt eine Wellenlänge $\boxed{\lambda}$ <br> (oder ein Vielfaches $\boxed{n\cdot\lambda}$)__
-
-</div>
-
-<div class="flex-child-1" style="min-width: 200px; margin-bottom: -10px">
-
-$\green{y_1(x) = \hat{y_1}\cdot\sin(\frac{2\pi}{\lambda}\cdot x)}$
-
-$\red{y_2(x) = \hat{y_2}\cdot\sin(\frac{2\pi}{\lambda}\cdot x)}$
-
-$\blue{y_{ges}(x) = (\hat{y_1}+\hat{y_2})\cdot\sin(\frac{2\pi}{\lambda}\cdot x)}$
-
-</div>
-
-</section>
-
----
-
-<section class="flex-container">
-
-<div class="flex-child-1" style="min-width: 200px; margin-bottom: -10px">
-
-![Destruktive_Interferenz](https://diversewolken.ddns.net/nextcloud/index.php/s/WW2xPJiWLXGHd2D/download)
-
-</div>
-
-<div class="flex-child-1" style="min-width: 200px; margin-bottom: -10px">
-
-__Destruktive Interferenz:__ Die Wellen überlagern sich derart, dass sich die Auslenkungen $y_1(x)$ und $y_2(x)$ subtrahieren, es kann zur Auslöschen der @color(resultierenden Welle, blue) kommen.
-
-> __Der Gangunterschied beträgt <br> $\boxed{\frac{\lambda}{2}}$ (bzw. $\boxed{\frac{\lambda}{2} + n \cdot \lambda}$)__
-
-</div>
-
-<div class="flex-child-1" style="min-width: 200px; margin-bottom: -10px">
-
-
-$\green{y_1(x) = \hat{y_1}\cdot\sin(\frac{2\pi}{\lambda}\cdot x)}$
-
-$\red{y_2(x) = -\hat{y_2}\cdot\sin(\frac{2\pi}{\lambda}\cdot x)}$
-
-$\blue{y_{ges}(x) = (\hat{y_1}-\hat{y_2})\cdot\sin(\frac{2\pi}{\lambda}\cdot x)}$
-
-</div>
-
-</section>
-
----
-
-***********
-
 ## 10. 9. Stehende Wellen
 
 [StehendeWellen-Geogebra](https://www.geogebra.org/m/wcqzrbnh)
-
-> Wenn sich Wellen nur __in einem begrenzten Gebiet__ ausbreiten können (wie auf den Saiten einer beidseitig eingespannten Klavierseite), treten an beiden Enden Reflexionen auf. Dadurch kommt es zu einer Überlagerung von einlaufenden und reflektierten Wellen, die sich in entgegensetzter Richtung bewegen. Abhängig von der Begrenzung (Saitenlänge $ℓ$) gibt es bestimmte Frequenzen (Wellenlängen), bei denen die Wellen __stationäre Schwingungsmuster__ ausbilden. Diese heißen __Stehende Wellen__.
-
-<p class="newspaper">
-
-![StehendeWellenAufEinerSeite](https://diversewolken.ddns.net/nextcloud/index.php/s/9qCpdFZJ8zQixd9/download)
-
-<p class="cb">
-
-> Eine __stehende Wellen__ kennzeichnet sich durch __Bäuche (B)__ (verstärkte Schwingung) und __Knoten (K)__ (keine Schwingung).
->
-> Eine __(eindimensionale)__ stehende Welle kann auftreten, wenn die Ausdehung $ℓ$ ein Vielfaches der halben Wellenlänge $\frac{\lambda}{2}$ ist.
->
-> $$ \boxed{ℓ = n \cdot \frac{\lambda}{2}} \,\,\,n=1,2,3...$$
->
-> Man nennt die zugehörigen Schwingungen die __$n$-te Harmonische__.
-
-</p>
-
-</p>
 
 ### Übungsaufgaben zu Wellenphänomenen
 
@@ -1049,12 +527,6 @@ Da die Grundschwingung der Saite der halben Wellenlänge $\lambda_a$ entspricht,
 
 ## 10. 10. Begründung des Relfexionsgesetzes mit dem Huygens'schen Prinzip
 
-![RG_TB1](https://diversewolken.ddns.net/nextcloud/index.php/s/oNFR69QaAyscHcM/download)
-
-![RG_TB2](https://diversewolken.ddns.net/nextcloud/index.php/s/nAGqm7nxZKQ3WRo/download)
-
-
-
 ### Übungsaufgaben
 
 1. In einer Wellenwanne läuft eine Wasserwelle von einem seichten Bereich in ein Gebiet mit tieferem Wasser unter dem Einfallswinkel von 45° und einem Brechungswinkel von 60°. Bestimmen Sie die Geschwindigkeit im flachen Teil, wenn sie im tiefen Teil $25\,\mathrm{\frac{cm}{s}}$ beträgt.<br><br> _Hinweis: Die Ausbreitungsgeschwindigkeit von Wasserwellen folgt näherungsweise derm Zusammenhang $v\sim\sqrt{h}$, wobei h die Wassertiefe ist._
@@ -1088,10 +560,6 @@ Da die Grundschwingung der Saite der halben Wellenlänge $\lambda_a$ entspricht,
 </p>
 
 ## 10. 11. Begründung des Brechungsgesetzes mit dem Huygens'schen Prinzip
-
-![BG_TB1](https://diversewolken.ddns.net/nextcloud/index.php/s/FitcjCLbt8ecfCW/download)
-
-
 
 ### Aufgaben zu Wellen
 
@@ -1232,104 +700,7 @@ Da die Grundschwingung der Saite der halben Wellenlänge $\lambda_a$ entspricht,
 
 ## 10. 12. Das Doppelspalt-Experiment
 
-<section class="flex-container">
-
-<div class="flex-child-1" style="min-width: 300px; margin-bottom: -10px">
-
-> __Beschreibung:__ Beim Doppelspaltexperiment schickt man @color(kohärentes, orange), einfarbiges Licht (z.B. Laserlicht) durch zwei nahe beieinander liegende Spalte, den sogenannten Doppelspalt. Das Licht fällt auf einen hinter dem Doppelspalt liegenden Schirm.
->
-> __Beobachtung:__ Auf dem Schirm entsteht ein Muster aus vertikalen hellen und dunklen Streifen.
->
-> __Erklärung:__ An den beiden Spalten entstehen laut dem huygen'schen Prinzip neue Elementarwellen. Diese Wellen überlagern (__interferieren__) sich und bilden beim Auftreffen auf einem Beobachtungsschirm ein Interferenzmuster aus hellen und dunklen Bereichen. ->[DoppelSpalt-Simulation](https://falstad.com/ripple/Ripple.html?rol=$+3+512+64+0+1+578+1.5625e-8%0AS+2+0+1+511+1+0+1.633331+0+10+100+1+0%0A203+0+-60+54+574+54+2+6+15%0A)
-
-</div>
-
-<div class="flex-child-1" style="min-width: 300px; margin-bottom: -10px">
-
-![Doppelspalt](https://diversewolken.ddns.net/nextcloud/index.php/s/PWMnf2JX4xiXamx/download "Prinzipskizze des Doppelspalt-Experiments")
-
-</div>
-
-</section>
-
----
-
-> __Schlussfolgerung:__
->
-> Das Muster auf dem Schirm ist nur durch Beugung und Interferenz, d.h. also durch Wellenerscheinungen, erklärbar: <br> => @color(Licht besitzt Welleneigenschaften, orange).
-
----
-
-> __Eigenschaften von Lichtwellen:__
-
-<section class="flex-container">
-
-<div class="flex-child-1" style="min-width: 200px; margin-bottom: -10px">
-
-1. bei einer Lichtwelle schwingt das <span style="color:orange">***elektrische und das magnetische Feld.***</span>
-
-2. eine Lichtwelle benötigt @color(***kein Medium***, orange) (anders als z.B. Schall[Luft], Wasserwellen[Wasser]) zur Ausbreitung. 
-
-3. Licht ist eine @color(***Transversalwelle***, orange). 
-
-4. Das elektromagnetische Feld @color(***transportiert Energie***, orange).
-
-</div>
-
-<div class="flex-child-1" style="min-width: 200px; margin-bottom: -10px">
-
-5. Die Ausbreitungsgeschwindigkeit (Lichtgeschwindigkeit) im Vakuum beträgt 
-
-$$\boxed{c = 300.000 \dfrac{km}{s}}$$
-
-6. Für die Lichtgeschwindigkeit in einem Medium gilt:
-
-$$\boxed{c_{Medium} < 300.000 \dfrac{km}{s}}$$
-
-</div>
-
-<div class="flex-child-1" style="min-width: 200px; margin-bottom: -10px">
-
-6. Es gilt die Wellenausbreitungsgleichung: <br> $$ \boxed{c = \lambda \cdot f}$$ <br> Die Wellenlänge $\lambda$ der Lichtwelle bestimmt die <span style="color:orange">***Lichtfarbe***</span>.
-
-</div>
-
-</section>
-
-
 ## 10. 13. Bestimmung der Wellenlänge des Lichts am Doppelspalt
-
-<section class="flex-container">
-
-<div class="flex-child-3" style="min-width: 300px; margin-bottom: -10px">
-
-![Doppelspalt5](https://diversewolken.ddns.net/nextcloud/index.php/s/rR93K2CqrPDwTDR/download)<!-- style="width:100%" -->
-
-</div>
-
-<div class="flex-child-2" style="min-width: 300px; margin-bottom: -10px">
-
-1. Die Spalte haben den Abstand $\blue{d}$, der Schirm hat vom Spalt den Abstand $\blue{e}.$
-
-2. Im Punkt __A__ beobachten wir konstruktive Interferenz, wir nennen es @color(***Interferenz-Maximum***, orange). Dieses Maximum ergibt sich aus der Überlagerung der Elementarwellen aus den Spalten $s_1$ und $s_2$.
-
-3. Für konstruktive Interferenz muss der Gangunterschied $\purple{\Delta s}$ einem Vielfachen der Wellenlänge entsprechen. <br> $$ \purple{\Delta s= k \cdot \lambda} \hspace{1cm}\mathrm{mit}\,\,k=1,\,2,..$$
-
-4. Im rechtwinkligen Dreieck $\triangle S_1 S_2 P$ gilt:
-
-$$ \dfrac{\purple{\Delta s}}{\blue{d}} = \boxed{\dfrac{\purple{k\cdot\lambda}}{\blue{d}} = \sin(\alpha) }$$
-
-5. Im rechtwinkligen Dreieck $\triangle M O A$ gilt:
-
-$$ \boxed{\tan(\alpha) = \blue{\dfrac{a}{e}}}$$
-
-</div>
-
-</section>
-
-> Da wird die Größen $\blue{d,\,e}$ und $\blue{a}$ @color(__messen__, blue) können, lässt sich mit dem __Doppelspalt-Experiment__ die @color(Wellenlänge $\lambda$, purple) des Laserlichts bestimmen.
-
----
 
 ### Aufgaben zum Thema _Licht als Welle_
 
@@ -1404,64 +775,6 @@ Ein Winkel $\alpha$ von über 90° ist nicht beobachtbar. Überprüfen Sie, dem 
 </details>
 
 ## 10. 14. Interferenz am Beugungsgitter
-
-<section class="flex-container">
-
-<div class="flex-child-3" style="min-width: 300px; margin-bottom: -10px">
-
-![Gitter8](https://diversewolken.ddns.net/nextcloud/index.php/s/4igXLgZHtQ6nN6e/download)<!-- style="width:100%" -->
-
-</div>
-
-<div class="flex-child-2" style="min-width: 300px; margin-bottom: -10px">
-
-
-1. Es gelten die Formeln wie beim Doppelspalt
-
-$$ \boxed{ \sin(\alpha) = \dfrac{\purple{k\cdot\lambda}}{\blue{b}}  } \hspace{.5cm} \boxed{\tan(\alpha) = \blue{\dfrac{a}{e}}}$$
-
-2. Eigenschaften des Interferenzbildes am Gitter
-
-<p style="margin-left:5%">
-
-- Maxima sind schärfer abgegrenzt als beim Doppelspalt
-
-- zwischen den Maxima ist die Lichtintensität sehr gering (Auslöschung)
-
-</p>
-
-3. __Kleinwinkelnäherung__ <br> <br> Wenn der Beobachtungswinkel $\alpha \leq 5^\circ$  beträgt, dann gilt in guter Näherung $$ sin(\alpha) = \tan(\alpha)$$ und die Formeln (1.) vereinfachen sich zu $$ \boxed{\dfrac{\purple{k\cdot\lambda}}{\blue{b}} = \blue{\dfrac{a}{e}}} $$ wobei das Maximum $\purple{k}$-ter Ordnung betrachtet wird.
-
-</div>
-
-</section>
-
-### Experimentelle Aufgabe zum optischen Gitter
-
-<p style="color:blue">
-
-__Aufgabenstellung:__ 
-
-Ihnen wird ein optisches (Transmissions-)Gitter mit unbekannter Gitterkonstante $b$ ausgehändigt. Nutzen Sie das Experiment _Interferenz am optischen Gitter_ um die Gitterkonstante $b$ zu ermitteln.
-
-- Zeichnen Sie sich eine Skizze Ihres Versuchsaufbaus. Tragen Sie in Ihre Skizze die zum messenden Größen ein.
-
-- Notieren Sie die Berechnungsformeln zur Ermittlung der Gitterkonstante
-
-- Bestimmen Sie die Gitterkonstante für zwei Wellenlängen einfallenden Lichtes (roter und grüner Laser)
-
-- Notieren Sie sich Ihre Messwerte und überprüfen Sie die Übereinstimmung der ermittelten Gitterkonstante für die beiden Laserfarben
-
-</p>
-
-<p style='margin-left:10%'>
-
-__Ergebnis-Überprüfung:__
-
-@rangeQuiz20($g$,12.5e-6,m)
-
-</p>
-
 
 ### Abituraufgabe zum optischen Gitter
 
@@ -1744,33 +1057,7 @@ $$ \lambda_2 = 630\,\mathrm{nm} $$
 
 ## 10. 15. Interenz am Einzelspalt
 
-
-> -> [Interaktives-Video-LEIFI](https://www.leifiphysik.de/optik/beugung-und-interferenz/grundwissen/einzelspalt)
-
-<section class="flex-container">
-
-<div class="flex-child-2" style="min-width: 200px; margin-bottom: -10px">
-
-![Einzelspalt](https://diversewolken.ddns.net/nextcloud/index.php/s/obZ2NPnD2TyRds8/download)<!-- style="width:100%"-->
-
-</div>
-
-<div class="flex-child-1" style="min-width: 400px; margin-bottom: -10px">
-
-
-__Beschreibung:__ Beträgt der Gangunterschied $\Delta s$ zwischen den beiden Randstrahlen gerade $\lambda$, dann kann man zu jedem Strahl aus dem Lichtbündundel der @color(__einen Hälfte__, green) einen Strahl aus dem Bündel der @color(__anderen Hälfte__, purple) finden, dessen Gangunterschied gerade $\frac{\lambda}{2}$ beträgt.Es kommt folglich zu einer Auslöschung aller Wellen.
-
-> Für das **erste Minimum** gilt: $$ \boxed{\sin\alpha=\frac{\lambda}{d}}$$
->
-> Für das **erste Maximum** gilt: $$ \boxed{\sin\alpha=\frac{(2k+1)\frac{\lambda}{2}}{d}}$$ <br> _Hinweis: Die Nebenmaxima (d.h. $k\neq0$) sind beim Einzelspalt von sehr geringer Intensität._
-
-</div>
-
-</section>
-
 ## 10. 16. Intereferenz an dünnen Schichten
-
-[Lernvideo-Interferenz-Dünne-Schichten](https://www.leifiphysik.de/optik/beugung-und-interferenz/grundwissen/interferenz-duennen-schichten)
 
 ### Aufgaben zu Interferenz an dünnen Schichten
 
@@ -1802,45 +1089,11 @@ __Beschreibung:__ Beträgt der Gangunterschied $\Delta s$ zwischen den beiden Ra
 
 
 ## 10. 17. Polarisation von Licht
-
-[Experimentelle-Deutung-der-Polarisation](https://youtu.be/eYguAcvjN2o)
-
- 
  
 ## 10. 18. Das Spektrum elektromagnetischer Wellen
-
-![Wikipedia-Spektrum](https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Electromagnetic_spectrum_-de_c.svg/1920px-Electromagnetic_spectrum_-de_c.svg.png)
-
 
 <iframe src="https://learningapps.org/watch?v=pgqf50hd225" style="border:0px;width:100%;height:500px" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"></iframe>
 
 _Bitte anschließend stichpunktartig übernehmen_
 
 ## 10. 19. Interferometer
-
-<section class="flex-container">
-
-<div class="flex-child-1" style="min-width: 300px; margin-bottom: -10px">
-
-__Prinzipskizze:__
-
-![Skizze-Interferometer](https://diversewolken.ddns.net/nextcloud/index.php/s/wjbdfpxRgZ5n6jx/download "Interferometer nach dem klassischen Beispiel von _Michelson und Morley_.")
-
-</div>
-
-<div class="flex-child-1" style="min-width: 300px; margin-bottom: -10px">
-
-__Beschreibung:__
-
-
-> Interferometer sind Geräte, mit denen man Längenunterschiede sehr exakt bestimmen kann.
-
-> Das einfallende Licht wird durch einen halbdurchlässigen Spiegel geteilt und legt dann zwei Wege $s_1$ und $s_2$ zurück.
-
-> Das an den Spiegeln 1 und 2 reflektierte Licht gelangt zum Schirm. Der Gangunterschied $\Delta s = s_1 - s_2$ bewirkt eine Interferenz auf dem Schirm.
-
-
-</div>
-
-</section>
-

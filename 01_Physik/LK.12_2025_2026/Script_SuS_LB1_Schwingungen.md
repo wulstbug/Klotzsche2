@@ -190,37 +190,7 @@ icon:   https://diversewolken.ddns.net/klotzsche/logo.jpg
 
 ## 9. 1. (optional) Definition eines periodischen Vorgangs
 
-!?[Motivationsvideo](https://diversewolken.ddns.net/nextcloud/index.php/f/719652/downlaod)
-
-{{1}}
-************
-> Definition: Wir beobachten eine Größe $B$. Der Wert von B zum Zeitpunkt t wird mit $B(t)$ bezeichnet. Wir nennen B eine <span style="color:orange">***periodische Größe***</span>, wenn sich die Werte von B nach einer bestimmten Zeit T wiederholen.
-Es soll gelten:
-
-> $$ B(t) = B(t+T) $$ <br> _In Worten: Der Wert von B zum Zeitpunkt t ist genauso groß, wie der Wert von B zum Zeitpunkt t+T._
-
-> <span style="color:red">***T heißt Periodendauer ***</span> von B
-************
-
 ## 9. 2. Beschreibung einer mechanischen Schwingung
-
-{{1-2}}
-********
-??[Federschwinger](https://www.geogebra.org/m/g5vm3e2r)
-********
-
-{{2}}
-********
-
-Für eine mechanische Schwingung verwenden wir die physikalischen Größen _Momentanauslenkung_ ($y(t)$), Momentangeschwindigkeit ($v(t)$) und Momentanbeschleunigung ($a(t)$).
-
-Für eine @color(harmonische Schwingung, orange) gelten die Zusammenhänge:
-
-> $$y(t) = y_{max} \cdot \sin(\omega \cdot t)$$
->
-> $$v(t) = \frac{\mathrm{d}y}{\mathrm{d}t}$$
->
-> $$a(t) = \frac{\mathrm{d}v}{\mathrm{d}t}$$
 
 <p style="color:blue">
 
@@ -250,38 +220,6 @@ und $T$ ist die @color(Periodendauer, orange).
 ********
 
 ## 9. 3. Der Federschwinger (Beispiel 1)
-
-Beschreibung: Ein Massestück hängt an einer Feder, wird ausgelenkt und losgelassen.
-
-{{1-4}}
-********
-??[Federschwinger](https://www.geogebra.org/m/g5vm3e2r)
-********
-
-
-{{2}}
-********
-
-Annahmen:
-
-1. Die Feder schwinkt nach dem Hook'schen Gesetz, das heißt die rücktreibende Kraft $F$ ist proportional zur Auslenkung $y$. Der Proportionalitätsfaktor ist die Federkonstante $D$.
-
-$$ F = - D \cdot y $$
-
-2. Das System schwingt reibungsfrei.
-
-********
-
-{{3}}
-********
-> Unter den Vorraussetzungen 1. und 2. lässt sich die Periodendauer $T$ sich mit Hilfe der Formel
->
->$$ \boxed{T = 2\pi \sqrt{\dfrac{m}{D}}} $$
->
->berechnen. Hier ist $m$ die angehängte Masse. 
-
-********
-
 
 ### Aufgaben zu 9. 2./3. Schwingungen
 
@@ -352,86 +290,6 @@ __Am Beispiel des Federschwingers:__ <br> <br> ![Auslenkung-Federschwinger](http
 </p>
 
 ### Experimentierauftrag zu Federschwingern
-
-<p style="color:blue">
-
-Untersuchen Sie die Federkonstante eines Federschwingers mit einem (1.) statischen und einem (2.) dynamischen Ansatz.
-
-<details style="margin-left:10%">
-
-<summary> Foto Experiment </summary>
-
-![Foto-Experiment](https://diversewolken.ddns.net/nextcloud/index.php/s/NQsq6rKzrjDbLfr/download)
-
-</details>
-
-_Bemerkung:_
-
-1. als statischen Ansatz nutzen sie die Auslenkung einer mechanischen Feder beim Anhängen eines bekannten Massestücks
-
-2. als dynamischen Ansatz nutzen sie eine Schwingung und bestimmen Sie daraus die Federkonstante
-
----
-
-$\Rightarrow$ A) Überlegen Sie, wie Sie jerweils Experimente durchführen könnten. 
-
-$\Rightarrow$ B) Diskutieren Sie, welche Messgröße in Ihrem Setup die wesentliche Fehlerquelle ist. Schätzen Sie dazu den absoluten Fehler der Messung begründet ein.
-
-$\Rightarrow$ C) Überlegen Sie, wie auftretende Messfehler möglichest gering halten können. Schlagen Sie dazu geeignete Messungen vor und vermeiden Sie Aussagen wie: _Einfach genauer messen_.
-
----
-
-Vergleichen Sie Ihre Überlegungen hier.
-
-<details style="margin-left:10%">
-
-<summary> Hinweise zum 1. Experiment </summary>
-
-A) Mit Hilfe der Proportionalität zwischen Federdehnung $s$ und wirkender Kraft $F$ $$F=D \cdot s$$ lässt sich die Federkonstante D bestimmen. Dazu muss ein Massestück mit bekannter Masse $m$ genutzt werden. Die wirkende Kraft ist dann die Gewichtskraft $F_g$. Gemessen wird die Federdehnung $s$.
-
-B) Da die Masse $m$ als sehr genau bekannt angenommen werden kann, ist die wesentliche Fehlerquelle die Messung der Federdehnung $s$. Je nach Massband und Ablesemethode sollte man hier von einer Ungenauigkeit der Längenmessung von ca. 1-2mm ausgehen.
-
-C)  Ist die Federdehnung nur sehr gering (d.h. mit einer sehr kleinen Masse), so ist der relative Fehler deutlich größer. Je stärker sich die Feder dehnt, desto geringer ist die Auswirkung der Ungenauigkeit. @color(Achtung: Feder nicht überdehnen., red)
-
-</details>
-
-     ---
-
-<details style="margin-left:10%">
-
-<summary> Hinweise zum 2. Experiment </summary>
-
-A) Mit Hilfe einer Schwingung der Feder mit einem angehängten Massestück kann die Federkonstante bestimmt werden. Dazu muss die Schwingungsdauer $T$ ermittelt werden.
-
-B) Da die Masse $m$ als sehr genau bekannt angenommen werden kann, ist die wesentliche Fehlerquelle die Messung der Periodendauer $T$. Durch die Reaktionszeit des Menschen kann der zufällige Messfehler der Zeitmessung auf etwa $0,3s$ abgeschätzt werden.
-
-C) Misst man nur eine kurze Zeit (z.B. eine Schwingung), so wird der relative Fehler durch die Zeitmessung groß. Je länger die Zeitmessung ist, desto kleiner wird der relative zufällige Fehler (durch die Reaktionszeit). Es empfiehlt sich hier mehrere Schwingunen (z.B. $n=20-30$ Stück) zu messen. Der relative Fehler kann dann durch $n$ geteilt werden.
-
-</details>
-
----
-
-$\Rightarrow$ D) Führen Sie Ihre Messungen durch und dokumentieren Sie Ihre Messergebnisse adäquat.
-
-<p style="margin-left:10%">
-
-Näherungsweise Überprüfung des Messergebnisses
-
-@rangeQuiz20($D$,21.1,$\frac{N}{m}$)
-
-</p>
-
----
-
-$\Rightarrow$ E) Vergleichen Sie die Werte Ihrer Messergebnisse.
-
-
----
-
-$\Rightarrow$ F) Schätzen Sie für jede Ihrer Messungen den zufälligen Fehler ab. Vergleichen Sie die Größe beider Fehler miteinander. Schlussfolgern Sie daraus auf die Genauigkeit beider Messmethoden.
-
-</p>
-
 
 ### Theoretische Aufgabe zu Federschwingern
 
@@ -604,11 +462,6 @@ Hier ist nochmal die Verschiebung von $y(t)$, $v(t) und $a(t)$ in einem gemeinsa
 
 ## 9. 5. Das Fadenpendel
 
-![TB1](https://diversewolken.ddns.net/nextcloud/index.php/s/rnojn8pF2ZWsFaJ/download)
-
-![TB2](https://diversewolken.ddns.net/nextcloud/index.php/s/ayq4NXMCQMbc5Bt/download)
-
-
 ### Übung: Schwingungen ja/nein
 
 Entscheiden Sie für die folgenden Beispiele, ob es sich dabei um eine Schwingung (nach Definition handelt) oder nicht. Begründen Sie Ihre Aussage in jedem Fall.
@@ -741,197 +594,11 @@ Da die Birne allerdings um 34° ausgelenkt wird, gilt die @color(Kleinwinkelnäh
 
 ## 9. 6. Simulation eines Pendels (_ohne Kleinwinkelnäherung_)
 
-Für die Simulation einer Pendelschwingung mit der Länge 1m wird die Simulationssoftware Moebius verwendet
-
-__A. Formelgrundlage für die Simulation__
-
-> 1. Masse und Gewichtskraft
->
-> $$ F_g = m \cdot g $$
->
-> 2. Rücktreibende Kraft ($\varphi = \frac{x}{ℓ}$)
->
-> $$ F_r = - F_g \cdot \sin(\frac{x}{ℓ}) $$
->
-> 3. Newton'sche Bewegungsgesetze
-> 
-> $$ a = \frac{F}{m} $$
-
-
-__B. Hinweise zum Simulationscode__
-
-- Gleichung 1. können wir direkt verwenden
-
-- Gleichung 2. stellt die Rücktreibende Kraft bei der Auslenkung um den Winkel $\varphi$ dar
-
-- Gleichung 3. enthält die klassische Modellierung einer Bewegung (Geschwindigkeit und Ort müssen noch ergänzt werden)
-
-> @color(__Erstellen Sie aus diesen Gleichungen den Simulationscode.__, blue)
-
----
-
-<details style="margin-left:5%">
-
-<summary> Lösung Code </summary>
-
-``` 
-
-
-```
-
-</details>
-
----
-
-__C. Hinweise: Analyse der Anfangsbedingungen (t=0)__
-
-- die Masse kann hier mit 0,1 kg angenommen werden
-
-- die Pendellänge kann mit 1m angenommen werden
-
-- der Startwert für die Länge $x$ muss aus dem Startwinkel $\varphi$ berechnet werden
-
-
-__D. Überprüfung der Simulation__
-
-> Wählen Sie für Ihre erste Simulation einen kleinen Anfangswinkel $\varphi$ von $1^\circ$. Ermitteln Sie mit Hilfe Simulation die Periodendauer $T$ und vergleichen Sie Ihr Ergebnis mit dem Resultat für die Periodendauer aus 9.5 (_Kleinwinkelnäherung_)
-
-<details style="margin-left:5%">
-
-<summary> Lösung für $\varphi=1^\circ$ </summary>
-
-![Lsg_1Grad](https://diversewolken.ddns.net/nextcloud/index.php/s/q6izMWEkXY3tNWs/download)
-
-__Modellierung:__ Aus der Messwerttabelle und dem Diagramm lässt sich entnehmen, dass die Periodendauer $T=2s$ beträgt.
-
-__Formel:__ $T=2\pi\sqrt{\frac{ℓ}{g}}=2,006 s$ überein. 
-
-</details>
-
----
-
-__E. Analyse der Kleinwinkelnäherung__
-
-> Nutzen Sie nun Ihre Simulation um die Abweichung der Periodendauer in Kleinwinkelnäherung von der Periodendauer der Simulation zu untersuchen. Ermitteln Sie dazu die Periodendauern für Startwinkel 1-90° in sinnvollen Schritten. Tragen Sie in einem Diagramm die prozentuale Abweichung der Kleinwinkelnäherung von dem Simulationsergebnis auf. 
->
->Schätzen Sie an Ihrem Diagramm den Startwinkel $\Phi$ ab, bei welchem der Fehler 10% überschreitet.
->
-> @color(__Achtung: Dokumentieren Sie Ihre Simulationsergebnisse sinnvoll! Nutzen Sie z.B. eine Tabelle im Hefter oder am PC.__, red)
-
-
-<details style="margin-left:5%">
-
-<summary> Vergleichswerte </summary>
-
-20° -> Abweichung ca. 0,75%
-
-30° -> Abweichung ca. 1,7%
-
-</details>
-
-
-
-<details style="margin-left:5%">
-
-<summary> Diagramm </summary>
-
-
-
-</details>
-
-
 ## 9. 7. Gedämpfte Schwingung
-
-> Im folgenden soll eine Schwingung simuliert werden, bei der die Amplitude abnimmt. Speichere deine Simulation unter einem neuen Namen (z.B. Pendel-Daempfung) und versuche eine Reibungskraft in die Simulation einzufügen.
-
-??[Federschwinger](https://www.geogebra.org/m/g5vm3e2r)
-
-{{1}}
-**************
-Speichern Sie Ihr Programm unter einem neuen Namen. Verändern Sie Ihr Programm so, dass auf das Pendel eine konstante Reibungskraft wirkt.
-**************
-
-<details style="margin-left:5%">
-
-<summary> Hinweise </summary>
-
-Die Reibungskraft muss an den Bewegungszustand angepasst werden. Sie wirkt immer @color(entgegen,red) der Bewegungsrichtung.
-
-Nutzen Sie für die Ermittlung der Rückstellenden Kraft die IF .. THEN .. (Wenn ... Dann ..) Anweisung.
-
-<details style="margin-left:5%">
-
-<summary> Lösung </summary>
-
-Erfragen Sie Hilfe bei der Lehrkraft.
-
-</details>
-
-</details>
 
 ### Simulation zur gedämpften Schwingung
 
-> Aufgabenstellung: 
->
-> 1. Erstellen Sie ein Programm mit _Möbius_, welches eine Pendelschwingung der Länge 1 m und einer Anfangsauslenkung von 1° simuliert. 
->
-> 2. Erstellen Sie das s(t) Diagramm und laden Sie Ihre Simulation (__Dateiname anpassen__) [DateiAblage](https://diversewolken.ddns.net/nextcloud/index.php/s/5HEGHD6NCqSawyF) hoch. Lassen Sie sich die Simulation von der Lehrkraft ausdrucken.
->
-> 3. Fügen Sie nun eine konstante Reibungskraft in Ihrer Simulation derart ein, dass sich die Ampitude der Schwingung in jeder Periode um 5 % veringert. 
->
-> 4. Erstellen Sie das s(t) Diagramm und laden Sie Ihre Simulation (__neuer Dateiname!__) [DateiAblage](https://diversewolken.ddns.net/nextcloud/index.php/s/5HEGHD6NCqSawyF) hoch. Lassen Sie sich die Simulation der gedämpften Schwingung von der Lehrkraft ausdrucken.
->
-> 5. Berechnen Sie näherungsweise den prozentualen Anteil der Energie, der während einer Periode an die Umgebung angegeben wird.
-
----
-
-__Überprüfung:__
-
-<p style="margin-left:10%">
-
-@rangeQuiz2($F_{reib}$,0.0002,$N$)
-
-@rangeQuiz2($\dfrac{E_0-E_1}{E_0}$,10,$\%$)
-
-</p>
-
 ## 9. 8. Energieumwandlungen bei Schwingungen
-
-> Bei einer (mechanischen) Schwingung wird die in der Schwingung gespeicherte Energie periodisch zwischen verschiedenen Energieformen umgewandelt
-
-__Beispiel: Federschwinger__ (auftretende Energieformen)
-
-__Mechanische Energieformen:__
-
-- potentielle Energie (Lageenergie)     
-     -> $E_{pot} = m \cdot g \cdot h$
-
-- kinetische Energie (Bewegungsenergie)
-     -> $E_{kin} = \frac{1}{2}\cdot m \cdot v^2$
-
-- Spannenergie (Federdehnung)
-     -> $E_{sp} = \frac{1}{2} \cdot D \cdot s^2$
-
-__Reibung:__
-
-- Thermische Energie
-
----
-
-<p class="newspaper">
-
-> Bei einem @color(_idealen=reibungsfreien_,orange) Federschwinger ist die Summe aller mechanischer Energien konstant. Energie wird zwischen Lageenergie, Spannenergie und kinetischer Energie umgewandelt.
->
-> Bei einem realen Federschwinger wird ein Teil der Energie in thermische Energie umgewandelt. Die Amplitude der Schwingung sinkt mit der Zeit. Eine solche Schwingung nennt man @color(gedämpfte Schwingung, red).
-
-
-<p class="cb">
-
-![Graph-Gedaempfte-Schwingung](https://diversewolken.ddns.net/nextcloud/index.php/s/eLDW3kNxPrXWRBP/download "Beispiel einer gedämpften Schwingung mit schwacher Dämpfung") <!-- style="max-height:300px" -->
-
-</p>
-
-</p>
 
 ### Aussagen zur Gedämpften Schwingung
 
@@ -988,8 +655,6 @@ __Reibung:__
 
 <!-- data-solution-button="off" -->
 [[ (richtig) | falsch ]] 9. Bei einem gedämpften Federschwinger gilt der Energieerhaltungssatz.
-
-
 
 ### Übung Gedämpfte Schwingung
 
@@ -1156,73 +821,12 @@ $$ \boxed{t = 0,246s} $$
 
 ## 9. 9. Demonstrationsexperiment - Erzwungene Schwingung
 
-<p class="newspaper">
-
-__Foto:__
-
-![Demo-Erzwungene-Schwingung](https://diversewolken.ddns.net/nextcloud/index.php/s/H2s3ECYWkL9ygoc/download)<!-- style="max-height:400px"-->
-
-<p class="cb">
-
-__Skizze:__
-
-![Demo-Skizze](https://diversewolken.ddns.net/nextcloud/index.php/s/6dpA32wA3WayA5M/download)
-
-$f_0 = \frac{1}{T_0}$ (siehe _Experiment Federschwinger_)
-
-
-$f_0 = \frac{1}{0,4s}$ = 2,5 Hz
-
-
-</p>
-
-</p>
-
-__Messung:__
-
-Abhängigkeit der @color(Amplitude des Federpendels, blue) von der Erregerfrequenz $f_E$.
-
-<p style="margin-left:10%">
-__Beobachtung:__
-
-Die Amplitude des Federpendels steigt, je näher die @color(Erregerfrequenz $f_E$, green) der Eigenfrequenz $f_0$ des Systems kommt.
-</p>
-
-![Resonanz](https://diversewolken.ddns.net/nextcloud/index.php/s/iBAFKiD7Gs8faq9/download)
-
 ### Simulation zur erzwungenen Schwingung
 
 [LEIFI-Simulation-Erzwungene-Schwingung](https://www.leifiphysik.de/mechanik/kopplung-von-schwingungen/versuche/erzwungene-schwingung-eines-federpendels-simulation)
 
 
 ### Eigenschaften einer erzwungenen Schwingung
-
-
-> Bei einem schwingenden System kann eine @color(periodische äußere Anregung, red) dem System permanent Energie zuführen. Die äußere Anregung erfolgt dabei mit Erregerfrequenz $f_E$. Die Frequenz des frei schwingenden Systems wird als  @color(Eigenfrequenz, red) $f_0$ bezeichnet. Eine solche äußere Anregung nennt man @color(erzwungene Schwingung, red).
-
-> Es lassen sich folgende Grenzfälle beobachten
-
-> 1. Für $f_E \ll f_0$: Erregerfrequenz ist sehr viel kleiner als Eigenfreqenz: @color(__niederfrequenter Bereich__, red)
->
-> - Erreger und Schwinger haben beinahe die gleiche Amplitute.
->
-> - Erreger und Schwinger haben fast keinen Phasenunterschied $\Delta\varphi\approx 0$
-
-> 2. Für $f_E \approx f_0$: Erregerfrequenz ungefähr gleich der Eigenfreqenz: @color(__Resonanzfall__, red)
->
-> - Amplitude des Schwingers ist viel höher als die Amplitude des Erregers
->
-> - je nach Dämpfung des Schwingers kann dessen Amplitude viel größer werden, als die des Erregers
->
-> - der Erreger eilt dem Schwinger um die Phase  $\frac{\pi}{2}$ vorraus: $\Delta\varphi\approx \frac{\pi}{2}$
-
-> 3. Für $f_E \gg f_0$: Erregerfrequenz viel größer als Eigenfrequenz: @color(__hochfrequenter Bereich__, red)
->
-> - Amplitude des Schwingers ist wesentlich kleiner als die Amplitude des Erregers
->
-> - der Phasenunterschied zwischen Erreger und Schwinger beträgt fast $\pi$: $\Delta\varphi\approx \pi$
-
-
 
 ### (*) Quiz zu erzwungenen Schwingungen
 
@@ -1524,127 +1128,9 @@ $$ a(t) = \hat{a} \cdot \cos(\omega \cdot t) = 4,6m \cdot \cos(3.93 \frac{1}{s} 
 
 ## 9. 10. Grundlagen Elektromagnetischer Schwingkreis
 
-__Aufbau:__
-
-<p class="newspaper">
-
-> Elektromagnetische Schwingungen spielen in der modernen Elektronik eine entscheidende Rolle. Ein elektromagnetischer Schwingkreis besteht aus einer Parallelschaltung von einem __Kondensator (Kapazität $C$)__ und einer __Spule(Induktivität $L$)__. 
-
-{{2}}
-*********
-> _Hinweis: Der Kondensator kann durch einen Wechselschalter von einer Spannungsquelle aufgeladen werden._
-*********
-
-<p class="cb">
-
-{{1-2}}
-**********
-![Schaltkreis-Schwingkreis](https://diversewolken.ddns.net/nextcloud/index.php/s/geHrqMrBJmkFCo6/download)
-**********
-
-{{2}}
-**********
-![Schaltkreis-Schwingkreis](https://diversewolken.ddns.net/nextcloud/index.php/s/Wy3j3A8ekemEy3e/download)
-**********
-
-</p>
-
-</p>
-
-{{3}}
-**********
-      -> [Falstad-Simulation-AC-Circut](https://www.falstad.com/circuit/circuitjs.html?ctz=CQAgjCAMB0l3BWcMBMcUHYMGZIA4UA2ATmIxAUgoqoQFMBaMMAKCA)
-
-<p style="margin-left:10%">
-
-__Aufgaben:__
-
-1. Übernehmen Sie das Tafelbild
-
-2. Öffnen Sie die Simulation
-
-3. Stoppen Sie die Simulation mit dem Schalter Run/STOP
-
-4. Erstellen Sie mit Hilfe der Simulation einen idealen Schwingkreis (siehe Schaltkreis)
-
-<details style="margin-left:10%">
-
-<summary> Beispiel-Lösung </summary>
-
-![Lösung](https://diversewolken.ddns.net/nextcloud/index.php/s/kionyaX8epZXkeB/download)
-
-</details>
-
-4. Beobachten Sie die entstehende Schwingung in dem sie den Schalt auf Laden stellen, anschließend die Simulation starten und dann den Schwinkreis schließen
-
-5. Stellen Sie eine Vermutung auf, welche physikalische Eigenschaft/Einheit hier eine Schwingung durchführt
-
-6. Fügen Sie eine Messung hinzu. 
-
-__Shortcuts:__
-
-- Leertaste -> Auswählen
-
-- w -> Verbindung / Kabel
-
-- r -> Widerstand
-
-- L -> Spule
-
-- c -> Kondensator
-
-- v -> Spannungsquelle
-
-- S -> Wechselschalter
-
-</p>
-
-**********
-
 ## 9. 11. Herleitung der Periodendauer am idealen Schwingkreis
 
-![ThomsonSG-HL-1](https://diversewolken.ddns.net/nextcloud/index.php/s/bgB97f49sZ2dqLM/download)
-
-![ThomsonSG-HL-2](https://diversewolken.ddns.net/nextcloud/index.php/s/cod9taS83dYzocg/download)
-
-![ThomsonSG-HL-3](https://diversewolken.ddns.net/nextcloud/index.php/s/98Q3m4yFHzSeR76/download)
-
-![ThomsonSG-HL-4](https://diversewolken.ddns.net/nextcloud/index.php/s/sqaFGGczrS2F97f/download)
-
-
 ## 9. 12. Energiebetrachtungen am Schwingkreis
-
-__Energiebetrachtung__
-
-> In einem idealen Schwingkreis schwingt die Energie zwischen dem [[ elektrischen ]] Feld des Kondensators ([[ elektrische ]] Energie) und dem magnetischen Feld der Spule ([[ magnetische ]] Energie). Die Summe aus elektrischer und magnetischer Energie ist zu jedem Zeitpunkt [[ konstant ]].
-
-{{1}}
-**********
-<p class="newspaper">
-
-__Im Kondensator gespeicherte elektrische Energie__
-
-$\boxed{E_{el}(t) = \frac{1}{2} \cdot C \cdot U^2(t)}$
-
-<p class="cb">
-
-__Im Magnetfeld der Spule gespeicherte Energie__
-
-$\boxed{E_{mag}(t) = \frac{1}{2} \cdot L \cdot I^2(t)}$
-
-</p>
-
-</p>
-
-**********
-
-{{2}}
-**********
-__Idealer vs. realer Schwingkreis__
-
-Bei einem realen Schwingkreis wird der elektrische Widerstand der Kabel (z.B. der Spule) berücksichtigt. Die im Schwingkreis gespeicherte Energie wird nach und nach in Form von Wärme abgegeben.
-**********
-
 
 ### Abituraufgabe zum Schwingkreis (Abitur BY 2018 Ph11-1 A2)
 
@@ -1824,28 +1310,6 @@ Befindet sich eine Ware mit intaktem Sicherungsetikett in der Schleuse, so nimmt
 
 ## 9. 13. Simulation eines idealen Schwingkreises
 
-
-Für die Simulation eines idealen Schwingkreises wird die Simulationssoftware Moebius verwendet
-
-__A. Formelgrundlage für die Simulation__
-
-> 1. Spannung am Kondensator
->
-> $$ U_C = \frac{Q}{C} $$
->
-> 2. Maschenregel (Spannungsgleichheit an Kondensator und Spule)
->
-> $$ U_L = - U_C $$
->
-> 3. Spannung an einer Spule 
-> 
-> $$ U_L = L \cdot \frac{\mathrm{d}I}{\mathrm{d}t} $$
->
-> 4. Ladung und Stromstärke
-> 
-> $$ I = \frac{\mathrm{d}Q}{\mathrm{d}t} $$
-
-
 > @color(__Erstellen Sie aus diesen Gleichungen den Simulationscode. Nutzen Sie die Hinweise wenn nötig.__, blue)
 
 
@@ -1947,132 +1411,9 @@ Bei einem realen Schwingkreis wird der elektrische Widerstand $R$ des Kabels ber
 
 ## 9. 14. Berechnungen an einem schwach gedämpften Schwingkreis
 
-Für eine schwachte Dämpfung kann die Schwingung an einem gedämpften Schwingkreis mit der Formel:
-
-
-> $ Q(t) = \hat{Q} \cdot \cos(\omega\,t) \cdot e^{-\delta\,t} $
-
-
-in guter Näherung beschrieben werden. Hierbei beschreibt der Faktor $\delta$ die Dämpfung, hervorgerufen durch den elektrischen Widerstand $R$:
-
-> $ \delta = \frac{R}{2L}$
-
-Die (leicht veränderte) Kreisfrequenz $\omega$ für den schwach gedämpften Fall wird ermittelt mit
-
-> $ \omega = \sqrt{\omega_0^2-\delta^2}$ mit $\omega_0 = \sqrt{\frac{1}{L\cdot C}}$
-
-
----
-
-1. Erfragen Sie bei der Lehrkraft eine Spule und einen Kondensator. Ermitteln Sie folgende Werte anhand der Angaben auf den Bauelementen.
-
-<p style="margin-left:10%">
-
-@rangeQuiz2($C$,20e-6,F)
-
-@rangeQuiz2($R$,19,$\Omega$)
-
-</p>
-
-2. Die Spule wird mit einem O-förmigen Eisenkern genutzt. Der aufgedruckte Wert gilt allerdings ohne Eisenkern. Um die Induktivität zu ermitteln wurde an die Spule eine Wechselspannung mit Netzfrequenz angeschlossen. Dabei wurden folgende Werte für Spannung und Stromstärke ermittelt. <br><br> $U_\sim = 7\,\mathrm{V}$ <br> $I_\sim = 0,01\,\mathrm{A}$ <br> <br> Ermitteln Sie aus diesen Angaben die Induktivität der Spule mit O-förmigem Eisenkern. Ermitteln Sie ebenfalls die magnetische Permeabilität des Eisenkerns.
-
-<p style="margin-left:10%">
-
-@rangeQuiz2($L$, 2.23 ,H)
-
-@rangeQuiz2($\mu_r$, 97 , .)
-
-</p>
-
-<details style="margin-left:10%">
-
-<summary> Hinweis Induktivität </summary>
-
-Nutzen Sie die Formel für den Wechselstromwiderstand $Z$ einer Spule in einem Wechselstromkreis (s. Kapitel 8.1.4).
-
-</details>
-
----
-
-4. Weiterhin wird eine Ladespannung gegeben: <br><br> $U_0 = 7\,\mathrm{V}$ <br><br> Ermitteln Sie aus den gegebenen Werten die folgenden Größen der Schwingung.
-
-<p style="margin-left:10%">
-
-@rangeQuiz2($\hat{Q}$,0.00014,C)
-
-@rangeQuiz2($T$, 41.96e-3 ,s)
-
-@rangeQuiz2($\omega_0$,149.73,$\mathrm{\frac{1}{s}}$)
-
-@rangeQuiz2($\delta$,4.27,$\mathrm{\frac{1}{s}}$)
-
-_Hinweis: Für eine schwache Dämpfung, wie es in diesem Beispiel der Fall ist, gilt $\omega\approx\omega_0$._
-
-</p>
-
----
-
-
-5. Geben Sie die ermittelten Werte in Ihre Simulation ein. Lassen Sie sich den $U(t)$-Graph am Kondensator für das Zeitintervall 0-100ms ausgeben. <br> Wählen Sie $\mathrm{d}t$ so, dass sie 10'000 Zeitschritte simulieren. <br> Erstellen Sie ein PDF Dokument aus Ihrer Simulation, benennen Sie das PDF um und laden Sie Ihr Simulationsergebnis [hier hoch](https://diversewolken.ddns.net/nextcloud/index.php/s/z89P4CzGHWXjaHt). <br> @color(Lassen Sie sich Ihre Ergebnis ausdrucken und fügen Sie die Simulation Ihren Unterlagen hinzu., blue)
-
-
-<details style="margin-left:10%">
-
-<summary> Lösung </summary>
-
-![LösungSimulation](https://diversewolken.ddns.net/nextcloud/index.php/s/kX7qNxFqGTkM8i7/download)
-</details>
-
-
----
-
-6. (*)Zeichnen Sie mit Geogebra die Funktion $U(t)$ mit den gegebenen Werten. Vergleichen Sie die mathematische Beschreibung mit der Simulation. <br> <br> [Geogebra-U(t)](https://www.geogebra.org/classic/c66r2prv)
-
 ## 9. 15. Experiment: Schwach gedämpfter Schwingkreis
 
-<p style="color:blue">
-
-Nehmen Sie experimentell die Spannungsfunktion $U(t)$ für einen gedämpften Schwingkreis auf. <br> <br> __Machen Sie sich zu Ihrem Experiment Notizen.__ <br> <br>
-
-</p>
-
-1. Bauen Sie den Schaltkreis anhand des Schaltplans auf. <br> ![Schaltkreis-Schwingkreis](https://diversewolken.ddns.net/nextcloud/index.php/s/Wy3j3A8ekemEy3e/download)
-
-2. Ergänzen Sie das Cassy-Messgerät zur Bestimmung der Spannungsfunktion. <br> @color(Lassen Sie sich Ihren Schaltkreis abnehmen., red)
-
-3. Verbinden Sie einen Laptop mit dem WLan des Cassy-Messgerätes.
-
-3. Entnehmen Sie aus Ihrer Simulation die gesamte Messzeit. Stellen Sie die Messzeit ein und wählen Sie ebenfalls ein sinnvolles Messintervall und eine sinnvolle Triggereinstellung zum Start der Messung.
-
-4. Nehmen Sie mit Hilfe des Cassy-Messgerätes die gedämpfte Schwingung auf.
-
-5. Erstellen Sie ein PDF aus Ihrer Messung und benennen Sie das PDF mit Ihrem Namen. Laden Sie das PDF [hier hoch](https://diversewolken.ddns.net/nextcloud/index.php/s/z89P4CzGHWXjaHt) (Laptop muss mit dem Internet verbunden werden). <br> @color(Lassen Sie sich Ihre Ergebnis ausdrucken und fügen Sie Ihr experimentelles Ergebnis Ihren Unterlagen hinzu., blue).
-
-6. Vergleichen Sie die Simulation mit der Messung.
-
 ## 9. 16 Vergleich von Simulation und Experiment - Gedämpfter Schwingkreis
-
-<p class="newspaper">
-
-__Messung__
-
-![U-t-Messung](https://diversewolken.ddns.net/nextcloud/index.php/s/a4aQqEHPEXq8Gok/download)
-
-<p class="cb">
-
-__Simulation__
-
-![U-t-Simulation](https://diversewolken.ddns.net/nextcloud/index.php/s/RiZ6J7HssJfMff9/download)
-
-</p>
-
-</p>
-
-__Vergleich:__
-
-__Ursachen:__
-
-__Physikalische Begrüdung:__
 
 ### Übung Schwach Gedämpfter Schwingkreis (LEIFI)
 
