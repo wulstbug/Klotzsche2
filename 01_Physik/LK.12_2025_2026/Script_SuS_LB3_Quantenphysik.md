@@ -341,9 +341,15 @@ __Messwerte:__
 | 546 | 4.49 | | |
 | 577 | 5.20 | | |
 
-@color(_Bereite die Tabelle vor. Ermittle bereits die zugehörigen Frequenzen._, blue)
+<p style="color:blue">
+0. _Bereite die Tabelle vor. Ermittle bereits die zugehörigen Frequenzen._
 
+1. _Ergänze die gemessenen Daten $U_g$ für die verschiedenen Wellenlängen und berechne $E_{kin}$._ 
 
+2. _Zeichne ein Diagramm der $E_{kin}(f)$._
+
+3. _Zeichne eine geeignete Ausgleichsgerade und ermittle den Anstieg $h = \frac{\Delta E_{kin}}{\Delta f}$._
+</p>
 
 ## 11. 4. Energie, Masse und Impuls von Photonen
 
