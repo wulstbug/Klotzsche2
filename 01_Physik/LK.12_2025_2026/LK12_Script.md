@@ -4499,9 +4499,14 @@ __Beschreibung:__
 
 <div class="flex-child-1" style="min-width: 300px; margin-bottom: -10px">
 
-{{1}}
+{{1-8}}
 ***********
 ??[Simulation-Photoeffekt](https://phet.colorado.edu/sims/cheerpj/photoelectric/latest/photoelectric.html?simulation=photoelectric&locale=de)
+***********
+
+{{1-8}}
+***********
+![Skizze-Photoeffekt](https://diversewolken.ddns.net/nextcloud/index.php/s/zL6DpdmEcFEiAJA/download)
 ***********
 
 </div>
@@ -4524,7 +4529,7 @@ __Beschreibung:__
 *********
  __Beobachtung:__
 
- 1. Bestrahlt man die Elektrode mit Licht einer niedrigen Wellenlänge, kann man zwischen den Elektroden keinen Strom messen, @color(egal wie hoch die Lichtintensität, red) (d.h. wie hell die Lampe) ist.
+ 1. Bestrahlt man die Elektrode mit Licht einer großen Wellenlänge, kann man zwischen den Elektroden keinen Strom messen, @color(egal wie hoch die Lichtintensität, red) (d.h. wie hell die Lampe) ist.
 *********
 
 {{4}}
