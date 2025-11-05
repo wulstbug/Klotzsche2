@@ -4616,12 +4616,12 @@ __Beschreibung:__
 
 {{4}}
 **********
-- legt man zwischen Kathode und Anode eine __Gegenspannung__ $U_g$ an, so werden die Elektronen durch $U_g$ abgebremst, sie erhalten durch die Spannung die kinetische Energie $U \cdot e$ ($e$ .. Elementarladung)
+- legt man zwischen Kathode und Anode eine __Gegenspannung__ $U_g$ an, so werden die Elektronen durch $U_g$ abgebremst, sie erhalten durch die Spannung die kinetische Energie $U_g \cdot e$ ($e$ .. Elementarladung)
 **********
 
 {{5}}
 **********
-- wählt man $U_g$ gerade so groß, dass kein Strom mehr zwischen Kathode und Anode fließt, so entspricht die zugeführte Energie $U\cdot e$ gerade der kinetischen Energie der Elektronen
+- wählt man $U_g$ gerade so groß, dass kein Strom mehr zwischen Kathode und Anode fließt, so entspricht die zugeführte Energie $U_g \cdot e$ gerade der maximalen kinetischen Energie der Elektronen
 **********
 
 </div>
@@ -4634,11 +4634,11 @@ __Messwerte:__
 
 | | | |
 | $\lambda$ in nm | $f$ in $10^{14}\,$Hz | $U_g$ in V | $E_{kin}=U\cdot e$ in eV |
-| 365 | | |
-| 405 | | |
-| 436 | | |
-| 546 | | |
-| 577 | | |
+| 365 | | | |
+| 405 | | | |
+| 436 | | | |
+| 546 | | | |
+| 577 | | | |
 
 @color(_Bereite die Tabelle vor. Ermittle bereits die zugehörigen Frequenzen._, blue)
 **********
