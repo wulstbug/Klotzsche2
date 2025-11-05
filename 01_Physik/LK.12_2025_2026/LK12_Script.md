@@ -4431,7 +4431,7 @@ __Beschreibung:__
 
 !?[Wie funktioniert Quantenmechanik? Quantenphysik erklärt Teil 1 | Harald Lesch | Terra X Lesch & Co](https://www.youtube.com/watch?v=cWf1OUVUObw)
 
-## Einführende Überlegungen
+## 11. 0. Einführende Überlegungen zur Quantenmechanik
 
 1. Die Abgabe von Energie erfolgt immer in Energiepaketen (in __Quantisierter Form__).
 
@@ -4491,7 +4491,7 @@ __Beschreibung:__
 > <H4>Quantenmechanische Deutung: So lange wir nicht nachgesehen (d.h. gemessen) haben, ist sie lebendig und tot gleichzeitig.</H4>
 ************
 
-## 11. 2. Der äußere lichtelektrische Effekt (Photoeffekt)
+## 11. 2. Experiment: Der äußere lichtelektrische Effekt (Photoeffekt)
 
 > <H4>Experiment nach Albert Einstein (1905)</H4>
 
@@ -4529,20 +4529,128 @@ __Beschreibung:__
 
 {{4}}
 *********
- 2. Verringert man hingegen die Wellenlänge, so werden unterhalb einer bestimmten Wellenlänge @color(Elektronen aus dem Material emmitiert, red). Man kann einen Stromfluss messen.
+ 2. Verringert man hingegen die Wellenlänge (erhöht die Frequenz), so werden unterhalb einer bestimmten Wellenlänge @color(Elektronen aus dem Material emmitiert, red). Man kann einen Stromfluss messen.
 *********
 
 {{5}} 
 *********
- 3. Erhöht man jetzt die Intensität, so erhöht sich die Anzahl der emmitierten Elektronen.
+ 3. Erhöht man jetzt die @color(Intensität, blue), so erhöht sich die @color(Anzahl der emmitierten Elektronen, blue).
 *********
 
 {{6}}
 *********
- 4. Verringert man die Wellenlänge weiter, so erhöht sich die maximale Geschwindigkeit der Elektronen.
+ 4. Verringert man @color(die Wellenlänge, red) (erhöht @color(die Frequenz, red)) weiter, so erhöht sich die @color(kinetische Energie der Elektronen, red).
 *********
-
 
 </div>
 
 </section>
+
+{{7}}
+*********
+> __Schlussfolgerung:__
+
+{{8}}
+*********
+> 1. Ob überhaupt Elektronen aus dem Material herausgelöst werden, hängt nicht von der Lichtintensität ab, sondern von der Wellenlänge/Frequenz. Es existiert eine Grenzwellenlänge/Grenzfrequenz.
+*********
+
+{{9}}
+*********
+> 2. Da die Elektronen kinetische Energie erhalten, muss das @color(einfallende Licht Energie auf die Elektronen übertragen, red).
+*********
+
+{{10}}
+*********
+> 3. Da die Elektronen eine größere kinetische Energie erhalten, je kleiner die Wellenlänge ist, muss die @color(Energie des Lichts mit sinkender Wellenlänge/wachsender Frequenz steigen, red).
+*********
+
+{{11}}
+*********
+> 4. Nehmen wir an, dass @color(Energie in Paketen übertragen wird, red) (siehe Grundannahmen), trägt das Licht quantisierte Energiepakete (wir nennen sie Photonen), deren Energie von der Wellenlänge/Frequenz abhängt.
+*********
+
+{{12}}
+*********
+> @color(Wie ist der Zusammenhang von Wellenlänge/Frequenz und Energie?, blue)
+************
+
+*********
+
+## 11. 3. Die Gegenfeldmethode beim Photoeffekt
+
+<section class="flex-container">
+
+<div class="flex-child-1" style="min-width: 300px; margin-bottom: -10px">
+
+__Versuchsaufbau:__
+
+![Gegenfeldmethode-Skizze](https://diversewolken.ddns.net/nextcloud/index.php/s/w3iQGHQEGejyTt8/download)
+
+</div>
+
+<div class="flex-child-1" style="min-width: 300px; margin-bottom: -10px">
+
+__Beschreibung:__
+
+
+{{1}}
+**********
+- eine Metallelektrode (Kathode) wird mit monochromatischem Licht beleuchtet
+**********
+
+{{2}}
+**********
+- werden Elektronen aus dem Metall herausgelöst, so erhalten sie eine kinetische Energie $E_{kin}$
+**********
+
+{{3}}
+**********
+- aufgrund der emitierten Elektronen kann man zwischen Kathode und Anode einen elektrischen Stromfluss $I$ beobachten
+**********
+
+{{4}}
+**********
+- legt man zwischen Kathode und Anode eine __Gegenspannung__ $U_g$ an, so werden die Elektronen durch $U_g$ abgebremst, sie erhalten durch die Spannung die kinetische Energie $U \cdot e$ ($e$ .. Elementarladung)
+**********
+
+{{5}}
+**********
+- wählt man $U_g$ gerade so groß, dass kein Strom mehr zwischen Kathode und Anode fließt, so entspricht die zugeführte Energie $U\cdot e$ gerade der kinetischen Energie der Elektronen
+**********
+
+</div>
+
+</section>
+
+{{6}}
+**********
+__Messwerte:__
+
+| | | |
+| $\lambda$ in nm | $f$ in $10^{14}\,$Hz | $U_g$ in V | $E_{kin}=U\cdot e$ in eV |
+| 365 | | |
+| 405 | | |
+| 436 | | |
+| 546 | | |
+| 577 | | |
+
+@color(_Bereite die Tabelle vor. Ermittle bereits die zugehörigen Frequenzen._, blue)
+**********
+
+## 11. 4. Energie, Masse und Impuls von Photonen
+
+{{1}}
+*********
+> Der äußere lichtelektrische Effekt legt nahe, dass das Licht auch Teilcheneigenschaften besitzt. 
+*********
+
+{{2}}
+*********
+> Wir nennen die Lichtteilchen @color(__Photonen__, blue). Jedes Photon trägt Energie mit sich, welche von seiner Frequenz bzw. Wellenlänge abhängt.
+*********
+
+{{3}}
+*********
+> Die Energie eines Photons
+*********
