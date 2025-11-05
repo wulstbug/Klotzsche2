@@ -334,11 +334,11 @@ __Beschreibung:__
 __Messwerte:__
 
 | | | |
-| $\lambda$ in nm | $f$ in $10^{14}\,$Hz | $U_g$ in V | $E_{kin}=U\cdot e$ in J |
-| 365 | | | |
-| 405 | | | |
-| 436 | | | |
-| 546 | | | |
-| 577 | | | |
+| $\lambda$ in nm | $f$ in $10^{14}\,$Hz | $U_g$ in V | $E_{kin}=U_g\cdot e$ in J |
+| 365 | 8.22 | | |
+| 405 | 7.41 | | |
+| 436 | 6.88 | | |
+| 546 | 4.49 | | |
+| 577 | 5.20 | | |
 
 @color(_Bereite die Tabelle vor. Ermittle bereits die zugehörigen Frequenzen._, blue)
