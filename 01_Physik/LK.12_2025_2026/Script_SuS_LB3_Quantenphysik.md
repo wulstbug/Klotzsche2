@@ -334,7 +334,7 @@ __Beschreibung:__
 __Messwerte:__
 
 | | | |
-| $\lambda$ in nm | $f$ in $10^{14}\,$Hz | $U_g$ in V | $E_{kin}=U_g\cdot e$ in J |
+| $\lambda$ in $\mathrm{nm}$  | $f$ in $10^{14}\,$$\mathrm{Hz}$  | $U_g$ in $\mathrm{V}$ | $E_{kin}=U_g\cdot e$ in $\mathrm{J}$ |
 | 365 | 8.22 | | |
 | 405 | 7.41 | | |
 | 436 | 6.88 | | |
