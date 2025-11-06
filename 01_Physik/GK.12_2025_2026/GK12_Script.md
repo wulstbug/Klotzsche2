@@ -2584,11 +2584,11 @@ Farbe: [[ rot | (violett) ]]
 Nutzen Sie die Wellenausbreitungsgleichung und die Lichtgeschwindigkeit im Vakuum um die Wellenlänge zu berechnen. 
 
 
-$$ \lambda_u = \frac{c}{f_o} = \frac{3\cdot 10^8\,\mathrm{m}}{3{,}747 \cdot 10^{14} \, \mathrm{Hz}} = 800,64\,\mathrm{nm}$$
+$$ \lambda_u = \frac{c}{f_u} = \frac{3\cdot 10^8\,\mathrm{\frac{m}{s}}}{3{,}747 \cdot 10^{14} \, \mathrm{Hz}} = 800,64\,\mathrm{nm}$$
 
 und
 
-$$ \lambda_o = \frac{c}{f_o} = \frac{3\cdot 10^8\,\mathrm{m}}{7{,}495 \cdot 10^{14} \, \mathrm{Hz}} = 400,27\,\mathrm{nm}$$
+$$ \lambda_o = \frac{c}{f_o} = \frac{3\cdot 10^8\,\mathrm{\frac{m}{s}}}{7{,}495 \cdot 10^{14} \, \mathrm{Hz}} = 400,27\,\mathrm{nm}$$
 
 
 
@@ -2639,7 +2639,7 @@ Als Regel gilt: Wenn $\alpha<5^\circ$ kann die Kleinwinkelnäherung angewendet w
 
 <p style='margin-left:10%'>
 
-@rangeQuiz2($b$,8.041,µm ->Gitterkonstante)
+@rangeQuiz2($b$,4.02,µm ->Gitterkonstante)
 
 @rangeQuiz2($B$,0.103,m ->Breite des Spektrums)
 
