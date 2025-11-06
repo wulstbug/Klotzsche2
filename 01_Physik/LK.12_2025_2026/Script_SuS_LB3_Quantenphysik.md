@@ -369,7 +369,7 @@ _Nutzt man die Äquivalenz aus Masse und Energie  $E = m \cdot c^2$ der speziell
 
 > __Die Masse__ eines Photons
 >
-> $$ \boxed{m_{ph} = \frac{E_{ph}}{c^2} = \frac{h \cdot f}{c} = \frac{h}{c\cdot \lambda}} $$
+> $$ \boxed{m_{ph} = \frac{E_{ph}}{c^2} = \frac{h \cdot f}{c^2} = \frac{h}{c\cdot \lambda}} $$
 
 
 _Das bewegte massebehaftete Objekte einen Impuls $p = m \cdot v$ besitzen, können wir einen Photonenimpuls berechnen zu_
