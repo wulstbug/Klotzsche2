@@ -2328,7 +2328,7 @@ Als Regel gilt: Wenn $\alpha<5^\circ$ kann die Kleinwinkelnäherung angewendet w
 
 <p style='margin-left:10%'>
 
-@rangeQuiz2($b$,8.041,µm ->Gitterkonstante)
+@rangeQuiz2($b$,4.02,µm ->Gitterkonstante)
 
 @rangeQuiz2($B$,0.103,m ->Breite des Spektrums)
 
