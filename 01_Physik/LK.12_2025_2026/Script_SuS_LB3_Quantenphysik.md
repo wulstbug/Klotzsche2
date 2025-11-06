@@ -409,14 +409,13 @@ __bzw. in Elektronenvolt__
 
 ### Übungsaufgaben zum Photoeffekt
 
-1. Kennzeichnen Sie wahre Aussagen zum äußeren lichtelektrischen Effekt.
+1. Kennzeichnen Sie wahre Aussagen, wenn der äußere lichtelektrische Effekt.
 
 <p style="margin-left:5%">
 
 [[x]] Je kurzwelliger das Licht, je besser werden Elektronen aus der Katode gelöst
 [[ ]] Wird die Intensität des Lichts verstärkt, erhöht sich die Geschwindigkeit der herausgelösten Elektronen.
 [[x]] Die Energie des Lichtes ist von der Frequenz abhängig.
-[[x]] Das Katodenmaterial muss immer ein Metall sein.
 [[ ]] Die Grenzfrequenz hängt vom Licht ab.
 [[ ]] Das Plancksche Wirkungsquantum hängt vom verwendeten Katodenmaterial ab.
 

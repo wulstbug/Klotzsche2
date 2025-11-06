@@ -38,7 +38,7 @@ icon:   https://diversewolken.ddns.net/klotzsche/logo.jpg
 | Art | Termin | Bemerkungen |
 | 1. Sonstige (LK) | 04.09. | 4. Woche |
 | 1. Klausur| 25.09. | 7. Woche |
-| 2. Sonstige (evtl. Prakt.) | 11./12. Woche | Einzelarbeit |
+| 2. Prakt/Theorie | 20.11. | Einzelarbeit |
 | 2. Klausur| 04.12. | 15. Woche | 
 </p>
 
