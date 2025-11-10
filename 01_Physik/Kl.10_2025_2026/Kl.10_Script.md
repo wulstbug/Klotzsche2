@@ -1749,6 +1749,10 @@ __Beantworte die Fragen und notiere eine Begründung.__
 </section>
 
 
+### Übung: Vergleich Fadenpendel - Federpendel
+
+??[Lösungen](https://diversewolken.ddns.net/nextcloud/index.php/s/6ftRHaE6kYmoa6K)
+
 ### Beispiel: Hemmungspendel (Galilei-Pendel) [AB]
 
 > __Beschreibung:__ Ein Fadenpendel ist an einem Strick aufgehängt und ein Hindernis wird mittig installiert, sodass das Fadenpendel auf der einen Seite mit einer verkürzten Fadenlänge schwingt.
@@ -1829,6 +1833,7 @@ __Beantworte die Fragen und notiere eine Begründung.__
 </div>
 
 </section>
+
 
 ## 2. 6. Erzwungene Schwingungen und Resonanz
 
