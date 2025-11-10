@@ -1994,7 +1994,7 @@ _Hinweis: Die Eigenfrequenz $f_0$ entpricht dem frei schwingenden System ohne ä
 
 <iframe src="https://learningapps.org/watch?app=15784046" style="border:0px;width:100%;height:500px" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"></iframe>
 
-## Übungsaufgaben zu Schwingungen
+### Übungsaufgaben zu Schwingungen
 
 <iframe src="https://learningapps.org/watch?app=17778381" style="border:0px;width:100%;height:500px" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"></iframe>
 
@@ -2006,6 +2006,121 @@ _Hinweis: Die Eigenfrequenz $f_0$ entpricht dem frei schwingenden System ohne ä
 
 <iframe src="https://learningapps.org/watch?app=4316402" style="border:0px;width:100%;height:500px" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"></iframe>
 
-# Mechanische Wellen
+# LB II - Mechanische Wellen
 
+{{0-1}}
+*************
 ![MechanischeWellen](https://diversewolken.ddns.net/nextcloud/index.php/s/WqqAQR3Xk4gkpNG/download)
+*************
+
+{{1-2}}
+*************
+!?[Binogi-Wellen](https://app.binogi.de/l/wellen)
+*************
+
+{{2-3}}
+*************
+<iframe src="https://www.geogebra.org/classic/sn4xvwsj?embed" width="100%" height="600" allowfullscreen style="border: 1px solid #e4e4e4;border-radius: 4px;" frameborder="0"></iframe>
+*************
+
+
+## 2. 7. Mechanische Wellen - Definition
+
+> Eine @color(mechanische Welle, orange) ist die Ausbreitung einer mechanischen Schwingung von einem Ort im Raum zu einem anderen. 
+>
+>> Sie ist eine zeitlich __und räumlich__ periodische Änderung physikalischer Größen
+>
+> - Vorraussetzung sind miteinander __gekoppelte Schwinger__
+>
+> - eine Welle transportiert __Energie aber keine Masse__
+>
+> - die einzelnen schwingenden Teilchen bewegen sich ausschließlich um ihre Gleichgewichtslage
+
+## 2. 7. Arten mechanischer Wellen
+
+<section class="flex-container">
+
+<div class="flex-child-1" style="min-width: 200px; margin-bottom: -10px">
+
+__Längswellen (Longitudinalwellen)__
+
+</div>
+
+<div class="flex-child-1" style="min-width: 200px; margin-bottom: -10px">
+
+__Querwellen (Transversalwellen)__
+
+</div>
+
+<div class="flex-child-1" style="min-width: 200px; margin-bottom: -10px">
+
+__Oberflächenwellen__
+
+</div>
+
+</section>
+
+---
+
+<section class="flex-container">
+
+<div class="flex-child-1" style="min-width: 200px; margin-bottom: -10px">
+
+__Beispiel:__ Schallwellen
+
+</div>
+
+<div class="flex-child-1" style="min-width: 200px; margin-bottom: -10px">
+
+__Beispiel:__ Seilwellen, Erdbebenwellen
+
+</div>
+
+<div class="flex-child-1" style="min-width: 200px; margin-bottom: -10px">
+
+__Beispiel:__ Wasserwellen
+
+</div>
+
+</section>
+
+---
+
+<section class="flex-container">
+
+<div class="flex-child-1" style="min-width: 200px; margin-bottom: -10px">
+
+> Schwingungsrichtung und Ausbreitungsrichtung verlaufen senkrecht zueinander
+
+</div>
+
+<div class="flex-child-1" style="min-width: 200px; margin-bottom: -10px">
+
+> Schwingungsrichtung und Ausbreitungsrichtung stimmen überein.
+
+</div>
+
+<div class="flex-child-1" style="min-width: 200px; margin-bottom: -10px">
+
+> Teilchen führen kreisförmige Bewegung aus. Es wirken Kohäsionskräfte (Oberflächenspannung) und die Schwerkraft
+
+</div>
+
+</section>
+
+---
+
+<p style="color:blue">
+
+__Beobachtungsauftrag:__
+
+1. Betrachten Sie die laufende Welle. Wechseln Sie zwischen Transversalwelle und Logitudinalwelle und beobachten Sie die Schwingung der Teilchen.
+
+2. Ändern Sie die Amplitude und beobachten Sie die Welle. 
+
+3. Verschieben Sie den Schieberegler ganz nach rechts und betrachten Sie die eingefrorene Welle.
+
+<iframe src="https://www.geogebra.org/classic/cdyxv6pt?embed" width="100%" height="600" allowfullscreen style="border: 1px solid #e4e4e4;border-radius: 4px;" frameborder="0"></iframe>
+
+</p>
+
