@@ -4926,3 +4926,23 @@ Im Jahr 1924 schlug der französche Physiker _Victor Louis de Broglie_ vor, jede
 Für das Doppelspaltexperiment mit Elektronen (Experiment von Jönsson 1957) ergab sich auf dem Schirm ein ähnliches Bild wie bei Licht:
 
 ![Schema-Doppelspalt](https://diversewolken.ddns.net/nextcloud/index.php/s/F7g83jD4FLA9eZW/download)
+
+### Aufgaben zum Welle-Teilchen-Dualismus
+
+1. Ein Mensch kann mit dem Auge grünes Licht (550 nm) wahrnehmen, wenn auf die Netzhaut eine Lichtleistung von $1,7\cdot10^{-18}W$ trifft. Ermitteln Sie die Anzahl von Photonen, die notendig sind, damit diese Bedingung erfüllt ist.
+
+---
+
+2. Licht mit einer Wellenlänge von 400 nm löst aus einem Metall Elektronen mit einer Maximalenergie von $1,8\,\mathrm{eV}$ heraus. Berechnen Sie die Austrittsarbeit für das Metall, sowie die Grenzfrequenz.
+
+---
+
+3. Ruhende Protonen werden durch eine Spannung von $200\,\mathrm{kV}$ beschleunigt. 
+
+3. 1. Ermitteln Sie die kinetische Energie der Protonen in der Einheit J und in der Einheit eV.
+
+3. 2. Ermitteln Sie die Wellenlänge dieser Protonen.
+
+---
+
+4. Duden S. 472 Aufgabe 22
