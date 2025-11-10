@@ -1699,6 +1699,137 @@ Ermittle aus dem Video die Periodendauer. Bestimme anschließend die Pendelläng
 </p>
 
 
+### Beispiel: Hemmungspendel (Galilei-Pendel)
+
+> __Beschreibung:__ Ein Fadenpendel ist an einem Strick aufgehängt und ein Hindernis wird mittig installiert, sodass das Fadenpendel auf der einen Seite mit einer verkürzten Fadenlänge schwingt.
+
+<section class="flex-container">
+
+<div class="flex-child-2" style="min-width: 400px; margin-bottom: -10px">
+
+![Hemmungspendel](https://www.leifiphysik.de/sites/default/files/2020/03/image/Hemmungspendel_Aufbau_0.svg "Aufbau eines Hemmungspendels (Quelle: [LEIFI-Physik](https://www.leifiphysik.de/mechanik/mechanische-schwingungen/ausblick/hemmungspendel-galilei-pendel))") <!-- style="width:100%"-->
+
+</div>
+
+<div class="flex-child-3" style="min-width: 200px; margin-bottom: -10px">
+
+{{1}}
+*************
+__Beantworte die Fragen und notiere eine Begründung.__
+
+1. Ist das Hemmungspendel eine periodische Bewegung? [[ (ja) | nein ]]
+
+2. Ist das Hemmungspendel eine Schwingung? [[ (ja) | nein ]]
+
+3. Für die maximale Auslenkung des Pendels $\varphi$ zwischen der linken und der rechten Seite gilt: [[ links > rechts | links = rechts | links < rechts ]].
+
+4. Die Periodendauer $T$ des Pendels __mit Hindernis__ ist [[ kleiner als die Periodendauer ohne Hindernis. | gleich der Periodendauer ohne Hindernis. | größer als die Periodendauer ohne Hindernis. ]]
+
+5. Die Länge $l_1$ beträgt $1\,\mathrm{m}$. Die Periodendauer des Pendels __ohne__ Hindernis beträgt
+
+<p style='margin-left:10%'>
+
+@rangeQuiz2($T_{ohne}$,2,s)
+
+</p>
+
+6. Die Periodendauer des Pendels mit Hindernis
+
+<p style='margin-left:10%'>
+
+@rangeQuiz2($T_{mit}$,1.71,s)
+
+</p>
+
+*************
+
+
+</div>
+
+</section>
+
+
+### Beispiel: Hemmungspendel (Galilei-Pendel) [AB]
+
+> __Beschreibung:__ Ein Fadenpendel ist an einem Strick aufgehängt und ein Hindernis wird mittig installiert, sodass das Fadenpendel auf der einen Seite mit einer verkürzten Fadenlänge schwingt.
+
+<section class="flex-container">
+
+<div class="flex-child-1" style="min-width: 200px; margin-bottom: -10px">
+
+![Hemmungspendel](https://www.leifiphysik.de/sites/default/files/2020/03/image/Hemmungspendel_Aufbau_0.svg "Aufbau eines Hemmungspendels (Quelle: [LEIFI-Physik](https://www.leifiphysik.de/mechanik/mechanische-schwingungen/ausblick/hemmungspendel-galilei-pendel))") <!-- style="width:100%"-->
+
+</div>
+
+<div class="flex-child-1" style="min-width: 200px; margin-bottom: -10px">
+
+__Beantworte die Fragen und notiere eine Begründung.__
+
+1. Ist das Hemmungspendel eine periodische Bewegung? 
+
+<p style='margin-left:10%'>
+
+- [ ] ja
+- [ ] nein
+
+</p>
+
+
+2. Ist das Hemmungspendel eine Schwingung?
+
+<p style='margin-left:10%'>
+
+- [ ] ja
+- [ ] nein
+
+</p>
+
+3. Für die maximale Auslenkung des Pendels $\varphi$ zwischen der linken und der rechten Seite gilt:
+
+<p style='margin-left:10%'>
+
+- [ ] links > rechts
+- [ ] links = rechts
+- [ ] links < rechts
+
+</p>
+
+</div>
+
+<div class="flex-child-1" style="min-width: 200px; margin-bottom: -10px">
+
+4. Die Periodendauer $T$ des Pendels __mit Hindernis__ ist 
+
+<p style='margin-left:10%'>
+
+- [ ] kleiner als die Periodendauer ohne Hindernis.
+- [ ] gleich der Periodendauer ohne Hindernis
+- [ ] größer als die Periodendauer ohne Hindernis
+
+</p>
+
+5. Die Länge $l_1$ beträgt $1\,\mathrm{m}$. Die Periodendauer des Pendels __ohne__ Hindernis beträgt
+
+<p style='margin-left:10%'>
+
+@rangeQuiz2($T_{ohne}$,2,s)
+
+</p>
+
+6. Die Periodendauer des Pendels mit Hindernis
+
+<p style='margin-left:10%'>
+
+@rangeQuiz2($T_{mit}$,1.71,s)
+
+</p>
+
+
+
+</div>
+
+</section>
+
 ## 2. 6. Erzwungene Schwingungen und Resonanz
 
 {{0}}
