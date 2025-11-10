@@ -4937,12 +4937,12 @@ Für das Doppelspaltexperiment mit Elektronen (Experiment von Jönsson 1957) erg
 
 ---
 
-3. Ruhende Protonen werden durch eine Spannung von $200\,\mathrm{kV}$ beschleunigt. 
-
-3. 1. Ermitteln Sie die kinetische Energie der Protonen in der Einheit J und in der Einheit eV.
-
-3. 2. Ermitteln Sie die Wellenlänge dieser Protonen.
+3. Duden S. 471 Aufgabe 19
 
 ---
 
-4. Duden S. 472 Aufgabe 22
+4. Duden S. 471 Aufgabe 21
+
+---
+
+5. Duden S. 472 Aufgabe 22
