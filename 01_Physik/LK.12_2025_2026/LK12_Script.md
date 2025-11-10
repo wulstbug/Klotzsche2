@@ -4901,3 +4901,7 @@ Farbbezeichnung: [[ Infrarot ]]
 @rangeQuiz2($\lambda$,400,$\mathrm{nm}$)
 
 </p>
+
+## 11. 5. Elektroneninterferenz am Doppelspalt
+
+?![https://youtu.be/cWf1OUVUObw?t=493](LESCH-Quantenphysik-Teilchenwellen)
