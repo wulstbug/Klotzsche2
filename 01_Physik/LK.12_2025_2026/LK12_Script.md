@@ -4902,6 +4902,27 @@ Farbbezeichnung: [[ Infrarot ]]
 
 </p>
 
+### Welle -> Teilchen , Teilchen -> Welle
+
+> [LESCH-Quantenphysik-Teilchenwellen](https://youtu.be/cWf1OUVUObw?t=493)
+
 ## 11. 5. Elektroneninterferenz am Doppelspalt
 
-?![LESCH-Quantenphysik-Teilchenwellen](https://youtu.be/cWf1OUVUObw?t=493)
+> Ein Elektronenstrahl wird auf einen Doppelspalt (oder ein Gitter) gerichtet, dahinter befindet sich ein Schirm, der auftrefende Elektronen sichtbar macht. ([Anschauung](https://youtu.be/ZdO4ERBrgnw?t=225))
+
+{{1}}
+*******
+[Erklärungsvideo](https://youtu.be/M8MuyfjtUFU?t=39), [Anschauungsvideo](https://youtu.be/3ohjOltaO6Y?t=127)
+*******
+
+Im Jahr 1924 schlug der französche Physiker _Victor Louis de Broglie_ vor, jedem Teilchen eine Wellenlänge zuzuordnen, genannt __de Broglie Wellenlänge__
+
+> Die **_de-Bloglie_ Wellenlänge**
+>
+> $$ \boxed{\lambda = \frac{h}{p} = \frac{h}{m \cdot v}}$$
+>
+> wobei $m$->Teilchenmasse, $v$->Bewegungsgeschwindigkeit und $p$->Teilchenimpuls
+
+Für das Doppelspaltexperiment mit Elektronen (Experiment von Jönsson 1957) ergab sich auf dem Schirm ein ähnliches Bild wie bei Licht:
+
+![Schema-Doppelspalt](https://diversewolken.ddns.net/nextcloud/index.php/s/F7g83jD4FLA9eZW/download)
