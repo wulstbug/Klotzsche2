@@ -4915,6 +4915,8 @@ Farbbezeichnung: [[ Infrarot ]]
 [Erklärungsvideo](https://youtu.be/M8MuyfjtUFU?t=39), [Anschauungsvideo](https://youtu.be/3ohjOltaO6Y?t=127)
 *******
 
+{{2}}
+*******
 Im Jahr 1924 schlug der französche Physiker _Victor Louis de Broglie_ vor, jedem Teilchen eine Wellenlänge zuzuordnen, genannt __de Broglie Wellenlänge__
 
 > Die **_de-Bloglie_ Wellenlänge**
@@ -4922,18 +4924,22 @@ Im Jahr 1924 schlug der französche Physiker _Victor Louis de Broglie_ vor, jede
 > $$ \boxed{\lambda = \frac{h}{p} = \frac{h}{m \cdot v}}$$
 >
 > wobei $m$->Teilchenmasse, $v$->Bewegungsgeschwindigkeit und $p$->Teilchenimpuls
+*******
 
+{{3}}
+*******
 Für das Doppelspaltexperiment mit Elektronen (Experiment von Jönsson 1957) ergab sich auf dem Schirm ein ähnliches Bild wie bei Licht:
 
 ![Schema-Doppelspalt](https://diversewolken.ddns.net/nextcloud/index.php/s/F7g83jD4FLA9eZW/download)
+*******
 
 ### Aufgaben zum Welle-Teilchen-Dualismus
 
-1. Ein Mensch kann mit dem Auge grünes Licht (550 nm) wahrnehmen, wenn auf die Netzhaut eine Lichtleistung von $1,7\cdot10^{-18}W$ trifft. Ermitteln Sie die Anzahl von Photonen, die notendig sind, damit diese Bedingung erfüllt ist.
+1. Duden S. 469 Aufgabe 2
 
 ---
 
-2. Licht mit einer Wellenlänge von 400 nm löst aus einem Metall Elektronen mit einer Maximalenergie von $1,8\,\mathrm{eV}$ heraus. Berechnen Sie die Austrittsarbeit für das Metall, sowie die Grenzfrequenz.
+2. Duden S. 469 Aufgabe 4
 
 ---
 
