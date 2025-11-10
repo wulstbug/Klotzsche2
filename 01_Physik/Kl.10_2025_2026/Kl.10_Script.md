@@ -1699,6 +1699,38 @@ Ermittle aus dem Video die Periodendauer. Bestimme anschließend die Pendelläng
 </p>
 
 
+### Übung: Vergleich Fadenpendel - Federpendel
+
+{{0-1}}
+*****************
+<section class="flex-container">
+
+<div class="flex-child-1" style="min-width: 300px; margin-bottom: -10px">
+
+__Federpendel:__
+
+![Feder](https://diversewolken.ddns.net/nextcloud/index.php/s/tCfLndq4nrmkq2M/download)
+
+</div>
+
+<div class="flex-child-1" style="min-width: 300px; margin-bottom: -10px">
+
+__Fadenpendel:__
+
+![Pendel](https://diversewolken.ddns.net/nextcloud/index.php/s/FtrzR267SSwHHRW/download)
+
+</div>
+
+</section>
+*****************
+
+{{1}}
+*****************
+![Aufgabe](https://diversewolken.ddns.net/nextcloud/index.php/s/MLoX874wtWqrJo5/download)
+
+-> [Lösungen](https://diversewolken.ddns.net/nextcloud/index.php/s/6ftRHaE6kYmoa6K)
+*****************
+
 ### Beispiel: Hemmungspendel (Galilei-Pendel)
 
 > __Beschreibung:__ Ein Fadenpendel ist an einem Strick aufgehängt und ein Hindernis wird mittig installiert, sodass das Fadenpendel auf der einen Seite mit einer verkürzten Fadenlänge schwingt.
@@ -1829,12 +1861,6 @@ __Beantworte die Fragen und notiere eine Begründung.__
 </div>
 
 </section>
-
-### Übung: Vergleich Fadenpendel - Federpendel
-
-![Aufgabe](https://diversewolken.ddns.net/nextcloud/index.php/s/MLoX874wtWqrJo5/download)
-
--> [Lösungen](https://diversewolken.ddns.net/nextcloud/index.php/s/6ftRHaE6kYmoa6K)
 
 
 ## 2. 6. Erzwungene Schwingungen und Resonanz
