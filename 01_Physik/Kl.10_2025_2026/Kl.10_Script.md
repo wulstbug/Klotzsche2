@@ -2005,3 +2005,7 @@ _Hinweis: Die Eigenfrequenz $f_0$ entpricht dem frei schwingenden System ohne ä
 <iframe src="https://learningapps.org/watch?app=1054249" style="border:0px;width:100%;height:500px" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"></iframe>
 
 <iframe src="https://learningapps.org/watch?app=4316402" style="border:0px;width:100%;height:500px" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"></iframe>
+
+# Mechanische Wellen
+
+![MechanischeWellen](https://diversewolken.ddns.net/nextcloud/index.php/s/WqqAQR3Xk4gkpNG/download)
