@@ -543,3 +543,49 @@ Farbbezeichnung: [[ Infrarot ]]
 @rangeQuiz2($\lambda$,400,$\mathrm{nm}$)
 
 </p>
+
+
+## 11. 5. Elektroneninterferenz am Doppelspalt
+
+> Ein Elektronenstrahl wird auf einen Doppelspalt (oder ein Gitter) gerichtet, dahinter befindet sich ein Schirm, der auftrefende Elektronen sichtbar macht.
+
+Im Jahr 1924 schlug der französche Physiker _Victor Louis de Broglie_ vor, jedem Teilchen eine Wellenlänge zuzuordnen, genannt __de Broglie Wellenlänge__
+
+> Die **_de-Bloglie_ Wellenlänge**
+>
+> $$ \boxed{\lambda = \frac{h}{p} = \frac{h}{m \cdot v}}$$
+>
+> wobei $m$->Teilchenmasse, $v$->Bewegungsgeschwindigkeit und $p$->Teilchenimpuls
+
+
+
+Für das Doppelspaltexperiment mit Elektronen (Experiment von Jönsson 1957) ergab sich auf dem Schirm ein ähnliches Bild wie bei Licht:
+
+![Schema-Doppelspalt](https://diversewolken.ddns.net/nextcloud/index.php/s/F7g83jD4FLA9eZW/download)
+
+
+### Aufgaben zum Welle-Teilchen-Dualismus
+
+1. Duden S. 469 Aufgabe 2
+
+<p style='margin-left:10%'>
+
+@rangeQuiz2(N,5,.)
+
+</p>
+
+---
+
+2. Duden S. 469 Aufgabe 4
+
+---
+
+3. Duden S. 471 Aufgabe 19
+
+---
+
+4. Duden S. 471 Aufgabe 21
+
+---
+
+5. Duden S. 472 Aufgabe 22

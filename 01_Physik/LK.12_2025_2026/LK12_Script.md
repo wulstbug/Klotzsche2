@@ -4937,6 +4937,12 @@ Für das Doppelspaltexperiment mit Elektronen (Experiment von Jönsson 1957) erg
 
 1. Duden S. 469 Aufgabe 2
 
+<p style='margin-left:10%'>
+
+@rangeQuiz2(N,5,.)
+
+</p>
+
 ---
 
 2. Duden S. 469 Aufgabe 4
