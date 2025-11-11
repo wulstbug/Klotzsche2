@@ -2011,3 +2011,18 @@ Shift/Bias: 0,48
 
 11. Sobald Sie das Häkchen bei _Image Blending_ gesetzt haben, werden die Bilder übereinander gelegt. Wenn Sie das Häckchen wieder heraus nehmen, können Sie sich durch anklicken der einzelnen Bilder jedes einzelne nochmals anschauen.
 
+__Eigenes Bild erstellen__
+
+Nutzen Sie eines der folgenden Archive, um ein eigenes Bild zu kreieren.
+
+<p style="margin-left:10%">
+
+[__Protoplanetarer Nebel Roberts22__](https://diversewolken.ddns.net/nextcloud/index.php/s/z8aNGd9ZH5RReCA/download)
+
+[__Messier17__](https://diversewolken.ddns.net/nextcloud/index.php/s/jEkJ3dx7ksBxFSG/download)
+
+[__Andromeda__](https://diversewolken.ddns.net/nextcloud/index.php/s/YJ4omyaCKddDRqb/download)
+
+_Hinweis:_ Für die Andromeda-Galaxy sollte das Tool _Zoom out_ zwei mal verwendet werden.
+
+</p>
