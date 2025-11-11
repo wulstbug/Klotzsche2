@@ -2033,11 +2033,7 @@ Nutzen Sie eines der folgenden Archive, um ein eigenes Bild zu kreieren.
 
 <p style="margin-left:10%">
 
-[__Protoplanetarer Nebel Roberts22__](https://diversewolken.ddns.net/nextcloud/index.php/s/z8aNGd9ZH5RReCA/download)
-
-[__Messier17__](https://diversewolken.ddns.net/nextcloud/index.php/s/jEkJ3dx7ksBxFSG/download)
-
-[__Andromeda__](https://diversewolken.ddns.net/nextcloud/index.php/s/YJ4omyaCKddDRqb/download)
+![Protoplanetarer Nebel](https://diversewolken.ddns.net/nextcloud/index.php/s/PqgERr2xt8i7Med/download "[__Download: Protoplanetarer Nebel Roberts22__](https://diversewolken.ddns.net/nextcloud/index.php/s/z8aNGd9ZH5RReCA/download)") ![Messier17](https://diversewolken.ddns.net/nextcloud/index.php/s/qbFaWHTfAeWd6mT/download "[Download: __Messier17__](https://diversewolken.ddns.net/nextcloud/index.php/s/jEkJ3dx7ksBxFSG/download)")![__Andromeda__](https://diversewolken.ddns.net/nextcloud/index.php/s/6g6T2Hx7a6wbtZs/download "[__Andromeda__](https://diversewolken.ddns.net/nextcloud/index.php/s/YJ4omyaCKddDRqb/download)")
 
 _Hinweis:_ Für die Andromeda-Galaxy sollte das Tool _Zoom out_ zwei mal verwendet werden.
 
