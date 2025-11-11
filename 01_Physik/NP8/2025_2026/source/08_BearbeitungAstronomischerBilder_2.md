@@ -119,7 +119,7 @@ mode: presentation
 
 
 
-### Erstellung eines astronomischen RGB-Bildes
+### Erstellung eines astronomischen RGB-Bildes (2)
 
 1. Laden Sie zunächst den Datensatz aus FITS-Dateien für die Antenna-Galaxy auf Ihren PC herunter: [Antennengalaxie.zip](https://diversewolken.ddns.net/nextcloud/index.php/s/TR68AnTQMttWxpN/download)
 
