@@ -1840,19 +1840,19 @@ __Beantworte die Fragen und notiere eine Begründung.__
 
 </p>
 
-5. Die Länge $l_1$ beträgt $1\,\mathrm{m}$. Die Periodendauer des Pendels __ohne__ Hindernis beträgt
+5. Die Länge $l_1$ beträgt $0.8\,\mathrm{m}$. Die Periodendauer des Pendels __ohne__ Hindernis beträgt
 
 <p style='margin-left:10%'>
 
-@rangeQuiz2($T_{ohne}$,2,s)
+@rangeQuiz2($T_{ohne}$,1.8,s)
 
 </p>
 
-6. Die Periodendauer des Pendels mit Hindernis
+6. Die Periodendauer des Pendels mit Hindernis, wobei die Länge $l_2$ 0,35 m beträgt.
 
 <p style='margin-left:10%'>
 
-@rangeQuiz2($T_{mit}$,1.71,s)
+@rangeQuiz2($T_{mit}$,1.4,s)
 
 </p>
 
