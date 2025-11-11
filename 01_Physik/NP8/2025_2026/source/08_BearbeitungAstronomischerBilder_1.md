@@ -118,228 +118,85 @@ mode: presentation
 -->
 
 
-# Bearbeitung Astronomischer Bilder (1)
+### Erstellung eines astronomischen RGB-Bildes
 
+1. Laden Sie zunächst den Datensatz aus FITS-Dateien für die Antenna-Galaxy auf Ihren PC herunter: [Antennengalaxie.zip](https://diversewolken.ddns.net/nextcloud/index.php/s/TR68AnTQMttWxpN/download)
 
-__Arbeitsablauf:__
+2. Entpacken Sie die Dateien in das gleiche Verzeichnis (rechtsklick -> hier entpacken)
 
-1. __Datei besorgen:__ Astronomische Daten werden in einem eigenen Datei-Format, dem __FITS-Format__ gespeichert.
+3. Wechsel Sie im Browser zum FITS-Bildbearbeitung: [OberservingWithNASA](https://waps.cfa.harvard.edu/eduportal/js9/software.php)
 
----
+4. Zunächst wird das Bild des Lagoon-Nebels geladen. Klicken Sie im <br> Menu auf _Image_ -> _Close Image_
 
-2. __Datei in Bearbeitungsprogramm laden:__ FITS-Dateien können nur von speziellen Programmen gelesen werden. Wir nutzen die Seite https://ogy.de/gykl_fits
+5. Laden Sie zunächst die FITS-Datei für die roten Bilddaten. <br> Menu: _Image_ -> _Open_ -> Antennengalaxy_Rot.fits.
 
-<details style='margin-left:10%'>
+6. Zunächst öffnet sich ein sehr dunkles Bild. Ändern Sie die Darstellung der Helligkeitsskala zu logarithmisch. <br> Menu: _Scale_ -> _log_. Sie sollten nun die Antennengalaxy als Graustufenbild erkennen können.
 
-<summary> @color(Details, blue) </summary>
+<p style='margin-left:10%'>
 
-<section class="flex-container">
+![https://diversewolken.ddns.net/nextcloud/index.php/s/9tp4AbWfw4TPitH/download](https://diversewolken.ddns.net/nextcloud/index.php/s/9tp4AbWfw4TPitH/download)
 
-<div class="flex-child-1" style="min-width: 200px; margin-bottom: -10px">
+</p>
 
-2. 1. Rufen wir die Seite https://ogy.de/gykl_fits auf, so erhalten wir zunächst einen Willkommensbildschirm der uns in die Nutzung des Programms einführt.
-
-</div>
-
-<div class="flex-child-1" style="min-width: 200px; margin-bottom: -10px">
-
-![FITS_2.1](https://diversewolken.ddns.net/nextcloud/index.php/s/K3Hy3i5XWWsRa3m/download)
-
-</div>
-
-</section>
-
----
-
-<section class="flex-container">
-
-<div class="flex-child-1" style="min-width: 200px; margin-bottom: -10px">
-
-2. 2. Wir können uns das Tutorial ansehen (Englisch) oder die Info wegklicken. Wir öffnen heute mindestens ein Archiviertes Bild. Das erste Bild ist eine Aufnahme des Mondes. Klicke auf @color(Archived Images, blue) und öffne die Datei __Moon160919094536__
-
-</div>
-
-<div class="flex-child-1" style="min-width: 200px; margin-bottom: -10px">
-
-![FITS_2.2](https://diversewolken.ddns.net/nextcloud/index.php/s/resR9ynmMfxHBm9/download)
-
-</div>
-
-</section>
-
-
-
-
-</details>
-
----
-
-3. __Graustufen geeignet darstellen:__ Astronomische Bilder enthalten keine Farben sondern Helligkeitsstufen (Graustufen). Bevor man einem Bild Farbe hinzufügt, muss die Darstellung geeignet angepasst werden.
+7. Passen Sie zunächst die Werte für _Low Brightness Limit_, _High Brightness Limit_, _Strech/Contrast_ und _Shift/Bias_ einzeln an.
 
 <details style='margin-left:10%'>
 
-<summary> @color(Details, blue) </summary>
+<summary> Vorschläge </summary>
 
-<section class="flex-container">
+Low Brightness Limit: 10
 
-<div class="flex-child-1" style="min-width: 200px; margin-bottom: -10px">
+High Brightness Limit: Voreinstellung
 
-3. 1. Bei einer astronomischen Aufnahme wird das Bild meistens sehr lange beleuchtet. Daher gibt es nicht nur Helligkeitswerte am Objekt selbst, sondern auch im __Hintergrund__. <br> <br> Der Hintergrund des Mondes sollte eigentlich schwarz sein, ist aber grau darstellt.
+Strech/Contrast: 1,3
 
-</div>
-
-<div class="flex-child-1" style="min-width: 200px; margin-bottom: -10px">
-
-![FITS_3.1](https://diversewolken.ddns.net/nextcloud/index.php/s/en8HK7mz5y7cqjs/download)
-
-</div>
-
-</section>
-
----
-
-<section class="flex-container">
-
-<div class="flex-child-1" style="min-width: 200px; margin-bottom: -10px">
-
-3. 2. Um einen grau erscheinenden Untergrund zu reduzieren, können wir die __untere Schwelle__, d.h. den Wert für einen schwarzen Bildpunkt anpassen. Diese Schwelle nennt man @color(Low Brightness Limit, red). <br> <br> @color(Bewege den Schieber vorsichtig nach links und rechts.Beobachte die Anpassung des Hintergrundschwarz. Ein geeigneter Wert ist hier 300. Stelle das ein., blue)
-
-</div>
-
-<div class="flex-child-1" style="min-width: 200px; margin-bottom: -10px">
-
-![FITS_3.2](https://diversewolken.ddns.net/nextcloud/index.php/s/resR9ynmMfxHBm9/download)
-
-</div>
-
-</section>
-
----
-
-<section class="flex-container">
-
-<div class="flex-child-1" style="min-width: 200px; margin-bottom: -10px">
-
-3. 3. Auch die __Obere Schwelle__ kann hier angepasst werden, sie heißt @color(High Brightness Limit, red). <br> <br> @color(Verändere auch hier den Reiter und beobachte das Bild. Hier ist der voreingestellte Wert von 809 sinnvoll., blue)
-
-</div>
-
-<div class="flex-child-1" style="min-width: 200px; margin-bottom: -10px">
-
-![FITS_3.3](https://diversewolken.ddns.net/nextcloud/index.php/s/yGqZA89CnRmrCm5/download)
-
-</div>
-
-</section>
+Shift/Bias: 0,48
 
 </details>
 
+8. Ändern Sie anschließend die Farbskala zu Rot. <br> Menu: _Scale_ -> _Red_
 
----
+<p style='margin-left:10%'>
 
-4. __Farbdarstellung bearbeiten:__ Wenn eine geeignete Graustufendarstellung gelungen ist, kann mit der Farbbearbeitung begonnen werden.
+![https://diversewolken.ddns.net/nextcloud/index.php/s/DsPrPQfmS2LxNgt/download](https://diversewolken.ddns.net/nextcloud/index.php/s/DsPrPQfmS2LxNgt/download)
 
+</p>
 
-<details style='margin-left:10%'>
+9. Wiederholen Sie den Vorgang für die Dateien Grün und Blau.
 
-<summary> @color(Details, blue) </summary>
-
-<section class="flex-container">
-
-<div class="flex-child-1" style="min-width: 200px; margin-bottom: -10px">
-
-4. 1. Wir haben bis zu diesem Punkt nur ein Graustufen-Bild. An dieser Stelle wollen wir dem Bild eine Farbe verpassen. Mit Hilfe des Reiters. Im Menüpunkt _Color_ gibt es verschiedene Farbtabellen/Farbverläufe, welche  dem Bild zugewiesen werden können. <br> <br> @color( Probiere verschiedene Farbverläufe aus. Wähle anschließend eine Einstellung die dir gefällt., blue)
-
-</div>
-
-<div class="flex-child-1" style="min-width: 200px; margin-bottom: -10px">
-
-![FITS_4.1](https://diversewolken.ddns.net/nextcloud/index.php/s/i24GN2Zb8mZBm9r/download)
-
-</div>
-
-</section>
+<p style="margin-left:10%">
 
 <section class="flex-container">
 
 <div class="flex-child-1" style="min-width: 200px; margin-bottom: -10px">
 
----
+@color(__ROT:__, red)
 
-4. 2. Mit den Schiebereglern _Stretch/Contrast_ lassen sich die Farbwerte verschieben und die Darstellungen anpassen.  <br> <br> @color(Probiere verschiedene Einstellungen aus., blue)
+![https://diversewolken.ddns.net/nextcloud/index.php/s/DsPrPQfmS2LxNgt/download](https://diversewolken.ddns.net/nextcloud/index.php/s/DsPrPQfmS2LxNgt/download)
 
 </div>
 
 <div class="flex-child-1" style="min-width: 200px; margin-bottom: -10px">
 
-![FITS_4.2](https://diversewolken.ddns.net/nextcloud/index.php/s/DjEZ7nQLx2n4zqq/download)
+@color(__GRÜN:__, green)
+
+![https://diversewolken.ddns.net/nextcloud/index.php/s/tBpGrqkyfEkMxLF/download](https://diversewolken.ddns.net/nextcloud/index.php/s/tBpGrqkyfEkMxLF/download)
+
+</div>
+
+<div class="flex-child-1" style="min-width: 200px; margin-bottom: -10px">
+
+@color(__BLAU__, blue)
+
+![https://diversewolken.ddns.net/nextcloud/index.php/s/jNZ32KRtqKfrRaC/download](https://diversewolken.ddns.net/nextcloud/index.php/s/jNZ32KRtqKfrRaC/download)
 
 </div>
 
 </section>
 
-</details>
+</p>
 
-5. Position des Objektes anpassen
+10. Nutzen Sie nun das Tool _Blending_ um die Bilder übereinander zu legen. <br> Menu: _Tools_ -> _Blending_
 
-
-<details style='margin-left:10%'>
-
-<summary> @color(Details, blue) </summary>
-
-<section class="flex-container">
-
-<div class="flex-child-1" style="min-width: 200px; margin-bottom: -10px">
-
-5. 1. Wir können die Position eines dargestellten Objektes innerhalb unseres Bildausschnittes gut anpassen. Dafür benötigen wir das _Tool_: __SHIFT__  <br> <br> @color( Wähle im Menüpunkt _Tools_ __SHIFT__. Verschiebe den Mond innerhalb deines Bildes ein bisschen. ACHTUNG: WILDES Klicken führt zu Verzögerungen. , blue)
-
-</div>
-
-<div class="flex-child-1" style="min-width: 200px; margin-bottom: -10px">
-
-![FITS_5.1](https://diversewolken.ddns.net/nextcloud/index.php/s/Mmij7MaLkDZDwA8/download)
-
-</div>
-
-</section>
-
-</details>
-
-
----
-
-6. __Daten abspeichern:__ Um ein Bild mit den gegebenen Einstellungen abzuspeichern, nutze den Menüpunkt _Image_ ->Save as FITS. <br> <br> Speichere die FITS-Datei in einem eigenen Order in deinem Laufwerk.
-
----
-
-7. Ein zweites Bild bearbeiten. Wähle in den __Archived Images__ die Datei __Hubble-Lagoon-502nVisB__.
-
-<details style='margin-left:10%'>
-
-<summary> @color(Details, blue) </summary>
-
-<section class="flex-container">
-
-<div class="flex-child-1" style="min-width: 200px; margin-bottom: -10px">
-
-7. 1. Zunächst siehst du in diesen Daten nichts. Der hier vom HUBBLE-Teleskop aufgenommene Nebel hat eine sehr schwache Intensität. Wir müssen durch eine geeignete Einstellung die schwachen Bildsignale deutlich sichtbar machen. <br> <br> @color(Wähle dazu im Menü _Scale_ die Option _Log_. Nun werden die Helligkeitswerte auf einer Logarithmischen Skala dargestellt., blue)
-
-</div>
-
-<div class="flex-child-1" style="min-width: 200px; margin-bottom: -10px">
-
-![FITS_5.1](https://diversewolken.ddns.net/nextcloud/index.php/s/mox49BDKfSJrMCc/download)
-
-</div>
-
-</section>
-
-7. 2. Probiere anschließend eine geeignete Anpassung der Helligkeitswerte und der Farbtabelle.
-
-</details>
-
----
-
-8. __Bilder überblenden:__ Das Programm hat im Hintergrund beide Bilder geladen. Du kannst nun über den Menüpunkt _Tools_ -> _Blending_ beide Bilder übereinander legen. <br> <br> @color(Probiere es einfach aus., blue)
-
+11. Sobald Sie das Häkchen bei _Image Blending_ gesetzt haben, werden die Bilder übereinander gelegt. Wenn Sie das Häckchen wieder heraus nehmen, können Sie sich durch anklicken der einzelnen Bilder jedes einzelne nochmals anschauen.
 

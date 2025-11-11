@@ -1823,3 +1823,191 @@ __Arbeitsablauf:__
 ## Wie funktioniert eine Weltraumteleskop
 
 !?[WieFunktioniertEinWeltraumteleskop](https://www.youtube.com/watch?v=csIry_3pbDU)
+
+### Erstellung eines astronomischen Bildes aus den RGB (rot-grün-blau)-Daten
+
+{{1}}
+************************
+> Die Detektoren (Messegeräte) eines Teleskops können zunächst keine Farben unterscheiden, sondern nur die Helligkeit (Graustufen) des einfallenden Lichts.
+************************
+
+{{2}}
+************************
+> Um trotzdem Farbinformationen für ein aufgenommenes Bild zu erhalten, können Farbfilter eingesetzt werden. Es wird dementsprechend z.B. die Intensität (Helligkeit) des roten, des grünen und des blauen Lichts in drei separaten Bildern aufgenommen.
+************************
+
+{{3}}
+************************
+__Beispiel:__ Antennengalaxie 
+
+__FITS-Dateien:__ [Antennengalaxie.zip](https://diversewolken.ddns.net/nextcloud/index.php/s/TR68AnTQMttWxpN/download)
+************************
+
+{{4-5}}
+************************
+<section class="flex-container">
+
+<div class="flex-child-1" style="min-width: 200px; margin-bottom: -10px">
+
+@color(__ROT:__, red)
+
+![https://diversewolken.ddns.net/nextcloud/index.php/s/9tp4AbWfw4TPitH/download](https://diversewolken.ddns.net/nextcloud/index.php/s/9tp4AbWfw4TPitH/download)
+
+</div>
+
+<div class="flex-child-1" style="min-width: 200px; margin-bottom: -10px">
+
+@color(__GRÜN:__, green)
+
+![https://diversewolken.ddns.net/nextcloud/index.php/s/G9PZ3K5scqr2JKd/download](https://diversewolken.ddns.net/nextcloud/index.php/s/G9PZ3K5scqr2JKd/download)
+
+</div>
+
+<div class="flex-child-1" style="min-width: 200px; margin-bottom: -10px">
+
+@color(__BLAU__, blue)
+
+![https://diversewolken.ddns.net/nextcloud/index.php/s/jjanHkb7XstBmNM/download](https://diversewolken.ddns.net/nextcloud/index.php/s/jjanHkb7XstBmNM/download)
+
+</div>
+
+</section>
+************************
+
+
+{{5}}
+************************
+<section class="flex-container">
+
+<div class="flex-child-1" style="min-width: 200px; margin-bottom: -10px">
+
+@color(__ROT:__, red)
+
+![https://diversewolken.ddns.net/nextcloud/index.php/s/DsPrPQfmS2LxNgt/download](https://diversewolken.ddns.net/nextcloud/index.php/s/DsPrPQfmS2LxNgt/download)
+
+</div>
+
+<div class="flex-child-1" style="min-width: 200px; margin-bottom: -10px">
+
+@color(__GRÜN:__, green)
+
+![https://diversewolken.ddns.net/nextcloud/index.php/s/tBpGrqkyfEkMxLF/download](https://diversewolken.ddns.net/nextcloud/index.php/s/tBpGrqkyfEkMxLF/download)
+
+</div>
+
+<div class="flex-child-1" style="min-width: 200px; margin-bottom: -10px">
+
+@color(__BLAU__, blue)
+
+![https://diversewolken.ddns.net/nextcloud/index.php/s/jNZ32KRtqKfrRaC/download](https://diversewolken.ddns.net/nextcloud/index.php/s/jNZ32KRtqKfrRaC/download)
+
+</div>
+
+</section>
+
+> Wir passen für jede Aufnahme die Werte _Low Brightness Limit_, _High Brightness Limit_, _Strech/Contrast_ und _Shift/Bias_ einzeln an.
+
+> Anschließend ordnen wir jedem Bild die passende Farbskala zu.
+************************
+
+{{6}}
+************************
+
+![https://diversewolken.ddns.net/nextcloud/index.php/s/bGzbDjDjnYaMSTS/download](https://diversewolken.ddns.net/nextcloud/index.php/s/bGzbDjDjnYaMSTS/download)
+
+> Im nächsten Schritt werden die Bilder übereinander gelegt und man erhält ein RGB(rot-grün-blau)-Bild.
+
+> Für die Farbkomposition gilt hier allerdings künstlerische Freiheit.
+************************
+
+{{7}}
+************************
+![https://diversewolken.ddns.net/nextcloud/index.php/s/JPT7NmcBYP7wX7z/download](https://diversewolken.ddns.net/nextcloud/index.php/s/JPT7NmcBYP7wX7z/download)![https://diversewolken.ddns.net/nextcloud/index.php/s/LoizJRRBj7dybaR/download](https://diversewolken.ddns.net/nextcloud/index.php/s/LoizJRRBj7dybaR/download)
+************************
+
+### Demonstrationsvideo - Erstellung eines astronomischen RGB-Bildes
+
+!?[Training-Video](https://www.youtube.com/watch?list=PL2TJ0Y_PLXCyc9dIJNKSxaubOwxoboFvq&v=RhR0oSfo10w&feature=youtu.be)
+
+### Anleitung Erstellung eines astronomischen RGB-Bildes
+
+1. Laden Sie zunächst den Datensatz aus FITS-Dateien für die Antenna-Galaxy auf Ihren PC herunter: [Antennengalaxie.zip](https://diversewolken.ddns.net/nextcloud/index.php/s/TR68AnTQMttWxpN/download)
+
+2. Entpacken Sie die Dateien in das gleiche Verzeichnis (rechtsklick -> hier entpacken)
+
+3. Wechsel Sie im Browser zum FITS-Bildbearbeitung: [OberservingWithNASA](https://waps.cfa.harvard.edu/eduportal/js9/software.php)
+
+4. Zunächst wird das Bild des Lagoon-Nebels geladen. Klicken Sie im <br> Menu auf _Image_ -> _Close Image_
+
+5. Laden Sie zunächst die FITS-Datei für die roten Bilddaten. <br> Menu: _Image_ -> _Open_ -> Antennengalaxy_Rot.fits.
+
+6. Zunächst öffnet sich ein sehr dunkles Bild. Ändern Sie die Darstellung der Helligkeitsskala zu logarithmisch. <br> Menu: _Scale_ -> _log_. Sie sollten nun die Antennengalaxy als Graustufenbild erkennen können.
+
+<p style='margin-left:10%'>
+
+![https://diversewolken.ddns.net/nextcloud/index.php/s/9tp4AbWfw4TPitH/download](https://diversewolken.ddns.net/nextcloud/index.php/s/9tp4AbWfw4TPitH/download)
+
+</p>
+
+7. Passen Sie zunächst die Werte für _Low Brightness Limit_, _High Brightness Limit_, _Strech/Contrast_ und _Shift/Bias_ einzeln an.
+
+<details style='margin-left:10%'>
+
+<summary> Vorschläge </summary>
+
+Low Brightness Limit: 10
+
+High Brightness Limit: Voreinstellung
+
+Strech/Contrast: 1,3
+
+Shift/Bias: 0,48
+
+</details>
+
+8. Ändern Sie anschließend die Farbskala zu Rot. <br> Menu: _Scale_ -> _Red_
+
+<p style='margin-left:10%'>
+
+![https://diversewolken.ddns.net/nextcloud/index.php/s/DsPrPQfmS2LxNgt/download](https://diversewolken.ddns.net/nextcloud/index.php/s/DsPrPQfmS2LxNgt/download)
+
+</p>
+
+9. Wiederholen Sie den Vorgang für die Dateien Grün und Blau.
+
+<p style="margin-left:10%">
+
+<section class="flex-container">
+
+<div class="flex-child-1" style="min-width: 200px; margin-bottom: -10px">
+
+@color(__ROT:__, red)
+
+![https://diversewolken.ddns.net/nextcloud/index.php/s/DsPrPQfmS2LxNgt/download](https://diversewolken.ddns.net/nextcloud/index.php/s/DsPrPQfmS2LxNgt/download)
+
+</div>
+
+<div class="flex-child-1" style="min-width: 200px; margin-bottom: -10px">
+
+@color(__GRÜN:__, green)
+
+![https://diversewolken.ddns.net/nextcloud/index.php/s/tBpGrqkyfEkMxLF/download](https://diversewolken.ddns.net/nextcloud/index.php/s/tBpGrqkyfEkMxLF/download)
+
+</div>
+
+<div class="flex-child-1" style="min-width: 200px; margin-bottom: -10px">
+
+@color(__BLAU__, blue)
+
+![https://diversewolken.ddns.net/nextcloud/index.php/s/jNZ32KRtqKfrRaC/download](https://diversewolken.ddns.net/nextcloud/index.php/s/jNZ32KRtqKfrRaC/download)
+
+</div>
+
+</section>
+
+</p>
+
+10. Nutzen Sie nun das Tool _Blending_ um die Bilder übereinander zu legen. <br> Menu: _Tools_ -> _Blending_
+
+11. Sobald Sie das Häkchen bei _Image Blending_ gesetzt haben, werden die Bilder übereinander gelegt. Wenn Sie das Häckchen wieder heraus nehmen, können Sie sich durch anklicken der einzelnen Bilder jedes einzelne nochmals anschauen.
+
