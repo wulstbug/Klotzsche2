@@ -4958,3 +4958,7 @@ Für das Doppelspaltexperiment mit Elektronen (Experiment von Jönsson 1957) erg
 ---
 
 5. Duden S. 472 Aufgabe 22
+
+---
+
+> [AlleLösungen](https://diversewolken.ddns.net/nextcloud/index.php/s/MHP5NyL6LCajTay)
