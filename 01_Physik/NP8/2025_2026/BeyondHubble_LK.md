@@ -1925,6 +1925,23 @@ __FITS-Dateien:__ [Antennengalaxie.zip](https://diversewolken.ddns.net/nextcloud
 ![https://diversewolken.ddns.net/nextcloud/index.php/s/JPT7NmcBYP7wX7z/download](https://diversewolken.ddns.net/nextcloud/index.php/s/JPT7NmcBYP7wX7z/download)![https://diversewolken.ddns.net/nextcloud/index.php/s/LoizJRRBj7dybaR/download](https://diversewolken.ddns.net/nextcloud/index.php/s/LoizJRRBj7dybaR/download)
 ************************
 
+
+### Erstellung eines astronomischen Bildes aus den RGB (rot-grün-blau)-Daten (Tafelbild)
+
+> 1. Die Detektoren (Messegeräte) eines Teleskops können zunächst keine Farben unterscheiden, sondern nur die Helligkeit (Graustufen) des einfallenden Lichts.
+
+
+> 2. Um trotzdem Farbinformationen für ein aufgenommenes Bild zu erhalten, können Farbfilter eingesetzt werden. Es wird dementsprechend z.B. die Intensität (Helligkeit) des roten, des grünen und des blauen Lichts in drei separaten Bildern aufgenommen.
+
+> 3. Wir passen für jede Aufnahme die Werte _Low Brightness Limit_, _High Brightness Limit_, _Strech/Contrast_ und _Shift/Bias_ einzeln an.
+
+> 4. Anschließend ordnen wir jedem Bild die passende Farbskala zu.
+
+> 5. Im nächsten Schritt werden die Bilder übereinander gelegt und man erhält ein RGB(rot-grün-blau)-Bild.
+
+> 6. Für die Farbkomposition gilt hier allerdings künstlerische Freiheit.
+
+
 ### Demonstrationsvideo - Erstellung eines astronomischen RGB-Bildes
 
 !?[Training-Video](https://www.youtube.com/watch?list=PL2TJ0Y_PLXCyc9dIJNKSxaubOwxoboFvq&v=RhR0oSfo10w&feature=youtu.be)
