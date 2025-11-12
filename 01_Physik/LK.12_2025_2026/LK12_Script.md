@@ -4962,3 +4962,10 @@ Für das Doppelspaltexperiment mit Elektronen (Experiment von Jönsson 1957) erg
 ---
 
 ??[AlleLösungen](https://diversewolken.ddns.net/nextcloud/index.php/s/MHP5NyL6LCajTay)
+
+## Was bisher geschah
+
+!?[LESCH-Quantenmechanik-ZurTheorie](https://youtu.be/oh-dIbiHs48?si=aqqhkBKnZa7Afqfc)
+
+## 11. 6. Superposition und Interferenz
+
