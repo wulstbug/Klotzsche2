@@ -4963,9 +4963,281 @@ Für das Doppelspaltexperiment mit Elektronen (Experiment von Jönsson 1957) erg
 
 ??[AlleLösungen](https://diversewolken.ddns.net/nextcloud/index.php/s/MHP5NyL6LCajTay)
 
+### Interferenz mit Fullerene Molekülen
+
+{{1}}
+**************
+<section class="flex-container">
+
+<div class="flex-child-1" style="min-width: 300px; margin-bottom: -10px">
+
+__Informationen aus dem Text:__ 
+
+- $C_{60}$-Molekül
+
+- Temperatur Ofen $T=900\,\mathrm{K}$
+
+- Geschwindigkeit $v=200\,\mathrm{\frac{m}{s}}$
+
+- Abstand Ofen-Gitter $l = 1,2\,\mathrm{m}$
+
+- Spaltbreite $b = 50\,\mathrm{nm}$
+
+- Gitterkonstante $g = 100\,\mathrm{nm}$
+
+- Abstand Gitter-Detektor $e=1,25\,\mathrm{m}$
+
+- Ortsauflösung $\Delta x = 5 \, \mathrm{\mu m}$
+
+</div>
+
+<div class="flex-child-1" style="min-width: 300px; margin-bottom: -10px">
+
+__Diagramm:__
+
+![Diagramm_Fullerene](https://diversewolken.ddns.net/nextcloud/index.php/s/dgqp4DaR7L6NDdn/download)
+
+</div>
+
+</section>
+
+---
+**************
+
+
+{{2}}
+**************
+> __Aufgabe a)__ Berechnen Sie mithilfe der Daten, die in Text und Diagramm gegeben sind, so genau wie möglich die DE-BROGLIE-Wellenlänge und die Masse der verwendeten Fulleren Moleküle.
+
+---
+**************
+
+{{3}}
+**************
+<section class="flex-container">
+
+<div class="flex-child-1" style="min-width: 300px; margin-bottom: -10px">
+
+__Fullerene Molkekül:__
+
+{{4}}
+**************
+![Fullerene-Molekül](https://diversewolken.ddns.net/nextcloud/index.php/s/yznFrwgRJxpr444/download)<!-- style="max-width:200px"-->
+**************
+</div>
+
+<div class="flex-child-2" style="min-width: 300px; margin-bottom: -10px">
+
+__Versuchsaufbau:__
+
+{{5}}
+**************
+![Versuchsaufbau2](https://diversewolken.ddns.net/nextcloud/index.php/s/Kyqmij9z2sraH36/download)
+**************
+
+</div>
+
+</section>
+
+---
+**************
+
+{{6}}
+**************
+
+@color(__Berechnung der Wellenlänge:__, blue)
+
+<br>
+
+<br>
+
+<section class="flex-container">
+
+<div class="flex-child-1" style="min-width: 200px; margin-bottom: -10px">
+
+__DE-BROGLIE Wellenlänge__
+
+$ \boxed{\lambda = \frac{h}{p} = \frac{h}{m_{C_{60}} \cdot v}}$
+
+{{7}}
+**************
+__Problem:__ Wir kennen die Masse der Moleküle nicht. 
+
+__Hinweis:__ $m_{C_{60}}=60\cdot m_C$ ist nicht zulässig, aufgrund des möglichen Massendefektes.
+**************
+
+</div>
+
+<div class="flex-child-1" style="min-width: 200px; margin-bottom: -10px">
+
+{{8}}
+**************
+__Berechnung der Wellenlänge aus dem Interferenzmuster:__
+
+$ \boxed{ \sin(\alpha) = \dfrac{\purple{k\cdot\lambda}}{\blue{g}}  } \hspace{.5cm} \boxed{\tan(\alpha) = \blue{\dfrac{a}{e}}}$
+
+__Problem:__ Wir kennen das $a$ noch nicht. Können wir aber ermitteln.
+**************
+
+{{10}}
+**************
+__Berechnung:__ 
+
+$ \alpha = tan^{-1}\Big(\dfrac{a}{e}\Big) = 0,00138^\circ $
+
+=> __Kleinwinkelnäherung__ $\dfrac{\lambda}{g} = \dfrac{a}{e}$
+**************
+
+{{11}}
+**************
+=> $ \underline{\lambda = 2,4\cdot 10^{-12}\,\mathrm{m}}$
+**************
+</div>
+
+<div class="flex-child-1" style="min-width: 200px; margin-bottom: -10px">
+
+{{9}}
+**************
+![DiagrammAnalysiert](https://diversewolken.ddns.net/nextcloud/index.php/s/2sPidXRFZmp3F9y/download)
+
+$ \red{a_1 \approx 30\,\mathrm{µm} }$
+**************
+</div>
+
+</section>
+
+---
+**************
+
+{{11}}
+**************
+@color(Berechnung der Masse, blue)
+
+<br> <br>
+
+<section class="flex-container">
+
+<div class="flex-child-1" style="min-width: 200px; margin-bottom: -10px">
+
+$ \boxed{\lambda = \dfrac{h}{p} = \dfrac{h}{m_{C_{60}} \cdot v}}$
+
+</div>
+
+<div class="flex-child-1" style="min-width: 200px; margin-bottom: -10px">
+
+$m_{C_{60}} = \dfrac{h}{\lambda \cdot v} $
+
+$\underline{m_{C_{60}} = 1,38\cdot 10^{-24}\,\mathrm{kg}}$
+
+</div>
+
+<div class="flex-child-1" style="min-width: 200px; margin-bottom: -10px">
+
+
+
+</div>
+
+</section>
+
+---
+**************
+
+
+{{12}}
+**************
+> __Aufgabe b)__ Zeigen Sie, dass mit der Anordnung die Maxima 2. Ordnung nicht beobachtet werden können.
+
+<br>
+
+<section class="flex-container">
+
+<div class="flex-child-1" style="min-width: 200px; margin-bottom: -10px">
+
+{{13}}
+**************
+__Ansatz:__ Wenn die Gitterkonstante $g$ kleiner ist, als der notwendige Gangunterschied $\Delta s$, so kann keine konstruktive Interferenz entstehen.
+**************
+</div>
+
+<div class="flex-child-1" style="min-width: 200px; margin-bottom: -10px">
+
+{{14}}
+**************
+__Gangunterschied:__ Für ein Maximum zweiter Ordnung ist der Gangunterschied $\Delta s = 2 \cdot \lambda = 4,8\cdot\mathrm{10^{-12}}\,\mathrm{m}$
+**************
+
+</div>
+
+<div class="flex-child-1" style="min-width: 200px; margin-bottom: -10px">
+
+{{15}}
+**************
+__Analyse:__ Gitterkonstante $g=100\cdot 10^{-9}\mathrm{m}$ ist deutlich größer als $\Delta s = 2\cdot\lambda$, somit wäre das kein Hinderungsgrund.
+**************
+
+</div>
+
+{{16}}
+**************
+__Lösung:__ Da aufgrund der Einzelspalte ebenfalls Interferenz auftritt und hier diese destruktive Interferenz genau bei $$\sin\alpha=\dfrac{\lambda}{b}=\dfrac{\lambda}{\frac{g}{2}} = \dfrac{2\cdot\lambda}{g}$$ auftritt, heben sich konstruktive Interferenz des Gitters und destruktive Interferenz des Einzelspaltes gegenseitig auf.
+**************
+
+</section>
+
+---
+**************
+
+{{17}}
+**************
+> __Aufgabe c)__ Inwiefern weicht die Kurve von der theoretisch nach dem Wellenmodell erwarteten Intensitätskurve eines Gitters ab und wie kann man die beobachtete Abweichung durch die Geschwindigkeitsverteilung der Fullerene erklären.
+**************
+
+{{18}}
+**************
+Da die Fullerene nicht alle dieselbe Geschwindigkeit besitzen, sondern eine Verteilung der Geschwindigkeit der Moleküle vorliegt, ist auch die Wellenlänge der Moleküle nach der DE-BROGLIE-Gleichung $$ \lambda  = \dfrac{h}{m_{C_{60}} \cdot v} $$ nicht für jedes Molekül identisch und somit treten die Interferenz-Maxima für die Moleküle nicht an genau einem Ort ($x$), sondern an leicht variierenden Abständen vom Maximum auf. Eine weitere Rolle könnte die Ortsauflösung des Detektors spielen.
+**************
+
 ## Was bisher geschah
 
 !?[LESCH-Quantenmechanik-ZurTheorie](https://youtu.be/oh-dIbiHs48?si=aqqhkBKnZa7Afqfc)
 
-## 11. 6. Superposition und Interferenz
 
+
+## 11. 6. Das Unschärfeprinzip / die Heißenberg'sche Unschärferelation
+
+> Bei einer __Messung__ von Ort ($x$) und Impuls $p$ eines quantenmechanischen Teilchens, können beide Größen nicht __gleichzeitig__ mit einer beliebigen Genauigkeit $\Delta x$ bzw. $\Delta p$ ermittelt werden. Die maximale Beobachtungsgenauigkeit beträgt: $$ \boxed{\Delta x \cdot \Delta p \geq \dfrac{h}{4\pi}} $$ Hierbei ist $\Delta x$ die __Ortsunschärfe__ und $\Delta p$ die __Impulsunschärfe__.
+>
+> Dieselbe gleichzeitige Unbestimmtheit ergibt sich bei einer Messung von _Energie_ und _Zeit_ als $$ \boxed{\Delta E \cdot \Delta t \geq \dfrac{h}{4\pi}}$$ Hierbei ist $\Delta E$ die Energieunschärfe und $\Delta t$ die Zeitunschärfe.
+
+__Aufgabe:__ Bei einem Farbmonitor werden Elektronen mit $U=25\,\mathrm{kV}$ beschleunigt und treten durch eine Streifenmaske, deren Spaltöffnung $2\Delta x=0,25\,\mathrm{mm}$ betragen. 
+
+<p style="margin-left:5%">
+
+a) Vergleichen Sie die DE-BROGLIE-Wellenlänge der Elektronen mit der Spaltbreite. 
+
+<details style='margin-left:10%'>
+
+<summary> Lösung </summary>
+
+
+$$E_{kin} = \frac{1}{2}\cdot m_e \cdot v^2 = U \cdot e = 25\,\mathrm{keV}$$
+
+$$v = \sqrt{\dfrac{2\cdot U \cdot e}{m_e}}=9,377\,\mathrm{\frac{m}{s}}$$
+
+$$ \lambda = \dfrac{h}{m_e \cdot v} = 7,76\cdot 10^{-12}m$$
+
+=> Die Wellenlänge ist viel kleiner als die Spaltbreite.
+
+</details>
+
+b) Bewerten Sie die Unschärfe auf dem Leuchtschirm in $1\,\mathrm{cm}$ Abstand hinter der Streifenmaske.
+
+<details style='margin-left:10%'>
+
+<summary> Hinweis </summary>
+
+Ermitteln Sie die Impulsunschärfe $\Delta p$ in x-Richtung, bei gegebener Ortsunschärfe $\Delta x$. Überprüfen Sie nun die Verbreiterung des Elektronenstrahls aufgrund Unschärfe $\Delta p$.
+
+</details>
+
+</p>
