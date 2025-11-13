@@ -4961,7 +4961,7 @@ Für das Doppelspaltexperiment mit Elektronen (Experiment von Jönsson 1957) erg
 
 ---
 
-??[AlleLösungen](https://diversewolken.ddns.net/nextcloud/index.php/s/MHP5NyL6LCajTay)
+[AlleLösungen](https://diversewolken.ddns.net/nextcloud/index.php/s/MHP5NyL6LCajTay)
 
 ### Interferenz mit Fullerene Molekülen
 

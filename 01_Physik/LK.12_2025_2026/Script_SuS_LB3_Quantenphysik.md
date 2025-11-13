@@ -588,4 +588,37 @@ Für das Doppelspaltexperiment mit Elektronen (Experiment von Jönsson 1957) erg
 
 > [AlleLösungen](https://diversewolken.ddns.net/nextcloud/index.php/s/MHP5NyL6LCajTay)
 
+## 11. 6. Das Unschärfeprinzip / die Heißenberg'sche Unschärferelation
 
+__Aufgabe:__ Bei einem Farbmonitor werden Elektronen mit $U=25\,\mathrm{kV}$ beschleunigt und treten durch eine Streifenmaske, deren Spaltöffnung $2\Delta x=0,25\,\mathrm{mm}$ betragen. 
+
+<p style="margin-left:5%">
+
+a) Vergleichen Sie die DE-BROGLIE-Wellenlänge der Elektronen mit der Spaltbreite. 
+
+<details style='margin-left:10%'>
+
+<summary> Lösung </summary>
+
+
+$$E_{kin} = \frac{1}{2}\cdot m_e \cdot v^2 = U \cdot e = 25\,\mathrm{keV}$$
+
+$$v = \sqrt{\dfrac{2\cdot U \cdot e}{m_e}}=9,377\,\mathrm{\frac{m}{s}}$$
+
+$$ \lambda = \dfrac{h}{m_e \cdot v} = 7,76\cdot 10^{-12}m$$
+
+=> Die Wellenlänge ist viel kleiner als die Spaltbreite.
+
+</details>
+
+b) Bewerten Sie die Unschärfe auf dem Leuchtschirm in $1\,\mathrm{cm}$ Abstand hinter der Streifenmaske.
+
+<details style='margin-left:10%'>
+
+<summary> Hinweis </summary>
+
+Ermitteln Sie die Impulsunschärfe $\Delta p$ in x-Richtung, bei gegebener Ortsunschärfe $\Delta x$. Überprüfen Sie nun die Verbreiterung des Elektronenstrahls aufgrund Unschärfe $\Delta p$.
+
+</details>
+
+</p>
