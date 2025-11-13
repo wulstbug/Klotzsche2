@@ -23,6 +23,38 @@ mode: presentation
 icon:   https://diversewolken.ddns.net/klotzsche/logo.jpg
 -->
 
+__Checkliste für Klausur__
+
+__Schwingungen:__
+
+- Beschreibung mechanischer Schwingungen mit Hilfe der physikalischen Größen
+
+- zugehörige Gleichungen für harmonische Schwingungen in sin und cos-Form
+
+- Zusammenhänge der Größen y(t), v(t), a(t)
+
+- Anwendung der Grundlagen/physikalischen Beschreibungen auf das Beispielsystem Federschwinger, Periodendauer
+
+- Bedingungen für harmonische Schwingungen
+
+- Energieumwandlungen bei mechanischen Schwingungen / Energieerhaltung, auch am Beispiel Federschwinger
+
+- Grundlagen des elektromagnetischen Schwingkreises, Aufbau, schwingende physikalische Größen, Energieumwandlungen, Thomson'sche Schwingungsgleichung
+
+__Wellen:__
+
+- Beschreibung von mechanischen Wellen als sich im Raum ausdehnende Schwingungen, zeitliche und örtliche Darstellung als Gleichung und in Diagramm-Form
+
+- Arten und Eigenschaften mechanischer Wellen, Darstellung von Wellen mit Wellenfront und Wellennormale
+
+- Wellenphänomene (Reflexion, Beugung, Brechung, Interferenz) und deren Erklärung mit Hilfe des Huygens'schen Prinzips, stehende Wellen
+
+- Wellengleichungen und Wellenausbreitungsgleichung
+
+- Licht als elektromagnetische Welle, Eigenschaften von Lichtwellen, Experimente zur Interferenz mit elektromagnetischen Wellen am Doppelspalt und optischem Gitter
+
+
+
 
 ## Notengebung
 
