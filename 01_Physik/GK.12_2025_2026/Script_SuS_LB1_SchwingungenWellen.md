@@ -90,34 +90,7 @@ icon:   https://diversewolken.ddns.net/klotzsche/logo.jpg
 
 !?[Motivationsvideo](https://diversewolken.ddns.net/nextcloud/index.php/f/719652/downlaod)
 
-{{1}}
-************
-> Definition: Wir beobachten eine Größe $B$. Der Wert von B zum Zeitpunkt t wird mit $B(t)$ bezeichnet. Wir nennen B eine <span style="color:orange">***periodische Größe***</span>, wenn sich die Werte von B nach einer bestimmten Zeit T wiederholen.
-Es soll gelten:
-
-> $$ B(t) = B(t+T) $$ <br> _In Worten: Der Wert von B zum Zeitpunkt t ist genauso groß, wie der Wert von B zum Zeitpunkt t+T._
-
-> <span style="color:red">***T heißt Periodendauer ***</span> von B
-************
-
 ## 1. Beschreibung einer mechanischen Schwingung
-
-Für eine mechanische Schwingung verwenden wir die physikalischen Größen _Momentanauslenkung_ ($y(t)$), Momentangeschwindigkeit ($v(t)$) und Momentanbeschleunigung ($a(t)$).
-
-Für eine @color(harmonische Schwingung, orange) gelten die Zusammenhänge:
-
-> $$y(t) = y_{max} \cdot \sin(\omega \cdot t)$$
->
-> $$v(t) = v_{max} \cdot \cos(\omega \cdot t)$$
->
-> $$a(t) = -a_{max} \cdot \sin(\omega \cdot t)$$
-
-Hier beschreibt $\omega$ die @color(Kreisfrequenz, orange), die definiert ist als
-
-> $$ \omega = 2 \pi \cdot f = \dfrac{2 \pi}{T} $$
-
-und $T$ ist die @color(Periodendauer, orange).
-
 
 <p style="color:blue">
 
@@ -143,23 +116,6 @@ __Lösungsweg: Ableitung bilden__
 </p>
 
 ## 2. Der Federschwinger
-
-Beschreibung: Ein Massestück hängt an einer Feder, wird ausgelenkt und losgelassen.
-
-Annahmen:
-
-1. Die Feder schwinkt nach dem Hook'schen Gesetz, das heißt @color(die rücktreibende Kraft $F$ ist proportional zur Auslenkung $y$,red). Der Proportionalitätsfaktor ist die Federkonstante $D$.
-
-$$ F = - D \cdot y $$
-
-2. Das System schwingt reibungsfrei.
-
-> Unter den Vorraussetzungen 1. und 2. lässt sich die Periodendauer $T$ sich mit Hilfe der Formel
->
->$$ \boxed{T = 2\pi \sqrt{\dfrac{m}{D}}} $$
->
->berechnen. Hier ist $m$ die angehängte Masse. 
-
 
 ### Aufgaben zu 2. 1. Schwingungen
 
@@ -211,152 +167,7 @@ Verwenden Sie die Formel zur Ermittlung der Periodendauer eines Federschwingers.
 
 ## 3. Definition mechanische Schwingung
 
-<p class="newspaper">
-
-__Begriffe allgemein:__
-
-> Eine __mechanische Schwingung__ ist die _periodische Änderung_ einer physikalischen Größe um eine __Ruhelage__.
-
-- Die __momentane Auslenkung__( z.B. y(t) ) nennen wir @color(Elongation, red).
-
-- Die __maximale Auslenkung__ ( z.B. $y_{max}$ oder $\hat{y}$ ) nennen wir @color(Amplitude, red).
-
-<p class="cb">
-
-__Am Beispiel des Federschwingers:__ <br> <br> ![Auslenkung-Federschwinger](https://diversewolken.ddns.net/nextcloud/index.php/s/YQGPkWDc5t2Bd5P/download)
-
-</p>
-
-</p>
-
 ### Experimentierauftrag zu Federschwingern
-
-Untersuchen Sie die Federkonstante eines Federschwingers mit einem (1.) statischen und einem (2.) dynamischen Ansatz.
-
-<details style="margin-left:10%">
-
-<summary> Foto Experiment </summary>
-
-![Foto-Experiment](https://diversewolken.ddns.net/nextcloud/index.php/s/NQsq6rKzrjDbLfr/download)
-
-</details>
-
-_Bemerkung:_
-
-1. als statischen Ansatz nutzen sie die Auslenkung einer mechanischen Feder beim Anhängen eines bekannten Massestücks
-
-2. als dynamischen Ansatz nutzen sie eine Schwingung und bestimmen Sie daraus die Federkonstante
-
----
-
-$\Rightarrow$ A) Überlegen Sie, wie Sie jerweils Experimente durchführen könnten. 
-
-$\Rightarrow$ B) Diskutieren Sie, welche Messgröße in Ihrem Setup die wesentliche Fehlerquelle ist. *Schätzen Sie dazu den absoluten Fehler der Messung begründet ein.
-
-$\Rightarrow$ C) Überlegen Sie, wie auftretende Messfehler möglichest gering halten können. Schlagen Sie dazu geeignete Messungen vor und vermeiden Sie Aussagen wie: _Einfach genauer messen_.
-
----
-
-Vergleichen Sie Ihre Überlegungen hier.
-
-<details style="margin-left:10%">
-
-<summary> Hinweise zum 1. Experiment </summary>
-
-A) Mit Hilfe der Proportionalität zwischen Federdehnung $s$ und wirkender Kraft $F$ $$F=D \cdot s$$ lässt sich die Federkonstante D bestimmen. Dazu muss ein Massestück mit bekannter Masse $m$ genutzt werden. Die wirkende Kraft ist dann die Gewichtskraft $F_g$. Gemessen wird die Federdehnung $s$.
-
-B) Da die Masse $m$ als sehr genau bekannt angenommen werden kann, ist die wesentliche Fehlerquelle die Messung der Federdehnung $s$. *Je nach Massband und Ablesemethode sollte man hier von einer Ungenauigkeit der Längenmessung von ca. 1-2mm ausgehen.
-
-C)  Ist die Federdehnung nur sehr gering (d.h. mit einer sehr kleinen Masse), so ist der relative Fehler deutlich größer. Je stärker sich die Feder dehnt, desto geringer ist die Auswirkung der Ungenauigkeit. @color(Achtung: Feder nicht überdehnen., red)
-
-</details>
-
-     ---
-
-<details style="margin-left:10%">
-
-<summary> Hinweise zum 2. Experiment </summary>
-
-A) Mit Hilfe einer Schwingung der Feder mit einem angehängten Massestück kann die Federkonstante bestimmt werden. Dazu muss die Schwingungsdauer $T$ ermittelt werden.
-
-B) Da die Masse $m$ als sehr genau bekannt angenommen werden kann, ist die wesentliche Fehlerquelle die Messung der Periodendauer $T$. *Durch die Reaktionszeit des Menschen kann der zufällige Messfehler der Zeitmessung auf etwa $0,3s$ abgeschätzt werden.
-
-C) Misst man nur eine kurze Zeit (z.B. eine Schwingung), so wird der relative Fehler durch die Zeitmessung groß. Je länger die Zeitmessung ist, desto kleiner wird der relative zufällige Fehler (durch die Reaktionszeit). Es empfiehlt sich hier mehrere Schwingunen (z.B. $n=20-30$ Stück) zu messen. Der relative Fehler kann dann durch $n$ geteilt werden.
-
-</details>
-
----
-
-$\Rightarrow$ D) Führen Sie Ihre Messungen durch und dokumentieren Sie Ihre Messergebnisse adäquat.
-
-<p style="margin-left:10%">
-
-Näherungsweise Überprüfung des Messergebnisses
-
-@rangeQuiz20($D$,21.1,$\frac{N}{m}$)
-
-</p>
-
-
-<details style="margin-left:10%">
-
-<summary> Vergleichswerte Lehrkraft </summary>
-
-1. Messwerte:
-
-- $m = 100g$
-
-- $s = 4,7 cm = 0,047m$
-
-- $D \approx 21,3 \frac{N}{m} $
-
-2. Messwerte:
-
-- $m = 100g$
-
-- $t=12,9s$ (bei $n=30$ Messungen)
-
-- $D = 21,3 \frac{N}{m}$
-
-</details>
-
-
----
-
-$\Rightarrow$ E) Vergleichen Sie die Ergebnisse Ihrer beiden Messmethoden miteinander.
-
-$\Rightarrow$ F*) Schätzen Sie für jede Ihrer Messungen den zufälligen Fehler ab. Vergleichen Sie die Größe beider Fehler miteinander. Schlussfolgern Sie daraus auf die Genauigkeit beider Messmethoden.
-
-
-<details style="margin-left:10%">
-
-<summary> Vergleichswerte Lehrkraft </summary>
-
-1. Fehlerrechnung
-
-     - Absoluter Fehler: $\Delta s = 2 mm = 0,002 m$
-
-     - Relativer Fehler: $\frac{\Delta s}{s} = 0,043 = 4,3 \%$
-
-     - Relativer Fehler Federkonstante: $\frac{\Delta D}{D} =  4,3 \%$
-
-2. Messwerte:
-
-     - $\Delta t=0,3 s$ bei 30 Messungen
-
-     - $\Delta T=0,01s$ bei $T=0,43s$
-
-     - Relativer Fehler Periodendauer: $\frac{\Delta T}{T}=0,023 = 2,3%$
-
-     - Relativer Fehler Federkonstante: $\frac{\Delta D}{D} =  2,3 \%$
-
----
-
-Nach dieser Analyse kann die dynamische Methode als bevorzugt betrachtet werden. Hier kann der Fehler durch die Anzahl an beobachteten Schwingungen veringert werden.
-
-</details>
-
-
 
 ### Aufgaben zur Schwingung
 
@@ -498,42 +309,6 @@ __Antwort Nein:__ Diese Bewegung ist streng periodisch, aber es gibt keine Ruhel
 
 ## 4. Energieumwandlungen bei Schwingungen
 
-> Bei einer (mechanischen) Schwingung wird die in der Schwingung gespeicherte Energie periodisch zwischen verschiedenen Energieformen umgewandelt
-
-__Beispiel: Federschwinger__ (auftretende Energieformen)
-
-__Mechanische Energieformen:__
-
-- potentielle Energie (Lageenergie)     
-     -> $E_{pot} = m \cdot g \cdot h$
-
-- kinetische Energie (Bewegungsenergie)
-     -> $E_{kin} = \frac{1}{2}\cdot m \cdot v^2$
-
-- Spannenergie (Federdehnung)
-     -> $E_{sp} = \frac{1}{2} \cdot D \cdot s^2$
-
-__Reibung:__
-
-- Thermische Energie
-
----
-
-<p class="newspaper">
-
-> Bei einem @color(_idealen=reibungsfreien_,orange) Federschwinger ist die Summe aller mechanischer Energien konstant. Energie wird zwischen Lageenergie, Spannenergie und kinetischer Energie umgewandelt.
->
-> Bei einem realen Federschwinger wird ein Teil der Energie in thermische Energie umgewandelt. Die Amplitude der Schwingung sinkt mit der Zeit. Eine solche Schwingung nennt man @color(gedämpfte Schwingung, red).
-
-
-<p class="cb">
-
-![Graph-Gedaempfte-Schwingung](https://diversewolken.ddns.net/nextcloud/index.php/s/eLDW3kNxPrXWRBP/download "Beispiel einer gedämpften Schwingung mit schwacher Dämpfung") <!-- style="max-height:300px" -->
-
-</p>
-
-</p>
-
 ### Übung: Aussagen zum Federschwinger
 
 @color(Entscheiden Sie für folgende Aussagen. Nutzen Sie im Zweifel die Simulation., blue)
@@ -593,37 +368,9 @@ __Reibung:__
 
 ## 5. Grundlagen Elektromagnetischer Schwingkreis
 
-__Aufbau:__
-
-<p class="newspaper">
-
-> Elektromagnetische Schwingungen spielen in der modernen Elektronik eine entscheidende Rolle. Ein elektromagnetischer Schwingkreis besteht aus einer Parallelschaltung von einem __Kondensator (Kapazität $C$)__ und einer __Spule(Induktivität $L$)__. 
-
-> _Hinweis: Der Kondensator kann durch einen Wechselschalter von einer Spannungsquelle aufgeladen werden._
-
-
-<p class="cb">
-
-![Schaltkreis-Schwingkreis](https://diversewolken.ddns.net/nextcloud/index.php/s/Wy3j3A8ekemEy3e/download)
-
--> [PHeT-Simulation-AC-Circut](https://phet.colorado.edu/sims/html/circuit-construction-kit-ac-virtual-lab/latest/circuit-construction-kit-ac-virtual-lab_all.html?locale=de)
-
-</p>
-
-</p>
-
-     
-
-
 __Energiebetrachtung:__
 
 > In einem idealen Schwingkreis schwingt die Energie zwischen dem [[ elektrischen ]] Feld des Kondensators ([[ elektrische ]] Energie) und dem magnetischen Feld der Spule ([[ magnetische ]] Energie) hin und her. Die Summe aus elektrischer und magnetischer Energie ist zu jedem Zeitpunkt [[ konstant ]].
-
-__Periodendauer:__
-
-> Die Periodendauer in einem idealen Schwingkreis wird durch die _Thomson'sche Schwingungsgleichung_ berechnet
->
-> $$ T = 2\pi \sqrt{L\cdot C} $$
 
 <p style="color:blue">
 
@@ -661,16 +408,7 @@ Erstellen Sie mit Hilfe der Simulation einen Schwingkreis, den Sie eine Batterie
 
 </p>
 
-### Inputvideo zu 5.1
-
-!?[Input-Video-5-1](https://youtu.be/R3blqyJjkV0)
-
 ### 5. 1. Eigenschaften idealer und realer Schwingkreise
-
-> Bei einem @color(idealen,red) Schwingkreis ist die Summe aus elektrischer und magnetischer Energie konstant (Energieerhaltung).
-
-> Bei einem @color(realen,red) Schwingkreis treten [[ Verluste ]] auf. Dabei wird die vorhandene elektrische und magnetische Energie in [[ Wärmenergie ]] umgewandelt. Der Grund für die Verluste ist der elektrische [[ Widerstand ]] der Bauelemente.
-
 
 -> [PHeT-Simulation-AC-Circut](https://phet.colorado.edu/sims/html/circuit-construction-kit-ac-virtual-lab/latest/circuit-construction-kit-ac-virtual-lab_all.html?locale=de)
 
@@ -909,50 +647,7 @@ $$ y_{max} = \frac{v_{max}\cdot T}{2\pi} = 9.55\cdot 10^{-3} m $$
 
 ## 6. (Teil I) Mechanische Wellen
 
-<iframe src="https://www.geogebra.org/classic/sn4xvwsj?embed" width="100%" height="600" allowfullscreen style="border: 1px solid #e4e4e4;border-radius: 4px;" frameborder="0"></iframe>
-
-> Eine @color(mechanische Welle, orange) ist die Ausbreitung eines Schwingungszustands von einem Ort im Raum zu einem anderen. 
->
->> Sie ist eine zeitlich __und räumlich__ periodische Änderung physikalischer Größen
->
-> - Vorraussetzung sind __gekoppelte Schwinger__
->
-> - eine Welle transportiert __Energie aber keine Masse__
->
-> - die einzelnen schwingenden Teilchen bewegen sich ausschließlich um ihre Gleichgewichtslage
-
-
 ### 6. 1. Arten mechanischer Wellen
-
-<p class="newspaper3">
-
-Längswellen (Longitudinalwellen)
-
-__Beispiel:__ Schallwellen
-
-> Schwingungsrichtung und Ausbreitungsrichtung stimmen überein.
-
-<p class="cb">
-
-Querwellen (Transversalwellen)
-
-__Beispiel:__ Seilwellen, Erdbebenwellen
-
-> Schwingungsrichtung und Ausbreitungsrichtung verlaufen senkrecht zueinander
-
-<p class="cb">
-
-Oberflächenwellen (Kreiswellen)
-
-__Beispiel:__ Wasserwellen
-
-> Teilchen führen kreisförmige Bewegung aus. Es wirken Kohäsionskräfte (Oberflächenspannung) und die Schwerkraft
-
-</p>
-
-</p>
-
-</p>
 
 <p style="color:blue">
 
@@ -969,127 +664,6 @@ __Beobachtung:__
 </p>
 
 ### 6. 2. Eigenschaften mechanischer Wellen
-
-@color(_Tipp: Nutze für diese Übersicht eine eigene Seite_, orange)
-
----
-
-__Diagrammdarstellung__: 
-
-Wir stellen die **zeitliche Bewegung** eines einzelnen Oszillators (d.h. ein schwingendes Teilchen) mit einem **$y$-$t$-Diagramm** dar und die **räumliche Ausbreitung** mit einem **$y$-$x$-Diagramm**.
-
----
-
-<p class="newspaper">
-
-> __$y(x)$-Diagramm__
->
-> Für einen **bestimmten Zeitpunkt** ($t =$ konstant) wird dargestellt, **welche Lage die Gesamtheit der Oszillatoren** hat.
->
-> __Wellengleichung $y(x)$ einer harmonischen Welle:__
->
-> $$ \boxed{y(x) = y_{max} \cdot \sin\big(\frac{2\pi}{\lambda}\cdot x\big)}$$
-
-<p class="cb">
-
-> __$y(t)$-Diagramm__
->
-> Für einen **bestimmten Ort** ($x =$ konstant) wird dargestellt, wie sich der betreffende Oszillator in **Abhängigkeit von der Zeit** bewegt.
->
-> __Wellengleichung $y(t)$ einer harmonischen Welle:__
->
-> $$ \boxed{y(t) = y_{max} \cdot \sin\big(\frac{2\pi}{T}\cdot t\big)}$$
-
-
-</p>
-
-</p>
-
----
-
-<p class="newspaper">
-
-![y-x-Diagramm](https://diversewolken.ddns.net/nextcloud/index.php/s/gJp99q4HHbZ7z8e/download)
-
-<p class="cb">
-
-![y-t-Diagramm](https://diversewolken.ddns.net/nextcloud/index.php/s/wfReL2Xbc5iGoXs/download)
-
-</p>
-
-</p>
-
----
-
-
-<p class="newspaper3">
-
-> **Wellenlänge $\lambda$**
->
-> Die Wellenlänge ist der minimale Abstand zwischen zwei Oszillatoren, die sich im gleichen Schwingungszustand befinden.  
-> Das ist auch der Abstand zwischen zwei benachbarten **Wellenbergen** oder **Wellentälern**.  
-
-<p class="cb">
-
-> **Frequenz $f$**
->
-> Die Frequenz $f$ beschreibt die Anzahl an Schwingungen eines schwingende Teilchens pro Sekunde.
->
-> Es gilt weiterhin: $f=\frac{1}{T}$
-
-<p class="cb">
-
-> **Ausbreitungsgeschwindigkeit $v$**
->
-> Die Ausbreitungsgeschwindigkeit einer Welle ist die Geschwindigkeit, mit der sich eine bestimmte Phase im Raum ausbreitet.  
-
-</p>
-
-</p>
-
-</p>
-
----
-
-<p class="newspaper3">
-
-> **Formelzeichen:** $\lambda$  
->
-> **Einheit:** [1 m]
-
-<p class="cb">
-
-> **Formelzeichen:** $f$  
->
-> **Einheit:** Hertz $[1\,\mathrm{Hz}=1\,\mathrm{\frac{1}{s}]}$
-
-<p class="cb">
-
-> **Formelzeichen:** $v$  
->
-> **Einheit:** $[1\,\mathrm{\frac{m}{s}}]$
-
-</p>
-
-</p>
-
-</p>
-
----
-
-> __Wellenausbreitungsgleichung__ (Zusammenhang zwischen $\lambda$, $f$ und $v$:):
->
-> $$ \boxed{v = \lambda \cdot f}$$
-
----
-
-> __(*) Wellengleichung $y(x, t)$ einer harmonischen Welle:__
->
-> Die Auslenkung $y$ der gesamten Welle lässt sich zu jedem Zeitpunkt $t$ und an jedem Ort $x$ mit der Wellengleichung angeben:
->
-> $$ \boxed{y(x,t) = y_{max} \cdot \sin\Big( \frac{2\pi}{\lambda}\cdot x-\frac{2\pi}{T}\cdot t\Big)}$$
-
-
 
 #### Aufgaben zur Charakterisierung von Wellen
 
@@ -1164,48 +738,21 @@ __Die folgenden Aufgaben beziehen sich auf die Transversalwelle in Starteinstell
 
 ### 6. 3. Darstellung der Wellenausbreitung mit Wellenfront und Wellennormale
 
-Zur Darstellung der Ausbreitung von Wellen nutzen man __Wellenfronten__ und @color(__Wellennormale__,red)
 
 <p class="newspaper">
 
-{{1}}
-************
-![WellenfrontWellenNormale](https://diversewolken.ddns.net/nextcloud/index.php/s/sPE2gzAdfqJqdjk/download "Links: Kreisförmige Wellenfront (z.B. Steinwurf in Wasser) | Rechts: Ebene Welle (z.B. Licht)")
-************
 
-<p class="cb">
-
-{{4}}
-*****************
-__Die Wellenfronten__ sind Stellen maximaler Auslenkung (Wellenberge). Ihr Abstand voneinander ist gleich der Wellenlänge $\lambda$.
-
-@color(Die Wellennormale, red) steht immer senkrecht auf der Wellenfront und gibt die Ausbreitungsrichtung der Welle an.
-*****************
-
-</p>
-
-</p>
-
----
-
-<p class="newspaper">
-
-{{2}}
-************
 Kreisförmige Wellenfront (z.B. Steinwurf ins Wasser)
 
 ??[Fallstad-Kugelwelle](https://www.falstad.com/ripple/Ripple.html?rol=$+3+512+64+0+4+668+0.00390625%0As+2+257+265+0+0.233333+0+10+100+1+0%0A)
-************
+
 
 <p class="cb">
 
-{{3}}
-************
 
 Ebene Welle (z.B. Lichtausbreitung)
 
 ??[Fallstad-Kugelwelle](https://www.falstad.com/ripple/Ripple.html?rol=$+3+512+64+0+0+569+0.048828125%0AS+2+0+1+511+1+0+0.466666+0+10+100+1+0%0A)
-************
 
 </p>
 
@@ -1213,46 +760,10 @@ Ebene Welle (z.B. Lichtausbreitung)
 
 ### 6. 4. Huygens'sche Prinzip
 
-> Jeder Punkt einer Wellenfront ist seinerseits wieder Ausgangspunkt für @color(kreis- bzw. kugelförmige Elementarwellen, red)
-
-{{1}}
-*************
-![Huygernssches-Prinzip](https://diversewolken.ddns.net/nextcloud/index.php/s/zE2kb4mDwinM5M2/download)
-
-
 -> [Simulation-Ausbreitung-Kreiswelle-EbeneWelle](https://www.leifiphysik.de/mechanik/mechanische-wellen/ausblick/huygenssches-prinzip-zur-beschreibung-von-mechanischen-wellen)
-*************
-
-
 
 ### 6. 5. Reflexion
 
-__Definition:__ Trifft eine Welle auf eine ebene Oberfläche, dann wird sie __reflektiert__. Es gilt das __Reflexionsgesetz__:
-
-{{1}}
-**********
-<p class="newspaper">
-
-> 1. Bei der Reflexion von Wellen sind der Einfallswinkel $\alpha$ und der @color(Reflexionswinkel $\alpha'$, red) gleich groß. 
->
-> 2. Die Wellennormalen der einfallenden und reflektierten Wellen liegen in einer Ebene.
-
-<p class="cb">
-
-![Reflexion_Welle](https://diversewolken.ddns.net/nextcloud/index.php/s/bkBpwMGem3rXEx6/download)
-
-</p>
-
-</p>
-**********
-
-{{2}}
-**********
-??[Fendt-Reflexion](https://www.walter-fendt.de/html5/phde/refractionhuygens_de.htm)
-**********
-
-{{3}}
-**********
 <p style="color:blue">
 
 Aufgaben:
@@ -1274,53 +785,14 @@ Aufgaben:
 
 
 </p>
-**********
+
 
 
 ### 6. 6. Brechung
 
 
-__Definition:__ Trifft eine Welle unter einem Einfallswinkel $\alpha\neq 0$ auf eine @color(__ebene Grenzfläche__, darkgreen) zweier Stoffe, in denen sie sich mit unterschiedlicher @color(Geschwindigkeit, red) ausbreitet, dann ändert sie ihre Ausbreitungsrichtung. Sie wird @color(gebrochen, red). Es gilt das __Brechungsgesetz__:
-
----
-
-{{1}}
-**********
-<p class="newspaper">
-
-Beim Übergang von einem Stoff (1) in einen anderen Stoff (2) gilt das __Brechungsgesetz__.
-
-$$\boxed{\dfrac{\sin\alpha}{\sin\beta} = \dfrac{v_1}{v_2}}$$
-
-wobei
-
-<p style="margin-left:5%">
-
-     $\alpha$ .. Einfallswinkel
-
-     $\beta$ .. Brechungswinkel
-
-     $v_1,\,v_2$ .. Ausbreitungsgeschwindigkeiten
-
-</p>
-
-<p class="cb">
-
-![Brechung_Welle](https://diversewolken.ddns.net/nextcloud/index.php/s/3awXew9HRi54nyd/download)
-
-</p>
-
-</p>
-**********
-
-{{2}}
-**********
 ??[Fendt-Reflexion](https://www.walter-fendt.de/html5/phde/refractionhuygens_de.htm)
-**********
 
-
-{{3}}
-**********
 <p style="color:blue">
 
 Aufgaben:
@@ -1340,38 +812,30 @@ Aufgaben:
 
 
 </p>
-**********
+
 
 ### 6. 7. Beugung
 
-Definition: Trifft eine Welle auf einen Spalt oder eine Kante, so sind die betreffenden Stellen nach _Huygens Prinzip_ Ausgangspunkt von Elementarwellen. Damit breitet sich eine Welle auch in den __Schattenraum__ aus.
-
----
-
 <p class="newspaper3">
 
-{{1}}
-********
+
 ![Welle-Beugung](https://diversewolken.ddns.net/nextcloud/index.php/s/M9eEFxFCjRATLt2/download)
-********
+
 
 <p class="cb">
 
-{{2}}
-********
 __Kante:__
 
 ??[Simulation-Kante](https://www.falstad.com/ripple/Ripple.html?rol=$+3+512+64+0+1+489+1.5625e-8%0Aw+0+252+131+507+131%0AS+2+0+1+511+1+0+1.399998+0+10+100+1+0%0A)
-********
+
 
 <p class="cb">
 
-{{3}}
-********
+
 __Spalt:__
 
 ??[Simulation-Spalt](https://www.falstad.com/ripple/Ripple.html?rol=$+3+512+64+0+1+578+1.5625e-8%0AS+2+0+1+511+1+0+2.2166635+0+10+100+1+0%0A203+0+-57+145+577+145+1+20+10%0A)
-********
+
 
 </p>
 
@@ -1379,9 +843,6 @@ __Spalt:__
 
 </p>
 
-
-{{4}}
-**********
 <p style="color:blue">
 
 Aufgaben:
@@ -1399,7 +860,7 @@ Aufgaben:
      - [[ ]] Die Welle verschwindet und es entsteht nur noch stehendes Wasser. 
 
 </p>
-**********
+
 
 
 
@@ -1422,131 +883,8 @@ __Zuordnung Wellenausbreitung:__
 
 ### 6. 8. Interferenz
 
-[LEIFI-Wellen-Interferenz](https://diversewolken.ddns.net/nextcloud/index.php/s/NeMj4nWBfqDXMWj/download)
-
-> __Prinzip der ungestörten Überlagerung:__ Wellen durchdringen sich gegenseitig, ohne sich selbst oder einander zu verändern
-
-> Die __Überlagerung__ oder __Superposition__ harmonischer Wellen wird als @color(Interferenz, red) bezeichnet. Diese hängt vom __Gangunterschied__ der inteferierenden Wellen ab.
->
-> Umgangssprachlich: _"Interferenz ist die Addition der jeweiligen Auslenkungen"_
-
-<p style="margin:5%;color:blue">
-
-Wir untersuchen die Interferenz von Wellen grafisch als auch mathematisch.
-
-[Geogebra-Interferenz-LK](https://www.geogebra.org/m/sd49erad)
-
-</p>
-
----
-
-
-<section class="flex-container">
-
-<div class="flex-child-1" style="min-width: 200px; margin-bottom: -10px">
-
-__Grafische Darstellung__
-
-</div>
-
-<div class="flex-child-1" style="min-width: 200px; margin-bottom: -10px">
-
-_Spezialfälle_
-
-</div>
-
-<div class="flex-child-1" style="min-width: 200px; margin-bottom: -10px">
-
-__Mathematische Beschreibung__
-
-</div>
-
-</section>
-
----
-
-<section class="flex-container">
-
-<div class="flex-child-1" style="min-width: 200px; margin-bottom: -10px">
-
-![Konstruktive_Interferenz](https://diversewolken.ddns.net/nextcloud/index.php/s/b788bF9RP233a38/download)
-
-</div>
-
-<div class="flex-child-1" style="min-width: 200px; margin-bottom: -10px">
-
-__Konstruktive Interferenz:__ Die Wellen überlagern sich derart, dass sich die Auslenkungen $y_1(x)$ und $y_2(x)$ addieren, es kommt zur Verstärkung der @color(resultierenden Welle, blue).
-
-> __Der Gangunterschied beträgt eine Wellenlänge $\boxed{\lambda}$ <br> (oder ein Vielfaches $\boxed{n\cdot\lambda}$)__
-
-</div>
-
-<div class="flex-child-1" style="min-width: 200px; margin-bottom: -10px">
-
-$\green{y_1(x) = \hat{y_1}\cdot\sin(\frac{2\pi}{\lambda}\cdot x)}$
-
-$\red{y_2(x) = \hat{y_2}\cdot\sin(\frac{2\pi}{\lambda}\cdot x)}$
-
-$\blue{y_{ges}(x) = (\hat{y_1}+\hat{y_2})\cdot\sin(\frac{2\pi}{\lambda}\cdot x)}$
-
-</div>
-
-</section>
-
----
-
-<section class="flex-container">
-
-<div class="flex-child-1" style="min-width: 200px; margin-bottom: -10px">
-
-![Destruktive_Interferenz](https://diversewolken.ddns.net/nextcloud/index.php/s/WW2xPJiWLXGHd2D/download)
-
-</div>
-
-<div class="flex-child-1" style="min-width: 200px; margin-bottom: -10px">
-
-__Destruktive Interferenz:__ Die Wellen überlagern sich derart, dass sich die Auslenkungen $y_1(x)$ und $y_2(x)$ subtrahieren, es kann zur Auslöschen der @color(resultierenden Welle, blue) kommen.
-
-> __Der Gangunterschied beträgt <br> $\boxed{\frac{\lambda}{2}}$ (bzw. $\boxed{\frac{\lambda}{2} + n \cdot \lambda}$)__
-
-</div>
-
-<div class="flex-child-1" style="min-width: 200px; margin-bottom: -10px">
-
-
-$\green{y_1(x) = \hat{y_1}\cdot\sin(\frac{2\pi}{\lambda}\cdot x)}$
-
-$\red{y_2(x) = -\hat{y_2}\cdot\sin(\frac{2\pi}{\lambda}\cdot x)}$
-
-$\blue{y_{ges}(x) = (\hat{y_1}-\hat{y_2})\cdot\sin(\frac{2\pi}{\lambda}\cdot x)}$
-
-</div>
-
-</section>
 
 ### 6. 9. Stehende Wellen
-
-> Wenn sich Wellen nur __in einem begrenzten Gebiet__ ausbreiten können (wie auf den Saiten einer beidseitig eingespannten Klavierseite), treten an beiden Enden Reflexionen auf. Dadurch kommt es zu einer Überlagerung von einlaufenden und reflektierten Wellen, die sich in entgegensetzter Richtung bewegen. Abhängig von der Begrenzung (Saitenlänge $ℓ$) gibt es bestimmte Frequenzen (Wellenlängen), bei denen die Wellen __stationäre Schwingungsmuster__ ausbilden. Diese heißen __Stehende Wellen__.
-
-<p class="newspaper">
-
-![StehendeWellenAufEinerSeite](https://diversewolken.ddns.net/nextcloud/index.php/s/9qCpdFZJ8zQixd9/download)
-
-<p class="cb">
-
-> Eine __stehende Wellen__ kennzeichnet sich durch __Bäuche (B)__ (verstärkte Schwingung) und __Knoten (K)__ (keine Schwingung).
->
-> Eine __(eindimensionale)__ stehende Welle kann auftreten, wenn die Ausdehung $ℓ$ ein Vielfaches der halben Wellenlänge $\frac{\lambda}{2}$ ist.
->
-> $$ \boxed{ℓ = n \cdot \frac{\lambda}{2}} \,\,\,n=1,2,3...$$
->
-> Man nennt die zugehörigen Schwingungen die __$n$-te Harmonische__.
-
-</p>
-
-</p>
-
-![StehendeWellenGitarre](https://diversewolken.ddns.net/nextcloud/index.php/s/nERJCb4RJEyjYji/download)
 
 #### Übungsaufgaben zu Wellenphänomenen
 
@@ -1700,104 +1038,7 @@ Da die Grundschwingung der Saite der halben Wellenlänge $\lambda_a$ entspricht,
 
 ### 6. 10. Das Doppelspalt-Experiment
 
-<section class="flex-container">
-
-<div class="flex-child-1" style="min-width: 300px; margin-bottom: -10px">
-
-> __Beschreibung:__ Beim Doppelspaltexperiment schickt man @color(kohärentes, orange), einfarbiges Licht (z.B. Laserlicht) durch zwei nahe beieinander liegende Spalte, den sogenannten Doppelspalt. Das Licht fällt auf einen hinter dem Doppelspalt liegenden Schirm.
->
-> __Beobachtung:__ Auf dem Schirm entsteht ein Muster aus vertikalen hellen und dunklen Streifen.
->
-> __Erklärung:__ An den beiden Spalten entstehen laut dem huygen'schen Prinzip neue Elementarwellen. Diese Wellen überlagern (__interferieren__) sich und bilden beim Auftreffen auf einem Beobachtungsschirm ein Interferenzmuster aus hellen und dunklen Bereichen. ->[DoppelSpalt-Simulation](https://falstad.com/ripple/Ripple.html?rol=$+3+512+64+0+1+578+1.5625e-8%0AS+2+0+1+511+1+0+1.633331+0+10+100+1+0%0A203+0+-60+54+574+54+2+6+15%0A)
-
-</div>
-
-<div class="flex-child-1" style="min-width: 300px; margin-bottom: -10px">
-
-![Doppelspalt](https://diversewolken.ddns.net/nextcloud/index.php/s/PWMnf2JX4xiXamx/download "Prinzipskizze des Doppelspalt-Experiments")
-
-</div>
-
-</section>
-
----
-
-> __Schlussfolgerung:__
->
-> Das Muster auf dem Schirm ist nur durch Beugung und Interferenz, d.h. also durch Wellenerscheinungen, erklärbar: <br> => @color(Licht besitzt Welleneigenschaften, orange).
-
----
-
-> __Eigenschaften von Lichtwellen:__
-
-<section class="flex-container">
-
-<div class="flex-child-1" style="min-width: 200px; margin-bottom: -10px">
-
-1. bei einer Lichtwelle schwingt das <span style="color:orange">***elektrische und das magnetische Feld.***</span>
-
-2. eine Lichtwelle benötigt @color(***kein Medium***, orange) (anders als z.B. Schall[Luft], Wasserwellen[Wasser]) zur Ausbreitung. 
-
-3. Licht ist eine @color(***Transversalwelle***, orange). 
-
-4. Das elektromagnetische Feld @color(***transportiert Energie***, orange).
-
-</div>
-
-<div class="flex-child-1" style="min-width: 200px; margin-bottom: -10px">
-
-5. Die Ausbreitungsgeschwindigkeit (Lichtgeschwindigkeit) im Vakuum beträgt 
-
-$$\boxed{c = 300.000 \dfrac{km}{s}}$$
-
-6. Für die Lichtgeschwindigkeit in einem Medium gilt:
-
-$$\boxed{c_{Medium} < 300.000 \dfrac{km}{s}}$$
-
-</div>
-
-<div class="flex-child-1" style="min-width: 200px; margin-bottom: -10px">
-
-6. Es gilt die Wellenausbreitunggleichung: <br> $$ \boxed{c = \lambda \cdot f}$$ <br> Die Wellenlänge $\lambda$ der Lichtwelle bestimmt die <span style="color:orange">***Lichtfarbe***</span>.
-
-</div>
-
-</section>
-
-
 ### 6. 11. Bestimmung der Wellenlänge des Lichts am Doppelspalt
-
-<section class="flex-container">
-
-<div class="flex-child-3" style="min-width: 300px; margin-bottom: -10px">
-
-![Doppelspalt5](https://diversewolken.ddns.net/nextcloud/index.php/s/rR93K2CqrPDwTDR/download)<!-- style="width:100%" -->
-
-</div>
-
-<div class="flex-child-2" style="min-width: 300px; margin-bottom: -10px">
-
-1. Die Spalte haben den Abstand $\blue{d}$, der Schirm hat vom Spalt den Abstand $\blue{e}.$
-
-2. Im Punkt __A__ beobachten wir konstruktive Interferenz, wir nennen es @color(***Interferenz-Maximum***, orange). Dieses Maximum ergibt sich aus der Überlagerung der Elementarwellen aus den Spalten $s_1$ und $s_2$.
-
-3. Für konstruktive Interferenz muss der Gangunterschied $\purple{\Delta s}$ einem Vielfachen der Wellenlänge entsprechen. <br> $$ \purple{\Delta s= k \cdot \lambda} \hspace{1cm}\mathrm{mit}\,\,k=1,\,2,..$$
-
-4. Im rechtwinkligen Dreieck $\triangle S_1 S_2 P$ gilt:
-
-$$ \dfrac{\purple{\Delta s}}{\blue{d}} = \boxed{\dfrac{\purple{k\cdot\lambda}}{\blue{d}} = \sin(\alpha) }$$
-
-5. Im rechtwinkligen Dreieck $\triangle M O A$ gilt:
-
-$$ \boxed{\tan(\alpha) = \blue{\dfrac{a}{e}}}$$
-
-</div>
-
-</section>
-
-> Da wird die Größen $\blue{d,\,e}$ und $\blue{a}$ @color(__messen__, blue) können, lässt sich mit dem __Doppelspalt-Experiment__ die @color(Wellenlänge $\lambda$, purple) des Laserlichts bestimmen.
-
----
 
 #### Aufgaben zum Thema _Licht als Welle_
 

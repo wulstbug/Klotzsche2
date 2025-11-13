@@ -23,7 +23,7 @@ mode: presentation
 icon:   https://diversewolken.ddns.net/klotzsche/logo.jpg
 -->
 
-__Checkliste für Klausur__
+__Checkliste für Klausur 12/1__
 
 __Schwingungen:__
 
