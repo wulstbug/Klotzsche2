@@ -2311,7 +2311,7 @@ __Die folgenden Aufgaben beziehen sich auf die Transversalwelle in Starteinstell
 
 </p>
 
-### Wavemaster
+### Master of the wave
 
 <details style='margin-left:10%'>
 
