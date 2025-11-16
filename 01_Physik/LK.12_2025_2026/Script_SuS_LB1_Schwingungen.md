@@ -1480,3 +1480,4 @@ d) Bei nochmaliger Betrachtung des Kondensators stellt der Schüler fest, dass f
 </details>
 
 </p>
+

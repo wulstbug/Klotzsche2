@@ -2310,3 +2310,13 @@ __Die folgenden Aufgaben beziehen sich auf die Transversalwelle in Starteinstell
 @rangeQuiz2($v$,1.59, $\mathrm{\frac{m}{s}}$)
 
 </p>
+
+### Wavemaster
+
+<details style='margin-left:10%'>
+
+<summary> Lösung </summary>
+
+[qr-code](https://www.universeandmore.com/wavemaker/)
+
+</details>
