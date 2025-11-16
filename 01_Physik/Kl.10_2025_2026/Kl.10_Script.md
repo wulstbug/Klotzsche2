@@ -2315,7 +2315,7 @@ __Die folgenden Aufgaben beziehen sich auf die Transversalwelle in Starteinstell
 
 <details style='margin-left:10%'>
 
-<summary> Lösung </summary>
+<summary> QR-Code </summary>
 
 [qr-code](https://www.universeandmore.com/wavemaker/)
 
