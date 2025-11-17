@@ -2118,7 +2118,7 @@ __Beobachtungsauftrag:__
 
 2. Ändern Sie die Amplitude und beobachten Sie die Welle. 
 
-3. Verschieben Sie den Schieberegler ganz nach rechts und betrachten Sie die eingefrorene Welle.
+3. Verschieben Sie den Schieberegler ganz nach links und betrachten Sie die eingefrorene Welle.
 
 <iframe src="https://www.geogebra.org/classic/cdyxv6pt?embed" width="100%" height="600" allowfullscreen style="border: 1px solid #e4e4e4;border-radius: 4px;" frameborder="0"></iframe>
 
