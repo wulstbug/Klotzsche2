@@ -1330,20 +1330,36 @@ Bearbeite Aufgabe
 ![Aufgabe_4](https://diversewolken.ddns.net/nextcloud/index.php/s/RCFzTYHSKEx7frp/download)
 
 
+<section class="flex-container">
+
+<div class="flex-child-1" style="min-width: 200px; margin-bottom: -10px">
+
 {{1}}
 ********
 ![Loesung_4a](https://diversewolken.ddns.net/nextcloud/index.php/s/HGdbL3g5bTQ4Pwo/download)
 ********
+
+</div>
+
+<div class="flex-child-1" style="min-width: 200px; margin-bottom: -10px">
 
 {{2}}
 ********
 ![Loesung_4b](https://diversewolken.ddns.net/nextcloud/index.php/s/Ykxt2HJYcmBpZnT/download)
 ********
 
+</div>
+
+<div class="flex-child-1" style="min-width: 200px; margin-bottom: -10px">
+
 {{3}}
 ********
 ![Loesung_4c](https://diversewolken.ddns.net/nextcloud/index.php/s/B5dsSG2nYCrWsrF/download)
 ********
+
+</div>
+
+</section>
 
 ## Lichtweg an Sammel- und Zerstreuungslinsen
 
