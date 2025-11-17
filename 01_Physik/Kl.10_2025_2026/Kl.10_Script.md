@@ -2265,8 +2265,6 @@ __Die folgenden Aufgaben beziehen sich auf die Transversalwelle in Starteinstell
 
 @rangeQuiz2($f$,0.1,Hz)
 
-@rangeQuiz2($\omega$,0.628,$\mathrm{\frac{1}{s}}$)
-
 </p>
 
 3. Wählen Sie die korrekte Wellengleichung $y(t)$ für den Ort $s=0\,\mathrm{m}$. <br> _Hinweis: Beobachten Sie den Schwinger am Ort $s=0\,\mathrm{m}$ und beschreiben Sie dessen zeitliche Bewegung._
