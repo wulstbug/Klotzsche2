@@ -2635,7 +2635,7 @@ Als Regel gilt: Wenn $\alpha<5^\circ$ kann die Kleinwinkelnäherung angewendet w
 ---
 
 
-1. 3. Berechnen Sie anschließend die Gitterkonstante und die Breite eines solchen Spektrums.
+1. 3. Berechnen Sie anschließend die Gitterkonstante (unter Nutzung der Angaben aus 1.2.) und die Breite eines solchen Spektrums.
 
 <p style='margin-left:10%'>
 
