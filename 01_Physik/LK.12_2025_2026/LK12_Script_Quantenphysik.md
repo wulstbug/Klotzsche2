@@ -217,10 +217,6 @@ mode: presentation
 
 ![Schrödingers-Katze](https://static.wixstatic.com/media/56b499_f968ac3986d649a09a223676e4292365~mv2.jpg/v1/fill/w_740,h_493,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/56b499_f968ac3986d649a09a223676e4292365~mv2.jpg)
 
-## Lesch's Kosmos - Einführung in die Quantenphysik
-
-!?[Wie funktioniert Quantenmechanik? Quantenphysik erklärt Teil 1 | Harald Lesch | Terra X Lesch & Co](https://www.youtube.com/watch?v=cWf1OUVUObw)
-
 ## 11. 0. Einführende Überlegungen zur Quantenmechanik
 
 1. Die Abgabe von Energie erfolgt immer in Energiepaketen (in __Quantisierter Form__).
