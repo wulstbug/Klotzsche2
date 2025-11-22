@@ -2730,3 +2730,169 @@ $$ \frac{\Delta b}{b} = \frac{b - b_{KW}}{b} = \frac{0,02\,\mathrm{\mu m}}{4\,\m
 Der Fehler, welcher bei der Berechnung der Gitterkonstante durch _Kleinwinkelnäherung_ gemacht wird liegt im Sub-Prozentbereich und ist somit sehr klein.
 
 </details>
+
+## 6. 13. Das Spektrum elektromagnetischer Wellen
+
+<iframe src="https://learningapps.org/watch?v=pgqf50hd225" style="border:0px;width:100%;height:500px" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"></iframe>
+
+_Bitte anschließend stichpunktartig übernehmen_
+
+
+# LB 11 - Einführung in die Quantenphysik
+
+![Schrödingers-Katze](https://static.wixstatic.com/media/56b499_f968ac3986d649a09a223676e4292365~mv2.jpg/v1/fill/w_740,h_493,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/56b499_f968ac3986d649a09a223676e4292365~mv2.jpg)
+
+## Lesch's Kosmos - Einführung in die Quantenphysik
+
+!?[Wie funktioniert Quantenmechanik? Quantenphysik erklärt Teil 1 | Harald Lesch | Terra X Lesch & Co](https://www.youtube.com/watch?v=cWf1OUVUObw)
+
+## 11. 0. Einführende Überlegungen zur Quantenmechanik
+
+1. Die Abgabe von Energie erfolgt immer in Energiepaketen (in __Quantisierter Form__).
+
+2. Die Aufnahme von Strahlung erfolgt immer in Energiepaketen (in __Quantisierter Form__).
+
+3. Das Licht hat Teilcheneigenschaften.
+
+4. Teilchen haben Welleneigenschaften.
+
+5. Die Genauigkeit der gleichzeitigen Messung von Impuls und Ort eines Teilchens ist begrenzt (__Unbestimmtheit__).
+
+## 11. 1. Schrödingers Katze 
+
+> <H4>Gedankenexperiment nach Erwin Schrödinger (1935)</H4>
+
+<section class="flex-container">
+
+<div class="flex-child-1" style="min-width: 300px; margin-bottom: -10px">
+
+![SchrödingersKatze](https://static.wixstatic.com/media/56b499_c7f1163b77fb4f1cb98a78361b977eda~mv2.jpg/v1/fill/w_740,h_493,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/56b499_c7f1163b77fb4f1cb98a78361b977eda~mv2.jpg "Quelle: https://www.sci-fakt.com/post/quantenphysik-schr%C3%B6dingers-katze-gedankenexperiment-in-3-schritten-einfach-erkl%C3%A4rt")
+
+</div>
+
+<div class="flex-child-1" style="min-width: 300px; margin-bottom: -10px">
+
+{{1}}
+************
+1. Eine (lebendige) Katze wird mit einer Giftampulle (verschlossen), einer geringen Menge radioaktiver Substanz, einem Geiger-Zählrohr und einem Hammer in eine Kiste gesteckt.
+************
+
+{{2}}
+************
+2. Die radioaktive Substanz sei so gewählt, dass die Wahrscheinlichkeit für einen radioaktiven Zerfall exakt genauso groß ist, wie die Wahrscheinlichkeit das nichts passiert.
+************
+
+{{3}}
+************
+3. Sobald die radioaktive Substanz zerfällt, registriert das der Detektor, der Hammer zerschlägt die Phiole und die Katze stirbt.
+************
+
+{{4}}
+************
+4. Die Kiste ist zu. Man hört nichts, riecht nichts, sieht nichts.
+************
+
+{{5}}
+************
+> @color(Ist die Katze nun lebendig oder tot?, blue)
+************
+
+</div>
+
+</section>
+
+{{6}}
+************
+> <H4>Quantenmechanische Deutung: So lange wir nicht nachgesehen (d.h. gemessen) haben, ist sie lebendig und tot gleichzeitig.</H4>
+************
+
+## 11. 2. Experiment: Der äußere lichtelektrische Effekt (Photoeffekt)
+
+> <H4>Experiment nach Albert Einstein (1905)</H4>
+
+<section class="flex-container">
+
+<div class="flex-child-1" style="min-width: 300px; margin-bottom: -10px">
+
+{{1-8}}
+***********
+??[Simulation-Photoeffekt](https://phet.colorado.edu/sims/cheerpj/photoelectric/latest/photoelectric.html?simulation=photoelectric&locale=de)
+***********
+
+{{8}}
+***********
+![Skizze-Photoeffekt](https://diversewolken.ddns.net/nextcloud/index.php/s/zL6DpdmEcFEiAJA/download)
+***********
+
+</div>
+
+<div class="flex-child-1" style="min-width: 300px; margin-bottom: -10px">
+
+{{1}}
+***********
+__Beschreibung:__ 
+
+{{2}}
+*********
+ - Zwei Metallelektroden befinden sich in einer Vakuum-Röhre
+
+ - Eine Elektrode wird mit monochromatischen (d.h. einfarbigem) Licht bestrahlt
+ *********
+***********
+
+{{3}}
+*********
+ __Beobachtung:__
+
+ 1. Bestrahlt man die Elektrode mit Licht einer großen Wellenlänge, kann man zwischen den Elektroden keinen Strom messen, @color(egal wie hoch die Lichtintensität, red) (d.h. wie hell die Lampe) ist.
+*********
+
+{{4}}
+*********
+ 2. Verringert man hingegen die Wellenlänge (erhöht die Frequenz), so werden unterhalb einer bestimmten Wellenlänge @color(Elektronen aus dem Material emmitiert, red). Man kann einen Stromfluss messen.
+*********
+
+{{5}} 
+*********
+ 3. Erhöht man jetzt die @color(Intensität, blue), so erhöht sich die @color(Anzahl der emmitierten Elektronen, blue).
+*********
+
+{{6}}
+*********
+ 4. Verringert man @color(die Wellenlänge, red) (erhöht @color(die Frequenz, red)) weiter, so erhöht sich die @color(kinetische Energie der Elektronen, red).
+*********
+
+</div>
+
+</section>
+
+{{7}}
+*********
+> __Schlussfolgerung:__
+
+{{8}}
+*********
+> 1. Ob überhaupt Elektronen aus dem Material herausgelöst werden, hängt nicht von der Lichtintensität ab, sondern von der Wellenlänge/Frequenz. Es existiert eine Grenzwellenlänge/Grenzfrequenz.
+*********
+
+{{9}}
+*********
+> 2. Da die Elektronen kinetische Energie erhalten, muss das @color(einfallende Licht Energie auf die Elektronen übertragen, red).
+*********
+
+{{10}}
+*********
+> 3. Da die Elektronen eine größere kinetische Energie erhalten, je kleiner die Wellenlänge ist, muss die @color(Energie des Lichts mit sinkender Wellenlänge/wachsender Frequenz steigen, red).
+*********
+
+{{11}}
+*********
+> 4. Nehmen wir an, dass @color(Energie in Paketen übertragen wird, red) (siehe Grundannahmen), trägt das Licht quantisierte Energiepakete (wir nennen sie Photonen), deren Energie von der Wellenlänge/Frequenz abhängt.
+*********
+
+{{12}}
+*********
+> @color(Wie ist der Zusammenhang von Wellenlänge/Frequenz und Energie?, blue)
+************
+
+*********
