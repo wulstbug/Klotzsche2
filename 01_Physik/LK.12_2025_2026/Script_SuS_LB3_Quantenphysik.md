@@ -622,3 +622,167 @@ Ermitteln Sie die Impulsunschärfe $\Delta p$ in x-Richtung, bei gegebener Ortsu
 </details>
 
 </p>
+
+
+### Übungsaufgabe zur Elektronen als Quantenobjekte
+
+
+Elektronen bewegen sich mit einer Geschwindigkeit von $v = 8,1 \cdot 10^7 \, \text{m} \cdot \text{s}^{-1}$.
+
+---
+
+>a) Berechne den Impuls $p$ eines Elektrons.
+
+<p style='margin-left:10%'>
+
+@rangeQuiz2($p$, 7.38e-23, $\text{kg} \cdot \text{m} \cdot \text{s}^{-1}$)
+
+</p>
+
+<details style="margin-left:10%;color:blue">
+
+<summary>Lösungshinweis</summary>
+
+Der Impuls $p$ eines Teilchens wird durch die klassische Formel $p = m_e \cdot v$ berechnet.
+
+Dabei ist $m_e$ die Ruhemasse des Elektrons.
+
+</details>
+
+<details style="margin-left:10%;color:blue">
+
+<summary>Lösung</summary>
+
+Zur Berechnung wird die Beziehung $$p = m_e \cdot v$$ verwendet.
+Mit $m_e \approx 9,109 \cdot 10^{-31} \, \text{kg}$ und $v = 8,1 \cdot 10^7 \, \text{m} \cdot \text{s}^{-1}$ folgt:
+
+$$p = 9,109 \cdot 10^{-31} \, \text{kg} \cdot 8,1 \cdot 10^7 \, \text{m} \cdot \text{s}^{-1}$$
+
+$$p \approx 7,378 \cdot 10^{-23} \, \text{kg} \cdot \text{m} \cdot \text{s}^{-1}$$
+
+</details>
+
+---
+
+> b) Berechne die De Broglie-Wellenlänge $\lambda$ dieses Elektrons.
+
+<p style='margin-left:10%'>
+
+@rangeQuiz2($\lambda$, 8.98e-12, $\text{m}$)
+
+</p>
+
+<details style="margin-left:10%;color:blue">
+
+<summary>Lösungshinweis</summary>
+
+Die De Broglie-Wellenlänge $\lambda$ eines Teilchens ist direkt mit seinem Impuls $p$ verknüpft [1, 2].
+
+Nutze das Planck’sche Wirkungsquantum $h \approx 6,626 \cdot 10^{-34} \, \text{J} \cdot \text{s}$.
+Die Beziehung lautet: $$\lambda = \frac{h}{p}$$
+
+</details>
+
+<details style="margin-left:10%;color:blue">
+
+<summary>Lösung</summary>
+
+Die De Broglie-Wellenlänge wird berechnet mittels: $$ \lambda = \frac{h}{p} $$
+
+Mit $h \approx 6,626 \cdot 10^{-34} \, \text{J} \cdot \text{s}$ und dem Impuls $p \approx 7,378 \cdot 10^{-23} \, \text{kg} \cdot \text{m} \cdot \text{s}^{-1}$ (aus Teilaufgabe a) folgt:
+
+$$ \lambda = \frac{6,626 \cdot 10^{-34} \, \text{J} \cdot \text{s}}{7,378 \cdot 10^{-23} \, \text{kg} \cdot \text{m} \cdot \text{s}^{-1}} $$
+
+$$ \lambda \approx 8,981 \cdot 10^{-12} \, \text{m} $$
+
+</details>
+
+---
+
+> c) Ermitteln Sie die Spannung $U$, welche zur Beschleunigung der Elektronen benötigt wird.
+
+<p style='margin-left:10%'>
+
+@rangeQuiz2( $U$, 18653, $\text{V}$ )
+
+</p>
+
+<details style="margin-left:10%;color:blue">
+
+<summary>Lösungshinweis</summary>
+
+Die kinetische Energie $E_{kin} = \frac{1}{2} m_e v^2$, welche die Elektronen durch die Geschwindigkeit $v$ besitzen, muss gleich der elektrischen Energie $E_{el} = e \cdot U$ sein, die durch die Beschleunigungsspannung $U$ gewonnen wurde [1].
+
+Nutze die Gleichung: $$E_{el} = E_{kin} \Rightarrow e \cdot U = \frac{1}{2} m_e v^2$$
+
+</details>
+
+<details style="margin-left:10%;color:blue">
+
+<summary>Lösung</summary>
+
+Zur Berechnung wird die Beziehung $U = \frac{m_e v^2}{2 \cdot e}$ verwendet [1].
+
+Dabei wird die Geschwindigkeit $v = 8,1 \cdot 10^7 \, \text{m} \cdot \text{s}^{-1}$ (aus den vorherigen Teilaufgaben), die Elektronenmasse $m_e \approx 9,109 \cdot 10^{-31} \, \text{kg}$ und die Elementarladung $e \approx 1,602 \cdot 10^{-19} \, \text{C}$ eingesetzt.
+
+$$U = \frac{9,109 \cdot 10^{-31} \, \text{kg} \cdot (8,1 \cdot 10^7 \, \text{m} \cdot \text{s}^{-1})^2}{2 \cdot 1,602 \cdot 10^{-19} \, \text{C}}$$
+
+$$\mathbf{U \approx 18653 \, \text{V}}$$
+
+</details>
+
+---
+
+> d) Die Elektronen werden nun durch ein atomares Gitter mit der Gitterkonstanten $b = 10 \, \text{pm}$ geschickt. Ermitteln Sie den Abstand $s_k$ des ersten ($k=1$) und des zweiten ($k=2$) Maximums vom Maximum Nullter Ordnung. <br> Der Abstand des Schirms vom Gitter beträgt 6 cm.
+
+<p style='margin-left:10%'>
+
+@rangeQuiz2( $a_1$, 1.225, $\text{m}$ )
+
+</p>
+
+
+<details style="margin-left:10%;color:blue">
+
+<summary>Lösungshinweis</summary>
+
+Nutzen Sie die allgemeine Interferenzgleichung für Maxima: $$b \cdot \sin(\alpha_k) = k \cdot \lambda$$
+
+Überprüfen Sie zunächst, ob $\frac{k \cdot \lambda}{b} \le 1$ gilt. Ist dies der Fall, existiert das Maximum der Ordnung $k$.
+
+Da die Beugungswinkel bei Elektronen oft groß sind, darf die Kleinwinkelnäherung $\sin(\alpha_k) \approx \tan(\alpha_k)$ nicht ohne Prüfung angewendet werden. Nutzen Sie allgemein den Zusammenhang: $$a_k = e \cdot \tan(\alpha_k)$$
+
+Die De Broglie-Wellenlänge $\lambda$ beträgt $\lambda \approx 8,981 \cdot 10^{-12} \, \text{m}$ und die Gitterkonstante $b = 10 \cdot 10^{-12} \, \text{m}$.
+
+</details>
+
+<details style="margin-left:10%;color:blue">
+
+<summary>Lösung</summary>
+
+**1. Prüfung der Existenz der Maxima:**
+
+Die Bedingung für Maxima ist: $$ \sin(\alpha_k) = \frac{k \cdot \lambda}{b} $$
+
+Für das Maximum 1. Ordnung ($k=1$):
+$$ \sin(\alpha_1) = \frac{1 \cdot 8,981 \cdot 10^{-12} \, \text{m}}{10 \cdot 10^{-12} \, \text{m}} = 0,8981 $$
+Da $0,8981 \le 1$ ist, existiert das erste Maximum.
+
+Für das Maximum 2. Ordnung ($k=2$):
+$$ \sin(\alpha_2) = \frac{2 \cdot 8,981 \cdot 10^{-12} \, \text{m}}{10 \cdot 10^{-12} \, \text{m}} = 1,7962 $$
+Da $1,7962 > 1$ ist, ist die Gleichung **physikalisch nicht lösbar**. Das zweite Maximum existiert nicht.
+
+**2. Berechnung des Abstands $a_1$ (1. Maximum):**
+
+Zuerst wird der Beugungswinkel $\alpha_1$ berechnet:
+$$\alpha_1 = \arcsin(0,8981) \approx 63,9^\circ$$
+
+Nun wird der Abstand $s_1$ vom Zentralmaximum ermittelt (mit $e = 0,06 \, \text{m}$):
+$$ a_1 = e \cdot \tan(\alpha_1) $$
+$$ a_1 = 0,06 \, \text{m} \cdot \tan(63,9^\circ) \approx 0,06 \, \text{m} \cdot 2,0416 $$
+$$\mathbf{a_1 \approx 0,123 \, \text{m}}$$
+
+**Ergebnis:** Der Abstand des ersten Maximums beträgt $0,123 \, \text{m}$. Das zweite Maximum existiert nicht.
+
+</details>
+
