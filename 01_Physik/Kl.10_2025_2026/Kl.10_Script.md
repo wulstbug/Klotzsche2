@@ -2036,7 +2036,7 @@ _Hinweis: Die Eigenfrequenz $f_0$ entpricht dem frei schwingenden System ohne ä
 >
 > - die einzelnen schwingenden Teilchen bewegen sich ausschließlich um ihre Gleichgewichtslage
 
-## 2. 7. Arten mechanischer Wellen
+## 2. 8. Arten mechanischer Wellen
 
 <section class="flex-container">
 
@@ -2125,7 +2125,7 @@ __Beobachtungsauftrag:__
 </p>
 
 
-## 2. 8. Eigenschaften mechanischer Wellen
+## 2. 9. Eigenschaften mechanischer Wellen
 
 @color(_Tipp: Nutze für diese Übersicht eine eigene Seite_, orange)
 
@@ -2240,8 +2240,7 @@ Wir stellen die **zeitliche Bewegung** eines einzelnen Oszillators (d.h. ein sch
 
 ************
 
-
-#### Aufgaben zur Charakterisierung von Wellen
+### Aufgaben zur Charakterisierung von Wellen
 
 <iframe src="https://www.geogebra.org/classic/nc2tbcdm?embed" width="100%" height="600" allowfullscreen style="border: 1px solid #e4e4e4;border-radius: 4px;" frameborder="0"></iframe>
 
@@ -2291,23 +2290,67 @@ __Die folgenden Aufgaben beziehen sich auf die Transversalwelle in Starteinstell
 
 </p>
 
-6. [Quiz zu mechanischen Wellen](https://www.leifiphysik.de/mechanik/mechanische-wellen/aufgabe/quiz-zu-mechanischen-wellen)
+6. Aufgabe aus Lehrbuch
 
-7. Die Gleichung für eine harmonische Welle sei gegeben durch <br> $$ y(x,t) = 0,03\,\mathrm{m}\cdot\sin\Big(2,2\,\mathrm{\frac{1}{m}}\cdot x-3,5\,\mathrm{\frac{1}{s}}\cdot t\Big) $$ <br> Ermitteln Sie Amplitude, Wellenlänge, Frequenz, Periodendauer und Ausbreitungsgeschwindigkeit.
+<p class="newspaper">
 
-<p style="margin-left:10%">
+![Phy10_LB_42_Aufgabe_4](https://diversewolken.ddns.net/nextcloud/index.php/s/xC8zPGjBriw4mL6/download)
 
-@rangeQuiz2($y_{max}$,0.03,m)
+<p class="cb">
 
-@rangeQuiz2($\lambda$,2.86,m)
+@rangeQuiz2($\hat{y}$,1.667 ,mm)
 
-@rangeQuiz2($f$,0.556,Hz)
+@rangeQuiz2($\lambda$,0.6 ,m)
 
-@rangeQuiz2($T$,1.8,s)
+@rangeQuiz2($T$, 0.002 ,s)
 
-@rangeQuiz2($v$,1.59, $\mathrm{\frac{m}{s}}$)
+@rangeQuiz2($f$, 500 ,Hz)
 
 </p>
+
+</p>
+
+<details>
+
+<summary> Lösungsweg Aufgabe 6 </summary>
+
+<iframe src="https://diversewolken.ddns.net/pdfjs/web/viewer.html?file=https://diversewolken.ddns.net/nextcloud/index.php/s/wTgm6wH49e645Gk/download"
+        width="100%" 
+        height="400px">
+</iframe>
+
+</details>
+
+---
+
+7. Aufgabe aus Lehrbuch
+
+<p class="newspaper">
+
+![Phy10_LB_42_Aufgabe_5](https://diversewolken.ddns.net/nextcloud/index.php/s/oHA9JEFt3oLrick/download)
+
+<details>
+
+<summary> _Lösungshinweis_ </summary>
+
+Recherchieren Sie in Ihrer Formelsammlung die Schallgeschwindigkeit in Luft bei 20°C._
+
+@rangeQuiz2($v_{S}$,434, $\mathrm{\frac{m}{s}}$)
+
+</details>
+
+<p class="cb">
+
+@rangeQuiz2($T$, 1.9 , ms)
+
+@rangeQuiz2($\lambda$, 0.658 ,m)
+
+</p>
+
+</p>
+
+
+8. [Quiz zu mechanischen Wellen](https://www.leifiphysik.de/mechanik/mechanische-wellen/aufgabe/quiz-zu-mechanischen-wellen)
 
 ### Master of the wave
 
