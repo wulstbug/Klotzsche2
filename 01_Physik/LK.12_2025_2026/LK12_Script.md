@@ -5414,3 +5414,67 @@ $$\mathbf{a_1 \approx 0,123 \, \text{m}}$$
 
 </details>
 
+---
+
+> e) Auf dem Schirm wird eine Breite des ersten Maximums von $\Delta a_1$ von etwa $\pm\,1\,\text{mm}$ beobachtet. Ermittle die resultierende Impulsunschärfe $\Delta p_x$. Schätze ein, ob die Heisenberg'sche Unschärferelation erfüllt ist.
+
+<p style='margin-left:10%'>
+
+@rangeQuiz2( $\Delta p_x$, 1.23e-25, $\text{kg} \cdot \text{m} \cdot \text{s}^{-1}$ )
+
+</p>
+
+
+<details style="margin-left:10%;color:blue">
+
+<summary>Lösungshinweis</summary>
+
+Die Impulsunschärfe $\Delta p_x$ (quer zur Bewegungsrichtung) ist mit dem Impuls $p$ und der Winklungsunschärfe $\Delta \alpha$ verknüpft:
+$$\Delta p_x \approx p \cdot \Delta \alpha$$
+
+Die Winklungsunschärfe $\Delta \alpha$ (im Bogenmaß) ergibt sich näherungsweise aus der beobachteten Breite $\Delta a_1$ und der Entfernung $e$:
+$$\Delta \alpha \approx \frac{\Delta a_1}{e}$$
+
+Für die Einschätzung der Heisenberg’schen Unschärferelation ($\Delta x \cdot \Delta p_x$) nutzen Sie den Wert:
+$$\frac{h}{4\pi} \approx 5,27 \cdot 10^{-35} \, \text{J} \cdot \text{s}$$
+
+</details>
+
+<details style="margin-left:10%;color:blue">
+
+<summary>Lösung</summary>
+
+**1. Berechnung der Winklungsunschärfe ($\Delta \alpha$):**
+Die Winklungsunschärfe wird aus der Breite des Maximums ($\Delta a_1 = 1 \cdot 10^{-3} \, \text{m}$) und der Entfernung $e = 0,600 \, \text{m}$ abgeschätzt:
+$$ \Delta \alpha \approx \frac{\Delta a_1}{e} = \frac{1,0 \cdot 10^{-3} \, \text{m}}{0,600 \, \text{m}} \approx 1,667 \cdot 10^{-3} \, \text{rad} $$
+
+**2. Berechnung der Impulsunschärfe ($\Delta p_x$):**
+Mit dem Impuls $p \approx 7,378 \cdot 10^{-23} \, \text{kg} \cdot \text{m} \cdot \text{s}^{-1}$ (aus Teilaufgabe a) folgt:
+$$ \Delta p_x \approx p \cdot \Delta \alpha $$
+$$ \Delta p_x \approx 7,378 \cdot 10^{-23} \, \text{N} \cdot \text{s} \cdot 1,667 \cdot 10^{-3} $$
+$$\mathbf{\Delta p_x \approx 1,230 \cdot 10^{-25} \, \text{N} \cdot \text{s}}$$
+
+**3. Einschätzung der Heisenberg’schen Unschärferelation:**
+
+Die Heisenberg’sche Unschärferelation besagt, dass das Produkt aus der Unschärfe des Ortes ($\Delta x$) und der Unschärfe des dazugehörigen Impulses ($\Delta p_x$) einen Minimalwert nicht unterschreiten darf:
+$$ \Delta x \cdot \Delta p_x \ge \frac{h}{4\pi} $$
+
+*   Minimalwert der Unschärfe: $\frac{h}{4\pi} \approx 5,27 \cdot 10^{-35} \, \text{J} \cdot \text{s}$
+
+*   $\Delta p_x$ (quer zur Bewegungsrichtung) wurde zu $\approx 1,230 \cdot 10^{-25} \, \text{N} \cdot \text{s}$ ermittelt.
+
+*   Die zugehörige Ortsunschärfe $\Delta x$ ist die Breite der Öffnung (Gitterkonstante $b = 10 \, \text{pm}$) oder die Blendenweite, die die Elektronen auf das Gitter zulässt. Nehmen wir an, die Ortsunschärfe $\Delta x$ entspricht der Gitterkonstante $b$:
+$$ \Delta x \approx b = 1,0 \cdot 10^{-11} \, \text{m} $$
+
+*   Prüfung des Produkts:
+$$ \Delta x \cdot \Delta p_x \approx (1,0 \cdot 10^{-11} \, \text{m}) \cdot (1,23 \cdot 10^{-25} \, \text{N} \cdot \text{s}) $$
+$$ \Delta x \cdot \Delta p_x \approx 1,23 \cdot 10^{-36} \, \text{J} \cdot \text{s} $$
+
+**Einschätzung:**
+Das berechnete Produkt ($\approx 1,23 \cdot 10^{-36} \, \text{J} \cdot \text{s}$) ist **deutlich kleiner** als der von der Heisenberg'schen Unschärferelation geforderte Minimalwert ($\approx 5,27 \cdot 10^{-35} \, \text{J} \cdot \text{s}$).
+
+**Begründung der Nichterfüllung:** Dies liegt daran, dass in der Fragestellung die Unschärfe im Impuls ($\Delta p_x$) aus der beobachteten Breite auf dem Schirm ($\Delta a_1$) abgeleitet wurde, während die korrespondierende Ortsunschärfe $\Delta x$ die Breite der **Gitteröffnung** selbst sein müsste, die das Beugungsmuster erzeugt. Da die Wellenlänge ($\lambda \approx 9 \, \text{pm}$) größer als die angenommene Gitterkonstante ($b = 10 \, \text{pm}$) war (siehe Teilaufgabe d), und die Gitterkonstante $b$ hier sehr klein ist, müssten die Elektronen eine sehr große Impulsunschärfe $\Delta p_x$ erfahren, um überhaupt durch das Gitter zu gelangen, die weit größer wäre als die hier berechnete $\Delta p_x$.
+
+*Hinweis: Da die Welleneigenschaft der Elektronen ($\lambda = h/p$) die Beugung bedingt, ist die Unschärferelation im Prinzip erfüllt. Das Ergebnis zeigt, dass die Annahme, dass die gesamte Gitterkonstante $b$ der Ortsunschärfe $\Delta x$ entspricht, für die gegebene $1\,\text{mm}$-Breite nicht ausreicht. Realistisch müsste die Unschärfe $\Delta x$ beim Durchgang durch das Gitter $\Delta x \approx \frac{h}{4\pi \cdot \Delta p_x} \approx 4,3 \cdot 10^{-10} \, \text{m}$ betragen, also **deutlich größer** als die Gitterkonstante $b$ sein, was auf eine viel größere Unsicherheit der Position vor dem Gitter hindeutet, damit die Relationen erfüllt sind.*
+
+</details>
