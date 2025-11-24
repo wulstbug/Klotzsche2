@@ -2733,12 +2733,14 @@ Der Fehler, welcher bei der Berechnung der Gitterkonstante durch _Kleinwinkelnä
 
 ## 6. 13. Das Spektrum elektromagnetischer Wellen
 
+![Wikipedia-Spektrum](https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Electromagnetic_spectrum_-de_c.svg/1920px-Electromagnetic_spectrum_-de_c.svg.png)
+
 <iframe src="https://learningapps.org/watch?v=pgqf50hd225" style="border:0px;width:100%;height:500px" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"></iframe>
 
 _Bitte anschließend stichpunktartig übernehmen_
 
 
-# LB 11 - Einführung in die Quantenphysik
+# LB 7 - Einführung in die Quantenphysik
 
 ![Schrödingers-Katze](https://static.wixstatic.com/media/56b499_f968ac3986d649a09a223676e4292365~mv2.jpg/v1/fill/w_740,h_493,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/56b499_f968ac3986d649a09a223676e4292365~mv2.jpg)
 
@@ -2758,7 +2760,7 @@ _Bitte anschließend stichpunktartig übernehmen_
 
 5. Die Genauigkeit der gleichzeitigen Messung von Impuls und Ort eines Teilchens ist begrenzt (__Unbestimmtheit__).
 
-## 11. 1. Schrödingers Katze 
+## 7. 1. Schrödingers Katze 
 
 > <H4>Gedankenexperiment nach Erwin Schrödinger (1935)</H4>
 
@@ -2806,7 +2808,7 @@ _Bitte anschließend stichpunktartig übernehmen_
 > <H4>Quantenmechanische Deutung: So lange wir nicht nachgesehen (d.h. gemessen) haben, ist sie lebendig und tot gleichzeitig.</H4>
 ************
 
-## 11. 2. Experiment: Der äußere lichtelektrische Effekt (Photoeffekt)
+## 7. 2. Experiment: Der äußere lichtelektrische Effekt (Photoeffekt)
 
 > <H4>Experiment nach Albert Einstein (1905)</H4>
 

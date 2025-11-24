@@ -206,7 +206,7 @@ mode: presentation
 
 ![Schrödingers-Katze](https://static.wixstatic.com/media/56b499_f968ac3986d649a09a223676e4292365~mv2.jpg/v1/fill/w_740,h_493,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/56b499_f968ac3986d649a09a223676e4292365~mv2.jpg)
 
-## 11. 0. Einführende Überlegungen zur Quantenmechanik
+## 7. 0. Einführende Überlegungen zur Quantenmechanik
 
 1. Die Abgabe von Energie erfolgt immer in Energiepaketen (in __Quantisierter Form__).
 
@@ -218,7 +218,7 @@ mode: presentation
 
 5. Die Genauigkeit der gleichzeitigen Messung von Impuls und Ort eines Teilchens ist begrenzt (__Unbestimmtheit__).
 
-## 11. 1. Schrödingers Katze 
+## 7. 1. Schrödingers Katze 
 
 > <H4>Gedankenexperiment nach Erwin Schrödinger (1935)</H4>
 
@@ -248,7 +248,7 @@ mode: presentation
 
 > <H4>Quantenmechanische Deutung: So lange wir nicht nachgesehen (d.h. gemessen) haben, ist sie lebendig und tot gleichzeitig.</H4>
 
-## 11. 2. Experiment: Der äußere lichtelektrische Effekt (Photoeffekt)
+## 7. 2. Experiment: Der äußere lichtelektrische Effekt (Photoeffekt)
 
 > <H4>Experiment nach Albert Einstein (1905)</H4>
 

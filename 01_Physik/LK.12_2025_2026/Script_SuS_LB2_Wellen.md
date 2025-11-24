@@ -1092,7 +1092,6 @@ $$ \lambda_2 = 630\,\mathrm{nm} $$
  
 ## 10. 18. Das Spektrum elektromagnetischer Wellen
 
-
 <iframe src="https://learningapps.org/watch?v=pgqf50hd225" style="border:0px;width:100%;height:500px" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"></iframe>
 
 _Bitte anschließend stichpunktartig übernehmen_
