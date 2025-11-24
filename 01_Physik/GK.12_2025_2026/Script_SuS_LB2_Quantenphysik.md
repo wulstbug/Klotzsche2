@@ -202,7 +202,7 @@ mode: presentation
 
 -->
 
-# LB 7 Einführung in die Quantenphysik 
+# LB VII Einführung in die Quantenphysik 
 
 ![Schrödingers-Katze](https://static.wixstatic.com/media/56b499_f968ac3986d649a09a223676e4292365~mv2.jpg/v1/fill/w_740,h_493,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/56b499_f968ac3986d649a09a223676e4292365~mv2.jpg)
 
