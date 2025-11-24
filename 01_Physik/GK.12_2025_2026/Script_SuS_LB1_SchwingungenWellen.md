@@ -1663,6 +1663,8 @@ Der Fehler, welcher bei der Berechnung der Gitterkonstante durch _Kleinwinkelnä
 
 ## 6. 13. Das Spektrum elektromagnetischer Wellen
 
+![Wikipedia-Spektrum](https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Electromagnetic_spectrum_-de_c.svg/1920px-Electromagnetic_spectrum_-de_c.svg.png)
+
 <iframe src="https://learningapps.org/watch?v=pgqf50hd225" style="border:0px;width:100%;height:500px" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"></iframe>
 
 _Bitte anschließend stichpunktartig übernehmen_
