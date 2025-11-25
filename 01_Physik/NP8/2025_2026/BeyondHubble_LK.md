@@ -1379,15 +1379,23 @@ Erstelle eine Tabelle mit drei Spalten. Die Spalten tragen den Titel α, α' und
 | 70     | 70      | 40     |   |
 ************
 
-
 {{2}}
 ************
+<section class="flex-container">
+
+<div class="flex-child-1" style="min-width: 300px; margin-bottom: -10px">
+
 > Für die Brechnung von Licht gilt folgendes Gesetz:
 >
 > $$ n = \dfrac{\sin\alpha}{\sin{\beta}}$$
 > 
 > Die Größe $n$ wird Brechzahl genannt und ist von den Materialien der Brechung abhängig.
-************
+
+
+
+</div>
+
+<div class="flex-child-1" style="min-width: 300px; margin-bottom: -10px">
 
 {{3}}
 ************
@@ -1396,11 +1404,19 @@ Erstelle eine Tabelle mit drei Spalten. Die Spalten tragen den Titel α, α' und
 > $$n = 1,5$$
 ************
 
+</div>
+
+</section>
+
+************
+
 {{4}}
 ************
+
+
 <section class="flex-container">
 
-<div class="flex-child-1" style="min-width: 300px; margin-bottom: -10px">
+<div class="flex-child-2" style="min-width: 400px; margin-bottom: -10px">
 
 Mit Hilfe der Brechzahl $n$ kann man nun mit dem CAS Taschenrechner den Brechungswinkel lösen.
 
@@ -1423,7 +1439,7 @@ $$ \beta =30,7^\circ$$
 *************
 </div>
 
-<div class="flex-child-1" style="min-width: 300px; margin-bottom: -10px">
+<div class="flex-child-1" style="min-width: 200px; margin-bottom: -10px">
 
 {{5}}
 *************
