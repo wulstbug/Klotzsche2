@@ -1457,6 +1457,193 @@ $$ \beta =30,7^\circ$$
 ************
 
 
+## Arten von optischen Linsen 
+
+{{1}}
+********
+!?[OptischeLinsen_LEIFI](https://diversewolken.ddns.net/nextcloud/index.php/s/aW3jmFcjxDBcJSD/download)
+********
+
+<section class="flex-container">
+
+<div class="flex-child-1" style="min-width: 200px; margin-bottom: -10px">
+
+__Bezeichnung__
+
+</div>
+
+<div class="flex-child-1" style="min-width: 200px; margin-bottom: -10px">
+
+{2}{Sammellinsen}
+
+</div>
+
+<div class="flex-child-1" style="min-width: 200px; margin-bottom: -10px">
+
+{3}{Zerstreungslinsen}
+
+</div>
+
+</section>
+
+---
+
+<section class="flex-container">
+
+<div class="flex-child-1" style="min-width: 200px; margin-bottom: -10px">
+
+__Merkmal__
+
+</div>
+
+<div class="flex-child-1" style="min-width: 200px; margin-bottom: -10px">
+
+{{4}}
+*************
+Am Rand dünner als in der Mitte 
+
+Parallele Lichtstrahlen werden zum Brennpunkt F gebrochen.
+*************
+
+</div>
+
+<div class="flex-child-1" style="min-width: 200px; margin-bottom: -10px">
+
+{{5}}
+*************
+Am Rand dicker als in der Mitte
+
+Parallele Lichtstrahlen werden vom Brennpunkt weg gebrochen
+*************
+
+</div>
+
+</section>
+
+---
+
+<section class="flex-container">
+
+<div class="flex-child-1" style="min-width: 200px; margin-bottom: -10px">
+
+__Strahlengang__
+
+</div>
+
+<div class="flex-child-1" style="min-width: 200px; margin-bottom: -10px">
+
+{{6}}
+*************
+![Parallelstrahlen_Sammellinse](https://diversewolken.ddns.net/nextcloud/index.php/s/AEmigNGpENWtZzF/download)
+*************
+
+</div>
+
+<div class="flex-child-1" style="min-width: 200px; margin-bottom: -10px">
+
+
+{{7}}
+*************
+![Parallelstrahlen_Zerstreungslinse](https://diversewolken.ddns.net/nextcloud/index.php/s/Bc5eJXkJtbosapH/download)
+*************
+</div>
+
+</section>
+
+
+## Arten von optischen Linsen 
+
+{{1}}
+********
+!?[OptischeLinsen_LEIFI](https://diversewolken.ddns.net/nextcloud/index.php/s/aW3jmFcjxDBcJSD/download)
+********
+
+<section class="flex-container">
+
+<div class="flex-child-1" style="min-width: 200px; margin-bottom: -10px">
+
+__Bezeichnung__
+
+</div>
+
+<div class="flex-child-1" style="min-width: 200px; margin-bottom: -10px">
+
+{2}{Sammellinsen}
+
+</div>
+
+<div class="flex-child-1" style="min-width: 200px; margin-bottom: -10px">
+
+{3}{Zerstreungslinsen}
+
+</div>
+
+</section>
+
+---
+
+<section class="flex-container">
+
+<div class="flex-child-1" style="min-width: 200px; margin-bottom: -10px">
+
+__Merkmal__
+
+</div>
+
+<div class="flex-child-1" style="min-width: 200px; margin-bottom: -10px">
+
+{{4}}
+*************
+Am Rand dünner als in der Mitte 
+
+Parallele Lichtstrahlen werden zum Brennpunkt F gebrochen.
+*************
+
+</div>
+
+<div class="flex-child-1" style="min-width: 200px; margin-bottom: -10px">
+
+{{5}}
+*************
+Am Rand dicker als in der Mitte
+
+Parallele Lichtstrahlen werden vom Brennpunkt weg gebrochen
+*************
+
+</div>
+
+</section>
+
+---
+
+<section class="flex-container">
+
+<div class="flex-child-1" style="min-width: 200px; margin-bottom: -10px">
+
+__Strahlengang__
+
+</div>
+
+<div class="flex-child-1" style="min-width: 200px; margin-bottom: -10px">
+
+{{6}}
+*************
+![Parallelstrahlen_Sammellinse](https://diversewolken.ddns.net/nextcloud/index.php/s/AEmigNGpENWtZzF/download)
+*************
+
+</div>
+
+<div class="flex-child-1" style="min-width: 200px; margin-bottom: -10px">
+
+
+{{7}}
+*************
+![Parallelstrahlen_Zerstreungslinse](https://diversewolken.ddns.net/nextcloud/index.php/s/Bc5eJXkJtbosapH/download)
+*************
+</div>
+
+</section>
+
 
 
 ## Lichtweg an Sammel- und Zerstreuungslinsen
