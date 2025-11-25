@@ -1363,7 +1363,7 @@ Bearbeite Aufgabe
 
 ## Auswertung zum Experiment Brechung
 
-{{1}}
+{{1-7}}
 ************
 Erstelle eine Tabelle mit drei Spalten. Die Spalten tragen den Titel α, α' und β.
 
@@ -1435,7 +1435,7 @@ $$ \beta =30,7^\circ$$
 </section>
 ************
 
-{{5}}
+{{7}}
 *************
 @color(Bestimme in der freien Spalte die Werte für die Brechungswinkel., blue)
 *************
