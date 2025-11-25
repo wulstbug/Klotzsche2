@@ -5478,3 +5478,16 @@ Das berechnete Produkt ($\approx 1,23 \cdot 10^{-36} \, \text{J} \cdot \text{s}$
 *Hinweis: Da die Welleneigenschaft der Elektronen ($\lambda = h/p$) die Beugung bedingt, ist die Unschärferelation im Prinzip erfüllt. Das Ergebnis zeigt, dass die Annahme, dass die gesamte Gitterkonstante $b$ der Ortsunschärfe $\Delta x$ entspricht, für die gegebene $1\,\text{mm}$-Breite nicht ausreicht. Realistisch müsste die Unschärfe $\Delta x$ beim Durchgang durch das Gitter $\Delta x \approx \frac{h}{4\pi \cdot \Delta p_x} \approx 4,3 \cdot 10^{-10} \, \text{m}$ betragen, also **deutlich größer** als die Gitterkonstante $b$ sein, was auf eine viel größere Unsicherheit der Position vor dem Gitter hindeutet, damit die Relationen erfüllt sind.*
 
 </details>
+
+## 11. 7. Leuchtdioden - Der inverse Fotoeffekt
+
+> Mit der Hilfe von Leuchtdioden (LED - light emitting diode), lässt sich eine Umkehrung des Fotoeffekts experimentell untersuchen. In diesem Experiment soll die Abhängigkeit der Schwellspannung von der Farbe der zugehörigen LEDs untersucht werden.
+
+__Vorbetrachtung:__
+
+Bei einer Leuchtdiode wird den Elektronen innerhalb des Halbleitermaterials elektrische Energie durch die Spannung $U$ zugeführt. Diese Energie kann vereinfacht mit $E= U\cdot e$ angenommen werden. <br> Ist die zugeführte Energie groß genug, so kann ein Elektron unter Abgabe dieser Energiemenge ein Photon aussenden. <br> Bei einfarbigen Leuchtdiode senden Elektronen auf diese Weise nur Photonen einer bestimmten Wellenlänge (Farbe der LED) aus. Energie, die das Elektron zusätzlich noch aufgenommen hat, wird in Form von Wärme abegeben.
+
+__Versuchsaufbau:__
+
+Wie in der Vorbetrachtung beschrieben, benötigt eine LED eine minimale Schwellspannung $U_S$, damit sie leuchtet. Ziel dieses Versuchs ist es, diese Schwellspannung $U_S$ für verschieden-farbige LEDs zu untersuchen und die Werte für $U_S$ mit der Energie der ausgesandten Photonen zu vergleichen.
+

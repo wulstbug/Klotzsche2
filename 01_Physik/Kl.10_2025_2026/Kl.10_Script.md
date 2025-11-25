@@ -2335,7 +2335,7 @@ __Die folgenden Aufgaben beziehen sich auf die Transversalwelle in Starteinstell
 
 Recherchieren Sie in Ihrer Formelsammlung die Schallgeschwindigkeit in Luft bei 20°C._
 
-@rangeQuiz2($v_{S}$,434, $\mathrm{\frac{m}{s}}$)
+@rangeQuiz2($v_{S}$,344, $\mathrm{\frac{m}{s}}$)
 
 </details>
 
