@@ -5479,15 +5479,63 @@ Das berechnete Produkt ($\approx 1,23 \cdot 10^{-36} \, \text{J} \cdot \text{s}$
 
 </details>
 
-## 11. 7. Leuchtdioden - Der inverse Fotoeffekt
+## 11. 7. Experiment - Der inverse Fotoeffekt (LEDs)
 
 > Mit der Hilfe von Leuchtdioden (LED - light emitting diode), lässt sich eine Umkehrung des Fotoeffekts experimentell untersuchen. In diesem Experiment soll die Abhängigkeit der Schwellspannung von der Farbe der zugehörigen LEDs untersucht werden.
 
+---
+
 __Vorbetrachtung:__
 
-Bei einer Leuchtdiode wird den Elektronen innerhalb des Halbleitermaterials elektrische Energie durch die Spannung $U$ zugeführt. Diese Energie kann vereinfacht mit $E= U\cdot e$ angenommen werden. <br> Ist die zugeführte Energie groß genug, so kann ein Elektron unter Abgabe dieser Energiemenge ein Photon aussenden. <br> Bei einfarbigen Leuchtdiode senden Elektronen auf diese Weise nur Photonen einer bestimmten Wellenlänge (Farbe der LED) aus. Energie, die das Elektron zusätzlich noch aufgenommen hat, wird in Form von Wärme abegeben.
+<p style="margin-left:10%">
+
+Bei einer Leuchtdiode wird Elektronen innerhalb des Halbleitermaterials elektrische Energie zugeführt. Diese Energie kann vereinfacht mit $E= U\cdot e$ angenommen werden. <br> Ist die zugeführte Energie groß genug, so kann ein Elektron unter Abgabe dieser Energiemenge ein Photon $E_{ph} = h \cdot f$ aussenden. <br> Bei einfarbigen Leuchtdiode können Elektronen auf diese Weise Photonen einer bestimmten Wellenlänge (Farbe der LED) aussenden, wenn $$U \cdot e \geq h \cdot f$$ Energie, die die Photonenenergie übertrifft, wird in Form von Wärme abegeben.
+
+</p>
+
+---
 
 __Versuchsaufbau:__
 
-Wie in der Vorbetrachtung beschrieben, benötigt eine LED eine minimale Schwellspannung $U_S$, damit sie leuchtet. Ziel dieses Versuchs ist es, diese Schwellspannung $U_S$ für verschieden-farbige LEDs zu untersuchen und die Werte für $U_S$ mit der Energie der ausgesandten Photonen zu vergleichen.
+<p style="margin-left:10%">
+
+<section class="flex-container">
+
+<div class="flex-child-1" style="min-width: 300px; margin-bottom: -10px">
+
+Wie in der Vorbetrachtung beschrieben, benötigt eine LED eine minimale Schwellspannung $U_S$, damit sie leuchtet. Ziel dieses Versuchs ist es, diese Schwellspannung $U_S$ für verschieden-farbige LEDs zu untersuchen und die Werte für $U_S$ mit der Energie der ausgesandten Photonen zu vergleichen. Für die Schwellspannung gilt näherungsweise: $$ U_S \cdot e = h \cdot f $$
+
+</div>
+
+<div class="flex-child-1" style="min-width: 300px; margin-bottom: -10px">
+
+![Versuchsaufbau](https://diversewolken.ddns.net/nextcloud/index.php/s/B2FJWoLyN8AzJXM/download)
+
+</div>
+
+</section>
+
+</p>
+
+---
+
+__Materialien:__ 
+
+- LEDs (infra-rot, rot, orange, grün, blau)
+
+- Mobile-Cassy Messgerät
+
+- 50 $\Omega$ Vorwiderstand
+
+---
+
+__Durchfühgung__
+
+<p style="margin-left:10%; color:blue">
+
+Nehmen Sie für die verschiedenen Leuchtdioden die Kennlinien auf. Ermitteln Sie die zugehörige Schwellspannung $U_S$. Zeichnen Sie ein Diagramm $U_S(f)$, wobei $f$ die Freqenz der ausgesandten Photonen ist.
+
+</p>
+
+
 
