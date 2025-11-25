@@ -1361,6 +1361,86 @@ Bearbeite Aufgabe
 
 </section>
 
+## Auswertung zum Experiment Brechung
+
+{{1}}
+************
+Erstelle eine Tabelle mit drei Spalten. Die Spalten tragen den Titel α, α' und β.
+
+| α in ° | α' in ° | β in ° |   |
+|--------|---------|--------|---|
+| 0      | 0       | 0      |   |
+| 10     | 10      | 7,5    |   |
+| 20     | 20      | 13     |   |
+| 30     | 30      | 20     |   |
+| 40     | 40      | 26     |   |
+| 50     | 50      | 30     |   |
+| 60     | 60      | 36     |   |
+| 70     | 70      | 40     |   |
+************
+
+
+{{2}}
+************
+> Für die Brechnung von Licht gilt folgendes Gesetz:
+>
+> $$ n = \dfrac{\sin\alpha}{\sin{\beta}}$$
+> 
+> Die Größe $n$ wird Brechzahl genannt und ist von den Materialien der Brechung abhängig.
+************
+
+{{3}}
+************
+> Für unser Experiment (Plexiglas) ergibt sich
+> 
+> $$n = 1,5$$
+************
+
+{{4}}
+************
+<section class="flex-container">
+
+<div class="flex-child-1" style="min-width: 300px; margin-bottom: -10px">
+
+Mit Hilfe der Brechzahl $n$ kann man nun mit dem CAS Taschenrechner den Brechungswinkel lösen.
+
+Tippe dazu im CAS:
+
+$$ Solve(1,5=sin(\alpha)/\sin(x))$$
+
+Das Ergebnis für x ist der Wert des Brechungswinkels $\beta$.
+
+{{6}}
+*************
+Beispiel: 
+
+$$\alpha = 50^\circ$$
+
+$$ n = 1,5 $$
+
+$$ \beta =30,7^\circ$$
+
+*************
+</div>
+
+<div class="flex-child-1" style="min-width: 300px; margin-bottom: -10px">
+
+{{5}}
+*************
+![Solve](https://diversewolken.ddns.net/nextcloud/index.php/s/3kwCfkttE9H5Kg2/download)
+*************
+
+</div>
+
+</section>
+************
+
+{{5}}
+*************
+@color(Bestimme in der freien Spalte die Werte für die Brechungswinkel., blue)
+*************
+
+
 ## Lichtweg an Sammel- und Zerstreuungslinsen
 
 > Aufgabe: Konstruiere den Lichtweg in verschiedenen Konfigurationen auf Geogebra.
