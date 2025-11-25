@@ -1436,6 +1436,11 @@ $$ n = 1,5 $$
 
 $$ \beta =30,7^\circ$$
 
+{{7}}
+*************
+@color(Bestimme in der freien Spalte die Werte für die Brechungswinkel., blue)
+*************
+
 *************
 </div>
 
@@ -1444,11 +1449,6 @@ $$ \beta =30,7^\circ$$
 {{5}}
 *************
 ![Solve](https://diversewolken.ddns.net/nextcloud/index.php/s/3kwCfkttE9H5Kg2/download)
-*************
-
-{{7}}
-*************
-@color(Bestimme in der freien Spalte die Werte für die Brechungswinkel., blue)
 *************
 
 </div>
