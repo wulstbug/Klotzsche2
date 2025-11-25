@@ -624,7 +624,7 @@ Ermitteln Sie die Impulsunschärfe $\Delta p$ in x-Richtung, bei gegebener Ortsu
 </p>
 
 
-### Übungsaufgabe zur Elektronen als Quantenobjekte
+### Übungsaufgabe zu Elektronen als Quantenobjekte
 
 
 Elektronen bewegen sich mit einer Geschwindigkeit von $v = 8,1 \cdot 10^7 \, \text{m} \cdot \text{s}^{-1}$.
@@ -737,7 +737,7 @@ $$\mathbf{U \approx 18653 \, \text{V}}$$
 
 <p style='margin-left:10%'>
 
-@rangeQuiz2( $a_1$, 1.225, $\text{m}$ )
+@rangeQuiz2( $a_1$, 0.1225, $\text{m}$ )
 
 </p>
 
