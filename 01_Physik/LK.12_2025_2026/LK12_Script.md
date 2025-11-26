@@ -5552,7 +5552,7 @@ Für dieses Experiment wird ein photographischer Schirm genutzt. Jedes auftreffe
 
 Eine größere Anzahl von Photonen (b+c) hinterlässt auf dem Schirm ein Bild, welches einem Interferenzmuster (d) ähnelt
 
-> Die @color(Zufallsverteilung, red) für eine große Anzahl an Photonen ist color(determiniert, red) (@color(vorherbestimmt, red)).
+> Die @color(Zufallsverteilung, red) für eine große Anzahl an Photonen ist @color(determiniert, red) (@color(vorherbestimmt, red)).
 
 </div>
 
