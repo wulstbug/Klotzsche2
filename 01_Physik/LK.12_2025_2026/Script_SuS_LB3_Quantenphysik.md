@@ -789,14 +789,12 @@ $$\mathbf{a_1 \approx 0,123 \, \text{m}}$$
 
 ## 11. 7. Einzelphotoneninterferenz am Doppelspalt
 
-{{1}}
-****************
 <section class="flex-container">
 
 <div class="flex-child-1" style="min-width: 300px; margin-bottom: -10px">
 
 
-Reduziert man beim einem Doppelspalt-Experiment die Lichtintensität, so lässt sich nachweisen, dass sich im Versuchsaufbau zu einem Zeitpunkt lediglich ein Photon befindet.
+Reduziert man bei einem Doppelspalt-Experiment die Lichtintensität, so lässt sich nachweisen, dass sich im Versuchsaufbau zu einem Zeitpunkt lediglich ein Photon befindet.
 
 <p style="color:blue">
 
