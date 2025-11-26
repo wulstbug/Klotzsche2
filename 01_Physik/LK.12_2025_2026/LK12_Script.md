@@ -5586,7 +5586,7 @@ Mit einer Elektronenkanone werden Elektronen mit einer Spannung von 5 kV beschle
 
 Ermitteln Sie zunächst die Geschwindigkeit der Elektronen. Gehen Sie anschließend ähnlich vor, wie bei den Photonen. Nutze Sie die Definition der Stromstärke.
 
-@rangeQuiz2($v$,4.19,$\mathrm{\frac{m}{s}}$)
+@rangeQuiz2($v$,4.19e7,$\mathrm{\frac{m}{s}}$)
 
 </details>
 
