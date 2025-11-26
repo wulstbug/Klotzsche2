@@ -808,7 +808,7 @@ Bestimmen Sie für einen Laser der Wellenlänge 650 nm die maximale Lichtleistun
 
 <summary> Lösungshinweis </summary>
 
-Bestimme Sie die Energie eines Photons. Ermitteln Sie Flugzeit eines Photons. Passen Sie nun die Lichtleistung so an, dass die Zeit, zwischen zwei ausgesandten Photonen größer ist als die Flugzeit.
+Bestimmen Sie die Energie eines Photons. Ermitteln Sie Flugzeit eines Photons. Passen Sie nun die Lichtleistung so an, dass die Zeit, zwischen zwei ausgesandten Photonen größer ist als die Flugzeit.
 
 </details>
 
@@ -836,7 +836,7 @@ Für dieses Experiment wird ein photographischer Schirm genutzt. Jedes auftreffe
 
 Eine größere Anzahl von Photonen (b+c) hinterlässt auf dem Schirm ein Bild, welches einem Interferenzmuster (d) ähnelt
 
-> Die @color(Zufallsverteilung, red) für eine große Anzahl an Photonen ist color(determiniert, red) (@color(vorherbestimmt, red)).
+> Die @color(Zufallsverteilung, red) für eine große Anzahl an Photonen ist @color(determiniert, red) (@color(vorherbestimmt, red)).
 
 </div>
 
@@ -847,3 +847,51 @@ Eine größere Anzahl von Photonen (b+c) hinterlässt auf dem Schirm ein Bild, w
 </div>
 
 </section>
+
+
+### Übungsaufgabe Einzelelektroneninterferenz
+
+In einem Experiment von Jöhnson 1950 wurde ein Elektronenstrahl auf ein Beugungsgitter geschickt und die Auftreffpunkte der Elektronen wurden anschließend auf einem Schirm sichtbar gemacht. Dabei ergab sich ein sehr ähnliches Bild, wie es bei den Photonen zu beobachten ist.
+
+Mit einer Elektronenkanone werden Elektronen mit einer Spannung von 5 kV beschleunigt und auf ein Gitter gelenkt. Ermitteln Sie den maximalen Stromfluss $I_{max}$, bei welchem sich immer nur genau ein Elektron in der Aperatur der Länge $ℓ=1\,\mathrm{m}$ befindet.
+
+<p style='margin-left:10%'>
+
+
+@rangeQuiz2($I_{max}$, 6.718e-12 , $\mathrm{A}$)
+
+</p>
+
+<details style='margin-left:10%;color:blue'>
+
+<summary> Lösungshinweis </summary>
+
+Ermitteln Sie zunächst die Geschwindigkeit der Elektronen. Gehen Sie anschließend ähnlich vor, wie bei den Photonen. Nutze Sie die Definition der Stromstärke.
+
+@rangeQuiz2($v$,4.19,$\mathrm{\frac{m}{s}}$)
+
+</details>
+
+<details style='margin-left:10%;color:blue'>
+
+<summary> Lösung </summary>
+
+Die kinetische Energie $E_{kin} = \frac{1}{2} m_e v^2$, welche die Elektronen durch die Geschwindigkeit $v$ besitzen, muss gleich der elektrischen Energie $E_{el} = e \cdot U$ sein, die durch die Beschleunigungsspannung $U$ gewonnen wurde.
+
+Es folgt:
+
+$$ \frac{1}{2} m_e v^2 = e \cdot U $$
+
+für die Geschwindigkeit der Elektronen:
+
+$$ v = \sqrt{2\cdot e \cdot U}{m_e} = 4,19 \cdot 10^{7} \,\mathrm{\frac{m}{s}} $$
+
+Die Flugzeit der Elektronen beträgt:
+
+$$ t = \frac{ℓ}{v} = 2,38\cdot 10^{-8} \,\mathrm{s}$$
+
+Die maximale Stromstärke ergibt sich zu
+
+$$ I = \frac{Q}{t} = \frac{e}{t} = 6,718 \cdot 10^{-12}\,\mathrm{A}$$
+
+</details>
