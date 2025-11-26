@@ -786,3 +786,64 @@ $$\mathbf{a_1 \approx 0,123 \, \text{m}}$$
 
 </details>
 
+
+## 11. 7. Einzelphotoneninterferenz am Doppelspalt
+
+{{1}}
+****************
+<section class="flex-container">
+
+<div class="flex-child-1" style="min-width: 300px; margin-bottom: -10px">
+
+
+Reduziert man beim einem Doppelspalt-Experiment die Lichtintensität, so lässt sich nachweisen, dass sich im Versuchsaufbau zu einem Zeitpunkt lediglich ein Photon befindet.
+
+<p style="color:blue">
+
+Bestimmen Sie für einen Laser der Wellenlänge 650 nm die maximale Lichtleistung, damit sich in der Aperatur der Länge ℓ lediglich 1 Photon befindet.
+
+@rangeQuiz2($P_L$, 9.18e-11, $\mathrm{W}$)
+
+<details style='margin-left:10%'>
+
+<summary> Lösungshinweis </summary>
+
+Bestimme Sie die Energie eines Photons. Ermitteln Sie Flugzeit eines Photons. Passen Sie nun die Lichtleistung so an, dass die Zeit, zwischen zwei ausgesandten Photonen größer ist als die Flugzeit.
+
+</details>
+
+</p>
+
+</div>
+
+<div class="flex-child-1" style="min-width: 300px; margin-bottom: -10px">
+
+![Skizze](https://diversewolken.ddns.net/nextcloud/index.php/s/bgosKyRYWKax9zX/download)
+
+</div>
+
+</section>
+
+__Beobachtungen auf dem Schirm:__
+
+<section class="flex-container">
+
+<div class="flex-child-1" style="min-width: 300px; margin-bottom: -10px">
+
+Für dieses Experiment wird ein photographischer Schirm genutzt. Jedes auftreffende Photon hinterlässt einen hellen Fleck. Wird das Experiment mit wenigen Photonen durchgeführt (a), so ergibt sich eine scheinbar zufällige Verteilung der Photonen. 
+
+> Der Ort des Auftreffens ist für das einzelne Photon @color(nicht vorhersagbar, red) (@color(nicht determiniert, red)).
+
+Eine größere Anzahl von Photonen (b+c) hinterlässt auf dem Schirm ein Bild, welches einem Interferenzmuster (d) ähnelt
+
+> Die @color(Zufallsverteilung, red) für eine große Anzahl an Photonen ist color(determiniert, red) (@color(vorherbestimmt, red)).
+
+</div>
+
+<div class="flex-child-1" style="min-width: 300px; margin-bottom: -10px">
+
+![Einzelphotoneninterferenz](https://diversewolken.ddns.net/nextcloud/index.php/s/Hpjzn7WP4Eb9eWA/download)
+
+</div>
+
+</section>
