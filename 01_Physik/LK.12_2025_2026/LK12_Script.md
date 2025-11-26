@@ -5655,7 +5655,7 @@ $$ \boxed{\Psi(x,t) = A_{max} \cdot \sin\Big( \frac{2\pi}{\lambda}\cdot x-\frac{
 
 {{2}}
 **************
-__Überlagerung/Superposition zweier harmonischer Wellen:__
+__Überlagerung/Superposition zweier harmonischer Wellen [SimulationSuperposition](https://www.geogebra.org/classic/sd49erad):__
 
 <section class="flex-container">
 
