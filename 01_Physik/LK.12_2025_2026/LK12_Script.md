@@ -5494,7 +5494,7 @@ Reduziert man beim einem Doppelspalt-Experiment die Lichtintensität, so lässt 
 *************
 <p style="color:blue">
 
-Bestimmen Sie für einen Laser der Wellenlänge 650 nm die maximale Lichtleistung, damit sich in der Aperatur der Länge ℓ lediglich 1 Photon befindet.
+Bestimmen Sie für einen Laser der Wellenlänge 650 nm die maximale Lichtleistung, damit sich in der Aperatur der Länge $ℓ=1\,\mathrm{m}$ lediglich 1 Photon befindet.
 
 <details style='margin-left:10%'>
 
