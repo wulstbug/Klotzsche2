@@ -50,7 +50,7 @@ window.LIA.settings.font_size = 2
 
 ## Einführung: Was ist Kommunikation
 
-<iframe src="https://www.br.de/fernsehen/ard-alpha/sendungen/alpha-lernen/was-ist-kommunikation-sprache-definiton-100~player.html" width="512" height="288" allowfullscreen frameBorder="0" scrolling="no"></iframe>
+[WasIstKommunikation](https://www.br.de/fernsehen/ard-alpha/sendungen/alpha-lernen/was-ist-kommunikation-sprache-definiton-100~player.html)
 
 ### Quiz - Grundlagen Kommunikation
 
