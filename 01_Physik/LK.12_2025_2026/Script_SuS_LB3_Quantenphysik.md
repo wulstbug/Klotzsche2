@@ -882,7 +882,7 @@ $$ \frac{1}{2} m_e v^2 = e \cdot U $$
 
 für die Geschwindigkeit der Elektronen:
 
-$$ v = \sqrt{2\cdot e \cdot U}{m_e} = 4,19 \cdot 10^{7} \,\mathrm{\frac{m}{s}} $$
+$$ v = \sqrt{\frac{2\cdot e \cdot U}{m_e}} = 4,19 \cdot 10^{7} \,\mathrm{\frac{m}{s}} $$
 
 Die Flugzeit der Elektronen beträgt:
 
