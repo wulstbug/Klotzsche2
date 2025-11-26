@@ -5488,7 +5488,7 @@ Das berechnete Produkt ($\approx 1,23 \cdot 10^{-36} \, \text{J} \cdot \text{s}$
 <div class="flex-child-1" style="min-width: 300px; margin-bottom: -10px">
 
 
-Reduziert man beim einem Doppelspalt-Experiment die Lichtintensität, so lässt sich nachweisen, dass sich im Versuchsaufbau zu einem Zeitpunkt lediglich ein Photon befindet.
+Reduziert man bei einem Doppelspalt-Experiment die Lichtintensität, so lässt sich nachweisen, dass sich im Versuchsaufbau zu einem Zeitpunkt lediglich ein Photon befindet.
 
 {{2}}
 *************
