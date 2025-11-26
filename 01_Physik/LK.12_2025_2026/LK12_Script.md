@@ -5500,7 +5500,7 @@ Bestimmen Sie für einen Laser der Wellenlänge 650 nm die maximale Lichtleistun
 
 <summary> Lösungshinweis </summary>
 
-Bestimme Sie die Energie eines Photons. Ermitteln Sie Flugzeit eines Photons. Passen Sie nun die Lichtleistung so an, dass die Zeit, zwischen zwei ausgesandten Photonen größer ist als die Flugzeit.
+Bestimmen Sie die Energie eines Photons. Ermitteln Sie Flugzeit eines Photons. Passen Sie nun die Lichtleistung so an, dass die Zeit, zwischen zwei ausgesandten Photonen größer ist als die Flugzeit.
 
 </details>
 
