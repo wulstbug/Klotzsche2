@@ -893,3 +893,107 @@ Die maximale Stromstärke ergibt sich zu
 $$ I = \frac{Q}{t} = \frac{e}{t} = 6,718 \cdot 10^{-12}\,\mathrm{A}$$
 
 </details>
+
+
+## 11. 8. Wellenfunktion und Wellenpaket
+
+Quantenmechanische Teilchen (Photonen, Elektronen, Atome, Moleküle) besitzen Welleneigenschaften. Um sie zu beschreiben, führen wir die @color(Wellenfunktion $\Psi$, red) eingeführt. Dieser Wellenfunktion $\Psi$ kann zunächst keine eigene physikalische Bedeutung zugewiesen werden.
+
+> Das Quadrat der Wellenfunktion $\Psi^2$ definiert die @color(Aufenthaltswahrscheinlichkeit, red) eines quantenmechanischen Objekts.
+
+---
+
+__Wellenfunktion einer harmonischen Welle:__
+
+- die Wellenfunktion einer ebenen Welle haben wir bereits kennengelernt (_Wellengleichung einer harmonischen Welle_) 
+
+<section class="flex-container">
+
+<div class="flex-child-1" style="min-width: 300px; margin-bottom: -10px">
+
+$$ \boxed{\Psi(x,t) = A_{max} \cdot \sin\Big( \frac{2\pi}{\lambda}\cdot x-\frac{2\pi}{T}\cdot t\Big)} $$ 
+
+</div>
+
+<div class="flex-child-1" style="min-width: 300px; margin-bottom: -10px">
+
+![HarmWelle](https://diversewolken.ddns.net/nextcloud/index.php/s/8DBpyiYgdsrE5Y9/download)
+
+</div>
+
+</section>
+
+
+- die Welle ist zu jedem Zeitpunkt über den gesamten Raum ausgebreitet, sie ist nicht lokalisierbar
+
+- => eine harmonische Welle (mit Wellenlänge $\lambda$ und Frequenz $f$) ist zur Beschreibung eines Teilchens nicht geeignet
+
+---
+
+__Überlagerung/Superposition zweier harmonischer Wellen:__
+
+<section class="flex-container">
+
+<div class="flex-child-1" style="min-width: 300px; margin-bottom: -10px">
+
+- überlagert man zwei harmonische Wellen, welche beinahe dieselbe Frequenz besitzen, so ergibt sich eine so genannte Schwebung
+
+- betrachtet man die Aufenthaltswahrscheinlichkeit $\Psi^2$ dieser Superposition, so ergibt sich eine periodische Aufenthaltswahrscheinlichkeit, auch nicht lokalisierbar
+
+</div>
+
+<div class="flex-child-1" style="min-width: 300px; margin-bottom: -10px">
+
+![SuperpositionZweierWellen](https://diversewolken.ddns.net/nextcloud/index.php/s/MYWEGBTDMBpnzQ9/download)
+
+</div>
+
+</section>
+
+---
+
+__Wellepakete für quantenmechanische Teilchen ([Simulation](https://mintapps.org/html/mint-wavepacket.html)):__
+
+<section class="flex-container">
+
+<div class="flex-child-1" style="min-width: 300px; margin-bottom: -10px">
+
+- für quantenmechanische Teilchen nehmen wir nun an, dass sich ihre Wellenfunktion $\Psi$ als Superpostion vieler harmonischer Wellen darstellen lässt
+
+- erlaubt man eine kontinuierliche Verteilung der zugehörigen Frequenzen der superpositionierten (überlagerten) Wellen, so lässt sich die Wellenfunktion eines Teilchens als lokalisiertes Wellenpakt darstellen
+
+</div>
+
+<div class="flex-child-1" style="min-width: 300px; margin-bottom: -10px">
+
+![Wellenpaket](https://diversewolken.ddns.net/nextcloud/index.php/s/gE8PRSX2xFWNFFn/download)
+
+</div>
+
+</section>
+
+---
+
+__Schlussfolgerungen:__
+
+> Ein __Wellenpaket__ beschreibt die Wellenfunktion für ein quantenmechanisches Teilchen.
+
+> Das Wellenpaket ist örtlich lokalisiert, allerdings beschreibt sie nur eine Aufenthaltswahrscheinlichkeit in einem bestimmten Raumbereich (Ortsunschärfe $\Delta x$)
+
+> Je geringer die Ortsunschärfe $\Delta x$, desto größer ist die Impulsunschärfe $\Delta p$
+
+<section class="flex-container">
+
+<div class="flex-child-1" style="min-width: 200px; margin-bottom: -10px">
+
+![StarkLokalisiert](https://diversewolken.ddns.net/nextcloud/index.php/s/N4owGMfecxbke5b/download "Wellenpaket mit geringer Ortsunschärfe $\Delta x$")
+
+</div>
+
+<div class="flex-child-1" style="min-width: 200px; margin-bottom: -10px">
+
+![SchwachLokalisiert](https://diversewolken.ddns.net/nextcloud/index.php/s/nDsgPAGawbZawc4/download "Wellenpaket mit großer Ortsunschärfe $\Delta x$")
+
+</div>
+
+</section>
