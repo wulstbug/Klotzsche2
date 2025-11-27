@@ -2914,34 +2914,131 @@ __Versuchsaufbau:__
 
 </div>
 
-<div class="flex-child-1" style="min-width: 300px; margin-bottom: -10px">
+<div class="flex-child-2" style="min-width: 300px; margin-bottom: -10px">
 
 __Beschreibung:__
 
-- eine Metallelektrode (Kathode) wird mit monochromatischem Licht beleuchtet
 
+{{1}}
+*************
+- eine Metallelektrode (Kathode) wird mit monochromatischem Licht beleuchtet}
+*************
+
+
+{{2}}
+*************
 - werden Elektronen aus dem Metall herausgelöst, so erhalten sie eine kinetische Energie $E_{kin}$
+*************
 
+{{3}}
+*************
 - aufgrund der emitierten Elektronen kann man zwischen Kathode und Anode einen elektrischen Stromfluss $I$ beobachten
+*************
 
+{{4}}
+*************
 - legt man zwischen Kathode und Anode eine __Gegenspannung__ $U_g$ an, so werden die Elektronen durch $U_g$ abgebremst, sie erhalten durch die Spannung die kinetische Energie $U \cdot e$ ($e$ .. Elementarladung)
+*************
 
+{{5}}
+*************
 - wählt man $U_g$ gerade so groß, dass kein Strom mehr zwischen Kathode und Anode fließt, so entspricht die zugeführte Energie $U\cdot e$ gerade der kinetischen Energie der Elektronen
+*************
 
 </div>
 
 </section>
 
+
+{{6-7}}
+**********************
 __Messwerte:__
 
 | | | |
-| $\lambda$ in $\mathrm{nm}$  | $f$ in $10^{14}\,$$\mathrm{Hz}$  | $U_g$ in $\mathrm{V}$ | $E_{kin}=U_g\cdot e$ in $\mathrm{J}$ |
+| $\lambda$ in $\mathrm{nm}$  | $f$ in $10^{14}\,$$\mathrm{Hz}$  | $U_g$ in $\mathrm{V}$ | $E_{kin}=U_g\cdot e$ in $10^{-19}\mathrm{J}$ |
+| 365 | | | |
+| 405 | | | |
+| 436 | | | |
+| 546 | | | |
+| 577 | | | |
+**********************
+
+{{7-8}}
+**********************
+__Messwerte:__
+
+| | | |
+| $\lambda$ in $\mathrm{nm}$  | $f$ in $10^{14}\,$$\mathrm{Hz}$  | $U_g$ in $\mathrm{V}$ | $E_{kin}=U_g\cdot e$ in $10^{-19}\mathrm{J}$ |
 | 365 | 8.22 | | |
 | 405 | 7.41 | | |
 | 436 | 6.88 | | |
 | 546 | 4.49 | | |
 | 577 | 5.20 | | |
+**********************
 
+{{8-9}}
+**********************
+__Messwerte:__
+
+| | | |
+| $\lambda$ in $\mathrm{nm}$  | $f$ in $10^{14}\,$$\mathrm{Hz}$  | $U_g$ in $\mathrm{V}$ | $E_{kin}=U_g\cdot e$ in $10^{-19}\mathrm{J}$ |
+| 365 | 8.22 | 1.61 | 2.58 |
+| 405 | 7.41 | 1.32 | 2.11 |
+| 436 | 6.88 | 1.16 | 1.86 |
+| 546 | 4.49 | 0.52 | 0.83 |
+| 577 | 4.20 | 0.46 | 0.74 |
+**********************
+
+
+<section class="flex-container">
+
+<div class="flex-child-1" style="min-width: 300px; margin-bottom: -10px">
+
+{{9}}
+**********************
+__Messwerte:__
+
+
+| $\lambda$ in $\mathrm{nm}$  | $f$ in $10^{14}\,$$\mathrm{Hz}$  | $U_g$ in $\mathrm{V}$ | $E_{kin}=U_g\cdot e$ in $10^{-19}\mathrm{J}$ |
+| 365 | 8.22 | 1.61 | 2.58 |
+| 405 | 7.41 | 1.32 | 2.11 |
+| 436 | 6.88 | 1.16 | 1.86 |
+| 546 | 4.49 | 0.52 | 0.83 |
+| 577 | 4.20 | 0.46 | 0.74 |
+**********************
+
+</div>
+
+<div class="flex-child-1" style="min-width: 300px; margin-bottom: -10px">
+
+{{9}}
+**********************
+__Diagramm f(E):__
+
+<!--
+     data-show
+     data-title=""
+     data-type="scatter"
+     data-xlabel="f in 10¹⁴ Hz"
+     data-ylabel="E in 10⁻¹⁹ J"
+     data-xlim="0,10"
+     data-ylim="-3,3"
+-->
+| f  | E |
+| :---:| :---:|
+| 8.22 | 2.58 |
+| 7.41 | 2.11 |
+| 6.88 | 1.86 |
+| 4.49 | 0.83 |
+| 4.20 | 0.74 |
+**********************
+
+</div>
+
+</section>
+
+{{6-9}}
+**********************
 <p style="color:blue">
 0. _Bereite die Tabelle vor. Ermittle bereits die zugehörigen Frequenzen._
 
@@ -2951,6 +3048,7 @@ __Messwerte:__
 
 3. _Zeichne eine geeignete Ausgleichsgerade und ermittle den Anstieg $h = \frac{\Delta E_{kin}}{\Delta f}$._
 </p>
+**********************
 
 ## 7. 4. Energie, Masse und Impuls von Photonen
 
