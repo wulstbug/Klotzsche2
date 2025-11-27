@@ -5739,6 +5739,61 @@ __Schlussfolgerungen:__
 
 ??[Wellenpaket](https://www.youtube.com/watch?v=hg3VdkRdnDA)
 
+### Vorbereitungsaufgabe IQB zu Quantenobjekten
+
+<iframe src="https://diversewolken.ddns.net/pdfjs/web/viewer.html?file=https://diversewolken.ddns.net/nextcloud/index.php/s/3HHNEXoQDdpQA3m/download"
+        width="100%" 
+        height="600px">
+</iframe>
+
+<details style='margin-left:10%'>
+
+<summary> Lösung 1.1 </summary>
+
+![Lsg_1.1](https://diversewolken.ddns.net/nextcloud/index.php/s/dNsPgxF5FBcAHHf/download)
+
+</details>
+
+<details style='margin-left:10%'>
+
+<summary> Lösung 1.2 </summary>
+
+![Lsg_1.2](https://diversewolken.ddns.net/nextcloud/index.php/s/stT38R45e6LDnqr/download)
+
+</details>
+
+<details style='margin-left:10%'>
+
+<summary> Lösung 1.3 </summary>
+
+![Lsg_1.3](https://diversewolken.ddns.net/nextcloud/index.php/s/iQWjq2wsY4m9YQz/download)
+
+</details>
+
+<details style='margin-left:10%'>
+
+<summary> Lösung 2 </summary>
+
+![Lsg_2](https://diversewolken.ddns.net/nextcloud/index.php/s/mnemTberiXgEw7C/download)
+
+</details>
+
+<details style='margin-left:10%'>
+
+<summary> Lösung 3 </summary>
+
+![Lsg_3](https://diversewolken.ddns.net/nextcloud/index.php/s/bzxC46wNBCM7QSp/download)
+
+</details>
+
+<details style='margin-left:10%'>
+
+<summary> Lösung 4 </summary>
+
+![Lsg_4](https://diversewolken.ddns.net/nextcloud/index.php/s/bFoNCy7b8fYEadL/download)
+
+</details>
+
 ## Inverser Photoeffekt
 
 > Mit der Hilfe von Leuchtdioden (LED - light emitting diode), lässt sich eine Umkehrung des Fotoeffekts experimentell untersuchen. In diesem Experiment soll die Abhängigkeit der Schwellspannung von der Farbe der zugehörigen LEDs untersucht werden.
