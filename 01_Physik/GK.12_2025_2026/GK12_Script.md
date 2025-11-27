@@ -2739,6 +2739,9 @@ Der Fehler, welcher bei der Berechnung der Gitterkonstante durch _Kleinwinkelnä
 
 _Bitte anschließend stichpunktartig übernehmen_
 
+## Einstein's Rede zur Funkausstellung 1930
+
+??[RedeEinstein](https://collections.ushmm.org/search/catalog/irn1004136)
 
 # LB VII - Einführung in die Quantenphysik
 
