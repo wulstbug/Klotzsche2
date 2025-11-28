@@ -2361,8 +2361,11 @@ Recherchieren Sie in Ihrer Formelsammlung die Schallgeschwindigkeit in Luft bei 
 
 </details>
 
+### Simulation von Wellen
 
-### 2. 10 Darstellung der Wellenausbreitung mit Wellenfront und Wellennormale
+??[Fallstad-Kugelwelle](https://www.falstad.com/ripple/Ripple.html)
+
+## 2. 10 Darstellung der Wellenausbreitung mit Wellenfront und Wellennormale
 
 Zur Darstellung der Ausbreitung von Wellen nutzen man __Wellenfronten__ und @color(__Wellennormale__,red)
 
@@ -2383,7 +2386,7 @@ Zur Darstellung der Ausbreitung von Wellen nutzen man __Wellenfronten__ und @col
 *****************
 __Die Wellenfronten__ sind Stellen maximaler Auslenkung (Wellenberge). Ihr Abstand voneinander ist gleich der Wellenlänge $\lambda$.
 
-@color(Die Wellennormale, red) steht immer senkrecht auf der Wellenfront und gibt die Ausbreitungsrichtung der Welle an.
+@color(Die __Wellennormale__, red) steht immer senkrecht auf der Wellenfront und gibt die Ausbreitungsrichtung der Welle an.
 *****************
 
 </div>
