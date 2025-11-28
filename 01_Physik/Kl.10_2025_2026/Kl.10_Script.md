@@ -2349,7 +2349,6 @@ Recherchieren Sie in Ihrer Formelsammlung die Schallgeschwindigkeit in Luft bei 
 
 </p>
 
-
 8. [Quiz zu mechanischen Wellen](https://www.leifiphysik.de/mechanik/mechanische-wellen/aufgabe/quiz-zu-mechanischen-wellen)
 
 ### Master of the wave
@@ -2361,3 +2360,4 @@ Recherchieren Sie in Ihrer Formelsammlung die Schallgeschwindigkeit in Luft bei 
 [qr-code](https://www.universeandmore.com/wavemaker/)
 
 </details>
+
