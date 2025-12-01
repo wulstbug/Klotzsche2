@@ -2375,7 +2375,7 @@ Zur Darstellung der Ausbreitung von Wellen nutzen man __Wellenfronten__ und @col
 
 {{1}}
 ************
-![WellenfrontWellenNormale](https://diversewolken.ddns.net/nextcloud/index.php/s/sPE2gzAdfqJqdjk/download "Links: Kreisförmige Wellenfront (z.B. Steinwurf in Wasser) | Rechts: Ebene Welle (z.B. Licht)")
+![WellenfrontWellenNormale](https://diversewolken.ddns.net/nextcloud/index.php/s/wMyG7sdBPwftW9Z/download "Links: Kreisförmige Wellenfront (z.B. Steinwurf in Wasser) | Rechts: Ebene Welle (z.B. Licht)")
 ************
 
 </div>
@@ -2399,7 +2399,7 @@ __Die Wellenfronten__ sind Stellen maximaler Auslenkung (Wellenberge). Ihr Absta
 
 <div class="flex-child-1" style="min-width: 300px; margin-bottom: -10px">
 
-{{2}}
+{{2-5}}
 ************
 Kreisförmige Wellenfront (z.B. Steinwurf ins Wasser)
 
@@ -2410,7 +2410,7 @@ Kreisförmige Wellenfront (z.B. Steinwurf ins Wasser)
 
 <div class="flex-child-1" style="min-width: 300px; margin-bottom: -10px">
 
-{{3}}
+{{3-5}}
 ************
 
 Ebene Welle (z.B. Lichtausbreitung)
@@ -2421,3 +2421,47 @@ Ebene Welle (z.B. Lichtausbreitung)
 </div>
 
 </section>
+
+{{5}}
+******************
+<p style="color:blue">
+
+__Aufgaben:__
+
+1. Zeichne _maßstabsgerecht_ die Ausbreitung einer Wasserwelle, wenn man einen Stein in einen glatten See wirft. Die Wellenlänge sei 1 m.
+
+<details style='margin-left:10%'>
+
+<summary> Lösung 1 </summary>
+
+![Lsg1](https://diversewolken.ddns.net/nextcloud/index.php/s/f2LqegZDx8qj4tZ/download)
+
+</details>
+
+2. Zeichne die Ausbreitung einer ebenen Welle (z.B. Wasserwelle auf dem offenen Meer). Die Ausbreitungsgeschwindigkeit beträgt 0,5 m/s. Die Frequenz beträgt 1 Hz. Zeichne mindestens 5 Wellenfronten.
+
+<details style='margin-left:10%'>
+
+<summary> Lösung 2 </summary>
+
+![Lsg2](https://diversewolken.ddns.net/nextcloud/index.php/s/RDd6kBjjZLyPFGb/download)
+
+</details>
+
+3. Zwei Steine werden auf einen glatten See geworfen. Sie treffen gleichzeitig im Abstand von 3 m auf die Wasseroberfläche. Die Wasserwellen haben eine Frequenz von 1 Hz und eine Wellenlänge von 1 m. Zeichne das Wellenbild, welches sich 5 s nach dem Auftreffen der Steine eingestellt hat.
+
+<details style='margin-left:10%'>
+
+<summary> Lösung 3 </summary>
+
+![Lsg1](https://diversewolken.ddns.net/nextcloud/index.php/s/k2grdK7CE4k5FRt/download)
+
+</details>
+
+</p>
+******************
+
+### Video zu Interferenzen
+
+!?[Telekolleg-Interferenz](https://diversewolken.ddns.net/nextcloud/index.php/s/gEEM2cd9esBD7Rq/download)
+
