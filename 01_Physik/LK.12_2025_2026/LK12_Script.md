@@ -5794,6 +5794,67 @@ __Schlussfolgerungen:__
 
 </details>
 
+
+
+### Entwicklung Leistungen 12Ph2
+
+{{1}}
+*********
+<!--
+     data-show
+     data-title=""
+     data-type="line"
+     data-xlabel="Bewertung"
+     data-ylabel="Durchschnitt"
+-->
+| Test | Durchschnittsnote | Trend |
+| ---- | ---- | ---- |
+| 11/LK1 | 7.9 | 8.05 |
+| 11/KA1 | 6.3 | 8.23 |
+| 11/EX1 | 11.9| 8.41 |
+| 11/KA2 | 7.7 | 8.59 |
+| 11/LK2 | 8.8 | 8.77 |
+| 11/KA3 | 8.7 | 8.95 |
+| 11/KA4 | 9.1 | 9.13 | 
+| 11/EX2 | 10.5 | 9.31 |
+| 12/LK1  | 8.9 | 9.49 |
+| 12/KA1  | 9.5 | 9.67 |
+| 12/EX3  | 9.6 | 9.85 |
+*********
+
+
+
+{{2}}
+*************
+
+<!--
+     data-show
+     data-title=""
+     data-type="line"
+     data-xlabel="Bewertung"
+     data-ylabel="Note"
+     data-transpose
+-->
+|	|LK1	|KA1	|KA2	|LK2	|KA3	|KA4 | EX2 | LK3 | KA5 | EX3 |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |  :---: |  :---: |
+|1	|6	|2	|5	|8	|10	|7 | 10 | 5 |  8| 8 |
+|2	|6	|5	|4	|8	|9	|9 | 11 | 5 |  10| 8 |
+|3	|9	|6	|9	|6	|10	|11 |11 | 11 | 12| 12 |
+|4	|9	|8	|10	|9	|5	|6 | 8  | 8 |  8| 10 |
+|5	|6	|3	|4	|5	|7	|5 | 8  | 6 |  7| 3 |
+|6	|8	|6	|8	|6	|6	|8 | 8  | 7 |  8| 8 |
+|7	|9	|3	|7	|11	|12	|14 |9  | 11 | 8| 13 |
+|8	|7	|3	|7	|7	|5	|8 | 12 | 8 |  6| 8 |
+|9	|3	|4	|6	|8	|10	|2 | 12 | 9 |  7| 8 |
+|10	|9	|3	|9	|11	|8	|10 |9  | 12 | 11| 10 |
+|11	|13	|12	|15	|15	|14	|14 |15 | 13 | 14| 14 |
+|13	|11	|7	|9	|10	|10	|12 |14 | 10 | 12| 9 |
+|14	|11	|12	|14	|15	|15	|15 |14 | 14 | 15| 12 |
+|15	|9	|12	|6	|8	|3	|9 | 10 | 5 |  7| 11 |
+
+*************
+
+
 ## Inverser Photoeffekt
 
 > Mit der Hilfe von Leuchtdioden (LED - light emitting diode), lässt sich eine Umkehrung des Fotoeffekts experimentell untersuchen. In diesem Experiment soll die Abhängigkeit der Schwellspannung von der Farbe der zugehörigen LEDs untersucht werden.
@@ -5853,64 +5914,3 @@ Nehmen Sie für die verschiedenen Leuchtdioden die Kennlinien auf. Ermitteln Sie
 </p>
 
 
-
-
-### Entwicklung Leistungen 12Ph2
-
-![Ergebnisse_12LKA1](/download)
-
-{{1}}
-*********
-<!--
-     data-show
-     data-title=""
-     data-type="line"
-     data-xlabel="Bewertung"
-     data-ylabel="Durchschnitt"
--->
-| Test | Durchschnittsnote | Trend |
-| ---- | ---- | ---- |
-| 11/LK1 | 7.9 | 8.05 |
-| 11/KA1 | 6.3 | 8.23 |
-| 11/EX1 | 11.9| 8.41 |
-| 11/KA2 | 7.7 | 8.59 |
-| 11/LK2 | 8.8 | 8.77 |
-| 11/KA3 | 8.7 | 8.95 |
-| 11/KA4 | 9.1 | 9.13 | 
-| 11/EX2 | 10.5 | 9.31 |
-| 12/LK1  | 8.9 | 9.49 |
-| 12/KA1  | 9.5 | 9.67 |
-| 12/EX3  | 9.6 | 9.85 |
-*********
-
-
-
-{{2}}
-*************
-
-<!--
-     data-show
-     data-title=""
-     data-type="line"
-     data-xlabel="Bewertung"
-     data-ylabel="Note"
-     data-transpose
--->
-|	|LK1	|KA1	|KA2	|LK2	|KA3	|KA4 | EX2 | LK3 | KA5 | EX3 |
-| :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |  :---: |  :---: |
-|1	|6	|2	|5	|8	|10	|7 | 10 | 5 |  8| 8 |
-|2	|6	|5	|4	|8	|9	|9 | 11 | 5 |  10| 8 |
-|3	|9	|6	|9	|6	|10	|11 |11 | 11 | 12| 12 |
-|4	|9	|8	|10	|9	|5	|6 | 8  | 8 |  8| 10 |
-|5	|6	|3	|4	|5	|7	|5 | 8  | 6 |  7| 3 |
-|6	|8	|6	|8	|6	|6	|8 | 8  | 7 |  8| 8 |
-|7	|9	|3	|7	|11	|12	|14 |9  | 11 | 8| 13 |
-|8	|7	|3	|7	|7	|5	|8 | 12 | 8 |  6| 8 |
-|9	|3	|4	|6	|8	|10	|2 | 12 | 9 |  7| 8 |
-|10	|9	|3	|9	|11	|8	|10 |9  | 12 | 11| 10 |
-|11	|13	|12	|15	|15	|14	|14 |15 | 13 | 14| 14 |
-|13	|11	|7	|9	|10	|10	|12 |14 | 10 | 12| 9 |
-|14	|11	|12	|14	|15	|15	|15 |14 | 14 | 15| 12 |
-|15	|9	|12	|6	|8	|3	|9 | 10 | 5 |  7| 11 |
-
-*************
