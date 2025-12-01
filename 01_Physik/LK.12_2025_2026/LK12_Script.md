@@ -5794,6 +5794,68 @@ __Schlussfolgerungen:__
 
 </details>
 
+---
+
+__Fragen aus dem Kurs__
+
+<details style='margin-left:10%'>
+
+<summary> Mögliche Interpretationen des geschlossenen Spalts (3) </summary>
+
+> Beschreiben Sie die zwischen den Bildern a und b erkennbaren Veränderungen.
+
+a: Interferenzmuster mit nach außen abnehmender Intensität
+
+b: Einzelspalt als Schattenmuster mit unscharfem Rand bzw. Einzelspaltinterferenz mit weit auseinander liegenden Maxima
+
+<p style="color:red">
+
+- Einzelspaltinterferenz wird hier kaum gezeigt
+
+- Angabe über die Spaltbreite wird im Material nicht gemacht, daher kann darüber keine Aussage getroffen werden
+
+- Aufgabenstellung verlangt hier nur eine Beschreibung der erkennbaren Veränderungen (Operator beachten)
+
+</p>
+
+> Erklären Sie die Veränderung an den Stellen A und B zwischen den beiden Bildern a und b.
+
+<p style = "color:red">
+
+a: Interferenzmuster ist das des Doppelspalts -> A - Maximum erster Ordnung, B - Minimum erster Ordnung
+
+b: Einzelspaltinterferenz mit großem Abstand zum Maximum erster Ordnung -> A Minimum erster Ordnung, B innerhalb des Maximums Nullter Ordnung
+
+</p>
+
+</details>
+
+<details style='margin-left:10%'>
+
+<summary> Begriffskärung Komplementarität </summary>
+
+> __Komplementarität:__ Bestimmte physikalische Eigenschaften eines Quantensystems schließen sich gegenseitig aus, sind aber trotzdem gemeinsam notwendig, um das System vollständig zu beschreiben.
+
+__Beispiel: Welle-Teilchen-Dualismus__, hier __klassischer Pfad (Schattenbild) -> b und Interferenzmuster -> a__
+
+Abbildung c erscheint eine Überlagerung von a und b, eine Art Superposition. Hier würde ich aber von einer Superposition von Einzelspalt- und Doppelspaltinterferenz sprechen, statt von einer Überlagerung von klassischem Weg und Interferenzmuster.
+
+</details>
+
+<details style='margin-left:10%'>
+
+<summary> Begriffsklärung Stochastik, Determiniertheit </summary>
+
+> __Stochastik__ beschreibt die Zufälligkeit (und damit Unvorhersagbarkeit) eines quantenphysikalischen Einzelexperiments 
+>
+> Beispiel: Auftreffort eines Photons beim Doppelspalt
+
+> __Determiniertheit__ beschreibt die Berechenbarkeit (Vorhersagbarkeit) der Verteilung für eine mehrfache Wiederholung eines quantenphysikalischen Experiments 
+>
+> Beispiel: Verteilung beim Doppelspalt __vieler__ Photonen ist berechenbar (Interferenzmuster)
+
+</details>
+
 
 
 ### Entwicklung Leistungen 12Ph2
