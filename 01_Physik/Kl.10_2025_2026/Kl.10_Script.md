@@ -2465,3 +2465,29 @@ __Aufgaben:__
 
 !?[Telekolleg-Interferenz](https://diversewolken.ddns.net/nextcloud/index.php/s/gEEM2cd9esBD7Rq/download)
 
+
+## 2. 11. Interferenz
+
+> __Prinzip der ungestörten Überlagerung:__ Wellen durchdringen sich gegenseitig, ohne sich selbst oder einander zu verändern
+
+> Die __Überlagerung__ oder __Superposition__ harmonischer Wellen wird als @color(Interferenz, red) bezeichnet. Diese hängt vom __Gangunterschied__ der inteferierenden Wellen ab.
+>
+> Umgangssprachlich: _"Interferenz ist die Addition der jeweiligen Auslenkungen"_
+
+<section class="flex-container">
+
+<div class="flex-child-2" style="min-width: 400px; margin-bottom: -10px">
+
+![InterferenzKreiswelle](https://diversewolken.ddns.net/nextcloud/index.php/s/MDJTrgCbko29Ya3/download)
+
+</div>
+
+<div class="flex-child-1" style="min-width: 200px; margin-bottom: -10px">
+
+{1}{An Orten, wo sich zwei __Wellenberge__ oder zwei __Wellentäler__ überlagern, spricht man von @color(__konstruktiver Interferenz__, red). An Orten, wo sich __Wellental und Wellenberg__ überlagern, spricht man von @color(__destruktiver Interferenz__, blue).}
+
+</div>
+
+</section>
+
+ 
