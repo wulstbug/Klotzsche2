@@ -2811,6 +2811,10 @@ _Bitte anschließend stichpunktartig übernehmen_
 > <H4>Quantenmechanische Deutung: So lange wir nicht nachgesehen (d.h. gemessen) haben, ist sie lebendig und tot gleichzeitig.</H4>
 ************
 
+### Video zum Photoeffekt
+
+!?[Photoeffekt-Video](https://www.youtube.com/watch?v=Xm8LAEA7Gy8)
+
 ## 7. 2. Experiment: Der äußere lichtelektrische Effekt (Photoeffekt)
 
 > <H4>Experiment nach Albert Einstein (1905)</H4>
