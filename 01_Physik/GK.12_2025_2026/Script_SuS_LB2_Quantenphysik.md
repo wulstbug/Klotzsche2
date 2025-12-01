@@ -341,3 +341,4 @@ __Messwerte für Natrium und Calcium:__
 3. Zeichne eine geeignete Ausgleichsgerade und ermittle den Anstieg $h = \frac{\Delta E_{kin}}{\Delta f}$.
 </p>
 
+[Video zur Gegenfeldmethode](https://www.youtube.com/watch?v=Xm8LAEA7Gy8)
