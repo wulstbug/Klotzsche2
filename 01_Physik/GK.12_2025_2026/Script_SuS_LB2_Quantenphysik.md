@@ -327,15 +327,17 @@ __Beschreibung:__
 
 </section>
 
+__Messwerte für Natrium und Calcium:__
+
 ![Messwerte](https://diversewolken.ddns.net/nextcloud/index.php/s/YqabxD3j8Jk8exe/download)
 
 <p style="color:blue">
-0. _Übernimm die vorbereiteten Tabellen. Ermittle bereits die zugehörigen Frequenzen._
+0. Übernimm die vorbereiteten Tabellen. Ermittle bereits die zugehörigen Frequenzen.
 
-1. _Ergänze die gemessenen Daten $U_g$ für die verschiedenen Wellenlängen und berechne $E_{kin}$ in J._ 
+1. Ergänze die gemessenen Daten $U_g$ für die verschiedenen Wellenlängen und berechne $E_{kin}$ in J. 
 
-2. _Zeichne ein Diagramm der $E_{kin}(f)$._
+2. Zeichne ein Diagramm der $E_{kin}(f)$.
 
-3. _Zeichne eine geeignete Ausgleichsgerade und ermittle den Anstieg $h = \frac{\Delta E_{kin}}{\Delta f}$._
+3. Zeichne eine geeignete Ausgleichsgerade und ermittle den Anstieg $h = \frac{\Delta E_{kin}}{\Delta f}$.
 </p>
 
