@@ -295,3 +295,47 @@ __Beobachtung:__
 > 4. Nehmen wir an, dass @color(Energie in Paketen übertragen wird, red) (siehe Grundannahmen), trägt das Licht quantisierte Energiepakete (wir nennen sie Photonen), deren Energie von der Wellenlänge/Frequenz abhängt.
 
 > @color(Wie ist der Zusammenhang von Wellenlänge/Frequenz und Energie?, blue)
+
+
+## 7. 3. Die Gegenfeldmethode beim Photoeffekt
+
+<section class="flex-container">
+
+<div class="flex-child-1" style="min-width: 300px; margin-bottom: -10px">
+
+__Versuchsaufbau:__
+
+![Gegenfeldmethode-Skizze](https://diversewolken.ddns.net/nextcloud/index.php/s/w3iQGHQEGejyTt8/download)
+
+</div>
+
+<div class="flex-child-2" style="min-width: 300px; margin-bottom: -10px">
+
+__Beschreibung:__
+
+- eine Metallelektrode (Kathode) wird mit monochromatischem Licht beleuchtet}
+
+- werden Elektronen aus dem Metall herausgelöst, so erhalten sie eine kinetische Energie $E_{kin}$
+
+- aufgrund der emitierten Elektronen kann man zwischen Kathode und Anode einen elektrischen Stromfluss $I$ beobachten
+
+- legt man zwischen Kathode und Anode eine __Gegenspannung__ $U_g$ an, so werden die Elektronen durch $U_g$ abgebremst, sie erhalten durch die Spannung die kinetische Energie $U \cdot e$ ($e$ .. Elementarladung)
+
+- wählt man $U_g$ gerade so groß, dass kein Strom mehr zwischen Kathode und Anode fließt, so entspricht die zugeführte Energie $U\cdot e$ gerade der kinetischen Energie der Elektronen
+
+</div>
+
+</section>
+
+![Messwerte](https://diversewolken.ddns.net/nextcloud/index.php/s/YqabxD3j8Jk8exe/download)
+
+<p style="color:blue">
+0. _Übernimm die vorbereiteten Tabellen. Ermittle bereits die zugehörigen Frequenzen._
+
+1. _Ergänze die gemessenen Daten $U_g$ für die verschiedenen Wellenlängen und berechne $E_{kin}$ in J._ 
+
+2. _Zeichne ein Diagramm der $E_{kin}(f)$._
+
+3. _Zeichne eine geeignete Ausgleichsgerade und ermittle den Anstieg $h = \frac{\Delta E_{kin}}{\Delta f}$._
+</p>
+
