@@ -1603,8 +1603,13 @@ Konstruiere die Aufgaben a) bis d). Nutze für jede neue Konstruktion einen neue
 
 Untersuche die Abbildung eines Gegenstand an einer Sammellinse. Fülle dazu die folgende Tabelle aus.
 
-__Versuchsaufbau:__
+<details>
 
+<summary> __Versuchsaufbau__ </summary>
+
+
+
+</details>
 ![Versuchsaufbau](https://diversewolken.ddns.net/nextcloud/index.php/s/FFemkpnzAtNGQmi/download)
 
 
@@ -1612,12 +1617,25 @@ __Messwerte:__
 
 Brennweite der Linse f = 5 cm, Bildgröße beträgt G = 2 cm
 
+{{1-2}}
+**********************
 | | | | | |
 | $g$ in cm | $b$ in cm | $B$ in cm | $\dfrac{G}{g}$ | $\dfrac{B}{b}$ |
 | 7 | | | | |
 | 9 | | | | |
 | 12 | | | | |
-| 13 | | | | |
+| 3 | | | | |
+**********************
+{{2}}
+**********************
+| | | | | |
+| $g$ in cm | $b$ in cm | $B$ in cm | $\dfrac{G}{g}$ | $\dfrac{B}{b}$ |
+| 7 | 17,5 | 5 | 0,29 | ~0,3 |
+| 9 | 11,3 | 2,5 | 0,22 | ~0,22 |
+| 12 | 8,6 | 1,4 | 0,17 | ~0,16 |
+| 3 |  | | | |
+**********************
+
 
 __Auswertung:__
 
