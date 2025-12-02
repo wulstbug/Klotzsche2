@@ -2367,7 +2367,7 @@ Recherchieren Sie in Ihrer Formelsammlung die Schallgeschwindigkeit in Luft bei 
 
 ## 2. 10 Darstellung der Wellenausbreitung mit Wellenfront und Wellennormale
 
-Zur Darstellung der Ausbreitung von Wellen nutzen man __Wellenfronten__ und @color(__Wellennormale__,red)
+Zur Darstellung der Ausbreitung von Wellen nutzt man __Wellenfronten__ und @color(__Wellennormale__,red)
 
 <section class="flex-container">
 

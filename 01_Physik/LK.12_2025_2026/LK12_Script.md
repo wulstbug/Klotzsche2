@@ -2754,7 +2754,7 @@ __Die folgenden Aufgaben beziehen sich auf die Transversalwelle in Starteinstell
 
 ## 10. 3. Darstellung der Wellenausbreitung mit Wellenfront und Wellennormale
 
-Zur Darstellung der Ausbreitung von Wellen nutzen man __Wellenfronten__ und @color(__Wellennormale__,red)
+Zur Darstellung der Ausbreitung von Wellen nutzt man __Wellenfronten__ und @color(__Wellennormale__,red)
 
 <p class="newspaper">
 
