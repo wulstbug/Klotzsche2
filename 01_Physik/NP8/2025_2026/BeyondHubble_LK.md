@@ -1607,17 +1607,17 @@ Untersuche die Abbildung eines Gegenstand an einer Sammellinse. Fülle dazu die 
 
 <summary> __Versuchsaufbau__ </summary>
 
-
+![Versuchsaufbau](https://diversewolken.ddns.net/nextcloud/index.php/s/FFemkpnzAtNGQmi/download)
 
 </details>
-![Versuchsaufbau](https://diversewolken.ddns.net/nextcloud/index.php/s/FFemkpnzAtNGQmi/download)
+
 
 
 __Messwerte:__
 
 Brennweite der Linse f = 5 cm, Bildgröße beträgt G = 2 cm
 
-{{1-2}}
+{{0-1}}
 **********************
 | | | | | |
 | $g$ in cm | $b$ in cm | $B$ in cm | $\dfrac{G}{g}$ | $\dfrac{B}{b}$ |
@@ -1626,14 +1626,14 @@ Brennweite der Linse f = 5 cm, Bildgröße beträgt G = 2 cm
 | 12 | | | | |
 | 3 | | | | |
 **********************
-{{2}}
+{{1}}
 **********************
 | | | | | |
 | $g$ in cm | $b$ in cm | $B$ in cm | $\dfrac{G}{g}$ | $\dfrac{B}{b}$ |
 | 7 | 17,5 | 5 | 0,29 | ~0,3 |
 | 9 | 11,3 | 2,5 | 0,22 | ~0,22 |
 | 12 | 8,6 | 1,4 | 0,17 | ~0,16 |
-| 3 |  | | | |
+| 3 | / | / | / | / |
 **********************
 
 
