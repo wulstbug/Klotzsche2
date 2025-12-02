@@ -1550,102 +1550,6 @@ __Strahlengang__
 
 </section>
 
-
-## Arten von optischen Linsen 
-
-{{1}}
-********
-!?[OptischeLinsen_LEIFI](https://diversewolken.ddns.net/nextcloud/index.php/s/aW3jmFcjxDBcJSD/download)
-********
-
-<section class="flex-container">
-
-<div class="flex-child-1" style="min-width: 200px; margin-bottom: -10px">
-
-__Bezeichnung__
-
-</div>
-
-<div class="flex-child-1" style="min-width: 200px; margin-bottom: -10px">
-
-{2}{Sammellinsen}
-
-</div>
-
-<div class="flex-child-1" style="min-width: 200px; margin-bottom: -10px">
-
-{3}{Zerstreungslinsen}
-
-</div>
-
-</section>
-
----
-
-<section class="flex-container">
-
-<div class="flex-child-1" style="min-width: 200px; margin-bottom: -10px">
-
-__Merkmal__
-
-</div>
-
-<div class="flex-child-1" style="min-width: 200px; margin-bottom: -10px">
-
-{{4}}
-*************
-Am Rand dünner als in der Mitte 
-
-Parallele Lichtstrahlen werden zum Brennpunkt F gebrochen.
-*************
-
-</div>
-
-<div class="flex-child-1" style="min-width: 200px; margin-bottom: -10px">
-
-{{5}}
-*************
-Am Rand dicker als in der Mitte
-
-Parallele Lichtstrahlen werden vom Brennpunkt weg gebrochen
-*************
-
-</div>
-
-</section>
-
----
-
-<section class="flex-container">
-
-<div class="flex-child-1" style="min-width: 200px; margin-bottom: -10px">
-
-__Strahlengang__
-
-</div>
-
-<div class="flex-child-1" style="min-width: 200px; margin-bottom: -10px">
-
-{{6}}
-*************
-![Parallelstrahlen_Sammellinse](https://diversewolken.ddns.net/nextcloud/index.php/s/AEmigNGpENWtZzF/download)
-*************
-
-</div>
-
-<div class="flex-child-1" style="min-width: 200px; margin-bottom: -10px">
-
-
-{{7}}
-*************
-![Parallelstrahlen_Zerstreungslinse](https://diversewolken.ddns.net/nextcloud/index.php/s/Bc5eJXkJtbosapH/download)
-*************
-</div>
-
-</section>
-
-
-
 ## Lichtweg an Sammel- und Zerstreuungslinsen
 
 > Aufgabe: Konstruiere den Lichtweg in verschiedenen Konfigurationen auf Geogebra.
@@ -1669,6 +1573,53 @@ Konstruiere die Aufgaben a) bis d). Nutze für jede neue Konstruktion einen neue
 </p>
 
 </p>
+
+## Bildentstehung an Sammellinsen
+
+{{0-1}}
+!?[BeispielAuge](https://diversewolken.ddns.net/nextcloud/index.php/s/tj3C8GiBzp32EmE/download)
+
+{{1-2}}
+[Powerpoint-Bildentstehung](https://gykl-my.sharepoint.com/:p:/g/personal/golnik_ch_gykl_onmicrosoft_com/IQDmyyg9VX90RqPDDtAZ8JMQAa-a6OR8vyRGjBOz-bgiocE?e=hnA3pV)
+
+{{2}}
+*****************
+<iframe src="https://diversewolken.ddns.net/pdfjs/web/viewer.html?file=https://diversewolken.ddns.net/nextcloud/index.php/s/dwsmX3oaqpRW4sP/download"
+        width="100%" 
+        height="600px">
+</iframe>
+
+<details>
+
+<summary> Lösung </summary>
+
+![LösungKonstruktionsaufgabe](https://diversewolken.ddns.net/nextcloud/index.php/s/jeMCjs95aySeXYp/download)
+
+</details>
+
+*****************
+
+### Experimentierauftrag Abbildung an einer Sammellinse
+
+Untersuche die Abbildung eines Gegenstand an einer Sammellinse. Fülle dazu die folgende Tabelle aus.
+
+__Versuchsaufbau:__
+
+![Versuchsaufbau](https://diversewolken.ddns.net/nextcloud/index.php/s/FFemkpnzAtNGQmi/download)
+
+
+__Messwerte:__
+
+Brennweite der Linse f = 5 cm, Bildgröße beträgt G = 2 cm
+
+| | | | | |
+| $g$ in cm | $b$ in cm | $B$ in cm | $\dfrac{G}{g}$ | $\dfrac{B}{b}$ |
+| 7 | | | | |
+| 9 | | | | |
+| 12 | | | | |
+| 13 | | | | |
+
+__Auswertung:__
 
 # Entstehung unseres Sonnensystems
 
