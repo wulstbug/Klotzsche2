@@ -50,7 +50,7 @@ __Erklärvideo:__
 
 ### Quiz 1 - Axiome nach Watzlawick
 
-<iframe src="https://www.testedich.de/widget.php?quiz=67&id=1611253998&theme=nice-blue&lang=de&width=550&height=400" width="550" height="400" frameborder="0"></iframe>
+<iframe src="https://www.testedich.de/widget.php?quiz=67&id=1611253998&theme=nice-blue&lang=de&width=800&height=600" width="800" height="600" frameborder="0"></iframe>
 
 ### Quiz 2 - Axiome nach Watzlawick
 
