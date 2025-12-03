@@ -327,18 +327,42 @@ __Beschreibung:__
 
 </section>
 
-__Messwerte für Natrium und Calcium:__
+
+<p style="color:blue">
+
+0. Übernimm den Versuchsaufbau und die Beschreibung in deinen Hefter.
+
+1. Ermittle die Gegenspannung für die Natrium-Elektrode bei der Bestrahlung mit Licht der Wellenlängen $425\,\mathrm{nm}$, $375\,\mathrm{nm}$ und $325\,\mathrm{nm}$. Nutze dafür die folgende Simulation: [Gegenfeldmethode-Simulation](https://phet.colorado.edu/sims/cheerpj/photoelectric/latest/photoelectric.html?simulation=photoelectric)
+
+<p style='margin-left:10%'>
+
+@rangeQuiz20($425\mathrm{nm}:U_g$,0.6,$\mathrm{V}$)
+
+@rangeQuiz20($375\mathrm{nm}:U_g$,1.0,$\mathrm{V}$)
+
+@rangeQuiz20($325\mathrm{nm}:U_g$,1.5,$\mathrm{V}$)
+
+</p>
+
+---
+
+2. Ergänze die folgenden Daten $U_g$ für die verschiedenen Wellenlängen und berechne f in $10^{4}\,\mathrm{Hz}$ und $E_{kin}$ in J (nicht wie der Tabelle eV). 
+
+<details style='margin-left:10%'>
+
+<summary> __Messwerte für Natrium und Calcium:__ </summary>
 
 ![Messwerte](https://diversewolken.ddns.net/nextcloud/index.php/s/YqabxD3j8Jk8exe/download)
 
-<p style="color:blue">
-0. Übernimm die vorbereiteten Tabellen. Ermittle bereits die zugehörigen Frequenzen.
+</details>
 
-1. Ergänze die gemessenen Daten $U_g$ für die verschiedenen Wellenlängen und berechne $E_{kin}$ in J. 
+---
 
-2. Zeichne ein Diagramm der $E_{kin}(f)$.
+3. Zeichne ein Diagramm der $E_{kin}(f)$. Auf der y-Achse trage die $E_{kin}$ in der Einheit $10^{-19}\,\mathrm{J}$ ein (Bereich: -5 bis +5). Auf der x-Achse trage die Frequenz in der Einheit $10^{14}\,\mathrm{Hz}$ ein (Bereich: 0-10).
 
-3. Zeichne eine geeignete Ausgleichsgerade und ermittle den Anstieg $h = \frac{\Delta E_{kin}}{\Delta f}$.
+---
+
+4. Zeichne eine geeignete Ausgleichsgerade und ermittle den Anstieg $h = \frac{\Delta E_{kin}}{\Delta f}$.
 </p>
 
 [Video zur Gegenfeldmethode](https://www.youtube.com/watch?v=Xm8LAEA7Gy8)

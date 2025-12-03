@@ -3054,6 +3054,77 @@ __Diagramm f(E):__
 </p>
 **********************
 
+
+## 7. 3. Die Gegenfeldmethode beim Photoeffekt (SuS)
+
+<section class="flex-container">
+
+<div class="flex-child-1" style="min-width: 300px; margin-bottom: -10px">
+
+__Versuchsaufbau:__
+
+![Gegenfeldmethode-Skizze](https://diversewolken.ddns.net/nextcloud/index.php/s/w3iQGHQEGejyTt8/download)
+
+</div>
+
+<div class="flex-child-2" style="min-width: 300px; margin-bottom: -10px">
+
+__Beschreibung:__
+
+- eine Metallelektrode (Kathode) wird mit monochromatischem Licht beleuchtet}
+
+- werden Elektronen aus dem Metall herausgelöst, so erhalten sie eine kinetische Energie $E_{kin}$
+
+- aufgrund der emitierten Elektronen kann man zwischen Kathode und Anode einen elektrischen Stromfluss $I$ beobachten
+
+- legt man zwischen Kathode und Anode eine __Gegenspannung__ $U_g$ an, so werden die Elektronen durch $U_g$ abgebremst, sie erhalten durch die Spannung die kinetische Energie $U \cdot e$ ($e$ .. Elementarladung)
+
+- wählt man $U_g$ gerade so groß, dass kein Strom mehr zwischen Kathode und Anode fließt, so entspricht die zugeführte Energie $U\cdot e$ gerade der kinetischen Energie der Elektronen
+
+</div>
+
+</section>
+
+
+<p style="color:blue">
+
+0. Übernimm den Versuchsaufbau und die Beschreibung in deinen Hefter.
+
+1. Ermittle die Gegenspannung für die Natrium-Elektrode bei der Bestrahlung mit Licht der Wellenlängen $425\,\mathrm{nm}$, $375\,\mathrm{nm}$ und $325\,\mathrm{nm}$. Nutze dafür die folgende Simulation: [Gegenfeldmethode-Simulation](https://phet.colorado.edu/sims/cheerpj/photoelectric/latest/photoelectric.html?simulation=photoelectric)
+
+<p style='margin-left:10%'>
+
+@rangeQuiz20($425\mathrm{nm}:U_g$,0.6,$\mathrm{V}$)
+
+@rangeQuiz20($375\mathrm{nm}:U_g$,1.0,$\mathrm{V}$)
+
+@rangeQuiz20($325\mathrm{nm}:U_g$,1.5,$\mathrm{V}$)
+
+</p>
+
+---
+
+2. Ergänze die folgenden Daten $U_g$ für die verschiedenen Wellenlängen und berechne f in $10^{4}\,\mathrm{Hz}$ und $E_{kin}$ in J (nicht wie der Tabelle eV). 
+
+<details style='margin-left:10%'>
+
+<summary> __Messwerte für Natrium und Calcium:__ </summary>
+
+![Messwerte](https://diversewolken.ddns.net/nextcloud/index.php/s/YqabxD3j8Jk8exe/download)
+
+</details>
+
+---
+
+3. Zeichne ein Diagramm der $E_{kin}(f)$. Auf der y-Achse trage die $E_{kin}$ in der Einheit $10^{-19}\,\mathrm{J}$ ein (Bereich: -5 bis +5). Auf der x-Achse trage die Frequenz in der Einheit $10^{14}\,\mathrm{Hz}$ ein (Bereich: 0-10).
+
+---
+
+4. Zeichne eine geeignete Ausgleichsgerade und ermittle den Anstieg $h = \frac{\Delta E_{kin}}{\Delta f}$.
+</p>
+
+[Video zur Gegenfeldmethode](https://www.youtube.com/watch?v=Xm8LAEA7Gy8)
+
 ## 7. 4. Energie, Masse und Impuls von Photonen
 
 > Der äußere lichtelektrische Effekt legt nahe, dass das Licht auch Teilcheneigenschaften besitzt. 
