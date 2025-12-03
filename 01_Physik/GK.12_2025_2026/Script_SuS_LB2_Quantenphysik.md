@@ -332,7 +332,7 @@ __Beschreibung:__
 
 0. Übernimm den Versuchsaufbau und die Beschreibung in deinen Hefter.
 
-1. Ermittle die Gegenspannung für die Natrium-Elektrode bei der Bestrahlung mit Licht der Wellenlängen $425\,\mathrm{nm}$, $375\,\mathrm{nm}$ und $325\,\mathrm{nm}$. Nutze dafür die folgende Simulation: [Gegenfeldmethode-Simulation](https://phet.colorado.edu/sims/cheerpj/photoelectric/latest/photoelectric.html?simulation=photoelectric)
+1. Ermittle die Gegenspannung für die Natrium(engl. Sodium)-Elektrode bei der Bestrahlung mit Licht der Wellenlängen $425\,\mathrm{nm}$, $375\,\mathrm{nm}$ und $325\,\mathrm{nm}$. Nutze dafür die folgende Simulation: [Gegenfeldmethode-Simulation](https://phet.colorado.edu/sims/cheerpj/photoelectric/latest/photoelectric.html?simulation=photoelectric)
 
 <p style='margin-left:10%'>
 
@@ -358,7 +358,7 @@ __Beschreibung:__
 
 ---
 
-3. Zeichne ein Diagramm der $E_{kin}(f)$. Auf der y-Achse trage die $E_{kin}$ in der Einheit $10^{-19}\,\mathrm{J}$ ein (Bereich: -5 bis +5). Auf der x-Achse trage die Frequenz in der Einheit $10^{14}\,\mathrm{Hz}$ ein (Bereich: 0-10).
+3. Zeichne ein Diagramm der $E_{kin}(f)$. Auf der y-Achse trage die $E_{kin}$ in der Einheit $10^{-19}\,\mathrm{J}$ ein (Bereich: -3 bis +3). Auf der x-Achse trage die Frequenz in der Einheit $10^{14}\,\mathrm{Hz}$ ein (Bereich: 0-10).
 
 ---
 
