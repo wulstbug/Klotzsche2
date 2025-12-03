@@ -61,26 +61,26 @@ window.LIA.settings.font_size = 2
 
 2. Welche Situation zeigt eine Störung im **Beziehungsaspekt** (2. Axiom)?
 
-[[X]] Eine Kollegin versteht eine neutrale Aussage als persönlichen Angriff.  
 [[ ]] Zwei Personen missverstehen ein Fachwort.  
 [[ ]] Jemand spricht besonders laut wegen Umgebungslärm.  
+[[X]] Eine Kollegin versteht eine neutrale Aussage als persönlichen Angriff.  
 [[ ]] Beide Gesprächspartner benutzen verschiedene Sprachen.
 
 ---
 
 3. Welche Beschreibung passt zum **Interpunktionsproblem** (3. Axiom)?
 
-[[X]] Zwei Personen sehen jeweils das Verhalten des anderen als Auslöser eines Konflikts.  
 [[ ]] Eine Person wechselt zwischen schriftlicher und mündlicher Kommunikation.  
 [[ ]] Jemand reagiert emotional, obwohl die Information sachlich war.  
 [[ ]] Beide Gesprächspartner sind auf unterschiedlichen Wissensständen.
+[[X]] Zwei Personen sehen jeweils das Verhalten des anderen als Auslöser eines Konflikts.  
 
 ---
 
 4. Welche Aussage verdeutlicht den Unterschied zwischen **analoger und digitaler Kommunikation** (4. Axiom)?
 
-[[X]] Ein Mensch sagt „Mir geht es gut“, wirkt aber offensichtlich traurig.  
 [[ ]] Zwei Personen sprechen verschiedene Dialekte.  
+[[X]] Ein Mensch sagt „Mir geht es gut“, wirkt aber offensichtlich traurig.  
 [[ ]] Jemand erklärt einen Sachverhalt mithilfe eines Diagramms.  
 [[ ]] Eine Nachricht enthält viele Fachbegriffe.
 
