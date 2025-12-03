@@ -44,11 +44,53 @@ window.LIA.settings.font_size = 2
 
 # Axiome von P. Watzlawick und Vier-Ohren-Modell
 
-### Quiz - Axiome nach Watzlawick
+### Quiz 1 - Axiome nach Watzlawick
 
 <iframe src="https://www.testedich.de/widget.php?quiz=67&id=1611253998&theme=nice-blue&lang=de&width=550&height=400" width="550" height="400" frameborder="0"></iframe>
 
+### Quiz 2 - Axiome nach Watzlawick
 
+1. Welche Aussage beschreibt am besten das **1. Axiom**?
+
+[[X]] Jede Form von Verhalten hat Mitteilungscharakter, auch Schweigen oder Nicht-Reagieren.  
+[[ ]] Kommunikation findet nur statt, wenn bewusst gesprochen wird.  
+[[ ]] Nur verbale Sprache zählt als Kommunikation.  
+[[ ]] Kommunikation kann jederzeit vollständig eingestellt werden.
+
+---
+
+2. Welche Situation zeigt eine Störung im **Beziehungsaspekt** (2. Axiom)?
+
+[[X]] Eine Kollegin versteht eine neutrale Aussage als persönlichen Angriff.  
+[[ ]] Zwei Personen missverstehen ein Fachwort.  
+[[ ]] Jemand spricht besonders laut wegen Umgebungslärm.  
+[[ ]] Beide Gesprächspartner benutzen verschiedene Sprachen.
+
+---
+
+3. Welche Beschreibung passt zum **Interpunktionsproblem** (3. Axiom)?
+
+[[X]] Zwei Personen sehen jeweils das Verhalten des anderen als Auslöser eines Konflikts.  
+[[ ]] Eine Person wechselt zwischen schriftlicher und mündlicher Kommunikation.  
+[[ ]] Jemand reagiert emotional, obwohl die Information sachlich war.  
+[[ ]] Beide Gesprächspartner sind auf unterschiedlichen Wissensständen.
+
+---
+
+4. Welche Aussage verdeutlicht den Unterschied zwischen **analoger und digitaler Kommunikation** (4. Axiom)?
+
+[[X]] Ein Mensch sagt „Mir geht es gut“, wirkt aber offensichtlich traurig.  
+[[ ]] Zwei Personen sprechen verschiedene Dialekte.  
+[[ ]] Jemand erklärt einen Sachverhalt mithilfe eines Diagramms.  
+[[ ]] Eine Nachricht enthält viele Fachbegriffe.
+
+
+5. Welche Situation zeigt ein **symmetrisches** oder **komplementäres** Muster (5. Axiom)?
+
+[[X]] In einer Gruppe versuchen alle, auf Augenhöhe zu bleiben – keiner möchte dominieren.  
+[[ ]] Beide Personen reden gleichzeitig und keiner hört zu.  
+[[ ]] Eine Person widerspricht ständig, obwohl sie zustimmt.  
+[[X]] Eine Person übernimmt bewusst die Führungsrolle, die andere ordnet sich ein.
 
 ## Vier-Ohren-Modell
 
