@@ -5622,6 +5622,8 @@ Quantenmechanische Teilchen (Photonen, Elektronen, Atome, Moleküle) besitzen We
 
 ---
 
+
+
 {{1}}
 **************
 __Wellenfunktion einer harmonischen Welle:__
@@ -5632,7 +5634,7 @@ __Wellenfunktion einer harmonischen Welle:__
 
 <div class="flex-child-1" style="min-width: 300px; margin-bottom: -10px">
 
-$$ \boxed{\Psi(x,t) = A_{max} \cdot \sin\Big( \frac{2\pi}{\lambda}\cdot x-\frac{2\pi}{T}\cdot t\Big)} $$ 
+$$ \boxed{\Psi(x,t) = A_{max} \cdot \sin\Big( \frac{2\pi}{\lambda} \cdot x-\frac{2\pi}{T}\cdot t\Big)} $$
 
 </div>
 
@@ -5735,7 +5737,8 @@ __Schlussfolgerungen:__
 
 **************
 
-## Video zum Wellenpaket
+
+### Video zum Wellenpaket
 
 ??[Wellenpaket](https://www.youtube.com/watch?v=hg3VdkRdnDA)
 
@@ -5917,64 +5920,6 @@ Abbildung c erscheint eine Überlagerung von a und b, eine Art Superposition. Hi
 *************
 
 
-## Inverser Photoeffekt
-
-> Mit der Hilfe von Leuchtdioden (LED - light emitting diode), lässt sich eine Umkehrung des Fotoeffekts experimentell untersuchen. In diesem Experiment soll die Abhängigkeit der Schwellspannung von der Farbe der zugehörigen LEDs untersucht werden.
-
----
-
-__Vorbetrachtung:__
-
-<p style="margin-left:10%">
-
-Bei einer Leuchtdiode wird Elektronen innerhalb des Halbleitermaterials elektrische Energie zugeführt. Diese Energie kann vereinfacht mit $E= U\cdot e$ angenommen werden. <br> Ist die zugeführte Energie groß genug, so kann ein Elektron unter Abgabe dieser Energiemenge ein Photon $E_{ph} = h \cdot f$ aussenden. <br> Bei einfarbigen Leuchtdiode können Elektronen auf diese Weise Photonen einer bestimmten Wellenlänge (Farbe der LED) aussenden, wenn $$U \cdot e \geq h \cdot f$$ Energie, die die Photonenenergie übertrifft, wird in Form von Wärme abegeben.
-
-</p>
-
----
-
-__Versuchsaufbau:__
-
-<p style="margin-left:10%">
-
-<section class="flex-container">
-
-<div class="flex-child-1" style="min-width: 300px; margin-bottom: -10px">
-
-Wie in der Vorbetrachtung beschrieben, benötigt eine LED eine minimale Schwellspannung $U_S$, damit sie leuchtet. Ziel dieses Versuchs ist es, diese Schwellspannung $U_S$ für verschieden-farbige LEDs zu untersuchen und die Werte für $U_S$ mit der Energie der ausgesandten Photonen zu vergleichen. Für die Schwellspannung gilt näherungsweise: $$ U_S \cdot e = h \cdot f $$
-
-</div>
-
-<div class="flex-child-1" style="min-width: 300px; margin-bottom: -10px">
-
-![Versuchsaufbau](https://diversewolken.ddns.net/nextcloud/index.php/s/B2FJWoLyN8AzJXM/download)
-
-</div>
-
-</section>
-
-</p>
-
----
-
-__Materialien:__ 
-
-- LEDs (infra-rot, rot, orange, grün, blau)
-
-- Mobile-Cassy Messgerät
-
-- 50 $\Omega$ Vorwiderstand
-
----
-
-__Durchführung__
-
-<p style="margin-left:10%; color:blue">
-
-Nehmen Sie für die verschiedenen Leuchtdioden die Kennlinien auf. Ermitteln Sie die zugehörige Schwellspannung $U_S$. Zeichnen Sie ein Diagramm $U_S(f)$, wobei $f$ die Freqenz der ausgesandten Photonen ist.
-
-</p>
-
 ### Abituraufgabe Photoeffekt
 
 **Thema: Äußerer Lichtelektrischer Effekt (Photoeffekt)**
@@ -5985,7 +5930,7 @@ Die Barium beschichtete Kathode einer Vakuum-Fotozelle wird mit monochromatische
 
 __Teilaufgabe a) Herleitung der Planck’schen Gleichung__
 
-Wenden Sie den Energieerhaltungssatz auf den Photoeffekt an und leiten Sie daraus eine Gleichung zur Berechnung des Planck'schen Wirkungsquantums $h$ her.
+Wenden Sie den Energieerhaltungssatz auf den Photoeffekt an und leiten Sie daraus eine Gleichung zur Berechnung des Planck'schen Wirkungsquantums $h$ als Funktion der Austrittsarbeit, der maximalen kinetischen Energie und der Wellenlänge des eingestrahlten Lichts her.
 
 <details style="margin-left:10%;color:blue">
 <summary>Lösungshinweis</summary>
@@ -6071,7 +6016,7 @@ Mit $E_{kin} = 9,66 \cdot 10^{-20} \, \text{J}$ und der Elementarladung $e \appr
 
 $$ U = \frac{9,66 \cdot 10^{-20} \, \text{J}}{1,602 \cdot 10^{-19} \, \text{C}} \approx 0,603 \, \text{V} $$
 
-Die mindestens anzulegende Spannung beträgt $\mathbf{U \approx 0,60 \, \text{V}}$.
+Die mindestens anzulegende Spannung beträgt $\mathbf{U \approx 0,603 \, \text{V}}$.
 
 </details>
 
@@ -6079,8 +6024,8 @@ Die mindestens anzulegende Spannung beträgt $\mathbf{U \approx 0,60 \, \text{V}
 
 __Teilaufgabe c) Grenzwellenlänge__
 
-Die Kathode wird jetzt mit Licht größerer Wellenlänge bestrahlt. Ermitteln Sie die **Grenzwellenlänge** $\lambda_G$ des eingestrahlten Lichtes, ab der keine Fotoelektronen mehr emittiert werden.
-(Nutzen Sie $W_A \approx 2,52 \, \text{eV}$ aus der Originallösung).
+Die Barium-Kathode wird jetzt mit Licht größerer Wellenlänge bestrahlt. Ermitteln Sie die **Grenzwellenlänge** $\lambda_G$ des eingestrahlten Lichtes, ab der keine Fotoelektronen mehr emittiert werden.
+
 
 @rangeQuiz2( $\lambda_G$, 492e-9, $\text{m}$ )
 
@@ -6088,7 +6033,7 @@ Die Kathode wird jetzt mit Licht größerer Wellenlänge bestrahlt. Ermitteln Si
 
 <summary>Lösungshinweis</summary>
 
-An der Grenzwellenlänge gilt $E_{kin, max} = 0$. Die Energie des Photons $E_{Ph} = \frac{h \cdot c}{\lambda_G}$ entspricht dann genau der Austrittsarbeit $W_A$.
+An der Grenzwellenlänge gilt $E_{kin, max} = 0$. Die Energie des Photons $E_{Ph} = \frac{h \cdot c}{\lambda_G}$ entspricht dann genau der Austrittsarbeit $W_A$. Recherchieren Sie die Austrittsarbeit/Auslösearbeit von Barium in Ihrer Formelsammelung.
 
 </details>
 
@@ -6099,7 +6044,7 @@ An der Grenzwellenlänge gilt $E_{kin, max} = 0$. Die Energie des Photons $E_{Ph
 Die Grenzwellenlänge $\lambda_G$ ist definiert durch $E_{Ph} = W_A$:
 $$ \frac{h \cdot c}{\lambda_G} = W_A \Rightarrow \lambda_G = \frac{h \cdot c}{W_A} $$
 
-Zunächst muss die Austrittsarbeit $W_A$ in Joule umgerechnet werden (da die Aufgabe zuvor $E_{kin}$ in Joule gegeben hatte). Die Originallösung gibt $W_A \approx 2,52 \, \text{eV}$ an.
+Zunächst muss die Austrittsarbeit $W_A$ in Joule umgerechnet werden (da die Aufgabe zuvor $E_{kin}$ in Joule gegeben hatte). Die Formelsammlung gibt $W_A \approx 2,52 \, \text{eV}$ an.
 
 $$ W_A = 2,52 \, \text{eV} \cdot 1,602 \cdot 10^{-19} \, \frac{\text{J}}{\text{eV}} \approx 4,037 \cdot 10^{-19} \, \text{J} $$
 
@@ -6115,13 +6060,17 @@ Die Grenzwellenlänge beträgt $\mathbf{\lambda_G \approx 492 \, \text{nm}}$.
 
 __Teilaufgabe d) Grafische Darstellung__
 
-Stellen Sie die Abhängigkeit der kinetischen Energie $E_{kin}$ emittierter Elektronen von der Frequenz $f$ des eingestrahlten Lichtes grafisch dar und interpretieren Sie diesen Zusammenhang.
+Stellen Sie die Abhängigkeit der kinetischen Energie $E_{kin}$ emittierter Elektronen von der Frequenz $f$ des eingestrahlten Lichtes grafisch dar und interpretieren Sie diesen Zusammenhang. Zeichnen Sie einen weiteren Graph für das Material Caesium.
 
 <details style="margin-left:10%;color:blue">
 
 <summary>Lösungshinweis</summary>
 
 Die Darstellung erfolgt als Graph der Einstein-Gleichung $E_{kin} = h \cdot f - W_A$. Die y-Achse repräsentiert $E_{kin}$ und die x-Achse die Frequenz $f$.
+
+Zeichnen Sie auf die y-Achse die Energie in der Einheit $\mathrm{eV}$ und auf der x-Achse die Frequenz in der Einheit $10^{14}\,\mathrm{Hz}$.
+
+__Hinweis:__ Nutzen Sie charakteristische Punkte der Graphen, um die Zeichnung möglichste einfach zu erhalten.
 
 </details>
 
@@ -6132,7 +6081,86 @@ Die Darstellung erfolgt als Graph der Einstein-Gleichung $E_{kin} = h \cdot f - 
 Die kinetische Energie $E_{kin}$ eines Elektrons ist gleich der Differenz aus der Energie eines Photons ($h \cdot f$) und der Austrittsarbeit ($W_A$):
 $$ E_{kin} = h \cdot f - W_A $$
 
+![Graph_Einstein](https://diversewolken.ddns.net/nextcloud/index.php/s/tjQzMDadsSCj2A5/download)
+
+__Hinweise:__ Die beiden charakteristischen Punkte sind der Schnittpunkt mit der y-Achse ($W_A$) und der Schnittpunkt mit der x-Achse ($f_G$). Die Gerade für Caesium kann als parallele Gerade gezeichnet werden, hier ist nur noch der Punkt ($W_A$) nötig.
+
 **Grafische Darstellung (Interpretation):**
 Der Zusammenhang ist **linear**. Der Graph beginnt erst bei der **Grenzfrequenz** $f_G$, bei der die kinetische Energie der Fotoelektronen Null ist. Die Steigung der Geraden ist gleich dem **Planck’schen Wirkungsquantum** $h$ und hängt damit nur von Naturkonstanten ab, nicht vom Katodenmaterial. Der y-Achsenabschnitt (wenn man die Gerade in den negativen Bereich fortsetzen würde) entspricht betragsmäßig der Austrittsarbeit $W_A$. Wenn die Frequenz des eingestrahlten Lichts kleiner als die Grenz Frequenz ist, werden keine Elektronen emittiert.
 
 </details>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+## Inverser Photoeffekt
+
+> Mit der Hilfe von Leuchtdioden (LED - light emitting diode), lässt sich eine Umkehrung des Fotoeffekts experimentell untersuchen. In diesem Experiment soll die Abhängigkeit der Schwellspannung von der Farbe der zugehörigen LEDs untersucht werden.
+
+---
+
+__Vorbetrachtung:__
+
+<p style="margin-left:10%">
+
+Bei einer Leuchtdiode wird Elektronen innerhalb des Halbleitermaterials elektrische Energie zugeführt. Diese Energie kann vereinfacht mit $E= U\cdot e$ angenommen werden. <br> Ist die zugeführte Energie groß genug, so kann ein Elektron unter Abgabe dieser Energiemenge ein Photon $E_{ph} = h \cdot f$ aussenden. <br> Bei einfarbigen Leuchtdiode können Elektronen auf diese Weise Photonen einer bestimmten Wellenlänge (Farbe der LED) aussenden, wenn $$U \cdot e \geq h \cdot f$$ Energie, die die Photonenenergie übertrifft, wird in Form von Wärme abegeben.
+
+</p>
+
+---
+
+__Versuchsaufbau:__
+
+<p style="margin-left:10%">
+
+<section class="flex-container">
+
+<div class="flex-child-1" style="min-width: 300px; margin-bottom: -10px">
+
+Wie in der Vorbetrachtung beschrieben, benötigt eine LED eine minimale Schwellspannung $U_S$, damit sie leuchtet. Ziel dieses Versuchs ist es, diese Schwellspannung $U_S$ für verschieden-farbige LEDs zu untersuchen und die Werte für $U_S$ mit der Energie der ausgesandten Photonen zu vergleichen. Für die Schwellspannung gilt näherungsweise: $$ U_S \cdot e = h \cdot f $$
+
+</div>
+
+<div class="flex-child-1" style="min-width: 300px; margin-bottom: -10px">
+
+![Versuchsaufbau](https://diversewolken.ddns.net/nextcloud/index.php/s/B2FJWoLyN8AzJXM/download)
+
+</div>
+
+</section>
+
+</p>
+
+---
+
+__Materialien:__ 
+
+- LEDs (infra-rot, rot, orange, grün, blau)
+
+- Mobile-Cassy Messgerät
+
+- 50 $\Omega$ Vorwiderstand
+
+---
+
+__Durchführung__
+
+<p style="margin-left:10%; color:blue">
+
+Nehmen Sie für die verschiedenen Leuchtdioden die Kennlinien auf. Ermitteln Sie die zugehörige Schwellspannung $U_S$. Zeichnen Sie ein Diagramm $U_S(f)$, wobei $f$ die Freqenz der ausgesandten Photonen ist.
+
+</p>
