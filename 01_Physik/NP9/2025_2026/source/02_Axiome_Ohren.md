@@ -44,6 +44,10 @@ window.LIA.settings.font_size = 2
 
 # Axiome von P. Watzlawick und Vier-Ohren-Modell
 
+__Erklärvideo:__
+
+[AxiomeNachWatzlawick](https://www.youtube.com/watch?v=GydVGIDyEQ0)
+
 ### Quiz 1 - Axiome nach Watzlawick
 
 <iframe src="https://www.testedich.de/widget.php?quiz=67&id=1611253998&theme=nice-blue&lang=de&width=550&height=400" width="550" height="400" frameborder="0"></iframe>
@@ -104,7 +108,9 @@ window.LIA.settings.font_size = 2
 
 ## Vier-Ohren-Modell
 
-!?[4-Ohren-Modell](https://www.youtube.com/watch?v=9VJn1cPbf1A)
+__Erklärvideo:__
+
+[4-Ohren-Modell](https://www.youtube.com/watch?v=9VJn1cPbf1A)
 
 ### Beispielvideo - 4-Ohren
 
