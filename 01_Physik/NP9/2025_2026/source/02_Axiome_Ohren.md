@@ -44,32 +44,11 @@ window.LIA.settings.font_size = 2
 
 # Axiome von P. Watzlawick und Vier-Ohren-Modell
 
-!?[AxiomeNachWatzlawick](https://www.youtube.com/watch?v=GydVGIDyEQ0)
-
-## Wiederholung der Axiome
-
-{{1}}
-> 1. Axiom: Man kann nicht nicht kommunizieren
-
-{{2}}
-> 2. Axiom: Kommunikation hat immer einen Inhalts- und einen Beziehungsaspekt, wobei letzteren den ersten bestimmt.
-
-{{3}}
-> 3. Axiom: Kommunikation besteht immer aus Reiz und Reaktion, Ursache und Wirkung.
-
-{{4}}
-> 4. Axiom: Kommunikation bedient sich __analoger__ und __digitaler__ Modalitäten. <br> <br> __Digital__ sind eindeutige Kommunikationsformen (Sprache, Schrift) <br> __Analog__ sind interpretierbare Formen (Mimik, Gestik, Tonfall ...)
-
-{{5}}
-> 5. Axiom: Kommunikation findet symmetrisch oder komplementär statt <br> <br> __Symmetrisch:__ Auf Augenhöhe (z.B. Freunde) <br> __Komplementär:__ Durch Hierarchien bestimmt (Lehrerin-Schülerin, Arzt-Patient, Polizei-Zivilistin)
-
-### Beispielvideo
-
-!?[Haft statt Kaution in drei Minuten](https://diversewolken.ddns.net/nextcloud/index.php/s/qo9BixjmPPXZXz6/download)
-
 ### Quiz - Axiome nach Watzlawick
 
 <iframe src="https://www.testedich.de/widget.php?quiz=67&id=1611253998&theme=nice-blue&lang=de&width=550&height=400" width="550" height="400" frameborder="0"></iframe>
+
+
 
 ## Vier-Ohren-Modell
 
