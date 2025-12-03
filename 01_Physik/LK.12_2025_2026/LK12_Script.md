@@ -5975,4 +5975,164 @@ Nehmen Sie für die verschiedenen Leuchtdioden die Kennlinien auf. Ermitteln Sie
 
 </p>
 
+### Abituraufgabe Photoeffekt
 
+**Thema: Äußerer Lichtelektrischer Effekt (Photoeffekt)**
+
+Die Barium beschichtete Kathode einer Vakuum-Fotozelle wird mit monochromatischem Licht der Wellenlänge $\lambda = 397 \, \text{nm}$ bestrahlt.
+
+---
+
+__Teilaufgabe a) Herleitung der Planck’schen Gleichung__
+
+Wenden Sie den Energieerhaltungssatz auf den Photoeffekt an und leiten Sie daraus eine Gleichung zur Berechnung des Planck'schen Wirkungsquantums $h$ her.
+
+<details style="margin-left:10%;color:blue">
+<summary>Lösungshinweis</summary>
+
+Der Energieerhaltungssatz für den Photoeffekt lautet: $$E_{Ph} = E_{kin, max} + W_A$$
+
+Nutzen Sie die Planck-Einstein-Beziehung für Photonen ($E_{Ph} = h \cdot f = \frac{h \cdot c}{\lambda}$).
+
+</details>
+
+<details style="margin-left:10%;color:blue">
+
+<summary>Lösung</summary>
+
+Die Energie $E_{Ph}$ des Photons wird zur Verrichtung der Austrittsarbeit $W_A$ und zur Erzeugung der maximalen kinetischen Energie $E_{kin}$ des Elektrons genutzt.
+
+$$E_{Ph} = E_{kin} + W_A$$
+
+Mit $E_{Ph} = \frac{h \cdot c}{\lambda}$ folgt:
+
+$$ \frac{h \cdot c}{\lambda} = E_{kin} + W_A $$
+
+Umgestellt nach $h$ ergibt sich die gesuchte Gleichung (wobei $W_A$ und $E_{kin}$ bekannt sein müssen):
+
+$$ h = \frac{\lambda}{c} \cdot (E_{kin} + W_A) $$
+
+</details>
+
+---
+
+__Teilaufgabe b) Geschwindigkeit und Gegenspannung__
+
+Die Fotoelektronen verlassen die Kathodenoberfläche mit einer maximalen kinetischen Energie $E_{kin} = 9,66 \cdot 10^{-20} \, \text{J}$. Anschließend werden sie im elektrischen Feld zwischen Kathode und Anode auf die Geschwindigkeit Null abgebremst.
+
+Berechnen Sie die Anfangsgeschwindigkeit $v$ der Elektronen.
+
+@rangeQuiz2( $v$, 4.61e+5, $\text{m} \cdot \text{s}^{-1}$ )
+
+<details style="margin-left:10%;color:blue">
+
+<summary>Lösungshinweis</summary>
+
+Nutzen Sie die Beziehung zwischen kinetischer Energie und Geschwindigkeit: $$E_{kin} = \frac{1}{2} m_e v^2$$
+
+</details>
+
+<details style="margin-left:10%;color:blue">
+<summary>Lösung</summary>
+
+Die Geschwindigkeit $v$ wird berechnet mittels: $$ v = \sqrt{\frac{2 \cdot E_{kin}}{m_e}} $$
+
+Mit $E_{kin} = 9,66 \cdot 10^{-20} \, \text{J}$ und der Elektronenmasse $m_e \approx 9,109 \cdot 10^{-31} \, \text{kg}$:
+
+$$ v = \sqrt{\frac{2 \cdot 9,66 \cdot 10^{-20} \, \text{J}}{9,109 \cdot 10^{-31} \, \text{kg}}} \approx 4,61 \cdot 10^5 \, \text{m} \cdot \text{s}^{-1} $$
+
+Die Anfangsgeschwindigkeit beträgt $\mathbf{v \approx 4,61 \cdot 10^5 \, \text{m} \cdot \text{s}^{-1}}$.
+
+</details>
+
+---
+
+Berechnen Sie die zwischen Kathode und Anode mindestens anzulegende Spannung $U$ (Gegenspannung).
+
+@rangeQuiz2( $U$, 0.60, $\text{V}$ )
+
+<details style="margin-left:10%;color:blue">
+
+<summary>Lösungshinweis</summary>
+
+Die elektrische Arbeit $W = e \cdot U$ muss gleich der kinetischen Energie $E_{kin}$ sein, um das Elektron abzubremsen.
+
+</details>
+
+<details style="margin-left:10%;color:blue">
+
+<summary>Lösung</summary>
+
+Die kinetische Energie $E_{kin}$ entspricht der elektrischen Bremsarbeit $W_{el} = e \cdot U$:
+
+$$ U = \frac{E_{kin}}{e} $$
+
+Mit $E_{kin} = 9,66 \cdot 10^{-20} \, \text{J}$ und der Elementarladung $e \approx 1,602 \cdot 10^{-19} \, \text{C}$:
+
+$$ U = \frac{9,66 \cdot 10^{-20} \, \text{J}}{1,602 \cdot 10^{-19} \, \text{C}} \approx 0,603 \, \text{V} $$
+
+Die mindestens anzulegende Spannung beträgt $\mathbf{U \approx 0,60 \, \text{V}}$.
+
+</details>
+
+---
+
+__Teilaufgabe c) Grenzwellenlänge__
+
+Die Kathode wird jetzt mit Licht größerer Wellenlänge bestrahlt. Ermitteln Sie die **Grenzwellenlänge** $\lambda_G$ des eingestrahlten Lichtes, ab der keine Fotoelektronen mehr emittiert werden.
+(Nutzen Sie $W_A \approx 2,52 \, \text{eV}$ aus der Originallösung).
+
+@rangeQuiz2( $\lambda_G$, 492e-9, $\text{m}$ )
+
+<details style="margin-left:10%;color:blue">
+
+<summary>Lösungshinweis</summary>
+
+An der Grenzwellenlänge gilt $E_{kin, max} = 0$. Die Energie des Photons $E_{Ph} = \frac{h \cdot c}{\lambda_G}$ entspricht dann genau der Austrittsarbeit $W_A$.
+
+</details>
+
+<details style="margin-left:10%;color:blue">
+
+<summary>Lösung</summary>
+
+Die Grenzwellenlänge $\lambda_G$ ist definiert durch $E_{Ph} = W_A$:
+$$ \frac{h \cdot c}{\lambda_G} = W_A \Rightarrow \lambda_G = \frac{h \cdot c}{W_A} $$
+
+Zunächst muss die Austrittsarbeit $W_A$ in Joule umgerechnet werden (da die Aufgabe zuvor $E_{kin}$ in Joule gegeben hatte). Die Originallösung gibt $W_A \approx 2,52 \, \text{eV}$ an.
+
+$$ W_A = 2,52 \, \text{eV} \cdot 1,602 \cdot 10^{-19} \, \frac{\text{J}}{\text{eV}} \approx 4,037 \cdot 10^{-19} \, \text{J} $$
+
+Eingesetzt in die Gleichung für $\lambda_G$ ($h \approx 6,626 \cdot 10^{-34} \, \text{J} \cdot \text{s}$, $c \approx 3,00 \cdot 10^8 \, \text{m} \cdot \text{s}^{-1}$):
+
+$$ \lambda_G = \frac{6,626 \cdot 10^{-34} \, \text{J} \cdot \text{s} \cdot 3,00 \cdot 10^8 \, \text{m} \cdot \text{s}^{-1}}{4,037 \cdot 10^{-19} \, \text{J}} \approx 4,923 \cdot 10^{-7} \, \text{m} $$
+
+Die Grenzwellenlänge beträgt $\mathbf{\lambda_G \approx 492 \, \text{nm}}$.
+
+</details>
+
+---
+
+__Teilaufgabe d) Grafische Darstellung__
+
+Stellen Sie die Abhängigkeit der kinetischen Energie $E_{kin}$ emittierter Elektronen von der Frequenz $f$ des eingestrahlten Lichtes grafisch dar und interpretieren Sie diesen Zusammenhang.
+
+<details style="margin-left:10%;color:blue">
+
+<summary>Lösungshinweis</summary>
+
+Die Darstellung erfolgt als Graph der Einstein-Gleichung $E_{kin} = h \cdot f - W_A$. Die y-Achse repräsentiert $E_{kin}$ und die x-Achse die Frequenz $f$.
+
+</details>
+
+<details style="margin-left:10%;color:blue">
+
+<summary>Lösung</summary>
+
+Die kinetische Energie $E_{kin}$ eines Elektrons ist gleich der Differenz aus der Energie eines Photons ($h \cdot f$) und der Austrittsarbeit ($W_A$):
+$$ E_{kin} = h \cdot f - W_A $$
+
+**Grafische Darstellung (Interpretation):**
+Der Zusammenhang ist **linear**. Der Graph beginnt erst bei der **Grenzfrequenz** $f_G$, bei der die kinetische Energie der Fotoelektronen Null ist. Die Steigung der Geraden ist gleich dem **Planck’schen Wirkungsquantum** $h$ und hängt damit nur von Naturkonstanten ab, nicht vom Katodenmaterial. Der y-Achsenabschnitt (wenn man die Gerade in den negativen Bereich fortsetzen würde) entspricht betragsmäßig der Austrittsarbeit $W_A$. Wenn die Frequenz des eingestrahlten Lichts kleiner als die Grenz Frequenz ist, werden keine Elektronen emittiert.
+
+</details>
