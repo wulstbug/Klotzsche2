@@ -3071,7 +3071,7 @@ __Versuchsaufbau:__
 
 __Beschreibung:__
 
-- eine Metallelektrode (Kathode) wird mit monochromatischem Licht beleuchtet}
+- eine Metallelektrode (Kathode) wird mit monochromatischem Licht beleuchtet
 
 - werden Elektronen aus dem Metall herausgelöst, so erhalten sie eine kinetische Energie $E_{kin}$
 
