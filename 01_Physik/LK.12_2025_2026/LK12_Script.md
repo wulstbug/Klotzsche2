@@ -6099,7 +6099,7 @@ Der Zusammenhang ist **linear**. Der Graph beginnt erst bei der **Grenzfrequenz*
 
 {{1-2}}
 ***************
-!?[DelayedChoiceExperiment_Erklärt](hhttps://diversewolken.ddns.net/nextcloud/index.php/s/RCy6J5SoFzDmJoM/download)
+!?[DelayedChoiceExperiment_Erklärt](https://diversewolken.ddns.net/nextcloud/index.php/s/gP6wjfkibgn4TSL/download)
 ***************
 
 {{2}}
@@ -6108,12 +6108,12 @@ Das Delayed Choice Experiment ist eine Erweiterung des Doppelspaltexperiments un
 
 <H4> 1. Welle-Teilchen-Dualismus (Ausgangslage) </H4>
 
-Quantenobjekte wie **Elektronen** oder **Photonen** besitzen eine **Welle-Teilchen-Dualität**.
+Quantenobjekte wie **Elektronen** oder **Photonen** besitzen eine **Welle-Teilchen-Dualität**. Am Doppelspalt gilt:
 
-| Zustand | Verhalten | Ergebnis auf dem Schirm |
+| Aufbau | Verhalten | Ergebnis auf dem Schirm |
 | :--- | :--- | :--- |
 | **Unbeobachtet** | Verhalten sich wie Wellen | **Interferenzmuster**  |
-| **Beobachtet** (z. B. Detektor vor dem Spalt) | Wellenfunktion kollabiert zu Teilchen | _Schattenbild_ mit zwei Streifen |
+| **Beobachtet** (z. B. Detektor vor dem Spalt) | Wellenfunktion kollabiert zu Teilchen | __Schattenbild__ mit zwei Streifen |
 
 > **Kernproblem:** Die Beobachtung selbst ändert das Verhalten des Quantenobjekts.
 
@@ -6124,7 +6124,7 @@ Quantenobjekte wie **Elektronen** oder **Photonen** besitzen eine **Welle-Teilch
 ***************
 <H4> 2. Die Idee: Verzögerte Wahl (Delayed Choice) </H4>
 
-Anstatt das Elektron **vor** dem Spalt zu beobachten, wird die **Entscheidung zur Beobachtung verzögert** (Delayed Choice). Die Detektion erfolgt erst, **nachdem** das Elektron bzw. Photon die Spalte bereits passiert hat und auf dem Weg zum Schirm ist.
+Anstatt das Elektron bzw. Photon **vor** dem Spalt zu beobachten, wird die **Entscheidung zur Beobachtung verzögert** (Delayed Choice). Die Beobachtung erfolgt erst, **nachdem** das Elektron bzw. Photon die Spalte bereits passiert hat und auf dem Weg zum Schirm ist.
 
 ---
 ***************
@@ -6134,12 +6134,9 @@ Anstatt das Elektron **vor** dem Spalt zu beobachten, wird die **Entscheidung zu
 ***************
 <H4> 3. Erwartung vs. Realität </H4>
 
-> **Logische Erwartung:**
+> **Logische Erwartung:** Da die Teilchen die Spalte passierten, ohne beobachtet zu werden, hätten sie sich wie Wellen verhalten sollen. -> **Erwartetes Ergebnis:** Interferenzmuster.
 >
-> Da die Teilchen die Spalte passierten, ohne beobachtet zu werden, hätten sie sich wie Wellen verhalten sollen. -> **Erwartetes Ergebnis:** Interferenzmuster.
-
-> **Tatsächliches Ergebnis:**
-> Das Interferenzmuster verschwindet. Auf dem Schirm erschienen **nur zwei Streifen (Schattenmuster)**.
+> **Tatsächliches Ergebnis:** Das Interferenzmuster verschwindet. Auf dem Schirm erschienen **nur zwei Streifen (Schattenmuster)**.
 ***************
 
 
@@ -6147,7 +6144,7 @@ Anstatt das Elektron **vor** dem Spalt zu beobachten, wird die **Entscheidung zu
 ***************
 <H4> 4. Konsequenzen und Implikationen </H4>
 
-Das Ergebnis deutet darauf hin, dass die verzögerte Beobachtung dazu führte, dass sich das Elektron so verhielt, als hätte es **im Voraus** gewusst, dass es beobachtet werden würde.
+Das Ergebnis deutet darauf hin, dass die __nachträgliche Beobachtung (_delayed choice_)__ dazu führte, dass sich das Elektron so verhielt, als hätte es **im Voraus** gewusst, dass es beobachtet werden würde.
 
 Die Beobachtung schien die Wahl des Elektrons **rückwirkend** zu beeinflussen:
 
