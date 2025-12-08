@@ -365,4 +365,13 @@ __Beschreibung:__
 4. Zeichne eine geeignete Ausgleichsgerade und ermittle den Anstieg $h = \frac{\Delta E_{kin}}{\Delta f}$.
 </p>
 
+
+<details style='margin-left:10%'>
+
+<summary> Lösung </summary>
+
+![Diagramm_Gegenfeldmethode](https://diversewolken.ddns.net/nextcloud/index.php/s/Yz2zwkbRtEAEjPi/download)
+
+</details>
+
 [Video zur Gegenfeldmethode](https://www.youtube.com/watch?v=Xm8LAEA7Gy8)
