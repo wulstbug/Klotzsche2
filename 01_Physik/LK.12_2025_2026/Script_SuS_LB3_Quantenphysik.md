@@ -911,7 +911,7 @@ __Wellenfunktion einer harmonischen Welle:__
 
 <div class="flex-child-1" style="min-width: 300px; margin-bottom: -10px">
 
-$$ \boxed{\Psi(x,t) = A_{max} \cdot \sin\Big( \frac{2\pi}{\lambda}\cdot x-\frac{2\pi}{T}\cdot t\Big)} $$ 
+$ \Psi(x,t) = A_{max} \cdot \sin \Big( \frac{2\pi}{\lambda} \cdot x-\frac{2\pi}{T}\cdot t \Big) $ 
 
 </div>
 
@@ -1226,4 +1226,53 @@ Der Zusammenhang ist **linear**. Der Graph beginnt erst bei der **Grenzfrequenz*
 </details>
 
 
+
+
+## 11. 9. Das Delayed Choice Experiment: Eine Retrokausale Frage
+
+[DelayedChoiceExperiment-Video1](https://www.youtube.com/watch?v=rsNiHRqCtmk)
+
+[DelayedChoiceExperiment_Erklärt_Video2](https://diversewolken.ddns.net/nextcloud/index.php/s/gP6wjfkibgn4TSL)
+
+
+Das Delayed Choice Experiment ist eine Erweiterung des Doppelspaltexperiments und stellte die Wissenschaft vor die Frage, ob Beobachtung die Realität nachträglich verändern kann.
+
+<H4> 1. Welle-Teilchen-Dualismus (Ausgangslage) </H4>
+
+Quantenobjekte wie **Elektronen** oder **Photonen** besitzen eine **Welle-Teilchen-Dualität**. Am Doppelspalt gilt:
+
+| Aufbau | Verhalten | Ergebnis auf dem Schirm |
+| :--- | :--- | :--- |
+| **Unbeobachtet** | Verhalten sich wie Wellen | **Interferenzmuster**  |
+| **Beobachtet** (z. B. Detektor vor dem Spalt) | Wellenfunktion kollabiert zu Teilchen | __Schattenbild__ mit zwei Streifen |
+
+> **Kernproblem:** Die Beobachtung selbst ändert das Verhalten des Quantenobjekts.
+
+---
+
+<H4> 2. Die Idee: Verzögerte Wahl (Delayed Choice) </H4>
+
+Anstatt das Elektron bzw. Photon **vor** dem Spalt zu beobachten, wird die **Entscheidung zur Beobachtung verzögert** (Delayed Choice). Die Beobachtung erfolgt erst, **nachdem** das Elektron bzw. Photon die Spalte bereits passiert hat und auf dem Weg zum Schirm ist.
+
+---
+
+<H4> 3. Erwartung vs. Realität </H4>
+
+> **Logische Erwartung:** Da die Teilchen die Spalte passierten, ohne beobachtet zu werden, hätten sie sich wie Wellen verhalten sollen. -> **Erwartetes Ergebnis:** Interferenzmuster.
+>
+> **Tatsächliches Ergebnis:** Das Interferenzmuster verschwindet. Auf dem Schirm erschienen **nur zwei Streifen (Schattenmuster)**.
+
+<H4> 4. Konsequenzen und Implikationen </H4>
+
+Das Ergebnis deutet darauf hin, dass die __nachträgliche Beobachtung (_delayed choice_)__ dazu führte, dass sich das Elektron so verhielt, als hätte es **im Voraus** gewusst, dass es beobachtet werden würde.
+
+Die Beobachtung schien die Wahl des Elektrons **rückwirkend** zu beeinflussen:
+
+> *   Das Elektron scheint, nachdem es den Schirm erreicht hatte, **"in die Zeit zurückgeblickt"** zu haben.
+> *   Es hat sein Verhalten **retroaktiv** (rückwirkend) von einer Welle in ein Teilchen geändert.
+
+Bis heute gibt es keine bessere Erklärung für dieses Ergebnis. Dies wirft tiefgreifende philosophische Fragen auf:
+
+> *   Kann Beobachtung die Vergangenheit beeinflussen (Retrokausalität)?
+> *   Können Quantenobjekte "Zeitreisen"?
 

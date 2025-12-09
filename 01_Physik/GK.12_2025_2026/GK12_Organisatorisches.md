@@ -23,37 +23,20 @@ mode: presentation
 icon:   https://diversewolken.ddns.net/klotzsche/logo.jpg
 -->
 
-__Checkliste für Klausur 12/1__
+__Korrekturhinweise zur Klausur 12/1__
 
-__Schwingungen:__
+> __Korrekturzeichen:__
 
-- Beschreibung mechanischer Schwingungen mit Hilfe der physikalischen Größen
+- __ug:__ ungenau
+- __uv:__ unvollständig
+- __Bg:__ fehlende oder falsche Begründung
+- __FS:__ fehlende oder falsche Fachsprache
 
-- zugehörige Gleichungen für harmonische Schwingungen in sin und cos-Form
+> Bemerkungen zur Punkteverteilung
 
-- Zusammenhänge der Größen y(t), v(t), a(t)
+- Größenangaben ohne Einheit erhalten keine BE
 
-- Anwendung der Grundlagen/physikalischen Beschreibungen auf das Beispielsystem Federschwinger, Periodendauer
-
-- Bedingungen für harmonische Schwingungen
-
-- Energieumwandlungen bei mechanischen Schwingungen / Energieerhaltung, auch am Beispiel Federschwinger
-
-- Grundlagen des elektromagnetischen Schwingkreises, Aufbau, schwingende physikalische Größen, Energieumwandlungen, Thomson'sche Schwingungsgleichung
-
-__Wellen:__
-
-- Beschreibung von mechanischen Wellen als sich im Raum ausdehnende Schwingungen, zeitliche und örtliche Darstellung als Gleichung und in Diagramm-Form
-
-- Arten und Eigenschaften mechanischer Wellen, Darstellung von Wellen mit Wellenfront und Wellennormale
-
-- Wellenphänomene (Reflexion, Beugung, Brechung, Interferenz) und deren Erklärung mit Hilfe des Huygens'schen Prinzips, stehende Wellen
-
-- Wellengleichungen und Wellenausbreitungsgleichung
-
-- Licht als elektromagnetische Welle, Eigenschaften von Lichtwellen, Experimente zur Interferenz mit elektromagnetischen Wellen am Doppelspalt und optischem Gitter
-
-
+- __Diagramme:__ BE-Aubzug bei fehlender Beschriftung, - Einheiten, unsauberes Zeichnen, inhaltlich ungenügende Darstellung
 
 
 ## Notengebung

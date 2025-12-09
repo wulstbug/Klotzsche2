@@ -2743,6 +2743,40 @@ _Bitte anschließend stichpunktartig übernehmen_
 
 ??[RedeEinstein](https://collections.ushmm.org/search/catalog/irn1004136)
 
+
+### Checkliste für Klausur 12/1__
+
+__Schwingungen:__
+
+- Beschreibung mechanischer Schwingungen mit Hilfe der physikalischen Größen
+
+- zugehörige Gleichungen für harmonische Schwingungen in sin und cos-Form
+
+- Zusammenhänge der Größen y(t), v(t), a(t)
+
+- Anwendung der Grundlagen/physikalischen Beschreibungen auf das Beispielsystem Federschwinger, Periodendauer
+
+- Bedingungen für harmonische Schwingungen
+
+- Energieumwandlungen bei mechanischen Schwingungen / Energieerhaltung, auch am Beispiel Federschwinger
+
+- Grundlagen des elektromagnetischen Schwingkreises, Aufbau, schwingende physikalische Größen, Energieumwandlungen, Thomson'sche Schwingungsgleichung
+
+__Wellen:__
+
+- Beschreibung von mechanischen Wellen als sich im Raum ausdehnende Schwingungen, zeitliche und örtliche Darstellung als Gleichung und in Diagramm-Form
+
+- Arten und Eigenschaften mechanischer Wellen, Darstellung von Wellen mit Wellenfront und Wellennormale
+
+- Wellenphänomene (Reflexion, Beugung, Brechung, Interferenz) und deren Erklärung mit Hilfe des Huygens'schen Prinzips, stehende Wellen
+
+- Wellengleichungen und Wellenausbreitungsgleichung
+
+- Licht als elektromagnetische Welle, Eigenschaften von Lichtwellen, Experimente zur Interferenz mit elektromagnetischen Wellen am Doppelspalt und optischem Gitter
+
+
+
+
 # LB VII - Einführung in die Quantenphysik
 
 ![Schrödingers-Katze](https://static.wixstatic.com/media/56b499_f968ac3986d649a09a223676e4292365~mv2.jpg/v1/fill/w_740,h_493,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/56b499_f968ac3986d649a09a223676e4292365~mv2.jpg)
