@@ -6162,7 +6162,7 @@ Bis heute gibt es keine bessere Erklärung für dieses Ergebnis. Dies wirft tief
 
 ### Entwicklung Leistungen 12Ph2
 
-{{1}}
+{{1-2}}
 *********
 <!--
      data-show
@@ -6185,6 +6185,31 @@ Bis heute gibt es keine bessere Erklärung für dieses Ergebnis. Dies wirft tief
 | 12/KA1  | 9.5 | 9.67 |
 | 12/EX3  | 9.6 | 9.85 |
 | 12/KA2  | 10.1 | 10.03 |
+*********
+
+{{2}}
+*********
+<!--
+     data-show
+     data-title=""
+     data-type="line"
+     data-xlabel="Bewertung"
+     data-ylabel="Durchschnitt"
+-->
+| Test | 12Ph2 | Trend-12Ph2 | 12Ph1 | Trend-12Ph1 |
+| ---- | ---- | ---- | ---- | ---- |
+| 11/LK1 | 7.9 | 8.05 |  6.9   | 8.45  |
+| 11/KA1 | 6.3 | 8.23 |  6.5   | 8.58  |
+| 11/EX1 | 11.9| 8.41 |  12    | 8.71  |
+| 11/KA2 | 7.7 | 8.59 |  8.8   | 8.84  |
+| 11/LK2 | 8.8 | 8.77 |  9     | 8.97  |
+| 11/KA3 | 8.7 | 8.95 |  11    | 9.1  |
+| 11/KA4 | 9.1 | 9.13 |  8.9   | 9.23  |
+| 11/EX2 | 10.5 | 9.31 |  10.1 | 9.36  |
+| 12/LK1  | 8.9 | 9.49 |  8.5  | 9.49   |
+| 12/KA1  | 9.5 | 9.67 |  8.9  | 9.62   |
+| 12/EX3  | 9.6 | 9.85 |  9.5  | 9.75   |
+| 12/KA2  | 10.1 | 10.03 |     | 9.88   |
 *********
 
 
