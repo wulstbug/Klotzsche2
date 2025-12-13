@@ -6304,3 +6304,8 @@ __Durchführung__
 Nehmen Sie für die verschiedenen Leuchtdioden die Kennlinien auf. Ermitteln Sie die zugehörige Schwellspannung $U_S$. Zeichnen Sie ein Diagramm $U_S(f)$, wobei $f$ die Freqenz der ausgesandten Photonen ist.
 
 </p>
+
+
+### KI-Übung zur Quantenphysik
+
+[KI-Aufgabe-Inkl-Prompt](http://10.102.1.3:3001/?q=Stelle%20mir%20f%C3%BCnf%20Verst%C3%A4ndnisfragen%20zum%20Thema%20Quantenphysik%20(m%C3%B6gliche%20Themen:%20Fotoeffekt,%20Gegenfeldmethode,%20Schr%C3%B6dingers%20Katze,%20Welle-Teilchen-Dualismus,%20Doppelspalt%20mit%20Einzelteilchen,%20Unsch%C3%A4rferelation,%20Wellenfunktion%20und%20Wellenpaket,%20Delayed-Choice-Experiment)%20mit%20dem%20Niveau%20Gymnasium%20Leistungskurs%20Physik%20Klasse%2012.%20Stelle%20mir%20die%20Fragen%20eine%20nach%20der%20anderen.%20Warte%20auf%20meine%20Antwort%20und%20bewerte%20meine%20Antwort%20auf%20einer%20Skala%20von%201%20bis%2010)
