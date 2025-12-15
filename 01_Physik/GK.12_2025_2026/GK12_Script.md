@@ -3171,13 +3171,23 @@ __Beschreibung:__
 
 __Energiebilanz beim Photoeffekt__
 
+> Die von den Lichtteilchen (Photonen) transportierte Energie $E_{ph}$ wird in Austrittsarbeit/Auslösearbeit $W_A$ der Elektronen und kinetische Energie $E_{kin, max}$ umgewandelt.
+>
+> $$ E_{ph} = E_{kin, max} + W_A $$
+>
+> _Hinweise:_ 
+>
+> - _die Austrittsarbeit/Auslösearbeit verschiedener Metalle finden Sie in der Formelsammlung S. 56_
+>
+> - _oben genannte Gleichung gilt für die Elektronen mit maximaler kinetischer Energie_
+
+
+
 ## 7. 4. Energie, Masse und Impuls von Photonen
 
 > Der äußere lichtelektrische Effekt legt nahe, dass das Licht auch Teilcheneigenschaften besitzt. 
 
-
 > Wir nennen die Lichtteilchen @color(__Photonen__, blue). Jedes Photon trägt Energie mit sich, welche von seiner Frequenz bzw. Wellenlänge abhängt.
-
 
 > __Die Energie __eines Photons
 >
@@ -3190,15 +3200,6 @@ _Nutzt man die Äquivalenz aus Masse und Energie  $E = m \cdot c^2$ der speziell
 > __Die Masse__ eines Photons
 >
 > $$ \boxed{m_{ph} = \frac{E_{ph}}{c^2} = \frac{h \cdot f}{c^2} = \frac{h}{c\cdot \lambda}} $$
-
-
-_Das bewegte massebehaftete Objekte einen Impuls $p = m \cdot v$ besitzen, können wir einen Photonenimpuls berechnen zu_
-
-
-> __Der Impuls__ eines Photons
->
-> $$ \boxed{p_{ph} = m_{ph} \cdot c = \frac{h \cdot f}{c}} $$
-
 
 __Hinweis zur Einheit @color(Elektronenvolt $\mathrm{eV}$, red):__
 
@@ -3225,3 +3226,144 @@ __bzw. in Elektronenvolt__
 
 </p>
 
+
+### Übungsaufgaben zum Photoeffekt
+
+1. Kennzeichnen Sie wahre Aussagen zum äußeren lichtelektrischen Effekt.
+
+<p style="margin-left:5%">
+
+[[x]] Je kurzwelliger das Licht, je besser werden Elektronen aus der Katode gelöst
+[[ ]] Wird die Intensität des Lichts verstärkt, erhöht sich die Geschwindigkeit der herausgelösten Elektronen.
+[[x]] Die Energie des Lichtes ist von der Frequenz abhängig.
+[[ ]] Die Grenzfrequenz hängt vom Licht ab.
+[[ ]] Das Plancksche Wirkungsquantum hängt vom verwendeten Katodenmaterial ab.
+
+</p>
+
+---
+
+2. Eine Fotokathode (Austrittsarbeit $W_A=2,4\cdot10^{-19}\,\mathrm{J}$) wird mit Licht der Wellenlänge $\lambda = 500\,\mathrm{nm}$ bestrahlt.
+
+2. 1. Ermitteln Sie die Gegenspannung $U_g$, bei welcher die Stromstärke gerade auf Null zurückgeht.
+
+<p style='margin-left:10%'>
+
+@rangeQuiz2($U_g$,0.99,$\mathrm{V}$)
+
+</p>
+
+<details style='margin-left:10%; color:blue'>
+
+<summary> Lösung </summary>
+
+![Lsg_2.1](https://diversewolken.ddns.net/nextcloud/index.php/s/s3aNGoxT4RWE2eT/download)
+
+</details>
+
+---
+
+2. 2. Ermitteln Sie die Grenzfrequenz $f_g$ für dieses Kathodenmaterial.
+
+<p style='margin-left:10%'>
+
+@rangeQuiz2($f_g$, 3.62e14 , $\mathrm{Hz}$)
+
+</p>
+
+<details style='margin-left:10%; color:blue'>
+
+<summary> Lösung </summary>
+
+![Lsg_2.2](https://diversewolken.ddns.net/nextcloud/index.php/s/ySJTndor5tNotmc/download)
+
+</details>
+
+---
+
+2. 3. Ermitteln Sie die Energie der Photonen in der Einheit $\mathrm{eV}$ für diese Grenzfrequenz und die Farbbezeichnung des Lichts.
+
+<p style='margin-left:10%'>
+
+@rangeQuiz2($E_{ph}$, 1.497 , $\mathrm{eV}$)
+
+Farbbezeichnung: [[ Infrarot ]]
+
+</p>
+
+---
+
+3. Albert Einstein bekam im Jahre 1921 den Physiknobelpreis für die Erklärung des Photoeffektes, bei dem unter bestimmten Bedingungen Elektronen aus einer Metalloberfläche austreten, wenn diese mit Licht bestrahlt wird. Mit Hilfe der Gegenspannungsmethode kann z.B. der Zusammenhang zwischen der Frequenz des eingestrahlten Lichtes und der maximalen Geschwindigkeit der ausgelösten Elektronen bestimmt werden. Welches Diagramm stellt den Zusammenhang zwischen den beiden Größen am besten dar? <br> ![Diagramme_Photoeffekt](https://physikaufgaben.de/bild/a1044_1.jpg/download)
+
+<p style='margin-left:10%'>
+
+[( )] a)
+[( )] b)
+[( )] c)
+[(x)] d)
+
+</p>
+
+<details style='margin-left:10%;color:blue'>
+
+<summary> Lösung </summary>
+
+![Lsg_3](https://diversewolken.ddns.net/nextcloud/index.php/s/XwgEHRcwRNg2zp6/download)
+
+</details>
+
+---
+
+4. [Bitte anklicken: Verständnisfragen-Photoeffekt-KI-Gestützt](http://10.102.1.3:3001/?q=Stelle%20mir%20f%C3%BCnf%20Verst%C3%A4ndnisfragen%20zum%20Thema%20Photoeffekt,%20d.h.%20Expermentprinzip,%20Gegenfeldmethode,%20Berechnung%20des%20planckschen%20Wirkungsquantums,%20Licht%20als%20Teilchen.%20Stelle%20mir%20die%20Fragen%20einzeln%20nacheinander.%20Bewerte%20meine%20Antwort%20im%20Anschluss%20auf%20einer%20Skala%20von%200%20bis%2010.%20Mein%20Niveau%20ist%20Grundkurs%20Klasse%2012%20Physik.%20Gib%20mir%20am%20Schluss%20der%205%20Fragen%20ein%20Gesamtfeedback%20auf%20meine%20Antworten.)
+
+---
+
+5. ![Pitty_1115](https://diversewolken.ddns.net/nextcloud/index.php/s/rHpitZDaci8oTCm/download)Das Licht einer weißen Leuchtdiode (LED) wird untersucht. Das  Diagramm zeigt die Abhängigkeit der Strahlungsintensität von der Wellenlänge. (Quelle: http://ledmuseum.candlepower.us/led/specx02.htm) 
+
+5. 1. Geben Sie die Wellenlängen der Photonen der beiden intensivsten Lichtanteile an.
+
+<p style='margin-left:10%'>
+
+@rangeQuiz2($\lambda_1$,455,$\mathrm{nm}$)
+
+@rangeQuiz2($\lambda_2$,560,$\mathrm{nm}$)
+
+</p>
+
+---
+
+5. 2. Ein schmales paralleles Bündel des LED-Lichtes durchläuft ein optisches Gitter. Es wird dadurch gebeugt und spektral zerlegt. Der Abstand Gitter-Schirm beträgt 2,0 m. Um gute Untersuchungsergebnisse zu erzielen, müssen die zwei lokalen Intensitätsmaxima in einem Spektrum 1. Ordnung mindestens den Abstand 5,0 cm voneinander haben. Berechnen sie, welche Gitterkonstante das genutzte Gitter höchstens haben darf.
+
+<p style='margin-left:10%'>
+
+@rangeQuiz2($g$,4.2e-6,$\mathrm{m}$)
+
+</p>
+
+---
+
+<p style="margin-left:10%">
+
+![Pitty1115_b](https://physikaufgaben.de/bild/a1115_2.jpg) Der Schirm wird entfernt. das gebeugte Licht fällt nun nach dem Durchlaufen einer schmalen Spaltblende auf die lichtempfindliche Schicht einer Fotozelle. Spaltblende und Fotozelle können parallel zum Gitter in y-Richtung bewegt werden. Die Abbildung zeigt das Prinzip.
+
+</p>
+
+---
+
+5. 3. Untersuchen Sie rechnerisch, welche Ablösearbeit das Material der lichtempfindlichen Schicht der Fotozelle höchstens haben darf, damit Intensitätsverteilung mit der Fotozelle detektiert werden kann.
+
+<p style='margin-left:10%'>
+
+@rangeQuiz2($W_A$,1.65,$\mathrm{eV}$)
+
+</p>
+
+---
+
+5. 4. Photonen einer bestimmten Wellenlänge des untersuchten Strahlungsspektrums lösen Elektronen mit der größten kinetischen Energie aus der lichtempfindlichen Schicht der Fotozelle heraus. Geben Sie diese Wellenlänge an und begründen Sie.
+
+<p style='margin-left:10%'>
+
+@rangeQuiz2($\lambda$,400,$\mathrm{nm}$)
+
+</p>

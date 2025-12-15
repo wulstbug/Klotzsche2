@@ -2522,8 +2522,6 @@ __@color(Destruktive Interferenz *"Berg auf Tal"*, blue)__
 </section>
 ****************
 
-
-
 ## 2. 13. Reflexion
 
 __Definition:__ Trifft eine Welle auf eine ebene Oberfläche, dann wird sie __reflektiert__. Es gilt das __Reflexionsgesetz__:
@@ -2592,7 +2590,6 @@ Definition: Trifft eine Welle auf einen Spalt oder eine Kante, so sind die betre
 </div>
 
 </section>
-
 
 ### Gemischte Aufgaben zu Mechanischen Wellen
 
