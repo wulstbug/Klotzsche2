@@ -2490,6 +2490,76 @@ __Aufgaben:__
 
 </section>
 
+## 2. 13. Reflexion
+
+__Definition:__ Trifft eine Welle auf eine ebene Oberfläche, dann wird sie __reflektiert__. Es gilt das __Reflexionsgesetz__:
+
+<p class="newspaper">
+
+> 1. Bei der Reflexion von Wellen sind der Einfallswinkel $\alpha$ und der @color(Reflexionswinkel $\alpha'$, red) gleich groß. 
+>
+> 2. Die Wellennormalen der einfallenden und reflektierten Wellen liegen in einer Ebene.
+
+<p class="cb">
+
+![Reflexion_Welle](https://diversewolken.ddns.net/nextcloud/index.php/s/HszicZdpfka5xBS/download)
+
+</p>
+
+</p>
+
+## 2. 14. Brechung
+
+__Definition:__ Trifft eine Welle unter einem Einfallswinkel $\alpha\neq 0$ auf eine @color(__ebene Grenzfläche__, darkgreen) zweier Stoffe, in denen sie sich mit unterschiedlicher @color(Geschwindigkeit, red) ausbreitet, dann ändert sie ihre Ausbreitungsrichtung. Sie wird @color(gebrochen, red). Es gilt das __Brechungsgesetz__:
+
+---
+
+<p class="newspaper">
+
+Beim Übergang von einem Stoff (1) in einen anderen Stoff (2) gilt das __Brechungsgesetz__.
+
+$$\boxed{\dfrac{\sin\alpha}{\sin\beta} = \dfrac{v_1}{v_2}}$$
+
+wobei
+
+<p style="margin-left:5%">
+
+     $\alpha$ .. Einfallswinkel
+
+     $\beta$ .. Brechungswinkel
+
+     $v_1,\,v_2$ .. Ausbreitungsgeschwindigkeiten
+
+</p>
+
+<p class="cb">
+
+![Brechung_Welle](https://diversewolken.ddns.net/nextcloud/index.php/s/mdHQ2D6T4qfJM4c/download)
+
+</p>
+
+</p>
+
+## 2. 15. Beugung
+
+<section class="flex-container">
+
+<div class="flex-child-1" style="min-width: 300px; margin-bottom: -10px">
+
+
+Definition: Trifft eine Welle auf einen Spalt oder eine Kante, so sind die betreffenden Stellen nach _Huygens Prinzip_ Ausgangspunkt von Elementarwellen. Damit breitet sich eine Welle auch in den __Schattenraum__ aus.
+
+</div>
+
+<div class="flex-child-1" style="min-width: 300px; margin-bottom: -10px">
+
+![Welle-Beugung](https://diversewolken.ddns.net/nextcloud/index.php/s/M9eEFxFCjRATLt2/download)
+
+</div>
+
+</section>
+
+
 ### Gemischte Aufgaben zu Mechanischen Wellen
 
 1. Benenne den folgenden Wellenphänomene:
