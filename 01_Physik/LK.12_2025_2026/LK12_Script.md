@@ -6308,4 +6308,17 @@ Nehmen Sie für die verschiedenen Leuchtdioden die Kennlinien auf. Ermitteln Sie
 
 ### KI-Übung zur Quantenphysik
 
-[KI-Aufgabe-Inkl-Prompt](http://10.102.1.3:3001/?q=Stelle%20mir%20f%C3%BCnf%20Verst%C3%A4ndnisfragen%20zum%20Thema%20Quantenphysik%20(m%C3%B6gliche%20Themen:%20Fotoeffekt,%20Gegenfeldmethode,%20Schr%C3%B6dingers%20Katze,%20Welle-Teilchen-Dualismus,%20Doppelspalt%20mit%20Einzelteilchen,%20Unsch%C3%A4rferelation,%20Wellenfunktion%20und%20Wellenpaket,%20Delayed-Choice-Experiment)%20mit%20dem%20Niveau%20Gymnasium%20Leistungskurs%20Physik%20Klasse%2012.%20Stelle%20mir%20die%20Fragen%20eine%20nach%20der%20anderen.%20Warte%20auf%20meine%20Antwort%20und%20bewerte%20meine%20Antwort%20auf%20einer%20Skala%20von%201%20bis%2010)
+[KI-Aufgabe-Inkl-Prompt](http://10.102.1.3:3001/?q=Stelle%20mir%20f%C3%BCnf%20Verst%C3%A4ndnisfragen%20zum%20Thema%20Quantenphysik%20(m%C3%B6gliche%20Themen:%20Fotoeffekt,%20Gegenfeldmethode,%20Schr%C3%B6dingers%20Katze,%20Welle-Teilchen-Dualismus,%20Doppelspalt%20mit%20Einzelteilchen,%20Unsch%C3%A4rferelation,%20Wellenfunktion%20und%20Wellenpaket,%20Delayed-Choice-Experiment%20mit%20dem%20Niveau%20Gymnasium%20Leistungskurs%20Physik%20Klasse%2012.%20Stelle%20mir%20die%20Fragen%20eine%20nach%20der%20anderen.%20Warte%20auf%20meine%20Antwort%20und%20bewerte%20meine%20Antwort%20auf%20einer%20Skala%20von%201%20bis%2010)
+
+# LB12 - Atomvorstellungen
+
+## 12. 1. Die Geschichte der Atommodelle
+
+!?[EinfühungAtomvorstellungen](/download)
+
+| Atom-Modell | Beschreibungen |
+| :----------- | :---------- |
+| Dalton'sches Atommodell | Atome sind unveränderbare Kugeln. Chemische Bindungen sind Neuanordnungen der Kugeln |
+| Thomson'sches Atommodell <br> Rosinenmodell | Negativ geladene Elektronen sind von positiv geladener Materie umgeben |
+| Rutherford'sches Atommodell | _Miniatur-Sonnensystem_ ; beinahe die gesamte Masse ist im Kern konzentriert <br> die Elektronen bewegen sich auf Kreisbahnen um den Kern |
+| Bohr'sches Atommodell | fest gelegte Bahnen für die Elektronen (nur diese sind erlaubt) <br> jeder Bahn ist ein Energieniveau zugeordnet <br> bei Energiezufuhr kann ein Elektron auf einer weiter außen liegende Bahn springen <br> gibt das Elektron die Energie wieder ab, so wird diese als Strahlung emittiert |
