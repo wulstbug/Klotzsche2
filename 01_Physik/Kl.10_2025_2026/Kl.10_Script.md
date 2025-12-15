@@ -2490,6 +2490,40 @@ __Aufgaben:__
 
 </section>
 
+---
+
+{{2-3}}
+****************
+??[Geogebra-Interferenz-LK](https://www.geogebra.org/m/sd49erad)
+****************
+
+{{3}}
+****************
+<section class="flex-container">
+
+<div class="flex-child-1" style="min-width: 300px; margin-bottom: -10px">
+
+__@color(Konstruktive Interferenz - *"Berg auf Berg"*, red)__
+
+![Konstruktive_Interferenz](https://diversewolken.ddns.net/nextcloud/index.php/s/b788bF9RP233a38/download)
+
+
+</div>
+
+<div class="flex-child-1" style="min-width: 300px; margin-bottom: -10px">
+
+__@color(Destruktive Interferenz *"Berg auf Tal"*, blue)__
+
+![Destruktive_Interferenz](https://diversewolken.ddns.net/nextcloud/index.php/s/WW2xPJiWLXGHd2D/download)
+
+
+</div>
+
+</section>
+****************
+
+
+
 ## 2. 13. Reflexion
 
 __Definition:__ Trifft eine Welle auf eine ebene Oberfläche, dann wird sie __reflektiert__. Es gilt das __Reflexionsgesetz__:
@@ -2630,4 +2664,4 @@ c) [[ Interferenz ]]
 
 </p>
 
-4. [Erläuterung Wellenphänomene - bitte anklicken](http://10.102.1.3:3001/?q=Stelle%20mir%20f%C3%BCnf%20Verst%C3%A4ndnisfragen%20zum%20Thema%20Eigenschaften%20Mechanischer%20Wellen%20,d.h.%20Huygenssches%20Prinzip,%20Beugung,%20Brechung,%20Reflexion%20und%20Interferenz.%20Mein%20Niveau%20ist%20Klasse%2010%20Gymnasium.%20Stelle%20mir%20die%20Fragen%20einzeln.%20Warte%20auf%20meine%20Antwort%20und%20bewerte%20meine%20Antwort%20auf%20einer%20Skala%20von%200-10.%20Gib%20mir%20anschlie%C3%9Fend%20eine%20Gesamteinsch%C3%A4tzung.%20Achte%20auf%20das%20Niveau%2010.%20Klasse.%20Die%20Begriffe%20Beugung,%20Interferenz%20und%20Brechung%20haben%20wir%20in%20der%20letzten%20Unterrichtseinheit%20zum%20ersten%20mal%20kennengelernt.)
+4. [Erläuterung Wellenphänomene - bitte anklicken](http://10.102.1.3:3001/?q=Stelle%20mir%20f%C3%BCnf%20Verst%C3%A4ndnisfragen%20zum%20Thema%20Eigenschaften%20Mechanischer%20Wellen%20,d.h.%20Beugung,%20Brechung,%20Reflexion%20und%20Interferenz.%20Mein%20Niveau%20ist%20Klasse%2010%20Gymnasium.%20Stelle%20mir%20die%20Fragen%20einzeln.%20Warte%20auf%20meine%20Antwort%20und%20bewerte%20meine%20Antwort%20auf%20einer%20Skala%20von%200-10.%20Gib%20mir%20anschlie%C3%9Fend%20eine%20Gesamteinsch%C3%A4tzung.%20Achte%20auf%20das%20Niveau%2010.%20Klasse.%20Die%20Begriffe%20Beugung,%20Interferenz%20und%20Brechung%20haben%20wir%20in%20der%20letzten%20Unterrichtseinheit%20zum%20ersten%20mal%20kennengelernt.)
