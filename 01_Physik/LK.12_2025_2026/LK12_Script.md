@@ -6314,11 +6314,28 @@ Nehmen Sie für die verschiedenen Leuchtdioden die Kennlinien auf. Ermitteln Sie
 
 ## 12. 1. Die Geschichte der Atommodelle
 
-!?[EinfühungAtomvorstellungen](/download)
 
+{{0-1}}
+************
+| Atom-Modell | Beschreibungen |
+| :---- | :---------- |
+| Dalton'sches Atommodell |  |
+| Thomson'sches Atommodell | |
+| Rutherford'sches Atommodell |  |
+| Bohr'sches Atommodell |  |
+************
+
+{{1-2}}
+************
+!?[EinfühungAtomvorstellungen](https://diversewolken.ddns.net/nextcloud/index.php/s/zXFSJYE9tddoNTf/download)
+************
+
+{{2}}
+************
 | Atom-Modell | Beschreibungen |
 | :----------- | :---------- |
 | Dalton'sches Atommodell | Atome sind unveränderbare Kugeln. Chemische Bindungen sind Neuanordnungen der Kugeln |
 | Thomson'sches Atommodell <br> Rosinenmodell | Negativ geladene Elektronen sind von positiv geladener Materie umgeben |
 | Rutherford'sches Atommodell | _Miniatur-Sonnensystem_ ; beinahe die gesamte Masse ist im Kern konzentriert <br> die Elektronen bewegen sich auf Kreisbahnen um den Kern |
-| Bohr'sches Atommodell | fest gelegte Bahnen für die Elektronen (nur diese sind erlaubt) <br> jeder Bahn ist ein Energieniveau zugeordnet <br> bei Energiezufuhr kann ein Elektron auf einer weiter außen liegende Bahn springen <br> gibt das Elektron die Energie wieder ab, so wird diese als Strahlung emittiert |
+| Bohr'sches Atommodell | fest gelegte Bahnen für die Elektronen (nur diese sind erlaubt) <br> jeder Bahn ist ein Energieniveau zugeordnet <br> bei Energiezufuhr kann ein Elektron auf einer weiter außen liegende Bahn springen <br> gibt das Elektron die Energie wieder ab, so wird diese als Strahlung emittiert <br> nur die äußeren Elektronen der nicht vollständig besetzten Bahnen tragen zur chemischen Bindung bei|
+************
