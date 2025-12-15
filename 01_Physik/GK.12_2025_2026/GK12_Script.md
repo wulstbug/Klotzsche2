@@ -3183,7 +3183,7 @@ __Energiebilanz beim Photoeffekt__
 
 
 
-## 7. 4. Energie, Masse und Impuls von Photonen
+## 7. 4. Energie und Masse von Photonen
 
 > Der äußere lichtelektrische Effekt legt nahe, dass das Licht auch Teilcheneigenschaften besitzt. 
 
