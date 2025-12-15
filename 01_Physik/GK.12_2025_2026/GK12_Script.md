@@ -3167,7 +3167,9 @@ __Beschreibung:__
 
 [Video zur Gegenfeldmethode](https://www.youtube.com/watch?v=Xm8LAEA7Gy8)
 
+---
 
+__Energiebilanz beim Photoeffekt__
 
 ## 7. 4. Energie, Masse und Impuls von Photonen
 
