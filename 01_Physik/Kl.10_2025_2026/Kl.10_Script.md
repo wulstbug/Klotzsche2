@@ -2490,4 +2490,74 @@ __Aufgaben:__
 
 </section>
 
- 
+### Gemischte Aufgaben zu Mechanischen Wellen
+
+1. Benenne den folgenden Wellenphänomene:
+
+<section class="flex-container">
+
+<div class="flex-child-1" style="min-width: 300px; margin-bottom: -10px">
+
+![Zuordnung](https://diversewolken.ddns.net/nextcloud/index.php/s/HJa8HbSwp6fLqgX/download)
+
+
+</div>
+
+<div class="flex-child-1" style="min-width: 300px; margin-bottom: -10px">
+
+a) [[ Reflexion ]]
+
+b) [[ Beugung ]] 
+
+c) [[ Interferenz ]]
+
+</div>
+
+</section>
+
+---
+
+2. Learning-App Wellenphänomene
+
+<iframe src="https://learningapps.org/watch?v=p29hwaena25" style="border:0px;width:100%;height:500px" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"></iframe>
+
+---
+
+![Aufgabenstellung](https://diversewolken.ddns.net/nextcloud/index.php/s/E2W2zjxEjNR7HZK/download)
+
+- Maximale Auslenkung (Amplitude) $y_\text{max}$:
+
+<p style='margin-left:10%'>
+
+@rangeQuiz2($y_\text{max}$, 1.0, m)
+
+</p>
+
+
+
+- Periodendauer $T$:
+
+<p style='margin-left:10%'>
+
+@rangeQuiz2($T$, 1.25, s)
+
+</p>
+
+- Wellenlänge $\lambda$:
+
+<p style='margin-left:10%'>
+
+@rangeQuiz2($\lambda$, 3.0, m)
+
+</p>
+
+
+- Frequenz $f$:
+
+<p style='margin-left:10%'>
+
+@rangeQuiz2($f$, 0.8, Hz)
+
+</p>
+
+4. [Erläuterung Wellenphänomene - bitte anklicken](http://10.102.1.3:3001/?q=Stelle%20mir%20f%C3%BCnf%20Verst%C3%A4ndnisfragen%20zum%20Thema%20Eigenschaften%20Mechanischer%20Wellen%20,d.h.%20Huygenssches%20Prinzip,%20Beugung,%20Brechung,%20Reflexion%20und%20Interferenz.%20Mein%20Niveau%20ist%20Klasse%2010%20Gymnasium.%20Stelle%20mir%20die%20Fragen%20einzeln.%20Warte%20auf%20meine%20Antwort%20und%20bewerte%20meine%20Antwort%20auf%20einer%20Skala%20von%200-10.%20Gib%20mir%20anschlie%C3%9Fend%20eine%20Gesamteinsch%C3%A4tzung.%20Achte%20auf%20das%20Niveau%2010.%20Klasse.%20Die%20Begriffe%20Beugung,%20Interferenz%20und%20Brechung%20haben%20wir%20in%20der%20letzten%20Unterrichtseinheit%20zum%20ersten%20mal%20kennengelernt.)
