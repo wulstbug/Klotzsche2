@@ -6312,6 +6312,8 @@ Nehmen Sie für die verschiedenen Leuchtdioden die Kennlinien auf. Ermitteln Sie
 
 # LB12 - Atomvorstellungen
 
+![Atomvorstellungen](https://www.leifiphysik.de/sites/default/files/images/c199eb074d2c47f51b2e099b66b655ca/0entwicklung-der-atomvorstellung-aristoteles.webp)
+
 ## 12. 1. Die Geschichte der Atommodelle
 
 
