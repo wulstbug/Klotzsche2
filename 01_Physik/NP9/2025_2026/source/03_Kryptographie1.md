@@ -58,9 +58,17 @@ Verschlüssle das Wort __GLADIATOREN__ mit Schlüssel 7: Lösung [[NSHKPHAVYLU]]
 
 ## 2. Gartenzaunmethode
 
+Verschlüssele mit dem Gartenzau: __WEIHNACHTSMANN__
+
+Lösung (Großbuchstaben, ohne Leerzeichen): [[WINCTMNEHAHSAN]]
+
 Entschlüssele mit dem Gartenzaun: __MINM ITAE ENAE SHS__
 
 Lösung (Großbuchstaben, ohne Leerzeichen): [[MEINNAMEISTHASE]]
+
+Verschlüssele mit dem doppelten Gartenzau: __KLOTZSCHE__
+
+Lösung (Großbuchstaben, ohne Leerzeichen): [[KZELTSHOC]]
 
 Entschlüssele mit dem doppelten Gartenzaun: __SONT NEND RIHS IIEC E__
 
