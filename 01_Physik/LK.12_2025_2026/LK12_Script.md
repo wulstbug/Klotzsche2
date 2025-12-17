@@ -6457,9 +6457,15 @@ __Vorbetrachtungen__
 
 ![TB_2](https://diversewolken.ddns.net/nextcloud/index.php/s/9ZNJqidgDbEtG9w/download)
 
-### Überprüfung von Zwischenergebnissen
+### Überprüfung von Zwischenergebnissen aus der Herleitung
 
-1. Erster Bohr'scher Radius
+<p style="color:blue">
+
+Löse die folgenden Aufgaben. Übernimm die Lösungen in deinen Hefter. Sie sind Teil der Herleitung.
+
+</p>
+
+1. Erster Bohr'scher Radius.
 
 <p style='margin-left:10%'>
 
@@ -6467,7 +6473,7 @@ __Vorbetrachtungen__
 
 </p>
 
-2. Ionisierungs-Energie von Wasserstoff (_Rydberg-Energie_)
+2. Ionisierungs-Energie von Wasserstoff (_Rydberg-Energie_).
 
 <p style='margin-left:10%'>
 
@@ -6475,9 +6481,67 @@ __Vorbetrachtungen__
 
 </p>
 
-3. Zwei Sichtbare Linien des Wasserstoff-Spektrums (_Balmer-Serie_)
+3. Ermitteln Sie dazu zunächst näherungsweise die für Grenzen des sichtbaren Spektrums (400-800 nm) die Photonenenergie in der Einheit eV.
 
+<p style='margin-left:10%'>
 
+__Untere Grenze (eV):__
+
+@rangeQuiz2($E_{ph-u}$, 1.55 ,$\mathrm{eV}$)
+
+__Obere Grenze (eV):__
+
+@rangeQuiz2($E_{ph-o}$, 3.1 ,$\mathrm{eV}$)
+
+</p>
+
+4. Überprüfen sie nun mit Hilfe der Rydberg-Ritz-Formel, welche Energieübergänge am Wasserstoff-Atom Photonen im Bereich des sichtbaren Lichts emittieren. <br> Hier dargestellt sind die Nummern der Übergangs-Energieniveaus _von->nach_
+
+<p style="margin-left:10%">
+
+<section class="flex-container">
+
+<div class="flex-child-1" style="min-width: 200px; margin-bottom: -10px">
+
+_Lymnan-Serie_
+
+- [[ ]] 2->1
+- [[ ]] 3->1
+- [[ ]] 4->1
+- [[ ]] 5->1
+- [[ ]] 6->1
+
+</div>
+
+<div class="flex-child-1" style="min-width: 200px; margin-bottom: -10px">
+
+_Balmer-Serie_
+
+- [[x]] 3->2
+- [[x]] 4->2
+- [[x]] 5->2
+- [[x]] 6->2
+- [[ ]] 7->2
+
+</div>
+
+<div class="flex-child-1" style="min-width: 200px; margin-bottom: -10px">
+
+_Paschen-Serie_
+
+- [[ ]] 4->3
+- [[ ]] 5->3
+- [[ ]] 6->3
+- [[ ]] 7->3
+- [[ ]] 8->3
+
+</div>
+
+</section>
+
+</p>
+
+5. Ermittle nun die Übergäng für die beiden beobachteten sichtbaren Spektrallinien des Wasserstoff-Spektrums. Diese gehören zur _Balmer-Serie_. <br> __Notiere die Ergebnisse in deinem Hefter und ergänze die fehlenden Übergänge $_{\square->\square}$__
 
 <p style='margin-left:10%'>
 
@@ -6487,9 +6551,9 @@ __Vorbetrachtungen__
 
 @color(__Rot:__, red) <br>
 
-@rangeQuiz2($E_{3->2}$,1.89,$\mathrm{eV}$)
+@rangeQuiz2($E_{\square->\square}$,1.89,$\mathrm{eV}$)
 
-@rangeQuiz2($\lambda_{3->2}$,655,$\mathrm{nm}$)
+@rangeQuiz2($\lambda_{\square->\square}$,655,$\mathrm{nm}$)
 
 
 </div>
@@ -6499,9 +6563,9 @@ __Vorbetrachtungen__
 
 @color(__Blau:__, blue) <br>
 
-@rangeQuiz2($E_{4->2}$,2.709,$\mathrm{eV}$)
+@rangeQuiz2($E_{\square->\square}$,2.553,$\mathrm{eV}$)
 
-@rangeQuiz2($\lambda_{4->2}$,485,$\mathrm{nm}$)
+@rangeQuiz2($\lambda_{\square->\square}$,486,$\mathrm{nm}$)
 
 
 </div>
