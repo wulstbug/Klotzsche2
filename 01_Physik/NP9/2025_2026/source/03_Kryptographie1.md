@@ -91,6 +91,12 @@ Verschlüssele das Wort _EISENBAHN_ mit der Enigma
 
 [[ KLOTZSCHE ]]
 
+---
+
+THE ENIGMA-CHALLENGE @color(95 Lösungen Weltweit bis jetzt, red))
+
+[qr-code](https://www.ciphermachinesandcryptology.com/en/challenge.htm)
+
 
 ## 4. Vignere Verschlüsselung
 

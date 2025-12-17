@@ -470,17 +470,17 @@ Verschlüssle das Wort __GLADIATOREN__ mit Schlüssel 7: Lösung [[NSHKPHAVYLU]]
 
 ## 2. Gartenzaunmethode
 
-Beschreibung: 
+Verschlüssele mit dem Gartenzau: __WEIHNACHTSMANN__
 
-1. Notiere das Wort in Zick-Zack-Schreibweise
-
-2. Lies das verschlüsselte Wort zeilenweise.
-
-![Tafelbild_Gartenzaun](https://diversewolken.ddns.net/nextcloud/index.php/s/oJj2xDnRGEwSLpp/download)
+Lösung (Großbuchstaben, ohne Leerzeichen): [[WINCTMNEHAHSAN]]
 
 Entschlüssele mit dem Gartenzaun: __MINM ITAE ENAE SHS__
 
 Lösung (Großbuchstaben, ohne Leerzeichen): [[MEINNAMEISTHASE]]
+
+Verschlüssele mit dem doppelten Gartenzau: __KLOTZSCHE__
+
+Lösung (Großbuchstaben, ohne Leerzeichen): [[KZELTSHOC]]
 
 Entschlüssele mit dem doppelten Gartenzaun: __SONT NEND RIHS IIEC E__
 
@@ -501,6 +501,13 @@ Verschlüssele das Wort _EISENBAHN_ mit der Enigma
 > Entschlüssele QGLL ALAK O
 
 [[ KLOTZSCHE ]]
+
+
+---
+
+THE ENIGMA-CHALLENGE @color(95 Lösungen Weltweit bis jetzt, red))
+
+[qr-code](https://www.ciphermachinesandcryptology.com/en/challenge.htm)
 
 
 Entschlüss
