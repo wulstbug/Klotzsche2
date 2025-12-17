@@ -6497,7 +6497,7 @@ __Vorbetrachtungen__
 <div class="flex-child-1" style="min-width: 300px; margin-bottom: -10px">
 
 
-@color(__Blau__, blue) <br>
+@color(__Blau:__, blue) <br>
 
 @rangeQuiz2($E_{4->2}$,2.709,$\mathrm{eV}$)
 
