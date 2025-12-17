@@ -211,6 +211,9 @@ mode: presentation
 
 ## 12. 2. Entstehung von Spektrallinien
 
+
+
+
 ### Übung: Spektrallinien
 
 > 1. In der folgenden Abbildung ist für die _subjektive Methode_ das Linienspektrum einer $He$-Gasentladung dargestellt. Ermitteln Sie für die rote und die orange Spektrallinie die Wellenlänge in der Einheit nm. Ermitteln Sie ebenfalls die Energie der zugehörigen Photonen in der Einheit eV. Notieren Sie Ihre Ergebnisse im Hefter.
@@ -306,3 +309,5 @@ __Tabellenwert:__ $E_{ph}$ in eV
 
 ---
 
+
+12. 3. Spektrallinien am Wasserstoffatom

@@ -6344,6 +6344,14 @@ Nehmen Sie für die verschiedenen Leuchtdioden die Kennlinien auf. Ermitteln Sie
 
 ## 12. 2. Entstehung von Spektrallinien
 
+![TB_1](https://diversewolken.ddns.net/nextcloud/index.php/s/YrQ9pBbx8LjE67B/download)
+
+---
+
+![TB_2](https://diversewolken.ddns.net/nextcloud/index.php/s/jHNJm5kYpDetdYM/download)
+
+
+
 ### Übung: Spektrallinien
 
 > 1. In der folgenden Abbildung ist für die _subjektive Methode_ das Linienspektrum einer $He$-Gasentladung dargestellt. Ermitteln Sie für die rote und die orange Spektrallinie die Wellenlänge in der Einheit nm. Ermitteln Sie ebenfalls die Energie der zugehörigen Photonen in der Einheit eV. Notieren Sie Ihre Ergebnisse im Hefter.
@@ -6439,3 +6447,4 @@ __Tabellenwert:__ $E_{ph}$ in eV
 
 ---
 
+12. 3. Spektrallinien am Wasserstoffatom
