@@ -509,6 +509,10 @@ THE ENIGMA-CHALLENGE @color(95 Lösungen Weltweit bis jetzt, red))
 
 [qr-code](https://www.ciphermachinesandcryptology.com/en/challenge.htm)
 
+__NÜTZLICH: ENIGMA-SIMULATOR__
+
+[qr-code](https://www.101computing.net/enigma-machine-emulator/)
+
 
 Entschlüss
 ## 4.1 Vigenere Verschlüsselung - Erklärung zum Lesen
