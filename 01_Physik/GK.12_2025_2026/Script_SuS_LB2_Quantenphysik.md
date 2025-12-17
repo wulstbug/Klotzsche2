@@ -451,57 +451,7 @@ __bzw. in Elektronenvolt__
 
 ---
 
-2. Eine Fotokathode (Austrittsarbeit $W_A=2,4\cdot10^{-19}\,\mathrm{J}$) wird mit Licht der Wellenlänge $\lambda = 500\,\mathrm{nm}$ bestrahlt.
-
-2. 1. Ermitteln Sie die Gegenspannung $U_g$, bei welcher die Stromstärke gerade auf Null zurückgeht.
-
-<p style='margin-left:10%'>
-
-@rangeQuiz2($U_g$,0.99,$\mathrm{V}$)
-
-</p>
-
-<details style='margin-left:10%; color:blue'>
-
-<summary> Lösung </summary>
-
-![Lsg_2.1](https://diversewolken.ddns.net/nextcloud/index.php/s/s3aNGoxT4RWE2eT/download)
-
-</details>
-
----
-
-2. 2. Ermitteln Sie die Grenzfrequenz $f_g$ für dieses Kathodenmaterial.
-
-<p style='margin-left:10%'>
-
-@rangeQuiz2($f_g$, 3.62e14 , $\mathrm{Hz}$)
-
-</p>
-
-<details style='margin-left:10%; color:blue'>
-
-<summary> Lösung </summary>
-
-![Lsg_2.2](https://diversewolken.ddns.net/nextcloud/index.php/s/ySJTndor5tNotmc/download)
-
-</details>
-
----
-
-2. 3. Ermitteln Sie die Energie der Photonen in der Einheit $\mathrm{eV}$ für diese Grenzfrequenz und die Farbbezeichnung des Lichts.
-
-<p style='margin-left:10%'>
-
-@rangeQuiz2($E_{ph}$, 1.497 , $\mathrm{eV}$)
-
-Farbbezeichnung: [[ Infrarot ]]
-
-</p>
-
----
-
-3. Albert Einstein bekam im Jahre 1921 den Physiknobelpreis für die Erklärung des Photoeffektes, bei dem unter bestimmten Bedingungen Elektronen aus einer Metalloberfläche austreten, wenn diese mit Licht bestrahlt wird. Mit Hilfe der Gegenspannungsmethode kann z.B. der Zusammenhang zwischen der Frequenz des eingestrahlten Lichtes und der maximalen Geschwindigkeit der ausgelösten Elektronen bestimmt werden. Welches Diagramm stellt den Zusammenhang zwischen den beiden Größen am besten dar? <br> ![Diagramme_Photoeffekt](https://physikaufgaben.de/bild/a1044_1.jpg)
+2. Albert Einstein bekam im Jahre 1921 den Physiknobelpreis für die Erklärung des Photoeffektes, bei dem unter bestimmten Bedingungen Elektronen aus einer Metalloberfläche austreten, wenn diese mit Licht bestrahlt wird. Mit Hilfe der Gegenspannungsmethode kann z.B. der Zusammenhang zwischen der Frequenz des eingestrahlten Lichtes und der maximalen Geschwindigkeit der ausgelösten Elektronen bestimmt werden. Welches Diagramm stellt den Zusammenhang zwischen den beiden Größen am besten dar? <br> ![Diagramme_Photoeffekt](https://physikaufgaben.de/bild/a1044_1.jpg)
 
 <p style='margin-left:10%'>
 
@@ -522,7 +472,57 @@ Farbbezeichnung: [[ Infrarot ]]
 
 ---
 
-4. [Bitte anklicken: Verständnisfragen-Photoeffekt-KI-Gestützt](http://10.102.1.3:3001/?q=Stelle%20mir%20f%C3%BCnf%20Verst%C3%A4ndnisfragen%20zum%20Thema%20Photoeffekt,%20d.h.%20Expermentprinzip,%20Gegenfeldmethode,%20Berechnung%20des%20planckschen%20Wirkungsquantums,%20Licht%20als%20Teilchen.%20Stelle%20mir%20die%20Fragen%20einzeln%20nacheinander.%20Bewerte%20meine%20Antwort%20im%20Anschluss%20auf%20einer%20Skala%20von%200%20bis%2010.%20Mein%20Niveau%20ist%20Grundkurs%20Klasse%2012%20Physik.%20Gib%20mir%20am%20Schluss%20der%205%20Fragen%20ein%20Gesamtfeedback%20auf%20meine%20Antworten.)
+3. [Bitte anklicken: Verständnisfragen-Photoeffekt-KI-Gestützt](http://10.102.1.3:3001/?q=Stelle%20mir%20f%C3%BCnf%20Verst%C3%A4ndnisfragen%20zum%20Thema%20Photoeffekt,%20d.h.%20Expermentprinzip,%20Gegenfeldmethode,%20Berechnung%20des%20planckschen%20Wirkungsquantums,%20Licht%20als%20Teilchen.%20Stelle%20mir%20die%20Fragen%20einzeln%20nacheinander.%20Bewerte%20meine%20Antwort%20im%20Anschluss%20auf%20einer%20Skala%20von%200%20bis%2010.%20Mein%20Niveau%20ist%20Grundkurs%20Klasse%2012%20Physik.%20Gib%20mir%20am%20Schluss%20der%205%20Fragen%20ein%20Gesamtfeedback%20auf%20meine%20Antworten.)
+
+---
+
+4. Eine Fotokathode (Austrittsarbeit $W_A=2,4\cdot10^{-19}\,\mathrm{J}$) wird mit Licht der Wellenlänge $\lambda = 500\,\mathrm{nm}$ bestrahlt.
+
+4. 1. Ermitteln Sie die Gegenspannung $U_g$, bei welcher die Stromstärke gerade auf Null zurückgeht.
+
+<p style='margin-left:10%'>
+
+@rangeQuiz2($U_g$,0.99,$\mathrm{V}$)
+
+</p>
+
+<details style='margin-left:10%; color:blue'>
+
+<summary> Lösung </summary>
+
+![Lsg_2.1](https://diversewolken.ddns.net/nextcloud/index.php/s/s3aNGoxT4RWE2eT/download)
+
+</details>
+
+---
+
+4. 2. Ermitteln Sie die Grenzfrequenz $f_g$ für dieses Kathodenmaterial.
+
+<p style='margin-left:10%'>
+
+@rangeQuiz2($f_g$, 3.62e14 , $\mathrm{Hz}$)
+
+</p>
+
+<details style='margin-left:10%; color:blue'>
+
+<summary> Lösung </summary>
+
+![Lsg_2.2](https://diversewolken.ddns.net/nextcloud/index.php/s/ySJTndor5tNotmc/download)
+
+</details>
+
+---
+
+4. 3. Ermitteln Sie die Energie der Photonen in der Einheit $\mathrm{eV}$ für diese Grenzfrequenz und die Farbbezeichnung des Lichts.
+
+<p style='margin-left:10%'>
+
+@rangeQuiz2($E_{ph}$, 1.497 , $\mathrm{eV}$)
+
+Farbbezeichnung: [[ Infrarot ]]
+
+</p>
 
 ---
 
