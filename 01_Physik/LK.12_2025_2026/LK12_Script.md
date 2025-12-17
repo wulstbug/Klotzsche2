@@ -6342,13 +6342,19 @@ Nehmen Sie für die verschiedenen Leuchtdioden die Kennlinien auf. Ermitteln Sie
 | Bohr'sches Atommodell | fest gelegte Bahnen für die Elektronen (nur diese sind erlaubt) <br> jeder Bahn ist ein Energieniveau zugeordnet <br> bei Energiezufuhr kann ein Elektron auf einer weiter außen liegende Bahn springen <br> gibt das Elektron die Energie wieder ab, so wird diese als Strahlung emittiert <br> nur die äußeren Elektronen der nicht vollständig besetzten Bahnen tragen zur chemischen Bindung bei|
 ************
 
+## 12. 2. Entstehung von Spektrallinien
+
 ### Übung: Spektrallinien
 
-In der folgenden Abbildung ist für die _subjektive Methode_ das Linienspektrum einer He-Gasentladung dargestellt. Ermitteln Sie für die rote und die orange Spektrallinie die Wellenlänge in der Einheit nm. Ermitteln Sie ebenfalls die Energie der zugehörigen Photonen in der Einheit eV.
+> 1. In der folgenden Abbildung ist für die _subjektive Methode_ das Linienspektrum einer $He$-Gasentladung dargestellt. Ermitteln Sie für die rote und die orange Spektrallinie die Wellenlänge in der Einheit nm. Ermitteln Sie ebenfalls die Energie der zugehörigen Photonen in der Einheit eV. Notieren Sie Ihre Ergebnisse im Hefter.
 
-_Hinweise: Für den foglenden Versuch wurde das Interferenzmuster durch ein Gitter mit 600 vertikalen Spalten pro mm aufgenommen. Der Abstand des Gitters vom Schirm beträgt 39 cm. Der Schirm beginnt im Abstand von 5cm von der Spektrallampe._
+<p style='margin-left:10%'>
 
-![Spektrallinien-He](https://diversewolken.ddns.net/nextcloud/index.php/s/9Y6d7636gEFARiH/download)
+_Hinweise: Für den folgenden Versuch wurde das Interferenzmuster durch ein Gitter mit 600 vertikalen Spalten pro mm aufgenommen. Der Abstand des Gitters vom Schirm beträgt 39 cm. Der Schirm beginnt im Abstand von 5cm von der Spektrallampe._
+
+![Spektrallinien-He](https://diversewolken.ddns.net/nextcloud/index.php/s/Z4oJjK2DTzYfCbs/download)
+
+</p>
 
 <section class="flex-container">
 
@@ -6358,9 +6364,9 @@ __Orange Linie:__
 
 <p style='margin-left:10%'>
 
-@rangeQuiz2($\lambda_o$,573,$\mathrm{nm})
+@rangeQuiz2($\lambda_o$,573,$\mathrm{nm}$)
 
-@rangeQuiz2($\E_{ph-o}$,2.165,$\mathrm{eV})
+@rangeQuiz2($E_{ph-o}$,2.165,$\mathrm{eV}$)
 
 </p>
 
@@ -6370,10 +6376,66 @@ __Orange Linie:__
 
 __Rote Linie:__
 
-@rangeQuiz2($\lambda_r$,461,$\mathrm{nm})
+<p style='margin-left:10%'>
 
-@rangeQuiz2($\E_{ph-r}$,2.692,$\mathrm{eV})
+@rangeQuiz2($\lambda_r$,651,$\mathrm{nm}$)
+
+@rangeQuiz2($E_{ph-r}$,1.906,$\mathrm{eV}$)
+
+</p>
 
 </div>
 
 </section>
+
+> 2. Vergleichen Sie die von Ihnen ermittelten Werte mit den in der Formelsammlung angegebenen Spektrallinien für Helium. __Notieren Sie die Tabellenwerte.__
+
+---
+
+> 3. In der folgenden Abbildung ist für die _subjektive Methode_ das Linienspektrum einer $H$-Gasentladung dargestellt. Da sich über die Zeit andere Gase im Glaskörper gesammelt haben, ist hier neben den beiden hauptsächlich sichtbaren Linien (rot, hellblau) ein quasi-kontinuierliches Spektrum sichtbar, welches für diese Auswertung nicht beachtet werden soll. <br> Ermitteln Sie die sichtbaren Spektrallinien von Wasserstoff. Notieren Sie Ihre Ergebnisse im Hefter in Tabellenform. Berechnen Sie die zugehörige Photonenenergie in eV.
+
+<p style='margin-left:10%'>
+
+__Sichtbare Spektrallinien des Wasserstoff__
+
+![Spektrallinien-H](https://diversewolken.ddns.net/nextcloud/index.php/s/9Y6d7636gEFARiH/download)
+
+<section class="flex-container">
+
+<div class="flex-child-1" style="min-width: 200px; margin-bottom: -10px">
+
+__Experimentell:__ $\lambda$ in nm
+
+@rangeQuiz2($\lambda_r$,644,$\mathrm{nm}$)
+
+@rangeQuiz2($\lambda_b$,484,$\mathrm{nm}$)
+
+</div>
+
+<div class="flex-child-1" style="min-width: 200px; margin-bottom: -10px">
+
+__Tabellenwert__ 
+
+@rangeQuiz2($\lambda_r$,656,$\mathrm{nm}$)
+
+@rangeQuiz2($\lambda_b$,486,$\mathrm{nm}$)
+
+</div>
+
+<div class="flex-child-1" style="min-width: 200px; margin-bottom: -10px">
+
+__Tabellenwert:__ $E_{ph}$ in eV 
+
+@rangeQuiz2($E_{ph-r}$,1.89,$\mathrm{eV}$)
+
+@rangeQuiz2($E_{ph-b}$,2.553,$\mathrm{eV}$)
+
+</div>
+
+</section>
+
+
+</p>
+
+---
+

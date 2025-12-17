@@ -207,3 +207,102 @@ mode: presentation
 ![Atomvorstellungen](https://www.leifiphysik.de/sites/default/files/images/c199eb074d2c47f51b2e099b66b655ca/0entwicklung-der-atomvorstellung-aristoteles.webp)
 
 ## 12. 1. Geschichte der Atommodelle
+
+
+## 12. 2. Entstehung von Spektrallinien
+
+### Übung: Spektrallinien
+
+> 1. In der folgenden Abbildung ist für die _subjektive Methode_ das Linienspektrum einer $He$-Gasentladung dargestellt. Ermitteln Sie für die rote und die orange Spektrallinie die Wellenlänge in der Einheit nm. Ermitteln Sie ebenfalls die Energie der zugehörigen Photonen in der Einheit eV. Notieren Sie Ihre Ergebnisse im Hefter.
+
+<p style='margin-left:10%'>
+
+_Hinweise: Für den folgenden Versuch wurde das Interferenzmuster durch ein Gitter mit 600 vertikalen Spalten pro mm aufgenommen. Der Abstand des Gitters vom Schirm beträgt 39 cm. Der Schirm beginnt im Abstand von 5cm von der Spektrallampe._
+
+![Spektrallinien-He](https://diversewolken.ddns.net/nextcloud/index.php/s/Z4oJjK2DTzYfCbs/download)
+
+</p>
+
+<section class="flex-container">
+
+<div class="flex-child-1" style="min-width: 300px; margin-bottom: -10px">
+
+__Orange Linie:__
+
+<p style='margin-left:10%'>
+
+@rangeQuiz2($\lambda_o$,573,$\mathrm{nm}$)
+
+@rangeQuiz2($E_{ph-o}$,2.165,$\mathrm{eV}$)
+
+</p>
+
+</div>
+
+<div class="flex-child-1" style="min-width: 300px; margin-bottom: -10px">
+
+__Rote Linie:__
+
+<p style='margin-left:10%'>
+
+@rangeQuiz2($\lambda_r$,651,$\mathrm{nm}$)
+
+@rangeQuiz2($E_{ph-r}$,1.906,$\mathrm{eV}$)
+
+</p>
+
+</div>
+
+</section>
+
+> 2. Vergleichen Sie die von Ihnen ermittelten Werte mit den in der Formelsammlung angegebenen Spektrallinien für Helium. __Notieren Sie die Tabellenwerte.__
+
+---
+
+> 3. In der folgenden Abbildung ist für die _subjektive Methode_ das Linienspektrum einer $H$-Gasentladung dargestellt. Da sich über die Zeit andere Gase im Glaskörper gesammelt haben, ist hier neben den beiden hauptsächlich sichtbaren Linien (rot, hellblau) ein quasi-kontinuierliches Spektrum sichtbar, welches für diese Auswertung nicht beachtet werden soll. <br> Ermitteln Sie die sichtbaren Spektrallinien von Wasserstoff. Notieren Sie Ihre Ergebnisse im Hefter in Tabellenform. Berechnen Sie die zugehörige Photonenenergie in eV.
+
+<p style='margin-left:10%'>
+
+__Sichtbare Spektrallinien des Wasserstoff__
+
+![Spektrallinien-H](https://diversewolken.ddns.net/nextcloud/index.php/s/9Y6d7636gEFARiH/download)
+
+<section class="flex-container">
+
+<div class="flex-child-1" style="min-width: 200px; margin-bottom: -10px">
+
+__Experimentell:__ $\lambda$ in nm
+
+@rangeQuiz2($\lambda_r$,644,$\mathrm{nm}$)
+
+@rangeQuiz2($\lambda_b$,484,$\mathrm{nm}$)
+
+</div>
+
+<div class="flex-child-1" style="min-width: 200px; margin-bottom: -10px">
+
+__Tabellenwert__ 
+
+@rangeQuiz2($\lambda_r$,656,$\mathrm{nm}$)
+
+@rangeQuiz2($\lambda_b$,486,$\mathrm{nm}$)
+
+</div>
+
+<div class="flex-child-1" style="min-width: 200px; margin-bottom: -10px">
+
+__Tabellenwert:__ $E_{ph}$ in eV 
+
+@rangeQuiz2($E_{ph-r}$,1.89,$\mathrm{eV}$)
+
+@rangeQuiz2($E_{ph-b}$,2.553,$\mathrm{eV}$)
+
+</div>
+
+</section>
+
+
+</p>
+
+---
+
