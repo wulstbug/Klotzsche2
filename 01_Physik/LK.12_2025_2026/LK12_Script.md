@@ -6456,3 +6456,56 @@ __Vorbetrachtungen__
 ---
 
 ![TB_2](https://diversewolken.ddns.net/nextcloud/index.php/s/9ZNJqidgDbEtG9w/download)
+
+### Überprüfung von Zwischenergebnissen
+
+1. Erster Bohr'scher Radius
+
+<p style='margin-left:10%'>
+
+@rangeQuiz2($r_1$,0.529e-10,$\mathrm{m}$)
+
+</p>
+
+2. Ionisierungs-Energie von Wasserstoff (_Rydberg-Energie_)
+
+<p style='margin-left:10%'>
+
+@rangeQuiz2($R_y$,13.6,$\mathrm{eV}$)
+
+</p>
+
+3. Zwei Sichtbare Linien des Wasserstoff-Spektrums (_Balmer-Serie_)
+
+
+
+<p style='margin-left:10%'>
+
+<section class="flex-container">
+
+<div class="flex-child-1" style="min-width: 300px; margin-bottom: -10px">
+
+@color(__Rot:__, red) <br>
+
+@rangeQuiz2($E_{3->2}$,1.89,$\mathrm{eV}$)
+
+@rangeQuiz2($\lambda_{3->2}$,655,$\mathrm{nm}$)
+
+
+</div>
+
+<div class="flex-child-1" style="min-width: 300px; margin-bottom: -10px">
+
+
+@color(__Blau__, blue) <br>
+
+@rangeQuiz2($E_{4->2}$,2.709,$\mathrm{eV}$)
+
+@rangeQuiz2($\lambda_{4->2}$,485,$\mathrm{nm}$)
+
+
+</div>
+
+</section>
+
+</p>
