@@ -6349,3 +6349,31 @@ In der folgenden Abbildung ist für die _subjektive Methode_ das Linienspektrum 
 _Hinweise: Für den foglenden Versuch wurde das Interferenzmuster durch ein Gitter mit 600 vertikalen Spalten pro mm aufgenommen. Der Abstand des Gitters vom Schirm beträgt 39 cm. Der Schirm beginnt im Abstand von 5cm von der Spektrallampe._
 
 ![Spektrallinien-He](https://diversewolken.ddns.net/nextcloud/index.php/s/9Y6d7636gEFARiH/download)
+
+<section class="flex-container">
+
+<div class="flex-child-1" style="min-width: 300px; margin-bottom: -10px">
+
+__Orange Linie:__
+
+<p style='margin-left:10%'>
+
+@rangeQuiz2($\lambda_o$,573,$\mathrm{nm})
+
+@rangeQuiz2($\E_{ph-o}$,2.165,$\mathrm{eV})
+
+</p>
+
+</div>
+
+<div class="flex-child-1" style="min-width: 300px; margin-bottom: -10px">
+
+__Rote Linie:__
+
+@rangeQuiz2($\lambda_r$,461,$\mathrm{nm})
+
+@rangeQuiz2($\E_{ph-r}$,2.692,$\mathrm{eV})
+
+</div>
+
+</section>
