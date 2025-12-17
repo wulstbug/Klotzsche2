@@ -6447,4 +6447,12 @@ __Tabellenwert:__ $E_{ph}$ in eV
 
 ---
 
-12. 3. Spektrallinien am Wasserstoffatom
+## 12. 3. Spektrallinien am Wasserstoffatom
+
+__Vorbetrachtungen__
+
+![TB_1](https://diversewolken.ddns.net/nextcloud/index.php/s/m2EytmCc2ziHd5N/download)
+
+---
+
+![TB_2](https://diversewolken.ddns.net/nextcloud/index.php/s/9ZNJqidgDbEtG9w/download)
