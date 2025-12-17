@@ -6341,3 +6341,11 @@ Nehmen Sie für die verschiedenen Leuchtdioden die Kennlinien auf. Ermitteln Sie
 | Rutherford'sches Atommodell | _Miniatur-Sonnensystem_ ; beinahe die gesamte Masse ist im Kern konzentriert <br> die Elektronen bewegen sich auf Kreisbahnen um den Kern |
 | Bohr'sches Atommodell | fest gelegte Bahnen für die Elektronen (nur diese sind erlaubt) <br> jeder Bahn ist ein Energieniveau zugeordnet <br> bei Energiezufuhr kann ein Elektron auf einer weiter außen liegende Bahn springen <br> gibt das Elektron die Energie wieder ab, so wird diese als Strahlung emittiert <br> nur die äußeren Elektronen der nicht vollständig besetzten Bahnen tragen zur chemischen Bindung bei|
 ************
+
+### Übung: Spektrallinien
+
+In der folgenden Abbildung ist für die _subjektive Methode_ das Linienspektrum einer He-Gasentladung dargestellt. Ermitteln Sie für die rote und die orange Spektrallinie die Wellenlänge in der Einheit nm. Ermitteln Sie ebenfalls die Energie der zugehörigen Photonen in der Einheit eV.
+
+_Hinweise: Für den foglenden Versuch wurde das Interferenzmuster durch ein Gitter mit 600 vertikalen Spalten pro mm aufgenommen. Der Abstand des Gitters vom Schirm beträgt 39 cm. Der Schirm beginnt im Abstand von 5cm von der Spektrallampe._
+
+![Spektrallinien-He](https://diversewolken.ddns.net/nextcloud/index.php/s/9Y6d7636gEFARiH/download)
