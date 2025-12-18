@@ -3328,7 +3328,7 @@ Farbbezeichnung: [[ Infrarot ]]
 
 ---
 
-4. [Bitte anklicken: Verständnisfragen-Photoeffekt-KI-Gestützt](http://10.102.1.3:3001/?q=Stelle%20mir%20f%C3%BCnf%20Verst%C3%A4ndnisfragen%20zum%20Thema%20Photoeffekt,%20d.h.%20Expermentprinzip,%20Gegenfeldmethode,%20Berechnung%20des%20planckschen%20Wirkungsquantums,%20Licht%20als%20Teilchen.%20Stelle%20mir%20die%20Fragen%20einzeln%20nacheinander.%20Bewerte%20meine%20Antwort%20im%20Anschluss%20auf%20einer%20Skala%20von%200%20bis%2010.%20Mein%20Niveau%20ist%20Grundkurs%20Klasse%2012%20Physik.%20Gib%20mir%20am%20Schluss%20der%205%20Fragen%20ein%20Gesamtfeedback%20auf%20meine%20Antworten.)
+4. [Bitte anklicken: Verständnisfragen-Photoeffekt-KI-Gestützt](http://10.102.1.3:3001/?q=Stelle%20mir%20f%C3%BCnf%20Verst%C3%A4ndnisfragen%20zum%20Thema%20Photoeffekt,%20d.h.%20Experimentprinzip,%20Gegenfeldmethode,%20Berechnung%20des%20planckschen%20Wirkungsquantums,%20Licht%20als%20Teilchen.%20Stelle%20mir%20die%20Fragen%20einzeln%20nacheinander.%20Bewerte%20meine%20Antwort%20im%20Anschluss%20auf%20einer%20Skala%20von%200%20bis%2010.%20Mein%20Niveau%20ist%20Grundkurs%20Klasse%2012%20Physik.%20Gib%20mir%20am%20Schluss%20der%205%20Fragen%20ein%20Gesamtfeedback%20auf%20meine%20Antworten.)
 
 ---
 
