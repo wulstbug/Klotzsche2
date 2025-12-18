@@ -6601,11 +6601,17 @@ Zeichnen Sie die ersten fünf Energieniveaus ($n=1$ bis $n=5$) des Wasserstoffat
 <summary>Lösung</summary>
 
 Das Schema muss folgende Niveaus enthalten (Beispiele):
+
 *   $n=1: E_1 = -13,60\,\text{eV}$
+
 *   $n=2: E_2 = -3,40\,\text{eV}$
+
 *   $n=3: E_3 = -1,51\,\text{eV}$
+
 *   $n=4: E_4 = -0,85\,\text{eV}$
+
 *   $n=5: E_5 = -0,54\,\text{eV}$
+
 *   $n=\infty: E_\infty = 0\,\text{eV}$
 
 </details>
@@ -6631,10 +6637,15 @@ Die Elektronen können nur diskrete Energiemengen abgeben, die den Anregungsener
 Die anfängliche kinetische Energie der Elektronen beträgt $E_{kin, Anfang} = 13,2\,\text{eV}$. Die Elektronen verlassen das Gas mit der Restenergie $E_{Rest} = E_{kin, Anfang} - \Delta E_{Anregung}$ [1].
 
 Messbare Werte sind:
+
 1.  **$13,2\,\text{eV}$:** Wenn die Elektronen die H-Atome nicht anregen (elastischer Stoß oder kein Stoß).
+
 2.  **$E_{Rest, 2} = 13,2\,\text{eV} - (E_2 - E_1) \approx 13,2\,\text{eV} - 10,20\,\text{eV} = 3,00\,\text{eV}$**.
+
 3.  **$E_{Rest, 3} = 13,2\,\text{eV} - (E_3 - E_1) \approx 13,2\,\text{eV} - 12,09\,\text{eV} = 1,11\,\text{eV}$**.
+
 4.  **$E_{Rest, 4} = 13,2\,\text{eV} - (E_4 - E_1) \approx 13,2\,\text{eV} - 12,75\,\text{eV} = 0,45\,\text{eV}$**.
+
 5.  **$E_{Rest, 5} = 13,2\,\text{eV} - (E_5 - E_1) \approx 13,2\,\text{eV} - 13,06\,\text{eV} = 0,14\,\text{eV}$**.
 
 Die gemessenen Werte sind diskret und ergeben sich aus der Differenz der Anfangsenergie und der zur Anregung benötigten Energiemenge.
