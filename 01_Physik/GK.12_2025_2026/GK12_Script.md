@@ -3245,11 +3245,13 @@ __bzw. in Elektronenvolt__
 
 <p style="margin-left:5%">
 
-[[x]] Je kurzwelliger das Licht, je besser werden Elektronen aus der Katode gelöst
+[[x]] Je kurzwelliger das Licht (oberhalb der Grenzfrequenz), desto höher ist die kinetische Energie der ausgelösten Elektronen.
 [[ ]] Wird die Intensität des Lichts verstärkt, erhöht sich die Geschwindigkeit der herausgelösten Elektronen.
 [[x]] Die Energie des Lichtes ist von der Frequenz abhängig.
 [[ ]] Die Grenzfrequenz hängt vom Licht ab.
 [[ ]] Das Plancksche Wirkungsquantum hängt vom verwendeten Katodenmaterial ab.
+[[x]] Erhöht man die Intensität des Lichts (oberhalb der Grenzfrequenz), erhöht man auch die Anzahl der ausgelösten Elektronen.
+
 
 </p>
 
