@@ -6573,3 +6573,200 @@ _Paschen-Serie_
 </section>
 
 </p>
+
+### Übungsaufgabe - Anregung von Wasserstoff
+
+__Physik der Atomhülle: Anregung von Wasserstoff durch Elektronenstoß__
+
+Elektronen werden aus der Ruhe heraus durch die Spannung $U=13,2\,\text{V}$ beschleunigt und treffen dann auf ein Gas aus Wasserstoffatomen [1]. Durch Elektronenstoß werden die Wasserstoffatome aus dem Grundzustand ($n=1$) heraus angeregt. Jedes Elektron kann dabei höchstens einmal anregen. Nachdem die Elektronen das Gas verlassen haben, wird ihre kinetische Energie gemessen [1].
+
+**(Grundlagenwerte für die Lösung:** Maximale zur Verfügung stehende Energie: $E_{max} = 13,2\,\text{eV}$. Wasserstoff-Energieniveaus: $E_n = \frac{-13,6\,\text{eV}}{n^2}$. Die maximal erreichbare Hauptquantenzahl ist $n=5$, da die Energie zur Anregung auf $n=6$ ($E_6 - E_1 = 13,222\,\text{eV}$) die Eingangsenergie von $13,2\,\text{eV}$ übersteigt.)
+
+---
+
+__Teilaufgabe a)__
+
+Zeichnen Sie das Energieniveauschema des H-Atoms [1].
+
+<details style="margin-left:10%;color:blue">
+
+<summary>Lösungshinweis</summary>
+
+Zeichnen Sie die ersten fünf Energieniveaus ($n=1$ bis $n=5$) des Wasserstoffatoms mit den entsprechenden Energiewerten in eV, wobei $E_1 = -13,6\,\text{eV}$ ist. Beachten Sie, dass der Abstand der Niveaus mit steigendem $n$ abnimmt.
+
+</details>
+
+<details style="margin-left:10%;color:blue">
+
+<summary>Lösung</summary>
+
+Das Schema muss folgende Niveaus enthalten (Beispiele):
+*   $n=1: E_1 = -13,60\,\text{eV}$
+*   $n=2: E_2 = -3,40\,\text{eV}$
+*   $n=3: E_3 = -1,51\,\text{eV}$
+*   $n=4: E_4 = -0,85\,\text{eV}$
+*   $n=5: E_5 = -0,54\,\text{eV}$
+*   $n=\infty: E_\infty = 0\,\text{eV}$
+
+</details>
+
+---
+
+Teilaufgabe b)
+
+Welche Werte stellt man bei der Messung der kinetischen Energie der Elektronen fest (Begründung!) [2]?
+
+<details style="margin-left:10%;color:blue">
+
+<summary>Lösungshinweis</summary>
+
+Die Elektronen können nur diskrete Energiemengen abgeben, die den Anregungsenergien $\Delta E = E_n - E_1$ entsprechen.
+
+</details>
+
+<details style="margin-left:10%;color:blue">
+
+<summary>Lösung</summary>
+
+Die anfängliche kinetische Energie der Elektronen beträgt $E_{kin, Anfang} = 13,2\,\text{eV}$. Die Elektronen verlassen das Gas mit der Restenergie $E_{Rest} = E_{kin, Anfang} - \Delta E_{Anregung}$ [1].
+
+Messbare Werte sind:
+1.  **$13,2\,\text{eV}$:** Wenn die Elektronen die H-Atome nicht anregen (elastischer Stoß oder kein Stoß).
+2.  **$E_{Rest, 2} = 13,2\,\text{eV} - (E_2 - E_1) \approx 13,2\,\text{eV} - 10,20\,\text{eV} = 3,00\,\text{eV}$**.
+3.  **$E_{Rest, 3} = 13,2\,\text{eV} - (E_3 - E_1) \approx 13,2\,\text{eV} - 12,09\,\text{eV} = 1,11\,\text{eV}$**.
+4.  **$E_{Rest, 4} = 13,2\,\text{eV} - (E_4 - E_1) \approx 13,2\,\text{eV} - 12,75\,\text{eV} = 0,45\,\text{eV}$**.
+5.  **$E_{Rest, 5} = 13,2\,\text{eV} - (E_5 - E_1) \approx 13,2\,\text{eV} - 13,06\,\text{eV} = 0,14\,\text{eV}$**.
+
+Die gemessenen Werte sind diskret und ergeben sich aus der Differenz der Anfangsenergie und der zur Anregung benötigten Energiemenge.
+
+</details>
+
+---
+
+__Teilaufgabe c)__
+
+Warum emittiert das beschossene Gas elektromagnetische Strahlung [2]?
+
+<details style="margin-left:10%;color:blue">
+
+<summary>Lösungshinweis</summary>
+
+Die angeregten Atome sind instabil und fallen in Zustände geringerer Energie zurück.
+
+</details>
+
+<details style="margin-left:10%;color:blue">
+
+<summary>Lösung</summary>
+
+Die durch den Elektronenstoß in höhere Energieniveaus angeregten Wasserstoffatome sind instabil. Sie fallen spontan in tiefere, energieärmere Zustände zurück (Emissionsprozess). Bei jedem Rückfall wird die Energiedifferenz $\Delta E$ in Form eines Photons emittiert: $\Delta E = h \cdot f$ [2].
+
+</details>
+
+---
+
+__Teilaufgabe d)__
+
+Wie viele verschiedene Wellenlängen können nachgewiesen werden? Welche davon liegen im sichtbaren Bereich? Stellen Sie alle Übergänge im Energieniveauschema aus Teilaufgabe a dar [2]!
+
+<details style="margin-left:10%;color:blue">
+
+<summary>Lösungshinweis</summary>
+
+Die maximale Hauptquantenzahl ist $n_{max}=5$. Die Gesamtzahl der möglichen Übergänge von $n_{max}$ bis $n=1$ ist gegeben durch: $N = \sum_{k=1}^{n_{max}-1} k$.
+
+Der sichtbare Bereich (Balmer-Serie) umfasst Übergänge, die auf das Niveau $n=2$ führen.
+
+</details>
+
+<details style="margin-left:10%;color:blue">
+
+<summary>Lösung</summary>
+
+Die maximale Anregung erfolgt bis zum Niveau $n_{max}=5$.
+
+**Anzahl der Linien:**
+Die Gesamtzahl der möglichen Emissionslinien ist die Summe aller möglichen Rückfälle:
+$$ N = (5 \to 4) + (5 \to 3) + (5 \to 2) + (5 \to 1) $$
+$$ + (4 \to 3) + (4 \to 2) + (4 \to 1) $$
+$$ + (3 \to 2) + (3 \to 1) $$
+$$ + (2 \to 1) $$
+Insgesamt: $N = 4 + 3 + 2 + 1 = \mathbf{10}$ verschiedene Wellenlängen können maximal nachgewiesen werden.
+
+**Sichtbarer Bereich (Balmer-Serie):**
+Im sichtbaren Bereich liegen Übergänge, die auf das Niveau $n=2$ führen [3].
+*   $5 \to 2$
+*   $4 \to 2$ ($\text{H}\gamma$-Linie)
+*   $3 \to 2$ ($\text{H}\beta$-Linie)
+(Anmerkung: Die $\text{H}\alpha$-Linie ($3 \to 2$) und $\text{H}\beta$-Linie ($4 \to 2$) liegen im sichtbaren Bereich. Die $\text{H}\gamma$-Linie ($5 \to 2$) liegt im Violett/UV-Bereich, wird aber oft noch zum sichtbaren Bereich gezählt.)
+
+</details>
+
+---
+
+__Teilaufgabe e)__
+
+Berechnen Sie die Wellenlänge der lang- ($\lambda_{lang}$) und kurzwelligen ($\lambda_{kurz}$) Linie [2]!
+
+@rangeQuiz2( $\lambda_{lang}$, 4050e-9, $\text{m}$ )
+
+@rangeQuiz2( $\lambda_{kurz}$, 95.0e-9, $\text{m}$ )
+
+<details style="margin-left:10%;color:blue">
+
+<summary>Lösungshinweis</summary>
+
+*   **Langwelligste Linie ($\lambda_{lang}$):** Entspricht dem geringsten Energieunterschied $\Delta E_{min}$ im Rückfall, d.h., dem Übergang $5 \to 4$.
+*   **Kurzwellige Linie ($\lambda_{kurz}$):** Entspricht dem größten Energieunterschied $\Delta E_{max}$ im Rückfall, d.h., dem Übergang $5 \to 1$.
+*   Nutzen Sie $E = \frac{h \cdot c}{\lambda}$.
+
+</details>
+
+<details style="margin-left:10%;color:blue">
+
+<summary>Lösung</summary>
+
+**I. Kurzwellige Linie (Größte Energie $\Delta E_{max}$):**
+Dies ist der Rückfall vom höchsten erreichten Niveau ($n=5$) zum Grundzustand ($n=1$).
+$$ \Delta E_{max} = E_5 - E_1 = (-0,544\,\text{eV}) - (-13,6\,\text{eV}) = 13,056\,\text{eV} $$
+Umrechnung der Wellenlänge (unter Verwendung des Kurzwertes $h \cdot c \approx 1240\,\text{eV} \cdot \text{nm}$):
+$$ \lambda_{kurz} = \frac{1240\,\text{eV} \cdot \text{nm}}{13,056\,\text{eV}} \approx 95,0\,\text{nm} $$
+$$\mathbf{\lambda_{kurz} \approx 9,50 \cdot 10^{-8}\,\text{m}}$$
+
+**II. Langwelligste Linie (Kleinste Energie $\Delta E_{min}$):**
+Dies ist der Rückfall zwischen den beiden höchsten angeregten Niveaus: $n=5 \to n=4$.
+$$ \Delta E_{min} = E_5 - E_4 = (-0,544\,\text{eV}) - (-0,85\,\text{eV}) = 0,306\,\text{eV} $$
+Umrechnung der Wellenlänge:
+$$ \lambda_{lang} = \frac{1240\,\text{eV} \cdot \text{nm}}{0,306\,\text{eV}} \approx 4052\,\text{nm} $$
+$$\mathbf{\lambda_{lang} \approx 4,05 \cdot 10^{-6}\,\text{m}}$$ (Liegt im infraroten Bereich)
+
+</details>
+
+---
+
+__Teilaufgabe f)__
+
+Was beobachtet man, wenn man das Gas mit Photonen der Energie $13,2\,\text{eV}$ beschießt [2]?
+
+<details style="margin-left:10%;color:blue">
+
+<summary>Lösungshinweis</summary>
+
+Prüfen Sie, ob Photonen der Energie $13,2\,\text{eV}$ in der Lage sind, eine Anregung aus dem Grundzustand zu bewirken. Beachten Sie, dass Photonen ihre Energie nur vollständig abgeben können.
+
+</details>
+
+<details style="margin-left:10%;color:blue">
+
+<summary>Lösung</summary>
+
+Die Photonen haben eine Energie von $13,2\,\text{eV}$.
+Da Photonen ihre gesamte Energie in einem Stoß abgeben müssen, muss diese Energie exakt einer der diskreten Anregungsenergien $\Delta E = E_n - E_1$ entsprechen, oder die Ionisierungsenergie überschreiten.
+
+*   Die höchste Anregungsenergie bis $n=5$ beträgt $13,06\,\text{eV}$.
+*   Die Ionisierungsenergie beträgt $13,6\,\text{eV}$.
+
+Da die $13,2\,\text{eV}$ Photonenenergie **keinem** der diskreten Übergänge von $n=1$ in einen höheren Zustand **exakt** entspricht und die Ionisierungsenergie unterschreitet, können die Photonen **keine** Energie an die H-Atome abgeben [2].
+
+**Beobachtung:** Es würde **keine** zusätzliche elektromagnetische Strahlung emittiert und es würde **keine** messbare Schwächung der durchgelassenen Photonenstrahlung festgestellt. Das Gas erscheint "transparent" für diese Photonen.
+</details>
