@@ -376,6 +376,19 @@ __Beschreibung:__
 
 [Video zur Gegenfeldmethode](https://www.youtube.com/watch?v=Xm8LAEA7Gy8)
 
+---
+
+__Einsteinsche Geraden:__
+
+![EinsteinscheGeraden](https://diversewolken.ddns.net/nextcloud/index.php/s/ETDwWWQqHPkBkxs/download)
+
+---
+
+__Anstieg der Einstein'schen Geraden:__
+
+![AnstiegEinsteinscheGeraden](https://diversewolken.ddns.net/nextcloud/index.php/s/A9RwrenXmgbaady/download)
+
+---
 
 __Energiebilanz beim Photoeffekt__
 

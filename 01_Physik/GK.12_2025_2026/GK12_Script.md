@@ -3169,6 +3169,18 @@ __Beschreibung:__
 
 ---
 
+__Einsteinsche Geraden:__
+
+![EinsteinscheGeraden](https://diversewolken.ddns.net/nextcloud/index.php/s/ETDwWWQqHPkBkxs/download)
+
+---
+
+__Anstieg der Einstein'schen Geraden:__
+
+![AnstiegEinsteinscheGeraden](https://diversewolken.ddns.net/nextcloud/index.php/s/A9RwrenXmgbaady/download)
+
+---
+
 __Energiebilanz beim Photoeffekt__
 
 > Die von den Lichtteilchen (Photonen) transportierte Energie $E_{ph}$ wird in Austrittsarbeit/Auslösearbeit $W_A$ der Elektronen und kinetische Energie $E_{kin, max}$ umgewandelt.
