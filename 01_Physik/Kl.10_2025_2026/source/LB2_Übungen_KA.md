@@ -75,25 +75,23 @@ mode: presentation
 
 # Übungen zur KA
 
-# Grundlagen zu Schwingungen
+## Grundlagen zum Feder-Schwinger
 
 1. Eine Feder wird von einer Kraft $F$ von $100\mathrm{N}$ um $5\mathrm{cm}$ zusammengedrückt. Ermitteln Sie die Federkonstante $D$.
 
 <p style='margin-left:10%'>
 
-@rangeQuiz2( $D$ , 2000, $\mathrm{\frac{N}{m}}$ )
+@rangeQuiz2( $D$ , 2000, $\mathrm{\frac{N}{m}}$)
 
 </p>
 
-
 <details style="margin-left:10%;color:blue">
 
-<summary>Lösungsweg</summary>
+<summary> Lösungsweg </summary>
 
-Um die Federkonstante $D$ zu bestimmen, nutzt man das Hooke’sche Gesetz $F = D \cdot s$. Setzen Sie die Werte ein und stellen Sie nach $D$ um. Achten Sie darauf, die Auslenkung $s$ von Zentimetern in Meter umzurechnen ($10 \, \text{cm} = 0,1 \, \text{m}$). 
+Um die Federkonstante $D$ zu bestimmen, nutzt man das Hooke’sche Gesetz $F = D \cdot s$. Setzen Sie die Werte ein und stellen Sie nach $D$ um. Achten Sie darauf, die Auslenkung $s$ von Zentimetern in Meter umzurechnen ($10 \, \text{cm} = 0,1 \, \text{m}$).
 
 </details>
-
 
 <details style="margin-left:10%;color:blue">
 
@@ -106,6 +104,7 @@ __Gesucht:__ $D$
 __Lösung:__
 
 $$D = \frac{F}{s}$$
+
 $$D = \frac{100 \, \text{N}}{0,05 \, \text{m}} = \mathbf{2000 \, \frac{N}{m}}$$ 
 
 </details>
@@ -179,9 +178,148 @@ Resonanz tritt auf, wenn äußere Anregungsfrequenz und Eigenfrequenz des Schwin
 
 </details>
 
-# Grundlagenaufgaben zu mechanischen Wellen
+## Grundlagen zum Fadenpendel
 
-__Mechanische Wellen an einem Seil:__ Eine Wellenmaschine erzeugt an einem sehr langen, gespannten Seil eine harmonische Querwelle. Die Welle breitet sich mit einer Ausbreitungsgeschwindigkeit von c=12,0m/s aus. Der Abstand zwischen zwei aufeinanderfolgenden Wellenbergen (die Wellenlänge) beträgt λ=3,0m.
+1. ![Pendel](https://diversewolken.ddns.net/nextcloud/index.php/s/FtrzR267SSwHHRW/download)<!-- style="max-width:100px"--> Ein Fadenpendel hat eine Länge von 30 cm. Ermitteln Sie die Periodendauer und die Frequenz, wenn das Pendel als ideales Pendel betrachtet werden soll.
+
+<p style='margin-left:10%'>
+
+@rangeQuiz2($T$,1.099,s)
+
+@rangeQuiz2($f$,0.91,Hz)
+
+</p>
+
+<details style='margin-left:10%;color:blue'>
+
+<summary> Lösunghinweis </summary>
+
+Nutzen Sie die Formel aus 2.5 für das Fadenpendel um die Aufgabe zu lösen. Achten Sie darauf, die Länge in die Standardeinheit umzurechnen.
+
+Die Formel für Frequenz und Periodendauer wurde in Abschnitt 2.4 aufgeschrieben.
+
+</details>
+
+----
+
+2. ![Uhr](https://diversewolken.ddns.net/nextcloud/index.php/s/p3yAnoYf8DmnrPw/download)<!-- style="max-width:100px"--> Das Pendel aus Aufgabe 1 soll nun für eine Pendel-Uhr verwendet werden, welche die vollständigen Schwingungen zählt und so die Zeit misst. Es wird angenommen, dass die Periodendauer genau 1 s beträgt. Würde man das Pendel so benutzen, wie es in Aufgabe 1 aufgebaut ist, dann würde die Uhr.
+
+     - [( )] nach einiger Zeit vorgehen
+     - [(x)] nach einiger Zeit nachgehen
+     - [( )] die richtige Zeit anzeigen
+
+---
+
+3. Auf welche Weise müsst man das Pendel aus Aufgabe 1 verändern, dass die Uhr richtig geht.
+
+     - [( )] eine größere Masse anhängen
+     - [( )] eine kleiner Masse anhängen
+     - [( )] die Pendellänge vergrößern
+     - [(x)] die Pendellänge verkleinern
+     - [( )] die Amplitude verringern
+     - [( )] die Amplitude vergrößern
+
+---
+
+4. __Formulieren Sie eine Je-desto-Aussage__
+
+<section class="flex-container" style="margin-left:10%">
+
+<div class="flex-child-1" style="min-width: 300px; margin-bottom: -10px">
+
+__Federpendel (Federschwinger):__
+
+1. Beobachten Sie zwei Federpendel mit identischer Federkonstante, aber unterschiedlicher Masse. <br>  <br> __Masse und Periodendauer__ <br>
+
+<details style='margin-left:10%; color:blue'>
+
+<summary> Aussage: </summary>
+
+Je größer die Masse, desto größer ist die Periodendauer.
+
+</details>
+
+---
+
+2. Beobachten Sie zwei Federpendel mit identischer Masse, aber unterschiedlicher Federkonstante. <br>  <br> __Federkonstante und Periodendauer__  
+
+<details style='margin-left:10%; color:blue'>
+
+<summary> Aussage: </summary>
+
+Je größer die Federkonstante, desto kleiner ist die Periodendauer.
+
+</details>
+
+
+---
+
+3. BeobachtenSie zwei Federpendel mit unterschiedlicher Amplitude (Auslenkung zu Beginn). <br>  <br> __Auslenkung und Periodendauer__  
+
+<details style='margin-left:10%; color:blue'>
+
+<summary> Aussage: </summary>
+
+Bei einer kleinen Amplitude hat die Auslenkung hat auf die Periodendauer keinen Einfluss.
+
+</details>
+
+</div>
+
+<div class="flex-child-1" style="min-width: 300px; margin-bottom: -10px">
+
+__Fadenpendel:__
+
+1. Beobachten Sie zwei Fadenpendel mit identischer Länge, aber unterschiedlicher Masse. <br>  <br> __Masse und Periodendauer__ <br> 
+
+<details style='margin-left:10%; color:blue'>
+
+<summary> Aussage: </summary>
+
+Die Masse hat auf die Periodendauer keinen Einfluss.
+
+</details>
+
+
+---
+
+2. Beobachten Sie zwei Fadenpendel mit identischer Masse, aber unterschiedlicher Pendellänge. <br>  <br> __Pendellänge und Periodendauer__  <br> 
+
+<details style='margin-left:10%; color:blue'>
+
+<summary> Aussage: </summary>
+
+Je größer die Pendellänge, desto größer die Periodendauer.
+
+</details>
+
+---
+
+3. BeobachtenSie zwei Fadenpendel mit unterschiedlicher Auslenkung zu Beginn. <br>  <br> __Auslenkung und Periodendauer__  <br> 
+
+<details style='margin-left:10%; color:blue'>
+
+<summary> Aussage: </summary>
+
+Bei einer kleinen Amplitude hat die Auslenkung hat auf die Periodendauer keinen Einfluss.
+
+</details>
+
+</div>
+
+</section>
+
+## Grundlagenaufgaben zu mechanischen Wellen
+
+1. __Erläuterung Wellenphänomene:__
+
+     [Erläuterung Wellenphänomene - bitte anklicken](http://10.102.1.3:3001/?q=Stelle%20mir%20f%C3%BCnf%20Verst%C3%A4ndnisfragen%20zum%20Thema%20Eigenschaften%20Mechanischer%20Wellen%20,d.h.%20Beugung,%20Brechung,%20Reflexion%20und%20Interferenz.%20Mein%20Niveau%20ist%20Klasse%2010%20Gymnasium.%20Stelle%20mir%20die%20Fragen%20einzeln.%20Warte%20auf%20meine%20Antwort%20und%20bewerte%20meine%20Antwort%20auf%20einer%20Skala%20von%200-10.%20Gib%20mir%20anschlie%C3%9Fend%20eine%20Gesamteinsch%C3%A4tzung.%20Achte%20auf%20das%20Niveau%2010.%20Klasse.%20Die%20Begriffe%20Beugung,%20Interferenz%20und%20Brechung%20haben%20wir%20in%20der%20letzten%20Unterrichtseinheit%20zum%20ersten%20mal%20kennengelernt.)
+
+2. __Mechanische Wellen an einem Seil:__ 
+
+<p style="margin-left:10%">
+
+![Seilwelle.gif](https://diversewolken.ddns.net/nextcloud/index.php/s/YeoFETY4PgBqTn8/download)Eine Wellenmaschine erzeugt an einem sehr langen, gespannten Seil eine harmonische Querwelle. Die Welle breitet sich mit einer Ausbreitungsgeschwindigkeit von c=12,0m/s aus. Der Abstand zwischen zwei aufeinanderfolgenden Wellenbergen (die Wellenlänge) beträgt λ=3,0m.
 
 a) Berechnen Sie die Frequenz f der Schwingung, mit der die Wellenmaschine das Seil anregt.
 
@@ -236,8 +374,14 @@ Verwenden Sie den in Teilaufgabe a) berechneten Wert für f.
 
 </details>
 
+c) 
 
-# Sachaufgabe zu Schwingungen an einem PKW
+</p>
+
+
+
+
+## Sachaufgabe zu Schwingungen an einem PKW
 
 ![Fahrzeugfeder](https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Double_wishbone_suspension.jpg/960px-Double_wishbone_suspension.jpg)<!-- style="max-width:200px"--> Eine Stahlfeder am Vorderrad eines PKWs wird durch eine Masse von $400 \, \text{kg}$ um $10 \, \text{cm}$ zusammengedrückt und dann losgelassen. Die Feder beginnt nach Anregung mit der Eigenfrequenz zu schwingen. 
 
@@ -362,7 +506,9 @@ Der Fahrer sollte also eine Geschwindigkeit wählen, bei der die Anregungsfreque
 
 </details>
 
-# Sachaufgabe zu mechanischen Wellen
+
+
+## Sachaufgabe zu mechanischen Wellen
 
 __Aufgabe: Mechanische Wellen am Meer__
 
@@ -543,3 +689,75 @@ Dann ergibt sich für $\beta$
 $$ \beta = \sin^{-1}(\beta) \approx 48,59^\circ$$
 
 </details>
+
+
+## Gemischte Aufgaben zu Mechanischen Wellen
+
+1. Benenne den folgenden Wellenphänomene:
+
+<section class="flex-container">
+
+<div class="flex-child-1" style="min-width: 300px; margin-bottom: -10px">
+
+![Zuordnung](https://diversewolken.ddns.net/nextcloud/index.php/s/HJa8HbSwp6fLqgX/download)
+
+
+</div>
+
+<div class="flex-child-1" style="min-width: 300px; margin-bottom: -10px">
+
+a) [[ Reflexion ]]
+
+b) [[ Beugung ]] 
+
+c) [[ Interferenz ]]
+
+</div>
+
+</section>
+
+---
+
+2. Learning-App Wellenphänomene
+
+<iframe src="https://learningapps.org/watch?v=p29hwaena25" style="border:0px;width:100%;height:500px" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"></iframe>
+
+---
+
+![Aufgabenstellung](https://diversewolken.ddns.net/nextcloud/index.php/s/E2W2zjxEjNR7HZK/download)
+
+- Maximale Auslenkung (Amplitude) $y_\text{max}$:
+
+<p style='margin-left:10%'>
+
+@rangeQuiz2($y_\text{max}$, 1.0, m)
+
+</p>
+
+
+
+- Periodendauer $T$:
+
+<p style='margin-left:10%'>
+
+@rangeQuiz2($T$, 1.25, s)
+
+</p>
+
+- Wellenlänge $\lambda$:
+
+<p style='margin-left:10%'>
+
+@rangeQuiz2($\lambda$, 3.0, m)
+
+</p>
+
+
+- Frequenz $f$:
+
+<p style='margin-left:10%'>
+
+@rangeQuiz2($f$, 0.8, Hz)
+
+</p>
+
