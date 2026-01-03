@@ -2662,3 +2662,90 @@ c) [[ Interferenz ]]
 </p>
 
 4. [Erläuterung Wellenphänomene - bitte anklicken](http://10.102.1.3:3001/?q=Stelle%20mir%20f%C3%BCnf%20Verst%C3%A4ndnisfragen%20zum%20Thema%20Eigenschaften%20Mechanischer%20Wellen%20,d.h.%20Beugung,%20Brechung,%20Reflexion%20und%20Interferenz.%20Mein%20Niveau%20ist%20Klasse%2010%20Gymnasium.%20Stelle%20mir%20die%20Fragen%20einzeln.%20Warte%20auf%20meine%20Antwort%20und%20bewerte%20meine%20Antwort%20auf%20einer%20Skala%20von%200-10.%20Gib%20mir%20anschlie%C3%9Fend%20eine%20Gesamteinsch%C3%A4tzung.%20Achte%20auf%20das%20Niveau%2010.%20Klasse.%20Die%20Begriffe%20Beugung,%20Interferenz%20und%20Brechung%20haben%20wir%20in%20der%20letzten%20Unterrichtseinheit%20zum%20ersten%20mal%20kennengelernt.)
+
+
+
+## Aufgaben: Vorbereitung Klassenarbeit
+
+__QR-Codes zu den Übungen:__
+
+<section class="flex-container">
+
+<div class="flex-child-1" style="min-width: 200px; margin-bottom: -10px">
+
+<details style='margin-left:10%'>
+
+<summary> Aufgaben mit Lösungshinweisen </summary>
+
+[qr-code](https://liascript.github.io/course/?https://raw.githubusercontent.com/wulstbug/Klotzsche2/2025_2026/01_Physik/Kl.10_2025_2026/source/LB2_%C3%9Cbungen_KA_LsgHinweise.md#1)
+
+</details>
+
+</div>
+
+<div class="flex-child-1" style="min-width: 200px; margin-bottom: -10px">
+
+<details style='margin-left:10%'>
+
+<summary> Aufgaben und Lösungen A </summary>
+
+[qr-code](https://liascript.github.io/course/?https://raw.githubusercontent.com/wulstbug/Klotzsche2/2025_2026/01_Physik/Kl.10_2025_2026/source/LB2_%C3%9Cbungen_KA_Lsg_A.md#1)
+
+</details>
+
+</div>
+
+<div class="flex-child-1" style="min-width: 200px; margin-bottom: -10px">
+
+<details style='margin-left:10%'>
+
+<summary> Aufgaben und Lösungen C </summary>
+
+[qr-code](https://liascript.github.io/course/?https://raw.githubusercontent.com/wulstbug/Klotzsche2/2025_2026/01_Physik/Kl.10_2025_2026/source/LB2_%C3%9Cbungen_KA_Lsg_C.md#1)
+
+</details>
+
+</div>
+
+</section>
+
+<section class="flex-container">
+
+<div class="flex-child-1" style="min-width: 200px; margin-bottom: -10px">
+
+<details style='margin-left:10%'>
+
+
+<summary> Aufgaben und Lösungen D </summary>
+
+[qr-code](https://liascript.github.io/course/?https://raw.githubusercontent.com/wulstbug/Klotzsche2/2025_2026/01_Physik/Kl.10_2025_2026/source/LB2_%C3%9Cbungen_KA_Lsg_D.md#1)
+
+</details>
+
+</div>
+
+<div class="flex-child-1" style="min-width: 200px; margin-bottom: -10px">
+
+
+<details style='margin-left:10%'>
+
+<summary> Aufgaben und Lösungen E </summary>
+
+[qr-code](https://liascript.github.io/course/?https://raw.githubusercontent.com/wulstbug/Klotzsche2/2025_2026/01_Physik/Kl.10_2025_2026/source/LB2_%C3%9Cbungen_KA_Lsg_E.md#1)
+
+</details>
+
+</div>
+
+<div class="flex-child-1" style="min-width: 200px; margin-bottom: -10px">
+
+</div>
+
+</section>
+
+
+
+
+
+
+
