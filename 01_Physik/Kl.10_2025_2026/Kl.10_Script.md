@@ -2709,6 +2709,8 @@ __QR-Codes zu den Übungen:__
 
 </section>
 
+---
+
 <section class="flex-container">
 
 <div class="flex-child-1" style="min-width: 200px; margin-bottom: -10px">
@@ -2725,7 +2727,6 @@ __QR-Codes zu den Übungen:__
 </div>
 
 <div class="flex-child-1" style="min-width: 200px; margin-bottom: -10px">
-
 
 <details style='margin-left:10%'>
 
