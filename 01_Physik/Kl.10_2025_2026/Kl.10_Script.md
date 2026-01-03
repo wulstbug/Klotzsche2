@@ -2677,7 +2677,7 @@ __QR-Codes zu den Übungen:__
 
 <summary> Aufgaben mit Lösungshinweisen </summary>
 
-[qr-code](https://liascript.github.io/course/?https://raw.githubusercontent.com/wulstbug/Klotzsche2/2025_2026/01_Physik/Kl.10_2025_2026/source/LB2_%C3%9Cbungen_KA_LsgHinweise.md#1)
+[qr-code](https://liascript.github.io/course/?eyJiYWNrZW5kIjoiUDJQVHx3c3M6Ly90cmFja2VyLm9wZW53ZWJ0b3JyZW50LmNvbSwgd3NzOi8vdHJhY2tlci53ZWJ0b3JyZW50LmRldiwgd3NzOi8vdHJhY2tlci5maWxlcy5mbTo3MDczL2Fubm91bmNlLCB3c3M6Ly90cmFja2VyLm9wZW53ZWJ0b3JyZW50LmNvbTo0NDMvYW5ub3VuY2UiLCJjb3Vyc2UiOiJodHRwczovL3Jhdy5naXRodWJ1c2VyY29udGVudC5jb20vd3Vsc3RidWcvS2xvdHpzY2hlMi8yMDI1XzIwMjYvMDFfUGh5c2lrL0tsLjEwXzIwMjVfMjAyNi9zb3VyY2UvTEIyXyVDMyU5Q2J1bmdlbl9LQV9Mc2dIaW53ZWlzZS5tZCIsInJvb20iOiJHZW5pdXNGcmVlU29jaWFsQXdlLUluc3BpcmluZyJ9#1)
 
 </details>
 
@@ -2689,7 +2689,7 @@ __QR-Codes zu den Übungen:__
 
 <summary> Aufgaben und Lösungen A </summary>
 
-[qr-code](https://liascript.github.io/course/?https://raw.githubusercontent.com/wulstbug/Klotzsche2/2025_2026/01_Physik/Kl.10_2025_2026/source/LB2_%C3%9Cbungen_KA_Lsg_A.md#1)
+[qr-code](https://liascript.github.io/course/?eyJiYWNrZW5kIjoiUDJQVHx3c3M6Ly90cmFja2VyLm9wZW53ZWJ0b3JyZW50LmNvbSwgd3NzOi8vdHJhY2tlci53ZWJ0b3JyZW50LmRldiwgd3NzOi8vdHJhY2tlci5maWxlcy5mbTo3MDczL2Fubm91bmNlLCB3c3M6Ly90cmFja2VyLm9wZW53ZWJ0b3JyZW50LmNvbTo0NDMvYW5ub3VuY2UiLCJjb3Vyc2UiOiJodHRwczovL3Jhdy5naXRodWJ1c2VyY29udGVudC5jb20vd3Vsc3RidWcvS2xvdHpzY2hlMi8yMDI1XzIwMjYvMDFfUGh5c2lrL0tsLjEwXzIwMjVfMjAyNi9zb3VyY2UvTEIyXyVDMyU5Q2J1bmdlbl9LQV9Mc2dfQS5tZCIsInJvb20iOiJVc2VmdWxBd2Vzb21lSW5jbHVzaXZlRXBpYyJ9#1)
 
 </details>
 
@@ -2701,7 +2701,7 @@ __QR-Codes zu den Übungen:__
 
 <summary> Aufgaben und Lösungen C </summary>
 
-[qr-code](https://liascript.github.io/course/?https://raw.githubusercontent.com/wulstbug/Klotzsche2/2025_2026/01_Physik/Kl.10_2025_2026/source/LB2_%C3%9Cbungen_KA_Lsg_C.md#1)
+[qr-code](https://liascript.github.io/course/?eyJiYWNrZW5kIjoiUDJQVHx3c3M6Ly90cmFja2VyLm9wZW53ZWJ0b3JyZW50LmNvbSwgd3NzOi8vdHJhY2tlci53ZWJ0b3JyZW50LmRldiwgd3NzOi8vdHJhY2tlci5maWxlcy5mbTo3MDczL2Fubm91bmNlLCB3c3M6Ly90cmFja2VyLm9wZW53ZWJ0b3JyZW50LmNvbTo0NDMvYW5ub3VuY2UiLCJjb3Vyc2UiOiJodHRwczovL3Jhdy5naXRodWJ1c2VyY29udGVudC5jb20vd3Vsc3RidWcvS2xvdHpzY2hlMi8yMDI1XzIwMjYvMDFfUGh5c2lrL0tsLjEwXzIwMjVfMjAyNi9zb3VyY2UvTEIyXyVDMyU5Q2J1bmdlbl9LQV9Mc2dfQy5tZCIsInJvb20iOiJJbmNsdXNpdmVGYW50YXN0aWNhbEVuZ2FnaW5nR3JlYXQifQ==#1)
 
 </details>
 
@@ -2720,7 +2720,7 @@ __QR-Codes zu den Übungen:__
 
 <summary> Aufgaben und Lösungen D </summary>
 
-[qr-code](https://liascript.github.io/course/?https://raw.githubusercontent.com/wulstbug/Klotzsche2/2025_2026/01_Physik/Kl.10_2025_2026/source/LB2_%C3%9Cbungen_KA_Lsg_D.md#1)
+[qr-code](https://liascript.github.io/course/?eyJiYWNrZW5kIjoiUDJQVHx3c3M6Ly90cmFja2VyLm9wZW53ZWJ0b3JyZW50LmNvbSwgd3NzOi8vdHJhY2tlci53ZWJ0b3JyZW50LmRldiwgd3NzOi8vdHJhY2tlci5maWxlcy5mbTo3MDczL2Fubm91bmNlLCB3c3M6Ly90cmFja2VyLm9wZW53ZWJ0b3JyZW50LmNvbTo0NDMvYW5ub3VuY2UiLCJjb3Vyc2UiOiJodHRwczovL3Jhdy5naXRodWJ1c2VyY29udGVudC5jb20vd3Vsc3RidWcvS2xvdHpzY2hlMi8yMDI1XzIwMjYvMDFfUGh5c2lrL0tsLjEwXzIwMjVfMjAyNi9zb3VyY2UvTEIyXyVDMyU5Q2J1bmdlbl9LQV9Mc2dfRC5tZCIsInJvb20iOiJHZW5pdXNXYXJtRnJpZW5kbHlIb25lc3QifQ==#1)
 
 </details>
 
@@ -2732,7 +2732,7 @@ __QR-Codes zu den Übungen:__
 
 <summary> Aufgaben und Lösungen E </summary>
 
-[qr-code](https://liascript.github.io/course/?https://raw.githubusercontent.com/wulstbug/Klotzsche2/2025_2026/01_Physik/Kl.10_2025_2026/source/LB2_%C3%9Cbungen_KA_Lsg_E.md#1)
+[qr-code](https://liascript.github.io/course/?eyJiYWNrZW5kIjoiUDJQVHx3c3M6Ly90cmFja2VyLm9wZW53ZWJ0b3JyZW50LmNvbSwgd3NzOi8vdHJhY2tlci53ZWJ0b3JyZW50LmRldiwgd3NzOi8vdHJhY2tlci5maWxlcy5mbTo3MDczL2Fubm91bmNlLCB3c3M6Ly90cmFja2VyLm9wZW53ZWJ0b3JyZW50LmNvbTo0NDMvYW5ub3VuY2UiLCJjb3Vyc2UiOiJodHRwczovL3Jhdy5naXRodWJ1c2VyY29udGVudC5jb20vd3Vsc3RidWcvS2xvdHpzY2hlMi8yMDI1XzIwMjYvMDFfUGh5c2lrL0tsLjEwXzIwMjVfMjAyNi9zb3VyY2UvTEIyXyVDMyU5Q2J1bmdlbl9LQV9Mc2dfRC5tZCIsInJvb20iOiJHZW5pdXNXYXJtRnJpZW5kbHlIb25lc3QifQ==#1)
 
 </details>
 
