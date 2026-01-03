@@ -221,94 +221,6 @@ Die Formel für Frequenz und Periodendauer wurde in Abschnitt 2.4 aufgeschrieben
 
 ---
 
-4. __Formulieren Sie eine Je-desto-Aussage__
-
-<section class="flex-container" style="margin-left:10%">
-
-<div class="flex-child-1" style="min-width: 300px; margin-bottom: -10px">
-
-__Federpendel (Federschwinger):__
-
-1. Beobachten Sie zwei Federpendel mit identischer Federkonstante, aber unterschiedlicher Masse. <br>  <br> __Masse und Periodendauer__ <br>
-
-<details style='margin-left:10%; color:blue'>
-
-<summary> Aussage: </summary>
-
-Je größer die Masse, desto größer ist die Periodendauer.
-
-</details>
-
----
-
-2. Beobachten Sie zwei Federpendel mit identischer Masse, aber unterschiedlicher Federkonstante. <br>  <br> __Federkonstante und Periodendauer__  
-
-<details style='margin-left:10%; color:blue'>
-
-<summary> Aussage: </summary>
-
-Je größer die Federkonstante, desto kleiner ist die Periodendauer.
-
-</details>
-
-
----
-
-3. BeobachtenSie zwei Federpendel mit unterschiedlicher Amplitude (Auslenkung zu Beginn). <br>  <br> __Auslenkung und Periodendauer__  
-
-<details style='margin-left:10%; color:blue'>
-
-<summary> Aussage: </summary>
-
-Bei einer kleinen Amplitude hat die Auslenkung hat auf die Periodendauer keinen Einfluss.
-
-</details>
-
-</div>
-
-<div class="flex-child-1" style="min-width: 300px; margin-bottom: -10px">
-
-__Fadenpendel:__
-
-1. Beobachten Sie zwei Fadenpendel mit identischer Länge, aber unterschiedlicher Masse. <br>  <br> __Masse und Periodendauer__ <br> 
-
-<details style='margin-left:10%; color:blue'>
-
-<summary> Aussage: </summary>
-
-Die Masse hat auf die Periodendauer keinen Einfluss.
-
-</details>
-
-
----
-
-2. Beobachten Sie zwei Fadenpendel mit identischer Masse, aber unterschiedlicher Pendellänge. <br>  <br> __Pendellänge und Periodendauer__  <br> 
-
-<details style='margin-left:10%; color:blue'>
-
-<summary> Aussage: </summary>
-
-Je größer die Pendellänge, desto größer die Periodendauer.
-
-</details>
-
----
-
-3. BeobachtenSie zwei Fadenpendel mit unterschiedlicher Auslenkung zu Beginn. <br>  <br> __Auslenkung und Periodendauer__  <br> 
-
-<details style='margin-left:10%; color:blue'>
-
-<summary> Aussage: </summary>
-
-Bei einer kleinen Amplitude hat die Auslenkung hat auf die Periodendauer keinen Einfluss.
-
-</details>
-
-</div>
-
-</section>
-
 ## Grundlagenaufgaben zu mechanischen Wellen
 
 1. __Erläuterung Wellenphänomene:__
@@ -761,3 +673,91 @@ c) [[ Interferenz ]]
 
 </p>
 
+
+## Formulieren Sie eine Je-desto-Aussage
+
+<section class="flex-container" style="margin-left:10%">
+
+<div class="flex-child-1" style="min-width: 300px; margin-bottom: -10px">
+
+__Federpendel (Federschwinger):__
+
+1. Beobachten Sie zwei Federpendel mit identischer Federkonstante, aber unterschiedlicher Masse. <br>  <br> __Masse und Periodendauer__ <br>
+
+<details style='margin-left:10%; color:blue'>
+
+<summary> Aussage: </summary>
+
+Je größer die Masse, desto größer ist die Periodendauer.
+
+</details>
+
+---
+
+2. Beobachten Sie zwei Federpendel mit identischer Masse, aber unterschiedlicher Federkonstante. <br>  <br> __Federkonstante und Periodendauer__  
+
+<details style='margin-left:10%; color:blue'>
+
+<summary> Aussage: </summary>
+
+Je größer die Federkonstante, desto kleiner ist die Periodendauer.
+
+</details>
+
+
+---
+
+3. BeobachtenSie zwei Federpendel mit unterschiedlicher Amplitude (Auslenkung zu Beginn). <br>  <br> __Auslenkung und Periodendauer__  
+
+<details style='margin-left:10%; color:blue'>
+
+<summary> Aussage: </summary>
+
+Bei einer kleinen Amplitude hat die Auslenkung hat auf die Periodendauer keinen Einfluss.
+
+</details>
+
+</div>
+
+<div class="flex-child-1" style="min-width: 300px; margin-bottom: -10px">
+
+__Fadenpendel:__
+
+1. Beobachten Sie zwei Fadenpendel mit identischer Länge, aber unterschiedlicher Masse. <br>  <br> __Masse und Periodendauer__ <br> 
+
+<details style='margin-left:10%; color:blue'>
+
+<summary> Aussage: </summary>
+
+Die Masse hat auf die Periodendauer keinen Einfluss.
+
+</details>
+
+
+---
+
+2. Beobachten Sie zwei Fadenpendel mit identischer Masse, aber unterschiedlicher Pendellänge. <br>  <br> __Pendellänge und Periodendauer__  <br> 
+
+<details style='margin-left:10%; color:blue'>
+
+<summary> Aussage: </summary>
+
+Je größer die Pendellänge, desto größer die Periodendauer.
+
+</details>
+
+---
+
+3. BeobachtenSie zwei Fadenpendel mit unterschiedlicher Auslenkung zu Beginn. <br>  <br> __Auslenkung und Periodendauer__  <br> 
+
+<details style='margin-left:10%; color:blue'>
+
+<summary> Aussage: </summary>
+
+Bei einer kleinen Amplitude hat die Auslenkung hat auf die Periodendauer keinen Einfluss.
+
+</details>
+
+</div>
+
+</section>
