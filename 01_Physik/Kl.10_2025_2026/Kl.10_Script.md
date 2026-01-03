@@ -2740,6 +2740,14 @@ __QR-Codes zu den Übungen:__
 
 <div class="flex-child-1" style="min-width: 200px; margin-bottom: -10px">
 
+<details style='margin-left:10%'>
+
+<summary> Aufgaben und Lösungen komplett </summary>
+
+[qr-code](https://liascript.github.io/nightly/?https://raw.githubusercontent.com/wulstbug/Klotzsche2/2025_2026/01_Physik/Kl.10_2025_2026/source/LB2_Übungen_KA_LsgHinweise.md)
+
+</details>
+
 </div>
 
 </section>
