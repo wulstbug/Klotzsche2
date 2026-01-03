@@ -2744,7 +2744,7 @@ __QR-Codes zu den Übungen:__
 
 <summary> Aufgaben und Lösungen komplett </summary>
 
-[qr-code](https://liascript.github.io/nightly/?https://raw.githubusercontent.com/wulstbug/Klotzsche2/2025_2026/01_Physik/Kl.10_2025_2026/source/LB2_Übungen_KA_LsgHinweise.md)
+[qr-code](https://liascript.github.io/nightly/?eyJiYWNrZW5kIjoiUDJQVHx3c3M6Ly90cmFja2VyLm9wZW53ZWJ0b3JyZW50LmNvbSwgd3NzOi8vdHJhY2tlci53ZWJ0b3JyZW50LmRldiwgd3NzOi8vdHJhY2tlci5maWxlcy5mbTo3MDczL2Fubm91bmNlLCB3c3M6Ly90cmFja2VyLm9wZW53ZWJ0b3JyZW50LmNvbTo0NDMvYW5ub3VuY2UiLCJjb3Vyc2UiOiJodHRwczovL3Jhdy5naXRodWJ1c2VyY29udGVudC5jb20vd3Vsc3RidWcvS2xvdHpzY2hlMi8yMDI1XzIwMjYvMDFfUGh5c2lrL0tsLjEwXzIwMjVfMjAyNi9zb3VyY2UvTEIyXyVDMyU5Q2J1bmdlbl9LQV9Mc2dIaW53ZWlzZS5tZCIsInJvb20iOiJLaW5kQnJhdmVMaWZlLUNoYW5naW5nRW1wb3dlcmluZyJ9#1)
 
 </details>
 
