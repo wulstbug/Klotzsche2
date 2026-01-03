@@ -82,7 +82,7 @@ mode: presentation
 
 <p style="margin-left:10%">
 
-![Seilwelle.gif](https://diversewolken.ddns.net/nextcloud/index.php/s/YeoFETY4PgBqTn8/download)Eine Wellenmaschine erzeugt an einem sehr langen, gespannten Seil eine harmonische Querwelle. Die Welle breitet sich mit einer Ausbreitungsgeschwindigkeit von c=12,0m/s aus. Der Abstand zwischen zwei aufeinanderfolgenden Wellenbergen (die Wellenlänge) beträgt λ=3,0m.
+![Seilwelle.gif](https://diversewolken.ddns.net/nextcloud/index.php/s/YeoFETY4PgBqTn8/download)Eine Wellenmaschine erzeugt an einem sehr langen, gespannten Seil eine harmonische Querwelle. Die Welle breitet sich mit einer Ausbreitungsgeschwindigkeit von v=12,0m/s aus. Der Abstand zwischen zwei aufeinanderfolgenden Wellenbergen (die Wellenlänge) beträgt λ=3,0m.
 
 a) Berechnen Sie die Frequenz f der Schwingung, mit der die Wellenmaschine das Seil anregt.
 
@@ -96,13 +96,15 @@ a) Berechnen Sie die Frequenz f der Schwingung, mit der die Wellenmaschine das S
 
 <summary> Lösungweg </summary>
 
-Zwischen der Ausbreitungsgeschwindigkeit c, der Wellenlänge λ und der Frequenz f besteht der grundlegende Zusammenhang der Wellenausbreitungsgleichung. Recherchiere diesen in deinem Hefter.
+Zwischen der Ausbreitungsgeschwindigkeit v, der Wellenlänge λ und der Frequenz f besteht der grundlegende Zusammenhang der Wellenausbreitungsgleichung. Recherchiere diesen in deinem Hefter.
 
 </details>
 
 <details style='color:blue;margin-left:10%'>
 
 <summary> Lösung </summary>
+
+_Hinweis: In dieser Lösung wird für die Geschwindigkeit der Welle der Buchstabe c, statt v verwendet._
 
 ![Uebung_Wellen_Lsg_a](https://diversewolken.ddns.net/nextcloud/index.php/s/JH7YfGMxtE7dYP8/download)
 
