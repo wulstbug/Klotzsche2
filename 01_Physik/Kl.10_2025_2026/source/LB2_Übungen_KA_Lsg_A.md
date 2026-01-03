@@ -72,9 +72,6 @@ mode: presentation
 
 -->
 
-
-# Übungen zur KA
-
 ## A: Grundlagen zum Feder-Schwinger
 
 1. Eine Feder wird von einer Kraft $F$ von $100\mathrm{N}$ um $5\mathrm{cm}$ zusammengedrückt. Ermitteln Sie die Federkonstante $D$.

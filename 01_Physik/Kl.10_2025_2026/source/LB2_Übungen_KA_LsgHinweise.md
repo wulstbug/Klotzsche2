@@ -72,7 +72,6 @@ mode: presentation
 
 -->
 
-
 # Übungen zur KA - Aufgaben mit Lösungshinweisen
 
 ## A: Grundlagen zum Feder-Schwinger

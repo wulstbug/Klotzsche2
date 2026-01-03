@@ -72,9 +72,6 @@ mode: presentation
 
 -->
 
-
-# Übungen zur KA
-
 ## C: Grundlagenaufgaben zu mechanischen Wellen
 
 1. __Erläuterung Wellenphänomene:__

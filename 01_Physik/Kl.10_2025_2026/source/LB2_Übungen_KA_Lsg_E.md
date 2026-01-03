@@ -72,9 +72,6 @@ mode: presentation
 
 -->
 
-
-# Übungen zur KA
-
 ## E: Sachaufgabe zu mechanischen Wellen
 
 __Aufgabe: Mechanische Wellen am Meer__

@@ -72,9 +72,6 @@ mode: presentation
 
 -->
 
-
-# Übungen zur KA
-
 ## D: Sachaufgabe zu Schwingungen an einem PKW
 
 ![Fahrzeugfeder](https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Double_wishbone_suspension.jpg/960px-Double_wishbone_suspension.jpg)<!-- style="max-width:200px"--> Eine Stahlfeder am Vorderrad eines PKWs wird durch eine Masse von $400 \, \text{kg}$ um $10 \, \text{cm}$ zusammengedrückt und dann losgelassen. Die Feder beginnt nach Anregung mit der Eigenfrequenz zu schwingen. 
