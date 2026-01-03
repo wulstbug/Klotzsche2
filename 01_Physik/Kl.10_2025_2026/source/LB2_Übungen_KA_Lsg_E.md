@@ -76,7 +76,7 @@ mode: presentation
 
 __Aufgabe: Mechanische Wellen am Meer__
 
-An einem Sommertag beobachtest du von einer Seebrücke aus die ankommenden Wasserwellen. Eine im Wasser stehender, am Boden fest verankerter Holzpfahl dient dir als Orientierungshilfe, um die Eigenschaften der Wellen zu bestimmen.
+![Buhlen](https://www.ostfriesland-nordsee.com/wp-content/uploads/2025/02/Buhnen-Kuestenschutz-960x560.jpg) An einem Sommertag beobachtest du von einer Seebrücke aus die ankommenden Wasserwellen. Eine im Wasser stehender, am Boden fest verankerter Holzpfahl dient dir als Orientierungshilfe, um die Eigenschaften der Wellen zu bestimmen.
 
 
 ---
