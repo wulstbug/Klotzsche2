@@ -682,7 +682,7 @@ b)
 
 __Endergebnis Wellenlänge:__
 
-@rangeQuiz2($\lambda$,2.086e-13,m)
+@rangeQuiz2($\lambda$,6.41e-14,m)
 
 </p>
 
@@ -694,7 +694,7 @@ Für die kinetische Energie $E_{kin}=\frac{1}{2}\cdot m \cdot v^2$ ermittelt wer
 
 __Zwischenergebnis Elektronengeschwindigkeit:__
 
-@rangeQuiz2($v$,1.902e6,$\mathrm{\frac{m}{s}}$)
+@rangeQuiz2($v$,6.19e6,$\mathrm{\frac{m}{s}}$)
 
 </details>
 
@@ -702,9 +702,9 @@ __Zwischenergebnis Elektronengeschwindigkeit:__
 
 <summary> Lösung </summary>
 
-$ v = \sqrt{\frac{2\cdot E_{kin}}{v^2}} = 1,902 \cdot 10^{6}\mathrm{\frac{m}{s}}$
+$ v = \sqrt{\frac{2\cdot E_{kin}}{m_p}} = 6.19 \cdot 10^{6}\mathrm{\frac{m}{s}}$
 
-$\lambda = \frac{h}{m_p\cdot v} = 2,09 \cdot 10^{-13}\,\mathrm{m}$
+$\lambda = \frac{h}{m_p\cdot v} = 6,41 \cdot 10^{-13}\,\mathrm{m}$
 
 </details>
 

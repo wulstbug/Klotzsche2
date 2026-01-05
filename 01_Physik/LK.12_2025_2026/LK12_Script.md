@@ -6582,37 +6582,27 @@ __Grundannahmen:__
 
 <div class="flex-child-1" style="min-width: 300px; margin-bottom: -10px">
 
-1. Das Elektron bewegt sich auf einer kreisförmigen Bahn um den Kern. Auf dieser Bahn ist das Elektron eine __Stehende Welle__ mit dem Umfang @color(gleich einem ganzzahligen Vielfachen der Wellenlänge, red):
+1. Das Elektron bewegt sich auf einer kreisförmigen Bahn um den Kern. Auf dieser Bahn ist das Elektron eine __Stehende Welle__ mit dem Umfang @color(gleich einem ganzzahligen Vielfachen der Wellenlänge, red): <br> $$ u = n \cdot \lambda $$ <br> u .. Umfang der Kreisbahn mit dem Radius r <br> n .. Natürliche Zahl <br> $ \lambda $ .. de-Broglie Wellenlänge
+
+
 
 </div>
 
 <div class="flex-child-1" style="min-width: 300px; margin-bottom: -10px">
 
-2. Auf der Kreisbahn gilt @color(Radialkraft = elektrische Kraft, red)
+2. Auf der Kreisbahn gilt @color(Radialkraft = elektrische Kraft, red) <br> $$ F_r = F_{el} $$ <br> $F_r$ .. Radialkraft der Kreisbewegung <br> $F_{el}$ .. elektrische Anziehungskraft zwischen Kern und Elektron
 
 </div>
 
 </section>
 
-<section class="flex-container">
-
-<div class="flex-child-1" style="min-width: 300px; margin-bottom: -10px; margin-left:10%">
-
-$$ u = n \cdot \lambda $$ <br> u .. Umfang der Kreisbahn mit dem Radius r <br> n .. Natürliche Zahl <br> $ \lambda $ .. de-Broglie Wellenlänge
-
-</div>
-
-<div class="flex-child-1" style="min-width: 300px; margin-bottom: -10px; margin-left:10%">
-
-$$ F_r = F_{el} $$ <br> $F_r$ .. Radialkraft der Kreisbewegung <br> $F_{el}$ .. elektrische Anziehungskraft zwischen Kern und Elektron
-
-</div>
-
-</section>
+---
 
 __Umstellen:__
 
-3. Setzt 
+3. Setzt man für die Wellenlänge die Formel der de-Broglie Wellenlänge ein und eliminiert in den beiden Gleichungen die Geschwindigkeit des Elektrons, so ergibt sich für den Radius der Elektronenbahn an einem Wasserstoff-Atom.
+
+
 
 ### Übungsaufgabe - Anregung von Wasserstoff
 
