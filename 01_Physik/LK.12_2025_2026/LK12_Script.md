@@ -6573,7 +6573,8 @@ _Paschen-Serie_
 </section>
 
 </p>
-## Zusammenfassung: Energieniveaus am Wasserstoffatom
+
+## 12. 4. Zusammenfassung: Energieniveaus am Wasserstoffatom
 
 __Grundannahmen:__
 
@@ -6597,15 +6598,47 @@ __Grundannahmen:__
 
 ---
 
-__Umstellen:__
+__Ergebnis (Bahnradien):__
 
-3. Setzt man für die Wellenlänge die Formel der de-Broglie Wellenlänge ein und eliminiert in den beiden Gleichungen die Geschwindigkeit des Elektrons, so ergibt sich für den n-ten Radius der Elektronenbahn an einem Wasserstoff-Atom. <br> $$ r_n = \dfrac{h^2\cdot \varepsilon_0}{\pi\cdot m_e \cdot e^2} \cdot n^2$$ <br> @color(Die Zahl $n$ wird __Hauptquantenzahl__ des Elektronenniveaus genannt, red).
+<section class="flex-container">
+
+<div class="flex-child-3" style="min-width: 400px; margin-bottom: -10px">
+
+3. Setzt man für die Wellenlänge die Formel der de-Broglie Wellenlänge ein und eliminiert in den beiden Gleichungen die Geschwindigkeit des Elektrons, so ergibt sich für den n-ten Radius der Elektronenbahn an einem Wasserstoff-Atom. <br> $$ r_n = \dfrac{h^2\cdot \varepsilon_0}{\pi\cdot m_e \cdot e^2} \cdot n^2$$ <br> @color(Die Zahl $n$ wird __Hauptquantenzahl__ des Elektronenniveaus genannt. Die Niveaus erhalten Großbuchstaben K L M usw., red).
+
+</div>
+
+<div class="flex-child-1" style="min-width: 200px; margin-bottom: -10px">
+
+![Energieniveaus_1](https://diversewolken.ddns.net/nextcloud/index.php/s/64ZHS9DQsBwXjWt/download)<!--style="max-width:200px" -->
+
+</div>
+
+</section>
+
+
 
 ---
 
 __Schlussfolgerung:__
 
+<section class="flex-container">
+
+<div class="flex-child-3" style="min-width: 400px; margin-bottom: -10px">
+
+
 4. Für die Elektronen sind nur __bestimmte__ Bahnradien zulässig. Für die zugehörigen Energieniveaus ($E_n$ der n-ten Elektronenbahn) ergibt sich die Rydberg-Formel <br> $$E_n = R_y \cdot \dfrac{1}{n^2} $$ <br> $R_y = -13,6 \, \mathrm{eV}$ .. Rydberg-Konstante <br> <br> __Hinweis:__ Da das Elektron __gebunden__ ist, ist seine Energie kleiner als Null. Man muss dem Elektron Energie hinzufügen, damit es ein freies Elektron wird.
+
+</div>
+
+<div class="flex-child-1" style="min-width: 200px; margin-bottom: -10px">
+
+![Energieniveaus_Schema](https://diversewolken.ddns.net/nextcloud/index.php/s/EwLKnmbiDaxngZw/download)<!--style="max-width:200px" -->
+
+</div>
+
+</section>
+
 
 ---
 
@@ -6615,15 +6648,49 @@ __Elektronenübergänge:__
 
 <section class="flex-container">
 
-<div class="flex-child-1" style="min-width: 300px; margin-bottom: -10px; margin-left:10%">
+<div class="flex-child-1" style="min-width: 300px; margin-bottom: -10px; margin:5%">
 
-so wird __Energie in Form eines Photons__ abgegeben, wenn <br> $$m > n$$ <br> und die Energie des emittierten Photons beträgt <br> $$ E_{ph} = E_m - E_n $$ <br> $$ E_{ph} = R_y \cdot \Big( \frac{1}{m^2} - \frac{1}{n^2} \Big) $$ <br> __Hinweis:__ Da $R_y=-13,6\,\mathrm{eV}$ ist die Photonenenergie positiv, wenn $m>n$.
+<section class="flex-container">
+
+so wird __Energie in Form eines Photons__ abgegeben, wenn
+
+<div class="flex-child-3" style="min-width: 200px; margin-bottom: -10px">
+
+$$m > n$$ <br> und die Energie des emittierten Photons beträgt <br> $$ E_{ph} = E_m - E_n $$ <br> $$ E_{ph} = R_y \cdot \Big( \frac{1}{m^2} - \frac{1}{n^2} \Big) $$ <br> __Hinweis:__ Da $R_y=-13,6\,\mathrm{eV}$ ist die Photonenenergie positiv, wenn $m>n$.
 
 </div>
 
-<div class="flex-child-1" style="min-width: 300px; margin-bottom: -10px; margin-left:10%">
+<div class="flex-child-1" style="min-width: 100px; margin-bottom: -10px; margin-left:5%">
 
-muss dem __Elektron Energie zugefügt werden__, wenn <br> $$m < n$$ $$ E_{zu} = E_m - E_n $$ <br> $$ E_{zu} = R_y \cdot \Big( \frac{1}{m^2} - \frac{1}{n^2} \Big) $$ <br> Wenn $m<n$ so ist $E_{zu}<0$.
+![Energieniveaus_3](https://diversewolken.ddns.net/nextcloud/index.php/s/2ddwzeY98TGL5YJ/download)<!--style="max-width:150px" -->
+
+</div>
+
+</section>
+
+
+</div>
+
+<div class="flex-child-1" style="min-width: 300px; margin-bottom: -10px; margin:5%">
+
+<section class="flex-container">
+
+muss dem __Elektron Energie zugefügt werden__, wenn 
+
+<div class="flex-child-3" style="min-width: 200px; margin-left:5%">
+
+$$m < n$$ $$ E_{zu} = E_m - E_n $$ <br> $$ E_{zu} = R_y \cdot \Big( \frac{1}{m^2} - \frac{1}{n^2} \Big) $$ <br> <br> Die zugeführte Energie ist $E_{zu}<0$.
+
+</div>
+
+<div class="flex-child-1" style="min-width: 100px">
+
+![Energieniveaus_2](https://diversewolken.ddns.net/nextcloud/index.php/s/SbxPBHqsgLacLSK/download)<!--style="max-width:150px" -->
+
+</div>
+
+</section>
+
 
 </div>
 
