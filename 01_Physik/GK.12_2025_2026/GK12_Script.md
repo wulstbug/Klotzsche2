@@ -3455,7 +3455,7 @@ a)
 
 __In der Einheit Elektronenvolt:__
 
-@rangeQuiz2($E_{kin}$,200.000,eV)
+@rangeQuiz2($E_{kin}$,200000,eV)
 
 __In der Einheit Joule:__
 
@@ -3475,9 +3475,9 @@ Die kinetische Energie, die das Proton erhält, kann mit der Formel $E_{kin}=U\c
 
 <summary> Lösung </summary>
 
-$E_{kin}= 200.000\,\mathrm{V} \cdot e = 200.000\,\mathrm{eV}$
+$E_{kin}= 200000\,\mathrm{V} \cdot e = 200000\,\mathrm{eV}$
 
-$E_{kin}= 200.000\,\mathrm{V} \cdot 1,602\cdot10^{-19}C = 3,2\cdot10^{-14}\,\mathrm{J}$
+$E_{kin}= 200000\,\mathrm{V} \cdot 1,602\cdot10^{-19}C = 3,2\cdot10^{-14}\,\mathrm{J}$
 
 </details>
 

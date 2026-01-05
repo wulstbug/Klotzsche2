@@ -650,7 +650,7 @@ a)
 
 __In der Einheit Elektronenvolt:__
 
-@rangeQuiz2($E_{kin}$,200.000,eV)
+@rangeQuiz2($E_{kin}$,200000,eV)
 
 __In der Einheit Joule:__
 
@@ -678,10 +678,7 @@ $E_{kin}= 200.000\,\mathrm{V} \cdot 1,602\cdot10^{-19}C = 3,2\cdot10^{-14}\,\mat
 
 b)
 
-
 <p style='margin-left:10%'>
-
-
 
 __Endergebnis Wellenlänge:__
 
