@@ -6574,6 +6574,29 @@ _Paschen-Serie_
 
 </p>
 
+## Zusammenfassung: Energieniveaus am Wasserstoffatom
+
+__Grundannahmen:__
+
+<section class="flex-container">
+
+<div class="flex-child-1" style="min-width: 300px; margin-bottom: -10px">
+
+1. Das Elektron bewegt sich auf einer kreisförmigen Bahn um den Kern. Auf dieser Bahn ist das Elektron eine __Stehende Welle__, d.h. 
+
+$$ u = n \cdot \lambda $$
+
+</div>
+
+<div class="flex-child-1" style="min-width: 300px; margin-bottom: -10px">
+
+
+
+</div>
+
+</section>
+
+
 ### Übungsaufgabe - Anregung von Wasserstoff
 
 __Physik der Atomhülle: Anregung von Wasserstoff durch Elektronenstoß__
