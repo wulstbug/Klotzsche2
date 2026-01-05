@@ -125,7 +125,7 @@ $$D = \frac{100 \, \text{N}}{0,05 \, \text{m}} = \mathbf{2000 \, \frac{N}{m}}$$
 
 Die Frequenz $f$ einer harmonischen Schwingung an einer Feder wird durch die Federkonstante $D$ und die schwingende Masse $m$ bestimmt. Die Grundlage bildet die Formel für die Eigenfrequenz eines Federpendels:
 
-$f = \frac{1}{2\pi} \cdot \sqrt{\frac{D}{m}}$
+$f = \frac{1}{T} = \frac{1}{2\pi} \cdot \sqrt{\frac{D}{m}}$
 
 Setzen Sie die gegebenen Werte ($D = 2000 \, \frac{\text{N}}{\text{m}}$ und $m = 10 \, \text{kg}$) in die Gleichung ein.
 
