@@ -6573,7 +6573,6 @@ _Paschen-Serie_
 </section>
 
 </p>
-
 ## Zusammenfassung: Energieniveaus am Wasserstoffatom
 
 __Grundannahmen:__
@@ -6600,8 +6599,33 @@ __Grundannahmen:__
 
 __Umstellen:__
 
-3. Setzt man für die Wellenlänge die Formel der de-Broglie Wellenlänge ein und eliminiert in den beiden Gleichungen die Geschwindigkeit des Elektrons, so ergibt sich für den Radius der Elektronenbahn an einem Wasserstoff-Atom.
+3. Setzt man für die Wellenlänge die Formel der de-Broglie Wellenlänge ein und eliminiert in den beiden Gleichungen die Geschwindigkeit des Elektrons, so ergibt sich für den n-ten Radius der Elektronenbahn an einem Wasserstoff-Atom. <br> $$ r_n = \dfrac{h^2\cdot \varepsilon_0}{\pi\cdot m_e \cdot e^2} \cdot n^2$$ <br> @color(Die Zahl $n$ wird Hauptquantenzahl des Elektronenniveaus genannt, red).
 
+---
+
+__Schlussfolgerung:__
+
+4. Für die Elektronen sind nur bestimmte Bahnradien zulässig. Für die zugehörigen Energieniveaus ($E_n$ der n-ten Elektronenbahn) ergibt sich die Rydberg-Formel <br> $$E_n = R_y \cdot \dfrac{1}{n^2} $$ <br> $R_y = -13,6 \, \mathrm{eV}$ .. Rydberg-Konstante <br> __Hinweis:__ Da das Elektron __gebunden__ ist, ist seine Energie kleiner als Null. Man muss dem Elektron Energie hinzufügen, damit es ein freies Elektron wird.
+
+__Elektronenübergänge:__
+
+5. Wechselt ein Elektron von einer **Elektronen-Bahn $m$ auf die Bahn $n$** 
+
+<section class="flex-container">
+
+<div class="flex-child-1" style="min-width: 300px; margin-bottom: -10px; margin-left:10%">
+
+so wird __Energie in Form eines Photons__ abgegeben, wenn <br> $$m > n$$ <br> und die Energie des emittierten Photons beträgt <br> $$ E_{ph} = E_m - E_n $$ <br> $$ E_{ph} = R_y \cdot \Big( \frac{1}{m^2} - \frac{1}{n^2} \Big) $$ <br> __Hinweis:__ Da $R_y=-13,6\,\mathrm{eV}$ ist die Photonenenergie positiv, wenn $m>n$.
+
+</div>
+
+<div class="flex-child-1" style="min-width: 300px; margin-bottom: -10px">
+
+muss dem __Elektron Energie zugefügt werden__, wenn <br> $$m < n$$ $$ E_{zu} = E_m - E_n $$ <br> $$ E_{zu} = R_y \cdot \Big( \frac{1}{m^2} - \frac{1}{n^2} \Big) $$ <br> Wenn $m<n$ so ist $E_{zu}<0$.
+
+</div>
+
+</section>
 
 
 ### Übungsaufgabe - Anregung von Wasserstoff
