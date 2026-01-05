@@ -3414,9 +3414,10 @@ Für das Doppelspaltexperiment mit Elektronen (Experiment von Jönsson 1957) erg
 ![Schema-Doppelspalt](https://diversewolken.ddns.net/nextcloud/index.php/s/F7g83jD4FLA9eZW/download)
 *******
 
+
 ### Aufgaben zum Welle-Teilchen-Dualismus
 
-1. LB S. 66 Aufgabe 3
+1. ![LB S.66 Aufgabe 4](https://diversewolken.ddns.net/nextcloud/index.php/s/i2afaYAZ3qGGHNa/download)
 
 <p style="margin-left:10%">
 
@@ -3444,7 +3445,7 @@ b)
 
 ---
 
-2. LB S. 67 Aufgabe 13
+2. ![LB S.67 Aaufgabe 13](https://diversewolken.ddns.net/nextcloud/index.php/s/dM8dxnfXqzx9Xro/download)
 
 <p style="margin-left:10%">
 
@@ -3520,6 +3521,6 @@ $\lambda = \frac{h}{m_p\cdot v} = 2,09 \cdot 10^{-13}\,\mathrm{m}$
 
 ---
 
-3) 4. [Bitte anklicken: Verständnisfragen-Photoeffekt-KI-Gestützt](http://10.102.1.3:3001/?q=Heute%20wurde%20die%20de%20Broglie%20Wellenl%C3%A4nge%20von%20Elektronen%20am%20Beispiel%20des%20Beugungsmusters%20von%20Elektronen%20an%20einem%20Doppelspalt%20erkl%C3%A4rt.%20Dabei%20sind%20sowohl%20einzelne%20Auftreffpunkte%20der%20Elektronen%20sichtbar,%20als%20auch%20ein%20Streifenmuster,%20wenn%20man%20eine%20h%C3%B6here%20Zahl%20an%20Elektronen%20beobachtet.%20Stelle%20mir%20drei%20Verst%C3%A4ndnisfragen%20zum%20Welle%20Teilchendualismus%20am%20Beispiel%20der%20Elektronenbeugung%20am%20Doppelspalt.%20Stelle%20mir%20die%20Fragen%20eine%20nach%20der%20anderen%20und%20warte%20auf%20meine%20Antwort.%20Bewerte%20meine%20Antworten%20jeweils%20auf%20einer%20Skala%20von%200%20bis%2010.%20Gib%20mir%20die%20M%C3%B6glichkeit%20meine%20Antwort%20zu%20verbessern%20oder%20zur%20n%C3%A4chsten%20Frage%20zu%20wechseln.%20Das%20Niveau%20ist%20dabei%20Grundkurs%20Physik.)
+3. [Bitte anklicken: Verständnisfragen-Photoeffekt-KI-Gestützt](http://10.102.1.3:3001/?q=Heute%20wurde%20die%20de%20Broglie%20Wellenl%C3%A4nge%20von%20Elektronen%20am%20Beispiel%20des%20Beugungsmusters%20von%20Elektronen%20an%20einem%20Doppelspalt%20erkl%C3%A4rt.%20Dabei%20sind%20sowohl%20einzelne%20Auftreffpunkte%20der%20Elektronen%20sichtbar,%20als%20auch%20ein%20Streifenmuster,%20wenn%20man%20eine%20h%C3%B6here%20Zahl%20an%20Elektronen%20beobachtet.%20Stelle%20mir%20drei%20Verst%C3%A4ndnisfragen%20zum%20Welle%20Teilchendualismus%20am%20Beispiel%20der%20Elektronenbeugung%20am%20Doppelspalt.%20Stelle%20mir%20die%20Fragen%20eine%20nach%20der%20anderen%20und%20warte%20auf%20meine%20Antwort.%20Bewerte%20meine%20Antworten%20jeweils%20auf%20einer%20Skala%20von%200%20bis%2010.%20Gib%20mir%20die%20M%C3%B6glichkeit%20meine%20Antwort%20zu%20verbessern%20oder%20zur%20n%C3%A4chsten%20Frage%20zu%20wechseln.%20Das%20Niveau%20ist%20dabei%20Grundkurs%20Physik.)
 
-4) LB S. 67 Aufgabe 14
+4. ![LB S. 67 Aufgabe 14](https://diversewolken.ddns.net/nextcloud/index.php/s/TdRPmigwdPg6y9j/download)
