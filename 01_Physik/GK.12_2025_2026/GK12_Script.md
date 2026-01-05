@@ -3416,30 +3416,108 @@ Für das Doppelspaltexperiment mit Elektronen (Experiment von Jönsson 1957) erg
 
 ### Aufgaben zum Welle-Teilchen-Dualismus
 
-1. Duden S. 469 Aufgabe 2
+1. LB S. 66 Aufgabe 3
 
-<p style='margin-left:10%'>
+<p style="margin-left:10%">
 
-@rangeQuiz2(N,5,.)
+a)
+
+- [[ ]] Es treten keine Elektronen aus dem Metall aus 
+- [[ ]] Es treten weniger Elektronen aus dem Metall aus 
+- [[ ]] Es treten ungefähr genauso viele Elektronen aus dem Metall aus
+- [[x]] Es treten mehr Elektronen aus dem Metall aus
+- [[ ]] Die maximale kinetische Energie der Elektronen sinkt 
+- [[x]] Die maximale kinetische Energie der Elektronen bleibt gleich
+- [[ ]] Die maximale kinetische Energie der Elektronen steigt
+
+b)
+
+- [[ ]] Es treten keine Elektronen aus dem Metall aus 
+- [[ ]] Es treten weniger Elektronen aus dem Metall aus 
+- [[x]] Es treten ungefähr genauso viele Elektronen aus dem Metall aus
+- [[ ]] Es treten mehr Elektronen aus dem Metall aus
+- [[ ]] Die maximale kinetische Energie der Elektronen sinkt 
+- [[ ]] Die maximale kinetische Energie der Elektronen bleibt gleich
+- [[x]] Die maximale kinetische Energie der Elektronen steigt
 
 </p>
 
 ---
 
-2. Duden S. 469 Aufgabe 4
+2. LB S. 67 Aufgabe 13
+
+<p style="margin-left:10%">
+
+a)
+
+<p style='margin-left:10%'>
+
+__In der Einheit Elektronenvolt:__
+
+@rangeQuiz2($E_{kin}$,200.000,eV)
+
+__In der Einheit Joule:__
+
+@rangeQuiz2($E_{kin}$,3.2e-14,J)
+
+</p>
+
+<details style='margin-left:10%'>
+
+<summary> Lösungsweg </summary>
+
+Die kinetische Energie, die das Proton erhält, kann mit der Formel $E_{kin}=U\cdot q$ ermittelt werden.
+
+</details>
+
+<details style='margin-left:10%'>
+
+<summary> Lösung </summary>
+
+$E_{kin}= 200.000\,\mathrm{V} \cdot e = 200.000\,\mathrm{eV}$
+
+$E_{kin}= 200.000\,\mathrm{V} \cdot 1,602\cdot10^{-19}C = 3,2\cdot10^{-14}\,\mathrm{J}$
+
+</details>
+
+b)
+
+
+<p style='margin-left:10%'>
+
+
+
+__Endergebnis Wellenlänge:__
+
+@rangeQuiz2($\lambda$,2.086e-13,m)
+
+</p>
+
+<details style='margin-left:10%'>
+
+<summary> Lösungsweg </summary>
+
+Für die kinetische Energie $E_{kin}=\frac{1}{2}\cdot m \cdot v^2$ ermittelt werden. Die de-Broglie Wellenlänge wird dann mit der Geschwindigkeit und der Protonenmasse ermittelt.
+
+__Zwischenergebnis Elektronengeschwindigkeit:__
+
+@rangeQuiz2($v$,1.902e6,$\mathrm{\frac{m}{s}}$)
+
+</details>
+
+<details style='margin-left:10%'>
+
+<summary> Lösung </summary>
+
+$ v = \sqrt{\frac{2\cdot E_{kin}}{v^2}} = 1,902 \cdot 10^{6}\mathrm{\frac{m}{s}}$
+
+$\lambda = \frac{h}{m_p\cdot v} = 2,09 \cdot 10^{-13}\,\mathrm{m}$
+
+</details>
+
+
+</p>
 
 ---
 
-3. Duden S. 471 Aufgabe 19
-
----
-
-4. Duden S. 471 Aufgabe 21
-
----
-
-5. Duden S. 472 Aufgabe 22
-
----
-
-[AlleLösungen](https://diversewolken.ddns.net/nextcloud/index.php/s/MHP5NyL6LCajTay)
+3) LB S. 67 Aufgabe 14
