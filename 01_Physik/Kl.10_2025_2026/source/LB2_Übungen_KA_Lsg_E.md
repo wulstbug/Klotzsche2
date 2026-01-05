@@ -153,7 +153,7 @@ Berechne die Ausbreitungsgeschwindigkeit v dieser Wasserwellen unter Verwendung 
 
 <p style='color:blue;margin-left:10%'>
 
-@rangeQuiz2($v$,2.0,$\mathrm{\frac{m}{s}}$)
+@rangeQuiz2($v$,0.2,$\mathrm{\frac{m}{s}}$)
 
 </p>
 
@@ -169,15 +169,15 @@ Zwischen der Ausbreitungsgeschwindigkeit c, der Wellenlänge λ und der Frequenz
 
 <summary> Lösung </summary>
 
-__Gegeben:__ λ=8,0m, f=0,25Hz
+__Gegeben:__ λ=0,8m, f=0,25Hz
 
 __Gesucht:__ v
 
 __Lösung:__ 
 
-$$ v =λ \cdot f = 0,8\mathrm{m}\cdot2\,\mathrm{Hz} $$
+$$ v =λ \cdot f = 0,8\mathrm{m}\cdot 2\,\mathrm{Hz} $$
 
-Die Ausbreitungsgeschwindigkeit der Wellen beträgt 2,0 m/s.
+Die Ausbreitungsgeschwindigkeit der Wellen beträgt 0,2 m/s.
 
 </details>
 
@@ -189,7 +189,7 @@ Unter deinem Steg verändert sich die Tiefe des Wassers schlagartig und dadurch 
 
 <p style='margin-left:10%'>
 
-@rangeQuiz2($\lambda_{neu}$, 12.0 , $\mathrm{m}$ )
+@rangeQuiz2($\lambda_{neu}$, 1.2 , $\mathrm{m}$ )
 
 </p>
 
@@ -201,7 +201,7 @@ Ermittle erst die neue Wellengeschwindigkeit.
 
 <p style='margin-left:10%'>
 
-@rangeQuiz2($v_{neu}$,3.0, $\mathrm{\frac{m}{s}}$)
+@rangeQuiz2($v_{neu}$,0.3, $\mathrm{\frac{m}{s}}$)
 
 </p>
 
@@ -213,18 +213,15 @@ Nutze die Formel für die Wellenausbreitung um auf die neue Wellenlänge zu schl
 
 <summary> Lösung </summary>
 
-__Gegeben:__ $v_{neu} = 3.0 \,\mathrm{\frac{m}{s}}$, $f=0,25\,\mathrm{Hz}$
+__Gegeben:__ $v_{neu} = 0.3 \,\mathrm{\frac{m}{s}}$, $f=0,25\,\mathrm{Hz}$
 
 __Gesucht:__ $\lambda_{neu}$
 
 __Lösung:__ $$ v_{neu} = \lambda_{neu} \cdot f  $$
 
-$$ \lambda_{neu} = \frac{v_{neu}}{f} = 12 \,\mathrm{m}$$
-
-
+$$ \lambda_{neu} = \frac{v_{neu}}{f} = 1.2 \,\mathrm{m}$$
 
 </details>
-
 
 ---
 

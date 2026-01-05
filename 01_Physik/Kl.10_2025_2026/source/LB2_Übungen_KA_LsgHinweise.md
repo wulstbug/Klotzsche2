@@ -351,13 +351,13 @@ Erstelle zwei Pfosten als kleine Rechtecke. Zeichne dann eine Welle dazwischen d
 
 ---
 
-__c) Berechnung der Ausbreitungsgeschwindigkeit__
+__Teilaufgabe c) Berechnung der Ausbreitungsgeschwindigkeit__
 
-Berechne die Ausbreitungsgeschwindigkeit v dieser Wasserwellen unter Verwendung der Frequenz aus a).
+Berechne die Ausbreitungsgeschwindigkeit v dieser Wasserwellen unter Verwendung der Frequenz aus Teilaufgabe a).
 
 <p style='color:blue;margin-left:10%'>
 
-@rangeQuiz2($v$,2.0,$\mathrm{\frac{m}{s}}$)
+@rangeQuiz2($v$,0.2,$\mathrm{\frac{m}{s}}$)
 
 </p>
 
@@ -372,13 +372,13 @@ Zwischen der Ausbreitungsgeschwindigkeit c, der Wellenlänge λ und der Frequenz
 
 ---
 
-__d) Veränderung der Wellenlänge__
+__Teilaufgabe d) Veränderung der Wellenlänge__
 
 Unter deinem Steg verändert sich die Tiefe des Wassers schlagartig und dadurch wird die Geschwindigkeit der Welle um 50% erhöht, während die Frequenz konstant bleibt. Ermittle die neue Wellenlänge $\lambda_{neu}$
 
 <p style='margin-left:10%'>
 
-@rangeQuiz2($\lambda_{neu}$, 12.0 , $\mathrm{m}$ )
+@rangeQuiz2($\lambda_{neu}$, 1.2 , $\mathrm{m}$ )
 
 </p>
 
@@ -390,11 +390,25 @@ Ermittle erst die neue Wellengeschwindigkeit.
 
 <p style='margin-left:10%'>
 
-@rangeQuiz2($v_{neu}$,3.0, $\mathrm{\frac{m}{s}}$)
+@rangeQuiz2($v_{neu}$,0.3, $\mathrm{\frac{m}{s}}$)
 
 </p>
 
 Nutze die Formel für die Wellenausbreitung um auf die neue Wellenlänge zu schließen.
+
+</details>
+
+<details style='color:blue;margin-left:10%'>
+
+<summary> Lösung </summary>
+
+__Gegeben:__ $v_{neu} = 0.3 \,\mathrm{\frac{m}{s}}$, $f=0,25\,\mathrm{Hz}$
+
+__Gesucht:__ $\lambda_{neu}$
+
+__Lösung:__ $$ v_{neu} = \lambda_{neu} \cdot f  $$
+
+$$ \lambda_{neu} = \frac{v_{neu}}{f} = 1.2 \,\mathrm{m}$$
 
 </details>
 
