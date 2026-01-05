@@ -329,17 +329,25 @@ Die Frequenz f gibt an, wie viele Wellenberge pro Sekunde einen festen Punkt pas
 
 ---
 
-__b) Berechnung der Wellenlänge__
+__Teilaufgabe b) Berechnung der Wellenlänge__
 
-In Ausbreitungsrichtung der Wellen stehen mehrere Pfosten im Wasser. Diese Pfosten haben einen Abstand von 10 m. Du machst mit deinem Handy ein Foto zum richtigen Zeitpunkt und stellst fest, dass an jedem Pfosten ein Wellenberg ist. Zwischen den Pfosten befinden sich 7 weitere Wellenberge.
+In Ausbreitungsrichtung der Wellen stehen mehrere Pfosten im Wasser. Diese Pfosten haben einen Abstand von 3,2 m. Du machst mit deinem Handy ein Foto zum richtigen Zeitpunkt und stellst fest, dass an jedem Pfosten ein Wellenberg ist. Zwischen den Pfosten befinden sich 3 weitere Wellenberge.
 
-Skizziere eine seitliche Ansicht der Wellen und ergänze mindestens zwei Pfosten. Ermittle die Wellenlänge der Welle.
+Skizziere eine seitliche Ansicht der Wellen und ergänze mindestens zwei Pfosten. Markiere in deiner Zeichnung die Wellenlänge. Ermittle die Wellenlänge der Welle.
 
 <p style='color:blue;margin-left:10%'>
 
 @rangeQuiz2($\lambda$,0.8,$\mathrm{m}$)
 
 </p>
+
+<details style='color:blue;margin-left:10%'>
+
+<summary> Lösungshinweis </summary>
+
+Erstelle zwei Pfosten als kleine Rechtecke. Zeichne dann eine Welle dazwischen die an jedem Pfosten einen Wellenberg hat und zwischen den Pfosten noch drei weitere Wellenberge.
+
+</details>
 
 ---
 

@@ -117,15 +117,33 @@ Die Frequenz der Wasserwellen beträgt 0,25Hz.
 
 __Teilaufgabe b) Berechnung der Wellenlänge__
 
-In Ausbreitungsrichtung der Wellen stehen mehrere Pfosten im Wasser. Diese Pfosten haben einen Abstand von 10 m. Du machst mit deinem Handy ein Foto zum richtigen Zeitpunkt und stellst fest, dass an jedem Pfosten ein Wellenberg ist. Zwischen den Pfosten befinden sich 7 weitere Wellenberge.
+In Ausbreitungsrichtung der Wellen stehen mehrere Pfosten im Wasser. Diese Pfosten haben einen Abstand von 3,2 m. Du machst mit deinem Handy ein Foto zum richtigen Zeitpunkt und stellst fest, dass an jedem Pfosten ein Wellenberg ist. Zwischen den Pfosten befinden sich 3 weitere Wellenberge.
 
-Skizziere eine seitliche Ansicht der Wellen und ergänze mindestens zwei Pfosten. Ermittle die Wellenlänge der Welle.
+Skizziere eine seitliche Ansicht der Wellen und ergänze mindestens zwei Pfosten. Markiere in deiner Zeichnung die Wellenlänge. Ermittle die Wellenlänge der Welle.
 
 <p style='color:blue;margin-left:10%'>
 
 @rangeQuiz2($\lambda$,0.8,$\mathrm{m}$)
 
 </p>
+
+<details style='color:blue;margin-left:10%'>
+
+<summary> Lösungshinweis </summary>
+
+Erstelle zwei Pfosten als kleine Rechtecke. Zeichne dann eine Welle dazwischen die an jedem Pfosten einen Wellenberg hat und zwischen den Pfosten noch drei weitere Wellenberge.
+
+</details>
+
+<details style='color:blue;margin-left:10%'>
+
+<summary> Lösung </summary>
+
+![Lsg_Wellen_0.8m](https://diversewolken.ddns.net/nextcloud/index.php/s/RHH6SYY8gfDMsNE/download)
+
+Wie im Bild zu erkennen ist, befinden sich insgesamt 4 Wellenzüge (Wellenlängen) zwischen den Pfosten. Die Wellenlänge muss daher 3,2m/4=0,8 m sein.
+
+</details>
 
 ---
 
