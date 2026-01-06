@@ -6576,6 +6576,8 @@ _Paschen-Serie_
 
 ## 12. 4. Zusammenfassung: Energieniveaus am Wasserstoffatom
 
+{{1}}
+*************
 __Grundannahmen:__
 
 <section class="flex-container">
@@ -6588,14 +6590,20 @@ __Grundannahmen:__
 
 </div>
 
+{{2}}
+*************
 <div class="flex-child-1" style="min-width: 300px; margin-bottom: -10px">
 
 2. Auf der Kreisbahn gilt @color(Radialkraft = elektrische Kraft, red) <br> $$ F_r = F_{el} $$ <br> $F_r$ .. Radialkraft der Kreisbewegung <br> $F_{el}$ .. elektrische Anziehungskraft zwischen Kern und Elektron
 
 </div>
-
+*************
 </section>
+*************
 
+
+{{3}}
+*************
 ---
 
 __Ergebnis (Bahnradien):__
@@ -6617,7 +6625,10 @@ __Ergebnis (Bahnradien):__
 </section>
 
 
+*************
 
+{{4}}
+*************
 ---
 
 __Schlussfolgerung:__
@@ -6639,7 +6650,10 @@ __Schlussfolgerung:__
 
 </section>
 
+*************
 
+{{5}}
+*************
 ---
 
 __Elektronenübergänge:__
@@ -6695,7 +6709,7 @@ $$m < n$$ $$ E_{zu} = E_m - E_n $$ <br> $$ E_{zu} = R_y \cdot \Big( \frac{1}{m^2
 </div>
 
 </section>
-
+*************
 
 ### Übungsaufgabe - Anregung von Wasserstoff
 
