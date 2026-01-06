@@ -430,7 +430,7 @@ Du stoppst die Zeit und stellst fest, dass innerhalb von t=20s genau 5 Wellenber
 
 <p style='margin-left:10%'>
 
-@rangeQuiz2( f , 0.25 , \mathrm{Hz} )
+@rangeQuiz2( $f$ , 0.25 , $\mathrm{Hz}$ )
 
 </p>
 

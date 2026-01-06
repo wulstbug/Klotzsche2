@@ -429,3 +429,335 @@ _Paschen-Serie_
 </section>
 
 </p>
+
+
+## 12. 4. Zusammenfassung: Energieniveaus am Wasserstoffatom
+
+__Grundannahmen:__
+
+<section class="flex-container">
+
+<div class="flex-child-1" style="min-width: 300px; margin-bottom: -10px">
+
+1. Das Elektron bewegt sich auf einer kreisförmigen Bahn um den Kern. Auf dieser Bahn ist das Elektron eine __Stehende Welle__ mit dem Umfang @color(gleich einem ganzzahligen Vielfachen der Wellenlänge, red): <br> $$ u = n \cdot \lambda $$ <br> u .. Umfang der Kreisbahn mit dem Radius r <br> n .. Natürliche Zahl <br> $ \lambda $ .. de-Broglie Wellenlänge
+
+
+
+</div>
+
+<div class="flex-child-1" style="min-width: 300px; margin-bottom: -10px">
+
+2. Auf der Kreisbahn gilt @color(Radialkraft = elektrische Kraft, red) <br> $$ F_r = F_{el} $$ <br> $F_r$ .. Radialkraft der Kreisbewegung <br> $F_{el}$ .. elektrische Anziehungskraft zwischen Kern und Elektron
+
+</div>
+
+</section>
+
+---
+
+__Ergebnis (Bahnradien):__
+
+<section class="flex-container">
+
+<div class="flex-child-3" style="min-width: 400px; margin-bottom: -10px">
+
+3. Setzt man für die Wellenlänge die Formel der de-Broglie Wellenlänge ein und eliminiert in den beiden Gleichungen die Geschwindigkeit des Elektrons, so ergibt sich für den n-ten Radius der Elektronenbahn an einem Wasserstoff-Atom. <br> $$ r_n = \dfrac{h^2\cdot \varepsilon_0}{\pi\cdot m_e \cdot e^2} \cdot n^2$$ <br> @color(Die Zahl $n$ wird __Hauptquantenzahl__ des Elektronenniveaus genannt. Die Niveaus erhalten Großbuchstaben K L M usw., red).
+
+</div>
+
+<div class="flex-child-1" style="min-width: 200px; margin-bottom: -10px">
+
+![Energieniveaus_1](https://diversewolken.ddns.net/nextcloud/index.php/s/64ZHS9DQsBwXjWt/download)<!--style="max-width:200px" -->
+
+</div>
+
+</section>
+
+
+
+---
+
+__Schlussfolgerung:__
+
+<section class="flex-container">
+
+<div class="flex-child-3" style="min-width: 400px; margin-bottom: -10px">
+
+
+4. Für die Elektronen sind nur __bestimmte__ Bahnradien zulässig. Für die zugehörigen Energieniveaus ($E_n$ der n-ten Elektronenbahn) ergibt sich die Rydberg-Formel <br> $$E_n = R_y \cdot \dfrac{1}{n^2} $$ <br> $R_y = -13,6 \, \mathrm{eV}$ .. Rydberg-Konstante <br> <br> __Hinweis:__ Da das Elektron __gebunden__ ist, ist seine Energie kleiner als Null. Man muss dem Elektron Energie hinzufügen, damit es ein freies Elektron wird.
+
+</div>
+
+<div class="flex-child-1" style="min-width: 200px; margin-bottom: -10px">
+
+![Energieniveaus_Schema](https://diversewolken.ddns.net/nextcloud/index.php/s/EwLKnmbiDaxngZw/download)<!--style="max-width:200px" -->
+
+</div>
+
+</section>
+
+
+---
+
+__Elektronenübergänge:__
+
+5. Wechselt ein Elektron von einer **Elektronen-Bahn $m$ auf die Bahn $n$** 
+
+<section class="flex-container">
+
+<div class="flex-child-1" style="min-width: 300px; margin-bottom: -10px; margin:5%">
+
+<section class="flex-container">
+
+so wird __Energie in Form eines Photons__ abgegeben, wenn
+
+<div class="flex-child-3" style="min-width: 200px; margin-bottom: -10px">
+
+$$m > n$$ <br> und die Energie des emittierten Photons beträgt <br> $$ E_{ph} = E_m - E_n $$ <br> $$ E_{ph} = R_y \cdot \Big( \frac{1}{m^2} - \frac{1}{n^2} \Big) $$ <br> __Hinweis:__ Da $R_y=-13,6\,\mathrm{eV}$ ist die Photonenenergie positiv, wenn $m>n$.
+
+</div>
+
+<div class="flex-child-1" style="min-width: 100px; margin-bottom: -10px; margin-left:5%">
+
+![Energieniveaus_3](https://diversewolken.ddns.net/nextcloud/index.php/s/2ddwzeY98TGL5YJ/download)<!--style="max-width:150px" -->
+
+</div>
+
+</section>
+
+
+</div>
+
+<div class="flex-child-1" style="min-width: 300px; margin-bottom: -10px; margin:5%">
+
+<section class="flex-container">
+
+muss dem __Elektron Energie zugefügt werden__, wenn 
+
+<div class="flex-child-3" style="min-width: 200px; margin-left:5%">
+
+$$m < n$$ $$ E_{zu} = E_m - E_n $$ <br> $$ E_{zu} = R_y \cdot \Big( \frac{1}{m^2} - \frac{1}{n^2} \Big) $$ <br> <br> Die zugeführte Energie ist $E_{zu}<0$.
+
+</div>
+
+<div class="flex-child-1" style="min-width: 100px">
+
+![Energieniveaus_2](https://diversewolken.ddns.net/nextcloud/index.php/s/SbxPBHqsgLacLSK/download)<!--style="max-width:150px" -->
+
+</div>
+
+</section>
+
+
+</div>
+
+</section>
+
+
+### Übungsaufgabe - Anregung von Wasserstoff
+
+__Physik der Atomhülle: Anregung von Wasserstoff durch Elektronenstoß__
+
+Elektronen werden aus der Ruhe heraus durch die Spannung $U=13,2\,\text{V}$ beschleunigt und treffen dann auf ein Gas aus Wasserstoffatomen. Durch Elektronenstoß werden die Wasserstoffatome aus dem Grundzustand ($n=1$) heraus angeregt. Jedes Elektron kann dabei höchstens einmal anregen. Nachdem die Elektronen das Gas verlassen haben, wird ihre kinetische Energie gemessen.
+
+**(Grundlagenwerte für die Lösung:** Maximale zur Verfügung stehende Energie: $E_{max} = 13,2\,\text{eV}$. Wasserstoff-Energieniveaus: $E_n = \frac{-13,6\,\text{eV}}{n^2}$. Die maximal erreichbare Hauptquantenzahl ist $n=5$, da die Energie zur Anregung auf $n=6$ ($E_6 - E_1 = 13,222\,\text{eV}$) die Eingangsenergie von $13,2\,\text{eV}$ übersteigt.)
+
+---
+
+__Teilaufgabe a)__
+
+Zeichnen Sie das Energieniveauschema des H-Atoms.
+
+<details style="margin-left:10%;color:blue">
+
+<summary>Lösungshinweis</summary>
+
+Zeichnen Sie die ersten fünf Energieniveaus ($n=1$ bis $n=5$) des Wasserstoffatoms mit den entsprechenden Energiewerten in eV, wobei $E_1 = -13,6\,\text{eV}$ ist. Beachten Sie, dass der Abstand der Niveaus mit steigendem $n$ abnimmt.
+
+</details>
+
+<details style="margin-left:10%;color:blue">
+
+<summary>Lösung</summary>
+
+Das Schema muss folgende Niveaus enthalten (Beispiele):
+
+*   $n=1: E_1 = -13,60\,\text{eV}$
+
+*   $n=2: E_2 = -3,40\,\text{eV}$
+
+*   $n=3: E_3 = -1,51\,\text{eV}$
+
+*   $n=4: E_4 = -0,85\,\text{eV}$
+
+*   $n=5: E_5 = -0,54\,\text{eV}$
+
+*   $n=\infty: E_\infty = 0\,\text{eV}$
+
+</details>
+
+---
+
+Teilaufgabe b)
+
+Welche Werte stellt man bei der Messung der kinetischen Energie der Elektronen fest (Begründung!)?
+
+<details style="margin-left:10%;color:blue">
+
+<summary>Lösungshinweis</summary>
+
+Die Elektronen können nur diskrete Energiemengen abgeben, die den Anregungsenergien $\Delta E = E_n - E_1$ entsprechen.
+
+</details>
+
+<details style="margin-left:10%;color:blue">
+
+<summary>Lösung</summary>
+
+Die anfängliche kinetische Energie der Elektronen beträgt $E_{kin, Anfang} = 13,2\,\text{eV}$. Die Elektronen verlassen das Gas mit der Restenergie $E_{Rest} = E_{kin, Anfang} - \Delta E_{Anregung}$.
+
+Messbare Werte sind:
+
+1.  **$13,2\,\text{eV}$:** Wenn die Elektronen die H-Atome nicht anregen (elastischer Stoß oder kein Stoß).
+
+2.  **$E_{Rest, 2} = 13,2\,\text{eV} - (E_2 - E_1) \approx 13,2\,\text{eV} - 10,20\,\text{eV} = 3,00\,\text{eV}$**.
+
+3.  **$E_{Rest, 3} = 13,2\,\text{eV} - (E_3 - E_1) \approx 13,2\,\text{eV} - 12,09\,\text{eV} = 1,11\,\text{eV}$**.
+
+4.  **$E_{Rest, 4} = 13,2\,\text{eV} - (E_4 - E_1) \approx 13,2\,\text{eV} - 12,75\,\text{eV} = 0,45\,\text{eV}$**.
+
+5.  **$E_{Rest, 5} = 13,2\,\text{eV} - (E_5 - E_1) \approx 13,2\,\text{eV} - 13,06\,\text{eV} = 0,14\,\text{eV}$**.
+
+Die gemessenen Werte sind diskret und ergeben sich aus der Differenz der Anfangsenergie und der zur Anregung benötigten Energiemenge.
+
+</details>
+
+---
+
+__Teilaufgabe c)__
+
+Warum emittiert das beschossene Gas elektromagnetische Strahlung?
+
+<details style="margin-left:10%;color:blue">
+
+<summary>Lösungshinweis</summary>
+
+Die angeregten Atome sind instabil und fallen in Zustände geringerer Energie zurück.
+
+</details>
+
+<details style="margin-left:10%;color:blue">
+
+<summary>Lösung</summary>
+
+Die durch den Elektronenstoß in höhere Energieniveaus angeregten Wasserstoffatome sind instabil. Sie fallen spontan in tiefere, energieärmere Zustände zurück (Emissionsprozess). Bei jedem Rückfall wird die Energiedifferenz $\Delta E$ in Form eines Photons emittiert: $\Delta E = h \cdot f$.
+
+</details>
+
+---
+
+__Teilaufgabe d)__
+
+Wie viele verschiedene Wellenlängen können nachgewiesen werden? Welche davon liegen im sichtbaren Bereich? Stellen Sie alle Übergänge im Energieniveauschema aus Teilaufgabe a dar!
+
+<details style="margin-left:10%;color:blue">
+
+<summary>Lösungshinweis</summary>
+
+Die maximale Hauptquantenzahl ist $n_{max}=5$. Die Gesamtzahl der möglichen Übergänge von $n_{max}$ bis $n=1$ ist gegeben durch: $N = \sum_{k=1}^{n_{max}-1} k$.
+
+Der sichtbare Bereich (Balmer-Serie) umfasst Übergänge, die auf das Niveau $n=2$ führen.
+
+</details>
+
+<details style="margin-left:10%;color:blue">
+
+<summary>Lösung</summary>
+
+Die maximale Anregung erfolgt bis zum Niveau $n_{max}=5$.
+
+**Anzahl der Linien:**
+Die Gesamtzahl der möglichen Emissionslinien ist die Summe aller möglichen Rückfälle:
+$$ N = (5 \to 4) + (5 \to 3) + (5 \to 2) + (5 \to 1) $$
+$$ + (4 \to 3) + (4 \to 2) + (4 \to 1) $$
+$$ + (3 \to 2) + (3 \to 1) $$
+$$ + (2 \to 1) $$
+Insgesamt: $N = 4 + 3 + 2 + 1 = \mathbf{10}$ verschiedene Wellenlängen können maximal nachgewiesen werden.
+
+**Sichtbarer Bereich (Balmer-Serie):**
+Im sichtbaren Bereich liegen Übergänge, die auf das Niveau $n=2$ führen [3].
+*   $5 \to 2$
+*   $4 \to 2$ ($\text{H}\gamma$-Linie)
+*   $3 \to 2$ ($\text{H}\beta$-Linie)
+(Anmerkung: Die $\text{H}\alpha$-Linie ($3 \to 2$) und $\text{H}\beta$-Linie ($4 \to 2$) liegen im sichtbaren Bereich. Die $\text{H}\gamma$-Linie ($5 \to 2$) liegt im Violett/UV-Bereich, wird aber oft noch zum sichtbaren Bereich gezählt.)
+
+</details>
+
+---
+
+__Teilaufgabe e)__
+
+Berechnen Sie die Wellenlänge der lang- ($\lambda_{lang}$) und kurzwelligen ($\lambda_{kurz}$) Linie!
+
+@rangeQuiz2( $\lambda_{lang}$, 4050e-9, $\text{m}$ )
+
+@rangeQuiz2( $\lambda_{kurz}$, 95.0e-9, $\text{m}$ )
+
+<details style="margin-left:10%;color:blue">
+
+<summary>Lösungshinweis</summary>
+
+*   **Langwelligste Linie ($\lambda_{lang}$):** Entspricht dem geringsten Energieunterschied $\Delta E_{min}$ im Rückfall, d.h., dem Übergang $5 \to 4$.
+*   **Kurzwellige Linie ($\lambda_{kurz}$):** Entspricht dem größten Energieunterschied $\Delta E_{max}$ im Rückfall, d.h., dem Übergang $5 \to 1$.
+*   Nutzen Sie $E = \frac{h \cdot c}{\lambda}$.
+
+</details>
+
+<details style="margin-left:10%;color:blue">
+
+<summary>Lösung</summary>
+
+**I. Kurzwellige Linie (Größte Energie $\Delta E_{max}$):**
+Dies ist der Rückfall vom höchsten erreichten Niveau ($n=5$) zum Grundzustand ($n=1$).
+$$ \Delta E_{max} = E_5 - E_1 = (-0,544\,\text{eV}) - (-13,6\,\text{eV}) = 13,056\,\text{eV} $$
+Umrechnung der Wellenlänge (unter Verwendung des Kurzwertes $h \cdot c \approx 1240\,\text{eV} \cdot \text{nm}$):
+$$ \lambda_{kurz} = \frac{1240\,\text{eV} \cdot \text{nm}}{13,056\,\text{eV}} \approx 95,0\,\text{nm} $$
+$$\mathbf{\lambda_{kurz} \approx 9,50 \cdot 10^{-8}\,\text{m}}$$
+
+**II. Langwelligste Linie (Kleinste Energie $\Delta E_{min}$):**
+Dies ist der Rückfall zwischen den beiden höchsten angeregten Niveaus: $n=5 \to n=4$.
+$$ \Delta E_{min} = E_5 - E_4 = (-0,544\,\text{eV}) - (-0,85\,\text{eV}) = 0,306\,\text{eV} $$
+Umrechnung der Wellenlänge:
+$$ \lambda_{lang} = \frac{1240\,\text{eV} \cdot \text{nm}}{0,306\,\text{eV}} \approx 4052\,\text{nm} $$
+$$\mathbf{\lambda_{lang} \approx 4,05 \cdot 10^{-6}\,\text{m}}$$ (Liegt im infraroten Bereich)
+
+</details>
+
+---
+
+__Teilaufgabe f)__
+
+Was beobachtet man, wenn man das Gas mit Photonen der Energie $13,2\,\text{eV}$ beschießt?
+
+<details style="margin-left:10%;color:blue">
+
+<summary>Lösungshinweis</summary>
+
+Prüfen Sie, ob Photonen der Energie $13,2\,\text{eV}$ in der Lage sind, eine Anregung aus dem Grundzustand zu bewirken. Beachten Sie, dass Photonen ihre Energie nur vollständig abgeben können.
+
+</details>
+
+<details style="margin-left:10%;color:blue">
+
+<summary>Lösung</summary>
+
+Die Photonen haben eine Energie von $13,2\,\text{eV}$.
+Da Photonen ihre gesamte Energie in einem Stoß abgeben müssen, muss diese Energie exakt einer der diskreten Anregungsenergien $\Delta E = E_n - E_1$ entsprechen, oder die Ionisierungsenergie überschreiten.
+
+*   Die höchste Anregungsenergie bis $n=5$ beträgt $13,06\,\text{eV}$.
+*   Die Ionisierungsenergie beträgt $13,6\,\text{eV}$.
+
+Da die $13,2\,\text{eV}$ Photonenenergie **keinem** der diskreten Übergänge von $n=1$ in einen höheren Zustand **exakt** entspricht und die Ionisierungsenergie unterschreitet, können die Photonen **keine** Energie an die H-Atome abgeben.
+
+**Beobachtung:** Es würde **keine** zusätzliche elektromagnetische Strahlung emittiert und es würde **keine** messbare Schwächung der durchgelassenen Photonenstrahlung festgestellt. Das Gas erscheint "transparent" für diese Photonen.
+</details>

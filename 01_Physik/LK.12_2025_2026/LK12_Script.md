@@ -5339,7 +5339,7 @@ $$ \lambda \approx 8,981 \cdot 10^{-12} \, \text{m} $$
 
 <summary>Lösungshinweis</summary>
 
-Die kinetische Energie $E_{kin} = \frac{1}{2} m_e v^2$, welche die Elektronen durch die Geschwindigkeit $v$ besitzen, muss gleich der elektrischen Energie $E_{el} = e \cdot U$ sein, die durch die Beschleunigungsspannung $U$ gewonnen wurde [1].
+Die kinetische Energie $E_{kin} = \frac{1}{2} m_e v^2$, welche die Elektronen durch die Geschwindigkeit $v$ besitzen, muss gleich der elektrischen Energie $E_{el} = e \cdot U$ sein, die durch die Beschleunigungsspannung $U$ gewonnen wurde.
 
 Nutze die Gleichung: $$E_{el} = E_{kin} \Rightarrow e \cdot U = \frac{1}{2} m_e v^2$$
 
@@ -5349,7 +5349,7 @@ Nutze die Gleichung: $$E_{el} = E_{kin} \Rightarrow e \cdot U = \frac{1}{2} m_e 
 
 <summary>Lösung</summary>
 
-Zur Berechnung wird die Beziehung $U = \frac{m_e v^2}{2 \cdot e}$ verwendet [1].
+Zur Berechnung wird die Beziehung $U = \frac{m_e v^2}{2 \cdot e}$ verwendet.
 
 Dabei wird die Geschwindigkeit $v = 8,1 \cdot 10^7 \, \text{m} \cdot \text{s}^{-1}$ (aus den vorherigen Teilaufgaben), die Elektronenmasse $m_e \approx 9,109 \cdot 10^{-31} \, \text{kg}$ und die Elementarladung $e \approx 1,602 \cdot 10^{-19} \, \text{C}$ eingesetzt.
 
@@ -6576,6 +6576,8 @@ _Paschen-Serie_
 
 ## 12. 4. Zusammenfassung: Energieniveaus am Wasserstoffatom
 
+{{1}}
+*************
 __Grundannahmen:__
 
 <section class="flex-container">
@@ -6588,14 +6590,20 @@ __Grundannahmen:__
 
 </div>
 
+{{2}}
+*************
 <div class="flex-child-1" style="min-width: 300px; margin-bottom: -10px">
 
 2. Auf der Kreisbahn gilt @color(Radialkraft = elektrische Kraft, red) <br> $$ F_r = F_{el} $$ <br> $F_r$ .. Radialkraft der Kreisbewegung <br> $F_{el}$ .. elektrische Anziehungskraft zwischen Kern und Elektron
 
 </div>
-
+*************
 </section>
+*************
 
+
+{{3}}
+*************
 ---
 
 __Ergebnis (Bahnradien):__
@@ -6617,7 +6625,10 @@ __Ergebnis (Bahnradien):__
 </section>
 
 
+*************
 
+{{4}}
+*************
 ---
 
 __Schlussfolgerung:__
@@ -6639,7 +6650,10 @@ __Schlussfolgerung:__
 
 </section>
 
+*************
 
+{{5}}
+*************
 ---
 
 __Elektronenübergänge:__
@@ -6695,13 +6709,13 @@ $$m < n$$ $$ E_{zu} = E_m - E_n $$ <br> $$ E_{zu} = R_y \cdot \Big( \frac{1}{m^2
 </div>
 
 </section>
-
+*************
 
 ### Übungsaufgabe - Anregung von Wasserstoff
 
 __Physik der Atomhülle: Anregung von Wasserstoff durch Elektronenstoß__
 
-Elektronen werden aus der Ruhe heraus durch die Spannung $U=13,2\,\text{V}$ beschleunigt und treffen dann auf ein Gas aus Wasserstoffatomen [1]. Durch Elektronenstoß werden die Wasserstoffatome aus dem Grundzustand ($n=1$) heraus angeregt. Jedes Elektron kann dabei höchstens einmal anregen. Nachdem die Elektronen das Gas verlassen haben, wird ihre kinetische Energie gemessen [1].
+Elektronen werden aus der Ruhe heraus durch die Spannung $U=13,2\,\text{V}$ beschleunigt und treffen dann auf ein Gas aus Wasserstoffatomen. Durch Elektronenstoß werden die Wasserstoffatome aus dem Grundzustand ($n=1$) heraus angeregt. Jedes Elektron kann dabei höchstens einmal anregen. Nachdem die Elektronen das Gas verlassen haben, wird ihre kinetische Energie gemessen.
 
 **(Grundlagenwerte für die Lösung:** Maximale zur Verfügung stehende Energie: $E_{max} = 13,2\,\text{eV}$. Wasserstoff-Energieniveaus: $E_n = \frac{-13,6\,\text{eV}}{n^2}$. Die maximal erreichbare Hauptquantenzahl ist $n=5$, da die Energie zur Anregung auf $n=6$ ($E_6 - E_1 = 13,222\,\text{eV}$) die Eingangsenergie von $13,2\,\text{eV}$ übersteigt.)
 
@@ -6709,7 +6723,7 @@ Elektronen werden aus der Ruhe heraus durch die Spannung $U=13,2\,\text{V}$ besc
 
 __Teilaufgabe a)__
 
-Zeichnen Sie das Energieniveauschema des H-Atoms [1].
+Zeichnen Sie das Energieniveauschema des H-Atoms.
 
 <details style="margin-left:10%;color:blue">
 
@@ -6743,7 +6757,7 @@ Das Schema muss folgende Niveaus enthalten (Beispiele):
 
 Teilaufgabe b)
 
-Welche Werte stellt man bei der Messung der kinetischen Energie der Elektronen fest (Begründung!) [2]?
+Welche Werte stellt man bei der Messung der kinetischen Energie der Elektronen fest (Begründung!)?
 
 <details style="margin-left:10%;color:blue">
 
@@ -6757,7 +6771,7 @@ Die Elektronen können nur diskrete Energiemengen abgeben, die den Anregungsener
 
 <summary>Lösung</summary>
 
-Die anfängliche kinetische Energie der Elektronen beträgt $E_{kin, Anfang} = 13,2\,\text{eV}$. Die Elektronen verlassen das Gas mit der Restenergie $E_{Rest} = E_{kin, Anfang} - \Delta E_{Anregung}$ [1].
+Die anfängliche kinetische Energie der Elektronen beträgt $E_{kin, Anfang} = 13,2\,\text{eV}$. Die Elektronen verlassen das Gas mit der Restenergie $E_{Rest} = E_{kin, Anfang} - \Delta E_{Anregung}$.
 
 Messbare Werte sind:
 
@@ -6779,7 +6793,7 @@ Die gemessenen Werte sind diskret und ergeben sich aus der Differenz der Anfangs
 
 __Teilaufgabe c)__
 
-Warum emittiert das beschossene Gas elektromagnetische Strahlung [2]?
+Warum emittiert das beschossene Gas elektromagnetische Strahlung?
 
 <details style="margin-left:10%;color:blue">
 
@@ -6793,7 +6807,7 @@ Die angeregten Atome sind instabil und fallen in Zustände geringerer Energie zu
 
 <summary>Lösung</summary>
 
-Die durch den Elektronenstoß in höhere Energieniveaus angeregten Wasserstoffatome sind instabil. Sie fallen spontan in tiefere, energieärmere Zustände zurück (Emissionsprozess). Bei jedem Rückfall wird die Energiedifferenz $\Delta E$ in Form eines Photons emittiert: $\Delta E = h \cdot f$ [2].
+Die durch den Elektronenstoß in höhere Energieniveaus angeregten Wasserstoffatome sind instabil. Sie fallen spontan in tiefere, energieärmere Zustände zurück (Emissionsprozess). Bei jedem Rückfall wird die Energiedifferenz $\Delta E$ in Form eines Photons emittiert: $\Delta E = h \cdot f$.
 
 </details>
 
@@ -6801,7 +6815,7 @@ Die durch den Elektronenstoß in höhere Energieniveaus angeregten Wasserstoffat
 
 __Teilaufgabe d)__
 
-Wie viele verschiedene Wellenlängen können nachgewiesen werden? Welche davon liegen im sichtbaren Bereich? Stellen Sie alle Übergänge im Energieniveauschema aus Teilaufgabe a dar [2]!
+Wie viele verschiedene Wellenlängen können nachgewiesen werden? Welche davon liegen im sichtbaren Bereich? Stellen Sie alle Übergänge im Energieniveauschema aus Teilaufgabe a dar!
 
 <details style="margin-left:10%;color:blue">
 
@@ -6840,7 +6854,7 @@ Im sichtbaren Bereich liegen Übergänge, die auf das Niveau $n=2$ führen [3].
 
 __Teilaufgabe e)__
 
-Berechnen Sie die Wellenlänge der lang- ($\lambda_{lang}$) und kurzwelligen ($\lambda_{kurz}$) Linie [2]!
+Berechnen Sie die Wellenlänge der lang- ($\lambda_{lang}$) und kurzwelligen ($\lambda_{kurz}$) Linie!
 
 @rangeQuiz2( $\lambda_{lang}$, 4050e-9, $\text{m}$ )
 
@@ -6880,7 +6894,7 @@ $$\mathbf{\lambda_{lang} \approx 4,05 \cdot 10^{-6}\,\text{m}}$$ (Liegt im infra
 
 __Teilaufgabe f)__
 
-Was beobachtet man, wenn man das Gas mit Photonen der Energie $13,2\,\text{eV}$ beschießt [2]?
+Was beobachtet man, wenn man das Gas mit Photonen der Energie $13,2\,\text{eV}$ beschießt?
 
 <details style="margin-left:10%;color:blue">
 
@@ -6900,7 +6914,7 @@ Da Photonen ihre gesamte Energie in einem Stoß abgeben müssen, muss diese Ener
 *   Die höchste Anregungsenergie bis $n=5$ beträgt $13,06\,\text{eV}$.
 *   Die Ionisierungsenergie beträgt $13,6\,\text{eV}$.
 
-Da die $13,2\,\text{eV}$ Photonenenergie **keinem** der diskreten Übergänge von $n=1$ in einen höheren Zustand **exakt** entspricht und die Ionisierungsenergie unterschreitet, können die Photonen **keine** Energie an die H-Atome abgeben [2].
+Da die $13,2\,\text{eV}$ Photonenenergie **keinem** der diskreten Übergänge von $n=1$ in einen höheren Zustand **exakt** entspricht und die Ionisierungsenergie unterschreitet, können die Photonen **keine** Energie an die H-Atome abgeben.
 
 **Beobachtung:** Es würde **keine** zusätzliche elektromagnetische Strahlung emittiert und es würde **keine** messbare Schwächung der durchgelassenen Photonenstrahlung festgestellt. Das Gas erscheint "transparent" für diese Photonen.
 </details>
