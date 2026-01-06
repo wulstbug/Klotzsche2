@@ -3,7 +3,7 @@ icon:   https://diversewolken.ddns.net/klotzsche/logo.png
 
 author: Christian Golnik
 
-logo: https://upload.wikimedia.org/wikipedia/de/thumb/c/c1/Canva_Logo_2021.svg/250px-Canva_Logo_2021.svg.png
+logo: https://logospng.org/wp-content/uploads/canva.png
 
 language: de
 
