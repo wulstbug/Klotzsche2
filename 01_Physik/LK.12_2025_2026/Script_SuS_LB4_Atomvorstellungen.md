@@ -819,3 +819,87 @@ $ \boxed{E_n = \frac{h^2}{8\cdot m\cdot a^2}\cdot n^2 }$
 
 ### Aufgaben zum Potentialtopf
 
+
+### Aufgaben zum Potentialtopf
+
+1. In einem eindimensionalen Potentialtopf der Breite $5\cdot10^{-10}\,\mathrm{m}$ befindet sich ein Elektron.
+
+1. 1. Ermitteln Sie die Wellenlänge und die Energie des Zustandes mit der Quantenzahl $n=1$ in J und eV.
+
+<p style='margin-left:10%'>
+
+@rangeQuiz2($\lambda_1$,1e-9,$\mathrm{m}$)
+
+@rangeQuiz2($E_1$,2.41e-19,$\mathrm{J}$)
+
+@rangeQuiz2($E_1$,1.504,$\mathrm{eV}$)
+
+</p>
+
+<details style='color:blue;margin-left:10%'>
+
+<summary> Lösunghinweis </summary>
+
+Nutze die Formel für den Potentialtopf. Die erste Wellenlänge entspricht $2a$.
+
+</details>
+
+<details style='color:blue;margin-left:10%'>
+
+<summary> Lösung </summary>
+
+$E_1 = \frac{h^2}{8\cdot m_e \cdot a^2} = 2,41\,\mathrm{J}$
+
+</details>
+
+---
+
+1. 2. Ein Elektron sei auf dem Energieniveau mit der Quantenzahl "n=3". Ermitteln sie die Wellenlängen der Photonen in Einheit nm, die es beim Übergang auf die Niveaus $n=1$ und $n=2$ aussenden würde. Entscheiden Sie jeweils, ob es sich um sichtbares Licht handelt.
+
+<section class="flex-container">
+
+<div class="flex-child-1" style="min-width: 300px; margin-bottom: -10px">
+
+<p style='margin-left:10%'>
+
+@rangeQuiz2($\lambda_{3->1}$,103e,$\mathrm{nm}$)
+
+@rangeQuiz2($\lambda_{3->2}$,275,$\mathrm{nm}$)
+
+</p>
+
+</div>
+
+<div class="flex-child-1" style="min-width: 300px; margin-bottom: -10px">
+
+<!-- data-solution-button="off" -->
+- [[ ja | (nein) ]] $\lambda_{3->1}$ Sichtbares Licht?
+- [[ ja | (nein) ]] $\lambda_{3->2}$ Sichtbares Licht?
+
+
+</div>
+
+</section>
+
+
+<details style='color:blue;margin-left:10%'>
+
+<summary> Lösunghinweis </summary>
+
+Das Energieniveau $E_3$ ist das neufache des Grundniveaus, $E_2$ ist das vierfache. Sichtbares Licht ist im Bereich ($1,5-3,1 \,\mathrm{eV}$ | $800-400 \,\mathrm{nm}$)
+
+</details>
+
+<details style='color:blue;margin-left:10%'>
+
+<summary> Lösung </summary>
+
+$E_3 = 3^2 \cdot E_1 = 2,17\cdot10^{-18}\,\mathrm{J}$
+
+$E_2 = 2^2 \cdot E_1 = 9.64\cdot10^{-18}\,\mathrm{J}$
+
+$\lambda_{3->1} = \frac{h\cdot c}{(E_3-E1)} = 1,03\cdot10^{-7}\,\mathrm{m} = 103\,\mathrm{m}$
+
+$\lambda_{3->1} = \frac{h\cdot c}{(E_3-E2)} = 2,75\cdot10^{-7}\,\mathrm{m} = 275\,\mathrm{m}$
+
+</details>
