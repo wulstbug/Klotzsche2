@@ -854,7 +854,7 @@ $E_1 = \frac{h^2}{8\cdot m_e \cdot a^2} = 2,41\,\mathrm{J}$
 
 ---
 
-1. 2. Ein Elektron sei auf dem Energieniveau mit der Quantenzahl "n=3". Ermitteln sie die Wellenlängen der Photonen in Einheit nm, die es beim Übergang auf die Niveaus $n=1$ und $n=2$ aussenden würde. Entscheiden Sie jeweils, ob es sich um sichtbares Licht handelt.
+1. 2. Ein Elektron sei auf dem Energieniveau mit der Quantenzahl "n=3". Ermitteln sie die Wellenlängen der Photonen in Einheit nm, die es beim Übergang auf die Niveaus $n=1$ und $n=2$ aussenden würde. Entscheiden Sie jeweils, ob es sich um infrarotes, sichtbares oder ultraviolettes Licht handelt.
 
 <section class="flex-container">
 
@@ -873,8 +873,8 @@ $E_1 = \frac{h^2}{8\cdot m_e \cdot a^2} = 2,41\,\mathrm{J}$
 <div class="flex-child-1" style="min-width: 300px; margin-bottom: -10px">
 
 <!-- data-solution-button="off" -->
-- [[ ja | (nein) ]] $\lambda_{3->1}$ Sichtbares Licht?
-- [[ ja | (nein) ]] $\lambda_{3->2}$ Sichtbares Licht?
+- [[ infrarot | sichtbar | (ultraviolett) ]] $\lambda_{3->1}$ Sichtbares Licht?
+- [[ infrarot | sichtbar | (ultraviolett) ]]  $\lambda_{3->2}$ Sichtbares Licht?
 
 
 </div>
