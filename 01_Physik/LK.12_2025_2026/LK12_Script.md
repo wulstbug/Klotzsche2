@@ -6967,7 +6967,7 @@ $ \boxed{E_n = \frac{h^2}{8\cdot m\cdot a^2}\cdot n^2 }$
 
 <div class="flex-child-1" style="min-width: 200px; margin-bottom: -10px">
 
-![Potentialtopf](https://diversewolken.ddns.net/nextcloud/index.php/s/gobdbTWC9jLwxzz/download)
+![Potentialtopf](https://diversewolken.ddns.net/nextcloud/index.php/s/PcZ2GjQnrHyWpYs/download)
 
 </div>
 
