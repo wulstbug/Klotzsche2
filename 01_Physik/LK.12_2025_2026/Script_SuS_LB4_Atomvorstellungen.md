@@ -873,8 +873,8 @@ $E_1 = \frac{h^2}{8\cdot m_e \cdot a^2} = 2,41\,\mathrm{J}$
 <div class="flex-child-1" style="min-width: 300px; margin-bottom: -10px">
 
 <!-- data-solution-button="off" -->
-- [[ infrarot | sichtbar | (ultraviolett) ]] $\lambda_{3->1}$ Sichtbares Licht?
-- [[ infrarot | sichtbar | (ultraviolett) ]]  $\lambda_{3->2}$ Sichtbares Licht?
+- [[ infrarot | sichtbar | (ultraviolett) ]] $\lambda_{3->1}$
+- [[ infrarot | sichtbar | (ultraviolett) ]]  $\lambda_{3->2}$
 
 
 </div>
