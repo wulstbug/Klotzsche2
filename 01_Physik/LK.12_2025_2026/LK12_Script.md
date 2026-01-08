@@ -6921,6 +6921,8 @@ Da die $13,2\,\text{eV}$ Photonenenergie **keinem** der diskreten Übergänge vo
 
 ## 12. 5. Modell eindimensionaler Potentialtopf
 
+[Link zum Erklärvideo](https://youtu.be/pWYo7qxzTaM)
+
 > Ein eindimensionaler Potentialtopf ist ein gutes Modellsystem, um die Quantisierung von Energiezuständen quantenmechanischer Teilchen zu untersuchen.
 >
 > Wir betrachten einen Potentialtopf der Breite $a$, in dem sich ein quantenmechanisches Teilchen (z.B. ein Elektron) aufhält. Außerhalb des Topf hat das Teilchen die Aufenthaltswahrscheinlichkeit 0.
@@ -6970,3 +6972,6 @@ $ \boxed{E_n = \frac{h^2}{8\cdot m\cdot a^2}\cdot n^2 }$
 </div>
 
 </section>
+
+### Aufgaben zum Potentialtopf
+
