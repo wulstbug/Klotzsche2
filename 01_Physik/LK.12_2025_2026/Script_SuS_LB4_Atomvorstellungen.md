@@ -819,9 +819,6 @@ $ \boxed{E_n = \frac{h^2}{8\cdot m\cdot a^2}\cdot n^2 }$
 
 ### Aufgaben zum Potentialtopf
 
-
-### Aufgaben zum Potentialtopf
-
 1. In einem eindimensionalen Potentialtopf der Breite $5\cdot10^{-10}\,\mathrm{m}$ befindet sich ein Elektron.
 
 1. 1. Ermitteln Sie die Wellenlänge und die Energie des Zustandes mit der Quantenzahl $n=1$ in J und eV.
