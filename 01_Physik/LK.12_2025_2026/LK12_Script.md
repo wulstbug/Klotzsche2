@@ -6918,3 +6918,55 @@ Da die $13,2\,\text{eV}$ Photonenenergie **keinem** der diskreten Übergänge vo
 
 **Beobachtung:** Es würde **keine** zusätzliche elektromagnetische Strahlung emittiert und es würde **keine** messbare Schwächung der durchgelassenen Photonenstrahlung festgestellt. Das Gas erscheint "transparent" für diese Photonen.
 </details>
+
+## 12. 5. Modell eindimensionaler Potentialtopf
+
+> Ein eindimensionaler Potentialtopf ist ein gutes Modellsystem, um die Quantisierung von Energiezuständen quantenmechanischer Teilchen zu untersuchen.
+>
+> Wir betrachten einen Potentialtopf der Breite $a$, in dem sich ein quantenmechanisches Teilchen (z.B. ein Elektron) aufhält. Außerhalb des Topf hat das Teilchen die Aufenthaltswahrscheinlichkeit 0.
+>
+> Wir fordern (wie beim Wasserstoff-Modell), dass das Teilchen stabil nur als stehende Welle im Potentialtopf existieren kann.
+>
+> Gesucht sind die möglichen Energiezustände $E_n$ für das Teilchen.
+
+<section class="flex-container">
+
+<div class="flex-child-1" style="min-width: 200px; margin-bottom: -10px">
+
+__Forderung:__  <br> <br>
+
+_Hinweis:_ <br> <br>
+
+__Einsetzen (de Broglie):__ <br> <br>
+
+__Energie-Impuls-Relation:__  <br> <br>
+
+__Gleichsetzen (I)=(II):__  <br> <br> <br>
+
+__Quantisierte Energiezustände $E_n$:__
+
+</div>
+
+<div class="flex-child-2" style="min-width: 200px; margin-bottom: -10px">
+
+$ a = n \cdot \frac{\lambda}{2} $ mit $\lambda = \frac{h}{p} $ (_de Broglie_) <br> <br>
+
+Wir lassen für dieses Model auch $\lambda = \frac{a}{2}$ zu <br> <br>
+
+$ a = \frac{n \cdot h}{2 \cdot p} \rightarrow p^2 = \frac{n^2 \cdot h^2}{4\cdot a^2} $ (I) <br> <br>
+
+$ E = \frac{1}{2}\cdot m \cdot v^2 = \frac{p^2}{2m} \rightarrow p^2 = E \cdot 2\cdot m$ (II)  <br> <br>
+
+$\frac{n^2 \cdot h^2}{4\cdot a^2} = E \cdot 2\cdot m$  <br> <br>
+
+$ \boxed{E_n = \frac{h^2}{8\cdot m\cdot a^2}\cdot n^2 }$
+
+</div>
+
+<div class="flex-child-1" style="min-width: 200px; margin-bottom: -10px">
+
+![Potentialtopf](https://diversewolken.ddns.net/nextcloud/index.php/s/gobdbTWC9jLwxzz/download)
+
+</div>
+
+</section>
