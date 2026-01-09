@@ -6933,35 +6933,106 @@ Da die $13,2\,\text{eV}$ Photonenenergie **keinem** der diskreten Übergänge vo
 
 <section class="flex-container">
 
-<div class="flex-child-1" style="min-width: 200px; margin-bottom: -10px">
+<div class="flex-child-2" style="min-width: 300px; margin-bottom: -10px">
+
+<section class="flex-container">
+
+<div class="flex-child-1" style="min-width: 150px; margin-bottom: -10px">
 
 __Forderung:__  <br> <br>
 
+</div>
+
+<div class="flex-child-2" style="min-width: 150px; margin-bottom: -10px">
+
+$ a = n \cdot \dfrac{\lambda}{2} $ mit $\lambda = \dfrac{h}{p} $ (_de Broglie_) <br> <br>
+
+</div>
+
+</section>
+
+<section class="flex-container">
+
+<div class="flex-child-1" style="min-width: 150px; margin-bottom: -10px">
+
 _Hinweis:_ <br> <br>
+
+</div>
+
+<div class="flex-child-2" style="min-width: 150px; margin-bottom: -10px">
+
+Wir lassen für dieses Model auch $\lambda = \dfrac{a}{2}$ zu <br> <br>
+
+</div>
+
+</section>
+
+<section class="flex-container">
+
+<div class="flex-child-1" style="min-width: 150px; margin-bottom: -10px">
 
 __Einsetzen (de Broglie):__ <br> <br>
 
+</div>
+
+<div class="flex-child-2" style="min-width: 150px; margin-bottom: -10px">
+
+$ a = \dfrac{n \cdot h}{2 \cdot p} \rightarrow p^2 = \dfrac{n^2 \cdot h^2}{4\cdot a^2} $ (I) <br> <br>
+
+</div>
+
+</section>
+
+<section class="flex-container">
+
+<div class="flex-child-1" style="min-width: 150px; margin-bottom: -10px">
+
 __Energie-Impuls-Relation:__  <br> <br>
 
+</div>
+
+<div class="flex-child-2" style="min-width: 150px; margin-bottom: -10px">
+
+$ E = \dfrac{1}{2}\cdot m \cdot v^2 = \dfrac{p^2}{2m} \rightarrow p^2 = E \cdot 2\cdot m$ (II)  <br> <br>
+
+</div>
+
+</section>
+
+<section class="flex-container">
+
+<div class="flex-child-1" style="min-width: 150px; margin-bottom: -10px">
+
 __Gleichsetzen (I)=(II):__  <br> <br> <br>
+
+</div>
+
+<div class="flex-child-2" style="min-width: 150px; margin-bottom: -10px">
+
+$\dfrac{n^2 \cdot h^2}{4\cdot a^2} = E \cdot 2\cdot m$  <br> <br>
+
+</div>
+
+</section>
+
+<section class="flex-container">
+
+<div class="flex-child-1" style="min-width: 150px; margin-bottom: -10px">
 
 __Quantisierte Energiezustände $E_n$:__
 
 </div>
 
-<div class="flex-child-2" style="min-width: 200px; margin-bottom: -10px">
+<div class="flex-child-2" style="min-width: 150px; margin-bottom: -10px">
 
-$ a = n \cdot \frac{\lambda}{2} $ mit $\lambda = \frac{h}{p} $ (_de Broglie_) <br> <br>
+$ \boxed{E_n = \dfrac{h^2}{8\cdot m\cdot a^2}\cdot n^2 }$
 
-Wir lassen für dieses Model auch $\lambda = \frac{a}{2}$ zu <br> <br>
+</div>
 
-$ a = \frac{n \cdot h}{2 \cdot p} \rightarrow p^2 = \frac{n^2 \cdot h^2}{4\cdot a^2} $ (I) <br> <br>
+</section>
 
-$ E = \frac{1}{2}\cdot m \cdot v^2 = \frac{p^2}{2m} \rightarrow p^2 = E \cdot 2\cdot m$ (II)  <br> <br>
 
-$\frac{n^2 \cdot h^2}{4\cdot a^2} = E \cdot 2\cdot m$  <br> <br>
 
-$ \boxed{E_n = \frac{h^2}{8\cdot m\cdot a^2}\cdot n^2 }$
 
 </div>
 
