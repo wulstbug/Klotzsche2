@@ -7031,9 +7031,6 @@ $ \boxed{E_n = \dfrac{h^2}{8\cdot m\cdot a^2}\cdot n^2 }$
 
 </section>
 
-
-
-
 </div>
 
 <div class="flex-child-1" style="min-width: 200px; margin-bottom: -10px">
