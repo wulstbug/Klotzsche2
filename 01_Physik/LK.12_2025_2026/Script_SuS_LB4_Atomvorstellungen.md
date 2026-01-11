@@ -699,9 +699,13 @@ __Teilaufgabe e)__
 
 Berechnen Sie die Wellenlänge der lang- ($\lambda_{lang}$) und kurzwelligen ($\lambda_{kurz}$) Linie!
 
+<p style='margin-left:10%'>
+
 @rangeQuiz2( $\lambda_{lang}$, 4050e-9, $\text{m}$ )
 
 @rangeQuiz2( $\lambda_{kurz}$, 95.0e-9, $\text{m}$ )
+
+</p>
 
 <details style="margin-left:10%;color:blue">
 
@@ -715,7 +719,7 @@ Berechnen Sie die Wellenlänge der lang- ($\lambda_{lang}$) und kurzwelligen ($\
 
 <details style="margin-left:10%;color:blue">
 
-<summary>Lösung</summary>
+<summary> Lösung </summary>
 
 **I. Kurzwellige Linie (Größte Energie $\Delta E_{max}$):**
 Dies ist der Rückfall vom höchsten erreichten Niveau ($n=5$) zum Grundzustand ($n=1$).
@@ -725,11 +729,16 @@ $$ \lambda_{kurz} = \frac{1240\,\text{eV} \cdot \text{nm}}{13,056\,\text{eV}} \a
 $$\mathbf{\lambda_{kurz} \approx 9,50 \cdot 10^{-8}\,\text{m}}$$
 
 **II. Langwelligste Linie (Kleinste Energie $\Delta E_{min}$):**
+
 Dies ist der Rückfall zwischen den beiden höchsten angeregten Niveaus: $n=5 \to n=4$.
+
 $$ \Delta E_{min} = E_5 - E_4 = (-0,544\,\text{eV}) - (-0,85\,\text{eV}) = 0,306\,\text{eV} $$
+
 Umrechnung der Wellenlänge:
+
 $$ \lambda_{lang} = \frac{1240\,\text{eV} \cdot \text{nm}}{0,306\,\text{eV}} \approx 4052\,\text{nm} $$
-$$\mathbf{\lambda_{lang} \approx 4,05 \cdot 10^{-6}\,\text{m}}$$ (Liegt im infraroten Bereich)
+
+$$\mathbf{\lambda_{lang} \approx 4,05 \cdot 10^{-6}\,\text{m}}\,\textrm{(infrarot)}$$
 
 </details>
 
@@ -760,8 +769,8 @@ Da Photonen ihre gesamte Energie in einem Stoß abgeben müssen, muss diese Ener
 Da die $13,2\,\text{eV}$ Photonenenergie **keinem** der diskreten Übergänge von $n=1$ in einen höheren Zustand **exakt** entspricht und die Ionisierungsenergie unterschreitet, können die Photonen **keine** Energie an die H-Atome abgeben.
 
 **Beobachtung:** Es würde **keine** zusätzliche elektromagnetische Strahlung emittiert und es würde **keine** messbare Schwächung der durchgelassenen Photonenstrahlung festgestellt. Das Gas erscheint "transparent" für diese Photonen.
-</details>
 
+</details>
 
 ## 12. 5. Modell eindimensionaler Potentialtopf
 
