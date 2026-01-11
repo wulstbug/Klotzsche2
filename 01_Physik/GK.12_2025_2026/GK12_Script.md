@@ -3608,61 +3608,6 @@ Eine größere Anzahl von Photonen (b+c) hinterlässt auf dem Schirm ein Bild, w
 
 </section>
 
-
 ******************
 
-### Abituraufgabe zu Elektroneninterferenz am Doppelspalt
-
-Im Jahr 1923 postulierte Louis de Broglie, dass Materieteilchen auch Welleneigenschaften zugeordnet werden können. Im Jahr 1961 veröffentlichte Claus Jönsson eine experimentelle Arbeit zur Beugung von Elektronen am Doppelspalt.
-
---------------------------------------------------------------------------------
-Teilaufgabe 2.1 a)
-Erklären Sie, dass die Elektronenbeugungsaufnahme in Material 2 als Nachweis für die Welleneigenschaften von Elektronen gedeutet werden kann.
-Betrachten Sie die Struktur der Abbildung in Material 2. Welche typischen Phänomene aus der Wellenlehre (Optik) sind hier zu erkennen?
-Die Elektronenbeugungsaufnahme zeigt ein Muster aus hellen und dunklen Streifen, das als Interferenzmuster identifiziert werden kann. Solche Muster entstehen durch die Überlagerung von Wellen, die sich an bestimmten Stellen verstärken (Maxima) oder auslöschen (Minima). Da Interferenz eine charakteristische Eigenschaft von Wellen ist, beweist die globale Verteilung der Elektronen am Schirm deren Wellennatur.
-
---------------------------------------------------------------------------------
-Teilaufgabe 2.1 b)
-Berechnen Sie den Beugungswinkel $ \alpha_1 $ des Maximums 1. Ordnung, welcher unter den von C. Jönsson in Material 1 beschriebenen Versuchsbedingungen zu erwarten ist.
-Nutzen Sie als Wellenlänge den Wert $ \lambda = 4,88 \cdot 10^{-12} \mathrm{m} $ und als Spaltmittenabstand $ g = 2 \cdot 10^{-6} \mathrm{m} $.
-Nutzen Sie die Bedingung für die konstruktive Interferenz am Doppelspalt: $ \sin(\alpha_k) = \frac{k \cdot \lambda}{g} $. Stellen Sie die Formel nach dem Winkel $ \alpha_1 $ um.
-Gegeben sind die Ordnung $ k = 1 $, die Wellenlänge $ \lambda = 4,88 \cdot 10^{-12} \mathrm{m} $ und der Spaltmittenabstand $ g = 2 \cdot 10^{-6} \mathrm{m} $.
-Rechnung: $ \sin(\alpha_1) = \frac{1 \cdot 4,88 \cdot 10^{-12} \mathrm{m}}{2 \cdot 10^{-6} \mathrm{m}} = 2,44 \cdot 10^{-6} $ $ \alpha_1 = \arcsin(2,44 \cdot 10^{-6}) \approx 0,00014^\circ $
-Das Ergebnis stimmt mit dem Kontrollwert aus der Aufgabe überein.
-@rangeQuiz2( $ \alpha_1 $ , 0.00014 , \mathrm{^\circ} )
-
---------------------------------------------------------------------------------
-Teilaufgabe 2.2 a)
-Begründen Sie schrittweise und kausal korrekt strukturiert, in welcher Weise sich das Interferenzmuster aus Material 2 verändert, wenn die Beschleunigungsspannung vergrößert wird.
-Stellen Sie eine Argumentationskette auf, die von der Beschleunigungsspannung über die Energie und den Impuls zur de Broglie-Wellenlänge und schließlich zum Beugungswinkel führt.
-1. Eine Erhöhung der Beschleunigungsspannung $ U_B $ bewirkt eine Zunahme der kinetischen Energie der Elektronen.
-2. Dies führt zu einer höheren Geschwindigkeit und damit zu einem größeren Impuls $ p $.
-3. Nach der de Broglie-Beziehung $ \lambda = \frac{h}{p} $ resultiert daraus eine kleinere Wellenlänge $ \lambda $.
-4. Da der Beugungswinkel $ \alpha direktvonderWellenl 
-a
-¨
- ngeabh 
-a
-¨
- ngt( \sin(\alpha) \sim \lambda $), werden die Beugungswinkel kleiner.
-5. Das gesamte Interferenzmuster zieht sich zusammen, die Abstände zwischen den Maxima verringern sich.
-
---------------------------------------------------------------------------------
-Teilaufgabe 2.2 b)
-Begründen Sie, dass das Interferenzmuster auf dem Leuchtschirm im Beugungsexperiment von C. Jönsson unscharf wird, wenn es mit einem Elektronenstrahl durchgeführt wird, in dem die Elektronen viele unterschiedliche Geschwindigkeiten haben.
-Berücksichtigen Sie, dass jede Geschwindigkeit einer anderen Wellenlänge entspricht und somit ein eigenes Interferenzmuster erzeugt.
-Unterschiedliche Geschwindigkeiten bedeuten nach de Broglie unterschiedliche Impulse und somit eine Vielzahl verschiedener Wellenlängen $ \lambda $ innerhalb des Strahls. Jede dieser Wellenlängen erzeugt ein Interferenzmuster mit leicht unterschiedlichen Abständen zwischen den Maxima und Minima. Die Überlagerung dieser vielen, leicht verschobenen Muster führt dazu, dass die scharfen Kontraste verloren gehen und das Gesamtbild für den Betrachter unscharf erscheint.
-
---------------------------------------------------------------------------------
-Teilaufgabe 2.3 a)
-Interpretieren Sie die gezeigten Messergebnisse in Material 3 hinsichtlich der Fragestellung, inwiefern diese die Wellen- bzw. Teilcheneigenschaften der Elektronen zeigen.
-Vergleichen Sie die Aufnahmen bei geringer Teilchenzahl (Bild a) mit denen bei sehr hoher Teilchenzahl (Bild e) in Material 3.
-Das Experiment von Tonomura demonstriert den Welle-Teilchen-Dualismus:
-• In den Bildern a) und b) sind einzelne, punktförmige Einschläge zu sehen. Dies belegt die Teilcheneigenschaft, da Elektronen als lokalisierte Objekte am Detektor registriert werden.
-• In Bild e) formen die vielen einzelnen Einschläge ein deutliches Streifenmuster. Dies belegt die Welleneigenschaft, da die Verteilung der Auftreffpunkte der statistischen Gesetzmäßigkeit einer Interferenzerscheinung folgt.
-
---------------------------------------------------------------------------------
-Teilaufgabe 2.3 b)
-Erläutern Sie Feynmans Aussage zur Quantentheorie, dass es unmöglich ist, Ereignisse genau vorherzusagen (M 4), am Beispiel des Experimentes von Tonomura (M 3).
-Beziehen Sie sich auf die Vorhersagbarkeit des Auftreffortes eines einzelnen Elektrons im Vergleich zur Vorhersagbarkeit des gesamten Musters.
-Richard Feynman betont, dass man in der Quantenmechanik nicht vorhersagen kann, was im Einzelfall passiert, sondern nur Wahrscheinlichkeiten angeben kann. Im Experiment von Tonomura sieht man dies daran, dass der Auftreffort eines einzelnen Elektrons (z. B. in Bild a) vollkommen unvorhersehbar und scheinbar zufällig ist. Vorhersagbar ist lediglich die Wahrscheinlichkeitsverteilung für eine große Anzahl von Elektronen, die sich schlussendlich im stabilen Interferenzmuster (Bild e) manifestiert.
+### Abituraufgabe zur Welleneigenschaft von Elektronen und Photonen
