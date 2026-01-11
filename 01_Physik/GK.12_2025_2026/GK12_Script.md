@@ -3521,3 +3521,148 @@ $\lambda = \frac{h}{m_p\cdot v} = 6,41 \cdot 10^{-13}\,\mathrm{m}$
 3. [Bitte anklicken: Verständnisfragen-Elektronenbeugung-KI-Gestützt](http://10.102.1.3:3001/?q=Heute%20wurde%20die%20de%20Broglie%20Wellenl%C3%A4nge%20von%20Elektronen%20am%20Beispiel%20des%20Beugungsmusters%20von%20Elektronen%20an%20einem%20Doppelspalt%20erkl%C3%A4rt.%20Dabei%20sind%20sowohl%20einzelne%20Auftreffpunkte%20der%20Elektronen%20sichtbar,%20als%20auch%20ein%20Streifenmuster,%20wenn%20man%20eine%20h%C3%B6here%20Zahl%20an%20Elektronen%20beobachtet.%20Stelle%20mir%20drei%20Verst%C3%A4ndnisfragen%20zum%20Welle%20Teilchendualismus%20am%20Beispiel%20der%20Elektronenbeugung%20am%20Doppelspalt.%20Stelle%20mir%20die%20Fragen%20eine%20nach%20der%20anderen%20und%20warte%20auf%20meine%20Antwort.%20Bewerte%20meine%20Antworten%20jeweils%20auf%20einer%20Skala%20von%200%20bis%2010.%20Gib%20mir%20die%20M%C3%B6glichkeit%20meine%20Antwort%20zu%20verbessern%20oder%20zur%20n%C3%A4chsten%20Frage%20zu%20wechseln.%20Das%20Niveau%20ist%20dabei%20Grundkurs%20Physik.)
 
 4. ![LB S. 67 Aufgabe 14](https://diversewolken.ddns.net/nextcloud/index.php/s/TdRPmigwdPg6y9j/download)
+
+
+## 7. 6. Einzelphotoneninterferenz am Doppelspalt
+
+{{1}}
+****************
+<section class="flex-container">
+
+<div class="flex-child-1" style="min-width: 300px; margin-bottom: -10px">
+
+
+Reduziert man bei einem Doppelspalt-Experiment die Lichtintensität, so lässt sich nachweisen, dass sich im Versuchsaufbau zu einem Zeitpunkt lediglich ein Photon befindet.
+
+{{2}}
+*************
+<p style="color:blue">
+
+Bestimmen Sie für einen Laser der Wellenlänge 650 nm die maximale Lichtleistung, damit sich in der Aperatur der Länge $ℓ=1\,\mathrm{m}$ lediglich 1 Photon befindet.
+
+<details style='margin-left:10%'>
+
+<summary> Lösungshinweis </summary>
+
+Bestimmen Sie die Energie eines Photons. Ermitteln Sie Flugzeit eines Photons. Passen Sie nun die Lichtleistung so an, dass die Zeit, zwischen zwei ausgesandten Photonen größer ist als die Flugzeit.
+
+</details>
+
+</p>
+
+*************
+
+</div>
+
+<div class="flex-child-1" style="min-width: 300px; margin-bottom: -10px">
+
+![Skizze](https://diversewolken.ddns.net/nextcloud/index.php/s/bgosKyRYWKax9zX/download)
+
+</div>
+
+</section>
+****************
+
+{{3}}
+******************
+__Lösung:__
+
+> - Energie eines Photons
+>
+> $$ E_{ph} = \frac{h\cdot c}{\lambda} = 3,06 \cdot 10^{-9} \,\mathrm{J} $$
+>
+> - Flugzeit durch die Apperatur
+>
+> $$ t = \frac{ℓ}{c} = 3,33 \cdot 10^{-9}\,\mathrm{s} $$
+>
+> - Maimale Lichtleistung
+>
+> $$ P_{L} = \dfrac{E_{ph}}{t} = 9,18 \cdot 10^{-11} W$$
+
+******************
+
+
+{{4}}
+******************
+__Beobachtungen auf dem Schirm:__
+
+<section class="flex-container">
+
+<div class="flex-child-1" style="min-width: 300px; margin-bottom: -10px">
+
+Für dieses Experiment wird ein photographischer Schirm genutzt. Jedes auftreffende Photon hinterlässt einen hellen Fleck. Wird das Experiment mit wenigen Photonen durchgeführt (a), so ergibt sich eine scheinbar zufällige Verteilung der Photonen. 
+
+> Der Ort des Auftreffens ist für das einzelne Photon @color(nicht vorhersagbar, red) (@color(nicht determiniert, red)).
+
+Eine größere Anzahl von Photonen (b+c) hinterlässt auf dem Schirm ein Bild, welches einem Interferenzmuster (d) ähnelt
+
+> Die @color(Zufallsverteilung, red) für eine große Anzahl an Photonen ist @color(vorherbestimmt, red) (@color(determiniert, red)).
+
+</div>
+
+<div class="flex-child-1" style="min-width: 300px; margin-bottom: -10px">
+
+![Einzelphotoneninterferenz](https://diversewolken.ddns.net/nextcloud/index.php/s/Hpjzn7WP4Eb9eWA/download)
+
+</div>
+
+</section>
+
+
+******************
+
+### Abituraufgabe zu Elektroneninterferenz am Doppelspalt
+
+Im Jahr 1923 postulierte Louis de Broglie, dass Materieteilchen auch Welleneigenschaften zugeordnet werden können. Im Jahr 1961 veröffentlichte Claus Jönsson eine experimentelle Arbeit zur Beugung von Elektronen am Doppelspalt.
+
+--------------------------------------------------------------------------------
+Teilaufgabe 2.1 a)
+Erklären Sie, dass die Elektronenbeugungsaufnahme in Material 2 als Nachweis für die Welleneigenschaften von Elektronen gedeutet werden kann.
+Betrachten Sie die Struktur der Abbildung in Material 2. Welche typischen Phänomene aus der Wellenlehre (Optik) sind hier zu erkennen?
+Die Elektronenbeugungsaufnahme zeigt ein Muster aus hellen und dunklen Streifen, das als Interferenzmuster identifiziert werden kann. Solche Muster entstehen durch die Überlagerung von Wellen, die sich an bestimmten Stellen verstärken (Maxima) oder auslöschen (Minima). Da Interferenz eine charakteristische Eigenschaft von Wellen ist, beweist die globale Verteilung der Elektronen am Schirm deren Wellennatur.
+
+--------------------------------------------------------------------------------
+Teilaufgabe 2.1 b)
+Berechnen Sie den Beugungswinkel $ \alpha_1 $ des Maximums 1. Ordnung, welcher unter den von C. Jönsson in Material 1 beschriebenen Versuchsbedingungen zu erwarten ist.
+Nutzen Sie als Wellenlänge den Wert $ \lambda = 4,88 \cdot 10^{-12} \mathrm{m} $ und als Spaltmittenabstand $ g = 2 \cdot 10^{-6} \mathrm{m} $.
+Nutzen Sie die Bedingung für die konstruktive Interferenz am Doppelspalt: $ \sin(\alpha_k) = \frac{k \cdot \lambda}{g} $. Stellen Sie die Formel nach dem Winkel $ \alpha_1 $ um.
+Gegeben sind die Ordnung $ k = 1 $, die Wellenlänge $ \lambda = 4,88 \cdot 10^{-12} \mathrm{m} $ und der Spaltmittenabstand $ g = 2 \cdot 10^{-6} \mathrm{m} $.
+Rechnung: $ \sin(\alpha_1) = \frac{1 \cdot 4,88 \cdot 10^{-12} \mathrm{m}}{2 \cdot 10^{-6} \mathrm{m}} = 2,44 \cdot 10^{-6} $ $ \alpha_1 = \arcsin(2,44 \cdot 10^{-6}) \approx 0,00014^\circ $
+Das Ergebnis stimmt mit dem Kontrollwert aus der Aufgabe überein.
+@rangeQuiz2( $ \alpha_1 $ , 0.00014 , \mathrm{^\circ} )
+
+--------------------------------------------------------------------------------
+Teilaufgabe 2.2 a)
+Begründen Sie schrittweise und kausal korrekt strukturiert, in welcher Weise sich das Interferenzmuster aus Material 2 verändert, wenn die Beschleunigungsspannung vergrößert wird.
+Stellen Sie eine Argumentationskette auf, die von der Beschleunigungsspannung über die Energie und den Impuls zur de Broglie-Wellenlänge und schließlich zum Beugungswinkel führt.
+1. Eine Erhöhung der Beschleunigungsspannung $ U_B $ bewirkt eine Zunahme der kinetischen Energie der Elektronen.
+2. Dies führt zu einer höheren Geschwindigkeit und damit zu einem größeren Impuls $ p $.
+3. Nach der de Broglie-Beziehung $ \lambda = \frac{h}{p} $ resultiert daraus eine kleinere Wellenlänge $ \lambda $.
+4. Da der Beugungswinkel $ \alpha direktvonderWellenl 
+a
+¨
+ ngeabh 
+a
+¨
+ ngt( \sin(\alpha) \sim \lambda $), werden die Beugungswinkel kleiner.
+5. Das gesamte Interferenzmuster zieht sich zusammen, die Abstände zwischen den Maxima verringern sich.
+
+--------------------------------------------------------------------------------
+Teilaufgabe 2.2 b)
+Begründen Sie, dass das Interferenzmuster auf dem Leuchtschirm im Beugungsexperiment von C. Jönsson unscharf wird, wenn es mit einem Elektronenstrahl durchgeführt wird, in dem die Elektronen viele unterschiedliche Geschwindigkeiten haben.
+Berücksichtigen Sie, dass jede Geschwindigkeit einer anderen Wellenlänge entspricht und somit ein eigenes Interferenzmuster erzeugt.
+Unterschiedliche Geschwindigkeiten bedeuten nach de Broglie unterschiedliche Impulse und somit eine Vielzahl verschiedener Wellenlängen $ \lambda $ innerhalb des Strahls. Jede dieser Wellenlängen erzeugt ein Interferenzmuster mit leicht unterschiedlichen Abständen zwischen den Maxima und Minima. Die Überlagerung dieser vielen, leicht verschobenen Muster führt dazu, dass die scharfen Kontraste verloren gehen und das Gesamtbild für den Betrachter unscharf erscheint.
+
+--------------------------------------------------------------------------------
+Teilaufgabe 2.3 a)
+Interpretieren Sie die gezeigten Messergebnisse in Material 3 hinsichtlich der Fragestellung, inwiefern diese die Wellen- bzw. Teilcheneigenschaften der Elektronen zeigen.
+Vergleichen Sie die Aufnahmen bei geringer Teilchenzahl (Bild a) mit denen bei sehr hoher Teilchenzahl (Bild e) in Material 3.
+Das Experiment von Tonomura demonstriert den Welle-Teilchen-Dualismus:
+• In den Bildern a) und b) sind einzelne, punktförmige Einschläge zu sehen. Dies belegt die Teilcheneigenschaft, da Elektronen als lokalisierte Objekte am Detektor registriert werden.
+• In Bild e) formen die vielen einzelnen Einschläge ein deutliches Streifenmuster. Dies belegt die Welleneigenschaft, da die Verteilung der Auftreffpunkte der statistischen Gesetzmäßigkeit einer Interferenzerscheinung folgt.
+
+--------------------------------------------------------------------------------
+Teilaufgabe 2.3 b)
+Erläutern Sie Feynmans Aussage zur Quantentheorie, dass es unmöglich ist, Ereignisse genau vorherzusagen (M 4), am Beispiel des Experimentes von Tonomura (M 3).
+Beziehen Sie sich auf die Vorhersagbarkeit des Auftreffortes eines einzelnen Elektrons im Vergleich zur Vorhersagbarkeit des gesamten Musters.
+Richard Feynman betont, dass man in der Quantenmechanik nicht vorhersagen kann, was im Einzelfall passiert, sondern nur Wahrscheinlichkeiten angeben kann. Im Experiment von Tonomura sieht man dies daran, dass der Auftreffort eines einzelnen Elektrons (z. B. in Bild a) vollkommen unvorhersehbar und scheinbar zufällig ist. Vorhersagbar ist lediglich die Wahrscheinlichkeitsverteilung für eine große Anzahl von Elektronen, die sich schlussendlich im stabilen Interferenzmuster (Bild e) manifestiert.

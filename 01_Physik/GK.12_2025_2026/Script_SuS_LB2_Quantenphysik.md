@@ -716,3 +716,93 @@ $\lambda = \frac{h}{m_p\cdot v} = 6,41 \cdot 10^{-13}\,\mathrm{m}$
 3. [Bitte anklicken: Verständnisfragen-Elektronenbeugung-KI-Gestützt](http://10.102.1.3:3001/?q=Heute%20wurde%20die%20de%20Broglie%20Wellenl%C3%A4nge%20von%20Elektronen%20am%20Beispiel%20des%20Beugungsmusters%20von%20Elektronen%20an%20einem%20Doppelspalt%20erkl%C3%A4rt.%20Dabei%20sind%20sowohl%20einzelne%20Auftreffpunkte%20der%20Elektronen%20sichtbar,%20als%20auch%20ein%20Streifenmuster,%20wenn%20man%20eine%20h%C3%B6here%20Zahl%20an%20Elektronen%20beobachtet.%20Stelle%20mir%20drei%20Verst%C3%A4ndnisfragen%20zum%20Welle%20Teilchendualismus%20am%20Beispiel%20der%20Elektronenbeugung%20am%20Doppelspalt.%20Stelle%20mir%20die%20Fragen%20eine%20nach%20der%20anderen%20und%20warte%20auf%20meine%20Antwort.%20Bewerte%20meine%20Antworten%20jeweils%20auf%20einer%20Skala%20von%200%20bis%2010.%20Gib%20mir%20die%20M%C3%B6glichkeit%20meine%20Antwort%20zu%20verbessern%20oder%20zur%20n%C3%A4chsten%20Frage%20zu%20wechseln.%20Das%20Niveau%20ist%20dabei%20Grundkurs%20Physik.)
 
 4. ![LB S. 67 Aufgabe 14](https://diversewolken.ddns.net/nextcloud/index.php/s/TdRPmigwdPg6y9j/download)
+
+
+
+## 7. 6. Einzelphotoneninterferenz am Doppelspalt
+
+{{1}}
+****************
+<section class="flex-container">
+
+<div class="flex-child-1" style="min-width: 300px; margin-bottom: -10px">
+
+
+Reduziert man bei einem Doppelspalt-Experiment die Lichtintensität, so lässt sich nachweisen, dass sich im Versuchsaufbau zu einem Zeitpunkt lediglich ein Photon befindet.
+
+{{2}}
+*************
+<p style="color:blue">
+
+Bestimmen Sie für einen Laser der Wellenlänge 650 nm die maximale Lichtleistung, damit sich in der Aperatur der Länge $ℓ=1\,\mathrm{m}$ lediglich 1 Photon befindet.
+
+<details style='margin-left:10%'>
+
+<summary> Lösungshinweis </summary>
+
+Bestimmen Sie die Energie eines Photons. Ermitteln Sie Flugzeit eines Photons. Passen Sie nun die Lichtleistung so an, dass die Zeit, zwischen zwei ausgesandten Photonen größer ist als die Flugzeit.
+
+</details>
+
+</p>
+
+*************
+
+</div>
+
+<div class="flex-child-1" style="min-width: 300px; margin-bottom: -10px">
+
+![Skizze](https://diversewolken.ddns.net/nextcloud/index.php/s/bgosKyRYWKax9zX/download)
+
+</div>
+
+</section>
+****************
+
+{{3}}
+******************
+__Lösung:__
+
+> - Energie eines Photons
+>
+> $$ E_{ph} = \frac{h\cdot c}{\lambda} = 3,06 \cdot 10^{-9} \,\mathrm{J} $$
+>
+> - Flugzeit durch die Apperatur
+>
+> $$ t = \frac{ℓ}{c} = 3,33 \cdot 10^{-9}\,\mathrm{s} $$
+>
+> - Maimale Lichtleistung
+>
+> $$ P_{L} = \dfrac{E_{ph}}{t} = 9,18 \cdot 10^{-11} W$$
+
+******************
+
+
+{{4}}
+******************
+__Beobachtungen auf dem Schirm:__
+
+<section class="flex-container">
+
+<div class="flex-child-1" style="min-width: 300px; margin-bottom: -10px">
+
+Für dieses Experiment wird ein photographischer Schirm genutzt. Jedes auftreffende Photon hinterlässt einen hellen Fleck. Wird das Experiment mit wenigen Photonen durchgeführt (a), so ergibt sich eine scheinbar zufällige Verteilung der Photonen. 
+
+> Der Ort des Auftreffens ist für das einzelne Photon @color(nicht vorhersagbar, red) (@color(nicht determiniert, red)).
+
+Eine größere Anzahl von Photonen (b+c) hinterlässt auf dem Schirm ein Bild, welches einem Interferenzmuster (d) ähnelt
+
+> Die @color(Zufallsverteilung, red) für eine große Anzahl an Photonen ist @color(determiniert, red) (@color(vorherbestimmt, red)).
+
+</div>
+
+<div class="flex-child-1" style="min-width: 300px; margin-bottom: -10px">
+
+![Einzelphotoneninterferenz](https://diversewolken.ddns.net/nextcloud/index.php/s/Hpjzn7WP4Eb9eWA/download)
+
+</div>
+
+</section>
+
+
+******************
