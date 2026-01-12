@@ -2752,9 +2752,130 @@ __QR-Codes zu den Übungen:__
 
 </section>
 
+## 2. 16. Akkustische Wellen
+
+__1. Begriffserklärung__
+
+<p style="margin-left:5%">
+
+**Akustische Wellen (Schallwellen)** sind mechanische Wellen, die sich in einem Medium (z. B. Luft, Wasser, Festkörper) ausbreiten. Sie entstehen durch **Schwingungen** eines Körpers und werden vom menschlichen Ohr als **Schall** wahrgenommen.<br>
+
+__Wichtig:__ Schall kann sich **nicht im Vakuum** ausbreiten.
+
+</p>
+
+---
+
+__2. Entstehung von Schall__
+
+<p style="margin-left:5%">
+
+Schall entsteht, wenn ein Körper schwingt.<br>
+
+__Beispiele:__
+
+* Gitarrensaite → schwingende Saite
+* Lautsprecher → schwingende Membran
+* Stimmgabel → schwingender Metallkörper
+
+Die Schwingung versetzt die umgebenden Teilchen des Mediums in Bewegung.
+
+</p>
+
+---
+
+__3. Ausbreitung von Schall__
+
+<p style="margin-left:5%">
+
+* Schall breitet sich als **Longitudinalwelle** aus.
+* Die Teilchen schwingen **parallel zur Ausbreitungsrichtung**.
+* Es entstehen **Verdichtungen** und **Verdünnungen** im Medium.
+
+**Medien für Schallausbreitung:**
+
+* Gase (z. B. Luft)
+* Flüssigkeiten (z. B. Wasser)
+* Festkörper (z. B. Metall)
+</p>
+
+---
+
+__4. Schallgeschwindigkeit__
+
+<p style="margin-left:5%">
+
+Die Schallgeschwindigkeit hängt vom Medium ab.
+
+**Typische Werte:**
+
+* Luft (20 °C): ca. **343 m/s**
+* Wasser: ca. **1500 m/s**
+* Stahl: ca. **5000 m/s**
+
+Merke: Je dichter und elastischer das Medium, desto größer ist die Schallgeschwindigkeit (Schallgeschwindigkeiten siehe Tafelwerk S. 76).
+</p>
+
+---
+
+__5. Kenngrößen von Schallwellen__
+
+<p style="margin-left:5%">
+
+__5.1. Frequenz (f)__
+
+- gibt die Anzahl der Schwingungen pro Sekunde an
+
+- Einheit: Hertz (Hz)
+
+- Bestimmt die Tonhöhe: 
+
+  - hoher Ton -> hohe Frequenz <br>
+
+  - tiefer Ton -> niedrige Frequenz <br>
+
+__5.2 Amplitude__
+
+- maximale Auslenkung der Schwingung
+
+- bestimmt die Lautstärke
+
+  - große Amplitude -> laut
+
+  - kleine Amplitude -> leise
+
+</p>
+
+---
+
+__6. Arten von Schall__
+
+<p style="margin-left:5%">
+
+* **Hörbarer Schall:** 20 Hz – 20 000 Hz
+* **Infraschall:** unter 20 Hz (z. B. Erdbeben)
+* **Ultraschall:** über 20 000 Hz (z. B. medizinische Diagnostik)
+</p>
+
+---
+
+__7. Wahrnehmung von Schall__
+
+<p style="margin-left:5%">
+
+Das menschliche Ohr wandelt Schallwellen in Nervenimpulse um.
+
+**Zuordnung:**
+
+* Frequenz → Tonhöhe
+* Amplitude → Lautstärke
+</p>
 
 
 
+## Übungsaufgaben
 
-
+1. Erkläre, warum man im Weltraum nichts hören kann.
+2. Ordne zu: hohe Frequenz – tiefer Ton / hoher Ton.
+3. Nenne zwei Beispiele für Ultraschall im Alltag.
 
