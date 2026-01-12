@@ -7134,3 +7134,15 @@ $\lambda_{3->1} = \frac{h\cdot c}{(E_3-E1)} = 1,03\cdot10^{-7}\,\mathrm{m} = 103
 $\lambda_{3->1} = \frac{h\cdot c}{(E_3-E2)} = 2,75\cdot10^{-7}\,\mathrm{m} = 275\,\mathrm{m}$
 
 </details>
+
+## 12. 6. Das Pauli-Prinzip
+
+Das Pauli-Ausschlussprinzip (Wolfgang Pauli, 1925) ist ein fundamentales Konzept der Quantenphysik und besagt:
+
+> Zwei Elektronen, Protonen, Neutronen (im allgemeinen Fermionen) können nicht gleichzeitig denselben quantenmechanischen Zustand (d.h. denselben Zustand mit identischen Quantnezahlen) einnehmen.
+
+__Anders ausgedrückt:__ Damit sich auf einem Energieniveau zwei Elektronen befinden können müssen sie sich in einer anderen Quantenzahl (z.B. Nebenquantenzahl -> Orbitalform, Magnetquantenzahl -> Spin) unterscheiden.
+
+__Orbitale beschreiben die Aufenthaltswahrscheinlichkeit der Elektronen:__
+
+![Elektronen-Orbitale](https://diversewolken.ddns.net/nextcloud/index.php/s/7Jj9YGdfHNYEW67/download)<!-- style="margin-left:5%" -->

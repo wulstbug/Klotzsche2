@@ -3618,7 +3618,7 @@ Eine größere Anzahl von Photonen (b+c) hinterlässt auf dem Schirm ein Bild, w
 
 ---
 
-Nehmen Sie für die folgenden Aufgaben an, dass sich Elektronen mit einer Geschwindigkeit von $v = 8,1 \cdot 10^7 \, \text{m} \cdot \text{s}^{-1}$.
+Nehmen Sie für die folgenden Aufgaben an, dass sich Elektronen mit einer Geschwindigkeit von $v = 8,1 \cdot 10^7 \, \text{m} \cdot \text{s}^{-1}$ bewegen.
 
 > b) Berechne die De Broglie-Wellenlänge $\lambda$ dieses Elektrons.
 
