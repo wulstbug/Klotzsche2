@@ -91,17 +91,44 @@ mode: presentation
 
 ## Aufgaben LK1 - Nawi 8
 
-@color(Von den folgenden zwei Aufgaben ist __genau eine__ Aufgabe zu lösen., blue)
+@color(Von den folgenden drei Aufgaben sind __genau zwei__ Aufgaben zu lösen., blue)
 
 ---
 
-<H4> 1. Moodle-Test </H4>
+1. [Aufgabe-1-Reflexion-Ebener-Spiegel](https://www.geogebra.org/classroom/fcghsuwb)
 
-Wechsle zu Moodle. Logge dich ein. Wähle den Test und warte auf das Testkennwort.
+<p style="margin:5%">
 
-[![Moodle](https://upload.wikimedia.org/wikipedia/commons/c/c6/Moodle-logo.svg)<!-- style="margin-left:10%;max-width:300px"-->](https://diversewolken.ddns.net/moodle/mod/quiz/view.php?id=583)
+> [![Aufgabe-1-Reflexion-Ebener-Spiegel](https://diversewolken.ddns.net/nextcloud/index.php/s/n8m7YAd9rcxgBB9/download)](https://www.geogebra.org/classroom/fcghsuwb)
+
+</p>
 
 ---
 
-<H4> 2. Erstellung eines astronomischen Bildes </H4>
+2. [Aufgabe-2-Hubble-Hohlspiegel](https://www.geogebra.org/classroom/nkdkja9k)
 
+<p style="margin:5%">
+
+> [![Aufgabe-Konstruktion-2](https://diversewolken.ddns.net/nextcloud/index.php/s/n8m7YAd9rcxgBB9/download)](https://www.geogebra.org/classroom/nkdkja9k)
+
+</p>
+
+---
+
+3. [Aufgabe-3-Schattenkonstruktion-3D](https://www.geogebra.org/classroom/hj8euenh)
+
+<p style="margin:5%">
+
+> [![Aufgabe-Konstruktion-3](https://diversewolken.ddns.net/nextcloud/index.php/s/n8m7YAd9rcxgBB9/download)](https://www.geogebra.org/classroom/hj8euenh)
+
+</p>
+
+---
+
+4. Zu bewertende Aufgaben eingeben
+
+<p style="margin:5%">
+
+> ??[Umfrage-Aufgaben](https://forms.office.com/e/ZBexeSkgAW)
+
+</p>
