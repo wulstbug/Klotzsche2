@@ -810,10 +810,12 @@ Eine größere Anzahl von Photonen (b+c) hinterlässt auf dem Schirm ein Bild, w
 
 ### Übungsaufgabe zu Elektronen als Quantenobjekte
 
-a) [KI-Aufgabe-Gemeinsamkeiten-Unterschiede-Elektronen-Photonen](http://10.102.1.3:3001/?q=Im%20Grundkurs%20Physik%20wurde%20das%20Interferenzbild%20einzelner%20Elektronen%20und%20einzelner%20Photonen%20besprochen.%20Stelle%20mir%20auf%20der%20Grundlage%20des%20Welle-Teilchen-Dualismus%20von%20Elektronen%20und%20Photonen%20f%C3%BCnf%20Verst%C3%A4ndnisfragen%20zu%20Gemeinsamkeiten%20und%20Unterschieden%20von%20Elektronen%20und%20Photonen.%20Stelle%20mir%20die%20Fragen%20eine%20nach%20der%20anderen%20und%20warte%20auf%20meine%20Antwort.%20Hilf%20mir%20durch%20die%20Fragen%20diese%20Unterschiede%20herauszuarbeiten.%20Gib%20mir%20zu%20jeder%20meiner%20Antworten%20Feedback.%20Gehe%20dabei%20Kleinschrittig%20vor.%20Vernachl%C3%A4ssige%20Effekte%20der%20relativistischen%20Geschwindigkeit.%20Achte%20darauf,%20dass%20das%20Niveau%20Gymnasium%20Grundkurs%20Klasse%2012%20nicht%20%C3%BCberschreitet.)
+> a) [KI-Aufgabe-Gemeinsamkeiten-Unterschiede-Elektronen-Photonen](http://10.102.1.3:3001/?q=Im%20Grundkurs%20Physik%20wurde%20das%20Interferenzbild%20einzelner%20Elektronen%20und%20einzelner%20Photonen%20besprochen.%20Stelle%20mir%20auf%20der%20Grundlage%20des%20Welle-Teilchen-Dualismus%20von%20Elektronen%20und%20Photonen%20f%C3%BCnf%20Verst%C3%A4ndnisfragen%20zu%20Gemeinsamkeiten%20und%20Unterschieden%20von%20Elektronen%20und%20Photonen.%20Stelle%20mir%20die%20Fragen%20eine%20nach%20der%20anderen%20und%20warte%20auf%20meine%20Antwort.%20Hilf%20mir%20durch%20die%20Fragen%20diese%20Unterschiede%20herauszuarbeiten.%20Gib%20mir%20zu%20jeder%20meiner%20Antworten%20Feedback.%20Gehe%20dabei%20Kleinschrittig%20vor.%20Vernachl%C3%A4ssige%20Effekte%20der%20relativistischen%20Geschwindigkeit.%20Achte%20darauf,%20dass%20das%20Niveau%20Gymnasium%20Grundkurs%20Klasse%2012%20nicht%20%C3%BCberschreitet.)
 
 
-> Elektronen bewegen sich mit einer Geschwindigkeit von $v = 8,1 \cdot 10^7 \, \text{m} \cdot \text{s}^{-1}$.
+---
+
+Nehmen Sie für die folgenden Aufgaben an, dass sich Elektronen mit einer Geschwindigkeit von $v = 8,1 \cdot 10^7 \, \text{m} \cdot \text{s}^{-1}$.
 
 > b) Berechne die De Broglie-Wellenlänge $\lambda$ dieses Elektrons.
 
@@ -884,7 +886,7 @@ $$\mathbf{U \approx 18653 \, \text{V}}$$
 
 ---
 
-> d) Die Elektronen werden nun durch ein atomares Gitter mit der Gitterkonstanten $b = 10 \, \text{pm}$ geschickt. Ermitteln Sie den Abstand $s_k$ des ersten ($k=1$) und des zweiten ($k=2$) Maximums vom Maximum Nullter Ordnung. <br> Der Abstand des Schirms vom Gitter beträgt 6 cm.
+> d) Die Elektronen werden nun durch ein Gitter mit der Gitterkonstanten $b = 10 \, \text{pm}$ geschickt. Ermitteln Sie den Abstand $s_k$ des ersten ($k=1$) und des zweiten ($k=2$) Maximums vom Maximum Nullter Ordnung. <br> Der Abstand des Schirms vom Gitter beträgt 6 cm.
 
 <p style='margin-left:10%'>
 
@@ -934,5 +936,44 @@ $$ a_1 = 0,06 \, \text{m} \cdot \tan(63,9^\circ) \approx 0,06 \, \text{m} \cdot 
 $$\mathbf{a_1 \approx 0,123 \, \text{m}}$$
 
 **Ergebnis:** Der Abstand des ersten Maximums beträgt $0,123 \, \text{m}$. Das zweite Maximum existiert nicht.
+
+</details>
+
+---
+
+> e) Mit Photonen soll an dem Aufbau ein identisches Interferenzmuster erzeugt werden. Geben Sie die Wellenlänge und die Energie der Photonen an. Ordnen Sie die Photonen einem Strahlungs-Bereich zu.
+
+<p style='margin-left:10%'>
+
+@rangeQuiz2( $\lambda_{ph}$, 8.98e-12, $\text{m}$)
+
+@rangeQuiz2( $E_{ph}$, 2.21e-14, $\text{J}$)
+
+<!-- data-solution-button="off" -->
+[[ Terahertzstrahlung | Infrarotstrahlung | sichtbares Licht | ultraviolettes Licht | (Röntgenstrahlung) | (Gammastrahlung) ]]
+
+</p>
+
+<details style='color:blue;margin-left:10%'>
+
+<summary> Lösungshinweis </summary>
+
+Wenn der Versuchsaufbau identisch ist, hängt die Ausprägung des Interferenzmusters nur von einer Eigenschaft der einfallenden Welle ab. Überprüfen Sie diese Eigenschaft bei den Elektronen.
+
+Die Energie der Photonen ermittelt sich aus der Beziehung $E_ph = h \cdot f$.
+
+Ermitteln Sie mit Hilfe des Spektrums elektromagnetischer Wellen der Bereich für die vorliegenenden Photonen.
+
+</details>
+
+<details style='color:blue;margin-left:10%'>
+
+<summary> Lösung </summary>
+
+Die entscheidende Eigenschaft ist genau die Wellenlänge. Die Wellenlänge der Elektronen ist laut Aufgabe b) $8,98\cdot10^{-12}\,\mathrm{m}$. Somit muss die Wellenlänge der Photonen ebenfalls diesen Wert haben.
+
+$E_ph = h \cdot f = \dfrac{h \cdot c}{\lambda} = 2,21 \cdot 10^{-14} J$.
+
+$\approx9\cdot10^{-12} m$ fallen in den Bereich zwischen Röntgenstrahlung und Gammastrahlung.
 
 </details>
