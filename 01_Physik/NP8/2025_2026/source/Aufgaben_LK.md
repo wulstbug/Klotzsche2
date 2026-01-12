@@ -105,9 +105,23 @@ Wechsle zu Moodle. Logge dich ein. Wähle den Test und warte auf das Testkennwor
 
 <H4> 2. Erstellung eines astronomischen Bildes </H4>
 
-- Erstelle ein astronomisches Bild und dokumentiere den Entstehungsprozess. 
+- Erstelle ein mehrfarbiges astronomisches Bild und dokumentiere den Entstehungsprozess
+
+- Lege dafür mehrere Farbschichten übereinander
 
 - Nutze für die Dokumentation entweder Canva, Powerpoint oder ein anderes Programm (z.B. Word)
 
      | | |
      | [![Powerpoint-Datei](https://upload.wikimedia.org/wikipedia/de/thumb/c/c1/Canva_Logo_2021.svg/250px-Canva_Logo_2021.svg.png)<!-- style="margin-left:10%"-->](https://www.canva.com/brand/join?token=7H1zFLcHM2QT8qDKhHIvrg&brandingVariant=edu&invitationDestinationType=group&postJoinPath=https%3A%2F%2Fwww.canva.com%2Fassignment%2FDAG-MEf0IYA) | [![Powerpoint-Datei](https://diversewolken.ddns.net/nextcloud/index.php/s/rY4Sbg4mNqDd5Cd/download)<!-- style="margin-left:10%"-->]() |
+
+- Mögliche Datensätze sind hier aufgelistet:
+
+<p style="margin-left:10%">
+
+![Protoplanetarer Nebel](https://diversewolken.ddns.net/nextcloud/index.php/s/PqgERr2xt8i7Med/download "[__Download: Protoplanetarer Nebel Roberts22__](https://diversewolken.ddns.net/nextcloud/index.php/s/z8aNGd9ZH5RReCA/download)") ![Messier17](https://diversewolken.ddns.net/nextcloud/index.php/s/qbFaWHTfAeWd6mT/download "[Download: __Messier17__](https://diversewolken.ddns.net/nextcloud/index.php/s/jEkJ3dx7ksBxFSG/download)")![Download __Andromeda__](https://diversewolken.ddns.net/nextcloud/index.php/s/6g6T2Hx7a6wbtZs/download "[Download __Andromeda__](https://diversewolken.ddns.net/nextcloud/index.php/s/6EAJGojPg2bbJx4/download)") ![Sternenhaufen](https://diversewolken.ddns.net/nextcloud/index.php/s/mc5HffHedeGa2H7/download "[Download __Sternenhaufen M35__](https://diversewolken.ddns.net/nextcloud/index.php/s/SNH69qqnJ97KYf8/download)") ![Sternengeburtsort](https://diversewolken.ddns.net/nextcloud/index.php/s/DgbMbws45onKZwq/download "[Download __Sternengeburtsnebel N11B__](https://diversewolken.ddns.net/nextcloud/index.php/s/GXWMXnSBMGE8yCE/download)") ![Antennengalaxie](https://diversewolken.ddns.net/nextcloud/index.php/s/9tp4AbWfw4TPitH/download "[Download __Antennengalaxy__](https://diversewolken.ddns.net/nextcloud/index.php/s/TR68AnTQMttWxpN/download)") ![BoxNebula_NGC6309](https://diversewolken.ddns.net/nextcloud/index.php/s/YpCrG9HRYtJL8pM/download "[Download __BoxNebula NGC6309__](https://diversewolken.ddns.net/nextcloud/index.php/s/ffmNCi5wgeRfkms/download)")![SäulenDerSchöpfung](https://diversewolken.ddns.net/nextcloud/index.php/s/9TNKpkfnG6GNZqN/download "[Download __Säulen der Schöpfung__](https://diversewolken.ddns.net/nextcloud/index.php/s/dSPGZjLAk4TbiRa/download)")![ZwergGalaxy](https://diversewolken.ddns.net/nextcloud/index.php/s/jSQqnEd3pyfMksG/download "[Download __Zwerggalaxie__](https://diversewolken.ddns.net/nextcloud/index.php/s/3NNmPRS7FyK2QGi/download)")![Käfernebel](https://diversewolken.ddns.net/nextcloud/index.php/s/zNgFznYprCJQSgX/download "[Download __Käfernebel__](https://diversewolken.ddns.net/nextcloud/index.php/s/AWcdYQYLAcywJiA/download)")
+
+</p>
+
+- Klicke auf Download -> Datei auf den PC herunterladen
+
+- wenn die Datei auf den PC herunter geladen ist
