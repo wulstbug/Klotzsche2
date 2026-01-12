@@ -2768,7 +2768,9 @@ __Wichtig:__ Schall kann sich **nicht im Vakuum** ausbreiten.
 
 __2. Entstehung von Schall__
 
-<p style="margin-left:5%">
+<section class="flex-container">
+
+<div class="flex-child-1" style="min-width: 300px; margin-bottom: -10px;margin-left:5%">
 
 Schall entsteht, wenn ein Körper schwingt.<br>
 
@@ -2780,17 +2782,30 @@ __Beispiele:__
 
 Die Schwingung versetzt die umgebenden Teilchen des Mediums in Bewegung.
 
-</p>
+
+</div>
+
+<div class="flex-child-1" style="min-width: 300px; margin-bottom: -10px">
+
+![EntstehungSchallwellen](https://diversewolken.ddns.net/nextcloud/index.php/s/AfpBi3xyrxZwboS/download)
+
+</div>
+
+</section>
 
 ---
 
 __3. Ausbreitung von Schall__
 
-<p style="margin-left:5%">
+<section class="flex-container">
+
+<div class="flex-child-1" style="min-width: 300px; margin-bottom: -10px; margin-left:5%">
 
 * Schall breitet sich als **Longitudinalwelle** aus.
 * Die Teilchen schwingen **parallel zur Ausbreitungsrichtung**.
 * Es entstehen **Verdichtungen** und **Verdünnungen** im Medium.
+
+<br>
 
 **Medien für Schallausbreitung:**
 
@@ -2798,13 +2813,25 @@ __3. Ausbreitung von Schall__
 * Flüssigkeiten (z. B. Wasser)
 * Festkörper (z. B. Metall)
 
-</p>
+</div>
+
+<div class="flex-child-1" style="min-width: 300px; margin-bottom: -10px">
+
+![Ausbreitung](https://upload.wikimedia.org/wikipedia/commons/4/48/Longitudinalwelle_Transversalwelle.png "Dunkle Stellen (hoher Luftdruck), Helle Stellen (niedriger Luftdruck)")
+
+![AusbreitungImMedium](https://diversewolken.ddns.net/nextcloud/index.php/s/ec9sic9DpMdYmds/download)
+
+</div>
+
+</section>
 
 ---
 
 __4. Schallgeschwindigkeit__
 
-<p style="margin-left:5%">
+<section class="flex-container">
+
+<div class="flex-child-1" style="min-width: 300px; margin-bottom: -10px;margin-left:5%">
 
 Die Schallgeschwindigkeit hängt vom Medium ab.
 
@@ -2814,14 +2841,45 @@ Die Schallgeschwindigkeit hängt vom Medium ab.
 * Wasser: ca. **1500 m/s**
 * Stahl: ca. **5000 m/s**
 
-Merke: Je dichter und elastischer das Medium, desto größer ist die Schallgeschwindigkeit (Schallgeschwindigkeiten siehe Tafelwerk S. 76).
+</div>
+
+<div class="flex-child-1" style="min-width: 300px; margin-bottom: -10px">
+
+Es gilt die __Wellenausbreitungsgleichung__:
+
+$$ \boxed{v = \lambda \cdot f } $$
+
+<details style='color:blue; margin-left:10%'>
+
+<summary> Rechenaufgabe </summary>
+
+Ermittle die Wellenlänge des Kammerton A (440 Hz) in Luft bei ca. 20 °C. 
+
+<p style='color:blue;margin-left:10%'>
+
+@rangeQuiz2($\lambda$,0.78,$\mathrm{m}$)
+
+</p>
+
+</details>
+
+</div>
+
+</section>
+
+<p style="margin-left:5%">
+
+> Je dichter und elastischer das Medium, desto größer ist die Schallgeschwindigkeit (Schallgeschwindigkeiten siehe Tafelwerk S. 76).
+
 </p>
 
 ---
 
 __5. Kenngrößen von Schallwellen__
 
-<p style="margin-left:5%">
+<section class="flex-container">
+
+<div class="flex-child-1" style="min-width: 300px; margin-bottom: -10px;margin-left:5%">
 
 __5.1. Frequenz (f)__
 
@@ -2835,6 +2893,18 @@ __5.1. Frequenz (f)__
 
   - tiefer Ton -> niedrige Frequenz <br>
 
+
+</div>
+
+<div class="flex-child-1" style="min-width: 300px; margin-bottom: -10px">
+
+![FrequenzTonhöhe](https://diversewolken.ddns.net/nextcloud/index.php/s/eKqN7rLCyNAbbfq/download)
+
+</div>
+
+<div class="flex-child-1" style="min-width: 300px; margin-bottom: -10px;margin-left:5%">
+
+
 __5.2 Amplitude__
 
 - maximale Auslenkung der Schwingung
@@ -2845,24 +2915,47 @@ __5.2 Amplitude__
 
   - kleine Amplitude -> leise
 
-</p>
+[QuizZuSchallentstehung](https://learningapps.org/31662698)
+
+</div>
+
+<div class="flex-child-1" style="min-width: 300px; margin-bottom: -10px">
+
+![AmplitudeLautstärke](https://diversewolken.ddns.net/nextcloud/index.php/s/fkAq785zc7BTHFr/download)
+
+</div>
+
+</section>
 
 ---
 
 __6. Arten von Schall__
 
-<p style="margin-left:5%">
+<section class="flex-container">
 
-* **Hörbarer Schall:** 20 Hz – 20 000 Hz
-* **Infraschall:** unter 20 Hz (z. B. Erdbeben)
-* **Ultraschall:** über 20 000 Hz (z. B. medizinische Diagnostik)
-</p>
+<div class="flex-child-1" style="min-width: 300px; margin-bottom: -10px">
+
+- **Hörbarer Schall:** 20 Hz – 20 000 Hz
+- **Infraschall:** unter 20 Hz (z. B. Erdbeben)
+- **Ultraschall:** über 20 000 Hz (z. B. medizinische Diagnostik)
+</div>
+
+<div class="flex-child-1" style="min-width: 300px; margin-bottom: -10px; margin-left:5%">
+
+![SchallArten](https://diversewolken.ddns.net/nextcloud/index.php/s/4HR54XR8WiSb4Pp/download)
+
+</div>
+
+</section>
+
 
 ---
 
 __7. Wahrnehmung von Schall__
 
-<p style="margin-left:5%">
+<section class="flex-container">
+
+<div class="flex-child-1" style="min-width: 300px; margin-bottom: -10px;margin-left:5%">
 
 Das menschliche Ohr wandelt Schallwellen in Nervenimpulse um.
 
@@ -2870,13 +2963,17 @@ Das menschliche Ohr wandelt Schallwellen in Nervenimpulse um.
 
 * Frequenz → Tonhöhe
 * Amplitude → Lautstärke
-</p>
 
+[Übung: Beschrifte das menschliche Ohr](https://learningapps.org/14217525)
 
+</div>
 
-## Übungsaufgaben
+<div class="flex-child-1" style="min-width: 300px; margin-bottom: -10px">
 
-1. Erkläre, warum man im Weltraum nichts hören kann.
-2. Ordne zu: hohe Frequenz – tiefer Ton / hoher Ton.
-3. Nenne zwei Beispiele für Ultraschall im Alltag.
+![UmwandlungSchallOhr](https://diversewolken.ddns.net/nextcloud/index.php/s/xCd4nTj9zH4LSHK/download)
+
+</div>
+
+</section>
+
 
