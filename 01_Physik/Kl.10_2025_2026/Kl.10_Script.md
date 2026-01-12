@@ -2797,6 +2797,7 @@ __3. Ausbreitung von Schall__
 * Gase (z. B. Luft)
 * Flüssigkeiten (z. B. Wasser)
 * Festkörper (z. B. Metall)
+
 </p>
 
 ---
