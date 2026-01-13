@@ -7157,7 +7157,7 @@ __Orbitale beschreiben die Aufenthaltswahrscheinlichkeit der Elektronen:__
 
 ### Aufgabe Mehrelektronensystem -  Quantensprünge beim Helium-Ion ($He^+$)
 
-Das Bohr’sche Atommodell lässt sich auf wasserstoffähnliche Ionen anwenden, indem die Kernladungszahl $Z$ berücksichtigt wird. Für die Energieniveaus gilt die Beziehung:
+![Helium+](https://diversewolken.ddns.net/nextcloud/index.php/s/btAyArjbMpwESFC/download)<!-- style="max-width:200px" --> Das Bohr’sche Atommodell lässt sich auf wasserstoffähnliche Ionen anwenden, indem die Kernladungszahl $Z$ berücksichtigt wird. Für die Energieniveaus gilt die Beziehung:
 $E_n = -R_y \cdot h \cdot \frac{1}{n^2} \cdot Z^2$
 
 ---
@@ -7237,6 +7237,49 @@ Die mindestens notwendige Energie zum Ablösen des Elektrons beträgt **$2,18 \c
 
 </details>
 
+## 12. 7. Anregung von Atomen durch Elektronen und Photonen
+
+> Führt man den Atom eines Gases Energie zu, so können sich die gebundenen Elektronen kurzzeitig in höhere Energieniveaus begeben. Der aufgenommene Energiebetrag muss dabei genau der Energiedifferenz $\Delta E$ zwischen Endniveau und Anfangsniveau entsprechen.
+
+<section class="flex-container">
+
+<div class="flex-child-1" style="min-width: 300px; margin-bottom: -10px">
+
+__Anregung durch beschleunigte Elektronen__
+
+> Werden Elektronen beschleunigt ($E=U\cdot e$) so können diese bei einem elastischen Stoß mit einem Atom einen Teil ihrer Energie $E_{ab}$ an ein Elektron der Hülle abgeben. Dabei gilt:
+>
+> $$ \boxed{E_{ab} = \Delta E} $$
+
+</div>
+
+<div class="flex-child-1" style="min-width: 300px; margin-bottom: -10px">
+
+__Anregung durch Absorption von Photonen__
+
+> Bestrahlt man ein Gas mit Photonen, so kann das Photon absorbiert werden und die Photonenenergie $E_{ph}$ wird auf ein Elektron der Hülle übertragen. Dabei gilt:
+>
+> $$\boxed{E_{ph} = \Delta E}$$
+
+</div>
+
+</section>
+
+<section class="flex-container">
+
+<div class="flex-child-1" style="min-width: 300px; margin-bottom: -10px">
+
+![Elektronenstoß](https://diversewolken.ddns.net/nextcloud/index.php/s/PJfWCXrBQq3SFrg/download)
+
+</div>
+
+<div class="flex-child-1" style="min-width: 300px; margin-bottom: -10px">
+
+![Photonenstoß](https://diversewolken.ddns.net/nextcloud/index.php/s/Xo6NiyFdojLzTy2/download)
+
+</div>
+
+</section>
 
 ### Abituraufgabe: Das Neon-Atom
 
