@@ -7145,4 +7145,12 @@ __Anders ausgedrückt:__ Damit sich auf einem Energieniveau zwei Elektronen befi
 
 __Orbitale beschreiben die Aufenthaltswahrscheinlichkeit der Elektronen:__
 
-![Elektronen-Orbitale](https://diversewolken.ddns.net/nextcloud/index.php/s/7Jj9YGdfHNYEW67/download)<!-- style="margin-left:5%" -->
+![Elektronen-Orbitale](https://diversewolken.ddns.net/nextcloud/index.php/s/7Jj9YGdfHNYEW67/download)<!-- style="margin-left:5%;max-width:600px" -->
+
+<details style='margin-left:10%'>
+
+<summary> Einzelelektronenorbitale </summary>
+
+![EInzelelektronenorbitale](https://diversewolken.ddns.net/nextcloud/index.php/s/f8RKwZRRXLaoQbe/download "Quelle: https://futurezone.at/science/grazer-physiker-messen-elektronen-orbitale-in-3d/156.749.407")
+
+</details>
