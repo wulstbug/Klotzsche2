@@ -7145,7 +7145,7 @@ __Anders ausgedrückt:__ Damit sich auf einem Energieniveau zwei Elektronen befi
 
 __Orbitale beschreiben die Aufenthaltswahrscheinlichkeit der Elektronen:__
 
-![Elektronen-Orbitale](https://diversewolken.ddns.net/nextcloud/index.php/s/7Jj9YGdfHNYEW67/download)<!-- style="margin-left:5%;max-width:600px" -->
+![Elektronen-Orbitale](https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/AOs-3D-dots.png/960px-AOs-3D-dots.png)<!-- style="margin-left:5%;max-width:600px" -->
 
 <details style='margin-left:10%'>
 
