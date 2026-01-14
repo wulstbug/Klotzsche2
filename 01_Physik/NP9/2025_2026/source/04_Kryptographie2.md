@@ -212,3 +212,10 @@ __Aufgaben:__
 6. Finde das Passwort für den unverschlüsselten Text __KATZENFUTTER__ und den verschlüsselten Text __XBOS ROAN GUZK__ 
 
      [[ MAUS ]]
+
+
+## Übung mit Moodle
+
+Logge dich bei Moodle ein. Löse die Demo-LK.
+
+[Demo-LK-Moodle](https://diversewolken.ddns.net/moodle/mod/quiz/view.php?id=604)
