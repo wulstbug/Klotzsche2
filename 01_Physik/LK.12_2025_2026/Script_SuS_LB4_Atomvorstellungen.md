@@ -980,3 +980,106 @@ $\lambda_{3->1} = \frac{h\cdot c}{(E_3-E1)} = 1,03\cdot10^{-7}\,\mathrm{m} = 103
 $\lambda_{3->1} = \frac{h\cdot c}{(E_3-E2)} = 2,75\cdot10^{-7}\,\mathrm{m} = 275\,\mathrm{m}$
 
 </details>
+
+
+## 12. 6. Das Pauli-Prinzip
+
+Das Pauli-Ausschlussprinzip (Wolfgang Pauli, 1925) ist ein fundamentales Konzept der Quantenphysik und besagt:
+
+> Zwei Elektronen, Protonen, Neutronen (im allgemeinen Fermionen) können nicht gleichzeitig denselben quantenmechanischen Zustand (d.h. denselben Zustand mit identischen Quantnezahlen) einnehmen.
+
+__Anders ausgedrückt:__ Damit sich auf einem Energieniveau zwei Elektronen befinden können müssen sie sich in einer anderen Quantenzahl (z.B. Nebenquantenzahl -> Orbitalform, Magnetquantenzahl -> Spin) unterscheiden.
+
+__Orbitale beschreiben die Aufenthaltswahrscheinlichkeit der Elektronen:__
+
+![Elektronen-Orbitale](https://diversewolken.ddns.net/nextcloud/index.php/s/7Jj9YGdfHNYEW67/download)<!-- style="margin-left:5%;max-width:600px" -->
+
+<details style='margin-left:10%'>
+
+<summary> Einzelelektronenorbitale </summary>
+
+![EInzelelektronenorbitale](https://diversewolken.ddns.net/nextcloud/index.php/s/f8RKwZRRXLaoQbe/download "Quelle: https://futurezone.at/science/grazer-physiker-messen-elektronen-orbitale-in-3d/156.749.407")
+
+</details>
+
+### Aufgabe Mehrelektronensystem -  Quantensprünge beim Helium-Ion ($He^+$)
+
+![Helium+](https://diversewolken.ddns.net/nextcloud/index.php/s/btAyArjbMpwESFC/download)<!-- style="max-width:200px" --> Das Bohr’sche Atommodell lässt sich auf wasserstoffähnliche Ionen anwenden, indem die Kernladungszahl $Z$ berücksichtigt wird. Für die Energieniveaus gilt die Beziehung:
+$E_n = -R_y \cdot \frac{1}{n^2} \cdot Z^2$
+
+---
+
+__Teilaufgabe: Berechnung der Emissionsfrequenz__
+
+Ein Elektron eines $He^+$-Ions geht vom Energieniveau $E_4$ auf das Niveau $E_2$ über . Berechnen Sie die **Frequenz** $f$ des dabei emittierten Photons .
+
+<p style='margin-left:10%'>
+
+@rangeQuiz2( $f$ , 2.47e15, $\mathrm{Hz}$ )
+
+</p>
+
+<details style="margin-left:10%;color:blue">
+<summary>Lösungsweg</summary>
+
+1.  **Energieniveaus berechnen:** Nutzen Sie die Formel $E_n = -13,6 \, \text{eV} \cdot \frac{Z^2}{n^2}$ mit $Z=2$ .
+    *   $E_4 = -13,6 \, \text{eV} \cdot \frac{4}{16} = -3,4 \, \text{eV}$
+    *   $E_2 = -13,6 \, \text{eV} \cdot \frac{4}{4} = -13,6 \, \text{eV}$
+2.  **Energiedifferenz bestimmen:** $\Delta E = E_4 - E_2$.
+3.  **Frequenz berechnen:** Nutzen Sie den Zusammenhang $\Delta E = h \cdot f$, also $f = \frac{\Delta E}{h}$ .
+
+</details>
+
+<details style="margin-left:10%;color:blue">
+<summary>Lösung</summary>
+
+Die Energiewerte für Helium ($Z=2$) betragen :
+*   $E_4 \approx -5,45 \cdot 10^{-19} \, \text{J}$
+*   $E_2 \approx -2,18 \cdot 10^{-18} \, \text{J}$
+
+Die Energiedifferenz ergibt sich zu:
+$\Delta E = E_4 - E_2 = 1,635 \cdot 10^{-18} \, \text{J}$
+
+Daraus folgt für die Frequenz:
+$f = \frac{\Delta E}{h} = \frac{1,635 \cdot 10^{-18} \, \text{J}}{6,626 \cdot 10^{-34} \, \text{Js}}$
+$\mathbf{f \approx 2,47 \cdot 10^{15} \, Hz}$ [3]
+
+</details>
+
+---
+
+__Teilaufgabe b) Berechnung der Ablöseenergie__
+
+Das Elektron eines $He^+$-Ions befindet sich auf dem Energieniveau $E_2$. Geben Sie die Energie $E_{ab}$ an, die mindestens notwendig ist, um dieses Elektron abzulösen.
+
+<p style='margin-left:10%'>
+
+@rangeQuiz2( $E_{ab}$ , 2.18e-18, $\mathrm{J}$ )
+</p>
+
+<details style="margin-left:10%;color:blue">
+<summary>Lösungsweg</summary>
+
+Um ein Elektron „abzulösen“ (zu ionisieren), muss es von seinem aktuellen Energiezustand $E_n$ auf das Energieniveau $E_{\infty} = 0 \, \text{eV}$ (Ionisierungsgrenze) gehoben werden. Die dafür aufzubringende Energie entspricht dem Betrag der Bindungsenergie auf dem jeweiligen Niveau:
+$\Delta E = E_{\infty} - E_n = |E_n|$
+
+1.  **Berechnung des Energieniveaus:** Nutzen Sie die gegebene Formel für $n=2$ und $Z=2$. Beachten Sie, dass $R_y$ für den Grundzustand des Wasserstoffs ($n=1, Z=1$) etwa $13,6 \, \text{eV}$ bzw. $2,18 \cdot 10^{-18} \, \text{J}$ entspricht.
+2.  **Umrechnung:** Stellen Sie sicher, dass das Ergebnis in der Einheit Joule ($\text{J}$) angegeben wird.
+
+</details>
+
+<details style="margin-left:10%;color:blue">
+
+<summary>Lösung</summary>
+
+Gegeben: $n = 2$, $Z = 2$, $R_y \cdot h \approx 2,18 \cdot 10^{-18} \, \text{J}$
+
+Die Energie auf dem Niveau $E_2$ berechnet sich wie folgt:
+$E_2 = -2,18 \cdot 10^{-18} \, \text{J} \cdot \frac{2^2}{2^2} = -2,18 \cdot 10^{-18} \, \text{J}$
+
+Da die Ablöseenergie die Differenz zur Ionisierungsgrenze ($0 \, \text{J}$) ist, gilt:
+$E_{ab} = 0 \, \text{J} - (-2,18 \cdot 10^{-18} \, \text{J}) = \mathbf{2,18 \cdot 10^{-18} \, J}$
+
+Die mindestens notwendige Energie zum Ablösen des Elektrons beträgt **$2,18 \cdot 10^{-18} \, \text{J}$** (was exakt $13,6 \, \text{eV}$ entspricht).
+
+</details>

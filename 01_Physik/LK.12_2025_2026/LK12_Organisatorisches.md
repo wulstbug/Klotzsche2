@@ -33,13 +33,14 @@ icon:   https://diversewolken.ddns.net/klotzsche/logo.jpg
 - Anzahl der Noten: 2xKlausur, 2x sonstige
 
 <p style="margin-left:5%">
----
+
 | | | |
 | Art | Termin | Bemerkungen |
 | 1. Sonstige (LK) | 04.09. | 4. Woche |
 | 1. Klausur| 25.09. | 7. Woche |
 | 2. Prakt/Theorie | 20.11. | Einzelarbeit |
 | 2. Klausur| 04.12. | 15. Woche | 
+
 </p>
 
 - Ende 17. Woche -> __Zeugnisse 12/1 am 19.12.2025__

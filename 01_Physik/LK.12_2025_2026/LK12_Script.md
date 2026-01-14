@@ -7158,7 +7158,7 @@ __Orbitale beschreiben die Aufenthaltswahrscheinlichkeit der Elektronen:__
 ### Aufgabe Mehrelektronensystem -  Quantensprünge beim Helium-Ion ($He^+$)
 
 ![Helium+](https://diversewolken.ddns.net/nextcloud/index.php/s/btAyArjbMpwESFC/download)<!-- style="max-width:200px" --> Das Bohr’sche Atommodell lässt sich auf wasserstoffähnliche Ionen anwenden, indem die Kernladungszahl $Z$ berücksichtigt wird. Für die Energieniveaus gilt die Beziehung:
-$E_n = -R_y \cdot h \cdot \frac{1}{n^2} \cdot Z^2$
+$E_n = -R_y \cdot \frac{1}{n^2} \cdot Z^2$
 
 ---
 
