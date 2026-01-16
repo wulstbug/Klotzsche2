@@ -53,13 +53,13 @@ __Notengebung__
 
 <details>
 
-<summary>__Termine: 11ph2__</summary>
+<summary>__Termine: 12ph2__</summary>
 
 | | | |
 | Art | Termin | Bemerkungen |
-| 1. Sonstige (LK) | 11.09. | 5. Woche |
-| 2. Sonstige (Prakt) | 13.11. | 11. Woche , Einzelarbeit |
-| 2. Klausur| 20.11. | 13. Woche | 
+| 1. Sonstige (LK) | 05.02. | Quantenphysik |
+| Klausur | 12.03. | Quantenphysik |
+
 
 </details>
 
@@ -67,13 +67,12 @@ __Notengebung__
 
 <details>
 
-<summary>__Termine: 11ph3__</summary>
+<summary>__Termine: 12ph3__</summary>
 
 | | | |
 | Art | Termin | Bemerkungen |
-| 1. Sonstige (LK) | 08.09. | 5. Woche |
-| 2. Sonstige (Prakt) | 10.11. | 9. Woche , Einzelarbeit |
-| 2. Klausur| 17.11. | 13. Woche | 
+| 1. Sonstige (LK) | 26.01 | Quantenphysik |
+| Klausur | 02.03 | Quantenphysik |
 
 </details>
 
