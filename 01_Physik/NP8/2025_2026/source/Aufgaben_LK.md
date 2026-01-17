@@ -109,11 +109,11 @@ Wechsle zu Moodle. Logge dich ein. Wähle den Test und warte auf das Testkennwor
 
 - dokumentiere den Entstehungsprozess
 
-- Lege dafür mehrere Farbschichten übereinander
+- lege dafür mehrere Farbschichten übereinander
 
-- Nutze für die Dokumentation entweder Canva, Powerpoint oder ein anderes Programm (z.B. Word)
+- nutze für die Dokumentation entweder Canva, Powerpoint oder ein anderes Programm (z.B. Word)
 
-- füge anschließend einen Planeten/Mond aus der Liste der Planeten/Monde hinzu
+- füge anschließend eine weitere Galaxie, einen Nebel, einen  Planeten oder einen Mond aus der Liste der Planeten/Monde hinzu
 
      | | |
      | [![Powerpoint-Datei](https://upload.wikimedia.org/wikipedia/de/thumb/c/c1/Canva_Logo_2021.svg/250px-Canva_Logo_2021.svg.png)<!-- style="margin-left:10%"-->](https://www.canva.com/brand/join?token=7H1zFLcHM2QT8qDKhHIvrg&brandingVariant=edu&invitationDestinationType=group&postJoinPath=https%3A%2F%2Fwww.canva.com%2Fassignment%2FDAG-MEf0IYA) | [![Powerpoint-Datei](https://diversewolken.ddns.net/nextcloud/index.php/s/rY4Sbg4mNqDd5Cd/download)<!-- style="margin-left:10%"-->]() |
