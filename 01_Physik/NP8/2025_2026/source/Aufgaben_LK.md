@@ -107,6 +107,8 @@ Wechsle zu Moodle. Logge dich ein. Wähle den Test und warte auf das Testkennwor
 
 - erstelle ein mehrfarbiges astronomisches Bild aus den Datensätzen für Galaxien und Nebel
 
+     [Webseite-Bilderstellung](https://ogy.de/gykl_fits)
+
 - dokumentiere den Entstehungsprozess
 
 - lege dafür mehrere Farbschichten übereinander
