@@ -3780,3 +3780,157 @@ $E_ph = h \cdot f = \dfrac{h \cdot c}{\lambda} = 2,21 \cdot 10^{-14} J$.
 $\approx9\cdot10^{-12} m$ fallen in den Bereich zwischen Röntgenstrahlung und Gammastrahlung.
 
 </details>
+
+### Übungen zur LK
+
+Eine Photokathode (im Vakuum) besteht aus dem Material Calcium.
+
+1. Ermitteln Sie die Auslösearbeit in der Einheit eV und in der Einheit J.
+
+<p style='margin-left:10%'>
+
+@rangeQuiz2($W_A$,2.87,$\mathrm{eV}$)
+
+@rangeQuiz2($W_A$,4.6e-19,$\mathrm{J}$)
+
+</p>
+
+<details style='color:blue;margin-left:10%'>
+
+<summary> Lösungshinweis </summary>
+
+Schlagen Sie die Werte in der Formelsammlung nach. Ermitteln Sie die Auslösearbeit in der Einheit J mit der Umrechnung $1,6\cdot 10^{-19}$.
+
+</details>
+
+---
+
+2. [KI-Aufgabe-Auslösearbeit](http://10.8.0.5:3001/?q=Das%20Niveau%20ist%20Grundkurs%20Physik,%20Klasse%2012.%20Stelle%20mir%20folgende%20Frage%20und%20bewerte%20meine%20Antwort%20auf%20einer%20Skala%20von%200%20bis%2010.%20Hilf%20mir%20meine%20Antwort%20zu%20verbessern,%20wenn%20ich%20das%20m%C3%B6chte.%20Die%20Frage%20lautet:%20Erl%C3%A4utere%20die%20Bedeutung%20der%20Ausl%C3%B6searbeit%20beim%20Photoeffekt.%20Stelle%20mir%20nur%20die%20Frage,%20gib%20mir%20zu%20Anfang%20noch%20keine%20Hinweise.)
+
+---
+
+3. [KI-Aufgabe-Oranges-Licht](http://10.8.0.5:3001/?q=Das%20Niveau%20ist%20Grundkurs%20Physik,%20Klasse%2012.%20Stelle%20mir%20folgende%20Frage%20und%20bewerte%20meine%20Antwort%20auf%20einer%20Skala%20von%200%20bis%2010.%20Hilf%20mir%20meine%20Antwort%20zu%20verbessern,%20wenn%20ich%20das%20m%C3%B6chte.%20Die%20Frage%20lautet:%20Eine%20Photokathode%20besteht%20aus%20Calcium,%20es%20hat%20eine%20Ausl%C3%B6searbeit%20von%202,87eV.%20Entscheiden%20Sie,%20ob%20oranges%20Licht%20Elektronen%20aus%20dem%20Metall%20herausl%C3%B6sen%20kann%20oder%20nicht.%20Begr%C3%BCnden%20Sie%20Ihre%20Antwort.%20Stelle%20mir%20zun%C3%A4chst%20nur%20diese%20Frage,%20gib%20mir%20noch%20keine%20Tipps%20oder%20hilfen.%20Hinweise:%20Die%20Ausl%C3%B6searbeit%20wird%20mit%20W_A%20bezeichnet.)
+
+---
+
+4. Die Photokathode wird nun mit ultraviolettem Licht bestrahlt, die Wellenlänge des Lichts beträgt 350 nm. Ermitteln Sie die maximale kinetische Energie der austretenden Elektronen. Ermitteln Sie auch die Geschwindigkeit dieser Elektronen
+
+<p style='margin-left:10%'>
+
+@rangeQuiz2($E_{kin_max}$, 1.08e-19 ,$\mathrm{J}$)
+
+@rangeQuiz2($v_{max}$, 4.87e5 ,$\mathrm{\frac{m}{s}}$)
+
+</p>
+
+<details style='color:blue;margin-left:10%'>
+
+<summary> Lösungshinweis </summary>
+
+Nutzen Sie Energiebilanz beim Photoeffekt um die maximale kinetische Energie der Elektronen zu ermitteln.
+
+</details>
+
+<details style='color:blue;margin-left:10%'>
+
+<summary> Lösungshinweis 2 </summary>
+
+Die Energiebilanz lautet:
+
+$$ E_{ph} = h \cdot f = E_{kin, max} + W_A $$
+
+Wenn Sie $E_{kin, max}$ ermittelt haben, können Sie die Formel für die kinetische Energie nutzen, um die Geschwindigkeit zu ermitteln.
+
+</details>
+
+<details style='color:blue;margin-left:10%'>
+
+<summary> Lösungshinweis 3 </summary>
+
+Die kinetische Energieformel lautet $E_{kin} = \frac{1}{2} \cdot m \cdot v^2$.
+
+</details>
+
+---
+
+5. Zeichnen Sie die Einstein'sche Gerade für das Material Calcium in ein Diagramm $E_{kin-max}(f)$. Verwenden Sie auf der y-Achse für die kinetische Energie die Einheit eV und auf der x-Achse für die Frequenz die Einheit $10^{14}\,\mathrm{Hz}$.
+
+<details style='color:blue;margin-left:10%'>
+
+<summary> Lösungshinweis </summary>
+
+Um die Einstein'sche Gerade zu zeichnen benötigen Sie zwei Datenpunkte. Beide haben Sie bereits in den Aufgaben 1. und 4. ermittelt.
+
+</details>
+
+<details style='color:blue;margin-left:10%'>
+
+<summary> Lösungshinweis 2 </summary>
+
+Die Auslösearbeit ist der (negative) Schnittpunkt der Geraden mit der y-Achse. Der zweite Punkt ist die Elektronenenergie bei einer Wellenlänge von 350 nm (siehe Aufgabe 4). Rechnen Sie noch die Wellenlänge in Frequenz um und verbinden Sie die Punkte.
+
+</details>
+
+<details style='color:blue;margin-left:10%'>
+
+<summary> Lösung </summary>
+
+Die Auslösearbeit ist der (negative) Schnittpunkt der Geraden mit der y-Achse. Der zweite Punkt ist die Elektronenenergie bei einer Wellenlänge von 350 nm (siehe Aufgabe 4). Rechnen Sie noch die Wellenlänge in Frequenz um und verbinden Sie die Punkte.
+
+</details>
+
+---
+
+6. [KI-Aufgabe-deBroglieWellenlänge](http://10.8.0.5:3001/?q=Das%20Niveau%20ist%20Grundkurs%20Physik,%20Klasse%2012.%20Stelle%20mir%20folgende%20Frage%20und%20bewerte%20meine%20Antwort%20auf%20einer%20Skala%20von%200%20bis%2010.%20Hilf%20mir%20meine%20Antwort%20zu%20verbessern,%20wenn%20ich%20das%20m%C3%B6chte.%20Die%20Frage%20lautet:Erl%C3%A4utere%20die%20Bedeutung%20der%20de-Broglie%20Wellenl%C3%A4nge%20f%C3%BCr%20massebehaftete%20Teilchen%20wie%20Elektronen%20oder%20Protonen.%20Stelle%20mir%20zun%C3%A4chst%20nur%20diese%20Frage,%20gib%20mir%20noch%20keine%20Tipps%20oder%20hilfen.%20Hinweise:%20Wir%20betrachten%20ausschlie%C3%9Flich%20nichtrelativistische%20Teilchen.%20Bewerte%20sanft.)
+
+---
+
+7. Ermitteln Sie nun die de-Broglie Wellenlänge der schnellsten Elektronen, welche die Calcium-Kathode (Aufgabe 4) unter einer Betrahlung mit einer Wellenlänge von 350 nm verlassen.
+
+<p style='margin-left:10%'>
+
+@rangeQuiz2($\lambda$, 1.494e-9 ,$\mathrm{m}$)
+
+</p>
+
+<details style='color:blue;margin-left:10%'>
+
+<summary> Lösunghinweis </summary>
+
+Die maximale Geschwindigkeit der Elektronen ergibt sich aus Aufgabe 4 zu $4,87\cdot10^{5}\mathrm{\frac{m}{s}}$. Ermitteln Sie nun mit Hilfe der de-Broglie Gleichung die Wellenlänge.
+
+</details>
+
+<details style='color:blue;margin-left:10%'>
+
+<summary> Lösung </summary>
+
+$$ \lambda = \frac{h}{m\cdot v} = 1,494 \cdot 10^{-9}\,\mathrm{m} $$
+
+</details>
+
+---
+
+8. Die Elektronen aus Aufgabe 7 werden nun auf ein Gitter mit der Gitterkonstanten $b=5 \cdot 10^{-9}\,\mathrm{m}$ geleitet. Ermitteln Sie, unter welchem Ablenkwinkel ein Detektor das erste Maximum einfallender Elektronen bestimmen würde.
+
+<p style='margin-left:10%'>
+
+@rangeQuiz2($\alpha_1$,17.386,°)
+
+</p>
+
+<details style='color:blue;margin-left:10%'>
+
+<summary> Lösunghinweis </summary>
+
+Die Welleneigenschaft der Elektronen führt zu Beugung und Interferenz am Gitter. Nutzen Sie die Formeln für das Gitter, um den Ablenkwinkel des ersten Maximums zu ermitteln.
+
+</details>
+
+<details style='color:blue;margin-left:10%'>
+
+<summary> Lösunghinweis 2 </summary>
+
+Die Formel lautet $\sin\alpha_k=\frac{k \cdot \lambda}{b}$. Es gilt k=1.
+
+</details>
