@@ -2752,6 +2752,10 @@ __QR-Codes zu den Übungen:__
 
 </section>
 
+### Zusammenfassung Akkustische Wellen
+
+!?[Zusammenfassung-Akkustische-Wellen](https://diversewolken.ddns.net/nextcloud/index.php/s/S2DCTcfDjzGKcDm/download)
+
 ## 2. 16. Akkustische Wellen
 
 __1. Begriffserklärung__
