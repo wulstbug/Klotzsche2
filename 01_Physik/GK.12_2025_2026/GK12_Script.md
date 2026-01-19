@@ -3805,11 +3805,11 @@ Schlagen Sie die Werte in der Formelsammlung nach. Ermitteln Sie die Auslösearb
 
 ---
 
-2. [KI-Aufgabe-Auslösearbeit](http://10.8.0.5:3001/?q=Das%20Niveau%20ist%20Grundkurs%20Physik,%20Klasse%2012.%20Stelle%20mir%20folgende%20Frage%20und%20bewerte%20meine%20Antwort%20auf%20einer%20Skala%20von%200%20bis%2010.%20Hilf%20mir%20meine%20Antwort%20zu%20verbessern,%20wenn%20ich%20das%20m%C3%B6chte.%20Die%20Frage%20lautet:%20Erl%C3%A4utere%20die%20Bedeutung%20der%20Ausl%C3%B6searbeit%20beim%20Photoeffekt.%20Stelle%20mir%20nur%20die%20Frage,%20gib%20mir%20zu%20Anfang%20noch%20keine%20Hinweise.)
+2. [KI-Aufgabe-Auslösearbeit](http://10.102.1.3:3001/?q=Das%20Niveau%20ist%20Grundkurs%20Physik,%20Klasse%2012.%20Stelle%20mir%20folgende%20Frage%20und%20bewerte%20meine%20Antwort%20auf%20einer%20Skala%20von%200%20bis%2010.%20Hilf%20mir%20meine%20Antwort%20zu%20verbessern,%20wenn%20ich%20das%20m%C3%B6chte.%20Die%20Frage%20lautet:%20Erl%C3%A4utere%20die%20Bedeutung%20der%20Ausl%C3%B6searbeit%20beim%20Photoeffekt.%20Stelle%20mir%20nur%20die%20Frage,%20gib%20mir%20zu%20Anfang%20noch%20keine%20Hinweise.)
 
 ---
 
-3. [KI-Aufgabe-Oranges-Licht](http://10.8.0.5:3001/?q=Das%20Niveau%20ist%20Grundkurs%20Physik,%20Klasse%2012.%20Stelle%20mir%20folgende%20Frage%20und%20bewerte%20meine%20Antwort%20auf%20einer%20Skala%20von%200%20bis%2010.%20Hilf%20mir%20meine%20Antwort%20zu%20verbessern,%20wenn%20ich%20das%20m%C3%B6chte.%20Die%20Frage%20lautet:%20Eine%20Photokathode%20besteht%20aus%20Calcium,%20es%20hat%20eine%20Ausl%C3%B6searbeit%20von%202,87eV.%20Entscheiden%20Sie,%20ob%20oranges%20Licht%20Elektronen%20aus%20dem%20Metall%20herausl%C3%B6sen%20kann%20oder%20nicht.%20Begr%C3%BCnden%20Sie%20Ihre%20Antwort.%20Stelle%20mir%20zun%C3%A4chst%20nur%20diese%20Frage,%20gib%20mir%20noch%20keine%20Tipps%20oder%20hilfen.%20Hinweise:%20Die%20Ausl%C3%B6searbeit%20wird%20mit%20W_A%20bezeichnet.)
+3. [KI-Aufgabe-Oranges-Licht](http://10.102.1.3:3001/?q=Das%20Niveau%20ist%20Grundkurs%20Physik,%20Klasse%2012.%20Stelle%20mir%20folgende%20Frage%20und%20bewerte%20meine%20Antwort%20auf%20einer%20Skala%20von%200%20bis%2010.%20Hilf%20mir%20meine%20Antwort%20zu%20verbessern,%20wenn%20ich%20das%20m%C3%B6chte.%20Die%20Frage%20lautet:%20Eine%20Photokathode%20besteht%20aus%20Calcium,%20es%20hat%20eine%20Ausl%C3%B6searbeit%20von%202,87eV.%20Entscheiden%20Sie,%20ob%20oranges%20Licht%20Elektronen%20aus%20dem%20Metall%20herausl%C3%B6sen%20kann%20oder%20nicht.%20Begr%C3%BCnden%20Sie%20Ihre%20Antwort.%20Stelle%20mir%20zun%C3%A4chst%20nur%20diese%20Frage,%20gib%20mir%20noch%20keine%20Tipps%20oder%20hilfen.%20Hinweise:%20Die%20Ausl%C3%B6searbeit%20wird%20mit%20W_A%20bezeichnet.)
 
 ---
 
@@ -3881,7 +3881,7 @@ Die Auslösearbeit ist der (negative) Schnittpunkt der Geraden mit der y-Achse. 
 
 ---
 
-6. [KI-Aufgabe-deBroglieWellenlänge](http://10.8.0.5:3001/?q=Das%20Niveau%20ist%20Grundkurs%20Physik,%20Klasse%2012.%20Stelle%20mir%20folgende%20Frage%20und%20bewerte%20meine%20Antwort%20auf%20einer%20Skala%20von%200%20bis%2010.%20Hilf%20mir%20meine%20Antwort%20zu%20verbessern,%20wenn%20ich%20das%20m%C3%B6chte.%20Die%20Frage%20lautet:Erl%C3%A4utere%20die%20Bedeutung%20der%20de-Broglie%20Wellenl%C3%A4nge%20f%C3%BCr%20massebehaftete%20Teilchen%20wie%20Elektronen%20oder%20Protonen.%20Stelle%20mir%20zun%C3%A4chst%20nur%20diese%20Frage,%20gib%20mir%20noch%20keine%20Tipps%20oder%20hilfen.%20Hinweise:%20Wir%20betrachten%20ausschlie%C3%9Flich%20nichtrelativistische%20Teilchen.%20Bewerte%20sanft.)
+6. [KI-Aufgabe-deBroglieWellenlänge](http://10.102.1.3:3001/?q=Das%20Niveau%20ist%20Grundkurs%20Physik,%20Klasse%2012.%20Stelle%20mir%20folgende%20Frage%20und%20bewerte%20meine%20Antwort%20auf%20einer%20Skala%20von%200%20bis%2010.%20Hilf%20mir%20meine%20Antwort%20zu%20verbessern,%20wenn%20ich%20das%20m%C3%B6chte.%20Die%20Frage%20lautet:Erl%C3%A4utere%20die%20Bedeutung%20der%20de-Broglie%20Wellenl%C3%A4nge%20f%C3%BCr%20massebehaftete%20Teilchen%20wie%20Elektronen%20oder%20Protonen.%20Stelle%20mir%20zun%C3%A4chst%20nur%20diese%20Frage,%20gib%20mir%20noch%20keine%20Tipps%20oder%20hilfen.%20Hinweise:%20Wir%20betrachten%20ausschlie%C3%9Flich%20nichtrelativistische%20Teilchen.%20Bewerte%20sanft.)
 
 ---
 
@@ -3934,3 +3934,5 @@ Die Welleneigenschaft der Elektronen führt zu Beugung und Interferenz am Gitter
 Die Formel lautet $\sin\alpha_k=\frac{k \cdot \lambda}{b}$. Es gilt k=1.
 
 </details>
+
+8. [KI-Aufgabe-Vergleich](http://10.102.1.3:3001/auth?redirect=%2F%3Fq%3DDas%2520Lernniveau%2520ist%2520Klasse%252010%2520Gymnasium.%2520Stelle%2520mir%2520folgende%2520Aufgabe%2520und%2520warte%2520auf%2520meine%2520Antwort.%2520Gib%2520mir%2520keine%2520Hinweise%2520vorher.%2520Gib%2520mir%2520die%2520M%25C3%25B6glichkeit%2520meine%2520Antwort%2520zu%2520verbessern.%2520Bewerte%2520abschlie%25C3%259Fend%2520meine%2520Antwort%2520auf%2520einer%2520Skala%2520von%25200%2520bis%252010.%2520Die%2520Aufgabe%2520lautet%3A%2520Diskutieren%2520Sie%2520Gemeinsamkeiten%2520und%2520Unterschiede%2520von%2520Schallwellen%2520und%2520Wasserwellen.%2520Nennen%2520Sie%2520jeweils%2520mindestens%25203%2520Punkte.)
