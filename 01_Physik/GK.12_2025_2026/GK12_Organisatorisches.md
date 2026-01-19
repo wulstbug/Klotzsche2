@@ -23,7 +23,11 @@ mode: presentation
 icon:   https://diversewolken.ddns.net/klotzsche/logo.jpg
 -->
 
-__Korrekturhinweise zur Klausur 12/1__
+__Übersicht Quantenphysik:__
+
+??[MindMap](https://diversewolken.ddns.net/nextcloud/index.php/s/CnAdRxjXxdzz49B/download)
+
+__Korrekturhinweise/Korrekturzeichen__
 
 > __Korrekturzeichen:__
 
