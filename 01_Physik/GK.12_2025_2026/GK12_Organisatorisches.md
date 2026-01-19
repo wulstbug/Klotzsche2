@@ -23,7 +23,7 @@ mode: presentation
 icon:   https://diversewolken.ddns.net/klotzsche/logo.jpg
 -->
 
-__Übersicht Quantenphysik:__
+__Übersicht Quantenphysik (läd kurz, bitte warten):__
 
 ??[MindMap](https://diversewolken.ddns.net/gykl/2025_2026/Zusammenfassung_QP.html)
 
