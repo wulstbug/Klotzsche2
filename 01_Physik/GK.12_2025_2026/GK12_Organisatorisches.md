@@ -25,7 +25,7 @@ icon:   https://diversewolken.ddns.net/klotzsche/logo.jpg
 
 __Übersicht Quantenphysik:__
 
-??[MindMap](https://diversewolken.ddns.net/nextcloud/index.php/s/CnAdRxjXxdzz49B/download)
+??[MindMap](https://diversewolken.ddns.net/gykl/2025_2026/Zusammenfassung_QP.html)
 
 __Korrekturhinweise/Korrekturzeichen__
 
