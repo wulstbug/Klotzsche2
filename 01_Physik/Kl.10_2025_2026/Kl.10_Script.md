@@ -2756,7 +2756,7 @@ __QR-Codes zu den Übungen:__
 
 !?[Zusammenfassung-Akkustische-Wellen](https://diversewolken.ddns.net/nextcloud/index.php/s/S2DCTcfDjzGKcDm/download)
 
-## 2. 16. Akkustische Wellen
+## 2. 16. Akustische Wellen
 
 __1. Begriffserklärung__
 
@@ -2979,5 +2979,4 @@ Das menschliche Ohr wandelt Schallwellen in Nervenimpulse um.
 </div>
 
 </section>
-
 
