@@ -3781,6 +3781,14 @@ $\approx9\cdot10^{-12} m$ fallen in den Bereich zwischen Röntgenstrahlung und G
 
 </details>
 
+## 7. 7. Das Unschärfeprinzip / die Heißenberg'sche Unschärferelation
+
+> Bei einer __Messung__ von Ort ($x$) und Impuls $p=m\cdot v$ eines quantenmechanischen Teilchens, können beide Größen nicht __gleichzeitig__ mit einer beliebigen Genauigkeit $\Delta x$ bzw. $\Delta p$ ermittelt werden. Die maximale Beobachtungsgenauigkeit beträgt: $$ \boxed{\Delta x \cdot \Delta p \geq \dfrac{h}{4\pi}} $$ Hierbei ist $\Delta x$ die __Ortsunschärfe__ und $\Delta p$ die __Impulsunschärfe__.
+>
+>> _Umgangssprachlich: Je genauer ich den Ort eines Teilchens bestimme, desto größer wird die Unsicherheit in der Geschwindigkeitsbestimmung (Impulsbestimmung)_
+>
+> Dieselbe gleichzeitige Unbestimmtheit ergibt sich bei einer Messung von _Energie_ und _Zeit_ als $$ \boxed{\Delta E \cdot \Delta t \geq \dfrac{h}{4\pi}}$$ Hierbei ist $\Delta E$ die Energieunschärfe und $\Delta t$ die Zeitunschärfe.
+
 ### Übungen zur LK
 
 Eine Photokathode (im Vakuum) besteht aus dem Material Calcium.
