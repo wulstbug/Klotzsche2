@@ -120,7 +120,7 @@ Wechsle zu Moodle. Logge dich ein. Wähle den Test und warte auf das Testkennwor
 - nutze für die Dokumentation entweder Canva, Powerpoint oder ein anderes Programm (z.B. Word)
 
      | | |
-     | [![Powerpoint-Datei](https://upload.wikimedia.org/wikipedia/de/thumb/c/c1/Canva_Logo_2021.svg/250px-Canva_Logo_2021.svg.png)<!-- style="margin-left:10%;max-width=300px"-->](https://www.canva.com/brand/join?token=7H1zFLcHM2QT8qDKhHIvrg&brandingVariant=edu&invitationDestinationType=group&postJoinPath=https%3A%2F%2Fwww.canva.com%2Fassignment%2FDAG-MEf0IYA) | ![[Powerpoint-Datei](https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Microsoft_Office_PowerPoint_%282019%E2%80%932025%29.svg/1280px-Microsoft_Office_PowerPoint_%282019%E2%80%932025%29.svg.png)<!-- style="margin-left:10%;max-width=300px"-->](https://diversewolken.ddns.net/nextcloud/index.php/s/rY4Sbg4mNqDd5Cd/download) |
+     | [![Powerpoint-Datei](https://upload.wikimedia.org/wikipedia/de/thumb/c/c1/Canva_Logo_2021.svg/250px-Canva_Logo_2021.svg.png)<!-- style="margin-left:10%;max-width=300px"-->](https://www.canva.com/classwork/assignments/DAG-8eSp0xs/activity) | ![[Powerpoint-Datei](https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Microsoft_Office_PowerPoint_%282019%E2%80%932025%29.svg/1280px-Microsoft_Office_PowerPoint_%282019%E2%80%932025%29.svg.png)<!-- style="margin-left:10%;max-width=300px"-->](https://diversewolken.ddns.net/nextcloud/index.php/s/rY4Sbg4mNqDd5Cd/download) |
 
 > __Galaxien und Nebel:__
 
