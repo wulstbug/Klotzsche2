@@ -89,7 +89,7 @@ mode: presentation
 -->
 
 
-## Aufgaben LK1 - Nawi 8
+## Aufgaben LK2 - Nawi 8
 
 @color(Von den folgenden zwei Aufgaben ist __genau eine__ Aufgabe zu lösen., blue)
 
