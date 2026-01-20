@@ -3024,7 +3024,7 @@ Das menschliche Ohr wandelt Schallwellen in Nervenimpulse um.
 
 !?[Video_Hörgrenze](https://diversewolken.ddns.net/nextcloud/index.php/s/A54Kg5rN7JWPsaz/download)
 
-![Wahrnehmung_Schall](https://diversewolken.ddns.net/nextcloud/index.php/s/ekwpHXEJoWLi322/download)
+![WahrnehmungSchall](https://diversewolken.ddns.net/nextcloud/index.php/s/4zEDiKRfHxSyFs9/download)
 
 ### Material 4: _Demonstrationsexperiment Höhrgrenze und Frequenz_
 
