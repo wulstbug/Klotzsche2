@@ -99,7 +99,7 @@ mode: presentation
 
 Wechsle zu Moodle. Logge dich ein. Wähle den Test und warte auf das Testkennwort.
 
-[![Moodle](https://upload.wikimedia.org/wikipedia/commons/c/c6/Moodle-logo.svg)<!-- style="margin-left:10%;max-width:300px"-->](https://diversewolken.ddns.net/moodle/mod/quiz/view.php?id=583)
+[![Moodle](https://upload.wikimedia.org/wikipedia/commons/c/c6/Moodle-logo.svg)<!-- style="margin-left:10%;max-width:300px"-->](https://diversewolken.ddns.net/moodle/mod/quiz/view.php?id=634)
 
 ---
 
@@ -107,7 +107,9 @@ Wechsle zu Moodle. Logge dich ein. Wähle den Test und warte auf das Testkennwor
 
 - erstelle ein mehrfarbiges astronomisches Bild aus einem Datensatz für Galaxien und Nebel (siehe unten)
 
-     [Webseite-Bilderstellung](https://ogy.de/gykl_fits)
+[![Webseite-Bilderstellung](https://diversewolken.ddns.net/nextcloud/index.php/s/9btLqZpm9bpw6PH/downloads)<!-- style="margin-left:10%;max-width:300px"-->](https://ogy.de/gykl_fits)
+
+     []()
 
 - lege dafür mehrere Farbschichten übereinander
 
