@@ -1085,3 +1085,141 @@ $E_{ab} = 0 \, \text{J} - (-2,18 \cdot 10^{-18} \, \text{J}) = \mathbf{2,18 \cdo
 Die mindestens notwendige Energie zum Ablösen des Elektrons beträgt **$2,18 \cdot 10^{-18} \, \text{J}$** (was exakt $13,6 \, \text{eV}$ entspricht).
 
 </details>
+
+
+## 12. 7. Anregung von Atomen durch Elektronen und Photonen
+
+> Führt man den Atom eines Gases Energie zu, so können sich die gebundenen Elektronen kurzzeitig in höhere Energieniveaus begeben. Der aufgenommene Energiebetrag muss dabei genau der Energiedifferenz $\Delta E$ zwischen Endniveau und Anfangsniveau entsprechen.
+
+<section class="flex-container">
+
+<div class="flex-child-1" style="min-width: 300px; margin-bottom: -10px">
+
+__Anregung durch beschleunigte Elektronen__
+
+> Werden Elektronen beschleunigt ($E=U\cdot e$) so können diese bei einem elastischen Stoß mit einem Atom einen Teil ihrer Energie $E_{ab}$ an ein Elektron der Hülle abgeben. Dabei gilt:
+>
+> $$ \boxed{E_{ab} = \Delta E} $$
+
+</div>
+
+<div class="flex-child-1" style="min-width: 300px; margin-bottom: -10px">
+
+__Anregung durch Absorption von Photonen__
+
+> Bestrahlt man ein Gas mit Photonen, so kann das Photon absorbiert werden und die Photonenenergie $E_{ph}$ wird auf ein Elektron der Hülle übertragen. Dabei gilt:
+>
+> $$\boxed{E_{ph} = \Delta E}$$
+
+</div>
+
+</section>
+
+<section class="flex-container">
+
+<div class="flex-child-1" style="min-width: 300px; margin-bottom: -10px">
+
+![Elektronenstoß](https://diversewolken.ddns.net/nextcloud/index.php/s/PJfWCXrBQq3SFrg/download)
+
+</div>
+
+<div class="flex-child-1" style="min-width: 300px; margin-bottom: -10px">
+
+![Photonenstoß](https://diversewolken.ddns.net/nextcloud/index.php/s/Xo6NiyFdojLzTy2/download)
+
+</div>
+
+</section>
+
+### Abituraufgabe: Das Neon-Atom
+
+Neon-Atome können durch Elektronenstöße angeregt werden. Dabei treten diskrete Energiezustände und charakteristische Emissionen auf.
+
+---
+
+__a) Energie eines Zwischenzustands__
+
+Ein Neon-Atom (im Grundzustand) wechselwirkt mit einem freien Elektron und absorbiert dabei die Energie $E_{abs} = 18,6 \, \text{eV}$. Das angeregte Neon-Atom emittiert anschließend ein Photon (Quant) der Wellenlänge $\lambda = 640 \, \text{nm}$ (orangefarbenes Licht) und geht dabei in einen energetischen Zwischenzustand über.
+
+Berechnen Sie die Energie $E_Z$ dieses Zwischenzustands bezüglich des Grundniveaus ($E_0 = 0 \, \text{eV}$).
+
+<p style='margin-left:10%'>
+
+@rangeQuiz2( $E_Z$ , 16.66, $\mathrm{eV}$ )
+
+</p>
+
+<details style="margin-left:10%;color:blue">
+
+<summary>Lösungsweg</summary>
+
+1. **Energie des emittierten Photons berechnen:** Nutzen Sie den Zusammenhang $E_{Ph} = \frac{h \cdot c}{\lambda}$. Mit der Näherung $h \cdot c \approx 1240 \, \text{eV} \cdot \text{nm}$ ergibt sich die Energie des Photons in Elektronenvolt.
+2. **Energie des Zwischenzustands bestimmen:** Da das Atom von einem Niveau ($18,6 \, \text{eV}$) durch Abgabe eines Photons auf das Zwischenniveau $E_Z$ fällt, gilt: $E_Z = E_{abs} - E_{Ph}$.
+
+</details>
+
+<details style="margin-left:10%;color:blue">
+
+<summary>Lösung</summary>
+
+Gegeben: $E_{abs} = 18,6 \, \text{eV}$, $\lambda = 640 \, \text{nm}$
+
+$E_{Ph} = \frac{1240 \, \text{eV} \cdot \text{nm}}{640 \, \text{nm}} \approx 1,9375 \, \text{eV}$
+
+$E_Z = 18,6 \, \text{eV} - 1,9375 \, \text{eV} = \mathbf{16,6625 \, eV}$
+
+Der Zwischenzustand liegt energetisch etwa $16,66 \, \text{eV}$ über dem Grundniveau.
+
+</details>
+
+---
+
+__b) Beobachtung leuchtender Bereiche__
+
+Elektronen durchlaufen aus der Ruhe heraus eine Beschleunigungsspannung von $U = 22,6 \, \text{V}$ in einer mit Neongas gefüllten Röhre. Dabei werden in der Röhre zwei schmale, orangefarbig leuchtende Bereiche beobachtet.
+
+Erklären Sie diese Beobachtung.
+
+<details style="margin-left:10%;color:blue">
+
+<summary>Lösungsweg</summary>
+
+Betrachten Sie den Beschleunigungsvorgang der Elektronen. Diese nehmen kinetische Energie auf und geben sie bei Stößen mit Neon-Atomen ab, sobald sie die notwendige Anregungsenergie erreicht haben. Berücksichtigen Sie, dass die Elektronen nach einem unelastischen Stoß erneut beschleunigt werden können, sofern die Restspannung ausreicht.
+
+</details>
+
+<details style="margin-left:10%;color:blue">
+
+<summary>Lösung</summary>
+
+* **Erste Anregung:** Die Elektronen werden im elektrischen Feld beschleunigt. Sobald sie eine Energie von ca. $18,6 \, \text{eV}$ erreicht haben, regen sie bei einem Stoß ein Neon-Atom an. Beim Zurückfallen des Atoms in den Zwischenzustand wird orangefarbenes Licht emittiert (erster Leuchtbereich).
+* **Zweite Anregung:** Nach dem Stoß haben die Elektronen fast ihre gesamte kinetische Energie verloren, werden aber durch die verbleibende Spannung erneut beschleunigt.
+* **Zweiter Bereich:** Da die Gesamtspannung $22,6 \, \text{V}$ beträgt und für orangefarbenes Licht nur ca. $18,6 \, \text{eV}$ (Anregung) nötig sind, kann ein Elektron nach der ersten Anregung theoretisch erneut Energie aufnehmen. In der Praxis handelt es sich bei zwei getrennten Bereichen oft um die Visualisierung von Schichten, in denen die statistische Wahrscheinlichkeit für Anregungsstöße nach einer bestimmten Beschleunigungsstrecke maximal ist (ähnlich dem Franck-Hertz-Versuch).
+
+</details>
+
+---
+
+__c) Entstehung von Laserstrahlung__
+
+Ein Energieniveau des Neons ist metastabil und somit geeignet, um Laserlicht zu erzeugen.
+
+Erläutern Sie das physikalische Prinzip der Entstehung von Laserstrahlung.
+
+<details style="margin-left:10%;color:blue">
+<summary>Lösungsweg</summary>
+
+Ein Laser (Light Amplification by Stimulated Emission of Radiation) benötigt drei grundlegende Komponenten/Vorgänge: Besetzungsinversion, ein metastabiles Niveau und die stimulierte Emission.
+
+</details>
+
+<details style="margin-left:10%;color:blue">
+<summary>Lösung</summary>
+
+1. **Pumpen:** Durch Energiezufuhr (z. B. Elektronenstoß) werden Atome in einen angeregten Zustand versetzt.
+2. **Metastabiler Zustand:** Die Atome verweilen in diesem Zustand länger als üblich (hohe Verweildauer) .
+3. **Besetzungsinversion:** Es befinden sich mehr Atome im angeregten (metastabilen) Zustand als im energetisch tieferen Zustand.
+4. **Stimulierte Emission:** Ein vorbeifliegendes Photon passender Energie löst bei einem angeregten Atom den Übergang in einen tieferen Zustand aus. Dabei wird ein zweites Photon emittiert, das in Frequenz, Phase, Richtung und Polarisation identisch mit dem ersten ist.
+5. **Resonator:** Spiegel am Ende des Mediums reflektieren die Photonen, wodurch eine lawinenartige Verstärkung durch weitere stimulierte Emissionen erfolgt.
+
+</details>
