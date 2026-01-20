@@ -3018,8 +3018,6 @@ Das menschliche Ohr wandelt Schallwellen in Nervenimpulse um.
 
 !?[Aufbau_Ohr](https://diversewolken.ddns.net/nextcloud/index.php/s/qYZdB3HQ6ZAodeE/download)
 
-![WahrnehmungSchall](/download)
-
 ### Material 3: _Demonstrationsvideo Hörgrenze_
 
 !?[Video_Hörgrenze](https://diversewolken.ddns.net/nextcloud/index.php/s/A54Kg5rN7JWPsaz/download)
@@ -3064,4 +3062,6 @@ __Diagramm:__
 
 > Beschreiben Sie, wie die Wahrnehmung von Schall durch das menschliche Ohr funktioniert. Gehen Sie darauf ein, wie das Ohr die Schallwellen in vom Gehirn interpretierbare Signale umwandelt.
 >
-> Beschreiben Sie mit Hilfe Ihrer Materialien Grenzen der Wahrnehmung von Schall, sowohl bezüglich der Frequenz als auch der Lautstärke. Vergleichen Sie dazu den Verlauf der Graphen in den Abbildungen 1 und 3. 
+> Beschreiben Sie mit Hilfe Ihrer Materialien Grenzen der Wahrnehmung von Schall, sowohl bezüglich der Frequenz als auch der Lautstärke. >
+>
+> Vergleichen Sie dazu den Verlauf der Graphen in den Abbildungen 1 und 3. Schätzen Sie ein, inwiefern die Bestimmung der Leistung P des Lautsprechers (Abb. 1) ein gutes Maß für den Schalldruckpegel (Abb. 3) in dB darstellt.
