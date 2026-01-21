@@ -7501,3 +7501,43 @@ $$ \Delta E \cdot \Delta t≥ \frac{h}{4\pi}$$
 
 ## 12. 9. LASER - Light emission by stimulated radiation
 
+__Nutze Duden S. 488__
+
+> Informiere dich über die Begriff __spontane und induzierte Emission__. Was ist ein metastabiler Zustand? Notiere dir Stichpunkte dazu.
+
+__Nutze Duden S. 488 oder Metzler S. 442__
+
+> Informiere dich über die grundlegende Funktionsweise eines Lasers. Notiere eine qualitative Übersicht über die beteiligten Energieniveaus. Notiere wichtige Eigenschaften des Laserlichts.
+>
+> Wiederhole die Begriffe kohärenz und lineare Polarisation.
+
+### Erläuterung des LASER - Prinzips
+
+
+Ein Energieniveau des Neons ist metastabil und somit geeignet, um Laserlicht zu erzeugen.
+
+Erläutern Sie das physikalische Prinzip der Entstehung von Laserstrahlung.
+
+<details style="margin-left:10%;color:blue">
+<summary>Lösungsweg</summary>
+
+Ein Laser (Light Amplification by Stimulated Emission of Radiation) benötigt drei grundlegende Komponenten/Vorgänge: Besetzungsinversion, ein metastabiles Niveau und die stimulierte Emission.
+
+</details>
+
+<details style="margin-left:10%;color:blue">
+<summary>Lösung</summary>
+
+1. **Pumpen:** Durch Energiezufuhr (z. B. Elektronenstoß) werden Atome in einen angeregten Zustand versetzt.
+2. **Metastabiler Zustand:** Die Atome verweilen in diesem Zustand länger als üblich (hohe Verweildauer) .
+3. **Besetzungsinversion:** Es befinden sich mehr Atome im angeregten (metastabilen) Zustand als im energetisch tieferen Zustand.
+4. **Stimulierte Emission:** Ein vorbeifliegendes Photon passender Energie löst bei einem angeregten Atom den Übergang in einen tieferen Zustand aus. Dabei wird ein zweites Photon emittiert, das in Frequenz, Phase, Richtung und Polarisation identisch mit dem ersten ist.
+5. **Resonator:** Spiegel am Ende des Mediums reflektieren die Photonen, wodurch eine lawinenartige Verstärkung durch weitere stimulierte Emissionen erfolgt.
+
+</details>
+
+
+
+### Notizen
+
+     __Besetzungsinversion:__ Mehr Atome befinden sich im angeregten (metastabilen) Zustand als im Grundzustand <br> Es erfolgt eine zufällige spontane Emission eines Photons Dieses Photon sorgt für die induzierte (stimulierte) Emission weiterer Photonen, wenn es auf angeregte Atome im metastabilen Zustand trifft.
