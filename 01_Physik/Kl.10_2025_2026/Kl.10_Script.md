@@ -3014,6 +3014,9 @@ Das menschliche Ohr wandelt Schallwellen in Nervenimpulse um.
 
 !?[Video_Das_Ohr](https://diversewolken.ddns.net/nextcloud/index.php/s/Wfsm7Z5y6treqkP/download)
 
+
+
+
 ### Material 2: _Aufbau des Ohres_
 
 !?[Aufbau_Ohr](https://diversewolken.ddns.net/nextcloud/index.php/s/qYZdB3HQ6ZAodeE/download)
@@ -3057,6 +3060,10 @@ __Diagramm:__
 ### Material 5: Spektrum menschlichen Hörens
 
 ![Spektrum_Menschlichen_Hörens](https://diversewolken.ddns.net/nextcloud/index.php/s/Ciyqb5Q4wqRAeec/download)
+
+### Material 6: Übersicht
+
+![Übersicht Ohr](https://diversewolken.ddns.net/nextcloud/index.php/s/PpXXToiZdfMWDYa/download)
 
 ### Aufgabenstellung: Zusammenfassung
 
