@@ -3057,11 +3057,11 @@ __Diagramm:__
 ![Diagramm_MEsswerte](https://diversewolken.ddns.net/nextcloud/index.php/s/twxoifdtgLnfctx/download)
 **********
 
-### Material 5: Spektrum menschlichen Hörens
+### Material 5: _Spektrum menschlichen Hörens_
 
 ![Spektrum_Menschlichen_Hörens](https://diversewolken.ddns.net/nextcloud/index.php/s/Ciyqb5Q4wqRAeec/download)
 
-### Material 6: Übersicht
+### Material 6: _Übersicht_
 
 ![Übersicht Ohr](https://diversewolken.ddns.net/nextcloud/index.php/s/PpXXToiZdfMWDYa/download)
 
