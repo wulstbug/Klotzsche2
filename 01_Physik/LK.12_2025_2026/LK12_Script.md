@@ -7441,3 +7441,31 @@ Ein Stoff emittiert nach Anregung durch Licht zeitlich @color(**zeitlich verzög
 ![Fluoreszenz_Phosphoreszenz](https://diversewolken.ddns.net/nextcloud/index.php/s/HWj7ATcTNNff2SY/download)
 
 [Was-sind-Singlett-Triplett-Zustände-Frag-die-KI](http://10.102.1.3:3001/?q=Erl%C3%A4utere%20mir,%20was%20ein%20Signlett-%20und%20ein%20Triplettzustand%20ist.%20Der%20Kontext%20ist%20Fluoreszenz%20und%20Phosphoreszenz.%20Auf%20Grundlegendem%20Niveau)
+
+
+### Aufgabe zu Fluoreszenz und Phosphoreszenz
+
+__Energieunschärfe und Lebensdauer__
+
+Zwischen der Lebensdauer Δt eines angeregten Zustands und der Unschärfe seiner Energie ΔE besteht nach der Heißenberg'schen Unschärferelation ein Zusammenhang.
+
+Ein gewöhnlicher angeregter Zustand (Fluoreszenz) hat eine Lebensdauer von etwa $\Delta t=10^{−8}\mathrm{s}$. Ein metastabiler Zustand (Phosphoreszenz) kann dagegen viele Sekunden überdauern. <br>
+Berechnen Sie die minimale Energieunschärfe $\Delta E$ (in eV) für einen Zustand mit einer Lebensdauer von $\Delta t=1,0\cdot10^{−8}\mathrm{s}$.
+
+<p style='margin-left:10%'>
+
+@rangeQuiz2( $\Delta E$ , 3.29e-8, $\mathrm{eV}$ )
+
+</p>
+
+<details style='color:blue;margin-left:10%'>
+
+<summary> Lösungsvorschlag </summary>
+
+Setzen Sie die Heiißenberg'sche Unschärferelation als Gleichung an und ermitteln sie $\Delta E$.
+
+$$ \Delta E \cdot \Delta t≥ \frac{h}{4\pi}$$
+
+</details>
+
+## 12. 9. LASER - Light emission by stimulated radiation
