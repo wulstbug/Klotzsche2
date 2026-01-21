@@ -1223,3 +1223,166 @@ Ein Laser (Light Amplification by Stimulated Emission of Radiation) benötigt dr
 5. **Resonator:** Spiegel am Ende des Mediums reflektieren die Photonen, wodurch eine lawinenartige Verstärkung durch weitere stimulierte Emissionen erfolgt.
 
 </details>
+
+
+## 12. 8. Fluoreszenz und Phosphoreszenz
+
+__Oberbegriff: Lumineszenz__ bezeichnet allgemein jede Lichtemission eines Stoffes, die nicht durch hohe Temperatur (also nicht durch Glühen) verursacht wird. Die Lichtabgabe entsteht durch elektronische Anregungs- und Relaxationsprozesse.
+
+---
+
+<section class="flex-container">
+
+<div class="flex-child-1" style="min-width: 300px; margin-bottom: -10px">
+
+__Fluoreszenz__
+
+**Definition:**  
+Ein Stoff emittiert nach Anregung durch Licht @color(**sofort wieder Licht wieder**, red). <br> Die Lichtemission endet praktisch unmittelbar, sobald die Anregung abgeschaltet wird.
+
+
+
+</div>
+
+<div class="flex-child-1" style="min-width: 300px; margin-bottom: -10px">
+
+__Phosphoreszenz__
+
+**Definition:**  
+Ein Stoff emittiert nach Anregung durch Licht zeitlich @color(**zeitlich verzögert**, red). Es erfolgt und auch nach dem Ende der Anregung noch anhält (Nachleuchten).
+
+
+</div>
+
+</section>
+
+---
+
+<section class="flex-container">
+
+<div class="flex-child-1" style="min-width: 300px; margin-bottom: -10px">
+
+
+**Physikalischer Ablauf:**
+
+- Ein Photon regt ein Elektron vom **Grundzustand** in einen **angeregten Singulett-Zustand** an
+
+- Das Elektron fällt innerhalb von etwa **10⁻⁹ bis 10⁻⁸ Sekunden** in den Grundzustand zurück.
+
+- das angeregte Photon emittiert ein Elektron
+
+_Hinweis: Ein Teil der emittierten Energie wird als Wärme abgegen. Daher besitzt das emittierte Licht eine geringere Energie als das anregende Licht._
+
+
+</div>
+
+<div class="flex-child-1" style="min-width: 300px; margin-bottom: -10px">
+
+**Physikalischer Ablauf:**
+
+- Ein Elektron wird zunächst in einen angeregten **Singulett-Zustand** gehoben, wechselt aber in einen Triplett-Zustand
+
+- Der Übergang zurück in den Grundzustand ist **quantemmechanisch verboten bzw. stark gehemmt**
+
+- Die Rückkehr erfolgt langsam, wodurch die Lichtemission von **Sekunden bis Stunden** andauern kann.
+
+
+</div>
+
+</section>
+
+---
+
+<section class="flex-container">
+
+<div class="flex-child-1" style="min-width: 300px; margin-bottom: -10px">
+
+**Beispiele:**
+
+- Textmarker
+- Schwarzlichteffekt von Leuchtstoffröhren
+- Sicherheitsmerkmale auf Geldscheinen
+
+</div>
+
+<div class="flex-child-1" style="min-width: 300px; margin-bottom: -10px">
+
+
+**Beispiele:**
+
+- Nachleuchtende Notausgangsschilder
+
+- Leuchtfarbe auf Uhren
+
+- Dekorative Leuchtsterne
+
+</div>
+
+</section>
+
+---
+
+__Infografik:__
+
+![Fluoreszenz_Phosphoreszenz](https://diversewolken.ddns.net/nextcloud/index.php/s/HWj7ATcTNNff2SY/download)
+
+[Was-sind-Singlett-Triplett-Zustände-Frag-die-KI](http://10.102.1.3:3001/?q=Erl%C3%A4utere%20mir,%20was%20ein%20Signlett-%20und%20ein%20Triplettzustand%20ist.%20Der%20Kontext%20ist%20Fluoreszenz%20und%20Phosphoreszenz.%20Auf%20Grundlegendem%20Niveau)
+
+### Aufgabe zu Fluoreszenz und Phosphoreszenz
+
+Ein gewöhnlicher angeregter Zustand (Fluoreszenz) hat eine Lebensdauer von etwa $\Delta t=10^{−8}\mathrm{s}$. Ein metastabiler Zustand (Phosphoreszenz) kann dagegen viele Sekunden überdauern. <br>
+Berechnen Sie die minimale Energieunschärfe $\Delta E$ (in eV) für einen Zustand mit einer Lebensdauer von $\Delta t=1,0\cdot10^{−8}\mathrm{s}$.
+
+<p style='margin-left:10%'>
+
+@rangeQuiz2( $\Delta E$ , 3.29e-8, $\mathrm{eV}$ )
+
+</p>
+
+<details style='color:blue;margin-left:10%'>
+
+<summary> Lösungsvorschlag </summary>
+
+Setzen Sie die Heiißenberg'sche Unschärferelation als Gleichung an und ermitteln sie $\Delta E$.
+
+$$ \Delta E \cdot \Delta t≥ \frac{h}{4\pi}$$
+
+</details>
+
+## 12. 9. LASER - Light emission by stimulated radiation
+
+__Nutze Duden S. 488__
+
+> Informiere dich über die Begriff __spontane und induzierte Emission__. Was ist ein metastabiler Zustand? Notiere dir Stichpunkte dazu.
+
+__Nutze Duden S. 488 oder Metzler S. 442__
+
+> Informiere dich über die grundlegende Funktionsweise eines Lasers. Notiere eine qualitative Übersicht über die beteiligten Energieniveaus. Notiere wichtige Eigenschaften des Laserlichts.
+>
+> Wiederhole die Begriffe kohärenz und lineare Polarisation.
+
+### Erläuterung des LASER - Prinzips
+
+
+Ein Energieniveau des Neons ist metastabil und somit geeignet, um Laserlicht zu erzeugen.
+
+Erläutern Sie das physikalische Prinzip der Entstehung von Laserstrahlung.
+
+<details style="margin-left:10%;color:blue">
+<summary>Lösungsweg</summary>
+
+Ein Laser (Light Amplification by Stimulated Emission of Radiation) benötigt drei grundlegende Komponenten/Vorgänge: Besetzungsinversion, ein metastabiles Niveau und die stimulierte Emission.
+
+</details>
+
+<details style="margin-left:10%;color:blue">
+<summary>Lösung</summary>
+
+1. **Pumpen:** Durch Energiezufuhr (z. B. Elektronenstoß) werden Atome in einen angeregten Zustand versetzt.
+2. **Metastabiler Zustand:** Die Atome verweilen in diesem Zustand länger als üblich (hohe Verweildauer) .
+3. **Besetzungsinversion:** Es befinden sich mehr Atome im angeregten (metastabilen) Zustand als im energetisch tieferen Zustand.
+4. **Stimulierte Emission:** Ein vorbeifliegendes Photon passender Energie löst bei einem angeregten Atom den Übergang in einen tieferen Zustand aus. Dabei wird ein zweites Photon emittiert, das in Frequenz, Phase, Richtung und Polarisation identisch mit dem ersten ist.
+5. **Resonator:** Spiegel am Ende des Mediums reflektieren die Photonen, wodurch eine lawinenartige Verstärkung durch weitere stimulierte Emissionen erfolgt.
+
+</details>
+
