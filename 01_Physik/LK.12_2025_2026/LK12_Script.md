@@ -7374,3 +7374,83 @@ Ein Laser (Light Amplification by Stimulated Emission of Radiation) benötigt dr
 5. **Resonator:** Spiegel am Ende des Mediums reflektieren die Photonen, wodurch eine lawinenartige Verstärkung durch weitere stimulierte Emissionen erfolgt.
 
 </details>
+
+## 12. 8. Fluoreszenz und Phosphoreszenz
+
+__Oberbegriff: Lumineszenz__ bezeichnet allgemein jede Lichtemission eines Stoffes, die nicht durch hohe Temperatur (also nicht durch Glühen) verursacht wird. Die Lichtabgabe entsteht durch elektronische Anregungs- und Relaxationsprozesse.
+
+---
+
+<section class="flex-container">
+
+<div class="flex-child-1" style="min-width: 300px; margin-bottom: -10px">
+
+__Fluoreszenz__
+
+**Definition:**  
+Ein Stoff emittiert nach Anregung durch Licht @color(**sofort wieder Licht wieder**, red). <br> Die Lichtemission endet praktisch unmittelbar, sobald die Anregung abgeschaltet wird.
+
+**Physikalischer Ablauf:**
+
+- Ein Photon regt ein Elektron vom **Grundzustand** in einen **angeregten Singulett-Zustand** an
+
+- Das Elektron fällt innerhalb von etwa **10⁻⁹ bis 10⁻⁸ Sekunden** in den Grundzustand zurück.
+
+- das angeregte Photon emittiert ein Elektron
+
+_Hinweis: Ein Teil der emittierten Energie wird als Wärme abgegen. Daher besitzt das emittierte Licht eine geringere Energie als das anregende Licht._
+
+**Beispiele:**
+
+- Textmarker
+- Schwarzlichteffekt von Leuchtstoffröhren
+- Sicherheitsmerkmale auf Geldscheinen
+
+</div>
+
+<div class="flex-child-1" style="min-width: 300px; margin-bottom: -10px">
+
+
+__Phosphoreszenz__
+
+**Definition:**  
+Ein Stoff emittiert nach Anregung durch Licht zeitlich @color(**zeitlich verzögert**, red). Es erfolgt und auch nach dem Ende der Anregung noch anhält (Nachleuchten).
+
+**Physikalischer Ablauf:**
+
+- Ein Elektron wird zunächst in einen angeregten **Singulett-Zustand** gehoben, wechselt aber in einen Triplett-Zustand
+
+- Der Übergang zurück in den Grundzustand ist **quantemmechanisch verboten bzw. stark gehemmt**
+
+- Die Rückkehr erfolgt langsam, wodurch die Lichtemission von **Sekunden bis Stunden** andauern kann.
+
+
+**Beispiele:**
+
+- Nachleuchtende Notausgangsschilder
+
+- Leuchtfarbe auf Uhren
+
+- Dekorative Leuchtsterne
+
+
+</div>
+
+</section>
+
+---
+
+<section class="flex-container">
+
+<div class="flex-child-1" style="min-width: 300px; margin-bottom: -10px">
+
+
+</div>
+
+<div class="flex-child-1" style="min-width: 300px; margin-bottom: -10px">
+
+
+
+</div>
+
+</section>
