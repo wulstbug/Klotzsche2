@@ -7438,19 +7438,6 @@ Ein Stoff emittiert nach Anregung durch Licht zeitlich @color(**zeitlich verzög
 
 </section>
 
----
+![Fluoreszenz_Phosphoreszenz](https://diversewolken.ddns.net/nextcloud/index.php/s/HWj7ATcTNNff2SY/download)
 
-<section class="flex-container">
-
-<div class="flex-child-1" style="min-width: 300px; margin-bottom: -10px">
-
-
-</div>
-
-<div class="flex-child-1" style="min-width: 300px; margin-bottom: -10px">
-
-
-
-</div>
-
-</section>
+[Was-sind-Singlett-Triplett-Zustände-Frag-die-KI](http://10.102.1.3:3001/?q=Erl%C3%A4utere%20mir,%20was%20ein%20Signlett-%20und%20ein%20Triplettzustand%20ist.%20Der%20Kontext%20ist%20Fluoreszenz%20und%20Phosphoreszenz.%20Auf%20Grundlegendem%20Niveau)
