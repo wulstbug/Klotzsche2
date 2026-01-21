@@ -7470,6 +7470,10 @@ _Hinweis: Ein Teil der emittierten Energie wird als Wärme abgegen. Daher besitz
 
 </section>
 
+---
+
+__Infografik:__
+
 ![Fluoreszenz_Phosphoreszenz](https://diversewolken.ddns.net/nextcloud/index.php/s/HWj7ATcTNNff2SY/download)
 
 [Was-sind-Singlett-Triplett-Zustände-Frag-die-KI](http://10.102.1.3:3001/?q=Erl%C3%A4utere%20mir,%20was%20ein%20Signlett-%20und%20ein%20Triplettzustand%20ist.%20Der%20Kontext%20ist%20Fluoreszenz%20und%20Phosphoreszenz.%20Auf%20Grundlegendem%20Niveau)
@@ -7496,3 +7500,4 @@ $$ \Delta E \cdot \Delta t≥ \frac{h}{4\pi}$$
 </details>
 
 ## 12. 9. LASER - Light emission by stimulated radiation
+
