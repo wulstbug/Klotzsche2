@@ -7390,6 +7390,29 @@ __Fluoreszenz__
 **Definition:**  
 Ein Stoff emittiert nach Anregung durch Licht @color(**sofort wieder Licht wieder**, red). <br> Die Lichtemission endet praktisch unmittelbar, sobald die Anregung abgeschaltet wird.
 
+
+
+</div>
+
+<div class="flex-child-1" style="min-width: 300px; margin-bottom: -10px">
+
+__Phosphoreszenz__
+
+**Definition:**  
+Ein Stoff emittiert nach Anregung durch Licht zeitlich @color(**zeitlich verzögert**, red). Es erfolgt und auch nach dem Ende der Anregung noch anhält (Nachleuchten).
+
+
+</div>
+
+</section>
+
+---
+
+<section class="flex-container">
+
+<div class="flex-child-1" style="min-width: 300px; margin-bottom: -10px">
+
+
 **Physikalischer Ablauf:**
 
 - Ein Photon regt ein Elektron vom **Grundzustand** in einen **angeregten Singulett-Zustand** an
@@ -7399,6 +7422,30 @@ Ein Stoff emittiert nach Anregung durch Licht @color(**sofort wieder Licht wiede
 - das angeregte Photon emittiert ein Elektron
 
 _Hinweis: Ein Teil der emittierten Energie wird als Wärme abgegen. Daher besitzt das emittierte Licht eine geringere Energie als das anregende Licht._
+
+
+</div>
+
+<div class="flex-child-1" style="min-width: 300px; margin-bottom: -10px">
+
+**Physikalischer Ablauf:**
+
+- Ein Elektron wird zunächst in einen angeregten **Singulett-Zustand** gehoben, wechselt aber in einen Triplett-Zustand
+
+- Der Übergang zurück in den Grundzustand ist **quantemmechanisch verboten bzw. stark gehemmt**
+
+- Die Rückkehr erfolgt langsam, wodurch die Lichtemission von **Sekunden bis Stunden** andauern kann.
+
+
+</div>
+
+</section>
+
+---
+
+<section class="flex-container">
+
+<div class="flex-child-1" style="min-width: 300px; margin-bottom: -10px">
 
 **Beispiele:**
 
@@ -7411,20 +7458,6 @@ _Hinweis: Ein Teil der emittierten Energie wird als Wärme abgegen. Daher besitz
 <div class="flex-child-1" style="min-width: 300px; margin-bottom: -10px">
 
 
-__Phosphoreszenz__
-
-**Definition:**  
-Ein Stoff emittiert nach Anregung durch Licht zeitlich @color(**zeitlich verzögert**, red). Es erfolgt und auch nach dem Ende der Anregung noch anhält (Nachleuchten).
-
-**Physikalischer Ablauf:**
-
-- Ein Elektron wird zunächst in einen angeregten **Singulett-Zustand** gehoben, wechselt aber in einen Triplett-Zustand
-
-- Der Übergang zurück in den Grundzustand ist **quantemmechanisch verboten bzw. stark gehemmt**
-
-- Die Rückkehr erfolgt langsam, wodurch die Lichtemission von **Sekunden bis Stunden** andauern kann.
-
-
 **Beispiele:**
 
 - Nachleuchtende Notausgangsschilder
@@ -7432,7 +7465,6 @@ Ein Stoff emittiert nach Anregung durch Licht zeitlich @color(**zeitlich verzög
 - Leuchtfarbe auf Uhren
 
 - Dekorative Leuchtsterne
-
 
 </div>
 
@@ -7442,12 +7474,7 @@ Ein Stoff emittiert nach Anregung durch Licht zeitlich @color(**zeitlich verzög
 
 [Was-sind-Singlett-Triplett-Zustände-Frag-die-KI](http://10.102.1.3:3001/?q=Erl%C3%A4utere%20mir,%20was%20ein%20Signlett-%20und%20ein%20Triplettzustand%20ist.%20Der%20Kontext%20ist%20Fluoreszenz%20und%20Phosphoreszenz.%20Auf%20Grundlegendem%20Niveau)
 
-
 ### Aufgabe zu Fluoreszenz und Phosphoreszenz
-
-__Energieunschärfe und Lebensdauer__
-
-Zwischen der Lebensdauer Δt eines angeregten Zustands und der Unschärfe seiner Energie ΔE besteht nach der Heißenberg'schen Unschärferelation ein Zusammenhang.
 
 Ein gewöhnlicher angeregter Zustand (Fluoreszenz) hat eine Lebensdauer von etwa $\Delta t=10^{−8}\mathrm{s}$. Ein metastabiler Zustand (Phosphoreszenz) kann dagegen viele Sekunden überdauern. <br>
 Berechnen Sie die minimale Energieunschärfe $\Delta E$ (in eV) für einen Zustand mit einer Lebensdauer von $\Delta t=1,0\cdot10^{−8}\mathrm{s}$.
