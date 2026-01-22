@@ -1386,3 +1386,251 @@ Ein Laser (Light Amplification by Stimulated Emission of Radiation) benötigt dr
 
 </details>
 
+
+### Übungsaufgabe Franck-Hertz und LASER
+
+1. Übungsaufgabe: Energieaustausch in der Atomhülle
+
+<p style="margin-left:10%">
+
+![ArgonEnergieen](https://diversewolken.ddns.net/nextcloud/index.php/s/K3WPC7xNNsfXGZZ/download)Angeregte Zustände von Argon-Ionen lassen sich zur Erzeugung von Laserlicht verwenden. Das Laserlicht entsteht beim Übergang der Argon-Ionen vom Zustand **4p** in den Zustand **4s**. Um das obere Laserniveau 4p zu erreichen, ist zusätzlich zur Ionisierung eine Anregung des Ions durch Elektronenstoß erforderlich .
+
+</p>
+
+---
+
+1. 1. Anregung durch Elektronenstoß
+
+<p style="margin-left:10%">
+
+Ein Elektron der Geschwindigkeit $v = 4,2 \cdot 10^6 \text{ m/s}$ verliert bei der Ionisation von Argonatomen $30 \%$ seiner Geschwindigkeit. Untersuchen Sie durch Rechnung, ob dieses Elektron anschließend noch in der Lage ist, ein Argon-Ion in das obere Laserniveau 4p anzuregen (erforderliche Energie: $\Delta E = 20 \text{ eV}$) .
+
+@rangeQuiz2($ E_{kin} $, 24.0,$ \mathrm{eV} $)
+
+</p>
+
+<details style="margin-left:10%;color:blue">
+
+<summary>Lösungshinweis</summary>
+
+1. Berechnen Sie die Restgeschwindigkeit $v'$ des Elektrons nach dem Verlust von $30 \%$ ($v' = 0,7 \cdot v$) .
+2. Berechnen Sie die kinetische Energie mit $E_{kin} = \frac{1}{2} \cdot m \cdot v'^2$ .
+3. Nutzen Sie für die Masse des Elektrons $m \approx 9,11 \cdot 10^{-31} \text{ kg}$ und rechnen Sie das Ergebnis von Joule in Elektronenvolt um ($1 \text{ eV} \approx 1,60 \cdot 10^{-19} \text{ J}$) .
+
+</details>
+
+<details style="margin-left:10%;color:blue">
+
+<summary>Lösung</summary>
+
+$v' = 0,7 \cdot v = 0,7 \cdot 4,2 \cdot 10^6 \text{ m/s} = 2,9 \cdot 10^6 \text{ m/s}$ .
+
+$E_{kin} = \frac{1}{2} \cdot 9,11 \cdot 10^{-31} \text{ kg} \cdot (2,9 \cdot 10^6 \text{ m/s})^2 = 3,8 \cdot 10^{-18} \text{ J} \approx 24 \text{ eV}$ .
+
+**Ergebnis:** Da die kinetische Energie mit $24 \text{ eV}$ größer als die benötigten $20 \text{ eV}$ ist, ist eine Anregung möglich .
+
+</details>
+
+---
+
+1. 2. Wellenlänge des Laserlichts
+
+<p style="margin-left:10%">
+
+Berechnen Sie die Wellenlänge $\lambda$ des Laserlichts, das beim Übergang vom 4p-Zustand in den 4s-Zustand emittiert wird .
+
+@rangeQuiz2($ \lambda $, 497.0, $\mathrm{nm} $)
+
+</p>
+
+<details style="margin-left:10%;color:blue">
+
+<summary>Lösungshinweis</summary>
+
+1. Bestimmen Sie die Energiedifferenz $\Delta E = E_{4p} - E_{4s}$ .
+2. Nutzen Sie die Formel $\Delta E = \frac{h \cdot c}{\lambda}$ und stellen Sie diese nach $\lambda$ um .
+3. Konstanten: $h \approx 6,63 \cdot 10^{-34} \text{ Js}$; $c \approx 2,99 \cdot 10^8 \text{ m/s}$ .
+
+</details>
+
+<details style="margin-left:10%;color:blue">
+
+<summary>Lösung</summary>
+
+$\Delta E = 36,0 \text{ eV} - 33,5 \text{ eV} = 2,5 \text{ eV}$ .
+
+$\lambda = \frac{h \cdot c}{\Delta E} \Rightarrow \lambda = \frac{6,63 \cdot 10^{-34} \text{ Js} \cdot 2,99 \cdot 10^8 \text{ m/s}}{2,5 \text{ eV} \cdot 1,60 \cdot 10^{-19} \text{ As}} = 4,97 \cdot 10^{-7} \text{ m} = 497 \text{ nm}$ .
+
+</details>
+
+---
+
+1. 3. Wirkungsgrad des Lasers
+
+<p style="margin-left:10%">
+
+Vom unteren Laserniveau 4s fallen die Argon-Ionen in kürzester Zeit in den Grundzustand $Ar^+$ zurück. Berechnen Sie den Wirkungsgrad $\eta$ für den Laserprozess (Verhältnis von Laserenergie zu Anregungsenergie). Die anfängliche Ionisierungsarbeit soll unberücksichtigt bleiben .
+
+@rangeQuiz2($ \eta $, 12.5, $\mathrm{\%} $)
+
+<details style="margin-left:10%;color:blue">
+<summary>Lösungshinweis</summary>
+
+Der Wirkungsgrad ergibt sich aus dem Verhältnis der genutzten Energie (emittiertes Laserphoton) zur aufgewendeten Anregungsenergie: $\eta = \frac{\Delta E_{Laser}}{\Delta E_{Anregung}}$ .
+
+</details>
+
+<details style="margin-left:10%;color:blue">
+<summary>Lösung</summary>
+
+$\eta = \frac{2,5 \text{ eV}}{20 \text{ eV}} = 12,5 \%$ .
+
+</details>
+
+</p>
+
+---
+
+2. Abituraufgabe: Der Franck-Hertz-Versuch
+
+<p style="margin-left:10%">
+
+Im Jahr 1925 wurden die deutschen Physiker **James FRANCK** (1882 - 1964) und **Gustav HERTZ** (1887 - 1975) für ihre experimentellen Forschungen auf dem Gebiet der Atomphysik mit dem Nobelpreis ausgezeichnet .
+
+</p>
+
+
+---
+
+2. 1. Versuchsaufbau und Durchführung
+
+<p style="margin-left:10%">
+
+Skizzieren Sie den Versuchsaufbau (inkl. Messgeräte) zum Elektronenstoß-Versuch im FRANCK-HERTZ-Rohr, beschriften Sie die wesentlichen Teile und beschreiben Sie knapp die Versuchsdurchführung.
+
+</p>
+
+<details style="margin-left:10%;color:blue">
+<summary>Lösungshinweis</summary>
+
+Der Aufbau besteht aus einer evakuierten Röhre mit Quecksilberdampf, einer Glühkathode, einem Gitter und einer Auffängerelektrode .
+
+</details>
+
+<details style="margin-left:10%;color:blue">
+<summary>Lösung</summary>
+
+**Versuchsaufbau:**
+*   **Kathode:** Emittiert Elektronen durch thermische Emission (Glühwendel) .
+*   **Gitter:** Zwischen Kathode und Gitter liegt die regelbare Beschleunigungsspannung $U$ .
+*   **Auffänger:** Zwischen Gitter und Auffänger liegt eine Gegenspannung $U_{geg} \approx 1 \text{ V}$ .
+*   **Messgeräte:** Voltmeter für $U$ und ein empfindlicher Strommesser (Pikoamperemeter) für den Auffängerstrom $I$ .
+
+![Lsg_Aufbau](https://diversewolken.ddns.net/nextcloud/index.php/s/zQQQZ5bRndr2Y8Y/download)
+
+**Versuchsdurchführung:**
+Die Röhre wird im Ofen aufgeheizt, um den nötigen Dampfdruck zu erzeugen . Die Beschleunigungsspannung $U$ wird kontinuierlich von $0 \text{ V}$ bis ca. $30 \text{ V}$ gesteigert . Nur Elektronen, deren kinetische Energie groß genug ist, um das Gegenfeld zu überwinden ($E_{kin} > 1 \text{ eV}$), erreichen den Auffänger und tragen zum Strom $I$ bei .
+
+</details>
+
+---
+
+2. 2. Das $U-I$-Diagramm
+
+
+<p style="margin-left:10%">
+
+Fertigen Sie eine Skizze des charakteristischen $U-I$-Diagramms an. Zeichnen Sie darin auch den ungefähren Verlauf der Kennlinie ein, die man erwarten würde, wenn zwischen Elektronen und Quecksilberatomen nur elastische Stöße auftreten könnten. Begründen Sie den unterschiedlichen Kurvenverlauf .
+
+
+</p>
+
+<details style="margin-left:10%;color:blue">
+
+<summary>Lösungshinweis</summary>
+
+Betrachten Sie das periodische Abfallen des Stroms bei Erreichen der Anregungsenergie von Quecksilber ($4,9 \text{ eV}$) .
+
+</details>
+
+<details style="margin-left:10%;color:blue">
+
+<summary>Lösung</summary>
+
+**Skizze:**
+Die Kurve zeigt einen grundsätzlich steigenden Verlauf mit periodischen Minima bei $U_1 \approx 4,9 \text{ V}$, $U_2 \approx 9,8 \text{ V}$, $U_3 \approx 14,7 \text{ V}$ . Die theoretische Kurve für rein elastische Stöße wäre eine glatt ansteigende Kurve ohne Minima.
+
+![](https://diversewolken.ddns.net/nextcloud/index.php/s/TQatCWceiADmczM/download)
+
+**Begründung:**
+*   **Elastische Stöße:** Aufgrund des hohen Massenunterschieds zwischen Elektron und Hg-Atom verlieren die Elektronen dabei kaum Energie und erreichen trotz Stößen den Auffänger .
+*   **Inelastische Stöße:** Sobald Elektronen kurz vor dem Gitter eine Energie von $4,9 \text{ eV}$ erreichen, können sie ein Hg-Atom anregen . Sie geben dabei ihre kinetische Energie fast vollständig ab, können das Gegenfeld nicht mehr überwinden und der Strom $I$ fällt ab . Bei höheren Spannungen ist dieser Vorgang mehrfach möglich (Bereich IV) .
+
+</details>
+
+
+---
+
+2. 3. Notwendigkeit der Heizung
+
+
+<p style="margin-left:10%">
+
+Bei Zimmertemperatur ist in der Röhre Quecksilber in flüssigem Zustand zu sehen. Erklären Sie kurz, warum zur Aufnahme der Messkurve die Röhre beheizt werden muss .
+
+</p>
+
+<details style="margin-left:10%;color:blue">
+
+<summary>Lösungshinweis</summary>
+
+Denken Sie an die Stoßwahrscheinlichkeit zwischen Elektronen und Atomen .
+
+</details>
+
+<details style="margin-left:10%;color:blue">
+
+<summary>Lösung</summary>
+
+Flüssiges Quecksilber besitzt bei Zimmertemperatur einen zu geringen Dampfdruck . Die Heizung ist notwendig, damit genügend Quecksilbergas vorhanden ist, sodass eine hohe Stoßwahrscheinlichkeit für die Elektronen mit den Gasatomen besteht . Zudem verhindert es mögliche Kurzschlüsse durch flüssiges Quecksilber zwischen den Elektroden .
+
+</details>
+
+
+
+---
+
+2. 4. Wellenlängenberechnung
+
+
+<p style="margin-left:10%">
+
+Nach Anregung der Quecksilberatome auf ein Niveau von $4,9 \text{ eV}$ über dem Grundzustand geht die Mehrzahl direkt wieder in den Grundzustand über. Berechnen Sie die Wellenlänge der damit verbundenen Strahlung. Nennen Sie den dazugehörigen Wellenlängenbereich .
+
+@rangeQuiz2( $\lambda$ , 253.0, $\mathrm{nm}$ )
+
+[[ Terahertz | Infrarot | Sichtbar | (Ultraviolett) | Röntgen | Gammastrahlung ]]
+
+</p>
+
+<details style="margin-left:10%;color:blue">
+
+<summary>Lösungshinweis</summary>
+
+Nutzen Sie die Beziehung $\Delta E = h \cdot \frac{c}{\lambda}$ mit $\Delta E = 4,9 \text{ eV}$ .
+
+</details>
+
+<details style="margin-left:10%;color:blue">
+
+<summary>Lösung</summary>
+
+Gegeben: $\Delta E = 4,9 \text{ eV}$
+
+$\lambda = \frac{h \cdot c}{\Delta E} = \frac{4,14 \cdot 10^{-15} \text{ eV s} \cdot 3,0 \cdot 10^8 \text{ m/s}}{4,9 \text{ eV}}$ 
+$\lambda \approx 2,53 \cdot 10^{-7} \text{ m} = \mathbf{253 \text{ nm}}$ 
+
+**Wellenlängenbereich:**
+Die Wellenlänge von $253 \text{ nm}$ liegt im **ultravioletten Bereich** (UV-Licht) .
+
+</details>
