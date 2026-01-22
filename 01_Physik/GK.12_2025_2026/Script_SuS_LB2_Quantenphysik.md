@@ -597,7 +597,7 @@ Farbbezeichnung: [[ Infrarot ]]
 
 Im Jahr 1924 schlug der französche Physiker _Victor Louis de Broglie_ vor, jedem Teilchen eine Wellenlänge zuzuordnen, genannt __de Broglie Wellenlänge__
 
-> Die **_de-Bloglie_ Wellenlänge**
+> Die **_de-Broglie_ Wellenlänge**
 >
 > $$ \boxed{\lambda = \frac{h}{p} = \frac{h}{m \cdot v}}$$
 >
