@@ -1391,7 +1391,7 @@ Ein Laser (Light Amplification by Stimulated Emission of Radiation) benötigt dr
 
 <summary> __Besetzungsinversion:__ </summary>
 
-Mehr Atome befinden sich im angeregten (metastabilen) Zustand als im Grundzustand <br> Es erfolgt eine zufällige spontane Emission eines Photons Dieses Photon sorgt für die induzierte (stimulierte) Emission weiterer Photonen, wenn es auf angeregte Atome im metastabilen Zustand trifft.
+Mehr Atome befinden sich im angeregten (metastabilen) Zustand als im Grundzustand. <br> Es erfolgt eine zufällige spontane Emission eines Photons. Dieses Photon sorgt für die induzierte (stimulierte) Emission weiterer Photonen, wenn es auf angeregte Atome im metastabilen Zustand trifft.
 
 </details>
 
