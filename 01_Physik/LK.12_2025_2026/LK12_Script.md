@@ -7754,11 +7754,14 @@ Flüssiges Quecksilber besitzt bei Zimmertemperatur einen zu geringen Dampfdruck
 
 Nach Anregung der Quecksilberatome auf ein Niveau von $4,9 \text{ eV}$ über dem Grundzustand geht die Mehrzahl direkt wieder in den Grundzustand über. Berechnen Sie die Wellenlänge der damit verbundenen Strahlung. Nennen Sie den dazugehörigen Wellenlängenbereich .
 
-@rangeQuiz2( \lambda , 253.0, \mathrm{nm} )
+@rangeQuiz2( $\lambda$ , 253.0, $\mathrm{nm}$ )
+
+[[ Terahertz | Infrarot | Sichtbar | (Ultraviolett) | Röntgen | Gammastrahlung ]]
 
 </p>
 
 <details style="margin-left:10%;color:blue">
+
 <summary>Lösungshinweis</summary>
 
 Nutzen Sie die Beziehung $\Delta E = h \cdot \frac{c}{\lambda}$ mit $\Delta E = 4,9 \text{ eV}$ .
@@ -7766,6 +7769,7 @@ Nutzen Sie die Beziehung $\Delta E = h \cdot \frac{c}{\lambda}$ mit $\Delta E = 
 </details>
 
 <details style="margin-left:10%;color:blue">
+
 <summary>Lösung</summary>
 
 Gegeben: $\Delta E = 4,9 \text{ eV}$
