@@ -5525,7 +5525,7 @@ __Lösung:__
 
 > - Energie eines Photons
 >
-> $$ E_{ph} = \frac{h\cdot c}{\lambda} = 3,06 \cdot 10^{-9} \,\mathrm{J} $$
+> $$ E_{ph} = \frac{h\cdot c}{\lambda} = 3,06 \cdot 10^{-19} \,\mathrm{J} $$
 >
 > - Flugzeit durch die Apperatur
 >
@@ -7715,7 +7715,9 @@ Betrachten Sie das periodische Abfallen des Stroms bei Erreichen der Anregungsen
 <summary>Lösung</summary>
 
 **Skizze:**
-Die Kurve zeigt einen grundsätzlich steigenden Verlauf mit periodischen Minima bei $U_1 \approx 4,9 \text{ V}$, $U_2 \approx 9,8 \text{ V}$, $U_3 \approx 14,7 \text{ V}$ . Die theoretische Kurve für rein elastische Stöße wäre eine glatt ansteigende Kurve ohne Minima .
+Die Kurve zeigt einen grundsätzlich steigenden Verlauf mit periodischen Minima bei $U_1 \approx 4,9 \text{ V}$, $U_2 \approx 9,8 \text{ V}$, $U_3 \approx 14,7 \text{ V}$ . Die theoretische Kurve für rein elastische Stöße wäre eine glatt ansteigende Kurve ohne Minima.
+
+![](https://diversewolken.ddns.net/nextcloud/index.php/s/TQatCWceiADmczM/download)
 
 **Begründung:**
 *   **Elastische Stöße:** Aufgrund des hohen Massenunterschieds zwischen Elektron und Hg-Atom verlieren die Elektronen dabei kaum Energie und erreichen trotz Stößen den Auffänger .

@@ -3569,7 +3569,7 @@ __Lösung:__
 
 > - Energie eines Photons
 >
-> $$ E_{ph} = \frac{h\cdot c}{\lambda} = 3,06 \cdot 10^{-9} \,\mathrm{J} $$
+> $$ E_{ph} = \frac{h\cdot c}{\lambda} = 3,06 \cdot 10^{-19} \,\mathrm{J} $$
 >
 > - Flugzeit durch die Apperatur
 >
