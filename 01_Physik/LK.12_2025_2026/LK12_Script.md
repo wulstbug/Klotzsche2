@@ -7513,8 +7513,16 @@ __Nutze Duden S. 488 oder Metzler S. 442__
 >
 > Wiederhole die Begriffe kohärenz und lineare Polarisation.
 
-### Erläuterung des LASER - Prinzips
+<details style='color:blue;margin-left:10%'>
 
+<summary> __Besetzungsinversion:__ </summary>
+
+Mehr Atome befinden sich im angeregten (metastabilen) Zustand als im Grundzustand <br> Es erfolgt eine zufällige spontane Emission eines Photons Dieses Photon sorgt für die induzierte (stimulierte) Emission weiterer Photonen, wenn es auf angeregte Atome im metastabilen Zustand trifft.
+
+</details>
+
+
+### Erläuterung des LASER - Prinzips
 
 Ein Energieniveau des Neons ist metastabil und somit geeignet, um Laserlicht zu erzeugen.
 
@@ -7781,9 +7789,6 @@ $\lambda \approx 2,53 \cdot 10^{-7} \text{ m} = \mathbf{253 \text{ nm}}$
 Die Wellenlänge von $253 \text{ nm}$ liegt im **ultravioletten Bereich** (UV-Licht) .
 
 </details>
-
-
-
 
 ### Notizen
 
