@@ -61,7 +61,7 @@ __Notengebung__
 
 | | | |
 | Art | Termin | Bemerkungen |
-| 1. Sonstige (LK) | 05.02. | Quantenphysik |
+| 1. Sonstige (LK) | 29.01. | Quantenphysik |
 | Klausur | 12.03. | Quantenphysik |
 
 
