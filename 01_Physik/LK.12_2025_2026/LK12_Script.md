@@ -7552,7 +7552,7 @@ Ein Laser (Light Amplification by Stimulated Emission of Radiation) benötigt dr
 
 <p style="margin-left:10%">
 
-![ArgonEnergieen](https://diversewolken.ddns.net/nextcloud/index.php/s/K3WPC7xNNsfXGZZ/download)Angeregte Zustände von Argon-Ionen lassen sich zur Erzeugung von Laserlicht verwenden. Das Laserlicht entsteht beim Übergang der Argon-Ionen vom Zustand **4p** ($36,0 \text{ eV}$) in den Zustand **4s** ($33,5 \text{ eV}$). Um das obere Laserniveau 4p zu erreichen, ist zusätzlich zur Ionisierung (Energieaufwand $16,0 \text{ eV}$) eine Anregung des Ions durch Elektronenstoß erforderlich .
+![ArgonEnergieen](https://diversewolken.ddns.net/nextcloud/index.php/s/K3WPC7xNNsfXGZZ/download)Angeregte Zustände von Argon-Ionen lassen sich zur Erzeugung von Laserlicht verwenden. Das Laserlicht entsteht beim Übergang der Argon-Ionen vom Zustand **4p** in den Zustand **4s**. Um das obere Laserniveau 4p zu erreichen, ist zusätzlich zur Ionisierung eine Anregung des Ions durch Elektronenstoß erforderlich .
 
 </p>
 
@@ -7596,7 +7596,7 @@ $E_{kin} = \frac{1}{2} \cdot 9,11 \cdot 10^{-31} \text{ kg} \cdot (2,9 \cdot 10^
 
 <p style="margin-left:10%">
 
-Berechnen Sie die Wellenlänge $\lambda$ des Laserlichts, das beim Übergang vom 4p-Zustand ($36,0 \text{ eV}$) in den 4s-Zustand ($33,5 \text{ eV}$) emittiert wird .
+Berechnen Sie die Wellenlänge $\lambda$ des Laserlichts, das beim Übergang vom 4p-Zustand in den 4s-Zustand emittiert wird .
 
 @rangeQuiz2($ \lambda $, 497.0, $\mathrm{nm} $)
 
@@ -7628,7 +7628,7 @@ $\lambda = \frac{h \cdot c}{\Delta E} \Rightarrow \lambda = \frac{6,63 \cdot 10^
 
 <p style="margin-left:10%">
 
-Vom unteren Laserniveau 4s fallen die Argon-Ionen in kürzester Zeit in den Grundzustand $Ar^+$ ($16,0 \text{ eV}$) zurück. Berechnen Sie den Wirkungsgrad $\eta$ für den Laserprozess (Verhältnis von Laserenergie zu Anregungsenergie). Die anfängliche Ionisierungsarbeit soll unberücksichtigt bleiben .
+Vom unteren Laserniveau 4s fallen die Argon-Ionen in kürzester Zeit in den Grundzustand $Ar^+$ zurück. Berechnen Sie den Wirkungsgrad $\eta$ für den Laserprozess (Verhältnis von Laserenergie zu Anregungsenergie). Die anfängliche Ionisierungsarbeit soll unberücksichtigt bleiben .
 
 @rangeQuiz2($ \eta $, 12.5, $\mathrm{\%} $)
 
@@ -7684,6 +7684,8 @@ Der Aufbau besteht aus einer evakuierten Röhre mit Quecksilberdampf, einer Glü
 *   **Gitter:** Zwischen Kathode und Gitter liegt die regelbare Beschleunigungsspannung $U$ .
 *   **Auffänger:** Zwischen Gitter und Auffänger liegt eine Gegenspannung $U_{geg} \approx 1 \text{ V}$ .
 *   **Messgeräte:** Voltmeter für $U$ und ein empfindlicher Strommesser (Pikoamperemeter) für den Auffängerstrom $I$ .
+
+![Lsg_Aufbau](https://diversewolken.ddns.net/nextcloud/index.php/s/zQQQZ5bRndr2Y8Y/download)
 
 **Versuchsdurchführung:**
 Die Röhre wird im Ofen aufgeheizt, um den nötigen Dampfdruck zu erzeugen . Die Beschleunigungsspannung $U$ wird kontinuierlich von $0 \text{ V}$ bis ca. $30 \text{ V}$ gesteigert . Nur Elektronen, deren kinetische Energie groß genug ist, um das Gegenfeld zu überwinden ($E_{kin} > 1 \text{ eV}$), erreichen den Auffänger und tragen zum Strom $I$ bei .
