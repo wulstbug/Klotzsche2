@@ -7809,7 +7809,7 @@ Die Wellenlänge von $253 \text{ nm}$ liegt im **ultravioletten Bereich** (UV-Li
 
 <div class="flex-child-1" style="min-width: 300px; margin-bottom: -10px">
 
-{{1}}
+{{1-4}}
 ************
 ![Finger](https://diversewolken.ddns.net/nextcloud/index.php/s/WcK6SkpFGEK3qkD/download)
 ************
@@ -7818,7 +7818,7 @@ Die Wellenlänge von $253 \text{ nm}$ liegt im **ultravioletten Bereich** (UV-Li
 
 <div class="flex-child-1" style="min-width: 300px; margin-bottom: -10px">
 
-{{2}}
+{{2-4}}
 ************
 ![FingerR](https://diversewolken.ddns.net/nextcloud/index.php/s/yc4NH6Pcw5bA4iy/download)
 ************
@@ -7832,7 +7832,7 @@ Die Wellenlänge von $253 \text{ nm}$ liegt im **ultravioletten Bereich** (UV-Li
 
 ----
 
-> Die Entstehung charakteristischer Röntgenstrahlung (kontinuierlicher und diskreter Teil)
+__Die Entstehung von Röntgenstrahlung__
 
 ---
 
@@ -7846,7 +7846,7 @@ Die Wellenlänge von $253 \text{ nm}$ liegt im **ultravioletten Bereich** (UV-Li
 {{5}}
 ***********
 
-![Röntgenröhre](https://www.leifiphysik.de/sites/default/files/2024/05/image/Erzeugung_von%20R%C3%B6ntgen-Strahlung-Schema_R%C3%B6ntgenr%C3%B6hre.svg)
+![Röntgenröhre](https://diversewolken.ddns.net/nextcloud/index.php/s/yacB5mkMdHWHJQb/download)
 
 ***********
 
@@ -7871,14 +7871,57 @@ __Foto:__
 
 {{6}}
 ***********
-__Spektrum:__
+__Wechselwirkung der Elektronen mit der Anode:__
 
+- In der Anode der Röntgenröhre werden die auftreffenden schnellen Elektronen stark abgebremst. Dabei entsteht die @color(Bremsstrahlung, red) -> @color(kontinuierliches Spektrum, red).
 
+- Die Elektronen werden im Anodenmaterial je nach Abstand zu einem Kern unterschiedlich stark beschleunigt, entsprechend enthält das Spektrum der Bremsstrahlung alle Photonenenergien bis zum Höchstwert
 
-- in der Anode der Röntgenröhre werden die auftreffenden schnellen Elektronen stark abgebremst. Dabei entsteht die @color(Bremsstrahlung, red) -> @color(kontinuierliches Spektrum, red).
+- Schlagen die einfallenden Elektronen Hülleelektronen des Anodenmaterials aus ihren Energieniveaus, so werden @color(charakteristische Linien, blue) emittiert @color(diskretes Spektrum, blue) (Mindestbeschleunigungsspannung erforderlich)
 
-- die Elektronen werden im Anodenmaterial je nach Abstand zu einem Kern unterschiedlich stark beschleunigt, entsprechend enthält das Spektrum der Bremsstrahlung alle Photonenenergien bis zum Höchstwert
+[__Entstehung-Charakteristischer-Röntgenstrahlung__](https://www.leifiphysik.de/atomphysik/roentgen-strahlung/grundwissen/charakteristische-strahlung)
 
 ***********
 
+<section class="flex-container">
+
+<div class="flex-child-1" style="min-width: 300px; margin-bottom: -10px">
+
+{{7}}
 ***********
+![Spektrum](https://diversewolken.ddns.net/nextcloud/index.php/s/Pyyy4ZsB9MDes2s/download)
+***********
+
+</div>
+
+<div class="flex-child-1" style="min-width: 300px; margin-bottom: -10px">
+
+{{8}}
+***********
+_Hinweise:_ 
+
+- Bezeichnung der charakteristischen Röntgenlinien: 
+
+  - Großbuchstabe -> Schale auf die das Strahlung emittierende Elektron fällt
+  - Griechische Buchstabe -> Abstand des beteiligten Energieniveaus ($\alpha=1$, $\beta=2$ ...)
+  - $K_\alpha$: Elektron springt von der L-Schale ($\alpha$-> nächster Nachbar) auf die K-Schale
+***********
+
+
+</div>
+
+</section>
+
+***********
+
+### Aufgaben zu Röntgenstrahlung
+
+1. In der folgenden Tabelle sind charakteristische $K_\alpha$-Linien verschiedener Metalle dargestellt. Ermitteln Sie das Anodenmaterial des dargestellten charakteristischen Röntgenspektrums.
+
+![Tablle_KAlpha](https://diversewolken.ddns.net/nextcloud/index.php/s/FWezyfiMqYRsNgb/download)
+
+![RöntgenspektrumSpektrum](https://www.leifiphysik.de/sites/default/files/2021/10/image/Molybd%C3%A4n_Wellenl%C3%A4ngen-min.svg)
+
+[[ Mo ]]
+
+2. [Abitur-BY-2019](https://www.leifiphysik.de/atomphysik/roentgen-strahlung/aufgabe/metallhydrid-speicher-abitur-2019-ph12-2-a2)
