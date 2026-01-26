@@ -7797,3 +7797,88 @@ Die Wellenlänge von $253 \text{ nm}$ liegt im **ultravioletten Bereich** (UV-Li
 ### Notizen
 
      __Besetzungsinversion:__ Mehr Atome befinden sich im angeregten (metastabilen) Zustand als im Grundzustand <br> Es erfolgt eine zufällige spontane Emission eines Photons Dieses Photon sorgt für die induzierte (stimulierte) Emission weiterer Photonen, wenn es auf angeregte Atome im metastabilen Zustand trifft.
+
+## 12. 10. Röntgen-Strahlung
+
+{{3}}
+*************
+> Röntgenstrahlung kann zur nichtinvasiven Diagnose von Knochfrakturen oder Fehlstellungen genutzt werden.
+*************
+
+<section class="flex-container">
+
+<div class="flex-child-1" style="min-width: 300px; margin-bottom: -10px">
+
+{{1}}
+************
+![Finger](https://diversewolken.ddns.net/nextcloud/index.php/s/WcK6SkpFGEK3qkD/download)
+************
+
+</div>
+
+<div class="flex-child-1" style="min-width: 300px; margin-bottom: -10px">
+
+{{2}}
+************
+![FingerR](https://diversewolken.ddns.net/nextcloud/index.php/s/yc4NH6Pcw5bA4iy/download)
+************
+
+</div>
+
+</section>
+
+{{4}}
+***********
+
+----
+
+> Die Entstehung charakteristischer Röntgenstrahlung (kontinuierlicher und diskreter Teil)
+
+---
+
+<section class="flex-container">
+
+<div class="flex-child-1" style="min-width: 300px; margin-bottom: -10px">
+
+
+[__Versuchsaufbau:__](https://www.leifiphysik.de/atomphysik/roentgen-strahlung/grundwissen/erzeugung-von-roentgen-strahlung)
+
+{{5}}
+***********
+
+![Röntgenröhre](https://www.leifiphysik.de/sites/default/files/2024/05/image/Erzeugung_von%20R%C3%B6ntgen-Strahlung-Schema_R%C3%B6ntgenr%C3%B6hre.svg)
+
+***********
+
+</div>
+
+<div class="flex-child-1" style="min-width: 300px; margin-bottom: -10px">
+
+{{5}}
+**********
+
+__Foto:__
+
+![Foto](https://www.leifiphysik.de/sites/default/files/images/0b24932ebb31555c9eb7c5fdc10898c7/992Erzeugung_von_R%C3%96NTGEN-Strahlung_moderne_roehren.webp)
+
+**********
+
+</div>
+
+</section>
+
+> Ein Metallblock (z.B. aus Wolfram) wird mit hochenergetischen Elektronen beschossen.
+
+{{6}}
+***********
+__Spektrum:__
+
+
+
+- in der Anode der Röntgenröhre werden die auftreffenden schnellen Elektronen stark abgebremst. Dabei entsteht die @color(Bremsstrahlung, red) -> @color(kontinuierliches Spektrum, red).
+
+- die Elektronen werden im Anodenmaterial je nach Abstand zu einem Kern unterschiedlich stark beschleunigt, entsprechend enthält das Spektrum der Bremsstrahlung alle Photonenenergien bis zum Höchstwert
+
+***********
+
+***********
