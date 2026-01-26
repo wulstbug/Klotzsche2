@@ -7920,8 +7920,58 @@ _Hinweise:_
 
 ![Tablle_KAlpha](https://diversewolken.ddns.net/nextcloud/index.php/s/FWezyfiMqYRsNgb/download)
 
-![RöntgenspektrumSpektrum](https://www.leifiphysik.de/sites/default/files/2021/10/image/Molybd%C3%A4n_Wellenl%C3%A4ngen-min.svg)
+![RöntgenspektrumSpektrum](https://diversewolken.ddns.net/nextcloud/index.php/s/H3ANfieM5MM4WEE/download)
 
 [[ Mo ]]
 
-2. [Abitur-BY-2019](https://www.leifiphysik.de/atomphysik/roentgen-strahlung/aufgabe/metallhydrid-speicher-abitur-2019-ph12-2-a2)
+---
+
+2. Ermitteln Sie die Beschleunigungsspannung für den roten Graphen.
+
+<p style='margin-left:10%'>
+
+@rangeQuiz2($U$,23e3,$\mathrm{V}$)
+
+</p>
+
+<details style='color:blue;margin-left:10%'>
+
+<summary> Lösungshinweis </summary>
+
+Um Photonen der unteren Grenze des Wellenlängenspektrums zu erzeugen, müssen die Elektronen ihre gesamte kinetische Energie abgeben.
+
+</details>
+
+---
+
+3. Ermitteln Sie den Abstand der Energieniveaus M und L für das verwendete Kathodenmaterial.
+
+<p style='margin-left:10%'>
+
+@rangeQuiz2($\Delta E_{M-L}$,2465,$\mathrm{eV}$)
+
+</p>
+
+<details style='color:blue;margin-left:10%'>
+
+<summary> Lösungshinweis </summary>
+
+Überprüfen Sie die zu den gegebenen charakteristischen Röntgenlinien gehörenden Energieniveaus.
+
+Überlegen Sie, wie Sie daraus die Energiedifferenz $\Delta E_{M-L}$ ermitteln können.
+
+</details>
+
+<details style='color:blue;margin-left:10%'>
+
+<summary> Lösungshinweis 2 </summary>
+
+Die $K_\alpha$-Linie resultiert aus dem Übergang L->K. Die $K_\beta$-Linie aus M->K. 
+
+Die gesuchte Energiedifferenz entspricht der Differenz der beiden Photonenenergien.
+
+</details>
+
+---
+
+4. [Abitur-BY-2019](https://www.leifiphysik.de/atomphysik/roentgen-strahlung/aufgabe/metallhydrid-speicher-abitur-2019-ph12-2-a2)
