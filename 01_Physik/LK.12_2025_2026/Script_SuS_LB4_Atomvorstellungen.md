@@ -1643,3 +1643,89 @@ $\lambda \approx 2,53 \cdot 10^{-7} \text{ m} = \mathbf{253 \text{ nm}}$
 Die Wellenlänge von $253 \text{ nm}$ liegt im **ultravioletten Bereich** (UV-Licht) .
 
 </details>
+
+
+## 12. 10. Röntgen-Strahlung
+
+> Röntgenstrahlung kann zur nichtinvasiven Diagnose von Knochfrakturen oder Fehlstellungen genutzt werden.
+
+----
+
+__Die Entstehung von Röntgenstrahlung__
+
+---
+
+<section class="flex-container">
+
+<div class="flex-child-1" style="min-width: 300px; margin-bottom: -10px">
+
+
+[__Versuchsaufbau:__](https://www.leifiphysik.de/atomphysik/roentgen-strahlung/grundwissen/erzeugung-von-roentgen-strahlung)
+
+
+![Röntgenröhre](https://diversewolken.ddns.net/nextcloud/index.php/s/yacB5mkMdHWHJQb/download)
+
+
+</div>
+
+<div class="flex-child-1" style="min-width: 300px; margin-bottom: -10px">
+
+__Foto:__
+
+![Foto](https://www.leifiphysik.de/sites/default/files/images/0b24932ebb31555c9eb7c5fdc10898c7/992Erzeugung_von_R%C3%96NTGEN-Strahlung_moderne_roehren.webp)
+
+
+</div>
+
+</section>
+
+> Ein Metallblock (z.B. aus Wolfram) wird mit hochenergetischen Elektronen beschossen.
+
+__Wechselwirkung der Elektronen mit der Anode:__
+
+- In der Anode der Röntgenröhre werden die auftreffenden schnellen Elektronen stark abgebremst. Dabei entsteht die @color(Bremsstrahlung, red) -> @color(kontinuierliches Spektrum, red).
+
+- Die Elektronen werden im Anodenmaterial je nach Abstand zu einem Kern unterschiedlich stark beschleunigt, entsprechend enthält das Spektrum der Bremsstrahlung alle Photonenenergien bis zum Höchstwert
+
+- Schlagen die einfallenden Elektronen Hülleelektronen des Anodenmaterials aus ihren Energieniveaus, so werden @color(charakteristische Linien, blue) emittiert @color(diskretes Spektrum, blue) (Mindestbeschleunigungsspannung erforderlich)
+
+[__Entstehung-Charakteristischer-Röntgenstrahlung__](https://www.leifiphysik.de/atomphysik/roentgen-strahlung/grundwissen/charakteristische-strahlung)
+
+<section class="flex-container">
+
+<div class="flex-child-1" style="min-width: 300px; margin-bottom: -10px">
+
+
+![Spektrum](https://diversewolken.ddns.net/nextcloud/index.php/s/Pyyy4ZsB9MDes2s/download)
+
+
+</div>
+
+<div class="flex-child-1" style="min-width: 300px; margin-bottom: -10px">
+
+
+_Hinweise:_ 
+
+- Bezeichnung der charakteristischen Röntgenlinien: 
+
+  - Großbuchstabe -> Schale auf die das Strahlung emittierende Elektron fällt
+  - Griechische Buchstabe -> Abstand des beteiligten Energieniveaus ($\alpha=1$, $\beta=2$ ...)
+  - $K_\alpha$: Elektron springt von der L-Schale ($\alpha$-> nächster Nachbar) auf die K-Schale
+
+
+
+</div>
+
+</section>
+
+### Aufgaben zu Röntgenstrahlung
+
+1. In der folgenden Tabelle sind charakteristische $K_\alpha$-Linien verschiedener Metalle dargestellt. Ermitteln Sie das Anodenmaterial des dargestellten charakteristischen Röntgenspektrums.
+
+![Tablle_KAlpha](https://diversewolken.ddns.net/nextcloud/index.php/s/FWezyfiMqYRsNgb/download)
+
+![RöntgenspektrumSpektrum](https://www.leifiphysik.de/sites/default/files/2021/10/image/Molybd%C3%A4n_Wellenl%C3%A4ngen-min.svg)
+
+[[ Mo ]]
+
+2. [Abitur-BY-2019](https://www.leifiphysik.de/atomphysik/roentgen-strahlung/aufgabe/metallhydrid-speicher-abitur-2019-ph12-2-a2)
