@@ -1783,3 +1783,162 @@ Die gesuchte Energiedifferenz entspricht der Differenz der beiden Photonenenergi
 ---
 
 4. [Abitur-BY-2019](https://www.leifiphysik.de/atomphysik/roentgen-strahlung/aufgabe/metallhydrid-speicher-abitur-2019-ph12-2-a2)
+
+
+### Aufgaben zu Röntgenstrahlung
+
+1. In der folgenden Tabelle sind charakteristische $K_\alpha$-Linien verschiedener Metalle dargestellt. Ermitteln Sie das Anodenmaterial des dargestellten charakteristischen Röntgenspektrums.
+
+<p style='margin-left:10%;margin-right:10%'>
+
+![Tablle_KAlpha](https://diversewolken.ddns.net/nextcloud/index.php/s/FWezyfiMqYRsNgb/download)
+
+![RöntgenspektrumSpektrum](https://diversewolken.ddns.net/nextcloud/index.php/s/H3ANfieM5MM4WEE/download)
+
+[[ Mo ]]
+
+</p>
+
+<details style='color:blue;margin-left:10%'>
+
+<summary> Lösungshinweis </summary>
+
+Ermitteln Sie die Wellenlänge der $K_\alpha$-Linie. Vergleichen Sie diese Wellenlänge mit den Angaben in oberer Tabelle und schließen Sie auf das Anodenmaterial.
+
+</details>
+
+---
+
+2. Ermitteln Sie die Beschleunigungsspannung für den roten Graphen.
+
+<p style='margin-left:10%'>
+
+@rangeQuiz2($U$,23e3,$\mathrm{V}$)
+
+</p>
+
+<details style='color:blue;margin-left:10%'>
+
+<summary> Lösungshinweis </summary>
+
+Um Photonen der unteren Grenze des Wellenlängenspektrums zu erzeugen, müssen die Elektronen ihre gesamte kinetische Energie abgeben.
+
+</details>
+
+---
+
+3. Ermitteln Sie den Abstand der Energieniveaus M und L für das verwendete Kathodenmaterial.
+
+<p style='margin-left:10%'>
+
+@rangeQuiz2($\Delta E_{M-L}$,2465,$\mathrm{eV}$)
+
+</p>
+
+<details style='color:blue;margin-left:10%'>
+
+<summary> Lösungshinweis </summary>
+
+Überprüfen Sie die zu den gegebenen charakteristischen Röntgenlinien gehörenden Energieniveaus.
+
+Überlegen Sie, wie Sie daraus die Energiedifferenz $\Delta E_{M-L}$ ermitteln können.
+
+</details>
+
+<details style='color:blue;margin-left:10%'>
+
+<summary> Lösungshinweis 2 </summary>
+
+Die $K_\alpha$-Linie resultiert aus dem Übergang L->K. Die $K_\beta$-Linie aus M->K. 
+
+Die gesuchte Energiedifferenz entspricht der Differenz der beiden Photonenenergien.
+
+</details>
+
+---
+
+4. Aufgabe: Physikalische Grundlagen der Röntgenstrahlung
+
+     > In einer Röntgenröhre werden Elektronen aus einer Glühkathode emittiert und durch eine hohe Spannung $U$ in Richtung einer Anode beschleunigt. Beim Aufprall auf das Anodenmaterial entsteht Röntgenstrahlung, deren Spektrum aus einem kontinuierlichen Teil (Bremsstrahlung) und charakteristischen Linien besteht.
+
+---
+
+4. 1. Kurzwellige Grenzwellenlänge
+
+     In einer spezifischen Versuchsanordnung werden die Elektronen mit einer Spannung von $U = 48 \text{ kV}$ beschleunigt. Ein Elektron überträgt beim Aufprall seine gesamte kinetische Energie auf ein einzelnes Photon.
+
+     Berechnen Sie die minimale Wellenlänge $\lambda_{\min}$ (kurzwellige Grenze) der emittierten Bremsstrahlung.
+
+<p style='margin-left:10%'>
+
+@rangeQuiz2( $\lambda_{\min}$ , 25.8e-12, $\mathrm{m}$ )
+
+</p>
+
+<details style="margin-left:10%;color:blue">
+
+<summary>Lösungshinweis</summary>
+
+1. **Energiebilanz aufstellen:** Die kinetische Energie des Elektrons $E_{kin} = e \cdot U$ entspricht der maximalen Energie des Photons $E_{Ph} = h \cdot f_{\max} = h \cdot \frac{c}{\lambda_{\min}}$ [8], [5].
+2. **Formel umstellen:** $\lambda_{\min} = \frac{h \cdot c}{e \cdot U}$.
+3. **Konstanten nutzen:** Verwenden Sie $h \approx 6,626 \cdot 10^{-34} \text{ Js}$, $c \approx 2,998 \cdot 10^8 \text{ m/s}$ und $e \approx 1,602 \cdot 10^{-19} \text{ C}$.
+
+</details>
+
+<details style="margin-left:10%;color:blue">
+
+<summary>Lösung</summary>
+
+$\lambda_{\min} = \frac{6,626 \cdot 10^{-34} \text{ Js} \cdot 2,998 \cdot 10^8 \text{ m/s}}{1,602 \cdot 10^{-19} \text{ C} \cdot 48000 \text{ V}}$
+
+$\lambda_{\min} \approx 2,58 \cdot 10^{-11} \text{ m} = \mathbf{25,8 \text{ pm}}$
+
+Die kurzwellige Grenze liegt bei ca. $25,8 \text{ Pikometern}$.
+
+</details>
+
+---
+
+4. 2. Entstehung der Strahlung
+
+     Erläutern Sie den physikalischen Prozess, der zur Entstehung des kontinuierlichen Röntgenspektrums führt.
+
+<details style="margin-left:10%;color:blue">
+
+<summary>Lösungshinweis</summary>
+
+Betrachten Sie die Wechselwirkung der beschleunigten Elektronen mit den Atomkernen des Anodenmaterials. Denken Sie an den Begriff der "Abbremsung" geladener Teilchen.
+
+</details>
+
+<details style="margin-left:10%;color:blue">
+
+<summary>Lösung</summary>
+
+Das kontinuierliche Spektrum entsteht durch die **Abbremsung** der Elektronen im elektrischen Feld der Atomkerne der Anode. Dabei wird kinetische Energie in Strahlungsenergie (Photonen) umgewandelt. Da die Elektronen in unterschiedlichen Abständen an den Kernen vorbeifliegen, geben sie unterschiedlich große Energiebeträge ab, was zu einer kontinuierlichen Verteilung der Wellenlängen führt. Die Grenze $\lambda_{\min}$ wird erreicht, wenn ein Elektron seine gesamte Energie in einem einzigen Stoßprozess abgibt.
+
+</details>
+
+---
+
+### IQB - Aufgabe Potentialtopf
+
+<iframe src="https://diversewolken.ddns.net/nextcloud/index.php/s/9MGqQZjBXk6HDY2/download"
+        width="100%" 
+        height="600px">
+</iframe>
+
+<details style='color:blue'>
+
+<summary> Erwartungsbild </summary>
+
+<iframe src="https://diversewolken.ddns.net/nextcloud/index.php/s/nbAFWZNwTCjNN3w/download"
+        width="100%" 
+        height="600px">
+</iframe>
+
+</details>
+
+### Abituraufgabe zu Röntgenstrahlung
+
+5. [Abitur-BY-2019](https://www.leifiphysik.de/atomphysik/roentgen-strahlung/aufgabe/metallhydrid-speicher-abitur-2019-ph12-2-a2)

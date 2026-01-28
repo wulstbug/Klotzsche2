@@ -8051,3 +8051,21 @@ Das kontinuierliche Spektrum entsteht durch die **Abbremsung** der Elektronen im
 ---
 
 5. [Abitur-BY-2019](https://www.leifiphysik.de/atomphysik/roentgen-strahlung/aufgabe/metallhydrid-speicher-abitur-2019-ph12-2-a2)
+
+### IQB - Aufgabe Potentialtopf
+
+<iframe src="https://diversewolken.ddns.net/nextcloud/index.php/s/9MGqQZjBXk6HDY2/download"
+        width="100%" 
+        height="600px">
+</iframe>
+
+<details style='color:blue'>
+
+<summary> Erwartungsbild </summary>
+
+<iframe src="https://diversewolken.ddns.net/nextcloud/index.php/s/nbAFWZNwTCjNN3w/download"
+        width="100%" 
+        height="600px">
+</iframe>
+
+</details>
