@@ -8054,7 +8054,7 @@ Das kontinuierliche Spektrum entsteht durch die **Abbremsung** der Elektronen im
 
 ### IQB - Aufgabe Potentialtopf
 
-<iframe src="https://diversewolken.ddns.net/nextcloud/index.php/s/9MGqQZjBXk6HDY2/download"
+<iframe src="https://diversewolken.ddns.net/pdfjs/web/viewer.html?file=https://diversewolken.ddns.net/nextcloud/index.php/s/9MGqQZjBXk6HDY2/download"
         width="100%" 
         height="600px">
 </iframe>
@@ -8063,7 +8063,7 @@ Das kontinuierliche Spektrum entsteht durch die **Abbremsung** der Elektronen im
 
 <summary> Erwartungsbild </summary>
 
-<iframe src="https://diversewolken.ddns.net/nextcloud/index.php/s/nbAFWZNwTCjNN3w/download"
+<iframe src="https://diversewolken.ddns.net/pdfjs/web/viewer.html?file=https://diversewolken.ddns.net/nextcloud/index.php/s/nbAFWZNwTCjNN3w/download"
         width="100%" 
         height="600px">
 </iframe>
