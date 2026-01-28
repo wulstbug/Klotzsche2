@@ -7419,7 +7419,7 @@ Ein Stoff emittiert nach Anregung durch Licht zeitlich @color(**zeitlich verzög
 
 - Das Elektron fällt innerhalb von etwa **10⁻⁹ bis 10⁻⁸ Sekunden** in den Grundzustand zurück.
 
-- das angeregte Photon emittiert ein Elektron
+- Das angeregte Elektron emittiert ein Photon
 
 _Hinweis: Ein Teil der emittierten Energie wird als Wärme abgegen. Daher besitzt das emittierte Licht eine geringere Energie als das anregende Licht._
 
