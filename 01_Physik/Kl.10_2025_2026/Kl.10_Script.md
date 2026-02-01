@@ -3072,3 +3072,9 @@ __Diagramm:__
 > Beschreiben Sie mit Hilfe Ihrer Materialien Grenzen der Wahrnehmung von Schall, sowohl bezüglich der Frequenz als auch der Lautstärke. >
 >
 > Vergleichen Sie dazu den Verlauf der Graphen in den Abbildungen 1 und 3. Schätzen Sie ein, inwiefern die Bestimmung der Leistung P des Lautsprechers (Abb. 1) ein gutes Maß für den Schalldruckpegel (Abb. 3) in dB darstellt.
+
+## Gehörlosikeit / Taubheit
+
+[7Tage unter ..](https://www.ardmediathek.de/video/7-tage/7-tage-taub/ndr/Y3JpZDovL25kci5kZS8xNDY5XzIwMjAtMTItMDItMjMtNTA)
+
+[Closeup_PloetzlicheWarIchTaub](https://www.ardmediathek.de/video/close-up/ploetzlich-war-ich-taub/hr/NjRlODBkOWUtMjQ4NC00MzBkLWI5NjEtYjVjZDUwNTMyNmYx)
