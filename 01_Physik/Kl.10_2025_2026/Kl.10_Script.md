@@ -3073,6 +3073,18 @@ __Diagramm:__
 >
 > Vergleichen Sie dazu den Verlauf der Graphen in den Abbildungen 1 und 3. Schätzen Sie ein, inwiefern die Bestimmung der Leistung P des Lautsprechers (Abb. 1) ein gutes Maß für den Schalldruckpegel (Abb. 3) in dB darstellt.
 
+### Auswertung Klassenarbeit
+
+<details style='color:blue;margin-left:10%'>
+
+<summary> Auswertung KA 10a </summary>
+
+![Auswertung](https://diversewolken.ddns.net/nextcloud/index.php/s/QnfSSJmwmqtGpt9/download)
+
+</details>
+
+
+
 ## Gehörlosikeit / Taubheit
 
 [7Tage unter ..](https://www.ardmediathek.de/video/7-tage/7-tage-taub/ndr/Y3JpZDovL25kci5kZS8xNDY5XzIwMjAtMTItMDItMjMtNTA)
