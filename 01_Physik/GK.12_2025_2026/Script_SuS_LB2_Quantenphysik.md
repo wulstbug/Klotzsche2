@@ -1141,3 +1141,6 @@ Die Formel lautet $\sin\alpha_k=\frac{k \cdot \lambda}{b}$. Es gilt k=1.
 
 </details>
 
+### Aufgaben SchulLV Abitur 2021-2023
+
+[AufgabenUndLösungen](https://diversewolken.ddns.net/nextcloud/index.php/s/NpYHBJLZrqPS42b)
