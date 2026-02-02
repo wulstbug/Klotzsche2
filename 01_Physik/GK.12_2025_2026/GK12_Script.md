@@ -3947,3 +3947,8 @@ Die Formel lautet $\sin\alpha_k=\frac{k \cdot \lambda}{b}$. Es gilt k=1.
 ### Aufgaben SchulLV Abitur 2021-2023
 
 [AufgabenUndLösungen](https://diversewolken.ddns.net/nextcloud/index.php/s/NpYHBJLZrqPS42b)
+
+### Materialgestützte Aufgabe (IQB)
+
+[IQB-Aufgabe-Quantenobjekte](https://www.iqb.hu-berlin.de/media/exercise_files/Beispielaufgaben_-_Physik/TeilcheninterferenzgA_Aufgabe.pdf)
+
