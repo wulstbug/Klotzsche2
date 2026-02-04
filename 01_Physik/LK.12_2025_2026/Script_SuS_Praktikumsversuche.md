@@ -21,7 +21,7 @@ logo: https://www.kepler-chemnitz.de/wp-content/uploads/2020/04/csm_Physik02_266
 icon:   https://diversewolken.ddns.net/klotzsche/logo.jpg
 -->
 
-
+![Physik-Praktikum](https://www.phylez.uni-bayreuth.de/pool/bilder/fotowettbewerb107_1100x440-banner.jpg)
 
 ## Federschwinger und Cassy
 
