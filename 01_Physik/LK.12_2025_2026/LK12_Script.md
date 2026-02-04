@@ -8069,3 +8069,32 @@ Das kontinuierliche Spektrum entsteht durch die **Abbremsung** der Elektronen im
 </iframe>
 
 </details>
+
+
+### Entwicklung Leistungen 12Ph2
+
+{{1-2}}
+*********
+<!--
+     data-show
+     data-title=""
+     data-type="line"
+     data-xlabel="Bewertung"
+     data-ylabel="Durchschnitt"
+-->
+| Test | Durchschnittsnote | Trend |
+| ---- | ---- | ---- |
+| 11/LK1 | 7.9 | 8.05 |
+| 11/KA1 | 6.3 | 8.23 |
+| 11/EX1 | 11.9| 8.41 |
+| 11/KA2 | 7.7 | 8.59 |
+| 11/LK2 | 8.8 | 8.77 |
+| 11/KA3 | 8.7 | 8.95 |
+| 11/KA4 | 9.1 | 9.13 | 
+| 11/EX2 | 10.5 | 9.31 |
+| 12/LK1  | 8.9 | 9.49 |
+| 12/KA1  | 9.5 | 9.67 |
+| 12/EX3  | 9.6 | 9.85 |
+| 12/KA2  | 10.1 | 10.03 |
+| 12/LK2  | 8.43 | 10.21 |
+*********
