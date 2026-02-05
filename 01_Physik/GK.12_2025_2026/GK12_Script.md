@@ -3943,3 +3943,142 @@ Die Formel lautet $\sin\alpha_k=\frac{k \cdot \lambda}{b}$. Es gilt k=1.
 
 </details>
 
+
+### Aufgaben SchulLV Abitur 2021-2023
+
+[AufgabenUndLösungen](https://diversewolken.ddns.net/nextcloud/index.php/s/NpYHBJLZrqPS42b)
+
+### Materialgestützte Aufgabe (IQB)
+
+[IQB-Aufgabe-Quantenobjekte](https://www.iqb.hu-berlin.de/media/exercise_files/Beispielaufgaben_-_Physik/TeilcheninterferenzgA_Aufgabe.pdf)
+
+
+# LB 8 - Atomvorstellungen
+
+![Atomvorstellungen](https://www.leifiphysik.de/sites/default/files/images/c199eb074d2c47f51b2e099b66b655ca/0entwicklung-der-atomvorstellung-aristoteles.webp)
+
+## 8. 1. Die Geschichte der Atommodelle
+
+
+{{0-1}}
+************
+| Atom-Modell | Beschreibungen |
+| :---- | :---------- |
+| Dalton'sches Atommodell |  |
+| Thomson'sches Atommodell | |
+| Rutherford'sches Atommodell |  |
+| Bohr'sches Atommodell |  |
+************
+
+{{1-2}}
+************
+!?[EinfühungAtomvorstellungen](https://diversewolken.ddns.net/nextcloud/index.php/s/zXFSJYE9tddoNTf/download)
+************
+
+{{2}}
+************
+| Atom-Modell | Beschreibungen |
+| :----------- | :---------- |
+| Dalton'sches Atommodell | Atome sind unveränderbare Kugeln. Chemische Bindungen sind Neuanordnungen der Kugeln |
+| Thomson'sches Atommodell <br> Rosinenmodell | Negativ geladene Elektronen sind von positiv geladener Materie umgeben |
+| Rutherford'sches Atommodell | _Miniatur-Sonnensystem_ ; beinahe die gesamte Masse ist im Kern konzentriert <br> die Elektronen bewegen sich auf Kreisbahnen um den Kern |
+| Bohr'sches Atommodell | fest gelegte Bahnen für die Elektronen (nur diese sind erlaubt) <br> jeder Bahn ist ein Energieniveau zugeordnet <br> bei Energiezufuhr kann ein Elektron auf einer weiter außen liegende Bahn springen <br> gibt das Elektron die Energie wieder ab, so wird diese als Strahlung emittiert <br> nur die äußeren Elektronen der nicht vollständig besetzten Bahnen tragen zur chemischen Bindung bei|
+************
+
+## 8. 2. Das Bohr'sche Atommodell
+
+![TB_1](https://diversewolken.ddns.net/nextcloud/index.php/s/apsmjmxb3B2abe7/download)
+
+---
+
+![TB_2](https://diversewolken.ddns.net/nextcloud/index.php/s/apsmjmxb3B2abe7/download)
+
+### Aufgaben zu den Atmomodellen (Multiple-Choice)
+
+❓ Frage 1: Grundannahme des bohr’schen Atommodells
+
+Welche zentrale Annahme macht das bohr’sche Atommodell über die Elektronenbewegung?
+
+- [[ ]] Elektronen bewegen sich frei im Atomkern
+- [[X]] Elektronen bewegen sich auf festen, quantisierten Kreisbahnen
+- [[ ]] Elektronen verlieren kontinuierlich Energie beim Umlauf
+- [[ ]] Elektronen befinden sich in einer Elektronenwolke ohne feste Bahnen
+- [[ ]] Elektronen können jede beliebige Bahnenergie annehmen
+
+---
+
+❓ Frage 2: Energieniveaus im bohr’schen Atommodell
+
+Warum geben Atome nach dem bohr’schen Modell nur bestimmte Spektrallinien ab?
+
+- [[ ]] Weil Elektronen ihre Masse verändern
+- [[ ]] Weil Protonen Energie abstrahlen
+- [[X]] Weil Elektronen nur zwischen diskreten Energieniveaus wechseln können
+- [[ ]] Weil die Umlaufgeschwindigkeit der Elektronen konstant ist
+- [[ ]] Weil der Atomkern instabil ist
+
+---
+
+❓ Frage 3: Gültigkeitsbereich des bohr’schen Atommodells
+
+Für welche Atome liefert das bohr’sche Atommodell gute Ergebnisse?
+
+- [[X]] Für wasserstoffähnliche Atome mit nur einem Elektron
+- [[ ]] Für alle Atome unabhängig von ihrer Größe
+- [[ ]] Nur für schwere Atome wie Uran
+- [[ ]] Ausschließlich für Moleküle
+- [[ ]] Für Festkörper und Metalle
+
+❓ Frage 4: Energieabgabe im bohr’schen Atommodell
+
+Wann wird nach dem bohr’schen Atommodell Strahlung emittiert?
+
+- [[ ]] Wenn sich ein Elektron auf einer stabilen Bahn bewegt
+- [[ ]] Wenn ein Elektron den Atomkern berührt
+- [[X]] Wenn ein Elektron von einem höheren auf ein niedrigeres Energieniveau wechselt
+- [[ ]] Wenn ein Elektron seine Umlaufgeschwindigkeit erhöht
+- [[ ]] Wenn sich zwei Elektronen abstoßen
+
+❓ Frage 5: Kritik am bohr’schen Atommodell
+
+Welche der folgenden Aussagen beschreibt eine bekannte Schwäche des bohr’schen Atommodells?
+
+- [[ ]] Es erklärt das Wasserstoffspektrum korrekt
+- [[ ]] Es führt quantisierte Energieniveaus ein
+- [[X]] Es kann die Spektren von Mehrelektronenatomen nicht korrekt erklären
+- [[ ]] Es berücksichtigt den Atomkern
+- [[ ]] Es erklärt die Stabilität von Elektronenbahnen
+
+### Aufgaben zum Wasserstoffatom (Berechnungen)
+
+1. Zeichnen Sie ein Energieniveau-Schema des Wasserstoffatoms mit dem Grundzustand und den ersten 5 angeregten Zuständen. Notieren Sie an jedem Niveau die Bindungsenergie. Kennzeichnen Sie den Übergang n=3 -> n=2.
+
+---
+
+2. Die Emissionen, die im sichtbaren Bereich liegen sind beim Wasserstoff Übergänge auf die zweite Schale. Ermitteln Sie die Energie und die Wellenlänge der Übergänge von n=3 -> n=2. Notieren Sie die Farbe des emittierten Lichts.
+
+<p style='margin-left:10%'>
+
+@rangeQuiz2($E_{3->2}$,1.89,$\mathrm{eV}$)
+
+@rangeQuiz2($\lambda_{3->2}$,655e-9,$\mathrm{m}$)
+
+<!-- data-solution-button="off" -->
+[[ infrarot | rot | gelb | grün | blau | violett | ultraviolett ]]
+
+</p>
+
+---
+
+3. Geben Sie für ein Wasserstoffatom die Ionisierungsenergie an. <br> _Hinweis: Die Ionisierungsenergie ist die Energie, die aufgewendet werden muss, damit das Elektron des Wasserstoffs nicht mehr gebunden ist._
+
+<p style='margin-left:10%'>
+
+@rangeQuiz2($E_{ion}$,13.6,$\mathrm{eV}$)
+
+</p>
+
+
+## 8. 3. Das Wasserstoffatom
+
+![TB_1](https://diversewolken.ddns.net/nextcloud/index.php/s/7DwNPsGoEy62fNL/download)
