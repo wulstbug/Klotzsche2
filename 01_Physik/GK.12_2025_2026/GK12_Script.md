@@ -4078,3 +4078,7 @@ Welche der folgenden Aussagen beschreibt eine bekannte Schwäche des bohr’sche
 
 </p>
 
+
+## 8. 3. Das Wasserstoffatom
+
+![TB_1](https://diversewolken.ddns.net/nextcloud/index.php/s/7DwNPsGoEy62fNL/download)
