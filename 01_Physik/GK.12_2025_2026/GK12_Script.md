@@ -4082,3 +4082,63 @@ Welche der folgenden Aussagen beschreibt eine bekannte Schwäche des bohr’sche
 ## 8. 3. Das Wasserstoffatom
 
 ![TB_1](https://diversewolken.ddns.net/nextcloud/index.php/s/7DwNPsGoEy62fNL/download)
+
+{{1}}
+************
+__Zusammenfassung bis hierher:__
+************
+
+{{2}}
+************
+> - an einen Atomkern gebundene Elektronen können nur bestimmte (d.h. diskrete) Energieniveaus besetzen -> @color(Orbitale im quantenmechanischen Atommodell, red)
+************
+
+{{3}}
+************
+> - wechselt ein Elektron ein Energiniveau, so ist das mit einem __quantenhaften__ Energieaustausch mit der Umgebung verbunden -> @color(Emission und Absorption von Photonen, red)
+************
+
+## 8. 4. Orbitale des quantenmechanischen Atommodells
+
+{{1}}
+**********
+__Aufenthaltswahrscheinlichkeit statt feste Kreisbahn:__
+
+> Das quantenmechanische Atommodell beschreibt den Aufenthaltsort der Elektronen nicht als Kreisbahn (wie im bohrschen Atommodell), sondern als eine @color(Wahrscheinlichkeitsverteilung, red) im Raum um den Atomkern. -> [Video 1](https://youtu.be/behQ3O97DXw?t=446)
+**********
+
+{{2}}
+**********
+__Bemerkungen:__
+
+- bei einer Messung ist der Ort des Elektrons __nicht vorhersagbar (nicht determiniert)__
+
+- die Bohrsche Kreisbahn ist bei einem Wasserstoffatom der __wahrscheinlichste Abstand vom Kern__
+**********
+
+
+{{3}}
+**********
+> Die räumliche Wahrscheinlichkeitsverteilung nennt man @color(Orbital, red). Je nach Quantenzahl haben diese Orbitale unterschiedliche Formen. <br> [Simulation](https://www.leifiphysik.de/atomphysik/quantenmech-atommodell/versuche/wellenfunktionen-orbitale-des-wasserstoffatoms-simulation-von-paul-falstadt) & [Video 2](https://www.youtube.com/watch?v=2e31oqxlkJg)
+**********
+
+{{4}}
+**********
+__Bemerkungen:__
+
+- das einfachste Orbital (K-Schale) ist kugelförmig
+
+- je größer die Quantenzahl n (K->L->M), desto weiter weg ist der wahrscheinlichste Aufenthaltsort des Elektrons
+
+- [Orbitale](https://commons.wikimedia.org/wiki/Hydrogen_orbitals_3D_real) können z.B. kugelförmig, hantelförmig oder dounutförmig sein
+**********
+
+{{5}}
+**********
+<p style="margin-left:10%">
+![Ausschnitt-Atomorbitale](https://diversewolken.ddns.net/nextcloud/s/2fDBpE4c7sQx6Et/download "n-Hauptquantenzahl, m-Nebenquantenzahl ")
+</p>
+**********
+
+
+## 8. 5. Quantenhafte Absorption und Emission von Energie
