@@ -8105,8 +8105,11 @@ Das kontinuierliche Spektrum entsteht durch die **Abbremsung** der Elektronen im
 
 ![Thermodynamik](https://diversewolken.ddns.net/nextcloud/s/SfR8K6Tn6mDEFkf/download)
 
+
 {{1}}
 *******************
+---
+
 <section class="flex-container">
 
 <div class="flex-child-2" style="min-width: 400px; margin-bottom: -10px">
