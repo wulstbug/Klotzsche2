@@ -4173,7 +4173,7 @@ Elektron wird auf eine höhere Bahn gehoben. Es muss Energie hinzugefügt werden
 
 ---
 
-![Asborption](http://www.maphi.de/physik/grafiken/laser_absorption.gif)
+![Absorption](https://diversewolken.ddns.net/nextcloud/s/BQ2Z5Apxa9TyqR4/download)
 
 </div>
 
@@ -4185,7 +4185,7 @@ Elektron springt auf eine niedrigere Bahn. Es wird Energie in Form eines Photons
 
 ---
 
-![Emission](http://www.maphi.de/physik/grafiken/laser_emission.gif)
+![Emission](https://diversewolken.ddns.net/nextcloud/s/wRYRWkGLbYcMqqA/download)
 
 </div>
 
