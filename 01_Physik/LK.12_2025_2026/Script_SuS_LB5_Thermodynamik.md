@@ -377,3 +377,85 @@ $$ \Big[ 1\,\mathrm{ℓ} = 10^{-3}\,\mathrm{m}^3\Big]$$
 </div>
 
 </section>
+
+
+#### Abituraufgabe Gasberechnungen am Stickstoff
+
+In einem Labor wird Stickstoff bei der konstanten Temperatur $20,0 \, ^\circ\text{C}$ in eine $100$-Liter-Stahlflasche gedrückt. Dabei wächst der Druck von $100 \, \text{kPa}$ auf $22,1 \, \text{MPa}$.
+
+1. Benennen Sie die Art der Zustandsänderung bei der Befüllung.
+
+<p style='margin-left:10%'>
+
+[[ isotherm ]]
+
+</p>
+
+---
+
+__Maximal zulässige Temperatur__
+
+Die Flasche ist bis zu einem Maximaldruck von $p_{max} = 28,0 \, \text{MPa}$ zugelassen. Für die Lagerung kann sich die Temperatur um die Flasche herum langsam ändern. 
+
+---
+
+2. 1. Benennen Sie die Art der Zustandsänderung bei der Lagerung.
+
+<p style='margin-left:10%'>
+
+[[ isochor ]]
+
+</p>
+
+---
+
+2. 2. Berechnen Sie die maximal zulässige Temperatur $\vartheta_{max}$ in der Einheit $^\circ\mathrm{C}$, bei der die gefüllte Flasche gelagert werden darf.
+
+<p style='margin-left:10%'>
+
+@rangeQuiz2( $\vartheta_{max}$ , 98.26, $\mathrm{^\circ C}$ )
+
+</p>
+
+
+<details style="margin-left:10%;color:blue">
+
+<summary>Lösungsweg</summary>
+
+Da das Volumen der Stahlflasche konstant bleibt ($V = const.$), handelt es sich um eine **isochore Zustandsänderung**. Es gilt:
+$\frac{p_1}{T_1} = \frac{p_2}{T_2} \Rightarrow T_2 = \frac{p_2 \cdot T_1}{p_1}$.
+
+1. Umrechnung der Ausgangstemperatur $T_1$ in Kelvin.
+
+<p style='margin-left:10%'>
+
+@rangeQuiz2($T_1$,293.15,$\mathrm{K}$)
+
+</p>
+
+2. Einsetzen der Drücke $p_1 = 22,1 \, \text{MPa}$ und $p_2 = 28,0 \, \text{MPa}$.
+
+<p style='margin-left:10%'>
+
+@rangeQuiz2($T_2$,371.41,$\mathrm{K}$)
+
+</p>
+
+3. Rückrechnung der Ergebnistemperatur $T_2$ in Grad Celsius: 
+
+</details>
+
+<details style="margin-left:10%;color:blue">
+
+<summary>Lösung</summary>
+
+$T_2 = \frac{28,0 \, \text{MPa} \cdot 293 \, \text{K}}{22,1 \, \text{MPa}} \approx 371 \, \text{K}$.
+
+$\vartheta_{max} = 371 \, \text{K} - 273 = \mathbf{98 \, ^\circ C}$.
+
+Die Flasche darf bis zu einer Temperatur von $98 \, ^\circ\text{C}$ gelagert werden.
+
+</details>
+
+---
+
