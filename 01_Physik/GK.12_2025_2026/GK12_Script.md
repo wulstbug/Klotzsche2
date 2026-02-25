@@ -4331,6 +4331,31 @@ Elektron springt auf eine niedrigere Bahn. Es wird Energie in Form eines Photons
 
 ---
 
+3. 2. Ein Photon der Wellenlänge 102,64 nm wird von einem Wasserstoffatom absorbiert. Ermitteln Sie, welche Bahnen des Wasserstoff-Atoms an diesem Übergang beteiligt sind.
+
+<p style='margin-left:10%'>
+
+von n= [[ 1 ]] auf n=[[ 3 ]]
+
+</p>
+
+<details style='color:blue;margin-left:10%'>
+
+<summary> Lösungshinweis </summary>
+
+Ermitteln Sie die Photonenergie in der Einheit eV. Nutzen Sie die Formel für die Energieniveaus am Wasserstoffatom und überprüfen Sie, welchem Übergang die Photonenenergie entspricht.
+
+</details>
+
+<details style='color:blue;margin-left:10%'>
+
+<summary> Lösungshinweis </summary>
+
+Das Elektron springt auf die dritte Bahn.
+
+</details>
+
+
 </details>
 
 ---
