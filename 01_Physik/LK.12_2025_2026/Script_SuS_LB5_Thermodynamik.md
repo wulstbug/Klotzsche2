@@ -232,6 +232,9 @@ Zustandsgrößen eines Systems sind @color(__Temperatur__, blue), @color(__Druck
 
 Wir betrachten zunächst ein Gas in einem Behälter.
 
+
+__Ideales Gas:__ Modell, bei dem die Gasteilchen als punktförmige Massepunkte ohne Eigenvolumen betrachtet werden, die keine Anziehungskräfte aufeinander ausüben. Einzige Wechselwirkung sind elastische Stöße zwischen den Teilchen.
+
 </div>
 
 <div class="flex-child-2" style="min-width: 200px; margin-bottom: -10px">
@@ -249,7 +252,7 @@ Wir betrachten zunächst ein Gas in einem Behälter.
 
 <div class="flex-child-1" style="min-width: 50px; margin-bottom: -10px">
 
-
+Zustandsgröße:
 
 </div>
 
@@ -356,7 +359,7 @@ _Eine Temperatur von $$T=0\,\mathrm{K} = -273,15^\circ\mathrm{C}$$ bedeutet, das
 
 <div class="flex-child-2" style="min-width: 100px; margin-bottom: -10px">
 
-_Ein Pascal entspricht einer Kraft von einem Newton pro Quadratmeter. <br> $$ \Big[ 1\,\mathrm{Pa} = 1 \dfrac{\mathrm{N}}{\mathrm{m}^2} \Big]$$ _
+_Ein Pascal entspricht einer Kraft von einem Newton pro Quadratmeter. <br> $$ \Big[ 1\,\mathrm{Pa} = 1 \dfrac{\mathrm{N}}{\mathrm{m}^2} \Big]$$  $$ \Big[ 1\,\mathrm{bar} = 100\,000\,\mathrm{Pa} \Big] $$
 
 </div>
 

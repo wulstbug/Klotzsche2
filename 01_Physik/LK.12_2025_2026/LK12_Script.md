@@ -8130,28 +8130,36 @@ Zustandsgrößen eines Systems sind @color(__Temperatur__, blue), @color(__Druck
 
 <section class="flex-container">
 
-<div class="flex-child-2" style="min-width: 400px; margin-bottom: -10px">
+<div class="flex-child-1" style="min-width: 400px; margin-bottom: -10px">
 
-Wir betrachten zunächst ein Gas in einem Behälter.
+Wir betrachten zunächst ein Gas in einem Behälter <br> <br>
+
+{{1}}
+*********
+__Ideales Gas:__ Modell, bei dem die Gasteilchen als punktförmige Massepunkte ohne Eigenvolumen betrachtet werden, die keine Anziehungskräfte aufeinander ausüben. Einzige Wechselwirkung sind elastische Stöße zwischen den Teilchen.
+*********
 
 </div>
 
 <div class="flex-child-2" style="min-width: 200px; margin-bottom: -10px">
-
-![GasImBehälter](https://www.grund-wissen.de/physik/_images/geschwindigkeitsverteilung-gasteilchen.png)
-
+{{1}}
+*********
+??[Simulation](https://phet.colorado.edu/sims/html/gas-properties/latest/gas-properties_all.html?locale=de)
+*********
 </div>
 
 </section>
 
-
-
+{{2}}
+*********
 <br> <br>
+
+
 <section class="flex-container">
 
 <div class="flex-child-1" style="min-width: 50px; margin-bottom: -10px">
 
-
+Zustandsgrößen:
 
 </div>
 
@@ -8180,6 +8188,8 @@ Wir betrachten zunächst ein Gas in einem Behälter.
 
 ---
 
+{{3}}
+*********
 <section class="flex-container">
 
 <div class="flex-child-1" style="min-width: 50px; margin-bottom: -10px">
@@ -8207,9 +8217,10 @@ Volumen gibt an, welchen Raumbereich ein Gas einnimmt.
 </div>
 
 </section>
-
+*********
 ---
-
+{{4}}
+*********
 <section class="flex-container">
 
 <div class="flex-child-1" style="min-width: 50px; margin-bottom: -10px">
@@ -8239,9 +8250,11 @@ m$^{3}$ .. Kubikmeter <br>
 </div>
 
 </section>
-
+*********
 ---
 
+{{5}}
+*********
 <section class="flex-container">
 
 <div class="flex-child-1" style="min-width: 50px; margin-bottom: -10px">
@@ -8258,7 +8271,7 @@ _Eine Temperatur von $$T=0\,\mathrm{K} = -273,15^\circ\mathrm{C}$$ bedeutet, das
 
 <div class="flex-child-2" style="min-width: 100px; margin-bottom: -10px">
 
-_Ein Pascal entspricht einer Kraft von einem Newton pro Quadratmeter. <br> $$ \Big[ 1\,\mathrm{Pa} = 1 \dfrac{\mathrm{N}}{\mathrm{m}^2} \Big]$$ _
+_Ein Pascal entspricht einer Kraft von einem Newton pro Quadratmeter._ <br> $$ \Big[ 1\,\mathrm{Pa} = 1 \dfrac{\mathrm{N}}{\mathrm{m}^2} \Big]$$ $$ \Big[ 1\,\mathrm{bar} = 100\,000\,\mathrm{Pa} \Big] $$
 
 </div>
 
@@ -8269,3 +8282,147 @@ _Umrechnung von Volumina z.B. Liter -> m³ oder mm³ in m³ sollte geübt werden
 </div>
 
 </section>
+*********
+
+*********
+
+### 13. 2. Zustandsgleichung für das ideale Gas
+
+<section class="flex-container">
+
+<div class="flex-child-1" style="min-width: 300px; margin-bottom: -10px">
+
+> $$ \boxed{\dfrac{p \cdot V}{T} = konst.} $$
+
+Ändert sich bei einem Gas eine der Zustandsgrößen $T$, $V$ oder $p$, so ändern sich auch die anderen Größen.
+
+</div>
+
+<div class="flex-child-1" style="min-width: 300px; margin-bottom: -10px">
+
+??[Simulation](https://phet.colorado.edu/sims/html/gas-properties/latest/gas-properties_all.html?locale=de)
+
+</div>
+
+</section>
+
+{{1}}
+***********
+---
+
+Wir unterscheiden dabei folgende __Zustandsänderungen:__ <br> <br>
+
+<section class="flex-container">
+
+<div class="flex-child-1" style="min-width: 50px; margin-bottom: -10px">
+
+Art der Änderung:
+
+</div>
+
+<div class="flex-child-2" style="min-width: 100px; margin-bottom: -10px">
+
+@color(iso__bare__ Zustandsänderung, red) <br>
+
+</div>
+
+<div class="flex-child-2" style="min-width: 100px; margin-bottom: -10px">
+
+@color(iso__therme__ Zustandsänderung, red)
+
+</div>
+
+<div class="flex-child-2" style="min-width: 100px; margin-bottom: -10px">
+
+@color(iso__chore__ Zustandsänderung, red)
+
+</div>
+
+</section>
+***********
+
+
+{{2}}
+***********
+---
+
+<section class="flex-container">
+
+<div class="flex-child-1" style="min-width: 50px; margin-bottom: -10px">
+
+Beschreibung:
+
+</div>
+
+<div class="flex-child-2" style="min-width: 100px; margin-bottom: -10px">
+
+> Während der Änderung bleibt der __Druck konstant__, Volumen und Temperatur ändern sich. <br> $$ p = konst. $$
+
+</div>
+
+<div class="flex-child-2" style="min-width: 100px; margin-bottom: -10px">
+
+> Während der Änderung bleibt die Temperatur __konstant__. <br> $$ T = konst. $$
+
+</div>
+
+<div class="flex-child-2" style="min-width: 100px; margin-bottom: -10px">
+
+> Während der Änderung bleibt das Volumen __konstant__. <br> $$ V = konst $$
+
+</div>
+
+</section>
+***********
+
+{{3}}
+***********
+---
+
+<section class="flex-container">
+
+<div class="flex-child-1" style="min-width: 50px; margin-bottom: -10px">
+
+Änderung von 1->2:
+
+</div>
+
+<div class="flex-child-2" style="min-width: 100px; margin-bottom: -10px">
+
+<details style='color:blue;margin-left:10%'>
+
+<summary>  </summary>
+
+$$ \dfrac{V_1}{T_1} = \dfrac{V_2}{T_2} $$
+
+</details>
+
+
+</div>
+
+<div class="flex-child-2" style="min-width: 100px; margin-bottom: -10px">
+
+<details style='color:blue;margin-left:10%'>
+
+<summary>  </summary>
+
+$$ p_1 \cdot V_1 = p_2 \cdot V_2 $$
+
+</details>
+
+</div>
+
+<div class="flex-child-2" style="min-width: 100px; margin-bottom: -10px">
+
+<details style='color:blue;margin-left:10%'>
+
+<summary>  </summary>
+
+$$ p_1 \cdot T_1 = p_2 \cdot T_2 $$
+
+</details>
+
+</div>
+
+</section>
+***********
