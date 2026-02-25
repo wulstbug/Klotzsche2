@@ -4128,7 +4128,7 @@ __Bemerkungen:__
 
 - das einfachste Orbital (K-Schale) ist kugelförmig
 
-- je größer die Quantenzahl n (K->L->M), desto weiter weg ist der wahrscheinlichste Aufenthaltsort des Elektrons
+- je größer die Hauptquantenzahl n (K->L->M), desto weiter weg ist der wahrscheinlichste Aufenthaltsort des Elektrons
 
 - [Orbitale](https://commons.wikimedia.org/wiki/Hydrogen_orbitals_3D_real) können z.B. kugelförmig, hantelförmig oder dounutförmig sein
 **********
@@ -4142,3 +4142,51 @@ __Bemerkungen:__
 
 
 ## 8. 5. Quantenhafte Absorption und Emission von Energie
+
+> Wenn Elektronen das Energieniveau wechseln, kann Energie aufgenommen oder abgegeben werden.
+>
+> @color(__Der Energiebetrag entspricht dabei der Differenz der Energieniveaus.__, red)
+
+<section class="flex-container">
+
+<div class="flex-child-1" style="min-width: 300px; margin-bottom: -10px">
+
+__Absorption von Energie__
+
+</div>
+
+<div class="flex-child-1" style="min-width: 300px; margin-bottom: -10px">
+
+__Emission eines Photons__
+
+</div>
+
+</section>
+
+<section class="flex-container">
+
+<div class="flex-child-1" style="min-width: 300px; margin-bottom: -10px">
+
+---
+
+Elektron wird auf eine höhere Bahn gehoben. Es muss Energie hinzugefügt werden.
+
+---
+
+![Asborption](http://www.maphi.de/physik/grafiken/laser_absorption.gif)
+
+</div>
+
+<div class="flex-child-1" style="min-width: 300px; margin-bottom: -10px">
+
+---
+
+Elektron springt auf eine niedrigere Bahn. Es wird Energie in Form eines Photons abgegen.
+
+---
+
+![Emission](http://www.maphi.de/physik/grafiken/laser_emission.gif)
+
+</div>
+
+</section>
