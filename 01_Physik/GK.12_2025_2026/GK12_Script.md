@@ -4232,9 +4232,8 @@ Elektron springt auf eine niedrigere Bahn. Es wird Energie in Form eines Photons
 - [( )] Weil Elektronen zu klein sind, um Bahnen zu haben.
 - [(X)] Weil Ort und Impuls nicht gleichzeitig beliebig genau bestimmbar sind (Unschärferelation).
 - [( )] Weil der Atomkern das Elektron „nicht reinlässt“.
-- [( )] Weil Elektronen immer im Kreis fliegen, aber man Kreise nicht zeichnen darf.
-- [( )] Weil sich Elektronen nur in Würfeln bewegen.
-- [( )] Weil man Elektronen nur nachts beobachten kann.
+- [( )] Weil Elektronen immer im Kreis fliegen.
+- [( )] Weil die Elektronen ständig zwischen den Bahnen hin und her sprichen.
 
 </p>
 
