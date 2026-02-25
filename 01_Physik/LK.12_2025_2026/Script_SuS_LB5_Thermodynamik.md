@@ -379,7 +379,7 @@ $$ \Big[ 1\,\mathrm{ℓ} = 10^{-3}\,\mathrm{m}^3\Big]$$
 </section>
 
 
-#### Abituraufgabe Gasberechnungen am Stickstoff
+#### Gasberechnungen am Stickstoff
 
 In einem Labor wird Stickstoff bei der konstanten Temperatur $20,0 \, ^\circ\text{C}$ in eine $100$-Liter-Stahlflasche gedrückt. Dabei wächst der Druck von $100 \, \text{kPa}$ auf $22,1 \, \text{MPa}$.
 
