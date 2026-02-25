@@ -5,7 +5,7 @@ author: Christian Golnik
 
 language: de
 
-logo: https://www.leifiphysik.de/sites/default/files/images/c199eb074d2c47f51b2e099b66b655ca/0entwicklung-der-atomvorstellung-aristoteles.webp
+logo: https://diversewolken.ddns.net/nextcloud/s/SfR8K6Tn6mDEFkf/download
 
 @style
 .lia-effect__circle {
@@ -204,7 +204,7 @@ mode: presentation
 
 # LB 13 Thermodynamik (Wärmelehre)
 
-![Thermodynamik]()
+![Thermodynamik](https://diversewolken.ddns.net/nextcloud/s/SfR8K6Tn6mDEFkf/download)
 
 <section class="flex-container">
 
