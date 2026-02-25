@@ -4190,3 +4190,129 @@ Elektron springt auf eine niedrigere Bahn. Es wird Energie in Form eines Photons
 </div>
 
 </section>
+
+### Übungsaufgaben zu Orbitalen und Energieaustausch
+
+1. Aussagen zu Atomorbitalen
+
+1. 1. Welche Aussage beschreibt ein **Orbital** im quantenmechanischen Atommodell am besten?
+
+<p style="margin-left:10%">
+
+- [( )] Ein Orbital ist die feste Kreisbahn, auf der das Elektron um den Kern fliegt.
+- [(X)] Ein Orbital ist ein Raumbereich, in dem sich ein Elektron mit hoher Wahrscheinlichkeit aufhält.
+- [( )] Ein Orbital ist der Ort, an dem das Elektron immer exakt gefunden wird.
+- [( )] Ein Orbital ist eine messbare Bahnkurve, die man mit einem Mikroskop sehen kann.
+- [( )] Ein Orbital ist nur eine Zeichnung ohne physikalische Bedeutung.
+- [( )] Ein Orbital ist identisch mit der Schale (z.B. „2. Schale“), mehr gibt es da nicht.
+
+</p>
+
+---
+
+1. 2. Was bedeutet „Aufenthaltswahrscheinlichkeit“ bei Elektronen?
+
+<p style="margin-left:10%">
+
+- [( )] Sie sagt, wie schnell das Elektron unterwegs ist.
+- [( )] Sie sagt, wie warm das Elektron ist.
+- [(X)] Sie gibt an, wie wahrscheinlich es ist, ein Elektron in einem bestimmten Raumbereich zu finden.
+- [( )] Sie gibt an, wie wahrscheinlich es ist, dass der Atomkern verschwindet.
+- [( )] Sie ist die Wahrscheinlichkeit, dass das Elektron auf einer festen Bahn bleibt.
+- [( )] Sie ist eine Zufallszahl ohne Bezug zu Messungen.
+
+</p>
+
+---
+
+1. 3. Warum zeichnet man im quantenmechanischen Atommodell **keine festen Elektronenbahnen** wie im Bohr-Modell?
+
+<p style="margin-left:10%">
+
+- [( )] Weil Elektronen zu klein sind, um Bahnen zu haben.
+- [(X)] Weil Ort und Impuls nicht gleichzeitig beliebig genau bestimmbar sind (Unschärferelation).
+- [( )] Weil der Atomkern das Elektron „nicht reinlässt“.
+- [( )] Weil Elektronen immer im Kreis fliegen, aber man Kreise nicht zeichnen darf.
+- [( )] Weil sich Elektronen nur in Würfeln bewegen.
+- [( )] Weil man Elektronen nur nachts beobachten kann.
+
+</p>
+
+---
+
+1. 4. Je größer die Hauptquantenzahl n, ..
+
+<p style="margin-left:10%">
+
+- [( )] desto geringer ist die Ausdehnung des Atomkerns.
+- [( )] desto größer ist die Ausdehnung des Atomkerns.
+- [( )] desto näher am Kern ist der wahrscheinlichste Fundort (bei einer Messung) des Elektrons.
+- [(X)] desto weiter vom Kern entfernt ist der wahrscheinlichste Fundort (bei einer Messung) des Elektrons.
+
+</p>
+
+---
+
+2. Aussagen zu Absorption und Emission von Energie bei einem Atom
+
+2. 1. Absorption: Wann passiert sie? <br> Wann wird bei einem Elektronenübergang **Energie absorbiert**?
+
+<p style='margin-left:10%'>
+
+- [( )] Wenn ein Elektron von einem höheren auf ein niedrigeres Energieniveau wechselt.
+- [(X)] Wenn ein Elektron von einem niedrigeren auf ein höheres Energieniveau wechselt.
+- [( )] Wenn ein Elektron im gleichen Energieniveau bleibt.
+- [( )] Wenn ein Elektron den Atomkern berührt.
+- [( )] Immer, egal in welche Richtung der Übergang geht.
+- [( )] Nur wenn das Elektron vorher schon leuchtet.
+
+</p>
+
+---
+
+2. 2. Emission: Was wird frei? Was passiert bei einem Übergang von einem **höheren** auf ein **niedrigeres** Energieniveau?
+
+
+<p style='margin-left:10%'>
+
+- [( )] Das Atom absorbiert ein Photon.
+- [(X)] Das Atom emittiert Energie, oft als Photon (Licht).
+- [( )] Das Elektron gewinnt Energie und springt nach außen.
+- [( )] Es passiert nichts: Energieniveaus sind nur Theorie.
+- [( )] Die Protonenzahl ändert sich.
+- [( )] Das Elektron wird zu einem Proton (ist doch alles elektrisch).
+
+</p>
+
+---
+
+
+2. 3. Zusammenhang Energie – Lichtfarbe <br> Welche Aussage ist richtig?
+
+
+
+<p style='margin-left:10%'>
+
+- [( )] Je größer die Energiedifferenz ΔE, desto kleiner die Photonenenergie.
+- [( )] Die Farbe hängt nur von der Anzahl der Elektronen ab.
+- [( )] Alle Übergänge haben die gleiche Photonenergie, so lange die Änderung der Quantenzahl gleich ist (z.B. $\Delta n=1$)
+- [( )] Ein Photon kann nur bei Absorption entstehen, nicht bei Emission.
+- [(X)] Je größer die Energiedifferenz ΔE, desto energiereicher (z.B. „blauer“) ist das emittierte/absorbierte Photon.
+- [( )] Die Photonenenergie ist unabhängig vom Übergang.
+
+</p>
+
+---
+
+3. Die Emissionen, die beim Wasserstoffatom im sichtbaren Bereich liegen, sind Übergänge auf die zweite Schale. Ermitteln Sie die Energie und die Wellenlänge der Übergänge von n=3 -> n=2. Notieren Sie die Farbe des emittierten Lichts.
+
+<p style='margin-left:10%'>
+
+@rangeQuiz2($E_{3->2}$,1.89,$\mathrm{eV}$)
+
+@rangeQuiz2($\lambda_{3->2}$,655e-9,$\mathrm{m}$)
+
+<!-- data-solution-button="off" -->
+[[ infrarot | rot | gelb | grün | blau | violett | ultraviolett ]]
+
+</p>
