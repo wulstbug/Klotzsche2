@@ -4193,7 +4193,9 @@ Elektron springt auf eine niedrigere Bahn. Es wird Energie in Form eines Photons
 
 ### Übungsaufgaben zu Orbitalen und Energieaustausch
 
-1. Aussagen zu Atomorbitalen
+<details>
+
+<summary> 1. __Aussagen zu Atomorbitalen__ </summary>
 
 1. 1. Welche Aussage beschreibt ein **Orbital** im quantenmechanischen Atommodell am besten?
 
@@ -4250,9 +4252,14 @@ Elektron springt auf eine niedrigere Bahn. Es wird Energie in Form eines Photons
 
 </p>
 
+</details>
+
+
 ---
 
-2. Aussagen zu Absorption und Emission von Energie bei einem Atom
+<details>
+
+<summary> __2. Aussagen zu Absorption und Emission von Energie bei einem Atom__ </summary>
 
 2. 1. Absorption: Wann passiert sie? <br> Wann wird bei einem Elektronenübergang **Energie absorbiert**?
 
@@ -4301,9 +4308,15 @@ Elektron springt auf eine niedrigere Bahn. Es wird Energie in Form eines Photons
 
 </p>
 
+</details>
+
 ---
 
-3. Die Emissionen, die beim Wasserstoffatom im sichtbaren Bereich liegen, sind Übergänge auf die zweite Schale. Ermitteln Sie die Energie und die Wellenlänge der Übergänge von n=3 -> n=2. Notieren Sie die Farbe des emittierten Lichts.
+<details>
+
+<summary> __3. Berechnungen zur Emission und Absorption von Energie__ </summary>
+
+3. 1. Die Emissionen, die beim Wasserstoffatom im sichtbaren Bereich liegen, sind Übergänge auf die zweite Schale. Ermitteln Sie die Energie und die Wellenlänge der Übergänge von n=3 -> n=2. Notieren Sie die Farbe des emittierten Lichts.
 
 <p style='margin-left:10%'>
 
@@ -4315,3 +4328,9 @@ Elektron springt auf eine niedrigere Bahn. Es wird Energie in Form eines Photons
 [[ infrarot | rot | gelb | grün | blau | violett | ultraviolett ]]
 
 </p>
+
+---
+
+</details>
+
+---
