@@ -206,24 +206,6 @@ mode: presentation
 
 ![Thermodynamik](https://diversewolken.ddns.net/nextcloud/s/SfR8K6Tn6mDEFkf/download)
 
-<section class="flex-container">
-
-<div class="flex-child-2" style="min-width: 400px; margin-bottom: -10px">
-
-> __Wikipedia:__ Die Wärmelehre hat ihren Ursprung im __Studium der Dampfmaschinen__ und ging der Frage nach, wie man @color(Wärme in mechanische Arbeit umwandeln, red) kann. Dazu beschreibt sie @color(Systeme, red) aus hinreichend @color(vielen Teilchen, red) und deren Zustandsübergänge anhand von __makroskopischen Zustandsgrößen__.
-
-Zustandsgrößen eines Systems sind @color(__Temperatur__, blue), @color(__Druck__, blue) und @color(__Volumen__, blue).
-
-</div>
-
-<div class="flex-child-1" style="min-width: 200px; margin-bottom: -10px">
-
-![Dampfmaschine](https://upload.wikimedia.org/wikipedia/commons/8/8a/Triple_expansion_engine_animation.gif)
-
-</div>
-
-</section>
-
 ### 13. 1. Einführung
 
 <section class="flex-container">
