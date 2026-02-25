@@ -202,12 +202,168 @@ mode: presentation
 
 -->
 
-# LB 13 Thermodynamik
+# LB 13 Thermodynamik (Wärmelehre)
 
 ![Thermodynamik]()
 
+<section class="flex-container">
+
+<div class="flex-child-2" style="min-width: 400px; margin-bottom: -10px">
+
+> __Wikipedia:__ Die Wärmelehre hat ihren Ursprung im __Studium der Dampfmaschinen__ und ging der Frage nach, wie man @color(Wärme in mechanische Arbeit umwandeln, red) kann. Dazu beschreibt sie @color(Systeme, red) aus hinreichend @color(vielen Teilchen, red) und deren Zustandsübergänge anhand von __makroskopischen Zustandsgrößen__.
+
+Zustandsgrößen eines Systems sind @color(__Temperatur__, blue), @color(__Druck__, blue) und @color(__Volumen__, blue).
+
+</div>
+
+<div class="flex-child-1" style="min-width: 200px; margin-bottom: -10px">
+
+![Dampfmaschine](https://upload.wikimedia.org/wikipedia/commons/8/8a/Triple_expansion_engine_animation.gif)
+
+</div>
+
+</section>
 
 ### 13. 1. Einführung
 
-> Die Thermodynamik (Wärmelehre) ist ein Teilgebiet der Physik und Chemie, das die __Zusammenhänge__ zwischen Wärme, Arbeit, Energie und __Zustandsgrößen__ wie Temperatur, Druck und Volumen beschreibt.
+<section class="flex-container">
 
+<div class="flex-child-2" style="min-width: 400px; margin-bottom: -10px">
+
+Wir betrachten zunächst ein Gas in einem Behälter.
+
+</div>
+
+<div class="flex-child-2" style="min-width: 200px; margin-bottom: -10px">
+
+![GasImBehälter](https://www.grund-wissen.de/physik/_images/geschwindigkeitsverteilung-gasteilchen.png)
+
+</div>
+
+</section>
+
+
+
+<br> <br>
+<section class="flex-container">
+
+<div class="flex-child-1" style="min-width: 50px; margin-bottom: -10px">
+
+
+
+</div>
+
+<div class="flex-child-2" style="min-width: 100px; margin-bottom: -10px">
+
+@color(__Temperatur T__, blue)
+
+
+
+</div>
+
+<div class="flex-child-2" style="min-width: 100px; margin-bottom: -10px">
+
+@color(__Druck p__, blue)
+
+
+</div>
+
+<div class="flex-child-2" style="min-width: 100px; margin-bottom: -10px">
+
+@color(__Volumen V__, blue)
+
+</div>
+
+</section>
+
+---
+
+<section class="flex-container">
+
+<div class="flex-child-1" style="min-width: 50px; margin-bottom: -10px">
+
+Definition:
+
+</div>
+
+<div class="flex-child-2" style="min-width: 100px; margin-bottom: -10px">
+
+Die Temperatur ist ein Maß für die _mittlere Bewegungsenergie_ der einzelnen Teilchen. 
+
+</div>
+
+<div class="flex-child-2" style="min-width: 100px; margin-bottom: -10px">
+
+Der Druck gibt an, welche Kraft $F$ ein Gas auf eine Fläche $A$ ausübt. <br> <br> $$ p = \dfrac{F}{A} $$
+
+</div>
+
+<div class="flex-child-2" style="min-width: 100px; margin-bottom: -10px">
+
+Volumen gibt an, welchen Raumbereich ein Gas einnimmt.
+
+</div>
+
+</section>
+
+---
+
+<section class="flex-container">
+
+<div class="flex-child-1" style="min-width: 50px; margin-bottom: -10px">
+
+Einheit:
+
+</div>
+
+<div class="flex-child-2" style="min-width: 100px; margin-bottom: -10px">
+
+K .. Kelvin (absolute Temperatur)
+
+</div>
+
+<div class="flex-child-2" style="min-width: 100px; margin-bottom: -10px">
+
+Pa .. Pascal (Standardeinheit) <br>
+bar .. Bar 
+
+
+</div>
+
+<div class="flex-child-2" style="min-width: 100px; margin-bottom: -10px">
+
+m$^{3}$ .. Kubikmeter <br>
+
+</div>
+
+</section>
+
+---
+
+<section class="flex-container">
+
+<div class="flex-child-1" style="min-width: 50px; margin-bottom: -10px">
+
+Bemerkungen
+
+</div>
+
+<div class="flex-child-2" style="min-width: 100px; margin-bottom: -10px">
+
+_Eine Temperatur von $$T=0\,\mathrm{K} = -273,15^\circ\mathrm{C}$$ bedeutet, dass die Teilchen __keine Bewegungsenergie__ mehr besitzen, d.h. ihre Geschwindigkeit ist Null._
+
+</div>
+
+<div class="flex-child-2" style="min-width: 100px; margin-bottom: -10px">
+
+_Ein Pascal entspricht einer Kraft von einem Newton pro Quadratmeter. <br> $$ \Big[ 1\,\mathrm{Pa} = 1 \dfrac{\mathrm{N}}{\mathrm{m}^2} \Big]$$ _
+
+</div>
+
+<div class="flex-child-2" style="min-width: 100px; margin-bottom: -10px">
+
+_Umrechnung von Volumina z.B. Liter -> m³ oder mm³ in m³ sollte geübt werden _
+
+</div>
+
+</section>
