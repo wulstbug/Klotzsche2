@@ -347,25 +347,32 @@ m$^{3}$ .. Kubikmeter <br>
 
 <div class="flex-child-1" style="min-width: 50px; margin-bottom: -10px">
 
-Bemerkungen
+Bemerkungen:
 
 </div>
 
 <div class="flex-child-2" style="min-width: 100px; margin-bottom: -10px">
+
 
 _Eine Temperatur von $$T=0\,\mathrm{K} = -273,15^\circ\mathrm{C}$$ bedeutet, dass die Teilchen __keine Bewegungsenergie__ mehr besitzen, d.h. ihre Geschwindigkeit ist Null._
 
+_Wird die Temperatur in $^\circ\mathrm{C}$ angegeben, so verwendet man das Formelzeichen $\vartheta$_. <br>
+
 </div>
 
 <div class="flex-child-2" style="min-width: 100px; margin-bottom: -10px">
 
+
 _Ein Pascal entspricht einer Kraft von einem Newton pro Quadratmeter. <br> $$ \Big[ 1\,\mathrm{Pa} = 1 \dfrac{\mathrm{N}}{\mathrm{m}^2} \Big]$$  $$ \Big[ 1\,\mathrm{bar} = 100\,000\,\mathrm{Pa} \Big] $$
+
 
 </div>
 
 <div class="flex-child-2" style="min-width: 100px; margin-bottom: -10px">
 
 _Umrechnung von Volumina z.B. Liter -> m³ oder mm³ in m³ sollte geübt werden _
+
+$$ \Big[ 1\,\mathrm{ℓ} = 10^{-3}\,\mathrm{m}^3\Big]$$ 
 
 </div>
 
