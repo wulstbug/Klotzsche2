@@ -361,6 +361,139 @@ $$ \Big[ 1\,\mathrm{ℓ} = 10^{-3}\,\mathrm{m}^3\Big]$$
 </section>
 
 
+### 13. 2. Zustandsgleichung für das ideale Gas
+
+<section class="flex-container">
+
+<div class="flex-child-1" style="min-width: 300px; margin-bottom: -10px">
+
+> $$ \boxed{\dfrac{p \cdot V}{T} = konst.} $$
+
+Ändert sich bei einem Gas eine der Zustandsgrößen $T$, $V$ oder $p$, so ändern sich auch die anderen Größen.
+
+</div>
+
+<div class="flex-child-1" style="min-width: 300px; margin-bottom: -10px">
+
+??[Simulation](https://phet.colorado.edu/sims/html/gas-properties/latest/gas-properties_all.html?locale=de)
+
+</div>
+
+</section>
+
+---
+
+Wir unterscheiden dabei folgende __Zustandsänderungen:__ <br> <br>
+
+<section class="flex-container">
+
+<div class="flex-child-1" style="min-width: 50px; margin-bottom: -10px">
+
+Art der Änderung:
+
+</div>
+
+<div class="flex-child-2" style="min-width: 100px; margin-bottom: -10px">
+
+@color(iso__bare__ Zustandsänderung, red) <br>
+
+</div>
+
+<div class="flex-child-2" style="min-width: 100px; margin-bottom: -10px">
+
+@color(iso__therme__ Zustandsänderung, red)
+
+</div>
+
+<div class="flex-child-2" style="min-width: 100px; margin-bottom: -10px">
+
+@color(iso__chore__ Zustandsänderung, red)
+
+</div>
+
+</section>
+
+---
+
+<section class="flex-container">
+
+<div class="flex-child-1" style="min-width: 50px; margin-bottom: -10px">
+
+Beschreibung:
+
+</div>
+
+<div class="flex-child-2" style="min-width: 100px; margin-bottom: -10px">
+
+> Während der Änderung bleibt der __Druck konstant__, Volumen und Temperatur ändern sich. <br> $$ p = konst. $$
+
+</div>
+
+<div class="flex-child-2" style="min-width: 100px; margin-bottom: -10px">
+
+> Während der Änderung bleibt die Temperatur __konstant__. <br> $$ T = konst. $$
+
+</div>
+
+<div class="flex-child-2" style="min-width: 100px; margin-bottom: -10px">
+
+> Während der Änderung bleibt das Volumen __konstant__. <br> $$ V = konst $$
+
+</div>
+
+</section>
+
+---
+
+<section class="flex-container">
+
+<div class="flex-child-1" style="min-width: 50px; margin-bottom: -10px">
+
+Änderung von 1->2:
+
+</div>
+
+<div class="flex-child-2" style="min-width: 100px; margin-bottom: -10px">
+
+<details style='color:blue;margin-left:10%'>
+
+<summary>  </summary>
+
+$$ \dfrac{V_1}{T_1} = \dfrac{V_2}{T_2} $$
+
+</details>
+
+
+</div>
+
+<div class="flex-child-2" style="min-width: 100px; margin-bottom: -10px">
+
+<details style='color:blue;margin-left:10%'>
+
+<summary>  </summary>
+
+$$ p_1 \cdot V_1 = p_2 \cdot V_2 $$
+
+</details>
+
+</div>
+
+<div class="flex-child-2" style="min-width: 100px; margin-bottom: -10px">
+
+<details style='color:blue;margin-left:10%'>
+
+<summary>  </summary>
+
+$$ p_1 \cdot T_1 = p_2 \cdot T_2 $$
+
+</details>
+
+</div>
+
+</section>
+
+
+
 #### Gasberechnungen am Stickstoff
 
 In einem Labor wird Stickstoff bei der konstanten Temperatur $20,0 \, ^\circ\text{C}$ in eine $100$-Liter-Stahlflasche gedrückt. Dabei wächst der Druck von $100 \, \text{kPa}$ auf $22,1 \, \text{MPa}$.
