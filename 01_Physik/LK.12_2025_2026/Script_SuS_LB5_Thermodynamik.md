@@ -484,7 +484,7 @@ $$ p_1 \cdot V_1 = p_2 \cdot V_2 $$
 
 <summary>  </summary>
 
-$$ p_1 \cdot T_1 = p_2 \cdot T_2 $$
+$$ \dfrac{p_1}{T_1} = \dfrac{p_2 }{T_2} $$
 
 </details>
 
