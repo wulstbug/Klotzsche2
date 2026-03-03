@@ -8620,12 +8620,62 @@ $m_{N_2} = 25,4\,\mathrm{kg}$
 
 ---
 
-<p style='margin-left:10%'>
+<p style="margin-left:10%">
 
 __Konvention zu Vorzeichen:__ @color( Ist eine Energie/Arbeit __negativ__ gibt das System Energie an die Umgebung ab. __Postive__ Werte beschreiben die Aufnahme von Energie., red)
 
 </p>
 
+---
 
+<section class="flex-container" style="margin-left:10%">
+
+<div class="flex-child-1" style="min-width: 300px; margin-bottom: -10px">
+
+__Wärmeenergie__
+
+</div>
+
+<div class="flex-child-1" style="min-width: 300px; margin-bottom: -10px">
+
+__Volumenarbeit__
+
+</div>
+
+</section>
 
 ---
+
+<section class="flex-container" style="margin-left:10%">
+
+<div class="flex-child-1" style="min-width: 300px; margin-bottom: -10px">
+
+$ Q = m \cdot c \cdot \Delta T $
+
+</div>
+
+<div class="flex-child-1" style="min-width: 300px; margin-bottom: -10px">
+
+$ W = -\displaystyle\int^{V_2}_{V_1} p\,\mathrm{d}V $
+
+</div>
+
+</section>
+
+<section class="flex-container" style="margin-left:10%">
+
+<div class="flex-child-1" style="min-width: 300px; margin-bottom: -10px">
+
+$c$ .. spezifische Wärmekapazität <br> -> $c_p$: bei konstantem Druck <br> -> $c_V$: bei konstantem Volumen <br> <br>
+
+$\Delta T$ .. Temperaturänderung <br> -> Abkühlung: $\Delta T<0$
+
+</div>
+
+<div class="flex-child-1" style="min-width: 300px; margin-bottom: -10px">
+
+$ W = -\displaystyle\int^{V_2}_{V_1} p\,\mathrm{d}V $
+
+</div>
+
+</section>
