@@ -8528,3 +8528,28 @@ Die Flasche darf bis zu einer Temperatur von $98 \, ^\circ\text{C}$ gelagert wer
 
 ---
 
+2. 3. Berechnen Sie die Masse $\Delta m$ des zusätzlich eingefüllten Stickstoffs [1].
+
+@rangeQuiz2( $\Delta m$ , 25.3, $\mathrm{kg}$ )
+
+<details style="margin-left:0%;color:blue">
+<summary>Lösungsweg</summary>
+
+Zur Berechnung wird die **thermische Zustandsgleichung** für ideale Gase genutzt:
+$p \cdot V = m \cdot R_s \cdot T \Rightarrow m = \frac{p \cdot V}{R_s \cdot T}$ [3].
+
+Für die zusätzlich eingefüllte Masse wird die Druckdifferenz $\Delta p = 22,1 \, \text{MPa} - 100 \, \text{kPa} = 22,0 \, \text{MPa}$ verwendet. 
+Nutzen Sie für Stickstoff die spezifische Gaskonstante $R_s = 297 \, \frac{\text{J}}{\text{kg} \cdot \text{K}}$ [3].
+
+</details>
+
+<details style="margin-left:0%;color:blue">
+<summary>Lösung</summary>
+
+Gegeben: $\Delta p = 22,0 \cdot 10^6 \, \text{Pa}$; $V = 0,100 \, \text{m}^3$; $T = 293 \, \text{K}$.
+
+$\Delta m = \frac{22,0 \cdot 10^6 \, \text{Pa} \cdot 0,100 \, \text{m}^3}{297 \, \frac{\text{J}}{\text{kg} \cdot \text{K}} \cdot 293 \, \text{K}}$
+
+$\Delta m \approx \mathbf{25,3 \, kg}$ [3].
+
+</details>

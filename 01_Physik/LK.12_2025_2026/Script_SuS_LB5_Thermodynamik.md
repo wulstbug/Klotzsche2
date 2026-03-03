@@ -492,7 +492,7 @@ $$ \dfrac{p_1}{T_1} = \dfrac{p_2 }{T_2} $$
 
 </section>
 
-
+![IdealeGasgleichung](https://diversewolken.ddns.net/nextcloud/s/FrrqBqKHJkYifWe/download)
 
 #### Gasberechnungen am Stickstoff
 
