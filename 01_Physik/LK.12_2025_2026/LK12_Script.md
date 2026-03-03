@@ -8442,6 +8442,12 @@ $$ \dfrac{p_1}{T_1} = \dfrac{p_2 }{T_2} $$
 </section>
 ***********
 
+{{4}}
+***********
+![IdealeGasgleichung](https://diversewolken.ddns.net/nextcloud/s/FrrqBqKHJkYifWe/download)
+***********
+
+
 #### Gasberechnungen am Stickstoff
 
 In einem Labor wird Stickstoff bei der konstanten Temperatur $20,0 \, ^\circ\text{C}$ in eine $100$-Liter-Stahlflasche gedrückt. Dabei wächst der Druck von $100 \, \text{kPa}$ auf $22,1 \, \text{MPa}$.
