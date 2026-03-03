@@ -8618,4 +8618,14 @@ $m_{N_2} = 25,4\,\mathrm{kg}$
 >
 > $\hspace{1cm}$ $W$ .. Volumenarbeit, die das System verrichtet/die am System verrichtet wird
 
-> __Konvention zu Vorzeichen:__ @color( Ist eine Energie/Arbeit __negativ__ gibt das System Energie an die Umgebung ab. __Postive__ Werte beschreiben die Aufnahme von Energie., red)
+---
+
+<p style='margin-left:10%'>
+
+__Konvention zu Vorzeichen:__ @color( Ist eine Energie/Arbeit __negativ__ gibt das System Energie an die Umgebung ab. __Postive__ Werte beschreiben die Aufnahme von Energie., red)
+
+</p>
+
+
+
+---
