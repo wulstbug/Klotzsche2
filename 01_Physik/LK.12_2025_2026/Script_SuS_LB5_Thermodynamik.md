@@ -168,7 +168,7 @@ try {
 }
 </script>
 </div> 
-<div style="float:left;margin-left:5px">
+<div style="float:left;margin-left:10px">
 @2
 </div>
 </div>
@@ -176,7 +176,7 @@ try {
 
 @rangeQuiz0
 <div style="display: flex;flex-direction: row;flex-wrap: nowrap">
-<div style="float:left;margin-right:5px">
+<div style="float:left;margin-right:10px">
 @0 = 
 </div> 
 <div style="float:left;display:block">
@@ -354,7 +354,7 @@ _Ein Pascal entspricht einer Kraft von einem Newton pro Quadratmeter. <br> $$ \B
 
 _Umrechnung von Volumina z.B. Liter -> m³ oder mm³ in m³ sollte geübt werden _
 
-$$ \Big[ 1\,\mathrm{ℓ} = 10^{-3}\,\mathrm{m}^3\Big]$$ 
+$$ \Big[ 1\,\mathrm{ℓ} = 10^{-3}\,\mathrm{m}^3\Big]$$
 
 </div>
 
@@ -573,4 +573,3 @@ Die Flasche darf bis zu einer Temperatur von $98 \, ^\circ\text{C}$ gelagert wer
 </details>
 
 ---
-

@@ -156,7 +156,7 @@ try {
 }
 </script>
 </div> 
-<div style="float:left;margin-left:5px">
+<div style="float:left;margin-left:10px">
 @2
 </div>
 </div>
@@ -164,7 +164,7 @@ try {
 
 @rangeQuiz20
 <div style="display: flex;flex-direction: row;flex-wrap: nowrap">
-<div style="float:left;margin-right:5px">
+<div style="float:left;margin-right:10px">
 @0 = 
 </div> 
 <div style="float:left;display:block">
@@ -8280,7 +8280,11 @@ _Wird die Temperatur in $^\circ\mathrm{C}$ angegeben, so verwendet man das Forme
 
 {{7}}
 **********
-_Ein Pascal entspricht einer Kraft von einem Newton pro Quadratmeter._ <br> $$ \Big[ 1\,\mathrm{Pa} = 1 \dfrac{\mathrm{N}}{\mathrm{m}^2} \Big]$$ $$ \Big[ 1\,\mathrm{bar} = 100\,000\,\mathrm{Pa} \Big] $$
+
+_Ein Pascal entspricht einer Kraft von einem Newton pro Quadratmeter._ 
+
+$$ \Big[ 1\,\mathrm{Pa} = 1 \dfrac{\mathrm{N}}{\mathrm{m}^2} \Big]$$ $$ \Big[ 1\,\mathrm{bar} = 100\,000\,\mathrm{Pa} \Big] $$
+
 **********
 
 </div>
@@ -8289,14 +8293,16 @@ _Ein Pascal entspricht einer Kraft von einem Newton pro Quadratmeter._ <br> $$ \
 
 {{8}}
 **********
-_Umrechnung von Volumina z.B. Liter -> m³ oder mm³ in m³ sollte geübt werden _
+_Umrechnung von Volumina z.B. Liter -> m³ oder mm³ in m³ sollte geübt werden_
 
-$$ \Big[ 1\,\mathrm{ℓ} = 10^{-3}\,\mathrm{m}^3\Big]$$ 
+$$\Big[1\,\mathrm{ℓ}=10^{-3}\,\mathrm{m}^3\Big]$$
+
 **********
 
 </div>
 
 </section>
+
 *********
 
 *********
@@ -8444,6 +8450,8 @@ $$ \dfrac{p_1}{T_1} = \dfrac{p_2 }{T_2} $$
 
 {{4}}
 ***********
+---
+
 ![IdealeGasgleichung](https://diversewolken.ddns.net/nextcloud/s/FrrqBqKHJkYifWe/download)
 ***********
 
@@ -8528,28 +8536,86 @@ Die Flasche darf bis zu einer Temperatur von $98 \, ^\circ\text{C}$ gelagert wer
 
 ---
 
-2. 3. Berechnen Sie die Masse $\Delta m$ des zusätzlich eingefüllten Stickstoffs [1].
+2. 3. Berechnen Sie die Masse $\Delta m$ des zusätzlich eingefüllten Stickstoffs.
+
+<p style='margin-left:10%'>
 
 @rangeQuiz2( $\Delta m$ , 25.3, $\mathrm{kg}$ )
 
-<details style="margin-left:0%;color:blue">
+</p>
+
+<details style="margin-left:10%;color:blue">
 <summary>Lösungsweg</summary>
 
 Zur Berechnung wird die **thermische Zustandsgleichung** für ideale Gase genutzt:
-$p \cdot V = m \cdot R_s \cdot T \Rightarrow m = \frac{p \cdot V}{R_s \cdot T}$ [3].
+$p \cdot V = n \cdot R \cdot T$ mit $n=\frac{m_{N_2}}{M_{N_2}} \Rightarrow m_{N_2} = \frac{p \cdot V}{T}\cdot\frac{M_{N_2}}{R}$.
 
-Für die zusätzlich eingefüllte Masse wird die Druckdifferenz $\Delta p = 22,1 \, \text{MPa} - 100 \, \text{kPa} = 22,0 \, \text{MPa}$ verwendet. 
-Nutzen Sie für Stickstoff die spezifische Gaskonstante $R_s = 297 \, \frac{\text{J}}{\text{kg} \cdot \text{K}}$ [3].
+$m_{N_2}$ ist die Masse des Stickstoffs.
+
+$M_{N_2}$ ist die molare Masse des Stickstoffs.
+
+Die molare Masse von Stickstoff (hier als $N_2$-Molekül) ergibt sich aus der Masse, die ein Mol Stickstoff-Moleküle besitzt. Ermitteln Sie diese und setzen Sie sie in obige Formel ein.
 
 </details>
 
-<details style="margin-left:0%;color:blue">
+<details style="margin-left:10%;color:blue">
+<summary>Lösungsweg2</summary>
+
+Ein Stickstoff-Atom besitzt eine Masse von ungefähr $14\,\mathrm{u}$ <br> -> $u$ .. atomare Masseneinheit $u=1,66\cdot10^{-27}\,\mathrm{kg}$.
+
+Das Stickstoffmolekül $N_2$ hat demzufolge die Masse 
+
+<p style='margin-left:10%'>
+
+@rangeQuiz2($m_{N_2}$ , 4.648e-26 , $\mathrm{kg}$)
+
+</p>
+
+Die Stoffmenge $n=1\,\mathrm{mol}$ enthält $6,022\cdot10^{23}$ Teilchen. Die molare Masse von Stickstoff ist demzufolge
+
+<p style='margin-left:10%'>
+
+@rangeQuiz2($M_{N_2}$ , 0.028 , $\mathrm{\frac{kg}{mol}}$)
+
+</p>
+
+Mit der Formel $m_{N_2} = \frac{p \cdot V}{T}\cdot\frac{M_{N_2}}{R}$ lässt sich nun die Masse an Stickstoff ermitteln.
+
+</details>
+
+<details style="margin-left:10%;color:blue">
 <summary>Lösung</summary>
 
-Gegeben: $\Delta p = 22,0 \cdot 10^6 \, \text{Pa}$; $V = 0,100 \, \text{m}^3$; $T = 293 \, \text{K}$.
+Ein Stickstoff-Atom besitzt eine Masse von ungefähr $14\,\mathrm{u}$ <br> -> $u$ .. atomare Masseneinheit $u=1,66\cdot10^{-27}\,\mathrm{kg}$.
 
-$\Delta m = \frac{22,0 \cdot 10^6 \, \text{Pa} \cdot 0,100 \, \text{m}^3}{297 \, \frac{\text{J}}{\text{kg} \cdot \text{K}} \cdot 293 \, \text{K}}$
+Das Stickstoffmolekül $N_2$ hat demzufolge die Masse 
 
-$\Delta m \approx \mathbf{25,3 \, kg}$ [3].
+$m_{N_2} = 2 \cdot 14 \cdot 1,66\cdot10^{-27}\,\mathrm{kg} = 4,648\cdot 10^{-26} \,\mathrm{kg}$
+
+
+Die Stoffmenge $n=1\,\mathrm{mol}$ enthält $6,022\cdot10^{23}$ Teilchen. Die molare Masse von Stickstoff ist demzufolge
+
+$M_{N_2} = m_{N_2} \cdot 6,022\cdot10^{23} = 0,028 \,\mathrm{\frac{kg}{mol}}$
+
+Mit der Formel $m_{N_2} = \frac{p \cdot V}{T}\cdot\frac{M_{N_2}}{R}$ lässt sich nun die Masse an Stickstoff ermitteln.
+
+$m_{N_2} = 25,4\,\mathrm{kg}$
 
 </details>
+
+
+## 13. 3. Erster Hauptsatz der Thermodynamik
+
+> Der erste Hauptsatz beschreibt die Energieerhaltung in einem thermodynamischen System:
+>
+> $$ \Delta U = Q + W $$
+>
+> mit
+>
+> $\hspace{1cm}$ $\Delta U$ .. Änderung der inneren Energie
+>
+> $\hspace{1cm}$ $Q$ .. abgegebene oder zugeführte Wärmeenergie
+>
+> $\hspace{1cm}$ $W$ .. Volumenarbeit, die das System verrichtet/die am System verrichtet wird
+
+> __Konvention zu Vorzeichen:__ @color( Ist eine Energie/Arbeit __negativ__ gibt das System Energie an die Umgebung ab. __Postive__ Werte beschreiben die Aufnahme von Energie., red)
