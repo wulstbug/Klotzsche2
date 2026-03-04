@@ -8606,9 +8606,15 @@ $m_{N_2} = 25,4\,\mathrm{kg}$
 
 ## 13. 3. Erster Hauptsatz der Thermodynamik
 
+{{1}}
+************
+<section class="flex-container">
+
+<div class="flex-child-2" style="min-width: 400px; margin-bottom: -10px">
+
 > Der erste Hauptsatz beschreibt die Energieerhaltung in einem thermodynamischen System:
 >
-> $$ \Delta U = Q + W $$
+> $$ \boxed{\Delta U = Q + W} $$
 >
 > mit
 >
@@ -8618,64 +8624,177 @@ $m_{N_2} = 25,4\,\mathrm{kg}$
 >
 > $\hspace{1cm}$ $W$ .. Volumenarbeit, die das System verrichtet/die am System verrichtet wird
 
+
+</div>
+
+<div class="flex-child-1" style="min-width: 200px; margin-bottom: -10px">
+
+??[Simulation](https://phet.colorado.edu/sims/html/gas-properties/latest/gas-properties_all.html?locale=de)
+
+</div>
+
+</section>
+
+************
+
+{{2}}
+************
 ---
 
 <p style="margin-left:10%">
 
-__Konvention zu Vorzeichen:__ @color( Ist eine Energie/Arbeit __negativ__ gibt das System Energie an die Umgebung ab. __Postive__ Werte beschreiben die Aufnahme von Energie., red)
+__Konvention zu Vorzeichen:__ 
+
+- @color( Ist eine Energie/Arbeit __negativ__ gibt das System Energie an die Umgebung ab., red) 
+
+- @color(__Postive__ Werte beschreiben die Aufnahme von Energie., red)
+
+</p>
+************
+
+{{3}}
+************
+---
+
+<section class="flex-container" style="margin-left:10%">
+
+<div class="flex-child-1" style="min-width: 300px; margin-bottom: -10px">
+
+__Wärmeenergie $Q$__
+
+</div>
+
+<div class="flex-child-1" style="min-width: 300px; margin-bottom: -10px">
+
+__Volumenarbeit $W$__
+
+</div>
+
+</section>
+************
+
+{{4}}
+************
+---
+
+<section class="flex-container" style="margin-left:10%">
+
+<div class="flex-child-1" style="min-width: 300px; margin-bottom: -10px">
+
+$ \boxed{Q = m \cdot c \cdot \Delta T} $
+
+</div>
+
+<div class="flex-child-1" style="min-width: 300px; margin-bottom: -10px">
+
+{{7}}
+************
+$ \boxed{W = -\displaystyle\int^{V_2}_{V_1} p\,\mathrm{d}V} $
+************
+
+</div>
+
+</section>
+************
+
+{{5}}
+************
+<br>
+
+<section class="flex-container" style="margin-left:10%">
+
+<div class="flex-child-1" style="min-width: 300px; margin-bottom: -10px">
+
+$c$ .. spezifische Wärmekapazität <br> -> $c_p$: bei konstantem Druck <br> -> $c_V$: bei konstantem Volumen
+
+$\Delta T$ .. Temperaturänderung 
+
+</div>
+
+<div class="flex-child-1" style="min-width: 300px; margin-bottom: -10px">
+
+{{8}}
+************
+Volumenarbeit ist Volumenänderung $\mathrm{d}V$ bei herrschendem Druck $p$
+
+_Bildlich: Fläche unter p(V)-Graph_
+************
+
+</div>
+
+</section>
+************
+
+
+{{6}}
+************
+---
+
+<section class="flex-container" style="margin-left:10%">
+
+<div class="flex-child-1" style="min-width: 300px; margin-bottom: -10px">
+
+__Abkühlung:__ $\Delta T<0$ -> $Q<0$ -> System gibt Energie an Umgebung ab
+
+__Erwärmung:__ $\Delta T>0$ -> $Q>0$ -> dem System wird Energie zugeführt
+
+</div>
+
+<div class="flex-child-1" style="min-width: 300px; margin-bottom: -10px">
+
+{{9}}
+************
+__Ausdehnung:__ -> $V_2 > V_1$ -> $W < 0$ -> System gibt Energie an Umgebung ab
+
+__Kompression:__ -> $V_2 < V_1$ -> $W > 0$ -> dem System wird Energie zugeführt 
+************
+
+</div>
+
+</section>
+************
+
+
+---
+
+2. 4. Für Versuchszwecke wird der Flasche nach dem Füllvorgang $5,00$ Stunden lang Stickstoffgas bei der konstanten Temperatur $20,0 \, ^\circ\text{C}$ entnommen. Dabei strömt in jeder Stunde gleichmäßig $1,00 \, \text{kg}$ Gas aus. <br> Geben Sie eine Gleichung an, die den funktionalen Zusammenhang zwischen dem Gasdruck $p$ in der Flasche und der Zeit $t$ beschreibt ($0 \le t \le 5 \, \text{h}$). <br> _Hinweise: Setzen Sie alle bekannten Größen ein. Gehen Sie davon aus, dass die Zeit in der Einheit $\mathrm{[h]}$ angegeben wird._
+
+<details style="margin-left:10%;color:blue">
+<summary>Lösungsweg</summary>
+
+Der Druck ergibt sich aus der zeitabhängigen Masse $m(t)$. Da pro Stunde $1 \, \text{kg}$ entweicht, gilt:
+$m(t) = m_{Anfang} - \frac{1,00 \, \text{kg}}{\text{h}} \cdot t$
+
+Aus der Zustandsgleichung folgt: $p(t) = \frac{m(t) \cdot R_s \cdot T}{V}$.
+
+Setzen Sie $m_{Anfang} = 25,3 \, \text{kg}$ (aus Aufgabe 3.2), $R_s = 297 \, \frac{\text{J}}{\text{kg} \cdot \text{K}}$, $T = 293 \, \text{K}$ und $V = 0,1 \, \text{m}^3$ ein.
+
+</details>
+
+<details style="margin-left:10%;color:blue">
+<summary>Lösung</summary>
+
+Die Masse nach $t$ Stunden beträgt: $m(t) = (25,3 - t) \, \text{kg}$ (mit $t$ in Stunden).
+
+$p(t) = (25,3 - t) \cdot \frac{297 \cdot 293}{0,1} \, \text{Pa}$
+
+$\underline{p(t) = (25,3 - t) \cdot 870210 \, \text{Pa}}$.
+
+Der Graph dieser Funktion ist eine **fallende Gerade**, die bei ca. $22,0 \, \text{MPa}$ startet und nach $5$ Stunden einen Druck von ca. $17,7 \, \text{MPa}$ erreicht.
+
+</details>
+
+### Übungsaufgaben zum ersten Hauptsatz
+
+1. Ergänze die Temperaturdifferenzen.
+
+<p style="margin-left:5%">
+
+|Anfangstemperatur | Endtemperatur | Differenz | 
+| $T_1$ | $T_2$ | $\Delta T$ |
+| $18,5^\circ$ | $95,3^\circ$ | [[76,8]]K |
+| $-14,2^\circ$ | $4,2^\circ$ | [[18,4]]K |
+| $-7,1^\circ$ | $-13,6^\circ$ | [[-6,5]]K |
 
 </p>
 
----
-
-<section class="flex-container" style="margin-left:10%">
-
-<div class="flex-child-1" style="min-width: 300px; margin-bottom: -10px">
-
-__Wärmeenergie__
-
-</div>
-
-<div class="flex-child-1" style="min-width: 300px; margin-bottom: -10px">
-
-__Volumenarbeit__
-
-</div>
-
-</section>
-
----
-
-<section class="flex-container" style="margin-left:10%">
-
-<div class="flex-child-1" style="min-width: 300px; margin-bottom: -10px">
-
-$ Q = m \cdot c \cdot \Delta T $
-
-</div>
-
-<div class="flex-child-1" style="min-width: 300px; margin-bottom: -10px">
-
-$ W = -\displaystyle\int^{V_2}_{V_1} p\,\mathrm{d}V $
-
-</div>
-
-</section>
-
-<section class="flex-container" style="margin-left:10%">
-
-<div class="flex-child-1" style="min-width: 300px; margin-bottom: -10px">
-
-$c$ .. spezifische Wärmekapazität <br> -> $c_p$: bei konstantem Druck <br> -> $c_V$: bei konstantem Volumen <br> <br>
-
-$\Delta T$ .. Temperaturänderung <br> -> Abkühlung: $\Delta T<0$
-
-</div>
-
-<div class="flex-child-1" style="min-width: 300px; margin-bottom: -10px">
-
-$ W = -\displaystyle\int^{V_2}_{V_1} p\,\mathrm{d}V $
-
-</div>
-
-</section>

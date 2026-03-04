@@ -573,3 +573,181 @@ Die Flasche darf bis zu einer Temperatur von $98 \, ^\circ\text{C}$ gelagert wer
 </details>
 
 ---
+
+
+---
+
+2. 3. Berechnen Sie die Masse $\Delta m$ des zusätzlich eingefüllten Stickstoffs.
+
+<p style='margin-left:10%'>
+
+@rangeQuiz2( $\Delta m$ , 25.3, $\mathrm{kg}$ )
+
+</p>
+
+<details style="margin-left:10%;color:blue">
+<summary>Lösungsweg</summary>
+
+Zur Berechnung wird die **thermische Zustandsgleichung** für ideale Gase genutzt:
+$p \cdot V = n \cdot R \cdot T$ mit $n=\frac{m_{N_2}}{M_{N_2}} \Rightarrow m_{N_2} = \frac{p \cdot V}{T}\cdot\frac{M_{N_2}}{R}$.
+
+$m_{N_2}$ ist die Masse des Stickstoffs.
+
+$M_{N_2}$ ist die molare Masse des Stickstoffs.
+
+Die molare Masse von Stickstoff (hier als $N_2$-Molekül) ergibt sich aus der Masse, die ein Mol Stickstoff-Moleküle besitzt. Ermitteln Sie diese und setzen Sie sie in obige Formel ein.
+
+</details>
+
+<details style="margin-left:10%;color:blue">
+<summary>Lösungsweg2</summary>
+
+Ein Stickstoff-Atom besitzt eine Masse von ungefähr $14\,\mathrm{u}$ <br> -> $u$ .. atomare Masseneinheit $u=1,66\cdot10^{-27}\,\mathrm{kg}$.
+
+Das Stickstoffmolekül $N_2$ hat demzufolge die Masse 
+
+<p style='margin-left:10%'>
+
+@rangeQuiz2($m_{N_2}$ , 4.648e-26 , $\mathrm{kg}$)
+
+</p>
+
+Die Stoffmenge $n=1\,\mathrm{mol}$ enthält $6,022\cdot10^{23}$ Teilchen. Die molare Masse von Stickstoff ist demzufolge
+
+<p style='margin-left:10%'>
+
+@rangeQuiz2($M_{N_2}$ , 0.028 , $\mathrm{\frac{kg}{mol}}$)
+
+</p>
+
+Mit der Formel $m_{N_2} = \frac{p \cdot V}{T}\cdot\frac{M_{N_2}}{R}$ lässt sich nun die Masse an Stickstoff ermitteln.
+
+</details>
+
+<details style="margin-left:10%;color:blue">
+<summary>Lösung</summary>
+
+Ein Stickstoff-Atom besitzt eine Masse von ungefähr $14\,\mathrm{u}$ <br> -> $u$ .. atomare Masseneinheit $u=1,66\cdot10^{-27}\,\mathrm{kg}$.
+
+Das Stickstoffmolekül $N_2$ hat demzufolge die Masse 
+
+$m_{N_2} = 2 \cdot 14 \cdot 1,66\cdot10^{-27}\,\mathrm{kg} = 4,648\cdot 10^{-26} \,\mathrm{kg}$
+
+
+Die Stoffmenge $n=1\,\mathrm{mol}$ enthält $6,022\cdot10^{23}$ Teilchen. Die molare Masse von Stickstoff ist demzufolge
+
+$M_{N_2} = m_{N_2} \cdot 6,022\cdot10^{23} = 0,028 \,\mathrm{\frac{kg}{mol}}$
+
+Mit der Formel $m_{N_2} = \frac{p \cdot V}{T}\cdot\frac{M_{N_2}}{R}$ lässt sich nun die Masse an Stickstoff ermitteln.
+
+$m_{N_2} = 25,4\,\mathrm{kg}$
+
+</details>
+
+
+## 13. 3. Erster Hauptsatz der Thermodynamik
+
+> Der erste Hauptsatz beschreibt die Energieerhaltung in einem thermodynamischen System:
+>
+> $$ \boxed{\Delta U = Q + W} $$
+>
+> mit
+>
+> $\hspace{1cm}$ $\Delta U$ .. Änderung der inneren Energie
+>
+> $\hspace{1cm}$ $Q$ .. abgegebene oder zugeführte Wärmeenergie
+>
+> $\hspace{1cm}$ $W$ .. Volumenarbeit, die das System verrichtet/die am System verrichtet wird
+
+---
+
+<p style="margin-left:10%">
+
+__Konvention zu Vorzeichen:__ 
+
+- @color( Ist eine Energie/Arbeit __negativ__ gibt das System Energie an die Umgebung ab., red) 
+
+- @color(__Postive__ Werte beschreiben die Aufnahme von Energie., red)
+
+</p>
+
+---
+
+<section class="flex-container" style="margin-left:10%">
+
+<div class="flex-child-1" style="min-width: 300px; margin-bottom: -10px">
+
+__Wärmeenergie $Q$__
+
+</div>
+
+<div class="flex-child-1" style="min-width: 300px; margin-bottom: -10px">
+
+__Volumenarbeit $W$__
+
+</div>
+
+</section>
+
+---
+
+<section class="flex-container" style="margin-left:10%">
+
+<div class="flex-child-1" style="min-width: 300px; margin-bottom: -10px">
+
+$ \boxed{Q = m \cdot c \cdot \Delta T} $
+
+</div>
+
+<div class="flex-child-1" style="min-width: 300px; margin-bottom: -10px">
+
+$ \boxed{W = -\displaystyle\int^{V_2}_{V_1} p\,\mathrm{d}V} $
+
+</div>
+
+</section>
+
+<br>
+
+<section class="flex-container" style="margin-left:10%">
+
+<div class="flex-child-1" style="min-width: 300px; margin-bottom: -10px">
+
+$c$ .. spezifische Wärmekapazität <br> -> $c_p$: bei konstantem Druck <br> -> $c_V$: bei konstantem Volumen
+
+$\Delta T$ .. Temperaturänderung 
+
+</div>
+
+<div class="flex-child-1" style="min-width: 300px; margin-bottom: -10px">
+
+Volumenarbeit ist Volumenänderung $\mathrm{d}V$ bei herrschendem Druck $p$
+
+_Bildlich: Fläche unter p(V)-Graph_
+
+</div>
+
+</section>
+
+
+---
+
+<section class="flex-container" style="margin-left:10%">
+
+<div class="flex-child-1" style="min-width: 300px; margin-bottom: -10px">
+
+__Abkühlung:__ $\Delta T<0$ -> $Q<0$ -> System gibt Energie an Umgebung ab
+
+__Erwärmung:__ $\Delta T>0$ -> $Q>0$ -> dem System wird Energie zugeführt
+
+</div>
+
+<div class="flex-child-1" style="min-width: 300px; margin-bottom: -10px">
+
+__Ausdehnung:__ -> $V_2 > V_1$ -> $W < 0$ -> System gibt Energie an Umgebung ab
+
+__Kompression:__ -> $V_2 < V_1$ -> $W > 0$ -> dem System wird Energie zugeführt 
+
+</div>
+
+</section>
