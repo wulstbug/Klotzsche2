@@ -8799,7 +8799,7 @@ Der Graph dieser Funktion ist eine **fallende Gerade**, die bei ca. $22,0 \, \te
 </p>
 
 
-2. Der Inhalt der mit Stickstoff gefüllten Gasflasche aus der vorherigen Aufgabe ($m_{N_2}=25,4\mathrm{kg}$), $V=100\,\mathrm{ℓ}$, $\vartheta=20^\circ C$, soll auf $50^\circ C$ erwärmt werden.
+2. Der Inhalt der mit Stickstoff gefüllten Gasflasche aus der vorherigen Aufgabe ($m_{N_2}=25,4\,\mathrm{kg}$), $V=100\,\mathrm{ℓ}$, $\vartheta=20^\circ C$, soll auf $50^\circ C$ erwärmt werden.
 
 2. 1. Wählen Sie für jeden Energiebetrag die qualitativ richtige Aussage.
 
@@ -8814,10 +8814,47 @@ Der Graph dieser Funktion ist eine **fallende Gerade**, die bei ca. $22,0 \, \te
 
 </p>
 
-2. 2. Ermitteln Sie Betrag der Wärmeenergie, die dem Gas zugeführt werden muss.
+---
+
+2. 2. Ermitteln Sie die Beträge für Wärmeenergie und Volumenarbeit.
 
 <p style='margin-left:10%'>
 
-@rangeQuiz2($Q$,0,$\mathrm{J}$)
+@rangeQuiz2($Q$,5.715e5,$\mathrm{J}$)
+
+@rangeQuiz2($W$,0,$\mathrm{J}$)
 
 </p>
+
+<details style='color:blue;margin-left:10%'>
+
+<summary> Lösungsweg </summary>
+
+Ermitteln Sie im Tafelwerk den Wert für die spezifische Wärmekapazität von Stickstoff. Entscheiden Sie, ob Sie $c_V$ oder $c_p$ nutzen müssen.
+
+- [[X]] $c_V$
+- [[ ]] $c_p$
+
+@rangeQuiz2($c$,0.75,$\mathrm{\frac{kJ}{kg\cdot K}}$)
+
+
+_Hinweis: Achten Sie darauf, dass das Tafelwerk den Wert für c in kJ im Nenner angibt._
+
+</details>
+
+<details style='color:blue;margin-left:10%'>
+
+<summary> Lösung </summary>
+
+Da sich das Volumen bei der Erwärmung nicht ändert, muss für c der Wert bei konstantem Volumen genutzt werden.
+
+$ c_V = 0,75\,\mathrm{\frac{kJ}{kg\cdot K}} = 750\,\mathrm{\frac{\red{J}}{kg\cdot K}} $
+
+Die Wärmeenergie $Q$ ergibt sich zu
+
+$ Q = 22,4\,\mathrm{kg}\cdot 750 \,\mathrm{\frac{\red{J}}{kg\cdot K}} \cdot 30\,\mathrm{K} = 5,715\cdot 10^5\,\mathrm{J}$
+
+</details>
+
+---
+
