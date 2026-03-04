@@ -8545,7 +8545,7 @@ Die Flasche darf bis zu einer Temperatur von $98 \, ^\circ\text{C}$ gelagert wer
 </p>
 
 <details style="margin-left:10%;color:blue">
-<summary>Lösungsweg</summary>
+<summary>Lösungshinweis </summary>
 
 Zur Berechnung wird die **thermische Zustandsgleichung** für ideale Gase genutzt:
 $p \cdot V = n \cdot R \cdot T$ mit $n=\frac{m_{N_2}}{M_{N_2}} \Rightarrow m_{N_2} = \frac{p \cdot V}{T}\cdot\frac{M_{N_2}}{R}$.
@@ -8559,7 +8559,7 @@ Die molare Masse von Stickstoff (hier als $N_2$-Molekül) ergibt sich aus der Ma
 </details>
 
 <details style="margin-left:10%;color:blue">
-<summary>Lösungsweg2</summary>
+<summary>Lösungshinweis 2</summary>
 
 Ein Stickstoff-Atom besitzt eine Masse von ungefähr $14\,\mathrm{u}$ <br> -> $u$ .. atomare Masseneinheit $u=1,66\cdot10^{-27}\,\mathrm{kg}$.
 
@@ -8600,6 +8600,36 @@ $M_{N_2} = m_{N_2} \cdot 6,022\cdot10^{23} = 0,028 \,\mathrm{\frac{kg}{mol}}$
 Mit der Formel $m_{N_2} = \frac{p \cdot V}{T}\cdot\frac{M_{N_2}}{R}$ lässt sich nun die Masse an Stickstoff ermitteln.
 
 $m_{N_2} = 25,4\,\mathrm{kg}$
+
+</details>
+
+
+---
+
+2. 4. Für Versuchszwecke wird der Flasche nach dem Füllvorgang $5,00$ Stunden lang Stickstoffgas bei der konstanten Temperatur $20,0 \, ^\circ\text{C}$ entnommen. Dabei strömt in jeder Stunde gleichmäßig $1,00 \, \text{kg}$ Gas aus. <br> Geben Sie eine Gleichung an, die den funktionalen Zusammenhang zwischen dem Gasdruck $p$ in der Flasche und der Zeit $t$ beschreibt ($0 \le t \le 5 \, \text{h}$). <br> _Hinweise: Setzen Sie alle bekannten Größen ein. Gehen Sie davon aus, dass die Zeit in der Einheit $\mathrm{[h]}$ angegeben wird._
+
+<details style="margin-left:10%;color:blue">
+<summary>Lösungshinweis</summary>
+
+Der Druck ergibt sich aus der zeitabhängigen Masse $m(t)$. Da pro Stunde $1 \, \text{kg}$ entweicht, gilt:
+$m(t) = m_{Anfang} - \frac{1,00 \, \text{kg}}{\text{h}} \cdot t$
+
+Aus der Zustandsgleichung folgt: $p(t) = \frac{m(t) \cdot R_s \cdot T}{V}$.
+
+Setzen Sie $m_{Anfang} = 25,3 \, \text{kg}$ (aus Aufgabe 3.2), $R_s = 297 \, \frac{\text{J}}{\text{kg} \cdot \text{K}}$, $T = 293 \, \text{K}$ und $V = 0,1 \, \text{m}^3$ ein.
+
+</details>
+
+<details style="margin-left:10%;color:blue">
+<summary>Lösung</summary>
+
+Die Masse nach $t$ Stunden beträgt: $m(t) = (25,3 - t) \, \text{kg}$ (mit $t$ in Stunden).
+
+$p(t) = (25,3 - t) \cdot \frac{297 \cdot 293}{0,1} \, \text{Pa}$
+
+$\underline{p(t) = (25,3 - t) \cdot 870210 \, \text{Pa}}$.
+
+Der Graph dieser Funktion ist eine **fallende Gerade**, die bei ca. $22,0 \, \text{MPa}$ startet und nach $5$ Stunden einen Druck von ca. $17,7 \, \text{MPa}$ erreicht.
 
 </details>
 
@@ -8754,36 +8784,6 @@ __Kompression:__ -> $V_2 < V_1$ -> $W > 0$ -> dem System wird Energie zugeführt
 </section>
 ************
 
-
----
-
-2. 4. Für Versuchszwecke wird der Flasche nach dem Füllvorgang $5,00$ Stunden lang Stickstoffgas bei der konstanten Temperatur $20,0 \, ^\circ\text{C}$ entnommen. Dabei strömt in jeder Stunde gleichmäßig $1,00 \, \text{kg}$ Gas aus. <br> Geben Sie eine Gleichung an, die den funktionalen Zusammenhang zwischen dem Gasdruck $p$ in der Flasche und der Zeit $t$ beschreibt ($0 \le t \le 5 \, \text{h}$). <br> _Hinweise: Setzen Sie alle bekannten Größen ein. Gehen Sie davon aus, dass die Zeit in der Einheit $\mathrm{[h]}$ angegeben wird._
-
-<details style="margin-left:10%;color:blue">
-<summary>Lösungsweg</summary>
-
-Der Druck ergibt sich aus der zeitabhängigen Masse $m(t)$. Da pro Stunde $1 \, \text{kg}$ entweicht, gilt:
-$m(t) = m_{Anfang} - \frac{1,00 \, \text{kg}}{\text{h}} \cdot t$
-
-Aus der Zustandsgleichung folgt: $p(t) = \frac{m(t) \cdot R_s \cdot T}{V}$.
-
-Setzen Sie $m_{Anfang} = 25,3 \, \text{kg}$ (aus Aufgabe 3.2), $R_s = 297 \, \frac{\text{J}}{\text{kg} \cdot \text{K}}$, $T = 293 \, \text{K}$ und $V = 0,1 \, \text{m}^3$ ein.
-
-</details>
-
-<details style="margin-left:10%;color:blue">
-<summary>Lösung</summary>
-
-Die Masse nach $t$ Stunden beträgt: $m(t) = (25,3 - t) \, \text{kg}$ (mit $t$ in Stunden).
-
-$p(t) = (25,3 - t) \cdot \frac{297 \cdot 293}{0,1} \, \text{Pa}$
-
-$\underline{p(t) = (25,3 - t) \cdot 870210 \, \text{Pa}}$.
-
-Der Graph dieser Funktion ist eine **fallende Gerade**, die bei ca. $22,0 \, \text{MPa}$ startet und nach $5$ Stunden einen Druck von ca. $17,7 \, \text{MPa}$ erreicht.
-
-</details>
-
 #### Übungsaufgaben zum ersten Hauptsatz
 
 1. Ergänze die Temperaturdifferenzen.
@@ -8828,7 +8828,7 @@ Der Graph dieser Funktion ist eine **fallende Gerade**, die bei ca. $22,0 \, \te
 
 <details style='color:blue;margin-left:10%'>
 
-<summary> Lösungsweg </summary>
+<summary> Lösungshinweis </summary>
 
 Ermitteln Sie im Tafelwerk den Wert für die spezifische Wärmekapazität von Stickstoff. Entscheiden Sie, ob Sie $c_V$ oder $c_p$ nutzen müssen.
 
@@ -8857,4 +8857,70 @@ $ Q = 22,4\,\mathrm{kg}\cdot 750 \,\mathrm{\frac{\red{J}}{kg\cdot K}} \cdot 30\,
 </details>
 
 ---
+
+3. ![Plastiktüte](https://www.stuttgarter-nachrichten.de/media.media.fdfaf648-aac3-4a6a-ad04-ac4e6200ddca.16x9_700.jpg) Mit dem Inhalt der Stickstoff-Flasche soll nun eine sehr dünne $20\,\mathrm{ℓ}$ Plastiktüte aufgepustet werden. Dieser Vorgang soll so langsam stattfinden, dass die Temperatur des Gases innerhalb der Tüte bei $20°C$ konstant bleibt. Zur Vereinfachung wird angenommen, dass der Innendruck der Tüte während des Aufpustens immer gleich dem Außendruck (Luftdruck) entspricht. <br> _Hinweise: In der Realtität wäre der Innendruck geringfügig höher als der Außendruck, da sich die Tüte sonst nicht aufbläht. Die Tüte wird als nicht elastisch betrachtet, d.h. sobald die $20\,\mathrm{ℓ}$ eingefüllt sind, stoppt der Vorgang._
+
+3. 1. Ermitteln Sie die Stoffmenge und die Anzahl der Stickstoff-Atome, die sich in der Plastiktüte befindet.
+
+<p style='margin-left:10%'>
+
+@rangeQuiz2($n$,0.821,$\mathrm{mol}$)
+
+@rangeQuiz2($N_{N_2}$,4.944e23, $N_2$-Moleküle)
+
+</p>
+
+<details style='color:blue;margin-left:10%'>
+
+<summary> Lösunghinweis </summary>
+
+Nutzen Sie die ideale Gasgleichung um für den Endzustand die Stoffmenge $n$ zu berechnen. Für die Anzahl an Teilchen pro Mol nutzen Sie die Avogadro-Konstante $6,022\cdot 10^{23} \frac{1}{\mathrm{mol}}$.
+
+</details>
+
+<details style='color:blue;margin-left:10%'>
+
+<summary> Lösung </summary>
+
+$p = 10^5 \,\mathrm{Pa}$
+
+$T = 293 K$
+
+$V = 0,02 m^3$
+
+$R = 8,314 \frac{J}{mol \cdot K}$
+
+$\dfrac{p\cdot V}{T} = n \cdot R$ -> $n=0,821\,\mathrm{mol}$
+
+$N_{N_2} = n \cdot N_A$
+
+</details>
+
+---
+
+3. 2. Ermitteln Sie Volumenarbeit $W$, die das Gas beim Füllen der Tüte verrichet hat.
+
+<p style='margin-left:10%'>
+
+@rangeQuiz2($W$,-2000,$J$)
+
+</p>
+
+<details style='color:blue;margin-left:10%'>
+
+<summary> Lösunghinweis </summary>
+
+Die Volumenarbeit wird mit der Formel aus dem ersten Hauptsatz der Thermodynamik bestimmt. Dabei ist das Anfangsvolumen $V_1=0$ und das Zielvolumen $V_2=20\,\mathrm{ℓ}$. Der Druck ist mit $1\,\mathrm{bar}$ konstant.
+
+</details>
+
+<details style='color:blue;margin-left:10%'>
+
+<summary> Lösung </summary>
+
+$W = -\displaystyle\int^{V_2}_{V_1} p\,\mathrm{d}V = -\displaystyle\int^{0,02\,\mathrm{m^3}}_{0} 10^5\,\mathrm{Pa}\,\mathrm{d}V = -10^5\,\mathrm{Pa} \cdot 0,02\,\mathrm{m^3}$
+
+$W = -2000\,\mathrm{J}$
+
+</details>
 
