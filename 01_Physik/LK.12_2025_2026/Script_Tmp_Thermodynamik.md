@@ -653,19 +653,21 @@ $m(t) = m_{Anfang} - \frac{1,00 \, \text{kg}}{\text{h}} \cdot t$
 
 Aus der Zustandsgleichung folgt: $p(t) = \frac{m(t) \cdot R_s \cdot T}{V}$.
 
-Setzen Sie $m_{Anfang} = 25,3 \, \text{kg}$ (aus Aufgabe 3.2), $R_s = 297 \, \frac{\text{J}}{\text{kg} \cdot \text{K}}$, $T = 293 \, \text{K}$ und $V = 0,1 \, \text{m}^3$ ein.
+Setzen Sie $m_{Anfang} = 25,4 \, \text{kg}$ (aus Aufgabe 3.2), $R_s = 297 \, \frac{\text{J}}{\text{kg} \cdot \text{K}}$, $T = 293 \, \text{K}$ und $V = 0,1 \, \text{m}^3$ ein.
 
 </details>
 
 <details style="margin-left:10%;color:blue">
 <summary>Lösung</summary>
 
-Die Masse nach $t$ Stunden beträgt: $m(t) = (25,3 - t) \, \text{kg}$ (mit $t$ in Stunden).
+Die Masse nach $t$ Stunden beträgt: $m(t) = (25,4 - t) \, \text{kg}$ (mit $t$ in Stunden).
 
-$p(t) = (25,3 - t) \cdot \frac{297 \cdot 293}{0,1} \, \text{Pa}$
+$p(t) = (25,4 - t) \cdot \frac{297 \cdot 293}{0,1} \, \text{Pa}$
 
-$\underline{p(t) = (25,3 - t) \cdot 870210 \, \text{Pa}}$.
+$\underline{p(t) = (25,4 - t) \cdot 870210 \, \text{Pa}}$.
 
 Der Graph dieser Funktion ist eine **fallende Gerade**, die bei ca. $22,0 \, \text{MPa}$ startet und nach $5$ Stunden einen Druck von ca. $17,7 \, \text{MPa}$ erreicht.
 
 </details>
+
+#### Übungsaufgaben zu Energieumwandlungen

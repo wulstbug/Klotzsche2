@@ -8784,7 +8784,7 @@ Der Graph dieser Funktion ist eine **fallende Gerade**, die bei ca. $22,0 \, \te
 
 </details>
 
-### Übungsaufgaben zum ersten Hauptsatz
+#### Übungsaufgaben zum ersten Hauptsatz
 
 1. Ergänze die Temperaturdifferenzen.
 
@@ -8798,3 +8798,26 @@ Der Graph dieser Funktion ist eine **fallende Gerade**, die bei ca. $22,0 \, \te
 
 </p>
 
+
+2. Der Inhalt der mit Stickstoff gefüllten Gasflasche aus der vorherigen Aufgabe ($m_{N_2}=25,4\mathrm{kg}$), $V=100\,\mathrm{ℓ}$, $\vartheta=20^\circ C$, soll auf $50^\circ C$ erwärmt werden.
+
+2. 1. Wählen Sie für jeden Energiebetrag die qualitativ richtige Aussage.
+
+<p style="margin-left:10%">
+
+- [[X]] $Q>0$
+- [[ ]] $Q=0$
+- [[ ]] $Q<0$
+- [[ ]] $W>0$
+- [[X]] $W=0$
+- [[ ]] $W<0$
+
+</p>
+
+2. 2. Ermitteln Sie Betrag der Wärmeenergie, die dem Gas zugeführt werden muss.
+
+<p style='margin-left:10%'>
+
+@rangeQuiz2($Q$,0,$\mathrm{J}$)
+
+</p>
