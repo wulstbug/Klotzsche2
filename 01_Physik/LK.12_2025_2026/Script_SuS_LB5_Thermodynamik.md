@@ -691,7 +691,7 @@ Der Graph dieser Funktion ist eine **fallende Gerade**, die bei ca. $22,0 \, \te
 > $\hspace{1cm}$ $W$ .. Volumenarbeit, die das System verrichtet/die am System verrichtet wird
 
 ---
-
+ 
 <p style="margin-left:10%">
 
 __Konvention zu Vorzeichen:__ 
