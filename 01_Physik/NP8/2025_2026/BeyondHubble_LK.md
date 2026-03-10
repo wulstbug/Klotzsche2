@@ -507,6 +507,13 @@ Ergänze in deiner Zeichnung einen zweiten Hohlspiegel (Sekundärspiegel, welche
 *********************
 
 {{1}}
+*******************
+<H1>Scharfe Brennpunkt am Parabolspiegel</H1>
+
+??[HubbleSphHohlspiegel](https://www.geogebra.org/classic/kwrjkabx)
+*******************
+
+{{2}}
 *********************
 <H3> Konstruktion am parabelförmigen Hohlspiegel (Parabolspiegel)</H3>
 
