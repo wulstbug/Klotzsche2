@@ -958,9 +958,9 @@ $W_{A->B} = $ <br> <br>
 $W_{B->C} = $
 
 
-$W_{A->B} = - p_2\cdot (V_2 - V_1) $ <br> <br>
+$W_{A->B} = $ <br> <br>
  
-$W_{B->C} = 0 $
+$W_{B->C} = $
 
 
 __Beispielrechnung:__
