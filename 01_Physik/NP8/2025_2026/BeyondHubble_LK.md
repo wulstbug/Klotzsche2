@@ -397,6 +397,31 @@ C= (18,3)
 </details>
 
 
+
+# Der Hohlspiegel am Hubble-Teleskop
+
+{{0-1}}
+*********************
+<H3> Konstruktion am kugelförmigen (sphärischen) Hohlspiegel => kein scharfer Brennpunkt</H3>
+
+??[HubbleSphHohlspiegel](https://www.geogebra.org/classic/kwrjkabx)
+*********************
+
+{{1-2}}
+*******************
+<H3>Scharfe Brennpunkt am Parabolspiegel</H3>
+
+??[HubbleSphHohlspiegel](https://www.geogebra.org/classic/kwrjkabx)
+*******************
+
+{{2}}
+*********************
+<H3> Konstruktion am parabelförmigen Hohlspiegel (Parabolspiegel)</H3>
+
+??[Konstruktion](https://www.geogebra.org/classic/bbuu7mb6)
+*********************
+
+
 ### Konstruktionsanleitung: Reflexion an einem Parabolspiegel
 
 __Erklärung:__ Für einen exakten Brennpunkt ist die perfekte Spiegelform eine Parabel. Wir werden in diesem Abschnitt statt einer kugelförmigen Spiegelfläche eine Parabel verwenden.    
@@ -496,30 +521,6 @@ Ergänze in deiner Zeichnung einen zweiten Hohlspiegel (Sekundärspiegel, welche
 </p>
 
 </details>
-
-# Der Hohlspiegel am Hubble-Teleskop
-
-{{0-1}}
-*********************
-<H3> Konstruktion am kugelförmigen (sphärischen) Hohlspiegel => kein scharfer Brennpunkt</H3>
-
-??[HubbleSphHohlspiegel](https://www.geogebra.org/classic/kwrjkabx)
-*********************
-
-{{1-2}}
-*******************
-<H3>Scharfe Brennpunkt am Parabolspiegel</H3>
-
-??[HubbleSphHohlspiegel](https://www.geogebra.org/classic/kwrjkabx)
-*******************
-
-{{2}}
-*********************
-<H3> Konstruktion am parabelförmigen Hohlspiegel (Parabolspiegel)</H3>
-
-??[Konstruktion](https://www.geogebra.org/classic/bbuu7mb6)
-*********************
-
 
 
 # Aufgabenstellung
