@@ -36,3 +36,17 @@ icon:   https://diversewolken.ddns.net/klotzsche/logo.jpg
         width="100%" 
         height="600px">
 </iframe>
+
+## Vorabitur - Mechanik
+
+<iframe src="https://diversewolken.ddns.net/pdfjs/web/viewer.html?file=https://diversewolken.ddns.net/nextcloud/s/WGBXb7g9sSo5o9T/download"
+        width="100%" 
+        height="600px">
+</iframe>
+
+## Vorabitur - Induktion
+
+<iframe src="https://diversewolken.ddns.net/pdfjs/web/viewer.html?file=https://diversewolken.ddns.net/nextcloud/s/S2y8QNrMF3Ey9dW/download"
+        width="100%" 
+        height="600px">
+</iframe>

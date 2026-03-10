@@ -306,3 +306,281 @@ Welche der folgenden Aussagen beschreibt eine bekannte Schwäche des bohr’sche
 ## 8. 3. Das Wasserstoffatom
 
 ![TB_1](https://diversewolken.ddns.net/nextcloud/index.php/s/7DwNPsGoEy62fNL/download)
+
+
+{{1}}
+************
+__Zusammenfassung bis hierher:__
+************
+
+{{2}}
+************
+> - an einen Atomkern gebundene Elektronen können nur bestimmte (d.h. diskrete) Energieniveaus besetzen -> @color(Orbitale im quantenmechanischen Atommodell, red)
+************
+
+{{3}}
+************
+> - wechselt ein Elektron ein Energiniveau, so ist das mit einem __quantenhaften__ Energieaustausch mit der Umgebung verbunden -> @color(Emission und Absorption von Photonen, red)
+************
+
+## 8. 4. Orbitale des quantenmechanischen Atommodells
+
+{{1}}
+**********
+__Aufenthaltswahrscheinlichkeit statt feste Kreisbahn:__
+
+> Das quantenmechanische Atommodell beschreibt den Aufenthaltsort der Elektronen nicht als Kreisbahn (wie im bohrschen Atommodell), sondern als eine @color(Wahrscheinlichkeitsverteilung, red) im Raum um den Atomkern. -> [Video 1](https://youtu.be/behQ3O97DXw?t=446)
+**********
+
+{{2}}
+**********
+__Bemerkungen:__
+
+- bei einer Messung ist der Ort des Elektrons __nicht vorhersagbar (nicht determiniert)__
+
+- die Bohrsche Kreisbahn ist bei einem Wasserstoffatom der __wahrscheinlichste Abstand vom Kern__
+**********
+
+
+{{3}}
+**********
+> Die räumliche Wahrscheinlichkeitsverteilung nennt man @color(Orbital, red). Je nach Quantenzahl haben diese Orbitale unterschiedliche Formen. <br> [Simulation](https://www.leifiphysik.de/atomphysik/quantenmech-atommodell/versuche/wellenfunktionen-orbitale-des-wasserstoffatoms-simulation-von-paul-falstadt) & [Video 2](https://www.youtube.com/watch?v=2e31oqxlkJg)
+**********
+
+{{4}}
+**********
+__Bemerkungen:__
+
+- das einfachste Orbital (K-Schale) ist kugelförmig
+
+- je größer die Hauptquantenzahl n (K->L->M), desto weiter weg ist der wahrscheinlichste Aufenthaltsort des Elektrons
+
+- [Orbitale](https://commons.wikimedia.org/wiki/Hydrogen_orbitals_3D_real) können z.B. kugelförmig, hantelförmig oder dounutförmig sein
+**********
+
+{{5}}
+**********
+<p style="margin-left:10%">
+![Ausschnitt-Atomorbitale](https://diversewolken.ddns.net/nextcloud/s/2fDBpE4c7sQx6Et/download "n-Hauptquantenzahl, m-Nebenquantenzahl ")
+</p>
+**********
+
+
+## 8. 5. Quantenhafte Absorption und Emission von Energie
+
+> Wenn Elektronen das Energieniveau wechseln, kann Energie aufgenommen oder abgegeben werden.
+>
+> @color(__Der Energiebetrag entspricht dabei der Differenz der Energieniveaus.__, red)
+
+<section class="flex-container">
+
+<div class="flex-child-1" style="min-width: 300px; margin-bottom: -10px">
+
+__Absorption von Energie__
+
+</div>
+
+<div class="flex-child-1" style="min-width: 300px; margin-bottom: -10px">
+
+__Emission eines Photons__
+
+</div>
+
+</section>
+
+<section class="flex-container">
+
+<div class="flex-child-1" style="min-width: 300px; margin-bottom: -10px">
+
+---
+
+Elektron wird auf eine höhere Bahn gehoben. Es muss Energie hinzugefügt werden.
+
+---
+
+![Absorption](https://diversewolken.ddns.net/nextcloud/s/BQ2Z5Apxa9TyqR4/download)
+
+</div>
+
+<div class="flex-child-1" style="min-width: 300px; margin-bottom: -10px">
+
+---
+
+Elektron springt auf eine niedrigere Bahn. Es wird Energie in Form eines Photons abgegen.
+
+---
+
+![Emission](https://diversewolken.ddns.net/nextcloud/s/wRYRWkGLbYcMqqA/download)
+
+</div>
+
+</section>
+
+### Übungsaufgaben zu Orbitalen und Energieaustausch
+
+<details>
+
+<summary> 1. __Aussagen zu Atomorbitalen__ </summary>
+
+1. 1. Welche Aussage beschreibt ein **Orbital** im quantenmechanischen Atommodell am besten?
+
+<p style="margin-left:10%">
+
+- [( )] Ein Orbital ist die feste Kreisbahn, auf der das Elektron um den Kern fliegt.
+- [(X)] Ein Orbital ist ein Raumbereich, in dem sich ein Elektron mit hoher Wahrscheinlichkeit aufhält.
+- [( )] Ein Orbital ist der Ort, an dem das Elektron immer exakt gefunden wird.
+- [( )] Ein Orbital ist eine messbare Bahnkurve, die man mit einem Mikroskop sehen kann.
+- [( )] Ein Orbital ist nur eine Zeichnung ohne physikalische Bedeutung.
+- [( )] Ein Orbital ist identisch mit der Schale (z.B. „2. Schale“), mehr gibt es da nicht.
+
+</p>
+
+---
+
+1. 2. Was bedeutet „Aufenthaltswahrscheinlichkeit“ bei Elektronen?
+
+<p style="margin-left:10%">
+
+- [( )] Sie sagt, wie schnell das Elektron unterwegs ist.
+- [( )] Sie sagt, wie warm das Elektron ist.
+- [(X)] Sie gibt an, wie wahrscheinlich es ist, ein Elektron in einem bestimmten Raumbereich zu finden.
+- [( )] Sie gibt an, wie wahrscheinlich es ist, dass der Atomkern verschwindet.
+- [( )] Sie ist die Wahrscheinlichkeit, dass das Elektron auf einer festen Bahn bleibt.
+- [( )] Sie ist eine Zufallszahl ohne Bezug zu Messungen.
+
+</p>
+
+---
+
+1. 3. Warum zeichnet man im quantenmechanischen Atommodell **keine festen Elektronenbahnen** wie im Bohr-Modell?
+
+<p style="margin-left:10%">
+
+- [( )] Weil Elektronen zu klein sind, um Bahnen zu haben.
+- [(X)] Weil Ort und Impuls nicht gleichzeitig beliebig genau bestimmbar sind (Unschärferelation).
+- [( )] Weil der Atomkern das Elektron „nicht reinlässt“.
+- [( )] Weil Elektronen immer im Kreis fliegen.
+- [( )] Weil die Elektronen ständig zwischen den Bahnen hin und her sprichen.
+
+</p>
+
+---
+
+1. 4. Je größer die Hauptquantenzahl n, ..
+
+<p style="margin-left:10%">
+
+- [( )] desto geringer ist die Ausdehnung des Atomkerns.
+- [( )] desto größer ist die Ausdehnung des Atomkerns.
+- [( )] desto näher am Kern ist der wahrscheinlichste Fundort (bei einer Messung) des Elektrons.
+- [(X)] desto weiter vom Kern entfernt ist der wahrscheinlichste Fundort (bei einer Messung) des Elektrons.
+
+</p>
+
+</details>
+
+
+---
+
+<details>
+
+<summary> __2. Aussagen zu Absorption und Emission von Energie bei einem Atom__ </summary>
+
+2. 1. Absorption: Wann passiert sie? <br> Wann wird bei einem Elektronenübergang **Energie absorbiert**?
+
+<p style='margin-left:10%'>
+
+- [( )] Wenn ein Elektron von einem höheren auf ein niedrigeres Energieniveau wechselt.
+- [(X)] Wenn ein Elektron von einem niedrigeren auf ein höheres Energieniveau wechselt.
+- [( )] Wenn ein Elektron im gleichen Energieniveau bleibt.
+- [( )] Wenn ein Elektron den Atomkern berührt.
+- [( )] Immer, egal in welche Richtung der Übergang geht.
+- [( )] Nur wenn das Elektron vorher schon leuchtet.
+
+</p>
+
+---
+
+2. 2. Emission: Was wird frei? Was passiert bei einem Übergang von einem **höheren** auf ein **niedrigeres** Energieniveau?
+
+
+<p style='margin-left:10%'>
+
+- [( )] Das Atom absorbiert ein Photon.
+- [(X)] Das Atom emittiert Energie, oft als Photon (Licht).
+- [( )] Das Elektron gewinnt Energie und springt nach außen.
+- [( )] Es passiert nichts: Energieniveaus sind nur Theorie.
+- [( )] Die Protonenzahl ändert sich.
+- [( )] Das Elektron wird zu einem Proton (ist doch alles elektrisch).
+
+</p>
+
+---
+
+
+2. 3. Zusammenhang Energie – Lichtfarbe <br> Welche Aussage ist richtig?
+
+
+
+<p style='margin-left:10%'>
+
+- [( )] Je größer die Energiedifferenz ΔE, desto kleiner die Photonenenergie.
+- [( )] Die Farbe hängt nur von der Anzahl der Elektronen ab.
+- [( )] Alle Übergänge haben die gleiche Photonenergie, so lange die Änderung der Quantenzahl gleich ist (z.B. $\Delta n=1$)
+- [( )] Ein Photon kann nur bei Absorption entstehen, nicht bei Emission.
+- [(X)] Je größer die Energiedifferenz ΔE, desto energiereicher (z.B. „blauer“) ist das emittierte/absorbierte Photon.
+- [( )] Die Photonenenergie ist unabhängig vom Übergang.
+
+</p>
+
+</details>
+
+---
+
+<details>
+
+<summary> __3. Berechnungen zur Emission und Absorption von Energie__ </summary>
+
+3. 1. Die Emissionen, die beim Wasserstoffatom im sichtbaren Bereich liegen, sind Übergänge auf die zweite Schale. Ermitteln Sie die Energie und die Wellenlänge der Übergänge von n=3 -> n=2. Notieren Sie die Farbe des emittierten Lichts.
+
+<p style='margin-left:10%'>
+
+@rangeQuiz2($E_{3->2}$,1.89,$\mathrm{eV}$)
+
+@rangeQuiz2($\lambda_{3->2}$,655e-9,$\mathrm{m}$)
+
+<!-- data-solution-button="off" -->
+[[ infrarot | rot | gelb | grün | blau | violett | ultraviolett ]]
+
+</p>
+
+---
+
+3. 2. Ein Photon der Wellenlänge 102,64 nm wird von einem Wasserstoffatom absorbiert. Ermitteln Sie, welche Bahnen des Wasserstoff-Atoms an diesem Übergang beteiligt sind.
+
+<p style='margin-left:10%'>
+
+von n= [[ 1 ]] auf n=[[ 3 ]]
+
+</p>
+
+<details style='color:blue;margin-left:10%'>
+
+<summary> Lösungshinweis </summary>
+
+Ermitteln Sie die Photonenergie in der Einheit eV. Nutzen Sie die Formel für die Energieniveaus am Wasserstoffatom und überprüfen Sie, welchem Übergang die Photonenenergie entspricht.
+
+</details>
+
+<details style='color:blue;margin-left:10%'>
+
+<summary> Lösungshinweis </summary>
+
+Das Elektron springt auf die dritte Bahn.
+
+</details>
+
+
+</details>
+
+---

@@ -166,3 +166,23 @@ C= (18,3)
 
 </details>
 
+
+---
+
+<details>
+
+<summary> __Aufgabenteil 2:__ </summary>
+
+<p style="margin-left:5%">
+
+Wechsle in einem weiteren Fenster [hier zum Labyrinth](https://www.geogebra.org/classroom/xfwnnpnr) und bearbeite folgende Anleitung. Finde das Tor, in welches Lichtstrahl 1 trifft. Konstruiere den Lichtweg sauber.
+
+<div style="margin:5%">
+
+![VglLab](https://diversewolken.ddns.net/nextcloud/index.php/s/HXzk3JjHMA4oNcf/download)
+
+</div>
+
+</p>
+
+</details>
