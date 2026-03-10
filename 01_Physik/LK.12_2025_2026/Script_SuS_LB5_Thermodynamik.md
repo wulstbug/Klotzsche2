@@ -708,7 +708,7 @@ __Konvention zu Vorzeichen:__
 
 <div class="flex-child-1" style="min-width: 300px; margin-bottom: -10px">
 
-__Wärmeenergie $Q$__
+@color(__abgegebene/aufgenommene__, blue) <br> __Wärmeenergie $Q$__
 
 </div>
 
@@ -782,6 +782,8 @@ __Kompression:__ -> $V_2 < V_1$ -> $W > 0$ -> dem System wird Energie zugeführt
 </div>
 
 </section>
+
+> __Definition Innere Energie__: Die Innere Energie beschreibt die Summe der kinetischen Energien aller Gas-Teilchen.
 
 
 #### Übungsaufgaben zum ersten Hauptsatz
