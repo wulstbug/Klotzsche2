@@ -8924,3 +8924,20 @@ $W = -2000\,\mathrm{J}$
 
 </details>
 
+## 13. 4. Kreisprozesse - Reversible Prozesse bei ideealen Gasen
+
+> Wird ein ideales Gas wird in einem __zyklischen (d.h. sich wiederholendem) Prozess__ über mehrere Zustandsänderungen in seinen Ausgangszustand zurück versetzt, so nennen wir das @color(Kreisprozess, red).
+
+__Beispiel:__ 
+
+![Kreisprozess1](\download)
+
+## 13. 5. Adiabatische Zustandsänderungen
+
+> Viele Zuständsänderungen von Gasen laufen __so schnell__ ab, dass für einen Wärmeaustausch mit der Umgebung keine Zeit ist. Einen Vorgang ohne Wärmeaustausch mit der Umgebung nennt man @color(adiabatisch, red).
+>
+> Für eine @color(adiabatische Zustandsänderung, red) gilt:
+>
+> $$ \boxed{p \cdot V^\kappa = const.} $$
+>
+> wobei $\kappa = \dfrac{c_p}{c_V}$ als @color(Adiabatenexponent, red) definiert ist
