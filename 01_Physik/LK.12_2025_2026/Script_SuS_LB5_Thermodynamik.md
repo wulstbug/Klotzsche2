@@ -783,6 +783,8 @@ __Kompression:__ -> $V_2 < V_1$ -> $W > 0$ -> dem System wird Energie zugeführt
 
 </section>
 
+---
+
 > __Definition Innere Energie__: Die Innere Energie beschreibt die Summe der kinetischen Energien aller Gas-Teilchen.
 
 
