@@ -8943,12 +8943,12 @@ __Beispiel (einfacher Kreisprozess):__
 
 <div class="flex-child-2" style="min-width: 100px; margin-bottom: -10px">
 
-{{1-3}}
+{{1-2}}
 *****
 ![Kreisprozess1](https://diversewolken.ddns.net/nextcloud/s/dGFSzx9Y6GQjasi/download)
 *****
 
-{{3}}
+{{2}}
 *****
 ![Kreisprozess2](https://diversewolken.ddns.net/nextcloud/s/Fps2Mt6bstMmrCC/download)
 *****
