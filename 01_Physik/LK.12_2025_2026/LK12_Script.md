@@ -8789,6 +8789,8 @@ __Kompression:__ -> $V_2 < V_1$ -> $W > 0$ -> dem System wird Energie zugeführt
 ---
 
 > __Definition Innere Energie__: Die Innere Energie beschreibt die Summe der kinetischen Energien aller Gas-Teilchen.
+
+_Bemerkung: Ein thermodynamisches System kann seine Temperatur $T$ ändern, ohne dass es Wärmeenergie an seine Umgebung abgibt -> **@color(adiabatische Zustandsänderung, blue)** _
 ************
 
 #### Übungsaufgaben zum ersten Hauptsatz
@@ -8931,13 +8933,135 @@ $W = -2000\,\mathrm{J}$
 
 </details>
 
-## 13. 4. Kreisprozesse - Reversible Prozesse bei ideealen Gasen
+## 13. 4. Kreisprozesse - Reversible Prozesse bei idealen Gasen
 
 > Wird ein ideales Gas wird in einem __zyklischen (d.h. sich wiederholendem) Prozess__ über mehrere Zustandsänderungen in seinen Ausgangszustand zurück versetzt, so nennen wir das @color(Kreisprozess, red).
 
-__Beispiel:__ 
+__Beispiel (einfacher Kreisprozess):__ 
 
-![Kreisprozess1](\download)
+<section class="flex-container">
+
+<div class="flex-child-2" style="min-width: 100px; margin-bottom: -10px">
+
+{{1-3}}
+*****
+![Kreisprozess1](https://diversewolken.ddns.net/nextcloud/s/dGFSzx9Y6GQjasi/download)
+*****
+
+{{3}}
+*****
+![Kreisprozess2](https://diversewolken.ddns.net/nextcloud/s/Fps2Mt6bstMmrCC/download)
+*****
+
+</div>
+
+<div class="flex-child-1" style="min-width: 200px; margin-bottom: -10px">
+{{1}}
+************
+__Art der Zustandsänderung:__
+
+A->B: [[ (isobar) | isochor | isotherm ]] <br>
+B->C: [[ isobar | (isochor) | isotherm ]] <br>
+
+__Volumenarbeit $W$:__
+
+{{1-2}}
+*********
+$W_{A->B} = $ <br> <br>
+ 
+$W_{B->C} = $
+*********
+
+{{2}}
+*********
+$W_{A->B} = - p_2\cdot (V_2 - V_1) $ <br> <br>
+ 
+$W_{B->C} = 0 $
+*********
+
+{{3}}
+************
+__Beispielrechnung:__
+
+Das ideale Gas durchläuft den dargestellten zyklischen Prozess. In Punkt A beträgt das Volumen $1\,\mathrm{ℓ}$ und der Druck $2,5\,\mathrm{bar}$. In Punkt $C$ beträgt der Druck $1\,\mathrm{bar}$.
+************
+
+
+************
+</div>
+
+</section>
+
+{{3}}
+************
+---
+
+__Ermitteln Sie die Volumenarbeiten:__
+
+<section class="flex-container" style="margin-left:5%">
+
+<div class="flex-child-1" style="min-width: 300px; margin-bottom: -10px">
+
+@rangeQuiz2($W_{A->B}$,-300,$\mathrm{J}$)
+
+@rangeQuiz2($W_{B->C}$,0,$\mathrm{J}$)
+
+</div>
+
+<div class="flex-child-1" style="min-width: 300px; margin-bottom: -10px; margin-left:10%">
+
+@rangeQuiz2($W_{C->D}$,150,$\mathrm{J}$)
+
+@rangeQuiz2($W_{D->A}$,0,$\mathrm{J}$)
+
+</div>
+
+</section>
+
+************
+
+
+
+{{4}}
+************
+<section class="flex-container">
+
+<div class="flex-child-1" style="min-width: 300px; margin-bottom: -10px">
+
+__Die Summe aller Volumenarbeiten $W_{ges}$ beträgt__
+
+
+<p style="margin-left:10%">
+@rangeQuiz2($W_ges$,-150,$\mathrm{J}$)
+</p>
+
+</div>
+
+<div class="flex-child-1" style="min-width: 300px; margin-bottom: -10px">
+
+{{5}}
+************
+__Innere Energie $U$:__
+
+Am Ende des Kreisprozesses befindet sich das System wieder im Ausganszustand. Somit hat sich die innere Energie $U$ nicht verändert, d.h <br> $$ \Delta U =  Q + W = 0 $$
+$$\Rightarrow Q = -W = 150\,\mathrm{J}$$
+************
+
+</div>
+
+</section>
+
+{{6}}
+*********
+> Diesem Kreisprozess muss für einen Durchlauf die Wärmeenergie $Q=150\,\mathrm{J}$ zuführt werden.
+*********
+
+{{7}}
+********
+>Man nennt einen solchen Kreisprozess @color(__Wärmekraftmaschine__, red), da die Maschine unter Zufuhr von Wärmeenergie mechanische Arbeit verrichtet.
+********
+
+************
 
 ## 13. 5. Adiabatische Zustandsänderungen
 

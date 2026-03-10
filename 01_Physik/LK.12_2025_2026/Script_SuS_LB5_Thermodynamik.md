@@ -927,3 +927,70 @@ $W = -\displaystyle\int^{V_2}_{V_1} p\,\mathrm{d}V = -\displaystyle\int^{0,02\,\
 $W = -2000\,\mathrm{J}$
 
 </details>
+
+
+## 13. 4. Kreisprozesse - Reversible Prozesse bei idealen Gasen
+
+> Wird ein ideales Gas wird in einem __zyklischen (d.h. sich wiederholendem) Prozess__ über mehrere Zustandsänderungen in seinen Ausgangszustand zurück versetzt, so nennen wir das @color(Kreisprozess, red).
+
+__Beispiel (einfacher Kreisprozess):__ 
+
+<section class="flex-container">
+
+<div class="flex-child-2" style="min-width: 100px; margin-bottom: -10px">
+
+![Kreisprozess2](https://diversewolken.ddns.net/nextcloud/f/764438/download)
+
+</div>
+
+<div class="flex-child-1" style="min-width: 200px; margin-bottom: -10px">
+
+
+__Art der Zustandsänderung:__
+
+A->B: [[ (isobar) | isochor | isotherm ]] <br>
+B->C: [[ isobar | (isochor) | isotherm ]] <br>
+
+__Volumenarbeit $W$:__
+
+$W_{A->B} = $ <br> <br>
+ 
+$W_{B->C} = $
+
+
+$W_{A->B} = - p_2\cdot (V_2 - V_1) $ <br> <br>
+ 
+$W_{B->C} = 0 $
+
+
+__Beispielrechnung:__
+
+Das ideale Gas durchläuft den dargestellten zyklischen Prozess. In Punkt A beträgt das Volumen $1\,\mathrm{ℓ}$ und der Druck $2,5\,\mathrm{bar}$. In Punkt $C$ beträgt der Druck $1\,\mathrm{bar}$.
+
+</div>
+
+</section>
+
+---
+
+__Ermitteln Sie die Volumenarbeiten:__
+
+<section class="flex-container" style="margin-left:5%">
+
+<div class="flex-child-1" style="min-width: 300px; margin-bottom: -10px">
+
+@rangeQuiz2($W_{A->B}$,-300,$\mathrm{J}$)
+
+@rangeQuiz2($W_{B->C}$,0,$\mathrm{J}$)
+
+</div>
+
+<div class="flex-child-1" style="min-width: 300px; margin-bottom: -10px; margin-left:10%">
+
+@rangeQuiz2($W_{C->D}$,150,$\mathrm{J}$)
+
+@rangeQuiz2($W_{D->A}$,0,$\mathrm{J}$)
+
+</div>
+
+</section>
