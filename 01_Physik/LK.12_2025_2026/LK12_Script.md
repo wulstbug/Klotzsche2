@@ -9032,7 +9032,7 @@ __Die Summe aller Volumenarbeiten $W_{ges}$ beträgt__
 
 
 <p style="margin-left:10%">
-@rangeQuiz2($W_ges$,-150,$\mathrm{J}$)
+@rangeQuiz2($W_{ges}$,-150,$\mathrm{J}$)
 </p>
 
 </div>
