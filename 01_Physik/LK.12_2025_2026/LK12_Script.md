@@ -8831,7 +8831,7 @@ _Bemerkung: Ein thermodynamisches System kann seine Temperatur $T$ ändern, ohne
 
 @rangeQuiz2($Q$,5.715e5,$\mathrm{J}$)
 
-@rangeQuiz2($W$,0,$\mathrm{J}$)
+@rangeQuiz0($W$,0,$\mathrm{J}$)
 
 </p>
 
@@ -9004,7 +9004,7 @@ __Ermitteln Sie die Volumenarbeiten:__
 
 @rangeQuiz2($W_{A->B}$,-300,$\mathrm{J}$)
 
-@rangeQuiz2($W_{B->C}$,0,$\mathrm{J}$)
+@rangeQuiz0($W_{B->C}$,0,$\mathrm{J}$)
 
 </div>
 
@@ -9012,7 +9012,7 @@ __Ermitteln Sie die Volumenarbeiten:__
 
 @rangeQuiz2($W_{C->D}$,150,$\mathrm{J}$)
 
-@rangeQuiz2($W_{D->A}$,0,$\mathrm{J}$)
+@rangeQuiz0($W_{D->A}$,0,$\mathrm{J}$)
 
 </div>
 
@@ -9233,7 +9233,7 @@ __B->C:__ <br> <br>
 <p style='margin-left:10%'>
 
 
-@rangeQuiz2($W_{B->C}$,0,$\mathrm{J}$)
+@rangeQuiz0($W_{B->C}$,0,$\mathrm{J}$)
 
 @rangeQuiz2($Q_{B->C}$,-1849,$\mathrm{J}$)
 
@@ -9307,7 +9307,7 @@ __C->A:__ <br> <br>
 
 @rangeQuiz2($W_{C->A}$,0,$\mathrm{J}$)
 
-@rangeQuiz2($Q_{C->A}$,0,$\mathrm{J}$)
+@rangeQuiz0($Q_{C->A}$,0,$\mathrm{J}$)
 
 @rangeQuiz2($\Delta U_{C->A}$,-1849,$\mathrm{J}$)
 
