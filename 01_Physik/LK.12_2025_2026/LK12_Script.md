@@ -9305,11 +9305,11 @@ __C->A:__ <br> <br>
 <p style='margin-left:10%'>
 
 
-@rangeQuiz2($W_{C->A}$,0,$\mathrm{J}$)
+@rangeQuiz2($W_{C->A}$,-366,$\mathrm{J}$)
 
 @rangeQuiz0($Q_{C->A}$,0,$\mathrm{J}$)
 
-@rangeQuiz2($\Delta U_{C->A}$,-1849,$\mathrm{J}$)
+@rangeQuiz2($\Delta U_{C->A}$,366,$\mathrm{J}$)
 
 </p>
 
@@ -9323,7 +9323,7 @@ __C->A:__ <br> <br>
 
 <summary> Lösungshinweis </summary>
 
-$W_{C->A}$: Die Volumenarbeit ist gegeben durch die Fläche unter dem Graphen (Vorzeichen beachten).
+$W_{C->A}$: Die Volumenarbeit ist gegeben durch die Fläche unter dem Graphen (Vorzeichen beachten). Hier muss aus der isothermen Bedingung $p\cdot V=konst$ ein Ausdruck für $p(V)$ gefunden werden und dieser dann in das Integral eingesetzt werden.
 
 $Q_{C->A}$: Die zugeführte Wärmemenge ergibt sich aus der Temperaturänderung und der spezifischen Wärmekapazität bei konstantem Druck $c_p$. 
 
@@ -9335,7 +9335,7 @@ $\Delta U_{C->A}$: Ermitteln Sie die Änderung der inneren Energie aus den Werte
 
 <summary> Lösung </summary>
 
-$W_{C->A} = - \displaystyle\int_{4,4\,\mathrm{ℓ}}^{2,2\,\mathrm{ℓ}} p \cdot \mathrm{d}V $
+$W_{C->A} = - \displaystyle\int_{4,4\,\mathrm{ℓ}}^{2,2\,\mathrm{ℓ}} p(V) \cdot \mathrm{d}V $
 
 Für eine isotherme Zuständsänderung gilt: $ p \cdot V = const $.
 
@@ -9343,11 +9343,21 @@ Man kann für die Druckabhängigkeit:
 
 $p(V) = p_C \cdot V_C \cdot \dfrac{1}{V}$
 
+ansetzen. Es ergibt sich
+
+$W_{C->A} = - \displaystyle\int_{4,4\,\mathrm{ℓ}}^{2,2\,\mathrm{ℓ}} p_C \cdot V_C \cdot \dfrac{1}{V} \cdot \mathrm{d}V $
+
+Entweder in den CAS eintippen und numerisch lösen lassen:
+
+$W_{C->A} = - 366\,\mathrm{J}$
+
 ---
 
-$Q_{C->A} = 0$ (keine Temperaturänderung, kein Wärmeaustausch mit der Umgebung)
+$Q_{C->A} = 0$ (keine Temperaturänderung -> isotherm, kein Wärmeaustausch mit der Umgebung)
 
 ---
+
+$\Delta E_{C->A} = -W_{C->A} = 366\,\mathrm{J}$
 
 </details>
 
