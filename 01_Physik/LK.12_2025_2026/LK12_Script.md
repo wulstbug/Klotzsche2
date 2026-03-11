@@ -8983,7 +8983,7 @@ $W_{B->C} = 0 $
 ************
 __Beispielrechnung:__
 
-Das ideale Gas durchläuft den dargestellten zyklischen Prozess. In Punkt A beträgt das Volumen $1\,\mathrm{ℓ}$ und der Druck $2,5\,\mathrm{bar}$. In Punkt $C$ beträgt der Druck $1\,\mathrm{bar}$.
+Das ideale Gas durchläuft den dargestellten zyklischen Prozess. In Punkt A beträgt das Volumen $1\,\mathrm{ℓ}$ und der Druck $2\,\mathrm{bar}$. Das Volumen wird auf $2,5\mathrm{ℓ}$ erhöht (B). In Punkt $C$ beträgt der Druck $1\,\mathrm{bar}$.
 ************
 
 

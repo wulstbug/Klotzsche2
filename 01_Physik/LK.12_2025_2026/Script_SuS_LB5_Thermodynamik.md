@@ -939,7 +939,7 @@ __Beispiel (einfacher Kreisprozess):__
 
 <div class="flex-child-2" style="min-width: 100px; margin-bottom: -10px">
 
-![Kreisprozess2](https://diversewolken.ddns.net/nextcloud/f/764438/download)
+![Kreisprozess2](https://diversewolken.ddns.net/nextcloud/s/Fps2Mt6bstMmrCC/download)
 
 </div>
 
@@ -957,15 +957,9 @@ $W_{A->B} = $ <br> <br>
  
 $W_{B->C} = $
 
-
-$W_{A->B} = $ <br> <br>
- 
-$W_{B->C} = $
-
-
 __Beispielrechnung:__
 
-Das ideale Gas durchläuft den dargestellten zyklischen Prozess. In Punkt A beträgt das Volumen $1\,\mathrm{ℓ}$ und der Druck $2,5\,\mathrm{bar}$. In Punkt $C$ beträgt der Druck $1\,\mathrm{bar}$.
+Das ideale Gas durchläuft den dargestellten zyklischen Prozess. In Punkt A beträgt das Volumen $1\,\mathrm{ℓ}$ und der Druck $2\,\mathrm{bar}$. Das Volumen wird auf $2,5\mathrm{ℓ}$ erhöht (B). In Punkt $C$ beträgt der Druck $1\,\mathrm{bar}$.
 
 </div>
 
