@@ -988,3 +988,296 @@ __Ermitteln Sie die Volumenarbeiten:__
 </div>
 
 </section>
+
+
+#### Übungsaufgabe Kreisprozesse
+
+Ein (vereinfachter) thermodynamischer Kreisprozess in einem geschlossenen System soll in drei Stufen ablaufen. Abb. 1 stellt den Prozess in einem p-V-Diagramm dar. <br> _Hinweis: Diagramm nur qualitativ_.
+
+<section class="flex-container">
+
+<div class="flex-child-1" style="min-width: 300px; margin-bottom: -10px">
+
+![Kreisprozess3](https://diversewolken.ddns.net/nextcloud/s/ATKZxG5PirDSyMB/download)
+
+</div>
+
+<div class="flex-child-1" style="min-width: 300px; margin-bottom: -10px">
+
+__Beschreibung:__ $0,32\,\mathrm{mol}$ Stickstoff ($N_2$) nehmen bei einem Druck von $2,4\,\mathrm{bar}$ ein Volumen von $2,2\,\mathrm{ℓ}$ ein (A). Dann durchläuft das Gas einen zyklischen Prozess mit folgenden Vorgängen.
+
+__A->B:__ Das Gas wird bei konstantem Druck erwärmt bis sein Volumen $4,4\,\mathrm{ℓ}$ beträgt (B).
+
+__B->C:__ Das Gas wird bei konstantem Volumen abgekühlt, bis der Druck auf $1,2\,\mathrm{bar}$ gefallen ist (C).
+
+__C->A:__ Das Gas erfährt eine isotherme Kompression zurück zum Punkt A.
+
+</div>
+
+</section>
+
+---
+
+1. Ermitteln Sie die Temperatur an den Punkten A, B und C.
+
+<section class="flex-container">
+
+<div class="flex-child-1" style="min-width: 300px; margin-bottom: -10px">
+
+<p style='margin-left:10%'>
+
+@rangeQuiz2($T_A$,198.46,$\mathrm{K}$)
+
+@rangeQuiz2($T_B$,396.92,$\mathrm{K}$)
+
+@rangeQuiz2($T_C$,198.46,$\mathrm{K}$)
+
+</p>
+
+</div>
+
+<div class="flex-child-1" style="min-width: 300px; margin-bottom: -10px">
+
+<details style='color:blue'>
+
+<summary> Lösungshinweis </summary>
+
+$T_A$: Nutzen Sie die ideale Gasgleichung, um für den Punkt A die Temperatur zu ermitteln.
+
+$T_B$: Entnehmen Sie aus den Angaben die Werte für den Druck und das Volumen in Punkt B. Ermitteln Sie damit die Temperatur $T_B$.
+
+$T_C$: Schlußfolgern Sie aus den beschriebenen Zustandsänderungen auf die Temperatur $T_C$.
+
+</details>
+
+<details style='color:blue'>
+
+<summary> Lösung </summary>
+
+$T_A = \dfrac{p_A \cdot V_A}{n \cdot R} = 198,5 K$
+
+---
+
+$p_B = p_A$ (isobare)
+
+$V_B = 4,4\,\mathrm{ℓ}$
+
+$T_B = \dfrac{p_B \cdot V_B}{n \cdot R} = 396,92\,\mathrm{K}$
+
+$T_C=T_A=198,5\,\mathrm{K}$
+
+</details>
+
+</div>
+
+</section>
+
+2. Ermitteln Sie für die beschriebenen Zustandsänderungen jeweils die Größen $\Delta U$, $W$ und $Q$.
+
+
+<section class="flex-container">
+
+<div class="flex-child-1" style="min-width: 300px; margin-bottom: -10px">
+
+<p style='margin-left:10%'>
+
+__A->B:__ <br> <br>
+
+<p style='margin-left:10%'>
+
+
+@rangeQuiz2($W_{A->B}$,-528,$\mathrm{J}$)
+
+@rangeQuiz2($Q_{A->B}$,1849,$\mathrm{J}$)
+
+@rangeQuiz2($\Delta U_{A->B}$,1321,$\mathrm{J}$)
+
+</p>
+
+</p>
+
+</div>
+
+<div class="flex-child-1" style="min-width: 300px; margin-bottom: -10px">
+
+<details style='color:blue'>
+
+<summary> Lösungshinweis </summary>
+
+$W_{A->B}$: Die Volumenarbeit ist gegeben durch die Fläche unter dem Graphen (Vorzeichen beachten).
+
+$Q_{A->B}$: Die zugeführte Wärmemenge ergibt sich aus der Temperaturänderung und der spezifischen Wärmekapazität bei konstantem Druck $c_p$. 
+
+$\Delta U_{A->B}$: Ermitteln Sie die Änderung der inneren Energie aus den Werte für $Q$ und $W$.
+
+</details>
+
+<details style='color:blue'>
+
+<summary> Lösung </summary>
+
+$W_{A->B} = - \displaystyle\int_{2,2\,\mathrm{ℓ}}^{4,4\,\mathrm{ℓ}} p \cdot \mathrm{d}V = - 2,4\,\mathrm{bar} \cdot (2,2\,\mathrm{ℓ})$
+
+$W_{A->B} = -528\,\mathrm{J}$
+
+---
+
+$Q_{A->B} = m \cdot c_p \cdot \Delta T_{A->B}$
+
+<p style="margin-left:5%">
+
+Masse: $m = n_{N_2} \cdot M_{N_2} = 0,32\,\mathrm{mol} \cdot 0,028\,\mathrm{\dfrac{kg}{mol}} = 0,00896\,\mathrm{kg}$
+
+spez. WK (laut Formelsammlung): $c_p = 1,04 \mathrm{\dfrac{kJ}{kg\cdot K}}$
+
+$\Delta T = (396,9-198,5)\,\mathrm{K} = 198,4 \,\mathrm{K}$
+
+</p>
+
+$Q_{A->B} = 1,849\,\mathrm{kJ} = 1849\,\mathrm{J}$
+
+---
+
+$\Delta U_{A->B} = Q_{A->B} + W_{A->B} = 1321\,\mathrm{J}$
+
+</details>
+
+</div>
+
+</section>
+
+---
+
+
+<section class="flex-container">
+
+<div class="flex-child-1" style="min-width: 300px; margin-bottom: -10px">
+
+<p style='margin-left:10%'>
+
+__B->C:__ <br> <br>
+
+<p style='margin-left:10%'>
+
+
+@rangeQuiz2($W_{B->C}$,0,$\mathrm{J}$)
+
+@rangeQuiz2($Q_{B->C}$,-1849,$\mathrm{J}$)
+
+@rangeQuiz2($\Delta U_{B->C}$,-1849,$\mathrm{J}$)
+
+</p>
+
+</p>
+
+</div>
+
+<div class="flex-child-1" style="min-width: 300px; margin-bottom: -10px">
+
+<details style='color:blue'>
+
+<summary> Lösungshinweis </summary>
+
+$W_{B->C}$: Die Volumenarbeit ist gegeben durch die Fläche unter dem Graphen (Vorzeichen beachten).
+
+$Q_{B->C}$: Die zugeführte Wärmemenge ergibt sich aus der Temperaturänderung und der spezifischen Wärmekapazität bei konstantem Druck $c_p$. 
+
+$\Delta U_{B->C}$: Ermitteln Sie die Änderung der inneren Energie aus den Werte für $Q$ und $W$.
+
+</details>
+
+<details style='color:blue'>
+
+<summary> Lösung </summary>
+
+$W_{B->C} = 0 $ (keine Volumenänderung, keine Volumenarbeit)
+
+---
+
+$Q_{B->C} = m \cdot c_p \cdot \Delta T_{B->C}$
+
+<p style="margin-left:5%">
+
+Masse: $m = 0,00896\,\mathrm{kg}$
+
+spez. WK: $c_p = 1,04 \mathrm{\dfrac{kJ}{kg\cdot K}}$
+
+$\Delta T = (198,5-396,9)\,\mathrm{K} = -198,4 \,\mathrm{K}$
+
+</p>
+
+$Q_{B->C} = -1849\,\mathrm{J}$
+
+---
+
+$\Delta U_{B->C} = Q_{B->C} + W_{B->C} = -1849\,\mathrm{J}$
+
+</details>
+
+</div>
+
+</section>
+
+---
+
+
+<section class="flex-container">
+
+<div class="flex-child-1" style="min-width: 300px; margin-bottom: -10px">
+
+<p style='margin-left:10%'>
+
+__C->A:__ <br> <br>
+
+<p style='margin-left:10%'>
+
+
+@rangeQuiz2($W_{C->A}$,0,$\mathrm{J}$)
+
+@rangeQuiz2($Q_{C->A}$,0,$\mathrm{J}$)
+
+@rangeQuiz2($\Delta U_{C->A}$,-1849,$\mathrm{J}$)
+
+</p>
+
+</p>
+
+</div>
+
+<div class="flex-child-1" style="min-width: 300px; margin-bottom: -10px">
+
+<details style='color:blue'>
+
+<summary> Lösungshinweis </summary>
+
+$W_{C->A}$: Die Volumenarbeit ist gegeben durch die Fläche unter dem Graphen (Vorzeichen beachten).
+
+$Q_{C->A}$: Die zugeführte Wärmemenge ergibt sich aus der Temperaturänderung und der spezifischen Wärmekapazität bei konstantem Druck $c_p$. 
+
+$\Delta U_{C->A}$: Ermitteln Sie die Änderung der inneren Energie aus den Werte für $Q$ und $W$.
+
+</details>
+
+<details style='color:blue'>
+
+<summary> Lösung </summary>
+
+$W_{C->A} = - \displaystyle\int_{4,4\,\mathrm{ℓ}}^{2,2\,\mathrm{ℓ}} p \cdot \mathrm{d}V $
+
+Für eine isotherme Zuständsänderung gilt: $ p \cdot V = const $.
+
+Man kann für die Druckabhängigkeit: 
+
+$p(V) = p_C \cdot V_C \cdot \dfrac{1}{V}$
+
+---
+
+$Q_{C->A} = 0$ (keine Temperaturänderung, kein Wärmeaustausch mit der Umgebung)
+
+---
+
+</details>
+
+</div>
+
+</section>
