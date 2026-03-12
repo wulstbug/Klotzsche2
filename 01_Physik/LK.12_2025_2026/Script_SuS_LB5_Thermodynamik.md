@@ -206,7 +206,7 @@ mode: presentation
 
 ![Thermodynamik](https://diversewolken.ddns.net/nextcloud/s/SfR8K6Tn6mDEFkf/download)
 
-### 13. 1. Einführung
+## 13. 1. Einführung
 
 <section class="flex-container">
 
@@ -361,7 +361,7 @@ $$ \Big[ 1\,\mathrm{ℓ} = 10^{-3}\,\mathrm{m}^3\Big]$$
 </section>
 
 
-### 13. 2. Zustandsgleichung für das ideale Gas
+## 13. 2. Zustandsgleichung für das ideale Gas
 
 <section class="flex-container">
 
@@ -676,7 +676,7 @@ Der Graph dieser Funktion ist eine **fallende Gerade**, die bei ca. $22,0 \, \te
 
 
 
-### 13. 3. Erster Hauptsatz der Thermodynamik
+## 13. 3. Erster Hauptsatz der Thermodynamik
 
 > Der erste Hauptsatz beschreibt die Energieerhaltung in einem thermodynamischen System:
 >
