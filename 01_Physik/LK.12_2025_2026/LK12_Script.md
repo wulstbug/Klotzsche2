@@ -9375,3 +9375,22 @@ $\Delta E_{C->A} = -W_{C->A} = 366\,\mathrm{J}$
 > $$ \boxed{p \cdot V^\kappa = const.} $$
 >
 > wobei $\kappa = \dfrac{c_p}{c_V}$ als @color(Adiabatenexponent, red) definiert ist
+
+
+# 13. 6. Carnot'scher Kreisprozess
+
+Der Carnot’sche Kreisprozess ist ein idealisierter thermodynamischer Kreisprozess mit maximal möglichem Wirkungsgrad zwischen zwei Wärmereservoiren (warm $T_H$, kalt $T_C$).
+
+Er besteht aus __vier reversiblen__ Zustandsänderungen:
+
+1. __Isotherme Expansion bei $T_H$:__ <br> Das Arbeitsmedium nimmt Wärme $Q_H$ aus dem heißen Reservoir auf und verrichtet Arbeit.
+$$T = T_H,\qquad Q_H > 0$$
+
+2. __Adiabatische (isentrope) Expansion:__ <br> Keine Wärmeübertragung, die Temperatur sinkt von $T_H$ auf $T_C$.
+$$Q = 0,\qquad T_H \rightarrow T_C$$
+
+3. __Isotherme Kompression bei $T_C$:__ <br> Wärme $Q_C$ wird an das kalte Reservoir abgegeben.
+$$T = T_C,\qquad Q_C < 0$$
+
+4. __Adiabatische (isentrope) Kompression:__ <br> Keine Wärmeübertragung, die Temperatur steigt von $T_C$ auf $T_H$.
+$$Q = 0,\qquad T_C \rightarrow T_H$$
