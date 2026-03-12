@@ -9379,18 +9379,37 @@ $\Delta E_{C->A} = -W_{C->A} = 366\,\mathrm{J}$
 
 # 13. 6. Carnot'scher Kreisprozess
 
-Der Carnot’sche Kreisprozess ist ein idealisierter thermodynamischer Kreisprozess mit maximal möglichem Wirkungsgrad zwischen zwei Wärmereservoiren (warm $T_H$, kalt $T_C$).
+Der Carnot’sche Kreisprozess ist ein idealisierter thermodynamischer Kreisprozess mit maximal möglichem Wirkungsgrad zwischen zwei Wärmereservoiren (warm $T_{high}$, kalt $T_{low}$).
 
-Er besteht aus __vier reversiblen__ Zustandsänderungen:
+<section class="flex-container">
 
-1. __Isotherme Expansion bei $T_H$:__ <br> Das Arbeitsmedium nimmt Wärme $Q_H$ aus dem heißen Reservoir auf und verrichtet Arbeit.
-$$T = T_H,\qquad Q_H > 0$$
+<div class="flex-child-1" style="min-width: 300px; margin-bottom: -10px">
 
-2. __Adiabatische (isentrope) Expansion:__ <br> Keine Wärmeübertragung, die Temperatur sinkt von $T_H$ auf $T_C$.
-$$Q = 0,\qquad T_H \rightarrow T_C$$
+__Vier reversible__ Zustandsänderungen:
 
-3. __Isotherme Kompression bei $T_C$:__ <br> Wärme $Q_C$ wird an das kalte Reservoir abgegeben.
-$$T = T_C,\qquad Q_C < 0$$
+1. __Isotherme Expansion bei $T_{high}$:__ <br> Das Arbeitsmedium nimmt Wärme $Q_H$ aus dem heißen Reservoir auf und verrichtet Arbeit.
+$$T = T_{high},\qquad Q_H > 0$$
 
-4. __Adiabatische (isentrope) Kompression:__ <br> Keine Wärmeübertragung, die Temperatur steigt von $T_C$ auf $T_H$.
-$$Q = 0,\qquad T_C \rightarrow T_H$$
+2. __Adiabatische (isentrope) Expansion:__ <br> Keine Wärmeübertragung, die Temperatur sinkt von $T_{high}$ auf $T_{low}$.
+$$Q = 0,\qquad T_{high} \rightarrow T_{low}$$
+
+3. __Isotherme Kompression bei $T_{low}$:__ <br> Wärme $Q_C$ wird an das kalte Reservoir abgegeben.
+$$T = T_{low},\qquad Q_C < 0$$
+
+4. __Adiabatische (isentrope) Kompression:__ <br> Keine Wärmeübertragung, die Temperatur steigt von $T_{low}$ auf $T_{high}$.
+$$Q = 0,\qquad T_{low} \rightarrow T_{high}$$
+
+
+</div>
+
+<div class="flex-child-1" style="min-width: 300px; margin-bottom: -10px">
+
+![CarnotProzess](https://diversewolken.ddns.net/nextcloud/s/o2ynFtAAY3ZH7cf/download)
+
+</div>
+
+</section>
+
+__Wirkungsgrad__
+
+$$ \eta_\text{Carnot} = 1 - \frac{T_{low}}{T_{high}}.$$
