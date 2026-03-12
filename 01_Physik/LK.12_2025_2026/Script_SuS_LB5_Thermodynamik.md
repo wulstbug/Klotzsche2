@@ -1236,9 +1236,9 @@ __C->A:__ <br> <br>
 
 @rangeQuiz2($W_{C->A}$,-366,$\mathrm{J}$)
 
-@rangeQuiz0($Q_{C->A}$,366,$\mathrm{J}$)
+@rangeQuiz2($Q_{C->A}$,366,$\mathrm{J}$)
 
-@rangeQuiz2($\Delta U_{C->A}$,0,$\mathrm{J}$)
+@rangeQuiz0($\Delta U_{C->A}$,0,$\mathrm{J}$)
 
 </p>
 

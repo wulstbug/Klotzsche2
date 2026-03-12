@@ -9309,9 +9309,9 @@ __C->A:__ <br> <br>
 
 @rangeQuiz2($W_{C\rightarrow A}$,-366,$\mathrm{J}$)
 
-@rangeQuiz0($Q_{C\rightarrow A}$,366,$\mathrm{J}$)
+@rangeQuiz2($Q_{C\rightarrow A}$,366,$\mathrm{J}$)
 
-@rangeQuiz2($\Delta U_{C\rightarrow A}$,0,$\mathrm{J}$)
+@rangeQuiz0($\Delta U_{C\rightarrow A}$,0,$\mathrm{J}$)
 
 </p>
 
