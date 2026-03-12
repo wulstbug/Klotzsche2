@@ -9307,9 +9307,9 @@ __C->A:__ <br> <br>
 <p style='margin-left:10%'>
 
 
-@rangeQuiz2($W_{C\rightarrow A}$,-366,$\mathrm{J}$)
+@rangeQuiz2($W_{C\rightarrow A}$,366,$\mathrm{J}$)
 
-@rangeQuiz2($Q_{C\rightarrow A}$,366,$\mathrm{J}$)
+@rangeQuiz2($Q_{C\rightarrow A}$,-366,$\mathrm{J}$)
 
 @rangeQuiz0($\Delta U_{C\rightarrow A}$,0,$\mathrm{J}$)
 
@@ -9351,7 +9351,7 @@ $W_{C\rightarrow A} = - \displaystyle\int_{4,4\,\mathrm{ℓ}}^{2,2\,\mathrm{ℓ}
 
 Entweder in den CAS eintippen und numerisch lösen lassen:
 
-$W_{C\rightarrow A} = - 366\,\mathrm{J}$
+$W_{C\rightarrow A} = 366\,\mathrm{J}$
 
 ---
 
@@ -9363,7 +9363,7 @@ $\Delta U_{C\rightarrow A} = 0$
 
 Aus dem ersten Hauptsatz ergibt sich dann
 
-$\Delta Q_{C\rightarrow A} = -W_{C\rightarrow A} = 366\,\mathrm{J}$
+$\Delta Q_{C\rightarrow A} = -W_{C\rightarrow A} = -366\,\mathrm{J}$
 
 </details>
 
