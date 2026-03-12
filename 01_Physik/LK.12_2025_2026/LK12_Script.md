@@ -9145,6 +9145,8 @@ $T_C=T_A=198,5\,\mathrm{K}$
 
 </section>
 
+---
+
 2. Ermitteln Sie für die beschriebenen Zustandsänderungen jeweils die Größen $\Delta U$, $W$ und $Q$.
 
 
@@ -9307,9 +9309,9 @@ __C->A:__ <br> <br>
 
 @rangeQuiz2($W_{C->A}$,-366,$\mathrm{J}$)
 
-@rangeQuiz0($Q_{C->A}$,0,$\mathrm{J}$)
+@rangeQuiz0($Q_{C->A}$,366,$\mathrm{J}$)
 
-@rangeQuiz2($\Delta U_{C->A}$,366,$\mathrm{J}$)
+@rangeQuiz2($\Delta U_{C->A}$,0,$\mathrm{J}$)
 
 </p>
 
@@ -9353,11 +9355,15 @@ $W_{C->A} = - 366\,\mathrm{J}$
 
 ---
 
-$Q_{C->A} = 0$ (keine Temperaturänderung -> isotherm, kein Wärmeaustausch mit der Umgebung)
+Da sich die Temperatur nicht ändert, ändert sich auch die Bewegungsenergie der Teilchen nicht, somit ist die Änderung der inneren Energie gleich Null.
+
+$\Delta U_{C->A} = 0$
 
 ---
 
-$\Delta E_{C->A} = -W_{C->A} = 366\,\mathrm{J}$
+Aus dem ersten Hauptsatz ergibt sich dann
+
+$\Delta Q_{C->A} = -W_{C->A} = 366\,\mathrm{J}$
 
 </details>
 
@@ -9457,7 +9463,7 @@ $T_2 = \dfrac{p_2 \cdot V_2}{n \cdot R} = 150,3 K$
 </section>
 ************
 
-# 13. 6. Carnotscher Kreisprozess
+## 13. 6. Carnotscher Kreisprozess
 
 > Der Carnotsche Kreisprozess ist ein idealisierter thermodynamischer Kreisprozess mit @color(maximal möglichem Wirkungsgrad, red) zwischen zwei Wärmereservoiren (warm $T_{high}$, kalt $T_{low}$). $$ \textbf{Wirkungsgrad:}\hspace{1cm}\boxed{\eta_\text{Carnot} = 1 - \frac{T_{low}}{T_{high}}}$$
 
