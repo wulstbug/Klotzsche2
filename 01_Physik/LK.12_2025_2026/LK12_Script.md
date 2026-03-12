@@ -9392,17 +9392,6 @@ $\Delta Q_{C\rightarrow A} = -W_{C\rightarrow A} = 366\,\mathrm{J}$
 >
 > __Achtung:__ Die Temperatur des Gases ändert sich, aber $Q=0$.
 
-{{2}}
-************
-> __Energiebetrachtung:__
->
-> $$\Delta U = W \hspace{0.5cm} \mathrm{weil\,} \hspace{0.5cm} Q=0$$
->
-> $$ W = -\displaystyle\int^{V_2}_{V_1} p(V) \,\mathrm{d}V $$
->
-> $$ W = - p_1 \cdot V_1^\kappa \cdot \displaystyle\int^{V_2}_{V_1} \dfrac{1}{V^\kappa} \,\mathrm{d}V $$
-************
-
 </div>
 
 <div class="flex-child-1" style="min-width: 300px; margin-bottom: -10px">
@@ -9413,6 +9402,20 @@ $\Delta Q_{C\rightarrow A} = -W_{C\rightarrow A} = 366\,\mathrm{J}$
 </div>
 
 </section>
+************
+
+
+{{2}}
+************
+---
+
+> __Energiebetrachtung:__
+>
+> $$\Delta U = W \hspace{0.5cm} \mathrm{weil\,} \hspace{0.5cm} Q=0$$
+>
+> $$ W = -\displaystyle\int^{V_2}_{V_1} p(V) \,\mathrm{d}V $$
+>
+> $$ W = - p_1 \cdot V_1^\kappa \cdot \displaystyle\int^{V_2}_{V_1} \dfrac{1}{V^\kappa} \,\mathrm{d}V $$
 ************
 
 {{3}}
