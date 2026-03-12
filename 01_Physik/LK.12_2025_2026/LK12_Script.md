@@ -8967,16 +8967,16 @@ __Volumenarbeit $W$:__
 
 {{1-2}}
 *********
-$W_{A->B} = $ <br> <br>
+$W_{A\rightarrow B} = $ <br> <br>
  
-$W_{B->C} = $
+$W_{B\rightarrow C} = $
 *********
 
 {{2}}
 *********
-$W_{A->B} = - p_2\cdot (V_2 - V_1) $ <br> <br>
+$W_{A\rightarrow B} = - p_2\cdot (V_2 - V_1) $ <br> <br>
  
-$W_{B->C} = 0 $
+$W_{B\rightarrow C} = 0 $
 *********
 
 {{3}}
@@ -9002,17 +9002,17 @@ __Ermitteln Sie die Volumenarbeiten:__
 
 <div class="flex-child-1" style="min-width: 300px; margin-bottom: -10px">
 
-@rangeQuiz2($W_{A->B}$,-300,$\mathrm{J}$)
+@rangeQuiz2($W_{A\rightarrow B}$,-300,$\mathrm{J}$)
 
-@rangeQuiz0($W_{B->C}$,0,$\mathrm{J}$)
+@rangeQuiz0($W_{B\rightarrow C}$,0,$\mathrm{J}$)
 
 </div>
 
 <div class="flex-child-1" style="min-width: 300px; margin-bottom: -10px; margin-left:10%">
 
-@rangeQuiz2($W_{C->D}$,150,$\mathrm{J}$)
+@rangeQuiz2($W_{C\rightarrow D}$,150,$\mathrm{J}$)
 
-@rangeQuiz0($W_{D->A}$,0,$\mathrm{J}$)
+@rangeQuiz0($W_{D\rightarrow A}$,0,$\mathrm{J}$)
 
 </div>
 
@@ -9161,11 +9161,11 @@ __A->B:__ <br> <br>
 <p style='margin-left:10%'>
 
 
-@rangeQuiz2($W_{A->B}$,-528,$\mathrm{J}$)
+@rangeQuiz2($W_{A\rightarrow B}$,-528,$\mathrm{J}$)
 
-@rangeQuiz2($Q_{A->B}$,1849,$\mathrm{J}$)
+@rangeQuiz2($Q_{A\rightarrow B}$,1849,$\mathrm{J}$)
 
-@rangeQuiz2($\Delta U_{A->B}$,1321,$\mathrm{J}$)
+@rangeQuiz2($\Delta U_{A\rightarrow B}$,1321,$\mathrm{J}$)
 
 </p>
 
@@ -9179,11 +9179,11 @@ __A->B:__ <br> <br>
 
 <summary> Lösungshinweis </summary>
 
-$W_{A->B}$: Die Volumenarbeit ist gegeben durch die Fläche unter dem Graphen (Vorzeichen beachten).
+$W_{A\rightarrow B}$: Die Volumenarbeit ist gegeben durch die Fläche unter dem Graphen (Vorzeichen beachten).
 
-$Q_{A->B}$: Die zugeführte Wärmemenge ergibt sich aus der Temperaturänderung und der spezifischen Wärmekapazität bei konstantem Druck $c_p$. 
+$Q_{A\rightarrow B}$: Die zugeführte Wärmemenge ergibt sich aus der Temperaturänderung und der spezifischen Wärmekapazität bei konstantem Druck $c_p$. 
 
-$\Delta U_{A->B}$: Ermitteln Sie die Änderung der inneren Energie aus den Werte für $Q$ und $W$.
+$\Delta U_{A\rightarrow B}$: Ermitteln Sie die Änderung der inneren Energie aus den Werte für $Q$ und $W$.
 
 </details>
 
@@ -9191,13 +9191,13 @@ $\Delta U_{A->B}$: Ermitteln Sie die Änderung der inneren Energie aus den Werte
 
 <summary> Lösung </summary>
 
-$W_{A->B} = - \displaystyle\int_{2,2\,\mathrm{ℓ}}^{4,4\,\mathrm{ℓ}} p \cdot \mathrm{d}V = - 2,4\,\mathrm{bar} \cdot (2,2\,\mathrm{ℓ})$
+$W_{A\rightarrow B} = - \displaystyle\int_{2,2\,\mathrm{ℓ}}^{4,4\,\mathrm{ℓ}} p \cdot \mathrm{d}V = - 2,4\,\mathrm{bar} \cdot (2,2\,\mathrm{ℓ})$
 
-$W_{A->B} = -528\,\mathrm{J}$
+$W_{A\rightarrow B} = -528\,\mathrm{J}$
 
 ---
 
-$Q_{A->B} = m \cdot c_p \cdot \Delta T_{A->B}$
+$Q_{A\rightarrow B} = m \cdot c_p \cdot \Delta T_{A\rightarrow B}$
 
 <p style="margin-left:5%">
 
@@ -9209,11 +9209,11 @@ $\Delta T = (396,9-198,5)\,\mathrm{K} = 198,4 \,\mathrm{K}$
 
 </p>
 
-$Q_{A->B} = 1,849\,\mathrm{kJ} = 1849\,\mathrm{J}$
+$Q_{A\rightarrow B} = 1,849\,\mathrm{kJ} = 1849\,\mathrm{J}$
 
 ---
 
-$\Delta U_{A->B} = Q_{A->B} + W_{A->B} = 1321\,\mathrm{J}$
+$\Delta U_{A\rightarrow B} = Q_{A\rightarrow B} + W_{A\rightarrow B} = 1321\,\mathrm{J}$
 
 </details>
 
@@ -9235,11 +9235,11 @@ __B->C:__ <br> <br>
 <p style='margin-left:10%'>
 
 
-@rangeQuiz0($W_{B->C}$,0,$\mathrm{J}$)
+@rangeQuiz0($W_{B\rightarrow C}$,0,$\mathrm{J}$)
 
-@rangeQuiz2($Q_{B->C}$,-1849,$\mathrm{J}$)
+@rangeQuiz2($Q_{B\rightarrow C}$,-1849,$\mathrm{J}$)
 
-@rangeQuiz2($\Delta U_{B->C}$,-1849,$\mathrm{J}$)
+@rangeQuiz2($\Delta U_{B\rightarrow C}$,-1849,$\mathrm{J}$)
 
 </p>
 
@@ -9253,11 +9253,11 @@ __B->C:__ <br> <br>
 
 <summary> Lösungshinweis </summary>
 
-$W_{B->C}$: Die Volumenarbeit ist gegeben durch die Fläche unter dem Graphen (Vorzeichen beachten).
+$W_{B\rightarrow C}$: Die Volumenarbeit ist gegeben durch die Fläche unter dem Graphen (Vorzeichen beachten).
 
-$Q_{B->C}$: Die zugeführte Wärmemenge ergibt sich aus der Temperaturänderung und der spezifischen Wärmekapazität bei konstantem Druck $c_p$. 
+$Q_{B\rightarrow C}$: Die zugeführte Wärmemenge ergibt sich aus der Temperaturänderung und der spezifischen Wärmekapazität bei konstantem Druck $c_p$. 
 
-$\Delta U_{B->C}$: Ermitteln Sie die Änderung der inneren Energie aus den Werte für $Q$ und $W$.
+$\Delta U_{B\rightarrow C}$: Ermitteln Sie die Änderung der inneren Energie aus den Werte für $Q$ und $W$.
 
 </details>
 
@@ -9265,11 +9265,11 @@ $\Delta U_{B->C}$: Ermitteln Sie die Änderung der inneren Energie aus den Werte
 
 <summary> Lösung </summary>
 
-$W_{B->C} = 0 $ (keine Volumenänderung, keine Volumenarbeit)
+$W_{B\rightarrow C} = 0 $ (keine Volumenänderung, keine Volumenarbeit)
 
 ---
 
-$Q_{B->C} = m \cdot c_p \cdot \Delta T_{B->C}$
+$Q_{B\rightarrow C} = m \cdot c_p \cdot \Delta T_{B\rightarrow C}$
 
 <p style="margin-left:5%">
 
@@ -9281,11 +9281,11 @@ $\Delta T = (198,5-396,9)\,\mathrm{K} = -198,4 \,\mathrm{K}$
 
 </p>
 
-$Q_{B->C} = -1849\,\mathrm{J}$
+$Q_{B\rightarrow C} = -1849\,\mathrm{J}$
 
 ---
 
-$\Delta U_{B->C} = Q_{B->C} + W_{B->C} = -1849\,\mathrm{J}$
+$\Delta U_{B\rightarrow C} = Q_{B\rightarrow C} + W_{B\rightarrow C} = -1849\,\mathrm{J}$
 
 </details>
 
@@ -9307,11 +9307,11 @@ __C->A:__ <br> <br>
 <p style='margin-left:10%'>
 
 
-@rangeQuiz2($W_{C->A}$,-366,$\mathrm{J}$)
+@rangeQuiz2($W_{C\rightarrow A}$,-366,$\mathrm{J}$)
 
-@rangeQuiz0($Q_{C->A}$,366,$\mathrm{J}$)
+@rangeQuiz0($Q_{C\rightarrow A}$,366,$\mathrm{J}$)
 
-@rangeQuiz2($\Delta U_{C->A}$,0,$\mathrm{J}$)
+@rangeQuiz2($\Delta U_{C\rightarrow A}$,0,$\mathrm{J}$)
 
 </p>
 
@@ -9325,11 +9325,11 @@ __C->A:__ <br> <br>
 
 <summary> Lösungshinweis </summary>
 
-$W_{C->A}$: Die Volumenarbeit ist gegeben durch die Fläche unter dem Graphen (Vorzeichen beachten). Hier muss aus der isothermen Bedingung $p\cdot V=konst$ ein Ausdruck für $p(V)$ gefunden werden und dieser dann in das Integral eingesetzt werden.
+$W_{C\rightarrow A}$: Die Volumenarbeit ist gegeben durch die Fläche unter dem Graphen (Vorzeichen beachten). Hier muss aus der isothermen Bedingung $p\cdot V=konst$ ein Ausdruck für $p(V)$ gefunden werden und dieser dann in das Integral eingesetzt werden.
 
-$Q_{C->A}$: Die zugeführte Wärmemenge ergibt sich aus der Temperaturänderung und der spezifischen Wärmekapazität bei konstantem Druck $c_p$. 
+$Q_{C\rightarrow A}$: Die zugeführte Wärmemenge ergibt sich aus der Temperaturänderung und der spezifischen Wärmekapazität bei konstantem Druck $c_p$. 
 
-$\Delta U_{C->A}$: Ermitteln Sie die Änderung der inneren Energie aus den Werte für $Q$ und $W$.
+$\Delta U_{C\rightarrow A}$: Ermitteln Sie die Änderung der inneren Energie aus den Werte für $Q$ und $W$.
 
 </details>
 
@@ -9337,7 +9337,7 @@ $\Delta U_{C->A}$: Ermitteln Sie die Änderung der inneren Energie aus den Werte
 
 <summary> Lösung </summary>
 
-$W_{C->A} = - \displaystyle\int_{4,4\,\mathrm{ℓ}}^{2,2\,\mathrm{ℓ}} p(V) \cdot \mathrm{d}V $
+$W_{C\rightarrow A} = - \displaystyle\int_{4,4\,\mathrm{ℓ}}^{2,2\,\mathrm{ℓ}} p(V) \cdot \mathrm{d}V $
 
 Für eine isotherme Zuständsänderung gilt: $ p \cdot V = const $.
 
@@ -9347,23 +9347,23 @@ $p(V) = p_C \cdot V_C \cdot \dfrac{1}{V}$
 
 ansetzen. Es ergibt sich
 
-$W_{C->A} = - \displaystyle\int_{4,4\,\mathrm{ℓ}}^{2,2\,\mathrm{ℓ}} p_C \cdot V_C \cdot \dfrac{1}{V} \cdot \mathrm{d}V $
+$W_{C\rightarrow A} = - \displaystyle\int_{4,4\,\mathrm{ℓ}}^{2,2\,\mathrm{ℓ}} p_C \cdot V_C \cdot \dfrac{1}{V} \cdot \mathrm{d}V $
 
 Entweder in den CAS eintippen und numerisch lösen lassen:
 
-$W_{C->A} = - 366\,\mathrm{J}$
+$W_{C\rightarrow A} = - 366\,\mathrm{J}$
 
 ---
 
 Da sich die Temperatur nicht ändert, ändert sich auch die Bewegungsenergie der Teilchen nicht, somit ist die Änderung der inneren Energie gleich Null.
 
-$\Delta U_{C->A} = 0$
+$\Delta U_{C\rightarrow A} = 0$
 
 ---
 
 Aus dem ersten Hauptsatz ergibt sich dann
 
-$\Delta Q_{C->A} = -W_{C->A} = 366\,\mathrm{J}$
+$\Delta Q_{C\rightarrow A} = -W_{C\rightarrow A} = 366\,\mathrm{J}$
 
 </details>
 
