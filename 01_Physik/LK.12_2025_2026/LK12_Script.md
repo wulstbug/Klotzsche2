@@ -9368,7 +9368,7 @@ $\Delta E_{C->A} = -W_{C->A} = 366\,\mathrm{J}$
 
 ## 13. 5. Adiabatische Zustandsänderungen
 
-> Viele Zuständsänderungen von Gasen laufen __so schnell__ ab, dass für einen Wärmeaustausch mit der Umgebung keine Zeit ist. Einen Vorgang ohne Wärmeaustausch mit der Umgebung nennt man @color(adiabatisch, red).
+> Viele Zuständsänderungen von Gasen laufen __so schnell__ ab, dass für einen Wärmeaustausch mit der Umgebung keine Zeit ist. Einen Vorgang ohne Wärmeaustausch mit der Umgebung nennt man @color(adiabatisch, red), d.h. $$ \boxed{Q = 0} $$
 
 <section class="flex-container">
 
@@ -9378,7 +9378,19 @@ $\Delta E_{C->A} = -W_{C->A} = 366\,\mathrm{J}$
 >
 > $$ \boxed{p \cdot V^\kappa = const.} $$
 >
-> wobei $\kappa = \dfrac{c_p}{c_V}$ als @color(Adiabatenexponent, red) definiert ist
+> wobei $\kappa = \dfrac{c_p}{c_V}$ als @color(Adiabatenexponent, red) definiert ist.
+>
+> Für ideale einatomige Gase gilt $\kappa=\frac{5}{3}$, für zweiatomige Gase ist $\kappa=\frac{7}{5}$.
+>
+> __Achtung:__ Die Temperatur des Gases ändert sich, aber $Q=0$.
+
+> __Energiebetrachtung:__
+>
+> $$\Delta U = W \hspace{0.5cm} \mathrm{weil\,} \hspace{0.5cm} Q=0$$
+>
+> $$ W = -\displaystyle\int^{V_2}_{V_1} p(V) \,\mathrm{d}V $$
+>
+> $$ W = - p_1 \cdot V_1^\kappa \cdot \displaystyle\int^{V_2}_{V_1} \dfrac{1}{V^\kappa} \,\mathrm{d}V $$
 
 </div>
 
@@ -9389,6 +9401,10 @@ $\Delta E_{C->A} = -W_{C->A} = 366\,\mathrm{J}$
 </div>
 
 </section>
+
+---
+
+__Beispiel:__ 
 
 # 13. 6. Carnot'scher Kreisprozess
 
