@@ -9368,8 +9368,11 @@ $\Delta E_{C->A} = -W_{C->A} = 366\,\mathrm{J}$
 
 ## 13. 5. Adiabatische Zustandsänderungen
 
-> Viele Zuständsänderungen von Gasen laufen __so schnell__ ab, dass für einen Wärmeaustausch mit der Umgebung keine Zeit ist. Einen Vorgang ohne Wärmeaustausch mit der Umgebung nennt man @color(adiabatisch, red), d.h. $$ \boxed{Q = 0} $$
+> Viele Zuständsänderungen von Gasen laufen __so schnell oder gut isoliert__ ab, dass für einen Wärmeaustausch mit der Umgebung keine Zeit ist. Einen Vorgang ohne Wärmeaustausch mit der Umgebung nennt man @color(adiabatisch, red), d.h. $$ \boxed{Q = 0} $$
 
+
+{{1}}
+************
 <section class="flex-container">
 
 <div class="flex-child-1" style="min-width: 300px; margin-bottom: -10px">
@@ -9379,7 +9382,6 @@ $\Delta E_{C->A} = -W_{C->A} = 366\,\mathrm{J}$
 > $$ \boxed{p \cdot V^\kappa = const.} $$
 >
 > wobei $\kappa = \dfrac{c_p}{c_V}$ als @color(Adiabatenexponent, red) definiert ist.
->
 > Für ideale einatomige Gase gilt $\kappa=\frac{5}{3}$, für zweiatomige Gase ist $\kappa=\frac{7}{5}$.
 >
 > __Achtung:__ Die Temperatur des Gases ändert sich, aber $Q=0$.
@@ -9395,20 +9397,69 @@ $\Delta E_{C->A} = -W_{C->A} = 366\,\mathrm{J}$
 </div>
 
 <div class="flex-child-1" style="min-width: 300px; margin-bottom: -10px">
-
+{{1}}
+************
 ![Adiabate](https://diversewolken.ddns.net/nextcloud/s/XSQyMaokoLDqY7q/download)
+************
+</div>
+
+</section>
+************
+
+{{2}}
+************
+---
+
+__Beispiel:__ $0,32\,\mathrm{mol}$ Stickstoff ($N_2$) nehmen bei einem Druck von $2,4\,\mathrm{bar}$ ein Volumen von $2,2\,\mathrm{ℓ}$ ein (1). Dann durchläuft das Gas eine adiabatische Zustandsänderung zu einem Volumen von $4,4\,\mathrm{ℓ}$ (2). Ermitteln Sie die Volumenarbeit $W$. Ermitteln Sie die Temperatur $T_2$, sowie den Druck $p_2$.
+
+<section class="flex-container">
+
+<div class="flex-child-1" style="min-width: 300px; margin-bottom: -10px">
+
+<p style='margin-left:10%'>
+
+@rangeQuiz2($W$,-319.6,$\mathrm{J}$)
+
+@rangeQuiz2($p_2$,0.90943,$\mathrm{bar}$)
+
+@rangeQuiz2($T_2$,150.3,$\mathrm{K}$)
+
+</p>
+
+</div>
+
+<div class="flex-child-1" style="min-width: 300px; margin-bottom: -10px">
+
+<details style='color:blue;margin-left:10%'>
+
+<summary> Lösung </summary>
+
+$\kappa=\frac{7}{5}$
+
+CAS -> Integral zur Berechnung der Volumenarbeit ermitteln.
+
+$W = -319,6\,\mathrm{J}$
+
+Der Druck $p_2$ ergibt sich mit Hilfe der Gleichung für die adiabatische Zustandsänderung:
+
+$p_1 \cdot V_1^\kappa = p_2 \cdot V_2^\kappa$
+
+$p_2 = \dfrac{p_1 \cdot V_1^\kappa}{V_2^\kappa} = 90,9\,\mathrm{kPa} = 0,909\,mathrm{bar}$
+
+Die Temperatur $T_2$ ergibt sich auch der idealen Gasgleichung
+
+$T_2 = \dfrac{p_2 \cdot V_2}{n \cdot R} = 150,3 K$
+
+</details>
 
 </div>
 
 </section>
+************
 
----
+# 13. 6. Carnotscher Kreisprozess
 
-__Beispiel:__ 
-
-# 13. 6. Carnot'scher Kreisprozess
-
-> Der Carnot’sche Kreisprozess ist ein idealisierter thermodynamischer Kreisprozess mit maximal möglichem Wirkungsgrad zwischen zwei Wärmereservoiren (warm $T_{high}$, kalt $T_{low}$).
+> Der Carnotsche Kreisprozess ist ein idealisierter thermodynamischer Kreisprozess mit @color(maximal möglichem Wirkungsgrad, red) zwischen zwei Wärmereservoiren (warm $T_{high}$, kalt $T_{low}$). $$ \textbf{Wirkungsgrad:}\hspace{1cm}\boxed{\eta_\text{Carnot} = 1 - \frac{T_{low}}{T_{high}}}$$
 
 ---
 
@@ -9436,9 +9487,3 @@ __Vier reversible__ Zustandsänderungen:
 </div>
 
 </section>
-
----
-
->__Wirkungsgrad__
->
->$$ \eta_\text{Carnot} = 1 - \frac{T_{low}}{T_{high}}.$$
