@@ -1327,6 +1327,8 @@ $\Delta Q_{C->A} = -W_{C->A} = 366\,\mathrm{J}$
 
 </section>
 
+---
+
 > __Energiebetrachtung:__
 >
 > $$\Delta U = W \hspace{0.5cm} \mathrm{weil\,} \hspace{0.5cm} Q=0$$
