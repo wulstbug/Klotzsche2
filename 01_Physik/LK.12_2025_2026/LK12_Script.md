@@ -9369,17 +9369,32 @@ $\Delta E_{C->A} = -W_{C->A} = 366\,\mathrm{J}$
 ## 13. 5. Adiabatische Zustandsänderungen
 
 > Viele Zuständsänderungen von Gasen laufen __so schnell__ ab, dass für einen Wärmeaustausch mit der Umgebung keine Zeit ist. Einen Vorgang ohne Wärmeaustausch mit der Umgebung nennt man @color(adiabatisch, red).
->
+
+<section class="flex-container">
+
+<div class="flex-child-1" style="min-width: 300px; margin-bottom: -10px">
+
 > Für eine @color(adiabatische Zustandsänderung, red) gilt:
 >
 > $$ \boxed{p \cdot V^\kappa = const.} $$
 >
 > wobei $\kappa = \dfrac{c_p}{c_V}$ als @color(Adiabatenexponent, red) definiert ist
 
+</div>
+
+<div class="flex-child-1" style="min-width: 300px; margin-bottom: -10px">
+
+![Adiabate](https://diversewolken.ddns.net/nextcloud/s/XSQyMaokoLDqY7q/download)
+
+</div>
+
+</section>
 
 # 13. 6. Carnot'scher Kreisprozess
 
-Der Carnot’sche Kreisprozess ist ein idealisierter thermodynamischer Kreisprozess mit maximal möglichem Wirkungsgrad zwischen zwei Wärmereservoiren (warm $T_{high}$, kalt $T_{low}$).
+> Der Carnot’sche Kreisprozess ist ein idealisierter thermodynamischer Kreisprozess mit maximal möglichem Wirkungsgrad zwischen zwei Wärmereservoiren (warm $T_{high}$, kalt $T_{low}$).
+
+---
 
 <section class="flex-container">
 
@@ -9388,16 +9403,12 @@ Der Carnot’sche Kreisprozess ist ein idealisierter thermodynamischer Kreisproz
 __Vier reversible__ Zustandsänderungen:
 
 1. __Isotherme Expansion bei $T_{high}$:__ <br> Das Arbeitsmedium nimmt Wärme $Q_H$ aus dem heißen Reservoir auf und verrichtet Arbeit.
-$$T = T_{high},\qquad Q_H > 0$$
 
 2. __Adiabatische (isentrope) Expansion:__ <br> Keine Wärmeübertragung, die Temperatur sinkt von $T_{high}$ auf $T_{low}$.
-$$Q = 0,\qquad T_{high} \rightarrow T_{low}$$
 
 3. __Isotherme Kompression bei $T_{low}$:__ <br> Wärme $Q_C$ wird an das kalte Reservoir abgegeben.
-$$T = T_{low},\qquad Q_C < 0$$
 
 4. __Adiabatische (isentrope) Kompression:__ <br> Keine Wärmeübertragung, die Temperatur steigt von $T_{low}$ auf $T_{high}$.
-$$Q = 0,\qquad T_{low} \rightarrow T_{high}$$
 
 
 </div>
@@ -9410,6 +9421,8 @@ $$Q = 0,\qquad T_{low} \rightarrow T_{high}$$
 
 </section>
 
-__Wirkungsgrad__
+---
 
-$$ \eta_\text{Carnot} = 1 - \frac{T_{low}}{T_{high}}.$$
+>__Wirkungsgrad__
+>
+>$$ \eta_\text{Carnot} = 1 - \frac{T_{low}}{T_{high}}.$$
