@@ -1317,14 +1317,6 @@ $\Delta Q_{C->A} = -W_{C->A} = 366\,\mathrm{J}$
 >
 > __Achtung:__ Die Temperatur des Gases ändert sich, aber $Q=0$.
 
-> __Energiebetrachtung:__
->
-> $$\Delta U = W \hspace{0.5cm} \mathrm{weil\,} \hspace{0.5cm} Q=0$$
->
-> $$ W = -\displaystyle\int^{V_2}_{V_1} p(V) \,\mathrm{d}V $$
->
-> $$ W = - p_1 \cdot V_1^\kappa \cdot \displaystyle\int^{V_2}_{V_1} \dfrac{1}{V^\kappa} \,\mathrm{d}V $$
-
 </div>
 
 <div class="flex-child-1" style="min-width: 300px; margin-bottom: -10px">
@@ -1334,6 +1326,14 @@ $\Delta Q_{C->A} = -W_{C->A} = 366\,\mathrm{J}$
 </div>
 
 </section>
+
+> __Energiebetrachtung:__
+>
+> $$\Delta U = W \hspace{0.5cm} \mathrm{weil\,} \hspace{0.5cm} Q=0$$
+>
+> $$ W = -\displaystyle\int^{V_2}_{V_1} p(V) \,\mathrm{d}V $$
+>
+> $$ W = - p_1 \cdot V_1^\kappa \cdot \displaystyle\int^{V_2}_{V_1} \dfrac{1}{V^\kappa} \,\mathrm{d}V $$
 
 ---
 
@@ -1371,7 +1371,7 @@ Der Druck $p_2$ ergibt sich mit Hilfe der Gleichung für die adiabatische Zustan
 
 $p_1 \cdot V_1^\kappa = p_2 \cdot V_2^\kappa$
 
-$p_2 = \dfrac{p_1 \cdot V_1^\kappa}{V_2^\kappa} = 90,9\,\mathrm{kPa} = 0,909\,mathrm{bar}$
+$p_2 = \dfrac{p_1 \cdot V_1^\kappa}{V_2^\kappa} = 90,9\,\mathrm{kPa} = 0,909\,\mathrm{bar}$
 
 Die Temperatur $T_2$ ergibt sich auch der idealen Gasgleichung
 

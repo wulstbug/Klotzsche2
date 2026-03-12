@@ -9450,7 +9450,7 @@ Der Druck $p_2$ ergibt sich mit Hilfe der Gleichung für die adiabatische Zustan
 
 $p_1 \cdot V_1^\kappa = p_2 \cdot V_2^\kappa$
 
-$p_2 = \dfrac{p_1 \cdot V_1^\kappa}{V_2^\kappa} = 90,9\,\mathrm{kPa} = 0,909\,mathrm{bar}$
+$p_2 = \dfrac{p_1 \cdot V_1^\kappa}{V_2^\kappa} = 90,9\,\mathrm{kPa} = 0,909\,\mathrm{bar}$
 
 Die Temperatur $T_2$ ergibt sich auch der idealen Gasgleichung
 
