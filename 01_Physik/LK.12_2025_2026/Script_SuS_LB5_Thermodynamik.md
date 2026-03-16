@@ -1415,3 +1415,127 @@ __Vier reversible__ Zustandsänderungen:
 </div>
 
 </section>
+
+
+#### Aufgabe: Der Carnot-Wirkungsgrad
+
+Carnot-Prozess eines idealen Gases
+
+<section class="flex-container">
+
+<div class="flex-child-1" style="min-width: 300px; margin-bottom: -10px">
+
+Die obere Isotherme mit $T_1 = 500 \text{ K}$ des Carnot-Prozesses eines idealen Gases ($\kappa = 1,4$) verläuft zwischen den Zuständen $p_1 = 8 \text{ bar}$, $V_1 = 2 \text{ m}^3$ und $p_2 = 4 \text{ bar}$, $V_2 = 4 \text{ m}^3$.
+
+Zu berechnen sind:
+
+1. Die Zustandsgrößen $p_3, V_3$ und $p_4, V_4$ am Ende der adiabatischen Expansion bzw. Kompression, wenn die untere Temperatur $T_3 = 350 \text{ K}$ beträgt.
+
+2. Die ausgetauschten Wärmemengen $Q_1$ (zugeführt) und $Q_2$ (abgeführt) 
+
+3. Der thermische Wirkungsgrad $\eta$ 
+
+</div>
+
+<div class="flex-child-1" style="min-width: 300px; margin-bottom: -10px">
+
+![CarnotKreisprozess](https://physikaufgaben.de/bild/a479_1.jpg)
+
+</div>
+
+</section>
+
+---
+
+1. Berechnung der Zustandsgrößen
+
+<p style="margin-left:10%">
+
+Ermitteln Sie zunächst die Volumina $V_3$ und $V_4$ sowie die zugehörigen Drücke.
+
+@rangeQuiz2( $V_3$ , 9.78, $\mathrm{m^3}$ )
+
+@rangeQuiz2( $p_3$ , 1.15e5, $\mathrm{Pa}$ )
+
+@rangeQuiz2( $V_4$ , 4.88, $\mathrm{m^3}$ )
+
+@rangeQuiz2( $p_4$ , 2.3e5, $\mathrm{Pa}$ )
+
+<details style="margin-left:0%;color:blue">
+<summary>Lösungsweg</summary>
+
+**1. Adiabatische Expansion (Zustand 2 zu 3):**
+Da der Übergang adiabatisch ist, gilt die Adiabatengleichung:
+$T_2 \cdot V_2^{\kappa-1} = T_3 \cdot V_3^{\kappa-1}$
+Umgestellt nach $V_3$:
+$V_3 = V_2 \cdot \left(\frac{T_2}{T_3}\right)^{\frac{1}{\kappa-1}} = 4 \text{ m}^3 \cdot \left(\frac{500 \text{ K}}{350 \text{ K}}\right)^{\frac{1}{0,4}}$
+$V_3 \approx 4 \cdot (1,428)^{2,5} \approx \mathbf{9,78 \text{ m}^3}$
+
+---
+
+Den Druck $p_3$ erhält man über die thermische Zustandsgleichung ($p \cdot V / T = const.$):
+$p_3 = p_2 \cdot \frac{V_2}{V_3} \cdot \frac{T_3}{T_2} = 4 \text{ bar} \cdot \frac{4}{9,78} \cdot \frac{350}{500} \approx \mathbf{1,15 \text{ bar}}$
+
+---
+
+**2. Adiabatische Kompression (Zustand 4 zu 1):**
+Analog gilt für $V_4$:
+$V_4 = V_1 \cdot \left(\frac{T_1}{T_4}\right)^{\frac{1}{\kappa-1}} = 2 \text{ m}^3 \cdot \left(\frac{500 \text{ K}}{350 \text{ K}}\right)^{2,5} \approx \mathbf{4,88 \text{ m}^3}$
+$p_4 = p_1 \cdot \frac{V_1}{V_4} \cdot \frac{T_4}{T_1} = 8 \text{ bar} \cdot \frac{2}{4,88} \cdot \frac{350}{500} \approx \mathbf{2,30 \text{ bar}}$
+
+</details>
+
+</p>
+
+---
+
+2. Wärmemengen
+
+<p style="margin-left:10%">
+
+Berechnen Sie die zugeführte Wärme $Q_1$ (isotherme Expansion) und die abgeführte Wärme $Q_2$ (isotherme Kompression).
+
+@rangeQuiz2( $Q_1$ , 1.11, $\mathrm{MJ}$ )
+
+@rangeQuiz2( $Q_2$ , -0.78, $\mathrm{MJ}$ )
+
+<details style="margin-left:0%;color:blue">
+<summary>Lösungsweg</summary>
+
+Bei einer isothermen Zustandsänderung entspricht die Wärme der verrichteten Volumenarbeit:
+$Q = p \cdot V \cdot \ln\left(\frac{V_{ende}}{V_{anfang}}\right)$
+
+**Zugeführte Wärme $Q_1$ (1 zu 2):**
+$Q_1 = 8 \cdot 10^5 \text{ Pa} \cdot 2 \text{ m}^3 \cdot \ln\left(\frac{4}{2}\right) \approx 1,11 \cdot 10^6 \text{ J} = \mathbf{1,11 \text{ MJ}}$
+
+**Abgeführte Wärme $Q_2$ (3 zu 4):**
+$Q_2 = p_3 \cdot V_3 \cdot \ln\left(\frac{V_4}{V_3}\right) = 1,15 \cdot 10^5 \text{ Pa} \cdot 9,76 \text{ m}^3 \cdot \ln\left(\frac{4,88}{9,76}\right)$
+$Q_2 \approx 11,22 \cdot 10^5 \text{ J} \cdot (-0,693) \approx \mathbf{-0,78 \text{ MJ}}$
+
+</details>
+
+</p>
+
+---
+
+3. Thermischer Wirkungsgrad
+
+<p style="margin-left:10%">
+
+Bestimmen Sie den Wirkungsgrad $\eta$ des Prozesses.
+
+@rangeQuiz2( $\eta$ , 0.3, )
+
+<details style="margin-left:0%;color:blue">
+<summary>Lösungsweg</summary>
+
+Für den idealen Carnot-Prozess hängt der Wirkungsgrad nur von den Temperaturen ab:
+$\eta = 1 - \frac{T_{niedrig}}{T_{hoch}}$
+$\eta = 1 - \frac{350 \text{ K}}{500 \text{ K}} = 1 - 0,7 = \mathbf{0,3}$
+
+Alternativ über die Wärmemengen:
+$\eta = \frac{Q_1 + Q_2}{Q_1} = \frac{1,11 \text{ MJ} - 0,78 \text{ MJ}}{1,11 \text{ MJ}} \approx 0,3$
+
+</details>
+
+</p>
