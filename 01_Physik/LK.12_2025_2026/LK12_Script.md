@@ -9668,6 +9668,7 @@ $\eta = \frac{Q_1 + Q_2}{Q_1} = \frac{1,11 \text{ MJ} - 0,78 \text{ MJ}}{1,11 \t
      data-xlabel="Bewertung"
      data-ylabel="Note"
      data-transpose
+     data-ylim="0,15"
 -->
 |	|LK1	|KA1	|KA2	|LK2	|KA3	|KA4 | EX2 | LK3 | KA5 | EX3 | KA6 | LK4 | VA |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |  :---: |  :---: | :---: |  :---: |  :---: |
