@@ -9499,3 +9499,46 @@ __Vier reversible__ Zustandsänderungen:
 </div>
 
 </section>
+
+#### Abituraufgabe: Der Carnot-Wirkungsgrad
+
+Eine Wärmekraftmaschine arbeitet als idealisierter Carnot-Prozess zwischen zwei Wärmereservoirs. In einem spezifischen Betriebszyklus wird das Gas zwischen den Temperaturen $T_{hoch} = 630 \, \text{K}$ und $T_{niedrig} = 330 \, \text{K}$ betrieben.
+
+Gemäß dem zweiten Hauptsatz der Thermodynamik kann keine Wärmekraftmaschine einen höheren Wirkungsgrad erzielen als eine Maschine, die nach dem idealen **Carnot-Prozess** arbeitet.
+
+---
+
+1. Berechnung des maximalen Wirkungsgrads__
+
+<p style="margin-left:10%">
+
+Geben Sie den maximal möglichen Wirkungsgrad $\eta_{max}$ (Carnot-Wirkungsgrad) an, den eine Wärmekraftmaschine zwischen diesen beiden Temperaturen erreichen kann.
+
+@rangeQuiz2( $\eta_{max}$ , 0.476, )
+
+<details style="margin-left:10%;color:blue">
+<summary>Lösungsweg</summary>
+
+Der maximal mögliche Wirkungsgrad einer Wärmekraftmaschine ist der Carnot-Wirkungsgrad. Dieser hängt ausschließlich von den absoluten Temperaturen des heißen Reservoirs ($T_{hoch}$) und des kalten Reservoirs ($T_{niedrig}$) ab.
+
+Die Formel lautet:
+$\eta_{max} = \frac{T_{hoch} - T_{niedrig}}{T_{hoch}}$ oder $\eta_{max} = 1 - \frac{T_{niedrig}}{T_{hoch}}$
+
+Setzen Sie die gegebenen Werte $T_{hoch} = 630 \, \text{K}$ und $T_{niedrig} = 330 \, \text{K}$ ein.
+
+</details>
+
+<details style="margin-left:10%;color:blue">
+<summary>Lösung</summary>
+
+Gegeben: $T_{hoch} = 630 \, \text{K}$; $T_{niedrig} = 330 \, \text{K}$
+
+$\eta_{max} = 1 - \frac{330 \, \text{K}}{630 \, \text{K}}$
+$\eta_{max} = 1 - 0,5238...$
+$\mathbf{\eta_{max} \approx 0,476}$
+
+Der maximal mögliche Wirkungsgrad (Carnot-Wirkungsgrad) beträgt ca. **$47,6 \%$** .
+
+</details>
+
+</p>
