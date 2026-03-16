@@ -9522,7 +9522,7 @@ Zu berechnen sind:
 
 <div class="flex-child-1" style="min-width: 300px; margin-bottom: -10px">
 
-![CarnotKreisprozess](https://physikaufgaben.de/bild/a479_1.jpg/download)
+![CarnotKreisprozess](https://physikaufgaben.de/bild/a479_1.jpg)
 
 </div>
 
