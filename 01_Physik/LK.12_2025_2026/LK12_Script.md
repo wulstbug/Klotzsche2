@@ -9508,7 +9508,7 @@ Gemäß dem zweiten Hauptsatz der Thermodynamik kann keine Wärmekraftmaschine e
 
 ---
 
-1. Berechnung des maximalen Wirkungsgrads__
+1. Berechnung des maximalen Wirkungsgrads
 
 <p style="margin-left:10%">
 
