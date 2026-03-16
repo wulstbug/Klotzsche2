@@ -9500,7 +9500,7 @@ __Vier reversible__ Zustandsänderungen:
 
 </section>
 
-#### Aufgabe: Der Carnot-Wirkungsgrad
+#### Aufgabe: Der Carnot-Kreisprozess
 
 Carnot-Prozess eines idealen Gases
 
@@ -9622,3 +9622,4 @@ $\eta = \frac{Q_1 + Q_2}{Q_1} = \frac{1,11 \text{ MJ} - 0,78 \text{ MJ}}{1,11 \t
 </details>
 
 </p>
+

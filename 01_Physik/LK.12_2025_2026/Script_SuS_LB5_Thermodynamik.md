@@ -1417,7 +1417,7 @@ __Vier reversible__ Zustandsänderungen:
 </section>
 
 
-#### Aufgabe: Der Carnot-Wirkungsgrad
+#### Aufgabe: Der Carnot-Kreisprozess
 
 Carnot-Prozess eines idealen Gases
 
