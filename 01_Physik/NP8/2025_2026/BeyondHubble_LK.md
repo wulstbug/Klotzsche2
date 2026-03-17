@@ -680,7 +680,9 @@ __Aufgabe:__ Analysiere mit Hilfe des Bildes an der Tafel und die Elemente des A
 
 ## Arte-Doku James Webb
 
-!?[ArteDokuJamesWebb](https://www.youtube.com/watch?v=Jb48AM77YFw)
+??[ArteDokuJamesWebb](https://www.arte.tv/de/videos/114577-000-A/das-james-webb-teleskop-erste-erkenntnisse-aus-dem-all/)
+
+-> Astronomische Bilder 18:40
 
 # Wiederholung Linsenabbildungen
 
