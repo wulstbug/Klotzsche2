@@ -9688,3 +9688,37 @@ $\eta = \frac{Q_1 + Q_2}{Q_1} = \frac{1,11 \text{ MJ} - 0,78 \text{ MJ}}{1,11 \t
 |15	|9	|12	|6	|8	|3	|9 | 10 | 5 |  7| 11 |  12| 6| 5|
 
 *************
+
+## 13. 7. Der Stirling-Motor
+
+> Der Stirling-Motor ist eine __Wärmekraftmaschine__ mit geschlossenem Arbeitsgas (He, Luft). Zugeführte thermische Energie wird in mechanische Energie umgewandelt.
+
+
+{{1-2}}
+**********
+!?[Stirling-Youtube](https://www.youtube.com/watch?v=zHO2lnwB9gY)
+**********
+
+{{2}}
+**********
+<section class="flex-container">
+
+<div class="flex-child-1" style="min-width: 300px; margin-bottom: -10px">
+
+__Idealisierter Stirling-Kreisprozess:__
+
+1. __Isotherme Expansion__ am heißen Ende: Gas nimmt Wärme auf und leistet Arbeit.
+2. __Isochore Abkühlung__ über den Regenerator: Gas gibt Wärme an den Regenerator ab.
+3. __Isotherme Kompression__ am kalten Ende: Gas wird zusammengepresst und gibt Wärme ab.
+4. __Isochore Erwärmung__ über den Regenerator: Gas nimmt die gespeicherte Wärme wieder auf.
+
+</div>
+
+<div class="flex-child-1" style="min-width: 300px; margin-bottom: -10px">
+
+![](/download)
+
+</div>
+
+</section>
+**********
