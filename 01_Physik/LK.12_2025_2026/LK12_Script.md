@@ -9774,4 +9774,120 @@ __Zustandsänderung für ein geschlossenes System__
 | 1. Hauptsatz | $$W=0$$ $$\Rightarrow Q=\Delta U$$ | $$\Delta U=Q+W$$ | $$\Delta U = 0$$ $$\Rightarrow Q = - W $$ | $$Q=0$$ $$\Delta U = W$$ |
 | Beziehungen | $$\dfrac{p}{T}=\text{konst.}$$  | $$\frac{V}{T}=\text{konst.} $$ | $$p \cdot V = \text{konst.} $$| $$p\cdot V^{\kappa}=\text{konst.}$$ $$T\cdot V^{\kappa-1}=\text{konst}$$|
 | Wärmemenge | $$Q=c_v\cdot m\cdot \Delta T$$| $$Q=c_p\cdot m\cdot \Delta T$$ | $$Q=-W$$ | $$Q=0$$ |
-| Volumentarbeit | $$W=0$$ | $$W=-p\,(V_2-V_1)$$ | $$W=-p_1\cdot V_1\displaystyle\int_{V_1}^{V_2} \frac{1}{V}\,\mathrm{d}V$$ $$W=-p_1\cdot V_1 \cdot \ln\left(\frac{V_2}{V_1}\right)$$ | $$ W= -p_1\cdot V_1\displaystyle\int_{V_1}^{V_2} \frac{1}{V^\kappa}\,\mathrm{d}V$$ $$W=c_v\,m\,(T_2-T_1)$$ |
+| Volumentarbeit | $$W=0$$ | $$W=-p\,(V_2-V_1)$$ | $$W=-p_1\cdot V_1\displaystyle\int_{V_1}^{V_2} \frac{1}{V}\,\mathrm{d}V$$ $$W=-p_1\cdot V_1 \cdot \ln\left(\frac{V_2}{V_1}\right)$$ | $$ W= -p_1\cdot V_1\displaystyle\int_{V_1}^{V_2} \frac{1}{V^\kappa}\,\mathrm{d}V$$ |
+
+### Übungsaufgabe Stirling-Prozess
+
+1. ![Stirling](https://physikaufgaben.de/bild/a981_1.jpg) Die Abbildung zeigt das p(V)-Diagramm eines Stirling'schen Kreisprozesses. Welches V(T)-Diagramm passt zu diesem Kreisprozess?
+
+<p style="margin-left:10%">
+
+![Stirling1](https://physikaufgaben.de/bild/a981_2.jpg)
+
+- [[X]] A
+- [[ ]] B
+- [[ ]] C
+
+</p>
+
+---
+
+2. Die Arbeitsweise einer Wärmekraftmaschine wird durch einen Stirling’schen Kreisprozess idealisiert. Dieser besteht aus zwei isothermen und zwei isochoren Zustandsänderungen.
+
+---
+
+2. 1. Herleitung der Volumenarbeit
+
+<p style="margin-left:10%">
+
+Leiten Sie ausgehend von der allgemeinen Integralschreibweise $W = -\int_{V_1}^{V_2} p(V) \, \mathrm{d}V$ die Gleichung zur Berechnung der Volumenarbeit $W_V$ für eine isotherme Zustandsänderung eines idealen Gases her.
+
+<details style="margin-left:10%;color:blue">
+<summary>Lösungsweg</summary>
+
+1. Nutzen Sie die thermische Zustandsgleichung $p \cdot V = n \cdot R \cdot T$, um den Druck $p$ als Funktion des Volumens $V$ auszudrücken: $p(V) = \frac{n \cdot R \cdot T}{V}$.
+2. Da die Temperatur $T$ bei einer isothermen Änderung konstant ist, können $n, R$ und $T$ vor das Integral gezogen werden.
+3. Integrieren Sie $\frac{1}{V}$ über das Intervall $[V_1; V_2]$. Das Ergebnis ist der natürliche Logarithmus $\ln(V)$.
+
+</details>
+
+<details style="margin-left:10%;color:blue">
+<summary>Lösung</summary>
+
+$W = -\int_{V_1}^{V_2} \frac{n \cdot R \cdot T}{V} \, \mathrm{d}V$
+
+$W = -n \cdot R \cdot T \cdot \int_{V_1}^{V_2} \frac{1}{V} \, \mathrm{d}V$
+
+$W = -n \cdot R \cdot T \cdot [\ln(V)]_{V_1}^{V_2}$
+
+$\mathbf{W = -n \cdot R \cdot T \cdot \ln\left(\frac{V_2}{V_1}\right)}$
+
+</details>
+
+</p>
+
+---
+
+2. 2. Berechnung der Nutzarbeit
+
+<p style="margin-left:10%">
+
+Dieser Prozess wird mit einer Stoffmenge von $n = 2,0 \, \text{mol}$ eines idealen Gases zwischen den Volumina $V_1 = 2000 \, \text{cm}^3$ und $V_2 = 5000 \, \text{cm}^3$ durchgeführt. Die beteiligten Temperaturen betragen $T_{hoch} = 630 \, \text{K}$ und $T_{niedrig} = 330 \, \text{K}$.
+
+Ermitteln Sie die bei einem vollständigen Umlauf verrichtete Nutzarbeit $W_{nutz}$.
+
+@rangeQuiz2( $W_{nutz}$ , 4571.0, $\mathrm{J}$ )
+
+<details style="margin-left:10%;color:blue">
+<summary>Lösungsweg</summary>
+
+Die Nutzarbeit eines Stirling-Prozesses ergibt sich aus der Summe der Volumenarbeiten der beiden isothermen Schritte (die isochoren Schritte verrichten keine Arbeit).
+
+$W_{nutz} = |W_{1 \to 2}| - |W_{3 \to 4}|$
+
+$W_{nutz} = n \cdot R \cdot \ln\left(\frac{V_2}{V_1}\right) \cdot (T_{hoch} - T_{niedrig})$
+
+Setzen Sie die Werte ein: $R \approx 8,314 \, \frac{\text{J}}{\text{mol} \cdot \text{K}}$, $\Delta T = 300 \, \text{K}$ und das Volumenverhältnis $2,5$.
+
+</details>
+
+<details style="margin-left:10%;color:blue">
+<summary>Lösung</summary>
+
+$W_{nutz} = 2,0 \, \text{mol} \cdot 8,314 \, \frac{\text{J}}{\text{mol} \cdot \text{K}} \cdot (630 \, \text{K} - 330 \, \text{K}) \cdot \ln\left(\frac{5000}{2000}\right)$
+
+$W_{nutz} = 16,628 \cdot 300 \cdot \ln(2,5)$
+
+$W_{nutz} \approx 4988,4 \cdot 0,9163$
+$\mathbf{W_{nutz} \approx 4571 \, J}$
+
+Pro Umlauf verrichtet die Maschine eine Nutzarbeit von ca. $4,57 \, \text{kJ}$.
+
+</details>
+
+</p>
+
+---
+
+2. 3. Wirkungsgrad
+
+
+<p style="margin-left:10%">
+
+Geben Sie den maximal möglichen Wirkungsgrad (Carnot-Wirkungsgrad) für diese Maschine an.
+
+@rangeQuiz2( $\eta_{max}$ , 0.476, )
+
+<details style="margin-left:10%;color:blue">
+
+<summary>Lösung</summary>
+
+Der maximale Wirkungsgrad hängt nur von den Temperaturen ab:
+
+$\eta_{max} = 1 - \frac{T_{niedrig}}{T_{hoch}} = 1 - \frac{330 \, \text{K}}{630 \, \text{K}}$
+
+$\mathbf{\eta_{max} \approx 0,476}$ (bzw. $47,6 \%$).
+
+</details>
+
+</p>
