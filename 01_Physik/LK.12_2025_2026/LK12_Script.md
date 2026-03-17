@@ -9586,10 +9586,10 @@ Berechnen Sie die zugeführte Wärme $Q_1$ (isotherme Expansion) und die abgefü
 <summary>Lösungsweg</summary>
 
 Bei einer isothermen Zustandsänderung entspricht die Wärme der verrichteten Volumenarbeit: <br>
-$Q = p \cdot V \cdot \displaystyle\int_{V_\mathrm{Anfang}}^{V_\mathrm{Ende}} \dfrac{1}{V}\,\mathrm{d}V = p \cdot V \cdot \ln\left(\frac{V_\mathrm{Ende}}{V_\mathrm{Anfang}}\right)$
+$Q = p \cdot V \cdot \displaystyle\int_{V_\mathrm{Anfang}}^{V_\mathrm{Ende}} \dfrac{1}{V}\,\mathrm{d}V$ <br> <br> oder mit Stammfunktion des Integrals $\int\frac{1}{x}\mathrm{d}x = \ln{x}$ gelöst <br> <br> $ = p \cdot V \cdot \ln\left(\frac{V_\mathrm{Ende}}{V_\mathrm{Anfang}}\right)$
 
 **Zugeführte Wärme: $Q_1$ (1 zu 2):** <br> 
-$Q_1 = -8 \cdot 10^5 \text{ Pa} \cdot 2 \text{ m}^3 \cdot \displaystyle\int_{2}^{4} \frac{1}{V} \mathrm{d}\,V$ <br> <br> oder mit Stammfunktion des Integrals $\int\frac{1}{x}\mathrm{d}x = \ln{x}$ gelöst <br> <br>
+$Q_1 = -8 \cdot 10^5 \text{ Pa} \cdot 2 \text{ m}^3 \cdot \displaystyle\int_{2}^{4} \frac{1}{V} \mathrm{d}\,V$ <br> <br> 
 $Q_1 = -8 \cdot 10^5 \text{ Pa} \cdot 2 \text{ m}^3 \cdot \ln\left(\frac{4}{2}\right)$ <br> <br> $Q_1 \approx -1,11 \cdot 10^6 \text{ J} = \mathbf{-1,11 \text{ MJ}}$
 
 **Abgeführte Wärme $Q_2$ (3 zu 4):** <br> Analog zu $Q_1$ mit $p_3$ und $V_3$ bzw. $V_4$ <br> <br> $Q_2 \approx \mathbf{0,78 \text{ MJ}}$
