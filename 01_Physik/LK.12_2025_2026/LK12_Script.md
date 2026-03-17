@@ -9750,7 +9750,7 @@ __Nachteile:__
 
 - hohe Anforderungen an Dichtungen und Wärmetauscher
 
-- teuer bei großer Leistung
+- teuer, wenn hohe Leistung gefordert ist
 
 </div>
 
