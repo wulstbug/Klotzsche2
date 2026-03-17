@@ -1310,7 +1310,7 @@ $\Delta Q_{C->A} = -W_{C->A} = -366\,\mathrm{J}$
 
 > Für eine @color(adiabatische Zustandsänderung, red) gilt:
 >
-> $$ \boxed{p \cdot V^\kappa = const.} $$
+> $$ \boxed{p \cdot V^\kappa = const.} $$ und $$ \boxed{T \cdot V^{\kappa-1} = const.} $$
 >
 > wobei $\kappa = \dfrac{c_p}{c_V}$ als @color(Adiabatenexponent, red) definiert ist.
 > Für ideale einatomige Gase gilt $\kappa=\frac{5}{3}$, für zweiatomige Gase ist $\kappa=\frac{7}{5}$.
