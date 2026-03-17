@@ -1,7 +1,7 @@
 <!--
 icon:   https://diversewolken.ddns.net/klotzsche/logo.jpg 
 
-logo: https://i.ytimg.com/vi/z4EFDWgVzyw/hqdefault.jpg
+logo: https://diversewolken.ddns.net/nextcloud/s/zX9G4dcWn7HYrzq/download
 
 author: Christian Golnik
 
