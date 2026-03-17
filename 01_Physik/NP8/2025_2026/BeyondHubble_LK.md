@@ -1871,7 +1871,7 @@ Sonnenradius: 696.000 km
 
 {{1-2}}
 *********
-![ObservingWithNASA](https://diversewolken.ddns.net/nextcloud/index.php/s/qpGQPSZTzsyHWQT/download)
+![ObservingWithNASA](https://diversewolken.ddns.net/nextcloud/index.php/s/qpGQPSZTzsyHWQT/download "[Observing with NASA](https://waps.cfa.harvard.edu/eduportal/js9/software.php)")
 
 > <H3> Astronomische Daten (FITS-Dateien) auswählen </H3>
 *********
