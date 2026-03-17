@@ -9578,22 +9578,21 @@ $p_4 = p_1 \cdot \frac{V_1}{V_4} \cdot \frac{T_4}{T_1} = 8 \text{ bar} \cdot \fr
 
 Berechnen Sie die zugeführte Wärme $Q_1$ (isotherme Expansion) und die abgeführte Wärme $Q_2$ (isotherme Kompression).
 
-@rangeQuiz2( $Q_1$ , 1.11, $\mathrm{MJ}$ )
+@rangeQuiz2( $Q_1$ , -1.11, $\mathrm{MJ}$ )
 
-@rangeQuiz2( $Q_2$ , -0.78, $\mathrm{MJ}$ )
+@rangeQuiz2( $Q_2$ , 0.78, $\mathrm{MJ}$ )
 
 <details style="margin-left:0%;color:blue">
 <summary>Lösungsweg</summary>
 
-Bei einer isothermen Zustandsänderung entspricht die Wärme der verrichteten Volumenarbeit:
-$Q = p \cdot V \cdot \ln\left(\frac{V_{ende}}{V_{anfang}}\right)$
+Bei einer isothermen Zustandsänderung entspricht die Wärme der verrichteten Volumenarbeit: <br>
+$Q = p \cdot V \cdot \displaystyle\int_{V_\mathrm{Anfang}}^{V_\mathrm{Ende}} \dfrac{1}{V}\,\mathrm{d}V = p \cdot V \cdot \ln\left(\frac{V_\mathrm{Ende}}{V_\mathrm{Anfang}}\right)$
 
-**Zugeführte Wärme $Q_1$ (1 zu 2):**
-$Q_1 = 8 \cdot 10^5 \text{ Pa} \cdot 2 \text{ m}^3 \cdot \ln\left(\frac{4}{2}\right) \approx 1,11 \cdot 10^6 \text{ J} = \mathbf{1,11 \text{ MJ}}$
+**Zugeführte Wärme: $Q_1$ (1 zu 2):** <br> 
+$Q_1 = -8 \cdot 10^5 \text{ Pa} \cdot 2 \text{ m}^3 \cdot \displaystyle\int_{2}^{4} \frac{1}{V} \mathrm{d}\,V$ <br> <br> oder mit Stammfunktion des Integrals $\int\frac{1}{x}\mathrm{d}x = \ln{x}$ gelöst <br> <br>
+$Q_1 = -8 \cdot 10^5 \text{ Pa} \cdot 2 \text{ m}^3 \cdot \ln\left(\frac{4}{2}\right)$ <br> <br> $Q_1 \approx -1,11 \cdot 10^6 \text{ J} = \mathbf{-1,11 \text{ MJ}}$
 
-**Abgeführte Wärme $Q_2$ (3 zu 4):**
-$Q_2 = p_3 \cdot V_3 \cdot \ln\left(\frac{V_4}{V_3}\right) = 1,15 \cdot 10^5 \text{ Pa} \cdot 9,76 \text{ m}^3 \cdot \ln\left(\frac{4,88}{9,76}\right)$
-$Q_2 \approx 11,22 \cdot 10^5 \text{ J} \cdot (-0,693) \approx \mathbf{-0,78 \text{ MJ}}$
+**Abgeführte Wärme $Q_2$ (3 zu 4):** <br> Analog zu $Q_1$ mit $p_3$ und $V_3$ bzw. $V_4$ <br> <br> $Q_2 \approx \mathbf{0,78 \text{ MJ}}$
 
 </details>
 
@@ -9716,7 +9715,7 @@ __Idealisierter Stirling-Kreisprozess:__
 
 <div class="flex-child-1" style="min-width: 300px; margin-bottom: -10px">
 
-![](/download)
+![](https://physikaufgaben.de/bild/a981_1.jpg/download)
 
 </div>
 
