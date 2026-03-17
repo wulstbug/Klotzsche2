@@ -9692,6 +9692,7 @@ $\eta = \frac{Q_1 + Q_2}{Q_1} = \frac{1,11 \text{ MJ} - 0,78 \text{ MJ}}{1,11 \t
 
 > Der Stirling-Motor ist eine __Wärmekraftmaschine__ mit geschlossenem Arbeitsgas (He, Luft). Zugeführte thermische Energie wird in mechanische Energie umgewandelt.
 
+---
 
 {{1-2}}
 **********
@@ -9715,9 +9716,50 @@ __Idealisierter Stirling-Kreisprozess:__
 
 <div class="flex-child-1" style="min-width: 300px; margin-bottom: -10px">
 
-![](https://physikaufgaben.de/bild/a981_1.jpg/download)
+![Sterling](https://physikaufgaben.de/bild/a981_1.jpg)
 
 </div>
 
 </section>
+
+---
+
+**********
+
+{{3}}
+**********
+<section class="flex-container">
+
+<div class="flex-child-1" style="min-width: 300px; margin-bottom: -10px">
+
+__Vorteile:__
+
+- viele Quellen als externe Wärmezufuhr möglich (Solar, Abwärme, Verbrennungen)
+
+- leiser lauf, hoher Wirkungsgrad
+
+- keine Ventilsteuerung (wie beim Verbrennungs-Motor)
+
+</div>
+
+<div class="flex-child-1" style="min-width: 300px; margin-bottom: -10px">
+
+__Nachteile:__ 
+
+- Leistung und Kaltstart träge (anschubsen)
+
+- hohe Anforderungen an Dichtungen und Wärmetauscher
+
+- teuer bei großer Leistung
+
+</div>
+
+</section>
+
+**********
+
+
+{{4}}
+**********
+
 **********
