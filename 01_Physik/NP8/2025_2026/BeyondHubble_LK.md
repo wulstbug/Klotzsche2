@@ -1852,9 +1852,20 @@ Sonnenradius: 696.000 km
 ## Bearbeitung Astronomischer Bilder (1)
 <!-- style="background:black"-->
 
+{{0-1}}
+***************
+??[ArteDokuJamesWebb](https://www.arte.tv/de/videos/114577-000-A/das-james-webb-teleskop-erste-erkenntnisse-aus-dem-all/)
+
+-> Astronomische Bilder 18:40
+
+***************
+
+{{1}}
+***************
 ![Moon_Lagoon](https://diversewolken.ddns.net/nextcloud/index.php/s/s92S5jps7G29Fbz/download)
 
 > <H3> Erstellung eines eigenen astronomischen Bildes aus echten astronomischen Messdaten. </H3>
+***************
 
 ### Überblick
 
