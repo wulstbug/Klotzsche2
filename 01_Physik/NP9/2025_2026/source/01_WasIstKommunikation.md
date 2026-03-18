@@ -44,7 +44,7 @@ window.LIA.settings.font_size = 2
 
 # Einführung: Was ist Kommunikation
 
-![WasIstKommunikation](https://i.ytimg.com/vi/z4EFDWgVzyw/hqdefault.jpg)
+![WasIstKommunikation](https://diversewolken.ddns.net/nextcloud/s/zX9G4dcWn7HYrzq/download)
 
 ### Quiz - Grundlagen Kommunikation
 

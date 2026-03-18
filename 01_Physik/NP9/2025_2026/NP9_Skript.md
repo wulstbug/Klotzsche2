@@ -50,6 +50,8 @@ window.LIA.settings.font_size = 2
 
 ## Einführung: Was ist Kommunikation
 
+![Einführung](https://diversewolken.ddns.net/nextcloud/s/zX9G4dcWn7HYrzq/download)
+
 [WasIstKommunikation](https://www.br.de/fernsehen/ard-alpha/sendungen/alpha-lernen/was-ist-kommunikation-sprache-definiton-100~player.html)
 
 ### Quiz - Grundlagen Kommunikation
