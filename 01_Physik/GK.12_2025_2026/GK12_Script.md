@@ -4364,7 +4364,7 @@ Das Elektron springt auf die dritte Bahn.
 
 [Kahoot - Atomvorstellungen](https://create.kahoot.it/share/quantenmechanisches-atommodell/b0ab2b43-c070-4f4b-88da-20c9cea61608)
 
-## 8. 7. LASER - Prinzip und Funktionsweise
+## 8. 6. LASER - Prinzip und Funktionsweise
 
 {{1}}
 ************
@@ -4439,7 +4439,10 @@ Das Elektron springt auf die dritte Bahn.
 >__Vorraussetzung fürs Lasen:__
 >
 > Lasen: kontinuierliche Lichtabgabe mit hoher Intensität
-> {16}{__Besetzungsinversion:__ Es befinden sich mehr Atome in einem angeregten Zustand}
+>
+> {16}{__Besetzungsinversion:__ Es befinden sich deutlich mehr Atome in einem angeregten Zustand, als im Grundzustand}
+>
+> {17}{__Metastabiler/Triplet Zustand:__ Die angeregten Elektronen verbleiben sehr __lange in ihrem Zustand__, @color(ohne spontan zu emittieren, blue)}
 
 ************
 

@@ -584,3 +584,84 @@ Das Elektron springt auf die dritte Bahn.
 </details>
 
 ---
+
+
+## 8. 6. LASER - Prinzip und Funktionsweise
+
+> __Eigenschaften von Laserlicht (im @color(Wellen-, red) und @color(Teilchenbild, blue)):__
+>
+> - __intensiv__ - @color(Lichtwelle hat hohe Intensität, red) olor(viele Photonen, blue)
+>
+> - __monochromatisch__ - @color(nur eine Wellenlänge, red) | @color(nur eine Energie, blue)
+>
+> - __kohärent__ - @color(Phasenbeziehung konstant -> Wellenberg auf Wellenberg/Wellental auf Wellental, red) <br> ![Kohaerenz](https://diversewolken.ddns.net/nextcloud/s/KzCZZR9iPqDGYKq/download)
+
+---
+
+>__Emission von Photonen:__
+>
+> Vorraussetzung, dass ein Photon von einem Atom emittiert werden kann sind:
+
+<section class="flex-container">
+
+<div class="flex-child-1" style="min-width: 200px; margin-bottom: -10px">
+
+> Ein Elektron des Atoms befindet sich in einem angeregten Zustand (z.B. durch Absorption eines Photons)
+>
+> ![Absorption](https://diversewolken.ddns.net/nextcloud/s/pfZky8257jAsgWc/download)
+
+
+</div>
+
+<div class="flex-child-1" style="min-width: 200px; margin-bottom: -10px">
+
+
+> __Spontane__ Abregung des Elektrons (fällt auf ein niedrigeres Niveau), führt __nicht__ zum Laser <br> <br>
+>
+> ![SpontaneEmission](https://diversewolken.ddns.net/nextcloud/s/Prt82L92MdGN9tT/download)
+
+</div>
+
+<div class="flex-child-1" style="min-width: 200px; margin-bottom: -10px">
+
+
+> __Stimulierte Emission:__ Ein Photon (Ph1), mit der gleichen Energie wie die Bandlücke, regt das angeregte Elektron ab (Sprung auf niedrigeres Niveau) zur Emission eines zweiten Photons Ph2
+>
+> ![StimulierteEmission](https://diversewolken.ddns.net/nextcloud/s/JX66oNPLPAqdFnH/download)
+
+
+</div>
+
+</section>
+
+
+
+
+---
+
+>__Eigenschaften der Photonen Ph1 & Ph2 bei stimulierter Emission:__
+>
+> 1. Photon Ph2 hat die selbe Wellenlänge/Energie, wie Ph1 -> @color(__monochromatisches Licht__, red)
+> 
+> 2. Phase (Wellenberg/Wellental) von Ph1 und Ph2 sind gleich -> @color(__kohärentes Licht__, red)
+
+
+
+>__Vorraussetzung fürs Lasen:__
+>
+> Lasen: kontinuierliche Lichtabgabe mit hoher Intensität
+>
+> __Besetzungsinversion:__ Es befinden sich mehr Atome in einem angeregten Zustand
+>
+> __Metastabiler/Triplet Zustand:__ Die angeregten Elektronen verbleiben sehr __lange in ihrem Zustand__, @color(ohne spontan zu emittieren, blue)
+
+
+
+
+<details style='color:blue;margin-left:10%'>
+
+<summary> Beispiel: He-Ne Laser </summary>
+
+![He-Ne-Laser-Schema](https://diversewolken.ddns.net/nextcloud/s/B8g9KP7fYCsC7Zn/download)
+
+</details>
