@@ -9925,16 +9925,45 @@ __Beispiel: Stirling-Prozess__
 
 | __3->4:__ | {11}{__Isotherme Kompression__} | 
 | {12}{$\Delta U=0 \Rightarrow$ } | {13}{$W_{3\rightarrow4}=-Q_{3\rightarrow4} $ } | 
-| {14}{$W_{3\rightarrow3}=-\displaystyle\int^{V_4}_{V_3} p\,\mathrm{d}V$} | {15}{$\green{\boxed{W_{3\rightarrow4}=-\displaystyle n\cdot R \cdot T_3\cdot\ln\frac{V_4}{V_3}}}$} |
+| {14}{$W_{3\rightarrow4}=-\displaystyle\int^{V_4}_{V_3} p\,\mathrm{d}V$} | {15}{$\green{\boxed{W_{3\rightarrow4}=-\displaystyle n\cdot R \cdot T_3\cdot\ln\frac{V_4}{V_3}}}$} |
 
 </div>
 
 <div class="flex-child-1" style="min-width:300px; margin-bottom: -10px">
 
 | __4->1:__ | {16}{__Isochore Erwärmung__} | 
-| {17}{$W_{4\rightarrow1}=0 \Rightarrow$ } | {18}{$\Delta U_{2\rightarrow3}=Q_{2\rightarrow3} $ } | 
-|  | {19}{$\red{\boxed{Q_{2\rightarrow3}=c_v\cdot m\cdot (T_1-T_4)}}$} |
+| {17}{$W_{4\rightarrow1}=0 \Rightarrow$ } | {18}{$\Delta U_{4\rightarrow1}=Q_{4\rightarrow1} $ } | 
+|  | {19}{$\red{\boxed{Q_{4\rightarrow1}=c_v\cdot m\cdot (T_1-T_4)}}$} |
 
 </div>
 
 </section>
+
+<section class="flex-container">
+
+<div class="flex-child-1" style="min-width: 300px; margin-bottom: -10px">
+
+{{21}}
+******************
+Das Gas verrichtet Arbeit $\orange{W_{1\rightarrow2}}$.
+
+Das Gas gibt Wärmeenergie ab $\blue{Q_{2\rightarrow3}}$.
+
+Am Gas wird Arbeit verrichtet $\green{W_{3\rightarrow4}}$.
+
+Das Gas nimmt Wärmeenergie auf $\red{Q_{4\rightarrow1}}$
+******************
+
+</div>
+
+<div class="flex-child-1" style="min-width: 300px; margin-bottom: -10px">
+
+{{22}}
+***********
+__Energiebilanz:__ Damit das Gas die Arbeit $$\purple{W} = \orange{W_{1\rightarrow2}}-\green{W_{3\rightarrow4}}$$ verrichten kann, muss die Wärme $\red{Q_{4\rightarrow1}}$ zugeführt werden.
+***********
+
+</div>
+
+</section>
+
