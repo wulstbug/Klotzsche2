@@ -124,7 +124,7 @@ __Entscheide, wo die Verhaltensweisen einzuordnen sind und deute sie.__
 
 ## Axiome von P. Watzlawick und Vier-Ohren-Modell
 
-!?[AxiomeNachWatzlawick](https://www.youtube.com/watch?v=GydVGIDyEQ0)
+!?[AxiomeNachWatzlawick](https://diversewolken.ddns.net/nextcloud/s/33ZCcSkHfqpyGLN/download)
 
 ### Wiederholung der Axiome
 
