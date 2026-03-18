@@ -1539,3 +1539,192 @@ $\eta = \frac{Q_1 + Q_2}{Q_1} = \frac{1,11 \text{ MJ} - 0,78 \text{ MJ}}{1,11 \t
 </details>
 
 </p>
+
+
+## 13. 7. Der Stirling-Motor
+
+> Der Stirling-Motor ist eine __Wärmekraftmaschine__ mit geschlossenem Arbeitsgas (He, Luft). Zugeführte thermische Energie wird in mechanische Energie umgewandelt.
+
+---
+
+<section class="flex-container">
+
+<div class="flex-child-1" style="min-width: 300px; margin-bottom: -10px">
+
+__Idealisierter Stirling-Kreisprozess:__
+
+1. __Isotherme Expansion__ am heißen Ende: Gas nimmt Wärme auf und leistet Arbeit.
+2. __Isochore Abkühlung__ über den Regenerator: Gas gibt Wärme an den Regenerator ab.
+3. __Isotherme Kompression__ am kalten Ende: Gas wird zusammengepresst und gibt Wärme ab.
+4. __Isochore Erwärmung__ über den Regenerator: Gas nimmt die gespeicherte Wärme wieder auf.
+
+</div>
+
+<div class="flex-child-1" style="min-width: 300px; margin-bottom: -10px">
+
+![Sterling](https://physikaufgaben.de/bild/a981_1.jpg)
+
+</div>
+
+</section>
+
+---
+
+<section class="flex-container">
+
+<div class="flex-child-1" style="min-width: 300px; margin-bottom: -10px">
+
+__Vorteile:__
+
+- viele Quellen als externe Wärmezufuhr möglich (Solar, Abwärme, Verbrennungen)
+
+- leiser lauf, hoher Wirkungsgrad
+
+- keine Ventilsteuerung (wie beim Verbrennungs-Motor)
+
+</div>
+
+<div class="flex-child-1" style="min-width: 300px; margin-bottom: -10px">
+
+__Nachteile:__ 
+
+- Leistung und Kaltstart träge (anschubsen)
+
+- hohe Anforderungen an Dichtungen und Wärmetauscher
+
+- teuer, wenn hohe Leistung gefordert ist
+
+</div>
+
+</section>
+
+[Video-Idealisierter-SterlingMotor](https://www.youtube.com/watch?v=cxqBK_mwKP4)
+
+
+## 13. 8. Thermodynamische Grundlagen - Übersicht
+
+__Zustandsänderung für ein geschlossenes System__
+
+| | | | | |
+| | isochor | isobar | isotherm | adiabatisch |
+| Bedingung | keine Volumenänderung <br> $\Rightarrow \Delta V=0$ | keine Druckänderung <br> $\Rightarrow \Delta p=0$ | keine Temperaturänderung <br> $\Rightarrow \Delta T=0$ | kein Wärmaustausch <br> $\Rightarrow \Delta Q=0$ |
+| 1. Hauptsatz | $$W=0$$ $$\Rightarrow Q=\Delta U$$ | $$\Delta U=Q+W$$ | $$\Delta U = 0$$ $$\Rightarrow Q = - W $$ | $$Q=0$$ $$\Delta U = W$$ |
+| Beziehungen | $$\dfrac{p}{T}=\text{konst.}$$  | $$\frac{V}{T}=\text{konst.} $$ | $$p \cdot V = \text{konst.} $$| $$p\cdot V^{\kappa}=\text{konst.}$$ $$T\cdot V^{\kappa-1}=\text{konst}$$|
+| Wärmemenge | $$Q=c_v\cdot m\cdot \Delta T$$| $$Q=c_p\cdot m\cdot \Delta T$$ | $$Q=-W$$ | $$Q=0$$ |
+| Volumentarbeit | $$W=0$$ | $$W=-p\,(V_2-V_1)$$ | $$W=-p_1\cdot V_1\displaystyle\int_{V_1}^{V_2} \frac{1}{V}\,\mathrm{d}V$$ $$W=-p_1\cdot V_1 \cdot \ln\left(\frac{V_2}{V_1}\right)$$ | $$ W= -p_1\cdot V_1\displaystyle\int_{V_1}^{V_2} \frac{1}{V^\kappa}\,\mathrm{d}V$$ |
+
+### Übungsaufgabe Stirling-Prozess
+
+1. ![Stirling](https://physikaufgaben.de/bild/a981_1.jpg) Die Abbildung zeigt das p(V)-Diagramm eines Stirling'schen Kreisprozesses. Welches V(T)-Diagramm passt zu diesem Kreisprozess?
+
+<p style="margin-left:10%">
+
+![Stirling1](https://physikaufgaben.de/bild/a981_2.jpg)
+
+- [[X]] A
+- [[ ]] B
+- [[ ]] C
+
+</p>
+
+---
+
+2. Die Arbeitsweise einer Wärmekraftmaschine wird durch einen Stirling’schen Kreisprozess idealisiert. Dieser besteht aus zwei isothermen und zwei isochoren Zustandsänderungen.
+
+---
+
+2. 1. Herleitung der Volumenarbeit
+
+<p style="margin-left:10%">
+
+Leiten Sie ausgehend von der allgemeinen Integralschreibweise $W = -\int_{V_1}^{V_2} p(V) \, \mathrm{d}V$ die Gleichung zur Berechnung der Volumenarbeit $W_V$ für eine isotherme Zustandsänderung eines idealen Gases her.
+
+<details style="margin-left:10%;color:blue">
+<summary>Lösungsweg</summary>
+
+1. Nutzen Sie die thermische Zustandsgleichung $p \cdot V = n \cdot R \cdot T$, um den Druck $p$ als Funktion des Volumens $V$ auszudrücken: $p(V) = \frac{n \cdot R \cdot T}{V}$.
+2. Da die Temperatur $T$ bei einer isothermen Änderung konstant ist, können $n, R$ und $T$ vor das Integral gezogen werden.
+3. Integrieren Sie $\frac{1}{V}$ über das Intervall $[V_1; V_2]$. Das Ergebnis ist der natürliche Logarithmus $\ln(V)$.
+
+</details>
+
+<details style="margin-left:10%;color:blue">
+<summary>Lösung</summary>
+
+$W = -\int_{V_1}^{V_2} \frac{n \cdot R \cdot T}{V} \, \mathrm{d}V$
+
+$W = -n \cdot R \cdot T \cdot \int_{V_1}^{V_2} \frac{1}{V} \, \mathrm{d}V$
+
+$W = -n \cdot R \cdot T \cdot [\ln(V)]_{V_1}^{V_2}$
+
+$\mathbf{W = -n \cdot R \cdot T \cdot \ln\left(\frac{V_2}{V_1}\right)}$
+
+</details>
+
+</p>
+
+---
+
+2. 2. Berechnung der Nutzarbeit
+
+<p style="margin-left:10%">
+
+Dieser Prozess wird mit einer Stoffmenge von $n = 2,0 \, \text{mol}$ eines idealen Gases zwischen den Volumina $V_1 = 2000 \, \text{cm}^3$ und $V_2 = 5000 \, \text{cm}^3$ durchgeführt. Die beteiligten Temperaturen betragen $T_{hoch} = 630 \, \text{K}$ und $T_{niedrig} = 330 \, \text{K}$.
+
+Ermitteln Sie die bei einem vollständigen Umlauf verrichtete Nutzarbeit $W_{nutz}$.
+
+@rangeQuiz2( $W_{nutz}$ , 4571.0, $\mathrm{J}$ )
+
+<details style="margin-left:10%;color:blue">
+<summary>Lösungsweg</summary>
+
+Die Nutzarbeit eines Stirling-Prozesses ergibt sich aus der Summe der Volumenarbeiten der beiden isothermen Schritte (die isochoren Schritte verrichten keine Arbeit).
+
+$W_{nutz} = |W_{1 \to 2}| - |W_{3 \to 4}|$
+
+$W_{nutz} = n \cdot R \cdot \ln\left(\frac{V_2}{V_1}\right) \cdot (T_{hoch} - T_{niedrig})$
+
+Setzen Sie die Werte ein: $R \approx 8,314 \, \frac{\text{J}}{\text{mol} \cdot \text{K}}$, $\Delta T = 300 \, \text{K}$ und das Volumenverhältnis $2,5$.
+
+</details>
+
+<details style="margin-left:10%;color:blue">
+<summary>Lösung</summary>
+
+$W_{nutz} = 2,0 \, \text{mol} \cdot 8,314 \, \frac{\text{J}}{\text{mol} \cdot \text{K}} \cdot (630 \, \text{K} - 330 \, \text{K}) \cdot \ln\left(\frac{5000}{2000}\right)$
+
+$W_{nutz} = 16,628 \cdot 300 \cdot \ln(2,5)$
+
+$W_{nutz} \approx 4988,4 \cdot 0,9163$
+$\mathbf{W_{nutz} \approx 4571 \, J}$
+
+Pro Umlauf verrichtet die Maschine eine Nutzarbeit von ca. $4,57 \, \text{kJ}$.
+
+</details>
+
+</p>
+
+---
+
+2. 3. Wirkungsgrad
+
+
+<p style="margin-left:10%">
+
+Geben Sie den maximal möglichen Wirkungsgrad (Carnot-Wirkungsgrad) für diese Maschine an.
+
+@rangeQuiz2( $\eta_{max}$ , 0.476, )
+
+<details style="margin-left:10%;color:blue">
+
+<summary>Lösung</summary>
+
+Der maximale Wirkungsgrad hängt nur von den Temperaturen ab:
+
+$\eta_{max} = 1 - \frac{T_{niedrig}}{T_{hoch}} = 1 - \frac{330 \, \text{K}}{630 \, \text{K}}$
+
+$\mathbf{\eta_{max} \approx 0,476}$ (bzw. $47,6 \%$).
+
+</details>
+
+</p>
