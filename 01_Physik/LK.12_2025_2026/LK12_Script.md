@@ -10057,13 +10057,13 @@ $\eta_{WP}$ ist offensichtlich größer als 1.
 ************
 <H4>Beispiel: Kühlschrank</H4>
 
-Ein Haushaltskühlschrank arbeitet bei einer typischen Umgebungstemperatur von etwa 20°C und einer Temperatur im Inneren von etwa 4°C. 
+Ein Haushaltskühlschrank arbeitet bei einer typischen Umgebungstemperatur von etwa 25°C und einer Temperatur im Inneren von etwa 4°C. 
 
 1. Ermitteln Sie den maximal möglichen (idealen) technischen Wirkungsgrad dieser Wärmepumpe.
 
 <p style='margin-left:10%'>
 
-@rangeQuiz2($\eta_{\text{WP}}$, 18.3 , )
+@rangeQuiz2($\eta_{\text{WP}}$, 13.95 , )
 
 </p>
 ************
