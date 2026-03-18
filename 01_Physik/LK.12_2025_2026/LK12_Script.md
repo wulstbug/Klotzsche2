@@ -9939,20 +9939,22 @@ __Beispiel: Stirling-Prozess__
 
 </section>
 
+{{21}}
+******************
+
 <section class="flex-container">
 
 <div class="flex-child-1" style="min-width: 300px; margin-bottom: -10px">
 
-{{21}}
-******************
-Das Gas verrichtet Arbeit $\orange{W_{1\rightarrow2}}$.
-
-Das Gas gibt Wärmeenergie ab $\blue{Q_{2\rightarrow3}}$.
-
-Am Gas wird Arbeit verrichtet $\green{W_{3\rightarrow4}}$.
-
-Das Gas nimmt Wärmeenergie auf $\red{Q_{4\rightarrow1}}$
-******************
+> __Zusammenfassung:__
+>
+> Das Gas verrichtet Arbeit $\orange{W_{1\rightarrow2}}$.
+>
+> Das Gas gibt Wärmeenergie ab $\blue{Q_{2\rightarrow3}}$ ($\blue{\text{Abwärme}}$).
+>
+> Am Gas wird Arbeit verrichtet $\green{W_{3\rightarrow4}}$.
+>
+> Das Gas nimmt Wärmeenergie auf $\red{Q_{4\rightarrow1}}$
 
 </div>
 
@@ -9960,10 +9962,20 @@ Das Gas nimmt Wärmeenergie auf $\red{Q_{4\rightarrow1}}$
 
 {{22}}
 ***********
-__Energiebilanz:__ Damit das Gas die Arbeit $$\purple{W} = \orange{W_{1\rightarrow2}}-\green{W_{3\rightarrow4}}$$ verrichten kann, muss die Wärme $\red{Q_{4\rightarrow1}}$ zugeführt werden.
+> __Energiebilanz:__ 
+>
+> Damit das Gas die Arbeit $$\purple{W} = \orange{W_{1\rightarrow2}}-\green{W_{3\rightarrow4}}$$ verrichten kann, muss die Wärme $\red{Q_{4\rightarrow1}}$ zugeführt werden. <br> <br> => __Wärmekraftmaschine__
 ***********
 
 </div>
 
 </section>
 
+******************
+
+{{23}}
+***********
+>__Wirkungsgrad:__
+>
+> {24}{$\eta = \dfrac{E_{nutz}}{E_{zu}}$} {25}{$=\dfrac{|\orange{W_{1\rightarrow2}}-\green{W_{3\rightarrow4}}|}{\red{Q_{4\rightarrow1}}}$} {26}{n \cdot R \cdot\ln\frac{V_2}{V_1}}
+***********
