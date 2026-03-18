@@ -4438,3 +4438,11 @@ Das Elektron springt auf die dritte Bahn.
 > {16}{__Besetzungsinversion:__ Es befinden sich mehr Atome in einem angeregten Zustand}
 
 ************
+
+<details style='color:blue;margin-left:10%'>
+
+<summary> Beispiel: He-Ne Laser </summary>
+
+![He-Ne-Laser-Schema](https://diversewolken.ddns.net/nextcloud/s/B8g9KP7fYCsC7Zn/download)
+
+</details>
