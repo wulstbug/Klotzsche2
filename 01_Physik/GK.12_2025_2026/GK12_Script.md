@@ -4366,11 +4366,9 @@ Das Elektron springt auf die dritte Bahn.
 ************
 > __Eigenschaften von Laserlicht (im @color(Wellen-, red) und @color(Teilchenbild, blue)):__
 >
-> - intensiv - {2}{@color(Lichtwelle hat hohe Intensität, red)} {3}{| @color(viele Photonen, blue)}
-> 
-> - monochromatisch - {4}{@color(nur eine Wellenlänge, red)} {5}{| @color(nur eine Energie, blue)}
-> 
-> - kohärent - {6}{@color(Phasenbeziehung konstant -> Wellenberg auf Wellenberg/Wellental auf Wellental, red)} {7}{<br> ![Kohaerenz](https://diversewolken.ddns.net/nextcloud/s/KzCZZR9iPqDGYKq/download)}
+> - [ ] __intensiv__ - {2}{@color(Lichtwelle hat hohe Intensität, red)} {3}{| @color(viele Photonen, blue)}
+> - [ ] __monochromatisch__ - {4}{@color(nur eine Wellenlänge, red)} {5}{| @color(nur eine Energie, blue)}
+> - [ ] __kohärent__ - {6}{@color(Phasenbeziehung konstant -> Wellenberg auf Wellenberg/Wellental auf Wellental, red)} {7}{<br> ![Kohaerenz](https://diversewolken.ddns.net/nextcloud/s/KzCZZR9iPqDGYKq/download)}
 ************
 
 
@@ -4408,12 +4406,35 @@ Das Elektron springt auf die dritte Bahn.
 
 <div class="flex-child-1" style="min-width: 200px; margin-bottom: -10px">
 
-> __Stimulierte Emission__ heißt, ein Photon mit der gleichen Energie wie die Bandlücke regt das Elektron zum Sprung an
-
-
+{{11}}
+************
+> __Stimulierte Emission:__ Ein Photon (Ph1), mit der gleichen Energie wie die Bandlücke, regt das angeregte Elektron ab (Sprung auf niedrigeres Niveau) zur Emission eines zweiten Photons Ph2
+>
+> ![StimulierteEmission](https://diversewolken.ddns.net/nextcloud/s/JX66oNPLPAqdFnH/download)
+************
 
 </div>
 
 </section>
+
+************
+
+{{12}}
+************
+---
+
+>__Eigenschaften der Photonen Ph1 & Ph2 bei stimulierter Emission:__
+>
+> 1. {13}{Photon Ph2 hat die selbe Wellenlänge/Energie, wie Ph1 -> @color(__monochromatisches Licht__, red)}
+> 
+> 2. {14}{Phase (Wellenberg/Wellental) von Ph1 und Ph2 sind gleich -> @color(__kohärentes Licht__, red)}
+************
+
+{{15}}
+************
+>__Vorraussetzung fürs Lasen:__
+>
+> Lasen: kontinuierliche Lichtabgabe mit hoher Intensität
+> {16}{__Besetzungsinversion:__ Es befinden sich mehr Atome in einem angeregten Zustand}
 
 ************
