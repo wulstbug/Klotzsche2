@@ -4359,3 +4359,61 @@ Das Elektron springt auf die dritte Bahn.
 </details>
 
 ---
+
+## 8. 7. LASER - Prinzip und Funktionsweise
+
+{{1}}
+************
+> __Eigenschaften von Laserlicht (im @color(Wellen-, red) und @color(Teilchenbild, blue)):__
+>
+> - intensiv - {2}{@color(Lichtwelle hat hohe Intensität, red)} {3}{| @color(viele Photonen, blue)}
+> 
+> - monochromatisch - {4}{@color(nur eine Wellenlänge, red)} {5}{| @color(nur eine Energie, blue)}
+> 
+> - kohärent - {6}{@color(Phasenbeziehung konstant -> Wellenberg auf Wellenberg/Wellental auf Wellental, red)} {7}{<br> ![Kohaerenz](https://diversewolken.ddns.net/nextcloud/s/KzCZZR9iPqDGYKq/download)}
+************
+
+
+
+{{8}}
+************
+---
+
+>__Emission von Photonen:__
+>
+> Vorraussetzung, dass ein Photon von einem Atom emittiert werden kann:
+
+<section class="flex-container">
+
+<div class="flex-child-1" style="min-width: 200px; margin-bottom: -10px">
+
+{{9}}
+************
+> Ein Elektron des Atoms befindet sich in einem angeregten Zustand (z.B. durch Absorption eines Photons)
+>
+> ![Absorption](https://diversewolken.ddns.net/nextcloud/s/pfZky8257jAsgWc/download)
+************
+
+</div>
+
+<div class="flex-child-1" style="min-width: 200px; margin-bottom: -10px">
+
+{{10}}
+************
+> __Spontane__ Abregung des Elektrons (fällt auf ein niedrigeres Niveau), führt __nicht__ zum Laser <br> <br>
+>
+> ![SpontaneEmission](https://diversewolken.ddns.net/nextcloud/s/Prt82L92MdGN9tT/download)
+************
+</div>
+
+<div class="flex-child-1" style="min-width: 200px; margin-bottom: -10px">
+
+> __Stimulierte Emission__ heißt, ein Photon mit der gleichen Energie wie die Bandlücke regt das Elektron zum Sprung an
+
+
+
+</div>
+
+</section>
+
+************
