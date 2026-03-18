@@ -9892,90 +9892,178 @@ $\mathbf{\eta_{max} \approx 0,476}$ (bzw. $47,6 \%$).
 
 </p>
 
-## 13. 9. Energiebilanz eines Kreisprozesses
+## 13. 9. Energiebilanz einer Wärmekraftmaschine
 
-__Beispiel: Stirling-Prozess__
+<H3>Beispiel: Stirling-Prozess</H3>
 
-![Stirling](https://physikaufgaben.de/bild/a981_1.jpg)
-
+{{1}}
+*************
 <section class="flex-container">
 
-<div class="flex-child-1" style="min-width:300px; margin-bottom: -10px">
+<div class="flex-child-1" style="min-width:200px; margin-bottom: -10px">
+
+{0-5}{![Stirling1](https://diversewolken.ddns.net/nextcloud/s/WGraW79aFzs52xP/download)}
+
+{5-9}{![Stirling2](https://diversewolken.ddns.net/nextcloud/s/XKzQoX648zzSRFS/download)}
+
+{9-13}{![Stirling3](https://diversewolken.ddns.net/nextcloud/s/WgPRTg43Yj42EnG/download)}
+
+{13-17}{![Stirling4](https://diversewolken.ddns.net/nextcloud/s/C8dtccy9cay2RGq/download)}
+
+{17-19}{![Stirling5](https://diversewolken.ddns.net/nextcloud/s/MNbinmmsWq95isH/download)}
+
+{19}{![Stirling6](https://diversewolken.ddns.net/nextcloud/s/5ExyaAtk4gLjjAR/download)}
+
+</div>
+
+<div class="flex-child-1" style="min-width:200px; margin-bottom: -10px">
 
 | __1->2:__ | {2}{__Isotherme Expansion__} | 
 | {3}{$\Delta U=0 \Rightarrow$ } | {4}{$W_{1\rightarrow2}=-Q_{1\rightarrow2} $ } | 
-| {5}{$W_{1\rightarrow2}=-\displaystyle\int^{V_2}_{V_1} p\,\mathrm{d}V$} | {6}{$\orange{\boxed{W_{1\rightarrow2}=-\displaystyle n\cdot R \cdot T_1\cdot\ln\frac{V_2}{V_1}}}$} |
+
+{5}{Das System nimmt Wärmeenergie $\blue{Q_{1\rightarrow2}}$ auf.}
+
+---
+
+| __3->4:__ | {10}{__Isotherme Kompression__} | 
+| {11}{$\Delta U=0 \Rightarrow$ } | {12}{$W_{3\rightarrow4}=-Q_{3\rightarrow4} $ } | 
+
+{13}{Das System gibt die Wärmeenergie $\red{Q_{3\rightarrow4}}$ ab.}
 
 </div>
 
 <div class="flex-child-1" style="min-width:300px; margin-bottom: -10px">
 
-| __2->3:__ | {7}{__Isochore Abkühlung__} | 
-| {8}{$W_{2\rightarrow3}=0 \Rightarrow$ } | {9}{$\Delta U_{2\rightarrow3}=Q_{2\rightarrow3} $ } | 
-|  | {10}{$\blue{\boxed{Q_{2\rightarrow3}=c_v\cdot m\cdot (T_3-T_2)}}$} |
+| __2->3:__ | {6}{__Isochore Abkühlung__} | 
+| {7}{$W_{2\rightarrow3}=0 \Rightarrow$ } | {8}{$\Delta U_{2\rightarrow3}=Q_{2\rightarrow3} $ } | 
+
+{9}{Das System gibt die Wärmeenergie $\orange{Q_{2\rightarrow3}}$ ab.}
+
+---
+
+| __4->1:__ | {14}{__Isochore Erwärmung__} | 
+| {15}{$W_{4\rightarrow1}=0 \Rightarrow$ } | {16}{$\Delta U_{1\rightarrow4}=Q_{4\rightarrow1} $ } | 
+
+{17}{Das System nimmt die Wärmeenergie $\green{Q_{4\rightarrow1}}$ auf.}
 
 </div>
 
 </section>
+*************
 
+{{18}}
+*************
+---
+
+<H4>__Energiebilanz:__</H4>
 
 <section class="flex-container">
 
-<div class="flex-child-1" style="min-width:300px; margin-bottom: -10px">
+<div class="flex-child-1" style="min-width: 300px; margin-bottom: -10px">
 
-| __3->4:__ | {11}{__Isotherme Kompression__} | 
-| {12}{$\Delta U=0 \Rightarrow$ } | {13}{$W_{3\rightarrow4}=-Q_{3\rightarrow4} $ } | 
-| {14}{$W_{3\rightarrow4}=-\displaystyle\int^{V_4}_{V_3} p\,\mathrm{d}V$} | {15}{$\green{\boxed{W_{3\rightarrow4}=-\displaystyle n\cdot R \cdot T_3\cdot\ln\frac{V_4}{V_3}}}$} |
+> 1. Da die Temperaturenänderungen 2->3 und 4->1 betragsmäßig gleich sind, gilt:
+>
+> $$\green{Q_{4\rightarrow1}}=-\orange{Q_{2\rightarrow3}}$$
 
 </div>
 
-<div class="flex-child-1" style="min-width:300px; margin-bottom: -10px">
+<div class="flex-child-1" style="min-width: 300px; margin-bottom: -10px">
 
-| __4->1:__ | {16}{__Isochore Erwärmung__} | 
-| {17}{$W_{4\rightarrow1}=0 \Rightarrow$ } | {18}{$\Delta U_{4\rightarrow1}=Q_{4\rightarrow1} $ } | 
-|  | {19}{$\red{\boxed{Q_{4\rightarrow1}=c_v\cdot m\cdot (T_1-T_4)}}$} |
+{{19}}
+*************
+> 2. Aufgrund der Energieerhaltung ($\Delta U = 0$) gilt für die geleistete Arbeit
+>
+> $$\purple{W} = \blue{Q_{1\rightarrow2}} + \red{Q_{3\rightarrow4}}$$
+*************
 
 </div>
 
 </section>
+
+*************
+
+{{20}}
+*************
+---
+
+<H4>__Wirkungsgrad:__</H4>
+
+<section class="flex-container">
+
+<div class="flex-child-1" style="min-width: 300px; margin-bottom: -10px">
+
+> Der Wirkungsgrad $\eta$ ist definiert als die genutzte Energie (hier Volumenarbeit $\purple{W}$) pro zugeführter Energie (hier Wärme $\blue{Q_{1\rightarrow2}}$.)
+
+</div>
+
+<div class="flex-child-1" style="min-width: 300px; margin-bottom: -10px">
 
 {{21}}
-******************
+*************
+> $$ \eta = \dfrac{\purple{W}}{\blue{Q_{1\rightarrow2}}} = \dfrac{\blue{Q_{1\rightarrow2}}+\red{Q_{3\rightarrow4}}}{\blue{Q_{1\rightarrow2}}} = 1 + \dfrac{\red{Q_{3\rightarrow4}}}{\blue{Q_{1\rightarrow2}}} = 1 - \dfrac{T_2}{T_1}$$
 
-<section class="flex-container">
 
-<div class="flex-child-1" style="min-width: 300px; margin-bottom: -10px">
-
-> __Zusammenfassung:__
->
-> Das Gas verrichtet Arbeit $\orange{W_{1\rightarrow2}}$.
->
-> Das Gas gibt Wärmeenergie ab $\blue{Q_{2\rightarrow3}}$ ($\blue{\text{Abwärme}}$).
->
-> Am Gas wird Arbeit verrichtet $\green{W_{3\rightarrow4}}$.
->
-> Das Gas nimmt Wärmeenergie auf $\red{Q_{4\rightarrow1}}$
-
-</div>
-
-<div class="flex-child-1" style="min-width: 300px; margin-bottom: -10px">
-
-{{22}}
-***********
-> __Energiebilanz:__ 
->
-> Damit das Gas die Arbeit $$\purple{W} = \orange{W_{1\rightarrow2}}-\green{W_{3\rightarrow4}}$$ verrichten kann, muss die Wärme $\red{Q_{4\rightarrow1}}$ zugeführt werden. <br> <br> => __Wärmekraftmaschine__
-***********
+_Hinweis (isotherm): $Q = -W = n \cdot R \cdot T \cdot \ln\frac{V_\text{Ende}}{V_\text{Anfang}}$_
+*************
 
 </div>
 
 </section>
 
-******************
+*************
 
-{{23}}
-***********
->__Wirkungsgrad:__
->
-> {24}{$\eta = \dfrac{E_{nutz}}{E_{zu}}$} {25}{$=\dfrac{|\orange{W_{1\rightarrow2}}-\green{W_{3\rightarrow4}}|}{\red{Q_{4\rightarrow1}}}$} {26}{n \cdot R \cdot\ln\frac{V_2}{V_1}}
-***********
+## 13. 10. Wärmepumpe: Umkehrung der Wärmekraftmaschine
+
+<section class="flex-container">
+
+<div class="flex-child-1" style="min-width: 300px; margin-bottom: -10px">
+
+{0-1}{![Kühlschrank](https://www.exquisit.de/wp-content/uploads/2023/12/812050301_1.jpg)}
+
+{1-2}{![Wärmepumpe1](https://diversewolken.ddns.net/nextcloud/s/akXwtixdSWiZM9b/download)}
+
+{2}{![Wärmepumpe1](https://diversewolken.ddns.net/nextcloud/s/5mGXTZyBbgGygNp/download)}
+
+</div>
+
+<div class="flex-child-1" style="min-width: 300px; margin-bottom: -10px">
+
+{{1}}
+************
+>Jede @color(__Wärmekraftmaschine__, red) kann als @color(__Wärmepumpe__, blue) betrieben werden, wenn der Kolben angetrieben und der Kreisprozess in die entgegengesetze Richtung durchlaufen wird.
+************
+
+{{2}}
+************
+Die Wärmeenergie $\blue{Q_{1\rightarrow2}}$ wird von der niedrigen Temperatur $T_{low}$ auf die höhere Temperatur $T_{high}$ gepumpt.
+
+<H4>Wirkungsgrad</H4>
+
+Der _technische Wirkungsgrad_ ist dann
+
+$$ \eta_{\text{WP}} = \dfrac{\red{Q_{3\rightarrow4}}}{\purple{W}} = \dfrac{\red{Q_{3\rightarrow4}}}{\red{Q_{3\rightarrow4}}+\blue{Q_{1\rightarrow2}}}=\dfrac{T_{\text{high}}}{T_{\text{high}}-T_{\text{low}}} $$
+************
+
+{{3}}
+************
+$\eta_{WP}$ ist offensichtlich größer als 1. 
+************
+
+</div>
+
+</section>
+
+{{4}}
+************
+<H4>Beispiel: Kühlschrank</H4>
+
+Ein Haushaltskühlschrank arbeitet bei einer typischen Umgebungstemperatur von etwa 20°C und einer Temperatur im Inneren von etwa 4°C. 
+
+1. Ermitteln Sie den maximal möglichen (idealen) technischen Wirkungsgrad dieser Wärmepumpe.
+
+<p style='margin-left:10%'>
+
+@rangeQuiz2($\eta_{\text{WP}}$, 18.3 , )
+
+</p>
+************

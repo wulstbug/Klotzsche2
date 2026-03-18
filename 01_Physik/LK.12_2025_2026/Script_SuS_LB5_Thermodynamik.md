@@ -55,7 +55,7 @@ logo: https://diversewolken.ddns.net/nextcloud/s/SfR8K6Tn6mDEFkf/download
 @end
 
 @onload
-window.LIA.settings.font_size = 2
+window.LIA.settings.font_size = 1
 @end
 
 @color
@@ -1726,5 +1726,144 @@ $\eta_{max} = 1 - \frac{T_{niedrig}}{T_{hoch}} = 1 - \frac{330 \, \text{K}}{630 
 $\mathbf{\eta_{max} \approx 0,476}$ (bzw. $47,6 \%$).
 
 </details>
+
+</p>
+
+
+## 13. 9. Energiebilanz einer Wärmekraftmaschine
+
+<H3>Beispiel: Stirling-Prozess</H3>
+
+<section class="flex-container">
+
+<div class="flex-child-1" style="min-width:200px; margin-bottom: -10px">
+
+![Stirling6](https://diversewolken.ddns.net/nextcloud/s/5ExyaAtk4gLjjAR/download)
+
+</div>
+
+<div class="flex-child-1" style="min-width:200px; margin-bottom: -10px">
+
+| __1->2:__ | __Isotherme Expansion__ | 
+| $\Delta U=0 \Rightarrow$  | $W_{1\rightarrow2}=-Q_{1\rightarrow2} $  | 
+
+Das System nimmt Wärmeenergie $\blue{Q_{1\rightarrow2}}$ auf.
+
+---
+
+| __3->4:__ | __Isotherme Kompression__ | 
+| $\Delta U=0 \Rightarrow$  | $W_{3\rightarrow4}=-Q_{3\rightarrow4} $  | 
+
+Das System gibt die Wärmeenergie $\red{Q_{3\rightarrow4}}$ ab.
+
+</div>
+
+<div class="flex-child-1" style="min-width:300px; margin-bottom: -10px">
+
+| __2->3:__ | __Isochore Abkühlung__ | 
+| $W_{2\rightarrow3}=0 \Rightarrow$  | $\Delta U_{2\rightarrow3}=Q_{2\rightarrow3} $  | 
+
+Das System gibt die Wärmeenergie $\orange{Q_{2\rightarrow3}}$ ab.
+
+---
+
+| __4->1:__ | __Isochore Erwärmung__ | 
+| $W_{4\rightarrow1}=0 \Rightarrow$  | $\Delta U_{1\rightarrow4}=Q_{4\rightarrow1} $  | 
+
+Das System nimmt die Wärmeenergie $\green{Q_{4\rightarrow1}}$ auf.
+
+</div>
+
+</section>
+
+---
+
+<H4>__Energiebilanz:__</H4>
+
+<section class="flex-container">
+
+<div class="flex-child-1" style="min-width: 300px; margin-bottom: -10px">
+
+> 1. Da die Temperaturenänderungen 2->3 und 4->1 betragsmäßig gleich sind, gilt:
+>
+> $$\green{Q_{4\rightarrow1}}=-\orange{Q_{2\rightarrow3}}$$
+
+</div>
+
+<div class="flex-child-1" style="min-width: 300px; margin-bottom: -10px">
+
+
+> 2. Aufgrund der Energieerhaltung ($\Delta U = 0$) gilt für die geleistete Arbeit
+>
+> $$\purple{W} = \blue{Q_{1\rightarrow2}} + \red{Q_{3\rightarrow4}}$$
+
+
+</div>
+
+</section>
+
+---
+
+<H4>__Wirkungsgrad:__</H4>
+
+<section class="flex-container">
+
+<div class="flex-child-1" style="min-width: 300px; margin-bottom: -10px">
+
+> Der Wirkungsgrad $\eta$ ist definiert als die genutzte Energie (hier Volumenarbeit $\purple{W}$) pro zugeführter Energie (hier Wärme $\blue{Q_{1\rightarrow2}}$.)
+
+</div>
+
+<div class="flex-child-1" style="min-width: 300px; margin-bottom: -10px">
+
+
+> $$ \eta = \dfrac{\purple{W}}{\blue{Q_{1\rightarrow2}}} = \dfrac{\blue{Q_{1\rightarrow2}}+\red{Q_{3\rightarrow4}}}{\blue{Q_{1\rightarrow2}}} = 1 + \dfrac{\red{Q_{3\rightarrow4}}}{\blue{Q_{1\rightarrow2}}} = 1 - \dfrac{T_2}{T_1}$$
+
+
+_Hinweis (isotherm): $Q = -W = n \cdot R \cdot T \cdot \ln\frac{V_\text{Ende}}{V_\text{Anfang}}$_
+
+
+</div>
+
+</section>
+
+## 13. 10. Wärmepumpe: Umkehrung der Wärmekraftmaschine
+
+<section class="flex-container">
+
+<div class="flex-child-1" style="min-width: 300px; margin-bottom: -10px">
+
+![Wärmepumpe1](https://diversewolken.ddns.net/nextcloud/s/5mGXTZyBbgGygNp/download)
+
+</div>
+
+<div class="flex-child-1" style="min-width: 300px; margin-bottom: -10px">
+
+
+>Jede @color(__Wärmekraftmaschine__, red) kann als @color(__Wärmepumpe__, blue) betrieben werden, wenn der Kolben angetrieben und der Kreisprozess in die entgegengesetze Richtung durchlaufen wird.
+
+Die Wärmeenergie $\blue{Q_{1\rightarrow2}}$ wird von der niedrigen Temperatur $T_{low}$ auf die höhere Temperatur $T_{high}$ gepumpt.
+
+<H4>Wirkungsgrad</H4>
+
+Der _technische Wirkungsgrad_ ist dann
+
+$$ \eta_{\text{WP}} = \dfrac{\red{Q_{3\rightarrow4}}}{\purple{W}} = \dfrac{\red{Q_{3\rightarrow4}}}{\red{Q_{3\rightarrow4}}+\blue{Q_{1\rightarrow2}}}=\dfrac{T_{\text{high}}}{T_{\text{high}}-T_{\text{low}}} $$
+
+$\eta_{WP}$ ist offensichtlich größer als 1. 
+
+</div>
+
+</section>
+
+<H4>Beispiel: Kühlschrank</H4>
+
+Ein Haushaltskühlschrank arbeitet bei einer typischen Umgebungstemperatur von etwa 25°C und einer Temperatur im Inneren von etwa 4°C. 
+
+1. Ermitteln Sie den maximal möglichen (idealen) technischen Wirkungsgrad dieser Wärmepumpe.
+
+<p style='margin-left:10%'>
+
+@rangeQuiz2($\eta_{\text{WP}}$, 13.95 , )
 
 </p>
