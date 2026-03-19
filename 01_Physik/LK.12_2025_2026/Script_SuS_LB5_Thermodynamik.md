@@ -1729,6 +1729,8 @@ $\mathbf{\eta_{max} \approx 0,476}$ (bzw. $47,6 \%$).
 
 </p>
 
+<!-- style="display:block" -->
+<div style="display:none">
 
 ## 13. 9. Energiebilanz einer Wärmekraftmaschine
 
@@ -1827,6 +1829,11 @@ _Hinweis (isotherm): $Q = -W = n \cdot R \cdot T \cdot \ln\frac{V_\text{Ende}}{V
 
 </section>
 
+</div>
+
+<!-- style="display:block" -->
+<div style="display:none">
+
 ## 13. 10. Wärmepumpe: Umkehrung der Wärmekraftmaschine
 
 <section class="flex-container">
@@ -1867,3 +1874,5 @@ Ein Haushaltskühlschrank arbeitet bei einer typischen Umgebungstemperatur von e
 @rangeQuiz2($\eta_{\text{WP}}$, 13.95 , )
 
 </p>
+
+</div>
