@@ -1819,7 +1819,7 @@ Das System nimmt die Wärmeenergie $\green{Q_{4\rightarrow1}}$ auf.
 <div class="flex-child-1" style="min-width: 300px; margin-bottom: -10px">
 
 
-> $$ \eta = \dfrac{\purple{W}}{\blue{Q_{1\rightarrow2}}} = \dfrac{\blue{Q_{1\rightarrow2}}+\red{Q_{3\rightarrow4}}}{\blue{Q_{1\rightarrow2}}} = 1 + \dfrac{\red{Q_{3\rightarrow4}}}{\blue{Q_{1\rightarrow2}}} = 1 - \dfrac{T_2}{T_1}$$
+> $$ \eta = \dfrac{\purple{W}}{\blue{Q_{1\rightarrow2}}} = \dfrac{\blue{Q_{1\rightarrow2}}+\red{Q_{3\rightarrow4}}}{\blue{Q_{1\rightarrow2}}} = 1 + \dfrac{\red{Q_{3\rightarrow4}}}{\blue{Q_{1\rightarrow2}}} = 1 - \dfrac{T_{\text{Low}}}{T_{\text{high}}}$$
 
 
 _Hinweis (isotherm): $Q = -W = n \cdot R \cdot T \cdot \ln\frac{V_\text{Ende}}{V_\text{Anfang}}$_

@@ -10000,7 +10000,7 @@ $\mathbf{\eta_{max} \approx 0,476}$ (bzw. $47,6 \%$).
 
 {{21}}
 *************
-> $$ \eta = \dfrac{\purple{W}}{\blue{Q_{1\rightarrow2}}} = \dfrac{\blue{Q_{1\rightarrow2}}+\red{Q_{3\rightarrow4}}}{\blue{Q_{1\rightarrow2}}} = 1 + \dfrac{\red{Q_{3\rightarrow4}}}{\blue{Q_{1\rightarrow2}}} = 1 - \dfrac{T_2}{T_1}$$
+> $$ \eta = \dfrac{\purple{W}}{\blue{Q_{1\rightarrow2}}} = \dfrac{\blue{Q_{1\rightarrow2}}+\red{Q_{3\rightarrow4}}}{\blue{Q_{1\rightarrow2}}} = 1 + \dfrac{\red{Q_{3\rightarrow4}}}{\blue{Q_{1\rightarrow2}}} = 1 - \dfrac{T_{\text{Low}}}{T_{\text{high}}}$$
 
 
 _Hinweis (isotherm): $Q = -W = n \cdot R \cdot T \cdot \ln\frac{V_\text{Ende}}{V_\text{Anfang}}$_
