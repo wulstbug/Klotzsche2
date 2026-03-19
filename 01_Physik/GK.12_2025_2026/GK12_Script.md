@@ -4370,7 +4370,7 @@ Das Elektron springt auf die dritte Bahn.
 ************
 > __Eigenschaften von Laserlicht (im @color(Wellen-, red) und @color(Teilchenbild, blue)):__
 >
-> - [ ] __intensiv__ - {2}{@color(Lichtwelle hat hohe Intensität, red)} {3}{| @color(viele Photonen, blue)}
+> - [ ] __intensiv__ - {2}{@color(Lichtwelle hat hohe Amplitude, red)} {3}{| @color(viele Photonen, blue)}
 > - [ ] __monochromatisch__ - {4}{@color(nur eine Wellenlänge, red)} {5}{| @color(nur eine Energie, blue)}
 > - [ ] __kohärent__ - {6}{@color(Phasenbeziehung konstant -> Wellenberg auf Wellenberg/Wellental auf Wellental, red)} {7}{<br> ![Kohaerenz](https://diversewolken.ddns.net/nextcloud/s/KzCZZR9iPqDGYKq/download)}
 ************

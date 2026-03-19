@@ -590,7 +590,7 @@ Das Elektron springt auf die dritte Bahn.
 
 > __Eigenschaften von Laserlicht (im @color(Wellen-, red) und @color(Teilchenbild, blue)):__
 >
-> - __intensiv__ - @color(Lichtwelle hat hohe Intensität, red) olor(viele Photonen, blue)
+> - __intensiv__ - @color(Lichtwelle hat hohe Amplitude, red) olor(viele Photonen, blue)
 >
 > - __monochromatisch__ - @color(nur eine Wellenlänge, red) | @color(nur eine Energie, blue)
 >
