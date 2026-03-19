@@ -9942,7 +9942,7 @@ $\mathbf{\eta_{max} \approx 0,476}$ (bzw. $47,6 \%$).
 ---
 
 | __4->1:__ | {14}{__Isochore Erwärmung__} | 
-| {15}{$W_{4\rightarrow1}=0 \Rightarrow$ } | {16}{$\Delta U_{1\rightarrow4}=Q_{4\rightarrow1} $ } | 
+| {15}{$W_{4\rightarrow1}=0 \Rightarrow$ } | {16}{$\Delta U_{4\rightarrow1}=Q_{4\rightarrow1} $ } | 
 
 {17}{Das System nimmt die Wärmeenergie $\green{Q_{4\rightarrow1}}$ auf.}
 

@@ -1770,7 +1770,7 @@ Das System gibt die Wärmeenergie $\orange{Q_{2\rightarrow3}}$ ab.
 ---
 
 | __4->1:__ | __Isochore Erwärmung__ | 
-| $W_{4\rightarrow1}=0 \Rightarrow$  | $\Delta U_{1\rightarrow4}=Q_{4\rightarrow1} $  | 
+| $W_{4\rightarrow1}=0 \Rightarrow$  | $\Delta U_{4\rightarrow1}=Q_{4\rightarrow1} $  | 
 
 Das System nimmt die Wärmeenergie $\green{Q_{4\rightarrow1}}$ auf.
 
