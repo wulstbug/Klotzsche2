@@ -9774,7 +9774,7 @@ __Zustandsänderung für ein geschlossenes System__
 | 1. Hauptsatz | $$W=0$$ $$\Rightarrow Q=\Delta U$$ | $$\Delta U=Q+W$$ | $$\Delta U = 0$$ $$\Rightarrow Q = - W $$ | $$Q=0$$ $$\Delta U = W$$ |
 | Beziehungen | $$\dfrac{p}{T}=\text{konst.}$$  | $$\frac{V}{T}=\text{konst.} $$ | $$p \cdot V = \text{konst.} $$| $$p\cdot V^{\kappa}=\text{konst.}$$ $$T\cdot V^{\kappa-1}=\text{konst}$$|
 | Wärmemenge | $$Q=c_v\cdot m\cdot \Delta T$$| $$Q=c_p\cdot m\cdot \Delta T$$ | $$Q=-W$$ | $$Q=0$$ |
-| Volumentarbeit | $$W=0$$ | $$W=-p\,(V_2-V_1)$$ | $$W=-p_1\cdot V_1\displaystyle\int_{V_1}^{V_2} \frac{1}{V}\,\mathrm{d}V$$ $$W=-p_1\cdot V_1 \cdot \ln\left(\frac{V_2}{V_1}\right)$$ | $$ W= -p_1\cdot V_1\displaystyle\int_{V_1}^{V_2} \frac{1}{V^\kappa}\,\mathrm{d}V$$ |
+| Volumentarbeit | $$W=0$$ | $$W=-p\,(V_2-V_1)$$ | $$W=-p_1\cdot V_1\displaystyle\int_{V_1}^{V_2} \frac{1}{V}\,\mathrm{d}V$$ $$W=-p_1\cdot V_1 \cdot \ln\left(\frac{V_2}{V_1}\right)$$ | $$ W= -p_1\cdot V_1^\kappa\displaystyle\int_{V_1}^{V_2} \frac{1}{V^\kappa}\,\mathrm{d}V$$ |
 
 ### Übungsaufgabe Stirling-Prozess
 
