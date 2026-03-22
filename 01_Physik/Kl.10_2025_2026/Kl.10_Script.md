@@ -3176,6 +3176,10 @@ Bei dem <span style="color:orange">Doppelspaltexperiment</span>  beobachten wir,
 > Auf dem Schirm entsteht ein @color(__Interferenzmuster__,blue). Interferenzmuster sind Eigenschaften von Wellen.
 >
 > Licht ist eine Welle. Es benötigt zur Ausbreitung kein Medium.
+> 
+> Die Lichtgeschwindigkeit im Vakuum beträgt $$\boxed{c=3\cdot10^8\,\mathrm{\frac{m}{s}}}$$
+>
+> Es gilt die Wellenausbreitungsgleichung $$ \boxed{c = \lambda \cdot f }$$
 ***************
 
 ## Beugung und Interferenz am Doppelspalt
