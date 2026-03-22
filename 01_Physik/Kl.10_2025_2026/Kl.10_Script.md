@@ -3101,7 +3101,7 @@ __Diagramm:__
 
 [Closeup_PloetzlicheWarIchTaub](https://www.ardmediathek.de/video/close-up/ploetzlich-war-ich-taub/hr/NjRlODBkOWUtMjQ4NC00MzBkLWI5NjEtYjVjZDUwNTMyNmYx)
 
-# Licht als elektromagnetische Welle
+# LB III: Licht als elektromagnetische Welle
 
 ### Aufgaben/Lösungen zum Thema Licht als Welle
 
