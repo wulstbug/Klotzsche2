@@ -3182,9 +3182,41 @@ Bei dem <span style="color:orange">Doppelspaltexperiment</span>  beobachten wir,
 > Es gilt die Wellenausbreitungsgleichung $$ \boxed{c = \lambda \cdot f }$$
 ***************
 
+## Erklärung des Doppelspaltexperiments
+
+[LEIFI-Interferenz-4min_20](https://www.leifiphysik.de/mechanik/mechanische-wellen/grundwissen/interferenz)
+
 ## Beugung und Interferenz am Doppelspalt
 
 <iframe src="https://www.geogebra.org/classic/aptkcsex?embed" width="800" height="600" allowfullscreen style="border: 1px solid #e4e4e4;border-radius: 4px;" frameborder="0"></iframe>
+
+## Gangunterschiede bei Interferenz
+
+<section class="flex-container">
+
+<div class="flex-child-1" style="min-width: 300px; margin-bottom: -10px">
+
+__Konstruktive Interferenz__
+
+Konstruktive Interferenz zweier __kohärenter__ Wellen tritt auf, wenn der @color(__Gangunterschied__ $\Delta s$, red) einem Vielfachen der Wellenlänge $\lambda$ entspricht.
+
+$$\Delta s = k\cdot \lambda$$
+
+</div>
+
+<div class="flex-child-1" style="min-width: 300px; margin-bottom: -10px">
+
+__Destruktive Interferenz__
+
+Destruktive Interferenz zweier __kohärenter__ Wellen tritt auf, wenn der @color(__Gangunterschied__ $\Delta s$, red) einer halben Wellenlänge $\lambda$ plus einem Vielfachen der Wellenlänge entspricht.
+
+$$ \Delta s = \frac{\lambda}{2} + k \cdot \lambda $$
+
+</div>
+
+</section>
+
+$$ k \in \{0;1;2;..\}$$
 
 ## Beugung und Interferenz am Doppelspalt
 
