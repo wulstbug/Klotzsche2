@@ -3155,8 +3155,7 @@ Zwei punktförmige Quellen senden Kreiswellen der selben Wellenlänge aus. Skizz
 
 ## Simulation Wellen
 
-??[Waves2D](https://www.falstad.com/ripple/)
-
+??[Waves2D](https://www.falstad.com/ripple/Ripple.html?rol=$+3+512+64+0+1+578+1.5625e-8%0AS+2+0+1+511+1+0+1.633331+0+10+100+1+0%0A203+0+-56+114+578+114+2+6+15%0A)
 
 ## Das Doppelspaltexperiment
 
