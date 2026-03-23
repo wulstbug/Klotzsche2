@@ -10067,3 +10067,19 @@ Ein Haushaltskühlschrank arbeitet bei einer typischen Umgebungstemperatur von e
 
 </p>
 ************
+
+## 13. 11. Der zweite Hauptsatz der Thermodynamik
+
+> Ein Prozess heißt _irreversibel_ (_nicht umkehrbar_), wenn es nicht möglich ist, den Anfangszustand wieder herzustellen, ohne dass irgendeine andere Änderung der Natur entsteht.
+
+---
+
+__Beispiel:__ 
+
+1. Beim Abkühlen eines Körpers, geht Wärmeenergie von selbst vom Körper höherer Temperatur zum Körper niedrigerer Temperatur über. Niemals wurde der umgekehrte Vorgang beobachtet.
+
+2. Ein bei hohem Druck in einem Behälter eingeschlossenes Gas strömt aus, sobald das Ventil geöffnet wird. Zwei in einem Behälter zunächst getrennte Gase durchmischen sich und entmischen sich nicht von selbst wieder.
+
+---
+
+> __Zweiter Hauptsatz:__ Wärme kann durch eine periodisch arbeitende Maschine nicht vollständig in Arbeit umgewandelt werden. Dies wäre eine Realisierung eines Perpetuum mobile zweiter Art.
