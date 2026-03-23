@@ -10158,3 +10158,73 @@ Die tatsächliche Leistungszahl realer Wärmepumpen liegt häufig bei etwa:  $$C
 </p>
 
 ************
+
+
+### Aufgaben Thermodynamik
+
+<section class="flex-container">
+
+<div class="flex-child-1" style="min-width: 300px; margin-bottom: -10px">
+
+![Metzler_S167_1](https://diversewolken.ddns.net/nextcloud/s/sjDkYCqo4KWzyq6/download)
+
+</div>
+
+<div class="flex-child-1" style="min-width: 300px; margin-bottom: -10px">
+
+<p style='margin-left:10%'>
+
+- [[X]] Wärmpumpe
+- [[ ]] Wärmkraftmaschine
+
+@rangeQuiz2($Q_{zu}$,10,$\mathrm{J}$)
+
+</p>
+
+</div>
+
+</section>
+
+<details style='color:blue;margin-left:10%'>
+
+<summary> Lösung 1. </summary>
+
+
+
+</details>
+
+---
+
+<section class="flex-container">
+
+<div class="flex-child-1" style="min-width: 300px; margin-bottom: -10px">
+
+![Metzler_S_167_2](https://diversewolken.ddns.net/nextcloud/s/kZor4W6YWmbaCeX/download)
+
+</div>
+
+<div class="flex-child-1" style="min-width: 300px; margin-bottom: -10px">
+
+
+<p style='margin-left:10%'>
+
+- [[ ]] Wärmpumpe
+- [[X]] Wärmkraftmaschine
+
+@rangeQuiz2($Q_{CA}$,10,$\mathrm{J}$)
+
+</p>
+
+</div>
+
+</section>
+
+<details style='color:blue;margin-left:10%'>
+
+<summary> Lösung 2. </summary>
+
+
+
+</details>
+
+

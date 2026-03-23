@@ -1957,22 +1957,24 @@ Die tatsächliche Leistungszahl realer Wärmepumpen liegt häufig bei etwa:  $$C
 
 <p style='margin-left:10%'>
 
+- [[X]] Wärmpumpe
+- [[ ]] Wärmkraftmaschine
+
 @rangeQuiz2($Q_{zu}$,10,$\mathrm{J}$)
 
 </p>
-
-<details style='color:blue;margin-left:10%'>
-
-<summary> Lösung </summary>
-
-
-
-</details>
 
 </div>
 
 </section>
 
+<details style='color:blue;margin-left:10%'>
+
+<summary> Lösung 1. </summary>
+
+
+
+</details>
 
 ---
 
@@ -1989,20 +1991,23 @@ Die tatsächliche Leistungszahl realer Wärmepumpen liegt häufig bei etwa:  $$C
 
 <p style='margin-left:10%'>
 
+- [[ ]] Wärmpumpe
+- [[X]] Wärmkraftmaschine
+
 @rangeQuiz2($Q_{CA}$,10,$\mathrm{J}$)
 
 </p>
 
+</div>
+
+</section>
+
 <details style='color:blue;margin-left:10%'>
 
-<summary> Lösung </summary>
+<summary> Lösung 2. </summary>
 
 
 
 </details>
-
-</div>
-
-</section>
 
 
