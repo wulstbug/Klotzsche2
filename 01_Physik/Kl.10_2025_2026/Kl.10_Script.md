@@ -3257,6 +3257,10 @@ Zwei punktförmige Quellen senden Kreiswellen der selben Wellenlänge aus. Skizz
 
 Bei dem <span style="color:orange">Doppelspaltexperiment</span>  beobachten wir, dass ein Laserstrahl, der auf einen sehr kleinen Doppelspalt (Abstand 0,2mm) fällt, auf einem Schirm ein Beugungsmuster hinterlässt.
 
+<section class="flex-container">
+
+<div class="flex-child-1" style="min-width: 300px; margin-bottom: -10px">
+
 {1-2}{![DoubleSlit_1](https://diversewolken.ddns.net/nextcloud/s/C627BjmXdDGxSgK/download)}
 
 {2-3}{![DoubleSlit_2](https://diversewolken.ddns.net/nextcloud/s/fyRqjT4YfTte57s/download)}
@@ -3266,6 +3270,10 @@ Bei dem <span style="color:orange">Doppelspaltexperiment</span>  beobachten wir,
 {4}{![DoubleSlit_4](https://diversewolken.ddns.net/nextcloud/s/KZymn3HGt3CcGH2/download)}
 
 {1-4}{<H3>@color(Was beobachtet man auf dem Schirm?, blue)</H3>}
+
+</div>
+
+<div class="flex-child-1" style="min-width: 300px; margin-bottom: -10px">
 
 {{5}}
 ***************
@@ -3277,6 +3285,14 @@ Bei dem <span style="color:orange">Doppelspaltexperiment</span>  beobachten wir,
 >
 > Es gilt die Wellenausbreitungsgleichung $$ \boxed{c = \lambda \cdot f }$$
 ***************
+
+</div>
+
+</section>
+
+
+
+
 
 ## Erklärung des Doppelspaltexperiments
 
