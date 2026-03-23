@@ -4366,6 +4366,8 @@ Das Elektron springt auf die dritte Bahn.
 
 ## 8. 6. LASER - Prinzip und Funktionsweise
 
+[Begleitvideo-LASER](https://www.youtube.com/watch?v=xWBdRrcI5BM)
+
 {{1}}
 ************
 > __Eigenschaften von Laserlicht (im @color(Wellen-, red) und @color(Teilchenbild, blue)):__
