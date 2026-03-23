@@ -55,7 +55,7 @@ logo: https://diversewolken.ddns.net/nextcloud/s/SfR8K6Tn6mDEFkf/download
 @end
 
 @onload
-window.LIA.settings.font_size = 1
+window.LIA.settings.font_size = 2
 @end
 
 @color
@@ -1868,3 +1868,78 @@ Ein Haushaltskühlschrank arbeitet bei einer typischen Umgebungstemperatur von e
 @rangeQuiz2($\eta_{\text{WP}}$, 13.95 , )
 
 </p>
+
+
+## 13. 11. Der zweite Hauptsatz der Thermodynamik
+
+> Ein Prozess heißt _irreversibel_ (_nicht umkehrbar_), wenn es nicht möglich ist, den Anfangszustand wieder herzustellen, ohne dass irgendeine andere Änderung der Natur entsteht.
+
+---
+
+
+__Beispiele:__ 
+
+<section class="flex-container">
+
+<div class="flex-child-1" style="min-width: 300px; margin-bottom: -10px">
+
+1. Beim Abkühlen eines Körpers, geht Wärmeenergie von selbst vom Körper höherer Temperatur zum Körper niedrigerer Temperatur über. Niemals wurde der umgekehrte Vorgang beobachtet.
+
+</div>
+
+<div class="flex-child-1" style="min-width: 300px; margin-bottom: -10px">
+
+![Wärmetransport](http://www.lernhelfer.de/sites/default/files/styles/lightbox/public/lexicon/image/BWS-PHY-0351-01.jpg?itok=jPbb87s1)
+
+</div>
+
+</section>
+
+---
+
+<section class="flex-container">
+
+<div class="flex-child-1" style="min-width: 300px; margin-bottom: -10px">
+
+2. Ein bei hohem Druck in einem Behälter eingeschlossenes Gas strömt aus, sobald das Ventil geöffnet wird. Zwei in einem Behälter zunächst getrennte Gase durchmischen sich und entmischen sich nicht von selbst wieder.
+
+</div>
+
+<div class="flex-child-1" style="min-width: 300px; margin-bottom: -10px">
+
+![VermischungVonGasen](https://diversewolken.ddns.net/nextcloud/s/GHSWknQW6f9enEB/download)
+
+</div>
+
+</section>
+
+---
+
+> __Zweiter Hauptsatz:__ Wärme kann durch eine periodisch arbeitende Maschine nicht vollständig in Arbeit umgewandelt werden. Dies wäre eine Realisierung eines __Perpetuum mobile zweiter Art__.
+
+---
+
+<p style="margin-left:5%">
+
+__Bemerkung zum Wirkungsgrad bei Wärmepumpen:__ Da $\eta$ für eine Wärmepumpe deutlich größer als Eins werden kann, wäre der zweite Hauptsatz der Thermodynamik verletzt. Ausweg ist hier, dass die zusätzliche Wärmeenergie @color(nicht erzeugt, red), sondern lediglich @color(aus dem kalten Reservoir entnommen wird, blue).
+
+<section class="flex-container">
+
+<div class="flex-child-1" style="min-width: 300px; margin-bottom: -10px">
+
+Man spricht daher statt vom Wirkungsgrad von einer Leistungszahl _COP_ (_coefficient of performance_):
+
+$$ COP_{max} = \dfrac{T_{\mathrm{high}}}{T_\mathrm{high}-T_\mathrm{low}}$$
+
+</div>
+
+<div class="flex-child-1" style="min-width: 300px; margin-bottom: -10px">
+
+Die tatsächliche Leistungszahl realer Wärmepumpen liegt häufig bei etwa:  $$COP_{real} = \dfrac{COP_{max}}{2}$$
+
+</div>
+
+</section>
+
+</p>
+
