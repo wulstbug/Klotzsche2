@@ -3103,6 +3103,102 @@ __Diagramm:__
 
 # LB III: Licht als elektromagnetische Welle
 
+### Experimentelle Übung
+
+<section class="flex-container">
+
+<div class="flex-child-1" style="min-width: 300px; margin-bottom: -10px">
+
+{0-1}{![Dispersion1](https://diversewolken.ddns.net/nextcloud/s/CPSeF9L5wyTKHcF/download)}
+
+{1}{![Dispersion1](https://diversewolken.ddns.net/nextcloud/s/qDL3EEyyrMgFyWC/download)}
+
+
+
+</div>
+
+<div class="flex-child-1" style="min-width: 300px; margin-bottom: -10px">
+
+{0-2}{![Dispersion1](https://diversewolken.ddns.net/nextcloud/s/pabkgcfsHMofDom/download)}
+
+{2-3}{![Dispersion1](https://diversewolken.ddns.net/nextcloud/s/HCDZZcWgMFByrw8/download)}
+
+{3}{![Dispersion1](https://diversewolken.ddns.net/nextcloud/s/mEbpxmK7eeNj8bL/download)}
+
+</div>
+
+</section>
+
+3. Bei der Spektralanalyse wurde für eine Linie die Wellenlänge $\lambda=589\,\mathrm{nm}$ ermittelt. Berechne die Frequenz des Lichts. Ermittle ebenso die Farbe.
+
+<section class="flex-container" style="margin-left:5%">
+
+<div class="flex-child-1" style="min-width: 300px; margin-bottom: -10px">
+
+__geg.:__
+
+<p style="margin-left:10%">
+
+{{4}}
+****************
+
+$\lambda = 589 \cdot 10^{-9}\,\mathrm{m}$
+
+$c = 3 \cdot 10^8 \,\mathrm{\dfrac{m}{s}}$
+
+****************
+
+</p>
+
+__ges.:__
+
+{{4}}
+****************
+<p style="margin-left:10%">
+
+$f$, Farbe
+
+</p>
+****************
+
+
+</div>
+
+<div class="flex-child-1" style="min-width: 300px; margin-bottom: -10px">
+
+__Lsg.:__
+
+{{5}}
+****************
+
+<p style="margin-left:10%">
+
+$ c = \lambda \cdot f$
+
+$ f = \dfrac{c}{\lambda} $
+
+{{6}}
+****************
+$ f = 5,09\cdot 10^{14}\,\mathrm{Hz}$
+****************
+
+
+{{6}}
+****************
+__Farbe:__ Orange/Gelb
+****************
+
+</p>
+
+****************
+
+</div>
+
+</section>
+
+
+
+
 ### Aufgaben/Lösungen zum Thema Licht als Welle
 
 __1. Grundlagen der Wellen__
