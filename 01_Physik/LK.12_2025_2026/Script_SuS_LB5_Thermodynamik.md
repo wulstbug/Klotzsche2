@@ -1945,6 +1945,64 @@ Die tatsächliche Leistungszahl realer Wärmepumpen liegt häufig bei etwa:  $$C
 
 ### Aufgaben Thermodynamik
 
-1. Metzler S. 167/1
+<section class="flex-container">
 
-2. Metzler S. 167/2
+<div class="flex-child-1" style="min-width: 300px; margin-bottom: -10px">
+
+![Metzler_S167_1](https://diversewolken.ddns.net/nextcloud/s/sjDkYCqo4KWzyq6/download)
+
+</div>
+
+<div class="flex-child-1" style="min-width: 300px; margin-bottom: -10px">
+
+<p style='margin-left:10%'>
+
+@rangeQuiz2($Q_{zu}$,10,$\mathrm{J}$)
+
+</p>
+
+<details style='color:blue;margin-left:10%'>
+
+<summary> Lösung </summary>
+
+
+
+</details>
+
+</div>
+
+</section>
+
+
+---
+
+<section class="flex-container">
+
+<div class="flex-child-1" style="min-width: 300px; margin-bottom: -10px">
+
+![Metzler_S_167_2](https://diversewolken.ddns.net/nextcloud/s/kZor4W6YWmbaCeX/download)
+
+</div>
+
+<div class="flex-child-1" style="min-width: 300px; margin-bottom: -10px">
+
+
+<p style='margin-left:10%'>
+
+@rangeQuiz2($Q_{CA}$,10,$\mathrm{J}$)
+
+</p>
+
+<details style='color:blue;margin-left:10%'>
+
+<summary> Lösung </summary>
+
+
+
+</details>
+
+</div>
+
+</section>
+
+
