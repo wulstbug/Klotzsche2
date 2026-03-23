@@ -1943,3 +1943,8 @@ Die tatsächliche Leistungszahl realer Wärmepumpen liegt häufig bei etwa:  $$C
 
 </p>
 
+### Aufgaben Thermodynamik
+
+1. Metzler S. 167/1
+
+2. Metzler S. 167/2
