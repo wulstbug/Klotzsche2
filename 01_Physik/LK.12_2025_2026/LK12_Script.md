@@ -10372,3 +10372,20 @@ $P=\frac{20\,\mathrm{kW}}{6,26} \approx 3,2\,\mathrm{kW}$
 betragen.
 
 </details>
+
+
+### Übung Berechnung von Zustandsänderungen
+
+Eine Wärmekraftmaschine enthält als Arbeitssubstand 1,00 mol eines idealen Gases. Zu Beginn hat dieses ein Volumen von $24,6\,\mathrm{ℓ}$ und eine Temperatur von $400\,\mathrm{K}$. Sie durchläuft folgenden vierschrittigen Kreisprozess: 
+
+- isotherme Epnsion bei $400\,\mathrm{K}$ auf das doppelte Volumen
+
+- isochore Abkühlung auf $300\,\mathrm{K}$
+
+- isotherme Kompression auf das Anfangsvolumen
+
+- Erwärmung bei konstantem Volumen auf die Anfangstemperatur
+
+1. Skizzieren Sie das $p-V$-Diagramm.
+
+2. Berechnen Sie den Wirkungsgrad der Maschine.
