@@ -682,6 +682,10 @@ __Aufgabe:__ Analysiere mit Hilfe des Bildes an der Tafel und die Elemente des A
 
 ??[ArteDokuJamesWebb](https://www.arte.tv/de/videos/114577-000-A/das-james-webb-teleskop-erste-erkenntnisse-aus-dem-all/)
 
+## SpaceNight Doku James Webb
+
+![SpaceNight-JamesWebb](https://www.ardmediathek.de/video/space-night-science/groesser-schaerfer-weiter-das-james-webb-weltraumteleskop/ard-alpha/Y3JpZDovL2JyLmRlL2Jyb2FkY2FzdC9GMjAyNFdPMDE5NjU1QTA)
+
 -> Astronomische Bilder 18:40
 
 # Wiederholung Linsenabbildungen
