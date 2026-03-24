@@ -10228,3 +10228,147 @@ Die tatsächliche Leistungszahl realer Wärmepumpen liegt häufig bei etwa:  $$C
 </details>
 
 
+### Übung - Kreisprozess am idealisierten Viertaktmotor
+
+<section class="flex-container">
+
+<div class="flex-child-1" style="min-width: 300px; margin-bottom: -10px">
+
+Im Gegensatz zu einem Sterling-Motor läuft bei einem Viertaktmotor (Otto- oder Diesel-) eine Innere Verbrennung ab (Verbrennung im Kolben) ab.
+
+Die nebenstehende Abbildung zeigt einen idealisierten Kreisprozess für den Viertaktmotor. Beachten Sie, dass der dargestellte Prozess A->D lediglich die Arbeitstakte _Verdichten_ und _Arbeiten_ abbildet. _Ansaugen_ und _Ausstoßen_ werden über den Buchstaben E abgebildet, hier aber nicht betrachtet.
+
+</div>
+
+<div class="flex-child-1" style="min-width: 300px; margin-bottom: -10px">
+
+![Viertaktmotor](https://diversewolken.ddns.net/nextcloud/s/diRgnsp4xkbDGEz/download)
+
+</div>
+
+</section>
+
+
+1. Lesen Sie die Erläuterungen __Der Kreisprozess des Viertaktmotors__ im LB Metzler S. 176. Vergleichen Sie die Angaben im Lehrbuch Duden S. 229.
+
+2. Zeichnen Sie sich ein schematisches Diagramm des Kreisprozesses auf und benennen Sie die dargestellten Zustandsänderungen.
+
+3. Notieren Sie sich die Berechnungsformel für den Wirkungsgrad des idealisierten Viertakt-Motors.
+
+4. Bestimmen Sie den Wirkungsgrad eines Viertaktmotor, wenn durch die Verwendung von Superbenzin das Kompressionsverhältnis von 1:7 auf 1:11 erhöht wurde. ($\kappa=1,4$). Vergleichen Sie die aktuellen Preise für Normal- und Superbenzin und schätzen Sie den Nutzen dieser Kraftstoffsorte ab.
+
+### Übung Wärmepumpe 
+
+Eine Wärmepumpe führt der Heizung eines Hauses eine Wärmeleistung von $20\ \text{kW}$ zu. Die Außentemperatur beträgt $-10^\circ\text{C}$, und die Temperatur des Heizkessels liegt bei $40^\circ\text{C}$.
+
+a) Ermitteln Sie die Leistungszahl (COP), wenn die Maschine bei denselben Temperaturen vollkommen reversibel, also mit dem Carnot‑Wirkungsgrad, arbeiten würde?
+
+<p style='margin-left:10%'>
+
+@rangeQuiz2($COP_{max}$,6.26, )
+
+</p>
+
+<details style='color:blue;margin-left:10%'>
+
+<summary> Lösungshinweis </summary>
+
+Ermitteln Sie zunächst die absoluten Temperaturen des Prozesses. Ermitteln Sie anschließend den $COP_{max}$ dieses Prozesses.
+
+</details>
+
+<details style='color:blue;margin-left:10%'>
+
+<summary> Lösung </summary>
+
+$T_{\mathrm{high}} = 313 K $
+
+$T_{\mathrm{low}} = 263 K $
+
+Die Leistungszahl $COP_{max}$ ergibt sich aus den Temperaturen:
+
+$ COP_{max} = \dfrac{T_{\mathrm{high}}}{T_\mathrm{high}-T_\mathrm{low}} \approx 6.3$
+
+</details>
+
+---
+
+b) Ermitteln Sie die elektrische Leistung, mit welcher die Wärmepumpe dabei mindestens betrieben werden muss?
+
+
+
+<p style='margin-left:10%'>
+
+@rangeQuiz2($P_{min}$, 3200, $\mathrm{W}$)
+
+</p>
+
+<details style='color:blue;margin-left:10%'>
+
+<summary> Lösung </summary>
+
+$P_{min-real}=\frac{20\,\mathrm{kW}}{0,6\cdot 6,26} \approx 5,3\,\mathrm{kW}$ 
+
+betragen.
+
+</details>
+
+---
+
+c) Reale Wärmepumpen erreichen typischer Weise etwa die Hälfte der theoretisch erreichbaren Leistungszahl. Angenommen, die Wärmepumpe erreicht $60\%$ der theoretischen Leistungszahl einer idealen Wärmepumpe. Mit welcher elektrischen Leistung muss sie dann mindestens betrieben werden?
+
+<p style='margin-left:10%'>
+
+@rangeQuiz2($P_{min}$, 5300, $\mathrm{W}$)
+
+</p>
+
+<details style='color:blue;margin-left:10%'>
+
+<summary> Lösungshinweis </summary>
+
+Überprüfen Sie zunächst die allgemeine Definition des Wirkungsgrades einer Wärmepumpe.
+
+Überprüfen Sie anschließend, welche bereits ermittelten Größen hier einzusetzen sind.
+
+Überprüfen Sie ebenfalls die allgemeine Definition der Leistung.
+
+</details>
+
+<details style='color:blue;margin-left:10%'>
+
+<summary> Lösungshinweis2 </summary>
+
+Die allgemeine Form des Wirkungsgrades bei einer Wärmepumpe lautet
+
+$\eta = \frac{|Q|}{W}$
+
+wobei $|Q|$ die transportierte Wärme und $W$ dafür benötigte Arbeit ist.
+
+Die aufzubringende Arbeit $W$ ist somit 
+
+$W = \frac{|Q|}{\eta}$
+
+Die allgemeine Form der Leistung ist 
+
+$P_{min}=\frac{W}{t}$
+
+Es ergibt sich also 
+
+$P_{min}=\dfrac{\frac{|Q|}{t}}{\eta}$
+
+Der Ausdruck $\frac{|Q|}{t}$ ergibt sich aus dem Aufgabentext.
+
+</details>
+
+<details style='color:blue;margin-left:10%'>
+
+<summary> Lösung </summary>
+
+Die Wärmeleistung beträgt $\frac{|Q|}{t}=20\,\mathrm{kW}$. Die minimale Leistung muss demnach
+
+$P=\frac{20\,\mathrm{kW}}{6,26} \approx 3,2\,\mathrm{kW}$ 
+
+betragen.
+
+</details>
