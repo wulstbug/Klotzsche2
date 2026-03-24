@@ -10378,7 +10378,7 @@ betragen.
 
 Eine Wärmekraftmaschine enthält als Arbeitssubstand 1,00 mol eines idealen Gases. Zu Beginn hat dieses ein Volumen von $24,6\,\mathrm{ℓ}$ und eine Temperatur von $400\,\mathrm{K}$. Sie durchläuft folgenden vierschrittigen Kreisprozess: 
 
-- isotherme Epnsion bei $400\,\mathrm{K}$ auf das doppelte Volumen
+- isotherme Expansion bei $400\,\mathrm{K}$ auf das doppelte Volumen
 
 - isochore Abkühlung auf $300\,\mathrm{K}$
 
@@ -10388,4 +10388,44 @@ Eine Wärmekraftmaschine enthält als Arbeitssubstand 1,00 mol eines idealen Gas
 
 1. Skizzieren Sie das $p-V$-Diagramm.
 
+<p style='margin-left:10%'>
+
+@rangeQuiz2($p_1$,1.352,$\mathrm{bar}$)
+
+</p>
+
+<details style='color:blue;margin-left:10%'>
+
+<summary> Lösung </summary>
+
+![Lösung_p-v-Diagramm](https://diversewolken.ddns.net/nextcloud/s/tBckp385yPtfPHd/download)
+
+</details>
+
+---
+
 2. Berechnen Sie den Wirkungsgrad der Maschine.
+
+<p style='margin-left:10%'>
+
+@rangeQuiz2($\eta$,0.25, )
+
+</p>
+
+<details style='color:blue;margin-left:10%'>
+
+<summary> Lösungshinweis </summary>
+
+Entscheiden Sie, anhand des Kreisprozesses, welche Formel für den Wirkungsgrad angewendet werden kann.
+
+<details style='color:blue;margin-left:10%'>
+
+<summary> Lösung </summary>
+
+Nutzen Sie den idealen Wirkungsgrad für den Sterling-Prozess.
+
+$\eta = 1 - \mathrm{\frac{T_\mathrm{low}}{T_\mathrm{T_{high}}}}$
+
+$\eta = 0.25$
+
+</details>
