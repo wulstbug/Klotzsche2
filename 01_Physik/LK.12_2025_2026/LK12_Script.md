@@ -10374,6 +10374,7 @@ betragen.
 </details>
 
 
+
 ### Übung Berechnung von Zustandsänderungen
 
 Eine Wärmekraftmaschine enthält als Arbeitssubstand 1,00 mol eines idealen Gases. Zu Beginn hat dieses ein Volumen von $24,6\,\mathrm{ℓ}$ und eine Temperatur von $400\,\mathrm{K}$. Sie durchläuft folgenden vierschrittigen Kreisprozess: 
