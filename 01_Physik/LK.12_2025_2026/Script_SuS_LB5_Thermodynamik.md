@@ -1960,7 +1960,7 @@ Die tatsächliche Leistungszahl realer Wärmepumpen liegt häufig bei etwa:  $$C
 - [[X]] Wärmpumpe
 - [[ ]] Wärmkraftmaschine
 
-@rangeQuiz2($Q_{zu}$,10,$\mathrm{J}$)
+@rangeQuiz2($Q_{zu}$,-30,$\mathrm{J}$)
 
 </p>
 
@@ -1972,7 +1972,7 @@ Die tatsächliche Leistungszahl realer Wärmepumpen liegt häufig bei etwa:  $$C
 
 <summary> Lösung 1. </summary>
 
-
+![Metzler_S167_Lsg1](https://diversewolken.ddns.net/nextcloud/s/YCyEM4CPTefB3Xo/download)
 
 </details>
 
@@ -1994,7 +1994,7 @@ Die tatsächliche Leistungszahl realer Wärmepumpen liegt häufig bei etwa:  $$C
 - [[ ]] Wärmpumpe
 - [[X]] Wärmkraftmaschine
 
-@rangeQuiz2($Q_{CA}$,10,$\mathrm{J}$)
+@rangeQuiz2($Q_{CA}$,-5,$\mathrm{J}$)
 
 </p>
 
@@ -2006,7 +2006,7 @@ Die tatsächliche Leistungszahl realer Wärmepumpen liegt häufig bei etwa:  $$C
 
 <summary> Lösung 2. </summary>
 
-
+![Metzler_S167_Lsg2](https://diversewolken.ddns.net/nextcloud/s/2asfdXDQRizQGoJ/download)
 
 </details>
 
