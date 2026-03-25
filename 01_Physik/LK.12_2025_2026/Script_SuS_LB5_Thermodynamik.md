@@ -2073,17 +2073,17 @@ __Wirkungsgrade:__
 
 - _Hinweis: Die hier ermittelten Wirkungsgrade sind in der Praxis nicht zu erreichen. Optimierte Otto-Motoren erreichen Wirkungsgrade von etwa 35 %._
 
-- prozentuale Änderung des Wirkungsgrades -> $\frac{\eta_{S+}-\eta_{E10}}{\eta_{E10}}\approx 14\%$
+- prozentuale Änderung des Wirkungsgrades -> $\frac{\eta_{S+}-\eta_{E10}}{\eta_{E10}}\approx 14,1\,\%$
 
 __Fazit:__
 
 - für das beschriebene SuperPlus Benzin ergibt sich eine Preissteigerung von etwa 10,5 % gegenüber Super E10
 
-- der idealisierte Wirkungsgrad des Benzinmotors steigert sich durch die Nutzung von Super Plus gegenüber Super E10 um etwa 14%
+- der idealisierte Wirkungsgrad des Benzinmotors steigert sich durch die Nutzung von Super Plus gegenüber Super E10 um etwa 14,1 %
 
 - da es sich bei der Berechnung um einen idealisierten Benzinmotor handelt, könnte die Steigerung des Wirkungsgrades im Realfall etwas niedriger ausfallen
 
-- grundsätzlich lässt sich festhaten, dass sich Preis- und Effizienzsteigerung in einem ähnlichen Bereich bewegen, die Effizienzsteigerung ist sogar hier etwas höher (10,5 % vs. 14 %)
+- grundsätzlich lässt sich festhaten, dass sich Preis- und Effizienzsteigerung in einem ähnlichen Bereich bewegen, die Effizienzsteigerung ist sogar hier etwas höher (10,5 % vs. 14,1 %)
 
 </details>
 
@@ -2248,6 +2248,8 @@ Eine Wärmekraftmaschine enthält als Arbeitssubstand 1,00 mol eines idealen Gas
 <summary> Lösungshinweis </summary>
 
 Entscheiden Sie, anhand des Kreisprozesses, welche Formel für den Wirkungsgrad angewendet werden kann.
+
+</details>
 
 <details style='color:blue;margin-left:10%'>
 
