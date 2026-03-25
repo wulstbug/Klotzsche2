@@ -2041,6 +2041,50 @@ Die nebenstehende Abbildung zeigt einen idealisierten Kreisprozess für den Vier
 
 4. Bestimmen Sie den Wirkungsgrad eines Viertaktmotor, wenn durch die Verwendung von Superbenzin das Kompressionsverhältnis von 1:7 auf 1:11 erhöht wurde. ($\kappa=1,4$). Vergleichen Sie die aktuellen Preise für Normal- und Superbenzin und schätzen Sie den Nutzen dieser Kraftstoffsorte ab.
 
+
+<details style='color:blue;margin-left:10%'>
+
+<summary> Lösungshinweise </summary>
+
+Recherchieren Sie den aktuellen Preis für Super E10 und Super Plus Benzin.
+
+Setzen Sie die zusätzlichen Kosten ins Verhältnis und vergleichen Sie dieses mit dem zusätzlichen Vorteil durch einen höheren Wirkungsgrad.
+
+</details>
+
+<details style='color:blue;margin-left:10%'>
+
+<summary> Lösungsvorschlag </summary>
+
+__Preise:__
+
+- Aktueller Preis für Super E10 durchschnittlich 2,10€ in Sachsen [Quelle: Super](https://www.clever-tanken.de/tankstelle_liste?lat=51.0923266387361&lon=13.8264348913262&ort=01099&spritsorte=5&r=5)
+
+- Aktueller Preis für Super Plus durchschnittlich 2,32€ in Sachsen [Quelle: SuperPlus](https://www.clever-tanken.de/tankstelle_liste?lat=51.0923266387361&lon=13.8264348913262&ort=01099&spritsorte=6&r=5)
+
+- Preissteigerung entspricht $\dfrac{2,32-2,10}{2,10}\approx 10,5\%$
+
+__Wirkungsgrade:__
+
+- Wirkungsgrad bei Verdichtung 1:7 -> $\eta_{SE10}=1-\frac{1}{7}^{(\kappa-1)}=0,54$
+
+- Wirkungsgrad bei Verdichtung 1:11 -> $\eta_{S+}=1-\frac{1}{11}^{(\kappa-1)}=0,62$
+
+- prozentuale Änderung des Wirkungsgrades -> $\frac{\eta_{S+}-\eta_{E10}}{\eta_{E10}}\approx 14\%$
+
+__Fazit:__
+
+- für das beschriebene SuperPlus Benzin ergibt sich eine Preissteigerung von etwa 10,5 % gegenüber Super E10
+
+- der idealisierte Wirkungsgrad des Benzinmotors steigert sich durch die Nutzung von Super Plus gegenüber Super E10 um etwa 14%
+
+- da es sich bei der Berechnung um einen idealisierten Benzinmotor handelt, könnte die Steigerung des Wirkungsgrades im Realfall etwas niedriger ausfallen
+
+- grundsätzlich lässt sich festhaten, dass sich Preis- und Effizienzsteigerung in einem ähnlichen Bereich bewegen, die Effizienzsteigerung ist sogar hier etwas höher (10,5 % vs. 14 %)
+
+</details>
+
+
 ### Übung Wärmepumpe 
 
 Eine Wärmepumpe führt der Heizung eines Hauses eine Wärmeleistung von $20\ \text{kW}$ zu. Die Außentemperatur beträgt $-10^\circ\text{C}$, und die Temperatur des Heizkessels liegt bei $40^\circ\text{C}$.
