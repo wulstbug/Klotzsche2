@@ -2050,6 +2050,8 @@ Recherchieren Sie den aktuellen Preis für Super E10 und Super Plus Benzin.
 
 Setzen Sie die zusätzlichen Kosten ins Verhältnis und vergleichen Sie dieses mit dem zusätzlichen Vorteil durch einen höheren Wirkungsgrad.
 
+_Hinweis: Die Formel für den Wirkungsgrad eines Benzinmotors muss für die LK nicht auswendig gelernt werden._
+
 </details>
 
 <details style='color:blue;margin-left:10%'>
