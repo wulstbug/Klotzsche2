@@ -10287,6 +10287,8 @@ __Wirkungsgrade:__
 
 - Wirkungsgrad bei Verdichtung 1:11 -> $\eta_{S+}=1-\frac{1}{11}^{(\kappa-1)}=0,62$
 
+- _Hinweis: Die hier ermittelten Wirkungsgrade sind in der Praxis nicht zu erreichen. Optimierte Otto-Motoren erreichen Wirkungsgrade von etwa 35 %._
+
 - prozentuale Änderung des Wirkungsgrades -> $\frac{\eta_{S+}-\eta_{E10}}{\eta_{E10}}\approx 14\%$
 
 __Fazit:__

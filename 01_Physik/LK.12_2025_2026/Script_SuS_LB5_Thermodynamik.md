@@ -2039,8 +2039,7 @@ Die nebenstehende Abbildung zeigt einen idealisierten Kreisprozess für den Vier
 
 3. Notieren Sie sich die Berechnungsformel für den Wirkungsgrad des idealisierten Viertakt-Motors.
 
-4. Bestimmen Sie den Wirkungsgrad eines Viertaktmotor, wenn durch die Verwendung von Superbenzin das Kompressionsverhältnis von 1:7 auf 1:11 erhöht wurde. ($\kappa=1,4$). Vergleichen Sie die aktuellen Preise für Normal- und Superbenzin und schätzen Sie den Nutzen dieser Kraftstoffsorte ab.
-
+4. Bestimmen Sie den Wirkungsgrad eines Viertaktmotor, wenn bei Superbenzin E10 das Kompressionsverhältnis von 1:7 durch die Verwendung von Super Plus Benzin auf 1:11 erhöht wurde. ($\kappa=1,4$). Vergleichen Sie die aktuellen Preise für Normal- und Superbenzin und schätzen Sie den Nutzen dieser Kraftstoffsorte ab.
 
 <details style='color:blue;margin-left:10%'>
 
@@ -2072,6 +2071,8 @@ __Wirkungsgrade:__
 
 - Wirkungsgrad bei Verdichtung 1:11 -> $\eta_{S+}=1-\frac{1}{11}^{(\kappa-1)}=0,62$
 
+- _Hinweis: Die hier ermittelten Wirkungsgrade sind in der Praxis nicht zu erreichen. Optimierte Otto-Motoren erreichen Wirkungsgrade von etwa 35 %._
+
 - prozentuale Änderung des Wirkungsgrades -> $\frac{\eta_{S+}-\eta_{E10}}{\eta_{E10}}\approx 14\%$
 
 __Fazit:__
@@ -2085,7 +2086,6 @@ __Fazit:__
 - grundsätzlich lässt sich festhaten, dass sich Preis- und Effizienzsteigerung in einem ähnlichen Bereich bewegen, die Effizienzsteigerung ist sogar hier etwas höher (10,5 % vs. 14 %)
 
 </details>
-
 
 ### Übung Wärmepumpe 
 
