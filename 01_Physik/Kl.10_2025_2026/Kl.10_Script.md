@@ -3334,7 +3334,7 @@ $$ k \in \{0;1;2;..\}$$
 
 <section class="flex-container">
 
-<div class="flex-child-3" style="min-width: 300px; margin-bottom: -10px">
+<div class="flex-child-1" style="min-width: 200px; margin-bottom: -10px">
 
 {0-1}{![Doppelspalt1](https://diversewolken.ddns.net/nextcloud/index.php/s/CjeoRm63RYeerPN/download)<!-- style="width:100%" -->}
 {1-2}{![Doppelspalt2](https://diversewolken.ddns.net/nextcloud/index.php/s/MgaPdZqPbmTWGLp/download)<!-- style="width:100%" -->}
@@ -3345,7 +3345,9 @@ $$ k \in \{0;1;2;..\}$$
 
 </div>
 
-<div class="flex-child-2" style="min-width: 300px; margin-bottom: -10px">
+<div class="flex-child-1" style="min-width: 200px; margin-bottom: -10px">
+
+__Beschreibung:__
 
 {{1}}
 ***************
@@ -3361,6 +3363,34 @@ $$ k \in \{0;1;2;..\}$$
 ***************
 3. Im Punkt __A__ beobachten wir konstruktive Interferenz, wir nennen es @color(***Interferenz-Maximum***, green). Dieses Maximum ergibt sich aus der Überlagerung der Elementarwellen aus den Spalten $s_1$ und $s_2$.
 ***************
+
+{{4}}
+***************
+4. Für konstruktive Interferenz muss der Gangunterschied $\purple{\Delta s}$ einem Vielfachen der Wellenlänge entsprechen. <br> $$ \purple{\Delta s= k \cdot \lambda} \hspace{1cm}\mathrm{mit}\,\,k=1,\,2,..$$
+***************
+
+{{5}}
+***************
+5. Im rechtwinkligen Dreieck $\triangle S_1 S_2 P$ gilt:
+
+$$ \dfrac{\purple{\Delta s}}{\blue{d}} = \boxed{\dfrac{\purple{k\cdot\lambda}}{\blue{d}} = \sin(\alpha) }$$
+
+***************
+
+{{6}}
+***************
+6. Im rechtwinkligen Dreieck $\triangle M O A$ gilt:
+
+$$ \boxed{\tan(\alpha) = \blue{\dfrac{a}{e}}}$$
+
+***************
+
+</div>
+
+
+<div class="flex-child-1" style="min-width: 200px; margin-bottom: -10px">
+
+__Berechnung:__
 
 {{4}}
 ***************
