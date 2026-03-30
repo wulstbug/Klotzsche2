@@ -3441,7 +3441,7 @@ Für das erste Interferenz-Maximum ($k=1$) gilt:
 
 ***************
 
-# Kurzprotokoll: Wellenlängenbestimmung am Beugungsgitter
+## Kurzprotokoll: Wellenlängenbestimmung am Beugungsgitter
 
 __Aufgabe:__ Bestimme die Wellenlänge $\lambda$ für zwei Laserfarben mit Hilfe eines Beugungsgitters. 
 
@@ -3488,7 +3488,7 @@ __Mögliche Verbesserungen der Genauigkeit:__
 *************
 
 
-#### Aufgaben zum Thema _Licht als Welle_
+### Aufgaben zum Thema _Licht als Welle_
 
 1. Die Lichtgeschwindigkeit im Vakuum beträgt etwa $3 \cdot 10^8 \, \mathrm{\frac{m}{s}}$. Berechne die Frequenz von grünem Licht mit einer Wellenlänge von 500 nm.
 
