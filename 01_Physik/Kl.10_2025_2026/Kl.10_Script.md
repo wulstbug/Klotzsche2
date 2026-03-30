@@ -3397,14 +3397,14 @@ $$ \boxed{\tan(\alpha) = \blue{\dfrac{a}{e}}}$$
 
 </section>
 
-{{6}}
+{{7}}
 ***************
 > Da wird die Größen $\blue{d,\,e}$ und $\blue{a}$ @color(__messen__, blue) können, lässt sich mit dem __Doppelspalt-Experiment__ die @color(Wellenlänge $\lambda$, purple) des Laserlichts bestimmen.
 
 ---
 ***************
 
-{{7}}
+{{8}}
 ***************
 <section class="flex-container">
 
@@ -3422,7 +3422,7 @@ __Experimentelle Messwerte:__
 
 __Ermittlung der Wellenlänge:__
 
-{{8}}
+{{9}}
 ***************
 > $\tan{\alpha} = \dfrac{a}{e} \hspace{0.5cm}\Rightarrow\hspace{0.5cm}\alpha = \tan^{-1}\Big(\dfrac{a}{e}\Big) = $ <script input="button">
     let d = document.getElementById("d").value;
@@ -3432,7 +3432,7 @@ __Ermittlung der Wellenlänge:__
 </script> °
 ***************
 
-{{9}}
+{{10}}
 ***************
 Für das erste Interferenz-Maximum ($k=1$) gilt:
 
@@ -3443,7 +3443,6 @@ Für das erste Interferenz-Maximum ($k=1$) gilt:
     Math.round(d*Math.sin(Math.atan(a/e))/1e-9)
 </script> nm $\hspace{1cm}\big[\mathrm{nm}=10^{-9}\mathrm{m}\big]$
 ***************
-
 
 </div>
 
