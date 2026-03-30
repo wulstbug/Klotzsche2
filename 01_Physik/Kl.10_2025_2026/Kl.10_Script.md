@@ -3338,11 +3338,11 @@ $$ k \in \{0;1;2;..\}$$
 
 __Skizze:__
 
-{0-1}{![Doppelspalt1](https://diversewolken.ddns.net/nextcloud/index.php/s/CjeoRm63RYeerPN/download)<!-- style="width:100%" -->}
-{1-2}{![Doppelspalt2](https://diversewolken.ddns.net/nextcloud/index.php/s/MgaPdZqPbmTWGLp/download)<!-- style="width:100%" -->}
-{2-3}{![Doppelspalt3](https://diversewolken.ddns.net/nextcloud/index.php/s/QaNR3Q4A8JfSsfA/download)<!-- style="width:100%" -->}
-{3-4}{![Doppelspalt4](https://diversewolken.ddns.net/nextcloud/index.php/s/sAMqHnH3omTsE9W/download)<!-- style="width:100%" -->}
-{4}{![Doppelspalt5](https://diversewolken.ddns.net/nextcloud/index.php/s/rR93K2CqrPDwTDR/download)<!-- style="width:100%" -->}
+{0-1}{![Doppelspalt1](https://diversewolken.ddns.net/nextcloud/s/6tH9E6z3yAy6r5b/download)<!-- style="width:100%" -->}
+{1-2}{![Doppelspalt2](https://diversewolken.ddns.net/nextcloud/s/iW4sH5AyZPX5i42/download)<!-- style="width:100%" -->}
+{2-3}{![Doppelspalt3](https://diversewolken.ddns.net/nextcloud/s/MmQPDqCEBArLyY2/download)<!-- style="width:100%" -->}
+{3-4}{![Doppelspalt4](https://diversewolken.ddns.net/nextcloud/s/QTgQ3q7ejs6sBJe/download)<!-- style="width:100%" -->}
+{4}{![Doppelspalt5](https://diversewolken.ddns.net/nextcloud/s/K2kKxcZNBmYfrBe/download)<!-- style="width:100%" -->}
 
 
 </div>
