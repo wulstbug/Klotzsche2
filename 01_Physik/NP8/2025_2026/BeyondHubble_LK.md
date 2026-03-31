@@ -1871,18 +1871,6 @@ Sonnenradius: 696.000 km
 > <H3> Erstellung eines eigenen astronomischen Bildes aus echten astronomischen Messdaten. </H3>
 ***************
 
-### Wettbewerb Erstellen eines Astronomischen Bildes
-
-[PollUnit-Admin](https://pollunit.com/de/polls/yDOjmsdWVRGZEirtsKXWlw)
-
-<details style='color:blue;margin-left:10%'>
-
-<summary> Teilnahme Umfrage </summary>
-
-[PollUnit-Teilnahme](https://pollunit.com/polls/mjnpnnl9w2iep-d3whsckg)
-
-</details>
-
 ### Überblick
 
 {{1-2}}
@@ -2126,6 +2114,19 @@ __Arbeitsablauf:__
 
 8. __Bilder überblenden:__ Das Programm hat im Hintergrund beide Bilder geladen. Du kannst nun über den Menüpunkt _Tools_ -> _Blending_ beide Bilder übereinander legen. <br> <br> @color(Probiere es einfach aus., blue)
 
+
+
+### Wettbewerb Erstellen eines Astronomischen Bildes
+
+[PollUnit-Admin](https://pollunit.com/de/polls/yDOjmsdWVRGZEirtsKXWlw)
+
+<details style='color:blue;margin-left:10%'>
+
+<summary> Teilnahme Umfrage </summary>
+
+[qr-code](https://pollunit.com/polls/mjnpnnl9w2iep-d3whsckg)
+
+</details>
 
 ## Wie funktioniert eine Weltraumteleskop
 
