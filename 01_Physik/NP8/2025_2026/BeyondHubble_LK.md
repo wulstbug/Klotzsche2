@@ -1871,6 +1871,10 @@ Sonnenradius: 696.000 km
 > <H3> Erstellung eines eigenen astronomischen Bildes aus echten astronomischen Messdaten. </H3>
 ***************
 
+### Wettbewerb Erstellen eines Astronomischen Bildes
+
+[PollUnit](https://pollunit.com/polls/mjnpnnl9w2iep-d3whsckg)
+
 ### Überblick
 
 {{1-2}}
