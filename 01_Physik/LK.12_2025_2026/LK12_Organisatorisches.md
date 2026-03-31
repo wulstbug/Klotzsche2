@@ -23,25 +23,16 @@ icon:   https://diversewolken.ddns.net/klotzsche/logo.jpg
 
 > __Elternabend:__ Dienstag 26.8.25, 18:30 Uhr, R227
 
+__Konsultationen:__
 
-## Notengebung
+1. Konsultation: 01.04.2026 (3. Block) -> Vorabitur durchrechnen
 
-- [Klausuren-Plan-12-1](https://diversewolken.ddns.net/nextcloud/index.php/s/Q7x3Ez5zatqTdkC)
+2. Konsultation: 02.04.2026 (2. Block) -> Fragen vorbereiten
 
-- __Bewertung erfolgt nach dem 40% Modell__
+__Für Konsulationen anmelden:__
 
-- Anzahl der Noten: 2xKlausur, 2x sonstige
 
-<p style="margin-left:5%">
 
-| | | |
-| Art | Termin | Bemerkungen |
-| 1. Sonstige (LK) | 29.01. | Atomvorstellungen |
-| Vorabitur| 24.02. | Lernbereiche 1-12 |
-
-</p>
-
-- Ende 17. Woche -> __Zeugnisse 12/1 am 19.12.2025__
 
 ## Fehlen im Unterricht
 
