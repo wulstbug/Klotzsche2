@@ -1879,7 +1879,7 @@ Sonnenradius: 696.000 km
 
 <summary> Teilnahme Umfrage </summary>
 
-[PollUnit-Teilnahme](https://pollunit.com/de/polls/yDOjmsdWVRGZEirtsKXWlw)
+[PollUnit-Teilnahme](https://pollunit.com/polls/mjnpnnl9w2iep-d3whsckg)
 
 </details>
 
