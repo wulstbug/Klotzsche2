@@ -29,7 +29,12 @@ __Konsultationen:__
 
 2. Konsultation: 02.04.2026 (2. Block) -> Fragen zum Abitur 2026 vorbereiten
 
-[Abitur_2026_Aufgaben](https://diversewolken.ddns.net/nextcloud/s/WCFM7NBLHX3a9xG/download)
+<iframe src="https://diversewolken.ddns.net/pdfjs/web/viewer.html?file=https://diversewolken.ddns.net/nextcloud/s/WCFM7NBLHX3a9xG/download"
+        width="100%" 
+        height="600px">
+</iframe>
+
+[Download: Abitur_2026_Aufgaben](https://diversewolken.ddns.net/nextcloud/s/WCFM7NBLHX3a9xG/download)
 
 
 
