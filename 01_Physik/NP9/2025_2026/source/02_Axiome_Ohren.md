@@ -44,11 +44,13 @@ window.LIA.settings.font_size = 2
 
 # Axiome von P. Watzlawick und Vier-Ohren-Modell
 
-Umfrage: Analoge vs. digitale Kommunikation
+### Umfrage zum Unterrichtsinhalt
+
+__Umfrage: Analoge vs. digitale Kommunikation
 
 Bitte anklicken und ausfüllen. 
 
-Bei zwei Personen, bitte zweimal ausfüllen.
+Bei zwei Personen, bitte zweimal ausfüllen.__
 
 [Umfrage_Analog_Digital ](https://diversewolken.ddns.net/nextcloud/apps/forms/s/jmYsjH6EzDGqYzw4DMoNiLtR)
 
