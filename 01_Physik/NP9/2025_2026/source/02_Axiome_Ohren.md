@@ -46,7 +46,11 @@ window.LIA.settings.font_size = 2
 
 Umfrage: Analoge vs. digitale Kommunikation
 
-??[Umfrage_Analog_Digital ](https://diversewolken.ddns.net/nextcloud/apps/forms/s/jmYsjH6EzDGqYzw4DMoNiLtR)
+Bitte anklicken und ausfüllen. 
+
+Bei zwei Personen, bitte zweimal ausfüllen.
+
+[Umfrage_Analog_Digital ](https://diversewolken.ddns.net/nextcloud/apps/forms/s/jmYsjH6EzDGqYzw4DMoNiLtR)
 
 ### Quiz 1 - Axiome nach Watzlawick
 
