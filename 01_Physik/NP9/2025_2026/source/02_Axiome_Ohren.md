@@ -44,9 +44,9 @@ window.LIA.settings.font_size = 2
 
 # Axiome von P. Watzlawick und Vier-Ohren-Modell
 
-__Erklärvideo:__
+Umfrage: Analoge vs. digitale Kommunikation
 
-[AxiomeNachWatzlawick](https://www.youtube.com/watch?v=GydVGIDyEQ0)
+??[Umfrage_Analog_Digital ](https://diversewolken.ddns.net/nextcloud/apps/forms/s/jmYsjH6EzDGqYzw4DMoNiLtR)
 
 ### Quiz 1 - Axiome nach Watzlawick
 
