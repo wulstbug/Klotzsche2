@@ -27,7 +27,7 @@ __Konsultationen:__
 
 1. Konsultation: 01.04.2026 (3. Block) -> Vorabitur durchrechnen
 
-2. Konsultation: 02.04.2026 (2. Block) -> Fragen zum Abitur 2026 vorbereiten
+2. Konsultation: 02.04.2026 (2. Block) -> Fragen zum Abitur 2025 vorbereiten
 
 <iframe src="https://diversewolken.ddns.net/pdfjs/web/viewer.html?file=https://diversewolken.ddns.net/nextcloud/s/WCFM7NBLHX3a9xG/download"
         width="100%" 
