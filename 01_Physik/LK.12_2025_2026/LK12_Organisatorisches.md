@@ -31,7 +31,7 @@ __Konsultationen:__
 
 <iframe src="https://diversewolken.ddns.net/pdfjs/web/viewer.html?file=https://diversewolken.ddns.net/nextcloud/s/WCFM7NBLHX3a9xG/download"
         width="100%" 
-        height="600px">
+        height="800px">
 </iframe>
 
 [Download: Abitur_2025_Aufgaben](https://diversewolken.ddns.net/nextcloud/s/WCFM7NBLHX3a9xG/download)
