@@ -23,9 +23,15 @@ mode: presentation
 icon:   https://diversewolken.ddns.net/klotzsche/logo.jpg
 -->
 
-__Übersicht Quantenphysik (läd kurz, bitte warten):__
+__Abitur Grundkurs 2025:__
 
-??[MindMap](https://diversewolken.ddns.net/gykl/mindmaps/2025_2026/Zusammenfassung_QP.html)
+<iframe src="https://diversewolken.ddns.net/pdfjs/web/viewer.html?file=https://diversewolken.ddns.net/nextcloud/s/PBYQBEAc6jMKmMb/download"
+        width="100%" 
+        height="800px">
+</iframe>
+
+[Download: Abitur_2025_Aufgaben](https://diversewolken.ddns.net/nextcloud/s/PBYQBEAc6jMKmMb/download)
+
 
 __Korrekturhinweise/Korrekturzeichen__
 
@@ -85,6 +91,15 @@ __Notengebung__
 </p>
 
 - __Ende 12/1__ 17. Woche -> Zeugnisse am 19.12.2025
+
+# Mindmap Klausur
+
+
+__Übersicht Quantenphysik (läd kurz, bitte warten):__
+
+
+
+??[MindMap](https://diversewolken.ddns.net/gykl/mindmaps/2025_2026/Zusammenfassung_QP.html)
 
 # Belehrung - Fachraum
 
