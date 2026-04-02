@@ -106,7 +106,60 @@ try {
 
 ### 1.1.1 Atomaufbau
 
+<span style="color:orange">*Ergänze und übernimm diese Wiederholung.*</span>
+
+> Das Atom wird in zwei Grundstrukturen unterteilt
+
+<!-- style="display: block; width: 100%; margin-left: auto;margin-right: auto;" -->
+``` ascii
+                  Atom
+                    |
+               .----o-----.             
+              /            \             
+             /              \           
+            /                \          
+           v                  v          
+```
+| [[ Atomkern  ]] | [[ Atomhülle ]] |
+| :--: | :--: |
+
+
+
+
+> Darin enthalten sind die Elementarteilchen mit ihren jeweiligen elektrischen Ladungszuständen
+
+| Atomkern | elektrische Ladung |  Atomhülle |
+|:--:|:--:|:--:|
+| | ![Elektron](https://diversewolken.ddns.net/nextcloud/index.php/s/Bnw2kL8nFrErwXP/download)<span class="green">[[ negativ ]]</span> | <span class="green">[[ Elektron ]]</span> |
+| <span class="red"> [[ Proton ]]</span> | ![Proton](https://diversewolken.ddns.net/nextcloud/index.php/s/fs9TTTmjnwRDNm5/download)<span class="red">[[ positiv ]]</span> | |
+| [[ Neutron ]] | ![Neutron](https://diversewolken.ddns.net/nextcloud/index.php/s/YJnsjw6546zn55P/download)neutral | |
+
+Beispiele: 
+
+Das Kohlenstoffatom besitzt [[ 6 ]] Protonen im Kern, wohingegen ein Aluminiumatom [[ 13 ]] Protonen enthält. Die Protonenzahl wird durch die [[ Ordnungszahl ]] festgelegt.
+
+{{1}}
+************
+<span style="color:orange">*Schau dir zur Veranschaulichung noch einmal die verschiedenen Atom-Modelle (LB S. 93) an.*</span>
+![ModelleAtomaufbau](https://diversewolken.ddns.net/nextcloud/index.php/s/Mw2YQeHk4bA3aaL/download)
+
+************
+
 ### 1.1.2 Elektrisch geladene Atome und Körper
+
+<span style="color:orange">*Ergänze und übernimm diese Wiederholung.*</span>
+
+> Ein neutrales (nicht geladenes) Atom besitzt die [[ gleiche ]] Anzahl an Elektronen und Protonen. Ist die Anzahl der geladenen Elementarteilchen nicht gleich, so wird es als [[ Ion ]] bezeichnet. Das gleiche gilt für elektrisch geladene Körper. Negativ geladene Körper enthalten mehr [[ Elektronen ]] als Protonen und bei positiv geladenen Körpern ist es umgekehrt.
+
+Negativ geladene Ionen nennt man [[ Anionen ]].
+
+Positiv geladene Ionen nennt man [[ Kationen ]]
+
+Beispiele:
+
+Kohlenstoff mit 7 Elektronen ist elektrisch einfach [[ negativ ]] geladen. 
+
+Germanium mit 34 Elektronen ist elektrisch [[ zwei ]]-fach [[ negativ ]] geladen.
 
 __Übung:__
 
@@ -114,9 +167,104 @@ __Übung:__
 
 ### Physikalische Beschreibung der elektrischen Ladung
 
+<span style="color:orange">*Nutze LB S. 88. Ergänze und übernimm dieses Tafelbild.*</span>
+
+> Definition: Die elektrische Ladung eines Körpers gibt an, wie groß sein Elektronenüberschuss oder sein Elektronenmangel ist.
+>
+> __Formelzeichen: [[ Q ]]__
+>
+> __Einheit: 1 [[ C ]] ( [[ Coulomb ]] )__
+
+Ein Elektron besitzt die kleinst mögliche Ladungsmenge, man nennt das eine __[[ Elementarladung ]] ($e$)__.
+
+> $$ 1\,e = 1,602\cdot10^{-19} C $$
+
+Die Anzahl $N$ der überzähligen Elementarladungen $e$ ergibt demnach die elektrische Ladung $Q$ eines Körpers. 
+
+> $$Q = N \cdot e $$
+
 ### 1.1.3 Kräfte zwischen elektrisch geladenen Körpern
 
+> Zwischen geladenen Körpern wirken elektrische Kräfte. Dabei stoßen sich gleichnamig geladene Körper ab, wohingegen sich ungleichnamig geladene Körper anziehen.
+
+<span style="color:orange"> _Ergänze mit Hilfe des LBs die wirkenden Kräfte Kraftpfeile. Übernimm die Zeichnung in deinen Hefter._</span>
+![EStatKräfte](https://diversewolken.ddns.net/nextcloud/index.php/s/Bwpb4qQF7jRzHYk/download)<!-- style="display: block; margin-left: auto;margin-right: auto;" -->
+
+<details>
+
+<summary> Lösung </summary>
+
+![EStatKräfte](https://diversewolken.ddns.net/nextcloud/index.php/s/3bj6ESWb8DdS5m3/download)<!-- style="display: block; margin-left: auto;margin-right: auto;" -->
+
+</details>
+
 ## 1.2 Das elektrische Feld
+
+Im Raumbereich um einen __geladenen Körper__ wirkt auf einen anderen geladen Körper eine elektrische __Kraft__ ([Simulation elektrischer Kräfte](https://www.geogebra.org/classic/vbw299uv?embed)).
+
+{{1}}
+***********
+> Um die Kraftwirkung im gesamten Raum zu __illustrieren__ wird der Begriff <span style="color:orange">elektrisches Feld</span> eingeführt.
+***********
+
+{{2}}
+***********
+> Das __elektrische Feld__ verdeutlicht die Kraftwirkung auf eine <span style="color:orange">positive Probeladung</span>, dargestellt durch so genannte <span style="color:orange">Feldlinien.</span> 
+***********
+
+
+{{3}}
+***********
+__Beispiele für elektrische Felder:__
+
+| Radialfeld<br>(_inhomogen_) |  Dipolfeld<br>(_inhomogen_) | Homogenes Feld |
+| {4}{![Radialfeld](https://diversewolken.ddns.net/nextcloud/index.php/s/3r6ngsjZkRr4RD6/download)} | {5}{![Dipolfeld](https://diversewolken.ddns.net/nextcloud/index.php/s/RoDMrztJdHLrSyN/download)} | {6}{![HomogenesFeld](https://diversewolken.ddns.net/nextcloud/index.php/s/fpKSpwGykqjMJZP/download)} |
+| {4}{einzelne Punktladung} | {5}{zwei ungleichnamige Punktladungen} | {6}{Plattenkondensator} |
+
+***********
+
+{{7}}
+***********
+__Es gelten folgende Vereinbahrungen:__
+
+- Feldlinien verlaufen von <span style="color:red">__Plus__</span> nach <span style="color:darkgreen">__Minus__</span>.
+
+- die Richtung der Feldlinie gibt die Kraftrichtung auf eine <span style="color:red">__positive Probeladung__</span> an
+
+- je dichter die Feldlinien in einem bestimmten Gebiet, desto größer ist die dort wirkende Kraft
+
+- in einem __homogenen Feld__ (z.B. innerhalb eines Plattenkondensators) ist der Betrag der wirkenden Kraft überall gleich
+
+- elektrische Feldlinien beginnen/enden senkrecht an einer Oberfläche
+***********
+
+{{8}}
+***********
+> __Quellen und Senken elektrischer Felder:__
+>
+> Elektrische Feldlinien beginnen an positiven Ladungen <span style="color:red">__(Quelle)__</span> und enden an negativen Ladungen <span style="color:darkgreen">__(Senke)__</span>
+***********
+
+{{9}}
+***********
+<span style="color:orange">_Aufgabe: Zeichne das elektrische Feld einer positiv geladenen Punktladung, welche zentral vor einer negativ geladenen Kondensatorplatte positioniert ist. Bei Fragen nutze folgende Hinweise._</span>
+
+<details>
+
+<summary> Hinweis: Anordnung der Ladungen </summary>
+
+![Aufgabe_1_L1](https://diversewolken.ddns.net/nextcloud/index.php/s/3mH8ApKdxxj52dJ/download)
+
+</details>
+
+<details>
+
+<summary> Hinweis: Lage der Feldlinien </summary>
+
+![Aufgabe_1_L2](https://diversewolken.ddns.net/nextcloud/index.php/s/DF6TktoF9Xgyg5A/download)
+
+</details>
+***********
 
 ### Kurze Wiederholung zum elektrischen Feld
 
@@ -125,6 +273,16 @@ __Übung:__
 !?[ElektischesFeld](https://www.youtube.com/watch?v=EN6dTZH-HDs)
 
 ### 1.2.1 Berechnung des elektrischen Feldes
+
+Die Stärke des elektrischen Feldes $\vec{E}$ berechnet sich aus der Kraft $\vec{F}$ auf eine elektrische Ladung $Q$.
+
+> $$ \vec{E} = \frac{\vec{F}}{Q} $$
+>
+> <div style="color:orange">_Hinweis: Die Pfeile über $\vec{E}$ und $\vec{F}$ bedeuten, dass es sich um Vektoren mit einer Richtung und einem Wert (auch Betrag genannt) handelt. Kräfte haben wir bereits als Vektoren gezeichnet._ </div>
+>
+> Einheit: $$\Big[\dfrac{N}{C}\Big]$$
+>
+> $\hspace{1cm}$  <div style="color:orange">_Hinweis: $N$ (Newton) ist die Einheit der Kraft und $C$ (Coulomb) ist die Einheit der elektrischen Ladung._ </div>
 
 ### Aufgaben zum elektrischen Feld (1)
 
@@ -206,13 +364,152 @@ __Übung:__
 
 ## 1.3. Der Kondensator
 
+__Definition:__ Ein Kondenstator ist ein Bauelement zur __Speicherung von elektrischer Ladung__. Er besteht aus zwei leitenden Schichten, die durch einen Isolator (@color(Dielektrikum,orange)) voneinander getrennt sind @color([Vlg. LB S. 80], darkgrey).
+
+Einfachste Bauform: @color(__Plattenkondensator__, orange) 
+
+
+![Plattenkondensator](https://diversewolken.ddns.net/nextcloud/index.php/s/Sw39rmgGTYbZL7S/download) <!--style="display:block;margin-left:auto;margin-right:auto; max-width:400px"-->
+
+{{1}}
+*******
+__Eigenschaften eines Plattenkondensators:__
+
+- auf den beiden Platten eines Plattenkondensators werden __elektrische Ladungen $Q$__ gespeichert
+*******
+
+{{2}}
+*******
+- __das elektrische Feld__ zwischen den Platten ist @color(homogen, orange), d.h. es hat an jedem Punkt dieselbe Feldstärke $\vec{E}$
+*******
+
+{{3}}
+*******
+- __die Feldlinien__ zeigen von der @color(positiven, red) Platte zur @color(negativen, blue) Platte
+*******
+
+{{4}}
+*******
+- __das elektrische Feld__ $\vec{E}$ eines Plattenkondensators berechnet sich mit
+*******
+
+{{5}}
+*******
+> $$ \boxed{\vec{E} = \dfrac{U}{d}} $$
+>
+> $\hspace{1cm}$ $U$ ... Spannung zwischen den Platten $\big[ V \big]$ 
+>
+> $\hspace{1cm}$ $d$ ... Abstand der Platten $\big[ m \big]$ 
+
+- wird in das elektrische Feld eine elektrische Ladung eingebracht, so wirkt auf die Ladung eine elektrische Kraft die mit $\vec{F}=\vec{E}\cdot q$ berechnet werden kann
+*******
+
 ### Aufgabe 1. - Plattenkondensator
 
 An einem Plattenkondensator beträgt die Spannung 1,5 kV und der Plattenabstand 3,2cm. 
 
 Bestimme die Kraft, die auf einen Körper mit einer Ladung von 20 nC wirkt <br> @color(Hinweis: $nC=10^{-9}C$ [Nano-Coulomb], grey) <br> @color(Lösung: siehe Lehrbuch S.97, grey)
 
+
 ## 1.4. Die Kapazität
+
+__Definition:__ Die @color(Kapazität, orange) eines Kondensators beschreibt seine Fähigkeit eine __Ladungsmenge Q__ zu speichern, wenn eine bestimmte __Spannung U__ angelegt wird.
+
+{{1}}
+*********
+> __Formel:__ 
+>
+> $$ \boxed{ C = \dfrac{Q}{U} } $$
+>
+> $\hspace{1cm}$ $C$ ... Kapazität  
+>
+> $\hspace{1cm}$ $Q$ ... im Kondensator gespeicherte Ladung $\big[ C \big]$ 
+>
+> $\hspace{1cm}$ @color(_Hinweis: Im folgenden werden wir den Buchstaben **Q** für die Ladung auf dem Kondensator und den Buchstaben **q** für die Ladung eines Teilchens im elektrischen Feld verwenden_, orange)
+>
+> $\hspace{1cm}$ $U$ ... angelegte Spannung $\big[ V \big]$ 
+*********
+
+{{2}}
+*********
+> __Einheit der Kapazität:__  $$\textbf{1 Farad = 1 F}$$
+>
+> $$\Big[ F = \dfrac{C}{V} \Big] $$
+*********
+
+{{3}}
+*********
+> _Für die einfachste Bauform eines Kondensators [siehe 1.3](#13-der-kondensator) kann man die Kapazität wie folgt berechnen:_
+> 
+> __Kapazität eines @color(Plattenkondensators, orange):__
+>
+> $$ \boxed{ C = \varepsilon_0 \cdot \varepsilon_r \cdot \dfrac{A}{d} } $$
+>
+> <p style="text-align:center">[IQB-Formelsammlung](https://www.iqb.hu-berlin.de/abitur/abitur/dokumente/naturwissenschaften/N_Mathematischna.pdf) (S.28+54)</p>
+*********
+
+{{4}}
+*********
+> $\hspace{1cm}$ $C$ ... Kapazität  
+>
+> $\hspace{1cm}$ $\varepsilon_0$ ... elektrische Feldkonstante $\boxed{\varepsilon_0 = 8,854 \cdot 10^{-12}\,\dfrac{A\cdot s}{V \cdot m}}$
+>
+> $\hspace{1cm}$ $\varepsilon_r$ ... Dielektrizitätszahl [Einheitenlos] @color( - Luft/Vakuum: $\varepsilon_r=1$,blue)
+>
+> $\hspace{1cm}$ $A$ ... Flächeninhalt der Platte $[m^2]$
+>
+> $\hspace{1cm}$ $d$ ... Abstand der Platten $[m]$
+*********
+
+{{5}}
+*********
+__Beispiel:__ _Ermittle die Kapazität des Plattenkondensators auf dem Lehrertisch. Komm dazu in kleiner Gruppe nach vorn und bestimme die notwendigen Werte._
+
+<p class="newspaper">
+
+geg.:
+
+<div style="text-indent:10%">
+
+$A$ = <bdi style="color:orange"> $28\,cm \cdot 28\,cm = 0,28 \cdot 0,28\,m^2 = 0,0784 m^2$</bdi>
+
+$d$  <bdi style="color:orange"> $\approx 1,5\,cm = 0,015 m$ </bdi>
+
+$\varepsilon_r$ = <bdi style="color:orange"> $ = 1$ </bdi>
+
+</div>
+
+<p class="cb">
+
+ges.:
+
+<div style="text-indent:10%">
+
+$C$
+
+</div>
+
+Lsg.:
+
+<div style="text-indent:10%">
+
+$C = \varepsilon_0 \cdot \varepsilon_r \cdot \dfrac{A}{d} $
+
+$C \approx $  <bdi style="color:orange"> $ 4,6 \cdot 10^{-11} F $ = $ 46\,pF$  </bdi>
+
+<bdi style="color:orange">Lösungen $ C = 2 \cdot 10^{-11}\,F$ bis $ 8 \cdot 10^{-11}\,F $ sind akzeptabel</bdi>
+
+Beispiel: Taschenrechner:
+
+![GTR](https://diversewolken.ddns.net/nextcloud/index.php/s/939gMiCMEoNn7bL/download)<!-- style="width:80%" -->
+
+</div>
+
+</p>
+
+</p>
+
+*********
 
 ### Aufgabe 2. Elektrische Ladung
 
@@ -344,6 +641,20 @@ Gewichtskraft und elektrische Kraft müssen gleich groß sein, damit das Proton 
 
 ## 1.5 Energie im elektrischen Feld
 
+
+> Im elektrischen Feld eines Kondensators ist Energie gespeichert und wird als __elektrische Feldenergie $E_{Feld}$__  bezeichnet.
+>
+> $$ \boxed{E_{Feld} = \frac{1}{2}\cdot Q \cdot U} $$
+>
+> $$ \boxed{E_{Feld} = \frac{1}{2}\cdot C \cdot U^2} $$
+>
+> $\hspace{1cm}$ $C$ ... Kapazität des Kondensators $\big[ F \big]$
+>
+> $\hspace{1cm}$ $Q$ ... im dem Kondensator gespeicherte Ladung $\big[ C \big]$
+>
+> $\hspace{1cm}$ $U$ ... am Kondensator anliegende Spannung $\big[ V \big]$
+
+
 ### Aufgabe 5: Feldenergie im Kondensator
 
 5. 1. Ergänze folgende Aussage: Um die Feldenergie eines Kondensators zu erhöhen kann man:
@@ -402,6 +713,10 @@ Gewichtskraft und elektrische Kraft müssen gleich groß sein, damit das Proton 
 
 
 ## 1.6 Potentielle Energie elektrischer Ladungen im Feld eines Plattenkondensators
+
+
+![Tafelbild_potEnergie_EFeld](https://diversewolken.ddns.net/nextcloud/index.php/s/Po989qzJJYmz4AJ/download)
+
 
 ### Aufgabe zur elektrischen potentiellen Energie
 
