@@ -36,7 +36,7 @@ __Konsultationen:__
 
 [Download: Abitur_2025_Aufgaben](https://diversewolken.ddns.net/nextcloud/s/WCFM7NBLHX3a9xG/download)
 
-
+3. Konsultation: 13.04. (2. Block) - R227
 
 
 ## Fehlen im Unterricht
