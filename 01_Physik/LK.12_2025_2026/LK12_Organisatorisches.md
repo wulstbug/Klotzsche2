@@ -21,15 +21,13 @@ logo: https://www.sekretaria.de/wp-content/uploads/2011/06/Kalender_Terminplan__
 icon:   https://diversewolken.ddns.net/klotzsche/logo.jpg
 -->
 
-> __Elternabend:__ Dienstag 26.8.25, 18:30 Uhr, R227
-
-__Konsultationen:__
-
-1. Konsultation: 01.04.2026 (3. Block) -> Vorabitur durchrechnen
-
-2. Konsultation: 02.04.2026 (2. Block) -> Fragen zum Abitur 2025 vorbereiten
-
-3. Konsultation: 13.04. (2. Block) - R227
+> __Konsultationen:__
+>
+> 1. Konsultation: 01.04.2026 (3. Block) -> > Vorabitur durchrechnen
+>
+> 2. Konsultation: 02.04.2026 (2. Block) -> Fragen zum Abitur 2025 vorbereiten
+>
+> 3. Konsultation: 13.04. (2. Block) - R227
 
 <iframe src="https://diversewolken.ddns.net/pdfjs/web/viewer.html?file=https://diversewolken.ddns.net/nextcloud/s/WCFM7NBLHX3a9xG/download"
         width="100%" 
