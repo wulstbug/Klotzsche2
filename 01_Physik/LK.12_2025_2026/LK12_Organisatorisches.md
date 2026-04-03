@@ -39,6 +39,11 @@ __Konsultationen:__
 [Download: Abitur_2025_Aufgaben](https://diversewolken.ddns.net/nextcloud/s/WCFM7NBLHX3a9xG/download)
 
 
+[Download: Moebius-Programm-Ionenantrieb](https://diversewolken.ddns.net/nextcloud/s/LzPBPowtxAqPcKF/download)
+
+[Download: Lösung-Aufgabe-Ionenantrieb](https://diversewolken.ddns.net/nextcloud/s/QKrDNTGo62MQoEw/download)
+
+
 
 ## Fehlen im Unterricht
 
