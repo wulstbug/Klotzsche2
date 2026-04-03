@@ -23,6 +23,12 @@ mode: presentation
 icon:   https://diversewolken.ddns.net/klotzsche/logo.jpg
 -->
 
+> __Konsultationen Schriftliches Abitur:__
+>
+> 1. Konsultation: 02.04.2026 (1. Block)
+>
+> 2. Konsultation: 13.04.2026 (1. Block)
+
 __Abitur Grundkurs 2025:__
 
 <iframe src="https://diversewolken.ddns.net/pdfjs/web/viewer.html?file=https://diversewolken.ddns.net/nextcloud/s/PBYQBEAc6jMKmMb/download"
