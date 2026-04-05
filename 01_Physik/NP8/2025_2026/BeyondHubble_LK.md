@@ -113,7 +113,7 @@ window.LIA.settings.font_size = 2
 
 @end
 
-mode: textbook
+mode: lab
 
 -->
 
