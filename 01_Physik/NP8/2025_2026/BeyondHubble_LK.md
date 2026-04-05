@@ -113,12 +113,12 @@ window.LIA.settings.font_size = 2
 
 @end
 
-mode: presentation
+mode: Presentation
 
 -->
 
 
-# Naturwissenschaftliches Profil Klasse 8 new3
+# Naturwissenschaftliches Profil Klasse 8 new4
 
 @uhr
 
