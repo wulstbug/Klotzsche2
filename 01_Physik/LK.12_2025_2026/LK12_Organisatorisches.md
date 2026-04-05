@@ -7,6 +7,18 @@ language: de
 
 logo: https://www.sekretaria.de/wp-content/uploads/2011/06/Kalender_Terminplan__68976575_Itan1409_XXL_Website.jpg
 
+@onload
+window.LIA.settings.font_size = 2
+
+
+const canvas = document.querySelector('.lia-canvas')
+if (canvas) {
+  canvas.classList.remove('lia-navigation--visible')
+  canvas.classList.add('lia-navigation--hidden')
+}
+
+@end
+
 @style
 .lia-effect__circle {
     display: none !important;
