@@ -224,11 +224,12 @@ mode: presentation
 
 # Motivation 1
 
-??[Artemis2](https://www.tagesschau.de/video/video-1571622.html)
+[Artemis2](https://www.tagesschau.de/video/video-1571622.html)
 
 # Digitale Messwerterfassung mit Cassy
 
-__Physikalische Messgrößen für Digitale Messwerterfassung__
+__Zur Überwachung und Steuerung komplexer technischer Anwendungen müssen verschiende physikalische Größen digital und automatisch gemessen werden. Diese Größen können sein:__
+
 
 
 
@@ -244,8 +245,7 @@ __Physikalische Messgrößen für Digitale Messwerterfassung__
 
 <div style="margin-left:5%">
 
-> __Ziel:__ Temperatur-Zeit-Graph $\vartheta(t)$ auf Cassy anzeigen und im Hefter notieren
-
+> __Ziel:__ Temperatur-Zeit-Graph $\vartheta(t)$ auf Cassy anzeigen
 
 </div>
 
