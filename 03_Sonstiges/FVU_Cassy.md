@@ -308,11 +308,9 @@ __Bedienung am Cassy-Messgerät:__
 
 <div style="margin-left:5%">
 
-> __Ziel:__ Temperatur-Zeit-Graph $\vartheta(t)$ auf Cassy anzeigen und im Hefter notieren
-
+> __Ziel:__ $U(t)$ und $I(t)$-Graph für das Einschalten einer Glühlampe ermitteln. 
 
 </div>
-
 
 <details style="margin-left:5%">
 
@@ -352,7 +350,7 @@ __Bedienung am Cassy-Messgerät:__
 > - [ ] Stromstärkemessung $I$ mit Cassy
 > - [ ] Cassy-Steuerung mit IPADS (App)
 > - [ ] Zeitgesteuerte (automatisierte) Erfassung von $U$ und $I$
-> - [ ] Messwerte als Diagramm darstellen und drucken
+> - [ ] Messwerte als Diagramm darstellen und ausdrucken
 
 </details>
 
