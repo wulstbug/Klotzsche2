@@ -295,6 +295,10 @@ __Bedienung am Cassy-Messgerät:__
 
 </section>
 
+### Motivation Teil 2
+
+
+
 ## Teil 2 - Automatisierte Messwertaufname von Spannung und Stromstärke
 
 
@@ -310,27 +314,39 @@ __Bedienung am Cassy-Messgerät:__
 
 > __Ziel:__ $U(t)$ und $I(t)$-Graph für das Einschalten einer Glühlampe ermitteln. 
 
+{{0-1}}
+**************
+![Schaltkreis_Spannung](https://diversewolken.ddns.net/nextcloud/s/w8NBCSBjzbaqBDT/download)<!-- style="max-width:500px" -->
+
+**************
+
+{{1-2}}
+**************
+![Schaltkreis_Spannung](https://diversewolken.ddns.net/nextcloud/s/TF3HcxiFQWZW9Hy/download)<!-- style="max-width:500px" -->
+
+**************
+
+{{2}}
+**************
+![Schaltkreis_Spannung](https://diversewolken.ddns.net/nextcloud/s/ynzGtcbHrqiyi6n/download)<!-- style="max-width:500px" -->
+
+**************
+
 </div>
+
+
 
 <details style="margin-left:5%">
 
 <summary> __Durchführung:__  </summary>
 
-1. Verbinde den Temperatursensor mit deinem Cassy-Messgerät.
+1. Verbinde dein Glühlampe und einem Taster mit der Spannungsquelle.  Überprüfe durch Schließen des Schalters, ob die Glühlampe funktioniert.
 
-2. Überprüfe ob sich die Temperaturanzeige verändert, wenn du den Temperatursensor zwischen deine Finger klemmst.
+2. Ergänze parallel zur Glühlampe das Cassy als Spannungsquelle -> Spannung $U$ aktivieren
 
-3. Stelle einen sinnvollen Messbereich ein(Min-Max-Temperatur)
+3. Stelle das Cassy-Messgerät auf Spannungsmessung ein. Betätige den Schalter und überprüfe, ob das Cassy die Spannung anzeigt.
 
-4. Starte eine automatische Messwertaufnahme und nimm die Temperaturkurve vom Greifen und Loslassen des Temperatursensors auf.
-
-</details>
-
-<details style="margin-left:5%">
-
-<summary> __Hefternotizien:__  </summary>
-
-![Hefternotizen_1](https://diversewolken.ddns.net/nextcloud/s/XWHCzdmocYS6JgH/download)
+4. Erstelle die Startbedingung für die Messung (Trigger: $U>1\,\mathrm{V}$, Messzeit: $0,5\,\mathrm{s}$)
 
 </details>
 
@@ -346,17 +362,36 @@ __Bedienung am Cassy-Messgerät:__
 
 __Bedienung am Cassy-Messgerät:__
 
+> - [ ] [Cassy mit dem IPad verbinden](https://liascript.github.io/nightly/?https://raw.githubusercontent.com/wulstbug/Klotzsche2/2025_2026/03_Sonstiges/GK11_Cassy_Kondensator.md#14)
 > - [ ] Spannungsmessung $U$ mit Cassy
 > - [ ] Stromstärkemessung $I$ mit Cassy
-> - [ ] Cassy-Steuerung mit IPADS (App)
-> - [ ] Zeitgesteuerte (automatisierte) Erfassung von $U$ und $I$
+> - [ ] Cassy-Steuerung mit IPad (App)
+> - [ ] Zeitgesteuerte (automatisierte) Erfassung von $U(t)$ und $I(t)$
 > - [ ] Messwerte als Diagramm darstellen und ausdrucken
+
+</details>
+
+<details>
+
+<summary> __Cassy-Einstellungen__ </summary>
+
+![Einstellungen_Cassy_1](https://diversewolken.ddns.net/nextcloud/s/bqpEdZ7gRZ8pJ85/download)
 
 </details>
 
 </div>
 
 </section>
+
+---
+
+<details style="color:blue">
+
+<summary> __Hefternotizien:__  </summary>
+
+![Hefternotizen_2](https://diversewolken.ddns.net/nextcloud/s/aAp7pNaoiBaSXiM/download)
+
+</details>
 
 ## Teil 3 - Schnell ablaufende Experimente
 

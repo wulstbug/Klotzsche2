@@ -52,7 +52,13 @@ h1, h2, h3, h4, h5, h6 {
 
 @onload
 window.LIA.settings.font_size = 2
-@end
+
+
+const canvas = document.querySelector('.lia-canvas')
+if (canvas) {
+  canvas.classList.remove('lia-navigation--visible')
+  canvas.classList.add('lia-navigation--hidden')
+}
 
 @uhr
 <div style="position: fixed; right:50px; top:100px;">
