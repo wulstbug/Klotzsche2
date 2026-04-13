@@ -424,15 +424,14 @@ __Bedienung am Cassy-Messgerät:__
 -->
 > Mit dem Cassy Messgerät können sehr viele [[ (__physikalische Größen__) | __Kanal A (Stecker: @color(rot, red)+@color(schwarz))__ | __Kanal B (Stecker @color(schwarz)+@color(blau, blue))__ | __Sensor__ | __Trigger__ | __Messzeit__ | __Messintervall__ ]]  gemessen werden. Viele Größen benötigen einen eigenen [[ __physikalische Größen__ | __Kanal A (Stecker: @color(rot, red)+@color(schwarz))__ | __Kanal B (Stecker @color(schwarz)+@color(blau, blue))__ | (__Sensor__) | __Trigger__ | __Messzeit__ | __Messintervall__ ]] . <br> <br> Für die __Spannung__ $U$ nutzen wir: [[ __physikalische Größen__ | (__Kanal A (Stecker: @color(rot, red)+@color(schwarz))__ ) | __Kanal B (Stecker @color(schwarz)+@color(blau, blue))__ | __Sensor__ | __Trigger__ | __Messzeit__ | __Messintervall__ ]] . <br> Für die __Stromstärke__ $I$ nutzen wir [[ __physikalische Größen__ | __Kanal A (Stecker: @color(rot, red)+@color(schwarz))__ | ( __Kanal B (Stecker @color(schwarz)+@color(blau, blue))__ ) | __Sensor__ | __Trigger__ | __Messzeit__ | __Messintervall__ ]] . <br> <br> Damit eine Messung automatisiert startet benötigt sie ein __Startsignal__, man nennt das [[ __physikalische Größen__ | __Kanal A (Stecker: @color(rot, red)+@color(schwarz))__ | __Kanal B (Stecker @color(schwarz)+@color(blau, blue))__ | __Sensor__ | (__Trigger__) | __Messzeit__ | __Messintervall__ ]] . Dieses Startsignal kann z.B. das Überschreiten der Spannung $U>0,5\,\mathrm{V}$ sein. <br> <br> Bevor die Messung gestartet werden kann, muss die Gesamtzeit für die Messung eingestellt werden: die [[ __physikalische Größen__ | __Kanal A (Stecker: @color(rot, red)+@color(schwarz))__ | __Kanal B (Stecker @color(schwarz)+@color(blau, blue))__ | __Sensor__ | __Trigger__ | (__Messzeit__) | __Messintervall__ ]] . <br> Außerdem muss  der Zeitabstand zwischen den Messwerten definiert werden, das heißt [[ __physikalische Größen__ | __Kanal A (Stecker: @color(rot, red)+@color(schwarz))__ | __Kanal B (Stecker @color(schwarz)+@color(blau, blue))__ | __Sensor__ | __Trigger__ | __Messzeit__ | (__Messintervall__) ]] .
 
+# Teil 3 - Automatisierte Aufname: Heißleiter
+
+<iframe src="https://diversewolken.ddns.net/pdfjs/web/viewer.html?file=https://diversewolken.ddns.net/nextcloud/s/9FZ5pTMLpDWPayt/download"
+        width="100%" 
+        height="600px">
+</iframe>
 
 
+## Teil 4 - Schnell ablaufende Experimente
 
-## Teil 3 - Schnell ablaufende Experimente
-
-<details style='color:blue;margin-left:10%'>
-
-<summary> Experiment 3: Einschaltvorgang einer Glühlampe </summary>
-
-> __Ziel:__ Einschaltvorgang einer Glühlampe $I(t)$-Diagramm
-
-</details>
+__Experiment 4:__ Einschaltvorgang von LED und Glühlampe
