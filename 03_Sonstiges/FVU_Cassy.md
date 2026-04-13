@@ -224,7 +224,7 @@ mode: presentation
 
 # Motivation 1
 
-!?[Artemis2](https://www.youtube.com/watch?v=2OfeWAY-s3Q)
+??[Artemis2](https://www.tagesschau.de/video/video-1571622.html)
 
 # Digitale Messwerterfassung mit Cassy
 
