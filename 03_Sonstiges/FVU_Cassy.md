@@ -442,3 +442,121 @@ __Bedienung am Cassy-Messgerät:__
 Nutze folgenden QR-Code und lass dich zum Thema automatische Messwerterfassung am Fahrzeug interviewen.
 
 [qr-code](http://10.102.1.3:3001/?q=F%C3%BChre%20mit%20mir%20ein%20Interview%20%C3%BCber%20die%20automatische%20Erhebung%20von%20Sensordaten%20in%20Fahrzeugen.%20Frage%20mich%20nach%20meiner%20Meinung%20zur%20Erhebung%20von%20personenbezogenen%20Daten%20%28z.B.%20Gewicht,%20Fahrverhalten,%20h%C3%A4ufige%20Routen,%20Personenanzahl,%20Alter%20etc.%29%20und%20das%20Recht%20auf%20diese%20Daten.%20Frage%20mich%20nach%20Vorteilen%20%28z.B.%20erh%C3%B6hte%20Sicherheit,%20Komfort%29%20aber%20auch%20Risiken%20%28z.B.%20ungewollte%20Informationsfreigabe,%20Schutz%20der%20Pers%C3%B6nlichkeitsrechte%29.%20Stelle%20mir%20die%20Fragen%20eine%20nach%20der%20anderen%20und%20diskutiere%20mit%20mir%20anschlie%C3%9Fend%20meine%20Position.)
+
+### Quiz - Festigung Cassy Messgerät
+
+__Frage 1 – Single Choice__
+
+Warum ist die digitale Messwerterfassung in der Technik wichtig?
+
+- [( )] Damit Physiklehrer weniger korrigieren müssen
+- [(X)] Zur Überwachung und Steuerung komplexer technischer Anwendungen
+- [( )] Um analoge Messgeräte teurer erscheinen zu lassen
+- [( )] Weil digitale Geräte besser aussehen
+
+__Frage 2 – Multiple Choice__
+
+Welche physikalischen Größen wurden im Unterricht mit dem Cassy gemessen?
+
+- [[X]] Temperatur
+- [[X]] Spannung
+- [[X]] Stromstärke
+- [[ ]] Schallgeschwindigkeit
+- [[ ]] Luftfeuchtigkeit
+
+__Frage 3 – Single Choice__
+
+Wie wird der Temperatursensor beim ersten Experiment getestet?
+
+- [( )] Man hält ihn unter fließendes Wasser
+- [( )] Man legt ihn auf die Heizung
+- [(X)] Man klemmt ihn zwischen die Finger
+- [( )] Man pustet ihn an
+
+__Frage 4 – Single Choice__
+
+Welcher Graph soll in Experiment 1 auf dem Cassy angezeigt werden?
+
+- [( )] $U(t)$ – Spannung-Zeit-Graph
+- [( )] $I(t)$ – Stromstärke-Zeit-Graph
+- [(X)] $\vartheta(t)$ – Temperatur-Zeit-Graph
+- [( )] $s(t)$ – Weg-Zeit-Graph
+
+__Frage 5 – Zuordnung (Lückentext)__
+
+Geben Sie den Kanal an, mit welchem die folgende Größe gemessen wird.
+
+Die **Spannung** $U$ wird über [[Kanal A]] gemessen (Stecker: rot + schwarz).
+Die **Stromstärke** $I$ wird über [[Kanal B]] gemessen (Stecker: schwarz + blau).
+
+__Frage 6 – Single Choice__
+
+Was versteht man beim Cassy unter einem **Trigger**?
+
+- [( )] Den Knopf zum Ausschalten des Geräts
+- [( )] Den Anschluss für den Sensor
+- [(X)] Ein Startsignal, das die automatische Messung auslöst
+- [( )] Die Batterieanzeige
+
+__Frage 7 – Single Choice__
+
+Welcher Trigger wurde in Experiment 2 für die Spannungsmessung verwendet?
+
+- [( )] $I > 1\,\mathrm{A}$
+- [(X)] $U > 0,5\,\mathrm{V}$
+- [( )] $\vartheta > 30\,°\mathrm{C}$
+- [( )] $t > 10\,\mathrm{s}$
+
+__Frage 8 – Single Choice__
+
+Welche Messzeit wurde für die Spannungsmessung beim Einschalten der Glühlampe eingestellt?
+
+- [( )] $5\,\mathrm{s}$
+- [( )] $1\,\mathrm{min}$
+- [(X)] $1\,\mathrm{s}$
+- [( )] $10\,\mathrm{s}$
+
+__Frage 9 – Multiple Choice__
+
+Welche Einstellungen müssen vor einer automatisierten Messung am Cassy vorgenommen werden?
+
+- [[X]] Trigger festlegen
+- [[X]] Messzeit einstellen
+- [[X]] Messintervall definieren
+- [[ ]] Bildschirmhelligkeit anpassen
+- [[ ]] WLAN-Passwort eingeben
+
+__Frage 10 – Single Choice__
+
+Was beschreibt das **Messintervall**?
+
+- [( )] Die Gesamtdauer der Messung
+- [( )] Die Anzahl der Sensoren
+- [(X)] Den Zeitabstand zwischen zwei aufeinanderfolgenden Messwerten
+- [( )] Die Pause zwischen zwei Experimenten
+
+__Frage 11 – Single Choice__
+
+Wie wird das Cassy-Messgerät im Experiment gesteuert?
+
+- [( )] Ausschließlich über Tasten am Gerät
+- [( )] Per Fernbedienung
+- [(X)] Über ein iPad mit der Cassy-App
+- [( )] Per Sprachsteuerung
+
+Frage 12 – Single Choice
+
+Wie wird das Cassy zur Spannungsmessung an der Glühlampe angeschlossen?
+
+- [(X)] Parallel zur Glühlampe
+- [( )] In Reihe zur Glühlampe
+- [( )] Parallel zur Spannungsquelle und in Reihe zur Glühlampe gleichzeitig
+- [( )] Es wird gar nicht an den Schaltkreis angeschlossen
+
+Frage 13 – Ja/Nein (Single Choice)
+
+Viele physikalische Größen benötigen einen eigenen Sensor, um mit dem Cassy gemessen zu werden.
+
+- [(X)] Richtig
+- [( )] Falsch
+
