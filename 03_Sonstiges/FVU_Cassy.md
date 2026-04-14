@@ -450,6 +450,11 @@ __Bedienung am Cassy-Messgerät:__
 [qr-code](https://liascript.github.io/nightly/?https://raw.githubusercontent.com/wulstbug/Klotzsche2/2025_2026/03_Sonstiges/FVU_Cassy_A2.md)
 ******************
 
+{{2}}
+******************
+[qr-code](https://diversewolken.ddns.net/nextcloud/apps/forms/s/FWdZeiktYCbfaK9KJxkNtMfg)
+******************
+
 ### Quiz - Festigung Cassy Messgerät
 
 __Frage 1 – Single Choice__
