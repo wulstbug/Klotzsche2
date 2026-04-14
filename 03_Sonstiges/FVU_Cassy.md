@@ -289,6 +289,8 @@ __Bedienung am Cassy-Messgerät:__
 > - [ ] Maximaler u. minimaler Messwert (d.h. Messbereich einstellen)
 > - [ ] Messwerte im Diagramm (als Graph) darstellen
 
+![CassyDisplay](https://diversewolken.ddns.net/nextcloud/s/Cqtdwwc2L92e8gb/download)
+
 </details>
 
 </div>
