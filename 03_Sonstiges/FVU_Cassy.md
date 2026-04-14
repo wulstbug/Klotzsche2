@@ -433,6 +433,9 @@ __Bedienung am Cassy-Messgerät:__
         height="600px">
 </iframe>
 
+## Video - Auto als Spion?
+
+!?[NANO-DatenerfassungAnFahrzeugen](https://www.youtube.com/watch?v=1M3k1SQ5u6c)
 
 ## Diskussion - Automatische Messwerterfassung am Fahrzeug
 
