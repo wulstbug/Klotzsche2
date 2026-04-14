@@ -439,9 +439,16 @@ __Bedienung am Cassy-Messgerät:__
 
 ## Diskussion - Automatische Messwerterfassung am Fahrzeug
 
-Nutze folgenden QR-Code und lass dich zum Thema automatische Messwerterfassung am Fahrzeug interviewen.
+1. Nutze folgenden QR-Code und lass dich zum Thema automatische Messwerterfassung am Fahrzeug interviewen.
 
 [qr-code](http://10.102.1.3:3001/?q=F%C3%BChre%20mit%20mir%20ein%20Interview%20%C3%BCber%20die%20automatische%20Erhebung%20von%20Sensordaten%20in%20Fahrzeugen.%20Frage%20mich%20nach%20meiner%20Meinung%20zur%20Erhebung%20von%20personenbezogenen%20Daten%20%28z.B.%20Gewicht,%20Fahrverhalten,%20h%C3%A4ufige%20Routen,%20Personenanzahl,%20Alter%20etc.%29%20und%20das%20Recht%20auf%20diese%20Daten.%20Frage%20mich%20nach%20Vorteilen%20%28z.B.%20erh%C3%B6hte%20Sicherheit,%20Komfort%29%20aber%20auch%20Risiken%20%28z.B.%20ungewollte%20Informationsfreigabe,%20Schutz%20der%20Pers%C3%B6nlichkeitsrechte%29.%20Stelle%20mir%20die%20Fragen%20eine%20nach%20der%20anderen%20und%20diskutiere%20mit%20mir%20anschlie%C3%9Fend%20meine%20Position.)
+
+{{1}}
+******************
+2. Bearbeite folgendes Quiz zur Festigung des heutigen Unterrichts
+
+[qr-code](https://liascript.github.io/nightly/?https://raw.githubusercontent.com/wulstbug/Klotzsche2/2025_2026/03_Sonstiges/FVU_Cassy_A2.md)
+******************
 
 ### Quiz - Festigung Cassy Messgerät
 
