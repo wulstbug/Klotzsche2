@@ -342,19 +342,19 @@ __Bedienung am Cassy-Messgerät:__
 
 {{0-1}}
 **************
-![Schaltkreisfoto_Spannung](https://diversewolken.ddns.net/nextcloud/s/w8NBCSBjzbaqBDT/download)
+![Schaltkreisfoto_Spannung](https://diversewolken.ddns.net/nextcloud/s/aomMwxBJD7KMGBz/download)
 
 **************
 
 {{1-2}}
 **************
-![Schaltkreisfoto_Stromstärke](https://diversewolken.ddns.net/nextcloud/s/PwzZymWXL29agNM/download)
+![Schaltkreisfoto_Stromstärke](https://diversewolken.ddns.net/nextcloud/s/JBAQppwWkcopQyk/download)
 
 **************
 
 {{2}}
 **************
-![Schaltkreisfoto_Spannung](https://diversewolken.ddns.net/nextcloud/s/WRddTs5TxrEC7Ko/download)
+![Schaltkreisfoto_Spannung](https://diversewolken.ddns.net/nextcloud/s/CtconMErCS4gkiS/download)
 **************
 
 </div>
