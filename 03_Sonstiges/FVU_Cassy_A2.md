@@ -340,3 +340,17 @@ Viele physikalische Größen benötigen einen eigenen Sensor, um mit dem Cassy g
 - [(X)] Richtig
 - [( )] Falsch
 
+
+Frage 14 - Die Reaktionszeit des Menschen beträgt etwa
+
+- [( )] 2-3 s
+- [(X)] 0,2-0,3 s
+- [( )] 20-30 ms
+- [( )] 2-3 ms
+
+Frage 15 - Die Anschaltzeit einer Glühlampe beträgt etwa
+
+- [( )] 1 s
+- [( )] 0,8 s
+- [( )] 0,5 ms
+- [(X)] 0,1 ms
