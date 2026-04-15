@@ -324,7 +324,7 @@ Wie wird das Cassy-Messgerät im Experiment gesteuert?
 - [(X)] Über ein iPad mit der Cassy-App
 - [( )] Per Sprachsteuerung
 
-Frage 12 – Single Choice
+__Frage 12 – Single Choice__
 
 Wie wird das Cassy zur Spannungsmessung an der Glühlampe angeschlossen?
 
@@ -333,7 +333,7 @@ Wie wird das Cassy zur Spannungsmessung an der Glühlampe angeschlossen?
 - [( )] Parallel zur Spannungsquelle und in Reihe zur Glühlampe gleichzeitig
 - [( )] Es wird gar nicht an den Schaltkreis angeschlossen
 
-Frage 13 – Ja/Nein (Single Choice)
+__Frage 13 – Ja/Nein (Single Choice)__
 
 Viele physikalische Größen benötigen einen eigenen Sensor, um mit dem Cassy gemessen zu werden.
 
@@ -341,14 +341,14 @@ Viele physikalische Größen benötigen einen eigenen Sensor, um mit dem Cassy g
 - [( )] Falsch
 
 
-Frage 14 - Die Reaktionszeit des Menschen beträgt etwa
+__Frage 14 - Die Reaktionszeit des Menschen beträgt etwa__
 
 - [( )] 2-3 s
 - [(X)] 0,2-0,3 s
 - [( )] 20-30 ms
 - [( )] 2-3 ms
 
-Frage 15 - Die Anschaltzeit einer Glühlampe beträgt etwa
+__Frage 15 - Die Anschaltzeit einer Glühlampe beträgt etwa__
 
 - [( )] 1 s
 - [( )] 0,8 s
