@@ -283,7 +283,7 @@ __Frage 7 – Single Choice__
 Welcher Trigger wurde in Experiment 2 für die Spannungsmessung verwendet?
 
 - [( )] $I > 1\,\mathrm{A}$
-- [(X)] $U > 0,5\,\mathrm{V}$
+- [(X)] $U > 0,1\,\mathrm{V}$
 - [( )] $\vartheta > 30\,°\mathrm{C}$
 - [( )] $t > 10\,\mathrm{s}$
 
@@ -293,7 +293,7 @@ Welche Messzeit wurde für die Spannungsmessung beim Einschalten der Glühlampe 
 
 - [( )] $5\,\mathrm{s}$
 - [( )] $1\,\mathrm{min}$
-- [(X)] $1\,\mathrm{s}$
+- [(X)] $1-2\,\mathrm{s}$
 - [( )] $10\,\mathrm{s}$
 
 __Frage 9 – Multiple Choice__
