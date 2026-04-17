@@ -586,4 +586,4 @@ Frage 15 - Die Anschaltzeit einer Glühlampe beträgt etwa
 - [( )] 1 s
 - [( )] 0,8 s
 - [( )] 0,5 ms
-- [(X)] 0,1 ms
+- [(X)] 0,2 s
