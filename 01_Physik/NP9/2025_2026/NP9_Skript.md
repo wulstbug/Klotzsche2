@@ -517,7 +517,7 @@ Verschlüssele das Wort _EISENBAHN_ mit der Enigma
 
 ---
 
-THE ENIGMA-CHALLENGE @color(95 Lösungen Weltweit bis jetzt, red))
+THE ENIGMA-CHALLENGE @color(96 Lösungen Weltweit bis jetzt, red))
 
 [qr-code](https://www.ciphermachinesandcryptology.com/en/challenge.htm)
 
