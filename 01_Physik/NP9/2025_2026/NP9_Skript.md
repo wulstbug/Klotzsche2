@@ -545,7 +545,7 @@ W채hle einen Text und einen Schl체ssel. <br> {1}{z.B. Text: __HEXEN__ <br> Schl�
 {{3-4}}
 ***********
 1. Ordne jedem Buchstaben des Textes die entsprechende Zahl (Position) im Alphabet zu. <br>
-2. Ordne jedem Buchstaben des Schl체ssels die entsprechende Zahl (Position) im Alphabet zu, wiederhole des Schl체ssel von vorn, wenn er zu kurz ist.
+2. Ordne jedem Buchstaben des Schl체ssels die entsprechende Zahl (Position) im Alphabet zu, wiederhole den Schl체ssel von vorn, wenn er zu kurz ist.
 
 | | | | | |
 | H | E | X | E | N |
