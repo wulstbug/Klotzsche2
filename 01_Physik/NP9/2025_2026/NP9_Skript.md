@@ -527,8 +527,7 @@ __NÜTZLICH: ENIGMA-SIMULATOR__
 
 
 Entschlüss
-## 4.1 Vigenere Verschlüsselung - Erklärung zum Lesen
-
+## 4.1 Vigenere Verschlüsselung
 
 ![Tabelle](https://diversewolken.ddns.net/nextcloud/index.php/s/9e6RB6rCAfd73nx/download)
 
