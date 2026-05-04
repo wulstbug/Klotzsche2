@@ -3794,5 +3794,18 @@ Nutze die Webseite www.solarsystemscope.com um folgende Informationen über die 
 
 1. Erstelle eine Tabelle und recherchiere mit Hilfe der App Eigenschaften der Planeten.
 
-| | | | | | |
-| Name <br> Planet | Abstand zur Sonne <br> in AE | Umlaufzeit in y | Mittlere Bahngeschwindigkeit <br> in $\frac{m}{s}$ | Oberflächentemperatur <br> in °C | Masse in kg | Äquatordurchmesse in km | Dichte in $\frac{kg}{m}$ |
+| Name <br> Planet | Abstand zur Sonne <br> $R$ in AE | Umlaufzeit <br> $T$ in y | Mittlere <br> Bahngeschwindigkeit <br> $v$ in $\mathrm{\frac{m}{s}}$ | Oberflächen- <br> temperatur <br> $\vartheta$ in °C | Masse <br> $m$ in kg | Äquatordurchmesser <br> r in km | Dichte <br> $\rho$ in $\mathrm{\frac{kg}{m^3}}$ |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| | | | | | | | |
+
+__Hinweise:__
+
+> Bahngeschwindigkeit: $v \approx \dfrac{s}{t} = \dfrac{2 \pi\cdot R}{T}$ in $\Big[ \mathrm{\dfrac{m}{s}} \Big]$
+>
+>
+
+---
+
+> Dichte: $\rho = \dfrac{m}{V}$ in $\Big[ \mathrm{\dfrac{kg}{m^3}} \Big]$
+>
+> Volumen (näherungsweise als Kugel) $ V = \frac{4}{3}\pi r^3$
