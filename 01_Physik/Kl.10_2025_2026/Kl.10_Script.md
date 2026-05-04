@@ -3780,12 +3780,16 @@ Nutze die Webseite www.solarsystemscope.com um folgende Informationen über die 
 
 <iframe src="https://www.solarsystemscope.com/iframe" width="100%" height="600" style="min-width:500px; min-height: 400px; border: 2px solid #0f5c6e;"></iframe>
 
-</div>
-
-<div class="flex-child-1" style="min-width: 300px; margin-bottom: -10px">
-
 [qr-code](https://www.solarsystemscope.com/)
 
 </div>
 
+<div class="flex-child-1" style="min-width: 300px; margin-bottom: -10px">
+
+</div>
+
 </section>
+
+1. Erstelle eine Tabelle und recherchiere mit Hilfe der App Eigenschaften der Planeten.
+
+| Name <br> Planet | Abstand zur Sonne <br> in AE | Umlaufzeit in y | Oberflächentemperatur <br> in °C | Masse in kg | Äquatordurchmesse in km |
