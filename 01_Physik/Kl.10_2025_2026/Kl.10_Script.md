@@ -3770,7 +3770,7 @@ __Aufgaben:__
 
 4. Ergänze in deiner Skizze (1.) mindestens zwei weitere Zwergplaneten.
 
-5. Auf welche Weise wurden Uranus, Neptun und Pluto gefunden, obwohl sie von der Erde nur äußerst schwer zu entdecken sind.
+5. Erläutere, auf welche Weise Uranus, Neptun und Pluto gefunden wurden, obwohl sie von der Erde nur äußerst schwer zu entdecken sind. Der unbekannte Planet 9 soll auf die gleiche Weise gefunden werden.
 
 ## Recherche-Aufgabe
 
