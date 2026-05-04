@@ -3802,18 +3802,18 @@ Nutze die Webseite www.solarsystemscope.com um folgende Informationen über die 
 
 1. Erstelle eine Tabelle und recherchiere mit Hilfe der App Eigenschaften der Planeten.
 
-{{1}}
+{{0-1}}
 ***************
 | Name <br> Planet | Abstand zur Sonne <br> $R$ in AE | Umlaufzeit <br> $T$ in y | Mittlere <br> Bahngeschwindigkeit <br> $v$ in $\mathrm{\frac{m}{s}}$ | Oberflächen- <br> temperatur <br> $\vartheta$ in °C | Masse <br> $m$ in kg | Äquatorradius <br> r in km | Dichte <br> $\rho$ in $\mathrm{\frac{kg}{m^3}}$ |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 | | | | | | | | |
 ***************
 
-{{2}}
+{{1-2}}
 ***************
 | Name <br> Planet | Abstand zur Sonne <br> $R$ in AE | Umlaufzeit <br> $T$ in y | Mittlere <br> Bahngeschwindigkeit <br> $v$ in $\mathrm{\frac{m}{s}}$ | Oberflächen- <br> temperatur <br> $\vartheta$ in °C | Masse <br> $m$ in kg | Äquatorradius <br> r in km | Dichte <br> $\rho$ in $\mathrm{\frac{kg}{m^3}}$ |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| Merkur | 0.4 | 0.24 | $ \approx 49.000 | 167 °C | 3.3\cdot10^23 | 2440 | 5427 |
+| Merkur | 0.4 | 0.24 | $ \approx 49.000$ | 167 °C | $3.3\cdot10^23$ | 2440 | 5427 |
 | Venus | | | | | | | |
 | Erde | | | | | | | |
 | Mars | | | | | | | |
