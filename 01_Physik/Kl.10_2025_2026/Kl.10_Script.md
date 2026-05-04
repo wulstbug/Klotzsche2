@@ -3770,9 +3770,13 @@ __Aufgaben:__
 
 4. Ergänze in deiner Skizze (1.) mindestens zwei weitere Zwergplaneten.
 
-5. Erläutere, auf welche Weise Uranus, Neptun und Pluto gefunden wurden, obwohl sie von der Erde nur äußerst schwer zu entdecken sind.
+5. Definiere den Begriff Astronomische Einheit (AE). <br> <br> <br>
 
-6. Definiere den Begriff Astronomische Einheit (AE).
+
+
+6. Erläutere, auf welche Weise Uranus, Neptun und Pluto gefunden wurden, obwohl sie von der Erde nur äußerst schwer zu entdecken sind.
+
+
 
 ## Recherche-Aufgabe
 
