@@ -3751,3 +3751,41 @@ Lsg.:
 
 </span>
 *********
+
+# LB 4: Kosmos, Erde, Mensch
+
+?[IntroAstro](https://diversewolken.ddns.net/nextcloud/s/rS5bgnHLztCEbAL/download)
+
+## Höraufgabe
+
+?[PodCast_SagMalDuAlsPhysiker](https://diversewolken.ddns.net/nextcloud/s/EwHPZzrFSMBPdJx/download)
+
+__Aufgaben:__
+
+1. Notiere dir in einer Skizze eine Übersicht über den Aufbau unseres Sonnensystems.
+
+2. Notiere die drei Kriterien, die einen Himmelskörper als Planet definieren.
+
+3. Begründe, warum Pluto letztendlich nicht mehr als Planet eingetragen war.
+
+4. Ergänze in deiner Skizze (1.) mindestens zwei weitere Zwergplaneten.
+
+## Recherche-Aufgabe
+
+Nutze die Webseite www.solarsystemscope.com um folgende Informationen über die Planeten unseres Sonnensystems zu notieren.
+
+<section class="flex-container">
+
+<div class="flex-child-1" style="min-width: 500px; margin-bottom: -10px">
+
+<iframe src="https://www.solarsystemscope.com/iframe" width="100%" height="600" style="min-width:500px; min-height: 400px; border: 2px solid #0f5c6e;"></iframe>
+
+</div>
+
+<div class="flex-child-1" style="min-width: 300px; margin-bottom: -10px">
+
+[qr-code](https://www.solarsystemscope.com/)
+
+</div>
+
+</section>
