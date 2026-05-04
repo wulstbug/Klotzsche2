@@ -3770,6 +3770,8 @@ __Aufgaben:__
 
 4. Ergänze in deiner Skizze (1.) mindestens zwei weitere Zwergplaneten.
 
+5. Auf welche Weise wurden Uranus, Neptun und Pluto gefunden, obwohl sie von der Erde nur äußerst schwer zu entdecken sind.
+
 ## Recherche-Aufgabe
 
 Nutze die Webseite www.solarsystemscope.com um folgende Informationen über die Planeten unseres Sonnensystems zu notieren.
