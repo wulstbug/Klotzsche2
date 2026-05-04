@@ -3809,8 +3809,6 @@ Nutze die Webseite www.solarsystemscope.com um folgende Informationen über die 
 __Hinweise:__
 
 > Bahngeschwindigkeit: $v \approx \dfrac{s}{t} = \dfrac{2 \pi\cdot R}{T}$ in $\Big[ \mathrm{\dfrac{m}{s}} \Big]$
->
->
 
 ---
 
