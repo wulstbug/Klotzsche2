@@ -3802,7 +3802,7 @@ Nutze die Webseite www.solarsystemscope.com um folgende Informationen über die 
 
 1. Erstelle eine Tabelle und recherchiere mit Hilfe der App Eigenschaften der Planeten.
 
-| Name <br> Planet | Abstand zur Sonne <br> $R$ in AE | Umlaufzeit <br> $T$ in y | Mittlere <br> Bahngeschwindigkeit <br> $v$ in $\mathrm{\frac{m}{s}}$ | Oberflächen- <br> temperatur <br> $\vartheta$ in °C | Masse <br> $m$ in kg | Äquatordurchmesser <br> r in km | Dichte <br> $\rho$ in $\mathrm{\frac{kg}{m^3}}$ |
+| Name <br> Planet | Abstand zur Sonne <br> $R$ in AE | Umlaufzeit <br> $T$ in y | Mittlere <br> Bahngeschwindigkeit <br> $v$ in $\mathrm{\frac{m}{s}}$ | Oberflächen- <br> temperatur <br> $\vartheta$ in °C | Masse <br> $m$ in kg | Äquatorradius <br> r in km | Dichte <br> $\rho$ in $\mathrm{\frac{kg}{m^3}}$ |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 | | | | | | | | |
 
