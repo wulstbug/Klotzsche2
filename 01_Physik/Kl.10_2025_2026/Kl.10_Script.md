@@ -3754,7 +3754,7 @@ Lsg.:
 
 # LB 4: Kosmos, Erde, Mensch
 
-?[IntroAstro](https://diversewolken.ddns.net/nextcloud/s/rS5bgnHLztCEbAL/download)
+!?[IntroAstro](https://diversewolken.ddns.net/nextcloud/s/rS5bgnHLztCEbAL/download)
 
 ## Höraufgabe
 
