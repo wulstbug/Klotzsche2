@@ -297,3 +297,19 @@ mode: presentation
 
 </section>
 
+
+# Übung Aggregatzustände mit IPADs
+
+Scanne den QR-Code mit dem IPAP
+
+-> Nutze QR-Code-Scanner unter der Uhr [Oben rechts]
+
+[qr-code](https://learningapps.org/8482643)
+
+<details>
+
+<summary> Learning-Apps </summary>
+
+??[LearningApps-Aggregatzustände](https://learningapps.org/8482643)
+
+</details>
