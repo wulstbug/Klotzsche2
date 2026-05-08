@@ -86,6 +86,8 @@ mode: presentation
 
 # Die Aggregatzustände
 
+<br> <br> <br>
+
 <section class="flex-container">
 
 <div class="flex-child-1" style="min-width: 150px; margin-bottom: -10px">
