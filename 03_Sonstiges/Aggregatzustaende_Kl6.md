@@ -81,12 +81,15 @@ if (canvas) {
 
 mode: presentation
 
-
 -->
+
+# Video zu Aggregatzuständen
+
+!?[Aggregatzustände](https://diversewolken.ddns.net/nextcloud/s/o7sQejdQ2ZQ9gdx/download)
 
 # Die Aggregatzustände
 
-<br> <br> <br>
+<br> 
 
 <section class="flex-container">
 
@@ -294,6 +297,3 @@ mode: presentation
 
 </section>
 
-# Video
-
-!?[Aggregatzustände](https://diversewolken.ddns.net/nextcloud/s/o7sQejdQ2ZQ9gdx/download)
