@@ -3786,7 +3786,13 @@ Nutze die Webseite www.solarsystemscope.com um folgende Informationen über die 
 
 <div class="flex-child-1" style="min-width: 500px; margin-bottom: -10px">
 
+<details style='color:blue;margin-left:10%'>
+
+<summary> Simulation SolarSystemScope.com </summary>
+
 <iframe src="https://www.solarsystemscope.com/iframe" width="100%" height="600" style="min-width:500px; min-height: 400px; border: 2px solid #0f5c6e;"></iframe>
+
+</details>
 
 </div>
 
