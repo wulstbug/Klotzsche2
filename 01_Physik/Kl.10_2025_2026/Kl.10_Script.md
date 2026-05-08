@@ -3819,8 +3819,8 @@ Nutze die Webseite www.solarsystemscope.com um folgende Informationen über die 
 ***************
 | Name <br> Planet | Abstand zur Sonne <br> $R$ in AE | Umlaufzeit <br> $T$ in y | Mittlere <br> Bahngeschwindigkeit <br> $v$ in $\mathrm{\frac{m}{s}}$ | Oberflächen- <br> temperatur <br> $\vartheta$ in °C | Masse <br> $m$ in kg | Äquatorradius <br> r in km | Dichte <br> $\rho$ in $\mathrm{\frac{kg}{m^3}}$ |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| Merkur | 0.4 | 0.24 | $ \approx 49000$ | 167 °C | $3.3\cdot10^{23}$ | 2440 | 5427 |
-| Venus | 0.72 | 0.62 | $ \approx 34900$ | 462 °C | $4.9\cdot10^{24}$ | 6062 | 5251 |
+| Merkur | $0,4$ | $0,24$ | <details> <summary> $ \approx 49000$ </summary> <br> $v=\dfrac{2 \pi\cdot R}{T}$ <br> <br> $\dfrac{2\pi\cdot 0,4\cdot149\cdot10^{9}\,\mathrm{m}}{0,24\cdot365\cdot24\cdot60\cdot60\,\mathrm{s}}$ </details> | $167$ | $3,3\cdot10^{23}$ | $2440$ | <details> <summary> $\approx 5400$ </summary> <br> $\rho = \dfrac{m}{V}$ <br> <br> $\dfrac{3,3\cdot10^{23}\,\mathrm{kg}}{\frac{4}{3}\pi\cdot(2440\cdot10^{3}\,\mathrm{m})^3}$ </details> |
+| Venus | $0,72$ | $0,62$ | <details> <summary> $ \approx 34900$ </summary> <br>  $\dfrac{2\pi\cdot 0,72\cdot149\cdot10^{9}\,\mathrm{m}}{0,62\cdot365\cdot24\cdot60\cdot60\,\mathrm{s}}$ </details>  | $462$ | $4,9\cdot10^{24}$ | $6062$ | <details> <summary> $\approx 5300$ </summary> <br> $\dfrac{4,9\cdot10^{24}\,\mathrm{kg}}{\frac{4}{3}\pi\cdot(6062\cdot10^{3}\,\mathrm{m})^3}$ </details> |
 | Erde | | | | | | | |
 | Mars | | | | | | | |
 | Jupiter | | | | | | | |
@@ -3828,6 +3828,21 @@ Nutze die Webseite www.solarsystemscope.com um folgende Informationen über die 
 | Uranus | | | | | | | |
 | Neptun | | | | | | | |
 ***************
+
+{{2-3}}
+***************
+| Name <br> Planet | Abstand zur Sonne <br> $R$ in AE | Umlaufzeit <br> $T$ in y | Mittlere <br> Bahngeschwindigkeit <br> $v$ in $\mathrm{\frac{m}{s}}$ | Oberflächen- <br> temperatur <br> $\vartheta$ in °C | Masse <br> $m$ in kg $\,\,\,$ | Äquatorradius <br> r in km | Dichte <br> $\rho$ in $\mathrm{\frac{kg}{m^3}}$ |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| Merkur | $0,4$ | $0,24$ | <details> <summary> $ \approx 49800$ </summary> <br> $v=\dfrac{2 \pi\cdot R}{T}$ <br> <br> $\dfrac{2\pi\cdot 0,4\cdot150\cdot10^{9}\,\mathrm{m}}{0,24\cdot365\cdot24\cdot60\cdot60\,\mathrm{s}}$ </details> | $167$ | $3,3\cdot10^{23}$ | $2440$ | <details> <summary> $\approx 5400$ </summary> <br> $\rho = \dfrac{m}{V}$ <br> <br> $\dfrac{3,3\cdot10^{23}\,\mathrm{kg}}{\frac{4}{3}\pi\cdot(2440\cdot10^{3}\,\mathrm{m})^3}$ </details> |
+| Venus | $0,72$ | $0,62$ | <details> <summary> $ \approx 34700$ </summary> <br>  $\dfrac{2\pi\cdot 0,72\cdot150\cdot10^{9}\,\mathrm{m}}{0,62\cdot365\cdot24\cdot60\cdot60\,\mathrm{s}}$ </details>  | $462$ | $4,9\cdot10^{24}$ | $6062$ | <details> <summary> $\approx 5300$ </summary> <br> $\dfrac{4,9\cdot10^{24}\,\mathrm{kg}}{\frac{4}{3}\pi\cdot(6062\cdot10^{3}\,\mathrm{m})^3}$ </details> |
+| Erde | $1$ | $1$ | $\approx29900$ | $15$ | $6\cdot10^{24}$ | $6378$ | $\approx 5521$ |
+| Mars | $1,52$ | $1,88$ | $\approx 24200$ | $-63$ | $6,4\cdot10^{23}$ | $3396$ | $\approx 3900$ |
+| Jupiter | | | | | | | |
+| Saturn | | | | | | | |
+| Uranus | | | | | | | |
+| Neptun | | | | | | | |
+***************
+
 
 __Hinweise:__
 
