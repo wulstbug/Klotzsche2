@@ -3786,7 +3786,7 @@ Nutze die Webseite www.solarsystemscope.com um folgende Informationen über die 
 
 <div class="flex-child-1" style="min-width: 500px; margin-bottom: -10px">
 
-<details style='color:blue;margin-left:10%'>
+<details style='color:blue'>
 
 <summary> Simulation SolarSystemScope.com </summary>
 
@@ -3810,14 +3810,14 @@ Nutze die Webseite www.solarsystemscope.com um folgende Informationen über die 
 
 {{0-1}}
 ***************
-| Name <br> Planet | Abstand zur Sonne <br> $R$ in AE | Umlaufzeit <br> $T$ in y | Mittlere <br> Bahngeschwindigkeit <br> $v$ in $\mathrm{\frac{m}{s}}$ | Oberflächen- <br> temperatur <br> $\vartheta$ in °C | Masse <br> $m$ in kg | Äquatorradius <br> r in km | Dichte <br> $\rho$ in $\mathrm{\frac{kg}{m^3}}$ |
+| Name <br> Planet | Abstand zur Sonne <br> $R$ in AE | Umlaufzeit <br> $T$ in y | Mittlere <br> Bahngeschwindigkeit <br> $v$ in $\mathrm{\frac{m}{s}}$ | Oberflächen- <br> temperatur <br> $\vartheta$ in °C | Planetenmasse <br> $m$ in kg | Äquatorradius <br> r in km | Dichte <br> $\rho$ in $\mathrm{\frac{kg}{m^3}}$ |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 | | | | | | | | |
 ***************
 
 {{1-2}}
 ***************
-| Name <br> Planet | Abstand zur Sonne <br> $R$ in AE | Umlaufzeit <br> $T$ in y | Mittlere <br> Bahngeschwindigkeit <br> $v$ in $\mathrm{\frac{m}{s}}$ | Oberflächen- <br> temperatur <br> $\vartheta$ in °C | Masse <br> $m$ in kg | Äquatorradius <br> r in km | Dichte <br> $\rho$ in $\mathrm{\frac{kg}{m^3}}$ |
+| Name <br> Planet | Abstand zur Sonne <br> $R$ in AE | Umlaufzeit <br> $T$ in y | Mittlere <br> Bahngeschwindigkeit <br> $v$ in $\mathrm{\frac{m}{s}}$ | Oberflächen- <br> temperatur <br> $\vartheta$ in °C | Planetenmasse <br> $m$ in kg | Äquatorradius <br> r in km | Dichte <br> $\rho$ in $\mathrm{\frac{kg}{m^3}}$ |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 | Merkur | $0,4$ | $0,24$ | <details> <summary> $ \approx 49000$ </summary> <br> $v=\dfrac{2 \pi\cdot R}{T}$ <br> <br> $\dfrac{2\pi\cdot 0,4\cdot149\cdot10^{9}\,\mathrm{m}}{0,24\cdot365\cdot24\cdot60\cdot60\,\mathrm{s}}$ </details> | $167$ | $3,3\cdot10^{23}$ | $2440$ | <details> <summary> $\approx 5400$ </summary> <br> $\rho = \dfrac{m}{V}$ <br> <br> $\dfrac{3,3\cdot10^{23}\,\mathrm{kg}}{\frac{4}{3}\pi\cdot(2440\cdot10^{3}\,\mathrm{m})^3}$ </details> |
 | Venus | $0,72$ | $0,62$ | <details> <summary> $ \approx 34900$ </summary> <br>  $\dfrac{2\pi\cdot 0,72\cdot149\cdot10^{9}\,\mathrm{m}}{0,62\cdot365\cdot24\cdot60\cdot60\,\mathrm{s}}$ </details>  | $462$ | $4,9\cdot10^{24}$ | $6062$ | <details> <summary> $\approx 5300$ </summary> <br> $\dfrac{4,9\cdot10^{24}\,\mathrm{kg}}{\frac{4}{3}\pi\cdot(6062\cdot10^{3}\,\mathrm{m})^3}$ </details> |
@@ -3831,28 +3831,57 @@ Nutze die Webseite www.solarsystemscope.com um folgende Informationen über die 
 
 {{2-3}}
 ***************
-| Name <br> Planet | Abstand zur Sonne <br> $R$ in AE | Umlaufzeit <br> $T$ in y | Mittlere <br> Bahngeschwindigkeit <br> $v$ in $\mathrm{\frac{m}{s}}$ | Oberflächen- <br> temperatur <br> $\vartheta$ in °C | Masse <br> $m$ in kg $\,\,\,$ | Äquatorradius <br> r in km | Dichte <br> $\rho$ in $\mathrm{\frac{kg}{m^3}}$ |
+| Name <br> Planet | Abstand zur Sonne <br> $R$ in AE | Umlaufzeit <br> $T$ in y | Mittlere <br> Bahngeschwindigkeit <br> $v$ in $\mathrm{\frac{m}{s}}$ | Oberflächen- <br> temperatur <br> $\vartheta$ in °C | Planetenmasse <br> $m$ in kg $\,\,\,$ | Äquatorradius <br> r in km | Dichte <br> $\rho$ in $\mathrm{\frac{kg}{m^3}}$ |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 | Merkur | $0,4$ | $0,24$ | <details> <summary> $ \approx 49\,800$ </summary> <br> $v=\dfrac{2 \pi\cdot R}{T}$ <br> <br> $\dfrac{2\pi\cdot 0,4\cdot150\cdot10^{9}\,\mathrm{m}}{0,24\cdot365\cdot24\cdot60\cdot60\,\mathrm{s}}$ </details> | $167$ | $3,3\cdot10^{23}$ | $2440$ | <details> <summary> $\approx 5400$ </summary> <br> $\rho = \dfrac{m}{V}$ <br> <br> $\dfrac{3,3\cdot10^{23}\,\mathrm{kg}}{\frac{4}{3}\pi\cdot(2440\cdot10^{3}\,\mathrm{m})^3}$ </details> |
 | Venus | $0,72$ | $0,62$ | <details> <summary> $ \approx 34\,700$ </summary> <br>  $\dfrac{2\pi\cdot 0,72\cdot150\cdot10^{9}\,\mathrm{m}}{0,62\cdot365\cdot24\cdot60\cdot60\,\mathrm{s}}$ </details>  | $462$ | $4,9\cdot10^{24}$ | $6062$ | <details> <summary> $\approx 5300$ </summary> <br> $\dfrac{4,9\cdot10^{24}\,\mathrm{kg}}{\frac{4}{3}\pi\cdot(6062\cdot10^{3}\,\mathrm{m})^3}$ </details> |
 | Erde | $1$ | $1$ | $\approx29\,900$ | $15$ | $6\cdot10^{24}$ | $6378$ | $\approx 5521$ |
 | Mars | $1,52$ | $1,88$ | $\approx 24\,200$ | $-63$ | $6,4\cdot10^{23}$ | $3396$ | $\approx 3900$ |
-| Jupiter | $5,2$ | $11,9$ | $13\,024$ | $-120$ | $1,9\cdot10^{27}$ | $71\,492$ | $1241$ |
-| Saturn | $9,58$ | $29$ | $9846$ | $-125$ | $5,7\cdot10^{26}$ | $60\,268$ | $621$ |
-| Uranus | $19,2$ | $84$ | $6813$ | $-210$ | $8,7\cdot10^{25}$ | $25\,559$ | $1243$ |
-| Neptun | $30,1$ | $165$ | $5437$ | $-210$ | $1,02\cdot10^{26}$ | $27\,476$ | $1174$ |
+| Jupiter | $5,2$ | $11,9$ | $\approx 13\,000$ | $-120$ | $1,9\cdot10^{27}$ | $71\,492$ | $1241$ |
+| Saturn | $9,58$ | $29$ | $\approx 9800$ | $-125$ | $5,7\cdot10^{26}$ | $60\,268$ | $621$ |
+| Uranus | $19,2$ | $84$ | $\approx 6800$ | $-210$ | $8,7\cdot10^{25}$ | $25\,559$ | $1243$ |
+| Neptun | $30,1$ | $165$ | $\approx 5400$ | $-210$ | $1,02\cdot10^{26}$ | $27\,476$ | $1174$ |
 ***************
 
+<details style='color:blue'>
 
-__Hinweise:__
+<summary> __Erläuterungen:__ </summary>
 
-> Bahngeschwindigkeit: $v \approx \dfrac{s}{t} = \dfrac{2 \pi\cdot R}{T}$ in $\Big[ \mathrm{\dfrac{m}{s}} \Big]$
+??[Erklärung_Geschwindigkeit_Dichte](https://diversewolken.ddns.net/nextcloud/s/6x52EWGQo7dyGEJ/download)
 
----
+</details>
+
+<details style='color:blue'>
+
+<summary> __Hinweise:__ </summary>
+
+<section class="flex-container">
+
+<div class="flex-child-1" style="min-width: 300px; margin-bottom: -10px">
+
+> Bahngeschwindigkeit: $v \approx \dfrac{s}{t} = \dfrac{2 \pi\cdot R}{T}$ in $\Big[ \mathrm{\dfrac{m}{s}} \Big]$ <br>
+
+</div>
+
+<div class="flex-child-1" style="min-width: 300px; margin-bottom: -10px">
 
 > Dichte: $\rho = \dfrac{m}{V}$ in $\Big[ \mathrm{\dfrac{kg}{m^3}} \Big]$
 >
 > Volumen (näherungsweise als Kugel) $ V = \frac{4}{3}\pi r^3$
+
+</div>
+
+</section>
+
+</details>
+
+# Das Gravitationsgesetz
+
+> Die Gravitationskraft (Gewichtskraft), die ein Körper der Masse $M_1$ (z.B. Erde) auf einen Körper der Masse $M_2$ (z.B. Mond, Mensch) im Abstand $r$ ausübt ist definiert als:
+>
+> $$ F_g = G \cdot \dfrac{M_1 \cdot M_2}{r^2} $$
+>
+> mit $ G = 6,67 \cdot 10^{-11} \mathrm{\dfrac{m^3}{kg\cdot s^2}$
 
 ## Ideen für Aufgaben
 
