@@ -3837,10 +3837,10 @@ Nutze die Webseite www.solarsystemscope.com um folgende Informationen über die 
 | Venus | $0,72$ | $0,62$ | <details> <summary> $ \approx 34700$ </summary> <br>  $\dfrac{2\pi\cdot 0,72\cdot150\cdot10^{9}\,\mathrm{m}}{0,62\cdot365\cdot24\cdot60\cdot60\,\mathrm{s}}$ </details>  | $462$ | $4,9\cdot10^{24}$ | $6062$ | <details> <summary> $\approx 5300$ </summary> <br> $\dfrac{4,9\cdot10^{24}\,\mathrm{kg}}{\frac{4}{3}\pi\cdot(6062\cdot10^{3}\,\mathrm{m})^3}$ </details> |
 | Erde | $1$ | $1$ | $\approx29900$ | $15$ | $6\cdot10^{24}$ | $6378$ | $\approx 5521$ |
 | Mars | $1,52$ | $1,88$ | $\approx 24200$ | $-63$ | $6,4\cdot10^{23}$ | $3396$ | $\approx 3900$ |
-| Jupiter | | | | | | | |
-| Saturn | | | | | | | |
-| Uranus | | | | | | | |
-| Neptun | | | | | | | |
+| Jupiter | $5,2$ | $11,9$ | | | | | |
+| Saturn | $9,58$ | $29$ | | | | | |
+| Uranus | $19,2$ | $84$ | | | | | |
+| Neptun | $30,1$ | $165$ | | | | | |
 ***************
 
 
@@ -3853,3 +3853,29 @@ __Hinweise:__
 > Dichte: $\rho = \dfrac{m}{V}$ in $\Big[ \mathrm{\dfrac{kg}{m^3}} \Big]$
 >
 > Volumen (näherungsweise als Kugel) $ V = \frac{4}{3}\pi r^3$
+
+## Ideen für Aufgaben
+
+1. Die acht Planeten des Sonnensystems kann man bezüglich ihrer Dichte in zwei Kathegorien einteilen. Sortiere die Planeten diesbezüglich ein.
+
+<details style='color:blue;margin-left:10%'>
+
+<summary> Merksatz </summary>
+
+Merkur, Venus, Erde, Mars sind (erdähnliche) Gesteinsplaneten.
+
+</details>
+
+2. Zeichne ein Diagramm der mittleren Bewegungsgeschwindigkeit in Abhängigkeit des Bahnradius.
+
+<details style='color:blue;margin-left:10%'>
+
+<summary> Merksatz </summary>
+
+Die Bewegungsgeschwindigkeit der Planeten ist indirekt proportional zum mittleren Sonnenabstand.
+
+</details>
+
+3. Jupiter ist um ein vielfaches größer als die Erde. Ermittle diesen Faktor. Ermittle auch den kleinsten Planeten und um das wievielfache er kleiner ist als die Erde.
+
+4. Merkur ist der Planet mit der geringsten Masse. Ermittle um das wievielfache seine Masse geringer ist, als die der Erde. Ermittle auch den Planeten mit der größten Masse und die wievielfache Erdmasse er aufweist.
