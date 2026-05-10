@@ -3810,14 +3810,14 @@ Nutze die Webseite www.solarsystemscope.com um folgende Informationen über die 
 
 {{0-1}}
 ***************
-| Name <br> Planet | Abstand zur Sonne <br> $R$ in AE | Umlaufzeit <br> $T$ in y | Mittlere <br> Bahngeschwindigkeit <br> $v$ in $\mathrm{\frac{m}{s}}$ | Oberflächen- <br> temperatur <br> $\vartheta$ in °C | Planetenmasse <br> $m$ in kg | Äquatorradius <br> r in km | Dichte <br> $\rho$ in $\mathrm{\frac{kg}{m^3}}$ |
+| Name <br> Planet | Abstand zur Sonne <br> $R$ in AE | Umlauf- <br> zeit <br> $T$ in y | Mittlere Bahn- <br> geschwindigkeit <br> $v$ in $\mathrm{\frac{m}{s}}$ | Oberflächen- <br> temperatur <br> $\vartheta$ in °C | Planetenmasse <br> $m$ in kg | Äquatorradius <br> r in km | Dichte <br> $\rho$ in $\mathrm{\frac{kg}{m^3}}$ |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 | | | | | | | | |
 ***************
 
 {{1-2}}
 ***************
-| Name <br> Planet | Abstand zur Sonne <br> $R$ in AE | Umlaufzeit <br> $T$ in y | Mittlere <br> Bahngeschwindigkeit <br> $v$ in $\mathrm{\frac{m}{s}}$ | Oberflächen- <br> temperatur <br> $\vartheta$ in °C | Planetenmasse <br> $m$ in kg | Äquatorradius <br> r in km | Dichte <br> $\rho$ in $\mathrm{\frac{kg}{m^3}}$ |
+| Name <br> Planet | Abstand zur Sonne <br> $R$ in AE | Umlauf- <br> zeit <br> $T$ in y | Mittlere Bahn- <br> geschwindigkeit <br> $v$ in $\mathrm{\frac{m}{s}}$ | Oberflächen- <br> temperatur <br> $\vartheta$ in °C | Planetenmasse <br> $m$ in kg | Äquatorradius <br> r in km | Dichte <br> $\rho$ in $\mathrm{\frac{kg}{m^3}}$ |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 | Merkur | $0,4$ | $0,24$ | <details> <summary> $ \approx 49000$ </summary> <br> $v=\dfrac{2 \pi\cdot R}{T}$ <br> <br> $\dfrac{2\pi\cdot 0,4\cdot149\cdot10^{9}\,\mathrm{m}}{0,24\cdot365\cdot24\cdot60\cdot60\,\mathrm{s}}$ </details> | $167$ | $3,3\cdot10^{23}$ | $2440$ | <details> <summary> $\approx 5400$ </summary> <br> $\rho = \dfrac{m}{V}$ <br> <br> $\dfrac{3,3\cdot10^{23}\,\mathrm{kg}}{\frac{4}{3}\pi\cdot(2440\cdot10^{3}\,\mathrm{m})^3}$ </details> |
 | Venus | $0,72$ | $0,62$ | <details> <summary> $ \approx 34900$ </summary> <br>  $\dfrac{2\pi\cdot 0,72\cdot149\cdot10^{9}\,\mathrm{m}}{0,62\cdot365\cdot24\cdot60\cdot60\,\mathrm{s}}$ </details>  | $462$ | $4,9\cdot10^{24}$ | $6062$ | <details> <summary> $\approx 5300$ </summary> <br> $\dfrac{4,9\cdot10^{24}\,\mathrm{kg}}{\frac{4}{3}\pi\cdot(6062\cdot10^{3}\,\mathrm{m})^3}$ </details> |
@@ -3831,21 +3831,21 @@ Nutze die Webseite www.solarsystemscope.com um folgende Informationen über die 
 
 {{2-3}}
 ***************
-| Name <br> Planet | Abstand zur Sonne <br> $R$ in AE | Umlaufzeit <br> $T$ in y | Mittlere <br> Bahngeschwindigkeit <br> $v$ in $\mathrm{\frac{m}{s}}$ | Oberflächen- <br> temperatur <br> $\vartheta$ in °C | Planetenmasse <br> $m$ in kg $\,\,\,$ | Äquatorradius <br> r in km | Dichte <br> $\rho$ in $\mathrm{\frac{kg}{m^3}}$ |
+| Name <br> Planet | Abstand zur Sonne <br> $R$ in AE | Umlauf- <br> zeit <br> $T$ in y | Mittlere Bahn- <br> geschwindigkeit <br> $v$ in $\mathrm{\frac{m}{s}}$ | Oberflächen- <br> temperatur <br> $\vartheta$ in °C | Planetenmasse <br> $m$ in kg | Äquatorradius <br> r in km | Dichte <br> $\rho$ in $\mathrm{\frac{kg}{m^3}}$ |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 | Merkur | $0,4$ | $0,24$ | <details> <summary> $ \approx 49\,800$ </summary> <br> $v=\dfrac{2 \pi\cdot R}{T}$ <br> <br> $\dfrac{2\pi\cdot 0,4\cdot150\cdot10^{9}\,\mathrm{m}}{0,24\cdot365\cdot24\cdot60\cdot60\,\mathrm{s}}$ </details> | $167$ | $3,3\cdot10^{23}$ | $2440$ | <details> <summary> $\approx 5400$ </summary> <br> $\rho = \dfrac{m}{V}$ <br> <br> $\dfrac{3,3\cdot10^{23}\,\mathrm{kg}}{\frac{4}{3}\pi\cdot(2440\cdot10^{3}\,\mathrm{m})^3}$ </details> |
 | Venus | $0,72$ | $0,62$ | <details> <summary> $ \approx 34\,700$ </summary> <br>  $\dfrac{2\pi\cdot 0,72\cdot150\cdot10^{9}\,\mathrm{m}}{0,62\cdot365\cdot24\cdot60\cdot60\,\mathrm{s}}$ </details>  | $462$ | $4,9\cdot10^{24}$ | $6062$ | <details> <summary> $\approx 5300$ </summary> <br> $\dfrac{4,9\cdot10^{24}\,\mathrm{kg}}{\frac{4}{3}\pi\cdot(6062\cdot10^{3}\,\mathrm{m})^3}$ </details> |
-| Erde | $1$ | $1$ | $\approx29\,900$ | $15$ | $6\cdot10^{24}$ | $6378$ | $\approx 5521$ |
+| Erde | $1$ | $1$ | $\approx29\,900$ | $15$ | $6\cdot10^{24}$ | $6378$ | $\approx 5520$ |
 | Mars | $1,52$ | $1,88$ | $\approx 24\,200$ | $-63$ | $6,4\cdot10^{23}$ | $3396$ | $\approx 3900$ |
-| Jupiter | $5,2$ | $11,9$ | $\approx 13\,000$ | $-120$ | $1,9\cdot10^{27}$ | $71\,492$ | $1241$ |
-| Saturn | $9,58$ | $29$ | $\approx 9800$ | $-125$ | $5,7\cdot10^{26}$ | $60\,268$ | $621$ |
-| Uranus | $19,2$ | $84$ | $\approx 6800$ | $-210$ | $8,7\cdot10^{25}$ | $25\,559$ | $1243$ |
-| Neptun | $30,1$ | $165$ | $\approx 5400$ | $-210$ | $1,02\cdot10^{26}$ | $27\,476$ | $1174$ |
+| Jupiter | $5,2$ | $11,9$ | $\approx 13\,000$ | $-120$ | $1,9\cdot10^{27}$ | $71\,492$ | $\approx1240$ |
+| Saturn | $9,58$ | $29$ | $\approx 9800$ | $-125$ | $5,7\cdot10^{26}$ | $60\,268$ | $\approx620$ |
+| Uranus | $19,2$ | $84$ | $\approx 6800$ | $-210$ | $8,7\cdot10^{25}$ | $25\,559$ | $\approx1240$ |
+| Neptun | $30,1$ | $165$ | $\approx 5400$ | $-210$ | $1,02\cdot10^{26}$ | $27\,476$ | $\approx 1170$ |
 ***************
 
 <details style='color:blue'>
 
-<summary> __Erläuterungen:__ </summary>
+<summary> __Erläuterungen zu den Berechnungen:__ </summary>
 
 ??[Erklärung_Geschwindigkeit_Dichte](https://diversewolken.ddns.net/nextcloud/s/6x52EWGQo7dyGEJ/download)
 
@@ -3853,7 +3853,7 @@ Nutze die Webseite www.solarsystemscope.com um folgende Informationen über die 
 
 <details style='color:blue'>
 
-<summary> __Hinweise:__ </summary>
+<summary> __Berechnungen:__ </summary>
 
 <section class="flex-container">
 
@@ -3877,29 +3877,41 @@ Nutze die Webseite www.solarsystemscope.com um folgende Informationen über die 
 
 # Das Gravitationsgesetz
 
-> Die Gravitationskraft (Gewichtskraft), die ein Körper der Masse $M_1$ (z.B. Erde) auf einen Körper der Masse $M_2$ (z.B. Mond, Mensch) im Abstand $r$ ausübt ist definiert als:
+> Die Gravitationskraft $F_g$ (Gewichtskraft), die ein Körper der Masse $M_1$ (z.B. Erde) auf einen Körper der Masse $M_2$ (z.B. Mond, Mensch) im Abstand $r$ ausübt ist definiert als:
 >
 > $$ F_g = G \cdot \dfrac{M_1 \cdot M_2}{r^2} $$
 >
-> mit $ G = 6,67 \cdot 10^{-11} \mathrm{\dfrac{m^3}{kg\cdot s^2}$
+> mit der Gravitationskonstante $G$ $$ G = 6,67 \cdot 10^{-11} \mathrm{\dfrac{m^3}{kg\cdot s^2}}$$
+>
+> und der Einheit __Newton__.
 
-## Ideen für Aufgaben
+<details style='color:blue'>
 
-1. Die acht Planeten des Sonnensystems kann man bezüglich ihrer Dichte in zwei Kathegorien einteilen. Sortiere die Planeten diesbezüglich ein.
+<summary> __Beispiel:__ </summary>
+
+??[Beispiel_Rechnung]
+
+</details>
+
+## Eigenschaften des Sonnensystems zum selbstständigen Erarbeiten
+
+1. Die acht Planeten des Sonnensystems kann man bezüglich ihrer Dichte in zwei Kathegorien einteilen. Definiere anhand deiner Tabelle zwei Gruppen und ordne die Planeten zu.
 
 <details style='color:blue;margin-left:10%'>
 
-<summary> Merksatz </summary>
+<summary> Lösung </summary>
 
 > Merkur, Venus, Erde, Mars sind (erdähnliche) __Gesteinsplaneten__. Ihre Dichte ist deutlich höher (etwa 5x so groß), wie die der restlichen Planten. Diese werden als Gasplaneten bezeichnet.
 
 </details>
 
-2. Zeichne ein Diagramm der mittleren Bewegungsgeschwindigkeit in Abhängigkeit des Bahnradius. Weise nach, dass $v$ indirekt proportional zu $R$ ist.
+---
+
+2. Zeichne ein Diagramm der mittleren Bewegungsgeschwindigkeit in Abhängigkeit des Bahnradius. Weise nach, dass die Bahngeschwindigkeit $v$ indirekt proportional zum Bahnradius $R$ ist.
 
 <details style='color:blue;margin-left:10%'>
 
-<summary> Merksatz </summary>
+<summary> Lösung </summary>
 
 <!--
      data-show
@@ -3923,19 +3935,22 @@ Nutze die Webseite www.solarsystemscope.com um folgende Informationen über die 
 > Die Bewegungsgeschwindigkeit der Planeten ist indirekt proportional zum mittleren Sonnenabstand.
 >
 > Nachweis: Das Produkt $v \cdot R$ ist näherungsweise konstant.
->
-> 
+
 
 </details>
 
-3. Jupiter ist hat ein deutlich größeres Volumen als die Erde. Ermittle diesen Faktor. Ermittle auch den kleinsten Planeten und um das wievielfache er kleiner ist als die Erde.
+---
+
+3. Jupiter ist hat ein deutlich größeres Volumen als die Erde. Ermittle den Faktor, wie oft das Volumen der Erde in das Volumen des Jupiters passt. Ermittle auch den kleinsten Planeten und um das wievielfache er kleiner ist als die Erde.
 
 <details style='color:blue;margin-left:10%'>
 
-<summary> Merksatz </summary>
+<summary> Lösung </summary>
 
-> Die Bewegungsgeschwindigkeit der Planeten ist indirekt proportional zum mittleren Sonnenabstand.
+
 
 </details>
+
+---
 
 4. Merkur ist der Planet mit der geringsten Masse. Ermittle um das wievielfache seine Masse geringer ist, als die der Erde. Ermittle auch den Planeten mit der größten Masse und die wievielfache Erdmasse er aufweist.
