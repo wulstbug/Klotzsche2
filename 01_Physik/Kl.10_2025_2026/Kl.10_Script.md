@@ -3875,6 +3875,7 @@ Nutze die Webseite www.solarsystemscope.com um folgende Informationen über die 
 </details>
 
 ## Eigenschaften des Sonnensystems zum selbstständigen Erarbeiten
+[Link_10a](https://liascript.github.io/nightly/?https://raw.githubusercontent.com/wulstbug/Klotzsche2/2025_2026/01_Physik/Kl.10_2025_2026/source/LB4_10a.md) | [Link_10b](https://liascript.github.io/nightly/?https://raw.githubusercontent.com/wulstbug/Klotzsche2/2025_2026/01_Physik/Kl.10_2025_2026/source/LB4_10b.md)
 
 1. Die acht Planeten des Sonnensystems kann man bezüglich ihrer Dichte in zwei Kathegorien einteilen. Definiere anhand deiner Tabelle zwei Gruppen und ordne die Planeten zu.
 
