@@ -3875,24 +3875,6 @@ Nutze die Webseite www.solarsystemscope.com um folgende Informationen über die 
 
 </details>
 
-# Das Gravitationsgesetz
-
-> Die Gravitationskraft $F_g$ (Gewichtskraft), die ein Körper der Masse $M_1$ (z.B. Erde) auf einen Körper der Masse $M_2$ (z.B. Mond, Mensch) im Abstand $r$ ausübt ist definiert als:
->
-> $$ F_g = G \cdot \dfrac{M_1 \cdot M_2}{r^2} $$
->
-> mit der Gravitationskonstante $G$ $$ G = 6,67 \cdot 10^{-11} \mathrm{\dfrac{m^3}{kg\cdot s^2}}$$
->
-> und der Einheit __Newton__.
-
-<details style='color:blue'>
-
-<summary> __Beispiel:__ </summary>
-
-??[Beispiel_Rechnung]
-
-</details>
-
 ## Eigenschaften des Sonnensystems zum selbstständigen Erarbeiten
 
 1. Die acht Planeten des Sonnensystems kann man bezüglich ihrer Dichte in zwei Kathegorien einteilen. Definiere anhand deiner Tabelle zwei Gruppen und ordne die Planeten zu.
@@ -3954,3 +3936,32 @@ Nutze die Webseite www.solarsystemscope.com um folgende Informationen über die 
 ---
 
 4. Merkur ist der Planet mit der geringsten Masse. Ermittle um das wievielfache seine Masse geringer ist, als die der Erde. Ermittle auch den Planeten mit der größten Masse und die wievielfache Erdmasse er aufweist.
+
+# Das Gravitationsgesetz
+
+> Die Gravitationskraft $F_g$ (bisher Gewichtskraft) ist die Kraft, die ein Körper der Masse $M_1$ (z.B. Erde) auf einen Körper der Masse $M_2$ (z.B. Mond, Mensch) im Abstand $r$ ausübt:
+>
+> $$ \boxed{F_g = G \cdot \dfrac{M_1 \cdot M_2}{r^2} }$$
+>
+> mit der Gravitationskonstante $G$ (siehe Formelsammlung) $$ G = 6,67 \cdot 10^{-11} \mathrm{\dfrac{m^3}{kg\cdot s^2}}$$
+>
+> und der Einheit __Newton__ $[\mathrm{N}]$. 
+
+{{1}}
+***************
+> Sie wirkt:
+>
+> - __immer auf der Verbindungslinie__ der beiden Masseschwerpunkte
+>
+> - __immer anziehend__
+>
+> - __immer beidseitig__ ($M_1$ zieht $M_2$ mit $F_g$ an und umgekehrt)
+
+<details style='color:blue'>
+
+<summary> __Beispiel:__ </summary>
+
+??[Beispiel_Rechnung](https://diversewolken.ddns.net/nextcloud/s/Gm3bBXwkGKg2Lo3/download)
+
+</details>
+***************
