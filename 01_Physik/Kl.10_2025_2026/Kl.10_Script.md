@@ -3862,20 +3862,51 @@ __Hinweise:__
 
 <summary> Merksatz </summary>
 
-Merkur, Venus, Erde, Mars sind (erdähnliche) Gesteinsplaneten.
+> Merkur, Venus, Erde, Mars sind (erdähnliche) __Gesteinsplaneten__. Ihre Dichte ist deutlich höher (etwa 5x so groß), wie die der restlichen Planten. Diese werden als Gasplaneten bezeichnet.
 
 </details>
 
-2. Zeichne ein Diagramm der mittleren Bewegungsgeschwindigkeit in Abhängigkeit des Bahnradius.
+2. Zeichne ein Diagramm der mittleren Bewegungsgeschwindigkeit in Abhängigkeit des Bahnradius. Weise nach, dass $v$ indirekt proportional zu $R$ ist.
 
 <details style='color:blue;margin-left:10%'>
 
 <summary> Merksatz </summary>
 
-Die Bewegungsgeschwindigkeit der Planeten ist indirekt proportional zum mittleren Sonnenabstand.
+<!--
+     data-show
+     data-title=""
+     data-type="line"
+     data-xlabel="Abstand zur Sonne in AE"
+     data-ylabel="Bahngeschwindigkeit in m/s"
+     data-xlim="0,35"
+-->
+| Abstand zur Sonne  | Mittlere <br> Bahngeschwindigkeit |
+| :---: | :---: |
+| 0.4 | 49800 |
+| 0.72 | 34700 |
+| 1 | 29900 |
+| 1.52 |24200 |
+| 5.2 | 13024 |
+| 9.58 | 9846 |
+| 19.2 | 6813 |
+| 30.1 | 5437 |
+
+> Die Bewegungsgeschwindigkeit der Planeten ist indirekt proportional zum mittleren Sonnenabstand.
+>
+> Nachweis: Das Produkt $v \cdot R$ ist näherungsweise konstant.
+>
+> 
 
 </details>
 
-3. Jupiter ist um ein vielfaches größer als die Erde. Ermittle diesen Faktor. Ermittle auch den kleinsten Planeten und um das wievielfache er kleiner ist als die Erde.
+3. Jupiter ist hat ein deutlich größeres Volumen als die Erde. Ermittle diesen Faktor. Ermittle auch den kleinsten Planeten und um das wievielfache er kleiner ist als die Erde.
+
+<details style='color:blue;margin-left:10%'>
+
+<summary> Merksatz </summary>
+
+> Die Bewegungsgeschwindigkeit der Planeten ist indirekt proportional zum mittleren Sonnenabstand.
+
+</details>
 
 4. Merkur ist der Planet mit der geringsten Masse. Ermittle um das wievielfache seine Masse geringer ist, als die der Erde. Ermittle auch den Planeten mit der größten Masse und die wievielfache Erdmasse er aufweist.
