@@ -4120,3 +4120,5 @@ $$
 | Saturn | 1,00146 |
 | Uranus | 1,00112 |
 | Neptun | 1,000037 |
+
+# Sonne: Aufbau und Funktionsprinzip
