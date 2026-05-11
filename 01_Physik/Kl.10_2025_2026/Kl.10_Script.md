@@ -4105,5 +4105,18 @@ $$
 </details>
 
 
+## Ellipsenbahnen der Planeten (nur zur Info)
 
+> Die Planetenbahnen sind beinahe __Kreisbahnen__. Das Verhältnis aus großer Halbachse/kleiner Halbachse ($a/b$) liegt für alle Planeten sehr nah an 1.
 
+<!-- data-show="false" -->
+| Planet | a/b |
+|---|---|
+| Merkur | 1,0218 |
+| Venus | 1,000023 |
+| Erde | 1,000139 |
+| Mars | 1,00439 |
+| Jupiter | 1,00117 |
+| Saturn | 1,00146 |
+| Uranus | 1,00112 |
+| Neptun | 1,000037 |
