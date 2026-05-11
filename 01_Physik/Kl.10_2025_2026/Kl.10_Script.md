@@ -4012,3 +4012,98 @@ größeres Volumen als die Erde.
 ## Video - Gravitation
 
 !?[GravitationUndMond](https://www.zdf.de/play/dokus/3sat-dokus-104/230330-sendung-im-bann-des-mondes-wido-100)
+
+# Die Keppler'schen Gesetze
+
+> Die Keppler'schen Gesetze machen ausschließlich Aussagen über die Bewegungsbahn der Planeten, aber keiner Aussage über die Ursache (Gravitationskraft).
+
+<details style="margin-left:5%">
+
+<summary> __1. Keplersches Gesetz (Ellipsengesetz)__ </summary>
+
+<section class="flex-container">
+
+<div class="flex-child-1" style="min-width: 300px; margin-bottom: -10px">
+
+Die Planeten bewegen sich auf elliptischen Bahnen um die Sonne. In einem gemeinsamen Brennpunkt steht die Sonne.
+
+- **a** … große Halbachse
+- **b** … kleine Halbachse
+- **F₁, F₂** … Brennpunkte
+- **S** … Sonne (im Brennpunkt)
+
+</div>
+
+<div class="flex-child-1" style="min-width: 300px; margin-bottom: -10px">
+
+![Keppler_Skizze_1](https://diversewolken.ddns.net/nextcloud/s/PPYNYHKZBYikbnJ/download)
+
+</div>
+
+</section>
+
+</details>
+
+---
+
+<details style="margin-left:5%">
+
+<summary> __2. Keplersches Gesetz (Flächensatz)__ </summary>
+
+
+<section class="flex-container">
+
+<div class="flex-child-1" style="min-width: 300px; margin-bottom: -10px">
+
+Die Verbindungslinie Erde–Sonne überstreicht in gleichen Zeitintervallen $\Delta t$ die gleiche Fläche $A$.
+
+- $\Delta t$ … Zeitintervall
+- $S$ … Sonne
+
+</div>
+
+<div class="flex-child-1" style="min-width: 300px; margin-bottom: -10px">
+
+![Keppler_Skizze_2](https://diversewolken.ddns.net/nextcloud/s/aCzcdCBY59omwtn/download)
+
+</div>
+
+</section>
+
+</details>
+
+---
+
+<details style="margin-left:5%">
+
+<summary> __3. Keplersches Gesetz (Harmoniegesetz)__ </summary>
+
+<section class="flex-container">
+
+<div class="flex-child-1" style="min-width: 300px; margin-bottom: -10px">
+
+
+Die Quadrate der Umlaufzeiten verhalten sich wie die dritten Potenzen ihrer großen Halbachsen.
+
+$$
+\dfrac{\purple{T_1^{2}}}{\red{T_2^{2}}} = \dfrac{\purple{a_1^{3}}}{\red{a_2^{3}}}
+$$
+
+- $a_1, a_2$ … große Halbachsen von Planet 1 bzw. Planet 2
+- $T_1, T_2$ … Umlaufzeiten
+
+</div>
+
+<div class="flex-child-1" style="min-width: 300px; margin-bottom: -10px">
+
+![Keppler_Skizze_3](https://diversewolken.ddns.net/nextcloud/s/AF8np7L2am9JZ9L/download)
+
+</div>
+
+</section>
+
+</details>
+
+
+
+
