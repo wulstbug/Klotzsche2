@@ -3950,13 +3950,13 @@ Nutze die Webseite www.solarsystemscope.com um folgende Informationen über die 
 
 Das Volumen des Jupiter ist in Näherung einer Kugel 
 
-$$ V_{Jupiter} = \frac{4}{3}\pi\cdot R_{Jupiter}^3$$
+$$ V_{Jupiter} = \frac{4}{3}\pi\cdot r_{Jupiter}^3$$
 $$ V_{Jupiter} = \frac{4}{3}\pi\cdot (71492\cdot 10^3 \mathrm{m})^3 $$
 $$ V_{Jupiter} = 1,53 \cdot 10^{24} \mathrm{m}^3$$
 
 Für die Erde gilt:
 
-$$ V_{Erde} = \frac{4}{3}\pi\cdot R_{Erde}^3$$
+$$ V_{Erde} = \frac{4}{3}\pi\cdot r_{Erde}^3$$
 $$ V_{Erde} = \frac{4}{3}\pi\cdot (6378 \cdot 10^3 \mathrm{m})^3$$
 $$ V_{Erde} = 1,09 \cdot 10^{21} \mathrm{m}^3$$
 
@@ -3978,40 +3978,6 @@ größeres Volumen als die Erde.
 
 </p>
 
-
-
-# Das Gravitationsgesetz
-
-> Die Gravitationskraft $F_g$ (bisher Gewichtskraft) ist die Kraft, die ein Körper der Masse $M_1$ (z.B. Erde) auf einen Körper der Masse $M_2$ (z.B. Mond, Mensch) im Abstand $r$ ausübt:
->
-> $$ \boxed{F_g = G \cdot \dfrac{M_1 \cdot M_2}{r^2} }$$
->
-> mit der Gravitationskonstante $G$ (siehe Formelsammlung) $$ G = 6,67 \cdot 10^{-11} \mathrm{\dfrac{m^3}{kg\cdot s^2}}$$
->
-> und der Einheit __Newton__ $[\mathrm{N}]$. 
-
-{{1}}
-***************
-> Sie wirkt:
->
-> - __immer auf der Verbindungslinie__ der beiden Masseschwerpunkte
->
-> - __immer anziehend__
->
-> - __immer beidseitig__ ($M_1$ zieht $M_2$ mit $F_g$ an und umgekehrt)
-
-<details style='color:blue'>
-
-<summary> __Beispiel:__ </summary>
-
-??[Beispiel_Rechnung](https://diversewolken.ddns.net/nextcloud/s/Gm3bBXwkGKg2Lo3)
-
-</details>
-***************
-
-## Video - Gravitation
-
-!?[GravitationUndMond](https://www.zdf.de/play/dokus/3sat-dokus-104/230330-sendung-im-bann-des-mondes-wido-100)
 
 # Die Keppler'schen Gesetze
 
@@ -4120,5 +4086,40 @@ $$
 | Saturn | 1,00146 |
 | Uranus | 1,00112 |
 | Neptun | 1,000037 |
+
+
+# Das Gravitationsgesetz
+
+> Die Gravitationskraft $F_g$ (bisher Gewichtskraft) ist die Kraft, die ein Körper der Masse $M_1$ (z.B. Erde) auf einen Körper der Masse $M_2$ (z.B. Mond, Mensch) im Abstand $r$ ausübt:
+>
+> $$ \boxed{F_g = G \cdot \dfrac{M_1 \cdot M_2}{r^2} }$$
+>
+> mit der Gravitationskonstante $G$ (siehe Formelsammlung) $$ G = 6,67 \cdot 10^{-11} \mathrm{\dfrac{m^3}{kg\cdot s^2}}$$
+>
+> und der Einheit __Newton__ $[\mathrm{N}]$. 
+
+{{1}}
+***************
+> Sie wirkt:
+>
+> - __immer auf der Verbindungslinie__ der beiden Masseschwerpunkte
+>
+> - __immer anziehend__
+>
+> - __immer beidseitig__ ($M_1$ zieht $M_2$ mit $F_g$ an und umgekehrt)
+
+<details style='color:blue'>
+
+<summary> __Beispiel:__ </summary>
+
+??[Beispiel_Rechnung](https://diversewolken.ddns.net/nextcloud/s/Gm3bBXwkGKg2Lo3)
+
+</details>
+***************
+
+## Video - Gravitation
+
+!?[GravitationUndMond](https://www.zdf.de/play/dokus/3sat-dokus-104/230330-sendung-im-bann-des-mondes-wido-100)
+
 
 # Sonne: Aufbau und Funktionsprinzip
