@@ -3974,7 +3974,7 @@ größeres Volumen als die Erde.
 
 <p style='margin-left:10%'>
 
-@rangeQuiz2($t_{Rückflug}$, 2.2, $\mathrm{y}$)
+@rangeQuiz20($t_{Rückflug}$, 2.2, $\mathrm{y}$)
 
 </p>
 
