@@ -1556,7 +1556,7 @@ __Strahlengang__
 
 {{6}}
 *************
-![Parallelstrahlen_Sammellinse](https://diversewolken.ddns.net/nextcloud/index.php/s/AEmigNGpENWtZzF/download)
+![Parallelstrahlen_Sammellinse](https://diversewolken.ddns.net/nextcloud/s/AEmigNGpENWtZzF/download)
 *************
 
 </div>
@@ -1566,7 +1566,7 @@ __Strahlengang__
 
 {{7}}
 *************
-![Parallelstrahlen_Zerstreungslinse](https://diversewolken.ddns.net/nextcloud/index.php/s/Bc5eJXkJtbosapH/download)
+![Parallelstrahlen_Zerstreungslinse](https://diversewolken.ddns.net/nextcloud/s/Bc5eJXkJtbosapH/download)
 *************
 </div>
 
