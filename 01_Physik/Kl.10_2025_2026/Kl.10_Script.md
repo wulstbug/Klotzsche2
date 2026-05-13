@@ -4354,5 +4354,5 @@ Die gesamte Strahlungsleistung der Sonne (Joule pro Sekunde) pro Sekunde beträg
 
 $ L = 3,84 \cdot 10^{26}\,\mathrm{W} \hspace{1cm}$ _Hinweis:_ $\Big[1\,\mathrm{W} = 1\,\mathrm{\frac{J}{s}}\Big]$
 
-Auf der Erde kommen $1361\,\mathrm{\frac{W}{m^2}}$ an.
+Auf der Erde kommen $1361\,\mathrm{\frac{W}{m^2}}$ an.Diesen Wert nennt man Solarkonstante.
 ***********
