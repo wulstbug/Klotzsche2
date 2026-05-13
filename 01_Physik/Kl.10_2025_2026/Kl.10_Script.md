@@ -4343,6 +4343,16 @@ __Kernfusionsprozess im Inneren der Sonne__
 
 @color(Notiere die grundlegende Aspekte der Kernfusion aus dem Inneren der Sonne, blue)
 
-![FusionInnerhalbDerSonne](https://youtu.be/RrtmeUU_piM?si=Kb4nlmow07exQR6h)
+{3-4}{![FusionInnerhalbDerSonne](https://youtu.be/RrtmeUU_piM?si=Kb4nlmow07exQR6h)}
 ***********
 
+{{4}}
+***********
+__Strahlungsleistung der Sonne__
+
+Die gesamte Strahlungsleistung der Sonne (Joule pro Sekunde) pro Sekunde beträgt
+
+$ L = 3,84 \cdot 10^{26}\,\mathrm{W} \hspace{1cm}$ _Hinweis:_ $\Big[1\,\mathrm{W} = 1\,\mathrm{\frac{J}{s}}\Big]$
+
+Auf der Erde kommen $1361\,\mathrm{\frac{W}{m^2}}$ an.
+***********
