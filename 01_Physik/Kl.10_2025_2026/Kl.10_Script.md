@@ -4319,4 +4319,30 @@ $$F_{g2} = 785\,\mathrm{N}$$
 
 !?[GravitationUndMond](https://www.zdf.de/play/dokus/3sat-dokus-104/230330-sendung-im-bann-des-mondes-wido-100)
 
-# Sonne: Aufbau und Funktionsprinzip
+# Sonne
+
+> Die Sonne ist die primäre Energiequelle und das massereichste Objekt unseres Sonnensystem. Durch Kernfusion die der Energie bereitsgestellt. Dabei verschmelzen u.a. Wasserstoffkerne und Heliumkerne unter Freisetzung von Energie zu schwereren Elementen. 
+
+__Aufbau der Sonne__ 
+
+(@color(_Übernimm den Aufbau der Sonne in deinen Hefter_, blue))
+
+{{1-2}}
+***********
+!?[Aufbau_der_Sonne](https://youtu.be/dF-Gzr4ioCY?si=pksZGZIbLNWAZNve)
+***********
+
+{{2}}
+***********
+![AufbauDerSonne](https://sternfreunde.de/wp-content/uploads/2021/01/Sonne-Aufbau_NASA-Jenny-Mottar.jpg)
+***********
+
+{{3}}
+***********
+__Kernfusionsprozess im Inneren der Sonne__
+
+@color(Notiere die grundlegende Aspekte der Kernfusion aus dem Inneren der Sonne, blue)
+
+![FusionInnerhalbDerSonne](https://youtu.be/RrtmeUU_piM?si=Kb4nlmow07exQR6h)
+***********
+
