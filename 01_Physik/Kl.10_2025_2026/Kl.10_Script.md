@@ -4319,9 +4319,11 @@ $$F_{g2} = 785\,\mathrm{N}$$
 
 !?[GravitationUndMond](https://www.zdf.de/play/dokus/3sat-dokus-104/230330-sendung-im-bann-des-mondes-wido-100)
 
-# Sonne
+# Die Sonne (Aufbau und Funktion)
 
 > Die Sonne ist die primäre Energiequelle und das massereichste Objekt unseres Sonnensystem. Durch Kernfusion die der Energie bereitsgestellt. Dabei verschmelzen u.a. Wasserstoffkerne und Heliumkerne unter Freisetzung von Energie zu schwereren Elementen. 
+
+---
 
 __Aufbau der Sonne__ 
 
@@ -4339,6 +4341,8 @@ __Aufbau der Sonne__
 
 {{3}}
 ***********
+---
+
 __Kernfusionsprozess im Inneren der Sonne__
 
 @color(Notiere die grundlegende Aspekte der Kernfusion aus dem Inneren der Sonne, blue)
@@ -4348,11 +4352,20 @@ __Kernfusionsprozess im Inneren der Sonne__
 
 {{4}}
 ***********
+---
+
 __Strahlungsleistung der Sonne__
 
 Die gesamte Strahlungsleistung der Sonne (Joule pro Sekunde) pro Sekunde beträgt
 
 $ L = 3,84 \cdot 10^{26}\,\mathrm{W} \hspace{1cm}$ _Hinweis:_ $\Big[1\,\mathrm{W} = 1\,\mathrm{\frac{J}{s}}\Big]$
 
-Auf der Erde kommen $1361\,\mathrm{\frac{W}{m^2}}$ an.Diesen Wert nennt man Solarkonstante.
+Auf der Erde kommen $S_0 = 1361\,\mathrm{\frac{W}{m^2}}$ an. Diesen Wert $S_0$ nennt man Solarkonstante.
+
+[Erläuterung zur Strahlungsleistung](www.leifiphysik.de/astronomie/sonne/grundwissen/solarkonstante-und-strahlungsleistung)
+
+Die Strahlungsleistung pro Quadratmeter $S$ an anderen Orten im Sonnensystem ist indirekt proportional zum Abstandsquadrat zur Sonne $R$, d.h.
+
+$ S \sim R^2$
 ***********
+
