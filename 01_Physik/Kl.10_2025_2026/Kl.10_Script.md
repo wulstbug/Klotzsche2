@@ -4391,7 +4391,7 @@ __Aufbau der Sonne__
 
 {{1-2}}
 ***********
-!?[Aufbau_der_Sonne](https://youtu.be/dF-Gzr4ioCY?si=pksZGZIbLNWAZNve)
+!?[Aufbau_der_Sonne](www.youtube.com/watch?v=dF-Gzr4ioCY)
 ***********
 
 {{2}}
