@@ -4431,7 +4431,17 @@ $ S \sim \frac{1}{R^2}$
 
 ## Aufgaben zur Sonne
 
-1. Ermitteln Sie die Strahlungsleistung $S_{Mars}$ der Sonne auf dem Mars. 
+1. Geben Sie an, welche Energiemenge die Sonne ungefähr an einem Tag freisetzt.
+
+<p style='margin-left:10%'>
+
+@rangeQuiz2($E_{Tag}$,3.318e31,$\mathrm{J}$)
+
+</p>
+
+---
+
+2. Ermitteln Sie die Strahlungsleistung $S_{Mars}$ der Sonne auf dem Mars. 
 
 <p style='margin-left:10%'>
 
