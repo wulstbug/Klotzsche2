@@ -4447,6 +4447,8 @@ Nutzen Sie dazu die Strahlungsleistung auf der Erde sowie die Abhängikeit $S \s
 
 </details>
 
+<details style='color:blue;margin-left:10%'>
+
 <summary> Lösungshinweis2 </summary>
 
 Die Strahlungsleistung der Sonne auf der Erde beträgt $S_0 = 1361\,\mathrm{\frac{W}{m^2}}$.
