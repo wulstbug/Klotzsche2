@@ -4441,7 +4441,7 @@ $ S \sim \frac{1}{R^2}$
 
 ---
 
-2. Ermitteln Sie die Strahlungsleistung $S_{Mars}$ der Sonne auf dem Mars. 
+2. Ermitteln Sie die Strahlungsleistung $S_{Mars}$ der Sonne pro Quadratmeter auf dem Mars. 
 
 <p style='margin-left:10%'>
 
