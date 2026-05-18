@@ -4422,6 +4422,7 @@ $ L = 3,84 \cdot 10^{26}\,\mathrm{W} \hspace{1cm}$ _Hinweis:_ $\Big[1\,\mathrm{W
 
 Auf der Erde kommen $S_0 = 1361\,\mathrm{\frac{W}{m^2}}$ an. Diesen Wert $S_0$ nennt man Solarkonstante.
 
+
 [Erläuterung zur Strahlungsleistung](www.leifiphysik.de/astronomie/sonne/grundwissen/solarkonstante-und-strahlungsleistung)
 
 Die Strahlungsleistung pro Quadratmeter $S$ an anderen Orten im Sonnensystem ist indirekt proportional zum Abstandsquadrat zur Sonne $R$, d.h.
