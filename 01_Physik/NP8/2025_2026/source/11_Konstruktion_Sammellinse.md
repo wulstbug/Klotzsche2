@@ -196,6 +196,9 @@ F2 = (-f, G)
 
 <p style="margin-left:5%">
 
+Konstruiere nun den Strahlengang an zwei [Sammellinsen](https://www.geogebra.org/classroom/hs9hnk6g). Konstruiere dazu zuerst das erste Zwischenbild (zwischen L1 und L2) und dann das engültige Bild (hinter L2).
+
+
 
 </p>
 
