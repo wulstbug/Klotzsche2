@@ -3,7 +3,7 @@ icon:   https://diversewolken.ddns.net/klotzsche/logo.png
 
 author: Christian Golnik
 
-logo: https://diversewolken.ddns.net/nextcloud/index.php/s/twWpgsoaTm7Fcwd/download
+logo: https://diversewolken.ddns.net/nextcloud/s/Nx9ZyS5yoi8HttH/download
 
 language: de
 
