@@ -105,7 +105,7 @@ mode: presentation
 
 <H4> Konstruktion eines Mikroskops mit Geogebra </H4>
 
-In der folgenden Aufgabe soll die Abbildung eines Gegenstands an einem Mikroskop konstruiert werden. Ein Mikroskop besteht aus zwei Linsen 1. dem Objektiv(welches sich nahe des Gegenstandes befindet) und dem Objektiv(durch das man mit dem Auge blickt). 
+In der folgenden Aufgabe soll die Abbildung eines Gegenstands an einem Mikroskop konstruiert werden. Ein Mikroskop besteht aus zwei Linsen 1. dem Objektiv(welches sich nahe des Gegenstandes befindet) und dem Okular(durch das man mit dem Auge blickt). 
 
 Nähere Informationen erhältst du dann in der Aufgabe selbst.
 
