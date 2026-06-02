@@ -422,10 +422,18 @@ __Technische Geräte oder Vorgänge in der Natur wandeln__ @color(zugeführte En
 > $$ \boxed{\eta = \dfrac{\blue{E_{nutz}}}{\orange{E_{zu}}}}$$
 ***********
 
+<section class="flex-container">
+
+<div class="flex-child-1" style="min-width: 200px; margin-bottom: -10px">
+
 {{2}}
 ***********
 ![bspGluehlampe](https://diversewolken.ddns.net/nextcloud/s/32rRY7ZN44tnwag/download)
 ***********
+
+</div>
+
+<div class="flex-child-2" style="min-width: 400px; margin-bottom: -10px">
 
 {{3}}
 ***********
@@ -442,6 +450,11 @@ __Aufgaben:__
 - AH. S.31  /A. 2, 4
 - LB. S.122 /A. 3, 4
 ***********
+
+
+</div>
+
+</section>
 
 {{5}}
 ***********
