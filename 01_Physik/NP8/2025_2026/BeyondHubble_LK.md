@@ -65,6 +65,14 @@ h1, h2, h3, h4, h5, h6 {
 
 @onload
 window.LIA.settings.font_size = 2
+
+
+const canvas = document.querySelector('.lia-canvas')
+if (canvas) {
+  canvas.classList.remove('lia-navigation--visible')
+  canvas.classList.add('lia-navigation--hidden')
+}
+
 @end
 
 @color
@@ -113,12 +121,12 @@ window.LIA.settings.font_size = 2
 
 @end
 
-mode: presentation
+mode: Labs
 
 -->
 
 
-# Naturwissenschaftliches Profil Klasse 8
+# Naturwissenschaftliches Profil Klasse 8 new6
 
 @uhr
 
@@ -680,7 +688,13 @@ __Aufgabe:__ Analysiere mit Hilfe des Bildes an der Tafel und die Elemente des A
 
 ## Arte-Doku James Webb
 
-!?[ArteDokuJamesWebb](https://www.youtube.com/watch?v=Jb48AM77YFw)
+??[ArteDokuJamesWebb](https://www.arte.tv/de/videos/114577-000-A/das-james-webb-teleskop-erste-erkenntnisse-aus-dem-all/)
+
+## SpaceNight Doku James Webb
+
+[SpaceNight-JamesWebb](https://www.ardmediathek.de/video/space-night-science/groesser-schaerfer-weiter-das-james-webb-weltraumteleskop/ard-alpha/Y3JpZDovL2JyLmRlL2Jyb2FkY2FzdC9GMjAyNFdPMDE5NjU1QTA)
+
+-> Astronomische Bilder 18:40
 
 # Wiederholung Linsenabbildungen
 
@@ -1542,7 +1556,7 @@ __Strahlengang__
 
 {{6}}
 *************
-![Parallelstrahlen_Sammellinse](https://diversewolken.ddns.net/nextcloud/index.php/s/AEmigNGpENWtZzF/download)
+![Parallelstrahlen_Sammellinse](https://diversewolken.ddns.net/nextcloud/s/AEmigNGpENWtZzF/download)
 *************
 
 </div>
@@ -1552,7 +1566,7 @@ __Strahlengang__
 
 {{7}}
 *************
-![Parallelstrahlen_Zerstreungslinse](https://diversewolken.ddns.net/nextcloud/index.php/s/Bc5eJXkJtbosapH/download)
+![Parallelstrahlen_Zerstreungslinse](https://diversewolken.ddns.net/nextcloud/s/Bc5eJXkJtbosapH/download)
 *************
 </div>
 
@@ -1648,6 +1662,11 @@ Brennweite der Linse f = 5 cm, Bildgröße beträgt G = 2 cm
 __Auswertung:__
 
 # Entstehung unseres Sonnensystems
+
+{{0-1}}
+*************
+[SpaceNight_UnserSonnensystem](https://www.ardmediathek.de/video/space-night-science/unsere-planeten/ard-alpha/Y3JpZDovL2JyLmRlL2Jyb2FkY2FzdC9GMjAyM1dPMDIyMzY0QTAvc2VjdGlvbi8xMDk0ZGE4Yy1jMDhhLTQ3YmEtYTc5ZS02YmQ0NDY3ZGI1MTY)
+*************
 
 {{1}}
 *************
@@ -1850,15 +1869,26 @@ Sonnenradius: 696.000 km
 ## Bearbeitung Astronomischer Bilder (1)
 <!-- style="background:black"-->
 
+{{0-1}}
+***************
+??[ArteDokuJamesWebb](https://www.arte.tv/de/videos/114577-000-A/das-james-webb-teleskop-erste-erkenntnisse-aus-dem-all/)
+
+-> Astronomische Bilder 18:40
+
+***************
+
+{{1}}
+***************
 ![Moon_Lagoon](https://diversewolken.ddns.net/nextcloud/index.php/s/s92S5jps7G29Fbz/download)
 
 > <H3> Erstellung eines eigenen astronomischen Bildes aus echten astronomischen Messdaten. </H3>
+***************
 
 ### Überblick
 
 {{1-2}}
 *********
-![ObservingWithNASA](https://diversewolken.ddns.net/nextcloud/index.php/s/qpGQPSZTzsyHWQT/download)
+![ObservingWithNASA](https://diversewolken.ddns.net/nextcloud/index.php/s/qpGQPSZTzsyHWQT/download "[Observing with NASA](https://waps.cfa.harvard.edu/eduportal/js9/software.php)")
 
 > <H3> Astronomische Daten (FITS-Dateien) auswählen </H3>
 *********
@@ -2097,6 +2127,19 @@ __Arbeitsablauf:__
 
 8. __Bilder überblenden:__ Das Programm hat im Hintergrund beide Bilder geladen. Du kannst nun über den Menüpunkt _Tools_ -> _Blending_ beide Bilder übereinander legen. <br> <br> @color(Probiere es einfach aus., blue)
 
+
+
+### Wettbewerb Erstellen eines Astronomischen Bildes
+
+[PollUnit-Admin](https://pollunit.com/de/polls/yDOjmsdWVRGZEirtsKXWlw)
+
+<details style='color:blue;margin-left:10%'>
+
+<summary> Teilnahme Umfrage </summary>
+
+[qr-code](https://pollunit.com/polls/mjnpnnl9w2iep-d3whsckg)
+
+</details>
 
 ## Wie funktioniert eine Weltraumteleskop
 

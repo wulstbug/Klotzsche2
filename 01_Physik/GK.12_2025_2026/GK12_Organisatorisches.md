@@ -13,6 +13,18 @@ logo: https://www.sekretaria.de/wp-content/uploads/2011/06/Kalender_Terminplan__
 }
 @end
 
+@onload
+window.LIA.settings.font_size = 2
+
+
+const canvas = document.querySelector('.lia-canvas')
+if (canvas) {
+  canvas.classList.remove('lia-navigation--visible')
+  canvas.classList.add('lia-navigation--hidden')
+}
+
+@end
+
 mode: presentation
 
 -->
@@ -23,9 +35,21 @@ mode: presentation
 icon:   https://diversewolken.ddns.net/klotzsche/logo.jpg
 -->
 
-__Übersicht Quantenphysik (läd kurz, bitte warten):__
+> __Konsultationen Schriftliches Abitur:__
+>
+> 1. Konsultation: 02.04.2026 (1. Block)
+>
+> 2. Konsultation: 13.04.2026 (1. Block)
 
-??[MindMap](https://diversewolken.ddns.net/gykl/mindmaps/2025_2026/Zusammenfassung_QP.html)
+__Abitur Grundkurs 2025:__
+
+<iframe src="https://diversewolken.ddns.net/pdfjs/web/viewer.html?file=https://diversewolken.ddns.net/nextcloud/s/PBYQBEAc6jMKmMb/download"
+        width="100%" 
+        height="800px">
+</iframe>
+
+[Download: Abitur_2025_Aufgaben](https://diversewolken.ddns.net/nextcloud/s/PBYQBEAc6jMKmMb/download)
+
 
 __Korrekturhinweise/Korrekturzeichen__
 
@@ -85,6 +109,15 @@ __Notengebung__
 </p>
 
 - __Ende 12/1__ 17. Woche -> Zeugnisse am 19.12.2025
+
+# Mindmap Klausur
+
+
+__Übersicht Quantenphysik (läd kurz, bitte warten):__
+
+
+
+??[MindMap](https://diversewolken.ddns.net/gykl/mindmaps/2025_2026/Zusammenfassung_QP.html)
 
 # Belehrung - Fachraum
 

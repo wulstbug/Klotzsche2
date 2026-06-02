@@ -7,6 +7,18 @@ language: de
 
 logo: https://www.sekretaria.de/wp-content/uploads/2011/06/Kalender_Terminplan__68976575_Itan1409_XXL_Website.jpg
 
+@onload
+window.LIA.settings.font_size = 2
+
+
+const canvas = document.querySelector('.lia-canvas')
+if (canvas) {
+  canvas.classList.remove('lia-navigation--visible')
+  canvas.classList.add('lia-navigation--hidden')
+}
+
+@end
+
 @style
 .lia-effect__circle {
     display: none !important;
@@ -21,27 +33,27 @@ logo: https://www.sekretaria.de/wp-content/uploads/2011/06/Kalender_Terminplan__
 icon:   https://diversewolken.ddns.net/klotzsche/logo.jpg
 -->
 
-> __Elternabend:__ Dienstag 26.8.25, 18:30 Uhr, R227
+> __Konsultationen:__
+>
+> 1. Konsultation: 01.04.2026 (3. Block) -> > Vorabitur durchrechnen
+>
+> 2. Konsultation: 02.04.2026 (2. Block) -> Fragen zum Abitur 2025 vorbereiten
+>
+> 3. Konsultation: 13.04. (2. Block) - R227
+
+<iframe src="https://diversewolken.ddns.net/pdfjs/web/viewer.html?file=https://diversewolken.ddns.net/nextcloud/s/WCFM7NBLHX3a9xG/download"
+        width="100%" 
+        height="800px">
+</iframe>
+
+[Download: Abitur_2025_Aufgaben](https://diversewolken.ddns.net/nextcloud/s/WCFM7NBLHX3a9xG/download)
 
 
-## Notengebung
+[Download: Moebius-Programm-Ionenantrieb](https://diversewolken.ddns.net/nextcloud/s/LzPBPowtxAqPcKF/download)
 
-- [Klausuren-Plan-12-1](https://diversewolken.ddns.net/nextcloud/index.php/s/Q7x3Ez5zatqTdkC)
+[Download: Lösung-Aufgabe-Ionenantrieb](https://diversewolken.ddns.net/nextcloud/s/QKrDNTGo62MQoEw/download)
 
-- __Bewertung erfolgt nach dem 40% Modell__
 
-- Anzahl der Noten: 2xKlausur, 2x sonstige
-
-<p style="margin-left:5%">
-
-| | | |
-| Art | Termin | Bemerkungen |
-| 1. Sonstige (LK) | 29.01. | Atomvorstellungen |
-| Vorabitur| 24.02. | Lernbereiche 1-12 |
-
-</p>
-
-- Ende 17. Woche -> __Zeugnisse 12/1 am 19.12.2025__
 
 ## Fehlen im Unterricht
 

@@ -36,6 +36,14 @@ mode: presentation
 
 @onload
 window.LIA.settings.font_size = 2
+
+
+const canvas = document.querySelector('.lia-canvas')
+if (canvas) {
+  canvas.classList.remove('lia-navigation--visible')
+  canvas.classList.add('lia-navigation--hidden')
+}
+
 @end
 
 @color
@@ -49,6 +57,10 @@ window.LIA.settings.font_size = 2
 # Naturwissenschaftliches Profil Klasse 9 
 
 ## Einführung: Was ist Kommunikation
+
+![Einführung](https://diversewolken.ddns.net/nextcloud/s/zX9G4dcWn7HYrzq/download)
+
+!?[Video1_WasIstKommunikation](https://diversewolken.ddns.net/nextcloud/s/dscBwtfxk4WgnoN/download)
 
 [WasIstKommunikation](https://www.br.de/fernsehen/ard-alpha/sendungen/alpha-lernen/was-ist-kommunikation-sprache-definiton-100~player.html)
 
@@ -120,7 +132,7 @@ __Entscheide, wo die Verhaltensweisen einzuordnen sind und deute sie.__
 
 ## Axiome von P. Watzlawick und Vier-Ohren-Modell
 
-!?[AxiomeNachWatzlawick](https://www.youtube.com/watch?v=GydVGIDyEQ0)
+!?[AxiomeNachWatzlawick](https://diversewolken.ddns.net/nextcloud/s/33ZCcSkHfqpyGLN/download)
 
 ### Wiederholung der Axiome
 
@@ -505,7 +517,7 @@ Verschlüssele das Wort _EISENBAHN_ mit der Enigma
 
 ---
 
-THE ENIGMA-CHALLENGE @color(95 Lösungen Weltweit bis jetzt, red))
+THE ENIGMA-CHALLENGE @color(96 Lösungen Weltweit bis jetzt, red))
 
 [qr-code](https://www.ciphermachinesandcryptology.com/en/challenge.htm)
 
@@ -515,8 +527,7 @@ __NÜTZLICH: ENIGMA-SIMULATOR__
 
 
 Entschlüss
-## 4.1 Vigenere Verschlüsselung - Erklärung zum Lesen
-
+## 4.1 Vigenere Verschlüsselung
 
 ![Tabelle](https://diversewolken.ddns.net/nextcloud/index.php/s/9e6RB6rCAfd73nx/download)
 
@@ -534,7 +545,7 @@ Wähle einen Text und einen Schlüssel. <br> {1}{z.B. Text: __HEXEN__ <br> Schl�
 {{3-4}}
 ***********
 1. Ordne jedem Buchstaben des Textes die entsprechende Zahl (Position) im Alphabet zu. <br>
-2. Ordne jedem Buchstaben des Schlüssels die entsprechende Zahl (Position) im Alphabet zu, wiederhole des Schlüssel von vorn, wenn er zu kurz ist.
+2. Ordne jedem Buchstaben des Schlüssels die entsprechende Zahl (Position) im Alphabet zu, wiederhole den Schlüssel von vorn, wenn er zu kurz ist.
 
 | | | | | |
 | H | E | X | E | N |

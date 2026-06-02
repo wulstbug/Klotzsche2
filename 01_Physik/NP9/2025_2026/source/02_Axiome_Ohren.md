@@ -33,6 +33,14 @@ mode: textbook
 
 @onload
 window.LIA.settings.font_size = 2
+
+
+const canvas = document.querySelector('.lia-canvas')
+if (canvas) {
+  canvas.classList.remove('lia-navigation--visible')
+  canvas.classList.add('lia-navigation--hidden')
+}
+
 @end
 
 @color
@@ -44,9 +52,15 @@ window.LIA.settings.font_size = 2
 
 # Axiome von P. Watzlawick und Vier-Ohren-Modell
 
-__Erklärvideo:__
+### Umfrage zum Unterrichtsinhalt
 
-[AxiomeNachWatzlawick](https://www.youtube.com/watch?v=GydVGIDyEQ0)
+__Umfrage: Analoge vs. digitale Kommunikation
+
+Bitte anklicken und ausfüllen. 
+
+Bei zwei Personen, bitte zweimal ausfüllen.__
+
+[Umfrage_Analog_Digital ](https://diversewolken.ddns.net/nextcloud/apps/forms/s/jmYsjH6EzDGqYzw4DMoNiLtR)
 
 ### Quiz 1 - Axiome nach Watzlawick
 

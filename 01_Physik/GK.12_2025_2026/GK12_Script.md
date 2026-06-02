@@ -66,6 +66,18 @@ h1, h2, h3, h4, h5, h6 {
 
 @end
 
+@onload
+window.LIA.settings.font_size = 2
+
+
+const canvas = document.querySelector('.lia-canvas')
+if (canvas) {
+  canvas.classList.remove('lia-navigation--visible')
+  canvas.classList.add('lia-navigation--hidden')
+}
+
+@end
+
 mode: presentation
 
 -->
@@ -4359,3 +4371,103 @@ Das Elektron springt auf die dritte Bahn.
 </details>
 
 ---
+
+### Kahoot - Atomvorstellungen
+
+[Kahoot - Atomvorstellungen](https://create.kahoot.it/share/quantenmechanisches-atommodell/b0ab2b43-c070-4f4b-88da-20c9cea61608)
+
+## 8. 6. LASER - Prinzip und Funktionsweise
+
+[Begleitvideo-LASER](https://www.youtube.com/watch?v=xWBdRrcI5BM)
+
+{{1}}
+************
+> __Eigenschaften von Laserlicht (im @color(Wellen-, red) und @color(Teilchenbild, blue)):__
+>
+> - [ ] __intensiv__ - {2}{@color(Lichtwelle hat hohe Amplitude, red)} {3}{| @color(viele Photonen, blue)}
+> - [ ] __monochromatisch__ - {4}{@color(nur eine Wellenlänge, red)} {5}{| @color(nur eine Energie, blue)}
+> - [ ] __kohärent__ - {6}{@color(Phasenbeziehung konstant -> Wellenberg auf Wellenberg/Wellental auf Wellental, red)} {7}{<br> ![Kohaerenz](https://diversewolken.ddns.net/nextcloud/s/KzCZZR9iPqDGYKq/download)}
+************
+
+
+
+{{8}}
+************
+---
+
+>__Emission von Photonen:__
+>
+> Vorraussetzung, dass ein Photon von einem Atom emittiert werden kann:
+
+<section class="flex-container">
+
+<div class="flex-child-1" style="min-width: 200px; margin-bottom: -10px">
+
+{{9}}
+************
+> Ein Elektron des Atoms befindet sich in einem angeregten Zustand (z.B. durch Absorption eines Photons)
+>
+> ![Absorption](https://diversewolken.ddns.net/nextcloud/s/pfZky8257jAsgWc/download)
+************
+
+</div>
+
+<div class="flex-child-1" style="min-width: 200px; margin-bottom: -10px">
+
+{{10}}
+************
+> __Spontane__ Abregung des Elektrons (fällt auf ein niedrigeres Niveau), führt __nicht__ zum Laser <br> <br>
+>
+> ![SpontaneEmission](https://diversewolken.ddns.net/nextcloud/s/Prt82L92MdGN9tT/download)
+************
+</div>
+
+<div class="flex-child-1" style="min-width: 200px; margin-bottom: -10px">
+
+{{11}}
+************
+> __Stimulierte Emission:__ Ein Photon (Ph1), mit der gleichen Energie wie die Bandlücke, regt das angeregte Elektron ab (Sprung auf niedrigeres Niveau) zur Emission eines zweiten Photons Ph2
+>
+> ![StimulierteEmission](https://diversewolken.ddns.net/nextcloud/s/JX66oNPLPAqdFnH/download)
+************
+
+</div>
+
+</section>
+
+************
+
+{{12}}
+************
+---
+
+>__Eigenschaften der Photonen Ph1 & Ph2 bei stimulierter Emission:__
+>
+> 1. {13}{Photon Ph2 hat die selbe Wellenlänge/Energie, wie Ph1 -> @color(__monochromatisches Licht__, red)}
+> 
+> 2. {14}{Phase (Wellenberg/Wellental) von Ph1 und Ph2 sind gleich -> @color(__kohärentes Licht__, red)}
+************
+
+{{15}}
+************
+>__Vorraussetzung fürs Lasen:__
+>
+> Lasen: kontinuierliche Lichtabgabe mit hoher Intensität
+>
+> {16}{__Besetzungsinversion:__ Es befinden sich deutlich mehr Atome in einem angeregten Zustand, als im Grundzustand}
+>
+> {17}{__Metastabiler/Triplet Zustand:__ Die angeregten Elektronen verbleiben sehr __lange in ihrem Zustand__, @color(ohne spontan zu emittieren, blue)}
+
+************
+
+{{16}}
+************
+
+<details style='color:blue;margin-left:10%'>
+
+<summary> Beispiel: He-Ne Laser </summary>
+
+![He-Ne-Laser-Schema](https://diversewolken.ddns.net/nextcloud/s/B8g9KP7fYCsC7Zn/download)
+
+</details>
+************

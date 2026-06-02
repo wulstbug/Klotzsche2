@@ -1,7 +1,7 @@
 <!--
 icon:   https://diversewolken.ddns.net/klotzsche/logo.jpg 
 
-logo: https://i.ytimg.com/vi/z4EFDWgVzyw/hqdefault.jpg
+logo: https://diversewolken.ddns.net/nextcloud/s/zX9G4dcWn7HYrzq/download
 
 author: Christian Golnik
 
@@ -33,6 +33,14 @@ mode: presentation
 
 @onload
 window.LIA.settings.font_size = 2
+
+
+const canvas = document.querySelector('.lia-canvas')
+if (canvas) {
+  canvas.classList.remove('lia-navigation--visible')
+  canvas.classList.add('lia-navigation--hidden')
+}
+
 @end
 
 @color
@@ -44,7 +52,7 @@ window.LIA.settings.font_size = 2
 
 # Einführung: Was ist Kommunikation
 
-![WasIstKommunikation](https://i.ytimg.com/vi/z4EFDWgVzyw/hqdefault.jpg)
+![WasIstKommunikation](https://diversewolken.ddns.net/nextcloud/s/zX9G4dcWn7HYrzq/download)
 
 ### Quiz - Grundlagen Kommunikation
 

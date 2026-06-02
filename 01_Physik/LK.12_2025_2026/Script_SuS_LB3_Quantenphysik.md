@@ -56,6 +56,14 @@ logo: https://static.wixstatic.com/media/56b499_f968ac3986d649a09a223676e4292365
 
 @onload
 window.LIA.settings.font_size = 2
+
+
+const canvas = document.querySelector('.lia-canvas')
+if (canvas) {
+  canvas.classList.remove('lia-navigation--visible')
+  canvas.classList.add('lia-navigation--hidden')
+}
+
 @end
 
 @color

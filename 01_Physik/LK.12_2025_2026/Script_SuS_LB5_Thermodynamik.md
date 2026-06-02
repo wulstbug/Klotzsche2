@@ -56,6 +56,14 @@ logo: https://diversewolken.ddns.net/nextcloud/s/SfR8K6Tn6mDEFkf/download
 
 @onload
 window.LIA.settings.font_size = 2
+
+
+const canvas = document.querySelector('.lia-canvas')
+if (canvas) {
+  canvas.classList.remove('lia-navigation--visible')
+  canvas.classList.add('lia-navigation--hidden')
+}
+
 @end
 
 @color
@@ -137,7 +145,7 @@ window.LIA.settings.font_size = 2
 <script>
 let input = "@input".replace(",", ".")
 try {
-    input = Math.abs(eval(input)-@1)/Math.abs(@1)
+    input = Math.abs(eval(input)-(@1))/Math.abs(@1)
     input <= 0.03
 } catch (e) {
     false
@@ -161,7 +169,7 @@ try {
 <script>
 let input = "@input".replace(",", ".")
 try {
-    input = Math.abs(eval(input)-@1)/Math.abs(@1)
+    input = Math.abs(eval(input)-(@1))/Math.abs(@1)
     input <= 0.2
 } catch (e) {
     false
@@ -185,7 +193,7 @@ try {
 <script>
 let input = "@input".replace(",", ".")
 try {
-    input = Math.abs(eval(input)-@1)
+    input = Math.abs(eval(input)-(@1))
     input == 0
 } catch (e) {
     false
@@ -206,7 +214,7 @@ mode: presentation
 
 ![Thermodynamik](https://diversewolken.ddns.net/nextcloud/s/SfR8K6Tn6mDEFkf/download)
 
-### 13. 1. Einführung
+## 13. 1. Einführung
 
 <section class="flex-container">
 
@@ -361,7 +369,7 @@ $$ \Big[ 1\,\mathrm{ℓ} = 10^{-3}\,\mathrm{m}^3\Big]$$
 </section>
 
 
-### 13. 2. Zustandsgleichung für das ideale Gas
+## 13. 2. Zustandsgleichung für das ideale Gas
 
 <section class="flex-container">
 
@@ -676,7 +684,7 @@ Der Graph dieser Funktion ist eine **fallende Gerade**, die bei ca. $22,0 \, \te
 
 
 
-### 13. 3. Erster Hauptsatz der Thermodynamik
+## 13. 3. Erster Hauptsatz der Thermodynamik
 
 > Der erste Hauptsatz beschreibt die Energieerhaltung in einem thermodynamischen System:
 >
@@ -826,7 +834,7 @@ __Kompression:__ -> $V_2 < V_1$ -> $W > 0$ -> dem System wird Energie zugeführt
 
 @rangeQuiz2($Q$,5.715e5,$\mathrm{J}$)
 
-@rangeQuiz2($W$,0,$\mathrm{J}$)
+@rangeQuiz0($W$,0,$\mathrm{J}$)
 
 </p>
 
@@ -939,7 +947,7 @@ __Beispiel (einfacher Kreisprozess):__
 
 <div class="flex-child-2" style="min-width: 100px; margin-bottom: -10px">
 
-![Kreisprozess2](https://diversewolken.ddns.net/nextcloud/f/764438/download)
+![Kreisprozess2](https://diversewolken.ddns.net/nextcloud/s/Fps2Mt6bstMmrCC/download)
 
 </div>
 
@@ -957,15 +965,9 @@ $W_{A->B} = $ <br> <br>
  
 $W_{B->C} = $
 
-
-$W_{A->B} = $ <br> <br>
- 
-$W_{B->C} = $
-
-
 __Beispielrechnung:__
 
-Das ideale Gas durchläuft den dargestellten zyklischen Prozess. In Punkt A beträgt das Volumen $1\,\mathrm{ℓ}$ und der Druck $2,5\,\mathrm{bar}$. In Punkt $C$ beträgt der Druck $1\,\mathrm{bar}$.
+Das ideale Gas durchläuft den dargestellten zyklischen Prozess. In Punkt A beträgt das Volumen $1\,\mathrm{ℓ}$ und der Druck $2\,\mathrm{bar}$. Das Volumen wird auf $2,5\mathrm{ℓ}$ erhöht (B). In Punkt $C$ beträgt der Druck $1\,\mathrm{bar}$.
 
 </div>
 
@@ -989,8 +991,1282 @@ __Ermitteln Sie die Volumenarbeiten:__
 
 @rangeQuiz2($W_{C->D}$,150,$\mathrm{J}$)
 
-@rangeQuiz2($W_{D->A}$,0,$\mathrm{J}$)
+@rangeQuiz0($W_{D->A}$,0,$\mathrm{J}$)
 
 </div>
 
 </section>
+
+
+#### Übungsaufgabe Kreisprozesse
+
+Ein (vereinfachter) thermodynamischer Kreisprozess in einem geschlossenen System soll in drei Stufen ablaufen. Abb. 1 stellt den Prozess in einem p-V-Diagramm dar. <br> _Hinweis: Diagramm nur qualitativ_.
+
+<section class="flex-container">
+
+<div class="flex-child-1" style="min-width: 300px; margin-bottom: -10px">
+
+![Kreisprozess3](https://diversewolken.ddns.net/nextcloud/s/ATKZxG5PirDSyMB/download)
+
+</div>
+
+<div class="flex-child-1" style="min-width: 300px; margin-bottom: -10px">
+
+__Beschreibung:__ $0,32\,\mathrm{mol}$ Stickstoff ($N_2$) nehmen bei einem Druck von $2,4\,\mathrm{bar}$ ein Volumen von $2,2\,\mathrm{ℓ}$ ein (A). Dann durchläuft das Gas einen zyklischen Prozess mit folgenden Vorgängen.
+
+__A->B:__ Das Gas wird bei konstantem Druck erwärmt bis sein Volumen $4,4\,\mathrm{ℓ}$ beträgt (B).
+
+__B->C:__ Das Gas wird bei konstantem Volumen abgekühlt, bis der Druck auf $1,2\,\mathrm{bar}$ gefallen ist (C).
+
+__C->A:__ Das Gas erfährt eine isotherme Kompression zurück zum Punkt A.
+
+</div>
+
+</section>
+
+---
+
+1. Ermitteln Sie die Temperatur an den Punkten A, B und C.
+
+<section class="flex-container">
+
+<div class="flex-child-1" style="min-width: 300px; margin-bottom: -10px">
+
+<p style='margin-left:10%'>
+
+@rangeQuiz2($T_A$,198.46,$\mathrm{K}$)
+
+@rangeQuiz2($T_B$,396.92,$\mathrm{K}$)
+
+@rangeQuiz2($T_C$,198.46,$\mathrm{K}$)
+
+</p>
+
+</div>
+
+<div class="flex-child-1" style="min-width: 300px; margin-bottom: -10px">
+
+<details style='color:blue'>
+
+<summary> Lösungshinweis </summary>
+
+$T_A$: Nutzen Sie die ideale Gasgleichung, um für den Punkt A die Temperatur zu ermitteln.
+
+$T_B$: Entnehmen Sie aus den Angaben die Werte für den Druck und das Volumen in Punkt B. Ermitteln Sie damit die Temperatur $T_B$.
+
+$T_C$: Schlußfolgern Sie aus den beschriebenen Zustandsänderungen auf die Temperatur $T_C$.
+
+</details>
+
+<details style='color:blue'>
+
+<summary> Lösung </summary>
+
+$T_A = \dfrac{p_A \cdot V_A}{n \cdot R} = 198,5 K$
+
+---
+
+$p_B = p_A$ (isobare)
+
+$V_B = 4,4\,\mathrm{ℓ}$
+
+$T_B = \dfrac{p_B \cdot V_B}{n \cdot R} = 396,92\,\mathrm{K}$
+
+$T_C=T_A=198,5\,\mathrm{K}$
+
+</details>
+
+</div>
+
+</section>
+
+---
+
+2. Ermitteln Sie für die beschriebenen Zustandsänderungen jeweils die Größen $\Delta U$, $W$ und $Q$.
+
+
+<section class="flex-container">
+
+<div class="flex-child-1" style="min-width: 300px; margin-bottom: -10px">
+
+<p style='margin-left:10%'>
+
+__A->B:__ <br> <br>
+
+<p style='margin-left:10%'>
+
+
+@rangeQuiz2($W_{A->B}$,-528,$\mathrm{J}$)
+
+@rangeQuiz2($Q_{A->B}$,1849,$\mathrm{J}$)
+
+@rangeQuiz2($\Delta U_{A->B}$,1321,$\mathrm{J}$)
+
+</p>
+
+</p>
+
+</div>
+
+<div class="flex-child-1" style="min-width: 300px; margin-bottom: -10px">
+
+<details style='color:blue'>
+
+<summary> Lösungshinweis </summary>
+
+$W_{A->B}$: Die Volumenarbeit ist gegeben durch die Fläche unter dem Graphen (Vorzeichen beachten).
+
+$Q_{A->B}$: Die zugeführte Wärmemenge ergibt sich aus der Temperaturänderung und der spezifischen Wärmekapazität bei konstantem Druck $c_p$. 
+
+$\Delta U_{A->B}$: Ermitteln Sie die Änderung der inneren Energie aus den Werte für $Q$ und $W$.
+
+</details>
+
+<details style='color:blue'>
+
+<summary> Lösung </summary>
+
+$W_{A->B} = - \displaystyle\int_{2,2\,\mathrm{ℓ}}^{4,4\,\mathrm{ℓ}} p \cdot \mathrm{d}V = - 2,4\,\mathrm{bar} \cdot (2,2\,\mathrm{ℓ})$
+
+$W_{A->B} = -528\,\mathrm{J}$
+
+---
+
+$Q_{A->B} = m \cdot c_p \cdot \Delta T_{A->B}$
+
+<p style="margin-left:5%">
+
+Masse: $m = n_{N_2} \cdot M_{N_2} = 0,32\,\mathrm{mol} \cdot 0,028\,\mathrm{\dfrac{kg}{mol}} = 0,00896\,\mathrm{kg}$
+
+spez. WK (laut Formelsammlung): $c_p = 1,04 \mathrm{\dfrac{kJ}{kg\cdot K}}$
+
+$\Delta T = (396,9-198,5)\,\mathrm{K} = 198,4 \,\mathrm{K}$
+
+</p>
+
+$Q_{A->B} = 1,849\,\mathrm{kJ} = 1849\,\mathrm{J}$
+
+---
+
+$\Delta U_{A->B} = Q_{A->B} + W_{A->B} = 1321\,\mathrm{J}$
+
+</details>
+
+</div>
+
+</section>
+
+---
+
+
+<section class="flex-container">
+
+<div class="flex-child-1" style="min-width: 300px; margin-bottom: -10px">
+
+<p style='margin-left:10%'>
+
+__B->C:__ <br> <br>
+
+<p style='margin-left:10%'>
+
+
+@rangeQuiz0($W_{B->C}$,0,$\mathrm{J}$)
+
+@rangeQuiz2($Q_{B->C}$,-1849,$\mathrm{J}$)
+
+@rangeQuiz2($\Delta U_{B->C}$,-1849,$\mathrm{J}$)
+
+</p>
+
+</p>
+
+</div>
+
+<div class="flex-child-1" style="min-width: 300px; margin-bottom: -10px">
+
+<details style='color:blue'>
+
+<summary> Lösungshinweis </summary>
+
+$W_{B->C}$: Die Volumenarbeit ist gegeben durch die Fläche unter dem Graphen (Vorzeichen beachten).
+
+$Q_{B->C}$: Die zugeführte Wärmemenge ergibt sich aus der Temperaturänderung und der spezifischen Wärmekapazität bei konstantem Druck $c_p$. 
+
+$\Delta U_{B->C}$: Ermitteln Sie die Änderung der inneren Energie aus den Werte für $Q$ und $W$.
+
+</details>
+
+<details style='color:blue'>
+
+<summary> Lösung </summary>
+
+$W_{B->C} = 0 $ (keine Volumenänderung, keine Volumenarbeit)
+
+---
+
+$Q_{B->C} = m \cdot c_p \cdot \Delta T_{B->C}$
+
+<p style="margin-left:5%">
+
+Masse: $m = 0,00896\,\mathrm{kg}$
+
+spez. WK: $c_p = 1,04 \mathrm{\dfrac{kJ}{kg\cdot K}}$
+
+$\Delta T = (198,5-396,9)\,\mathrm{K} = -198,4 \,\mathrm{K}$
+
+</p>
+
+$Q_{B->C} = -1849\,\mathrm{J}$
+
+---
+
+$\Delta U_{B->C} = Q_{B->C} + W_{B->C} = -1849\,\mathrm{J}$
+
+</details>
+
+</div>
+
+</section>
+
+---
+
+
+<section class="flex-container">
+
+<div class="flex-child-1" style="min-width: 300px; margin-bottom: -10px">
+
+<p style='margin-left:10%'>
+
+__C->A:__ <br> <br>
+
+<p style='margin-left:10%'>
+
+
+@rangeQuiz2($W_{C->A}$,366,$\mathrm{J}$)
+
+@rangeQuiz2($Q_{C->A}$,-366,$\mathrm{J}$)
+
+@rangeQuiz0($\Delta U_{C->A}$,0,$\mathrm{J}$)
+
+</p>
+
+</p>
+
+</div>
+
+<div class="flex-child-1" style="min-width: 300px; margin-bottom: -10px">
+
+<details style='color:blue'>
+
+<summary> Lösungshinweis </summary>
+
+$W_{C->A}$: Die Volumenarbeit ist gegeben durch die Fläche unter dem Graphen (Vorzeichen beachten). Hier muss aus der isothermen Bedingung $p\cdot V=konst$ ein Ausdruck für $p(V)$ gefunden werden und dieser dann in das Integral eingesetzt werden.
+
+$Q_{C->A}$: Die zugeführte Wärmemenge ergibt sich aus der Temperaturänderung und der spezifischen Wärmekapazität bei konstantem Druck $c_p$. 
+
+$\Delta U_{C->A}$: Ermitteln Sie die Änderung der inneren Energie aus den Werte für $Q$ und $W$.
+
+</details>
+
+<details style='color:blue'>
+
+<summary> Lösung </summary>
+
+$W_{C->A} = - \displaystyle\int_{4,4\,\mathrm{ℓ}}^{2,2\,\mathrm{ℓ}} p(V) \cdot \mathrm{d}V $
+
+Für eine isotherme Zuständsänderung gilt: $ p \cdot V = const $.
+
+Man kann für die Druckabhängigkeit: 
+
+$p(V) = p_C \cdot V_C \cdot \dfrac{1}{V}$
+
+ansetzen. Es ergibt sich
+
+$W_{C->A} = - \displaystyle\int_{4,4\,\mathrm{ℓ}}^{2,2\,\mathrm{ℓ}} p_C \cdot V_C \cdot \dfrac{1}{V} \cdot \mathrm{d}V $
+
+Entweder in den CAS eintippen und numerisch lösen lassen:
+
+$W_{C->A} = 366\,\mathrm{J}$
+
+---
+
+Da sich die Temperatur nicht ändert, ändert sich auch die Bewegungsenergie der Teilchen nicht, somit ist die Änderung der inneren Energie gleich Null.
+
+$\Delta U_{C->A} = 0$
+
+---
+
+Aus dem ersten Hauptsatz ergibt sich dann
+
+$\Delta Q_{C->A} = -W_{C->A} = -366\,\mathrm{J}$
+
+</details>
+
+</div>
+
+</section>
+
+
+## 13. 5. Adiabatische Zustandsänderungen
+
+> Viele Zuständsänderungen von Gasen laufen __so schnell oder gut isoliert__ ab, dass für einen Wärmeaustausch mit der Umgebung keine Zeit ist. Einen Vorgang ohne Wärmeaustausch mit der Umgebung nennt man @color(adiabatisch, red), d.h. $$ \boxed{Q = 0} $$
+
+
+<section class="flex-container">
+
+<div class="flex-child-1" style="min-width: 300px; margin-bottom: -10px">
+
+> Für eine @color(adiabatische Zustandsänderung, red) gilt:
+>
+> $$ \boxed{p \cdot V^\kappa = const.} $$ und $$ \boxed{T \cdot V^{\kappa-1} = const.} $$
+>
+> wobei $\kappa = \dfrac{c_p}{c_V}$ als @color(Adiabatenexponent, red) definiert ist.
+> Für ideale einatomige Gase gilt $\kappa=\frac{5}{3}$, für zweiatomige Gase ist $\kappa=\frac{7}{5}$.
+>
+> __Achtung:__ Die Temperatur des Gases ändert sich, aber $Q=0$.
+
+</div>
+
+<div class="flex-child-1" style="min-width: 300px; margin-bottom: -10px">
+
+![Adiabate](https://diversewolken.ddns.net/nextcloud/s/XSQyMaokoLDqY7q/download)
+
+</div>
+
+</section>
+
+---
+
+> __Energiebetrachtung:__
+>
+> $$\Delta U = W \hspace{0.5cm} \mathrm{weil\,} \hspace{0.5cm} Q=0$$
+>
+> $$ W = -\displaystyle\int^{V_2}_{V_1} p(V) \,\mathrm{d}V $$
+>
+> $$ W = - p_1 \cdot V_1^\kappa \cdot \displaystyle\int^{V_2}_{V_1} \dfrac{1}{V^\kappa} \,\mathrm{d}V $$
+
+---
+
+__Beispiel:__ $0,32\,\mathrm{mol}$ Stickstoff ($N_2$) nehmen bei einem Druck von $2,4\,\mathrm{bar}$ ein Volumen von $2,2\,\mathrm{ℓ}$ ein (1). Dann durchläuft das Gas eine adiabatische Zustandsänderung zu einem Volumen von $4,4\,\mathrm{ℓ}$ (2). Ermitteln Sie die Volumenarbeit $W$. Ermitteln Sie die Temperatur $T_2$, sowie den Druck $p_2$.
+
+<section class="flex-container">
+
+<div class="flex-child-1" style="min-width: 300px; margin-bottom: -10px">
+
+<p style='margin-left:10%'>
+
+@rangeQuiz2($W$,-319.6,$\mathrm{J}$)
+
+@rangeQuiz2($p_2$,0.90943,$\mathrm{bar}$)
+
+@rangeQuiz2($T_2$,150.3,$\mathrm{K}$)
+
+</p>
+
+</div>
+
+<div class="flex-child-1" style="min-width: 300px; margin-bottom: -10px">
+
+<details style='color:blue;margin-left:10%'>
+
+<summary> Lösung </summary>
+
+$\kappa=\frac{7}{5}$
+
+CAS -> Integral zur Berechnung der Volumenarbeit ermitteln.
+
+$W = -319,6\,\mathrm{J}$
+
+Der Druck $p_2$ ergibt sich mit Hilfe der Gleichung für die adiabatische Zustandsänderung:
+
+$p_1 \cdot V_1^\kappa = p_2 \cdot V_2^\kappa$
+
+$p_2 = \dfrac{p_1 \cdot V_1^\kappa}{V_2^\kappa} = 90,9\,\mathrm{kPa} = 0,909\,\mathrm{bar}$
+
+Die Temperatur $T_2$ ergibt sich auch der idealen Gasgleichung
+
+$T_2 = \dfrac{p_2 \cdot V_2}{n \cdot R} = 150,3 K$
+
+</details>
+
+</div>
+
+</section>
+
+## 13. 6. Carnotscher Kreisprozess
+
+> Der Carnotsche Kreisprozess ist ein idealisierter thermodynamischer Kreisprozess mit @color(maximal möglichem Wirkungsgrad, red) zwischen zwei Wärmereservoiren (warm $T_{high}$, kalt $T_{low}$). $$ \textbf{Wirkungsgrad:}\hspace{1cm}\boxed{\eta_\text{Carnot} = 1 - \frac{T_{low}}{T_{high}}}$$
+
+---
+
+<section class="flex-container">
+
+<div class="flex-child-1" style="min-width: 300px; margin-bottom: -10px">
+
+__Vier reversible__ Zustandsänderungen:
+
+1. __Isotherme Expansion bei $T_{high}$:__ <br> Das Arbeitsmedium nimmt Wärme $Q_H$ aus dem heißen Reservoir auf und verrichtet Arbeit.
+
+2. __Adiabatische (isentrope) Expansion:__ <br> Keine Wärmeübertragung, die Temperatur sinkt von $T_{high}$ auf $T_{low}$.
+
+3. __Isotherme Kompression bei $T_{low}$:__ <br> Wärme $Q_C$ wird an das kalte Reservoir abgegeben.
+
+4. __Adiabatische (isentrope) Kompression:__ <br> Keine Wärmeübertragung, die Temperatur steigt von $T_{low}$ auf $T_{high}$.
+
+
+</div>
+
+<div class="flex-child-1" style="min-width: 300px; margin-bottom: -10px">
+
+![CarnotProzess](https://diversewolken.ddns.net/nextcloud/s/o2ynFtAAY3ZH7cf/download)
+
+</div>
+
+</section>
+
+
+#### Aufgabe: Der Carnot-Kreisprozess
+
+Carnot-Prozess eines idealen Gases
+
+<section class="flex-container">
+
+<div class="flex-child-1" style="min-width: 300px; margin-bottom: -10px">
+
+Die obere Isotherme mit $T_1 = 500 \text{ K}$ des Carnot-Prozesses eines idealen Gases ($\kappa = 1,4$) verläuft zwischen den Zuständen $p_1 = 8 \text{ bar}$, $V_1 = 2 \text{ m}^3$ und $p_2 = 4 \text{ bar}$, $V_2 = 4 \text{ m}^3$.
+
+Zu berechnen sind:
+
+1. Die Zustandsgrößen $p_3, V_3$ und $p_4, V_4$ am Ende der adiabatischen Expansion bzw. Kompression, wenn die untere Temperatur $T_3 = 350 \text{ K}$ beträgt.
+
+2. Die ausgetauschten Wärmemengen $Q_1$ (zugeführt) und $Q_2$ (abgeführt) 
+
+3. Der thermische Wirkungsgrad $\eta$ 
+
+</div>
+
+<div class="flex-child-1" style="min-width: 300px; margin-bottom: -10px">
+
+![CarnotKreisprozess](https://physikaufgaben.de/bild/a479_1.jpg)
+
+</div>
+
+</section>
+
+---
+
+1. Berechnung der Zustandsgrößen
+
+<p style="margin-left:10%">
+
+Ermitteln Sie zunächst die Volumina $V_3$ und $V_4$ sowie die zugehörigen Drücke.
+
+@rangeQuiz2( $V_3$ , 9.78, $\mathrm{m^3}$ )
+
+@rangeQuiz2( $p_3$ , 1.15e5, $\mathrm{Pa}$ )
+
+@rangeQuiz2( $V_4$ , 4.88, $\mathrm{m^3}$ )
+
+@rangeQuiz2( $p_4$ , 2.3e5, $\mathrm{Pa}$ )
+
+<details style="margin-left:0%;color:blue">
+<summary>Lösungsweg</summary>
+
+**1. Adiabatische Expansion (Zustand 2 zu 3):**
+Da der Übergang adiabatisch ist, gilt die Adiabatengleichung:
+$T_2 \cdot V_2^{\kappa-1} = T_3 \cdot V_3^{\kappa-1}$
+Umgestellt nach $V_3$:
+$V_3 = V_2 \cdot \left(\frac{T_2}{T_3}\right)^{\frac{1}{\kappa-1}} = 4 \text{ m}^3 \cdot \left(\frac{500 \text{ K}}{350 \text{ K}}\right)^{\frac{1}{0,4}}$
+$V_3 \approx 4 \cdot (1,428)^{2,5} \approx \mathbf{9,78 \text{ m}^3}$
+
+---
+
+Den Druck $p_3$ erhält man über die thermische Zustandsgleichung ($p \cdot V / T = const.$):
+$p_3 = p_2 \cdot \frac{V_2}{V_3} \cdot \frac{T_3}{T_2} = 4 \text{ bar} \cdot \frac{4}{9,78} \cdot \frac{350}{500} \approx \mathbf{1,15 \text{ bar}}$
+
+---
+
+**2. Adiabatische Kompression (Zustand 4 zu 1):**
+Analog gilt für $V_4$:
+$V_4 = V_1 \cdot \left(\frac{T_1}{T_4}\right)^{\frac{1}{\kappa-1}} = 2 \text{ m}^3 \cdot \left(\frac{500 \text{ K}}{350 \text{ K}}\right)^{2,5} \approx \mathbf{4,88 \text{ m}^3}$
+$p_4 = p_1 \cdot \frac{V_1}{V_4} \cdot \frac{T_4}{T_1} = 8 \text{ bar} \cdot \frac{2}{4,88} \cdot \frac{350}{500} \approx \mathbf{2,30 \text{ bar}}$
+
+</details>
+
+</p>
+
+---
+
+2. Wärmemengen
+
+<p style="margin-left:10%">
+
+Berechnen Sie die zugeführte Wärme $Q_1$ (isotherme Expansion) und die abgeführte Wärme $Q_2$ (isotherme Kompression).
+
+@rangeQuiz2( $Q_1$ , 1.11, $\mathrm{MJ}$ )
+
+@rangeQuiz2( $Q_2$ , -0.78, $\mathrm{MJ}$ )
+
+<details style="margin-left:0%;color:blue">
+<summary>Lösungsweg</summary>
+
+Bei einer isothermen Zustandsänderung entspricht die Wärme der verrichteten Volumenarbeit:
+$Q = p \cdot V \cdot \ln\left(\frac{V_{ende}}{V_{anfang}}\right)$
+
+**Zugeführte Wärme $Q_1$ (1 zu 2):**
+$Q_1 = 8 \cdot 10^5 \text{ Pa} \cdot 2 \text{ m}^3 \cdot \ln\left(\frac{4}{2}\right) \approx 1,11 \cdot 10^6 \text{ J} = \mathbf{1,11 \text{ MJ}}$
+
+**Abgeführte Wärme $Q_2$ (3 zu 4):**
+$Q_2 = p_3 \cdot V_3 \cdot \ln\left(\frac{V_4}{V_3}\right) = 1,15 \cdot 10^5 \text{ Pa} \cdot 9,76 \text{ m}^3 \cdot \ln\left(\frac{4,88}{9,76}\right)$
+$Q_2 \approx 11,22 \cdot 10^5 \text{ J} \cdot (-0,693) \approx \mathbf{-0,78 \text{ MJ}}$
+
+</details>
+
+</p>
+
+---
+
+3. Thermischer Wirkungsgrad
+
+<p style="margin-left:10%">
+
+Bestimmen Sie den Wirkungsgrad $\eta$ des Prozesses.
+
+@rangeQuiz2( $\eta$ , 0.3, )
+
+<details style="margin-left:0%;color:blue">
+<summary>Lösungsweg</summary>
+
+Für den idealen Carnot-Prozess hängt der Wirkungsgrad nur von den Temperaturen ab:
+$\eta = 1 - \frac{T_{niedrig}}{T_{hoch}}$
+$\eta = 1 - \frac{350 \text{ K}}{500 \text{ K}} = 1 - 0,7 = \mathbf{0,3}$
+
+Alternativ über die Wärmemengen:
+$\eta = \frac{Q_1 + Q_2}{Q_1} = \frac{1,11 \text{ MJ} - 0,78 \text{ MJ}}{1,11 \text{ MJ}} \approx 0,3$
+
+</details>
+
+</p>
+
+
+## 13. 7. Der Stirling-Motor
+
+> Der Stirling-Motor ist eine __Wärmekraftmaschine__ mit geschlossenem Arbeitsgas (He, Luft). Zugeführte thermische Energie wird in mechanische Energie umgewandelt.
+
+---
+
+<section class="flex-container">
+
+<div class="flex-child-1" style="min-width: 300px; margin-bottom: -10px">
+
+__Idealisierter Stirling-Kreisprozess:__
+
+1. __Isotherme Expansion__ am heißen Ende: Gas nimmt Wärme auf und leistet Arbeit.
+2. __Isochore Abkühlung__ über den Regenerator: Gas gibt Wärme an den Regenerator ab.
+3. __Isotherme Kompression__ am kalten Ende: Gas wird zusammengepresst und gibt Wärme ab.
+4. __Isochore Erwärmung__ über den Regenerator: Gas nimmt die gespeicherte Wärme wieder auf.
+
+</div>
+
+<div class="flex-child-1" style="min-width: 300px; margin-bottom: -10px">
+
+![Sterling](https://physikaufgaben.de/bild/a981_1.jpg)
+
+</div>
+
+</section>
+
+---
+
+<section class="flex-container">
+
+<div class="flex-child-1" style="min-width: 300px; margin-bottom: -10px">
+
+__Vorteile:__
+
+- viele Quellen als externe Wärmezufuhr möglich (Solar, Abwärme, Verbrennungen)
+
+- leiser lauf, hoher Wirkungsgrad
+
+- keine Ventilsteuerung (wie beim Verbrennungs-Motor)
+
+</div>
+
+<div class="flex-child-1" style="min-width: 300px; margin-bottom: -10px">
+
+__Nachteile:__ 
+
+- Leistung und Kaltstart träge (anschubsen)
+
+- hohe Anforderungen an Dichtungen und Wärmetauscher
+
+- teuer, wenn hohe Leistung gefordert ist
+
+</div>
+
+</section>
+
+[Video-Idealisierter-SterlingMotor](https://www.youtube.com/watch?v=cxqBK_mwKP4)
+
+
+## 13. 8. Thermodynamische Grundlagen - Übersicht
+
+__Zustandsänderung für ein geschlossenes System__
+
+| | | | | |
+| | isochor | isobar | isotherm | adiabatisch |
+| Bedingung | keine Volumenänderung <br> $\Rightarrow \Delta V=0$ | keine Druckänderung <br> $\Rightarrow \Delta p=0$ | keine Temperaturänderung <br> $\Rightarrow \Delta T=0$ | kein Wärmaustausch <br> $\Rightarrow \Delta Q=0$ |
+| 1. Hauptsatz | $$W=0$$ $$\Rightarrow Q=\Delta U$$ | $$\Delta U=Q+W$$ | $$\Delta U = 0$$ $$\Rightarrow Q = - W $$ | $$Q=0$$ $$\Delta U = W$$ |
+| Beziehungen | $$\dfrac{p}{T}=\text{konst.}$$  | $$\frac{V}{T}=\text{konst.} $$ | $$p \cdot V = \text{konst.} $$| $$p\cdot V^{\kappa}=\text{konst.}$$ $$T\cdot V^{\kappa-1}=\text{konst}$$|
+| Wärmemenge | $$Q=c_v\cdot m\cdot \Delta T$$| $$Q=c_p\cdot m\cdot \Delta T$$ | $$Q=-W$$ | $$Q=0$$ |
+| Volumentarbeit | $$W=0$$ | $$W=-p\,(V_2-V_1)$$ | $$W=-p_1\cdot V_1\displaystyle\int_{V_1}^{V_2} \frac{1}{V}\,\mathrm{d}V$$ $$W=-p_1\cdot V_1 \cdot \ln\left(\frac{V_2}{V_1}\right)$$ | $$ W= -p_1\cdot V_1^\kappa\displaystyle\int_{V_1}^{V_2} \frac{1}{V^\kappa}\,\mathrm{d}V$$ |
+
+### Übungsaufgabe Stirling-Prozess
+
+1. ![Stirling](https://physikaufgaben.de/bild/a981_1.jpg) Die Abbildung zeigt das p(V)-Diagramm eines Stirling'schen Kreisprozesses. Welches V(T)-Diagramm passt zu diesem Kreisprozess?
+
+<p style="margin-left:10%">
+
+![Stirling1](https://physikaufgaben.de/bild/a981_2.jpg)
+
+- [[X]] A
+- [[ ]] B
+- [[ ]] C
+
+</p>
+
+---
+
+2. Die Arbeitsweise einer Wärmekraftmaschine wird durch einen Stirling’schen Kreisprozess idealisiert. Dieser besteht aus zwei isothermen und zwei isochoren Zustandsänderungen.
+
+---
+
+2. 1. Herleitung der Volumenarbeit
+
+<p style="margin-left:10%">
+
+Leiten Sie ausgehend von der allgemeinen Integralschreibweise $W = -\int_{V_1}^{V_2} p(V) \, \mathrm{d}V$ die Gleichung zur Berechnung der Volumenarbeit $W_V$ für eine isotherme Zustandsänderung eines idealen Gases her.
+
+<details style="margin-left:10%;color:blue">
+<summary>Lösungsweg</summary>
+
+1. Nutzen Sie die thermische Zustandsgleichung $p \cdot V = n \cdot R \cdot T$, um den Druck $p$ als Funktion des Volumens $V$ auszudrücken: $p(V) = \frac{n \cdot R \cdot T}{V}$.
+2. Da die Temperatur $T$ bei einer isothermen Änderung konstant ist, können $n, R$ und $T$ vor das Integral gezogen werden.
+3. Integrieren Sie $\frac{1}{V}$ über das Intervall $[V_1; V_2]$. Das Ergebnis ist der natürliche Logarithmus $\ln(V)$.
+
+</details>
+
+<details style="margin-left:10%;color:blue">
+<summary>Lösung</summary>
+
+$W = -\int_{V_1}^{V_2} \frac{n \cdot R \cdot T}{V} \, \mathrm{d}V$
+
+$W = -n \cdot R \cdot T \cdot \int_{V_1}^{V_2} \frac{1}{V} \, \mathrm{d}V$
+
+$W = -n \cdot R \cdot T \cdot [\ln(V)]_{V_1}^{V_2}$
+
+$\mathbf{W = -n \cdot R \cdot T \cdot \ln\left(\frac{V_2}{V_1}\right)}$
+
+</details>
+
+</p>
+
+---
+
+2. 2. Berechnung der Nutzarbeit
+
+<p style="margin-left:10%">
+
+Dieser Prozess wird mit einer Stoffmenge von $n = 2,0 \, \text{mol}$ eines idealen Gases zwischen den Volumina $V_1 = 2000 \, \text{cm}^3$ und $V_2 = 5000 \, \text{cm}^3$ durchgeführt. Die beteiligten Temperaturen betragen $T_{hoch} = 630 \, \text{K}$ und $T_{niedrig} = 330 \, \text{K}$.
+
+Ermitteln Sie die bei einem vollständigen Umlauf verrichtete Nutzarbeit $W_{nutz}$.
+
+@rangeQuiz2( $W_{nutz}$ , 4571.0, $\mathrm{J}$ )
+
+<details style="margin-left:10%;color:blue">
+<summary>Lösungsweg</summary>
+
+Die Nutzarbeit eines Stirling-Prozesses ergibt sich aus der Summe der Volumenarbeiten der beiden isothermen Schritte (die isochoren Schritte verrichten keine Arbeit).
+
+$W_{nutz} = |W_{1 \to 2}| - |W_{3 \to 4}|$
+
+$W_{nutz} = n \cdot R \cdot \ln\left(\frac{V_2}{V_1}\right) \cdot (T_{hoch} - T_{niedrig})$
+
+Setzen Sie die Werte ein: $R \approx 8,314 \, \frac{\text{J}}{\text{mol} \cdot \text{K}}$, $\Delta T = 300 \, \text{K}$ und das Volumenverhältnis $2,5$.
+
+</details>
+
+<details style="margin-left:10%;color:blue">
+<summary>Lösung</summary>
+
+$W_{nutz} = 2,0 \, \text{mol} \cdot 8,314 \, \frac{\text{J}}{\text{mol} \cdot \text{K}} \cdot (630 \, \text{K} - 330 \, \text{K}) \cdot \ln\left(\frac{5000}{2000}\right)$
+
+$W_{nutz} = 16,628 \cdot 300 \cdot \ln(2,5)$
+
+$W_{nutz} \approx 4988,4 \cdot 0,9163$
+$\mathbf{W_{nutz} \approx 4571 \, J}$
+
+Pro Umlauf verrichtet die Maschine eine Nutzarbeit von ca. $4,57 \, \text{kJ}$.
+
+</details>
+
+</p>
+
+---
+
+2. 3. Wirkungsgrad
+
+
+<p style="margin-left:10%">
+
+Geben Sie den maximal möglichen Wirkungsgrad (Carnot-Wirkungsgrad) für diese Maschine an.
+
+@rangeQuiz2( $\eta_{max}$ , 0.476, )
+
+<details style="margin-left:10%;color:blue">
+
+<summary>Lösung</summary>
+
+Der maximale Wirkungsgrad hängt nur von den Temperaturen ab:
+
+$\eta_{max} = 1 - \frac{T_{niedrig}}{T_{hoch}} = 1 - \frac{330 \, \text{K}}{630 \, \text{K}}$
+
+$\mathbf{\eta_{max} \approx 0,476}$ (bzw. $47,6 \%$).
+
+</details>
+
+</p>
+
+
+
+## 13. 9. Energiebilanz einer Wärmekraftmaschine
+
+<H3>Beispiel: Stirling-Prozess</H3>
+
+<section class="flex-container">
+
+<div class="flex-child-1" style="min-width:200px; margin-bottom: -10px">
+
+![Stirling6](https://diversewolken.ddns.net/nextcloud/s/5ExyaAtk4gLjjAR/download)
+
+</div>
+
+<div class="flex-child-1" style="min-width:200px; margin-bottom: -10px">
+
+| __1->2:__ | __Isotherme Expansion__ | 
+| $\Delta U=0 \Rightarrow$  | $W_{1\rightarrow2}=-Q_{1\rightarrow2} $  | 
+
+Das System nimmt Wärmeenergie $\blue{Q_{1\rightarrow2}}$ auf.
+
+---
+
+| __3->4:__ | __Isotherme Kompression__ | 
+| $\Delta U=0 \Rightarrow$  | $W_{3\rightarrow4}=-Q_{3\rightarrow4} $  | 
+
+Das System gibt die Wärmeenergie $\red{Q_{3\rightarrow4}}$ ab.
+
+</div>
+
+<div class="flex-child-1" style="min-width:300px; margin-bottom: -10px">
+
+| __2->3:__ | __Isochore Abkühlung__ | 
+| $W_{2\rightarrow3}=0 \Rightarrow$  | $\Delta U_{2\rightarrow3}=Q_{2\rightarrow3} $  | 
+
+Das System gibt die Wärmeenergie $\orange{Q_{2\rightarrow3}}$ ab.
+
+---
+
+| __4->1:__ | __Isochore Erwärmung__ | 
+| $W_{4\rightarrow1}=0 \Rightarrow$  | $\Delta U_{4\rightarrow1}=Q_{4\rightarrow1} $  | 
+
+Das System nimmt die Wärmeenergie $\green{Q_{4\rightarrow1}}$ auf.
+
+</div>
+
+</section>
+
+---
+
+<H4>__Energiebilanz:__</H4>
+
+<section class="flex-container">
+
+<div class="flex-child-1" style="min-width: 300px; margin-bottom: -10px">
+
+> 1. Da die Temperaturenänderungen 2->3 und 4->1 betragsmäßig gleich sind, gilt:
+>
+> $$\green{Q_{4\rightarrow1}}=-\orange{Q_{2\rightarrow3}}$$
+
+</div>
+
+<div class="flex-child-1" style="min-width: 300px; margin-bottom: -10px">
+
+
+> 2. Aufgrund der Energieerhaltung ($\Delta U = 0$) gilt für die geleistete Arbeit
+>
+> $$\purple{W} = \blue{Q_{1\rightarrow2}} + \red{Q_{3\rightarrow4}}$$
+
+
+</div>
+
+</section>
+
+---
+
+<H4>__Wirkungsgrad:__</H4>
+
+<section class="flex-container">
+
+<div class="flex-child-1" style="min-width: 300px; margin-bottom: -10px">
+
+> Der Wirkungsgrad $\eta$ ist definiert als die genutzte Energie (hier Volumenarbeit $\purple{W}$) pro zugeführter Energie (hier Wärme $\blue{Q_{1\rightarrow2}}$.)
+
+</div>
+
+<div class="flex-child-1" style="min-width: 300px; margin-bottom: -10px">
+
+
+> $$ \eta = \dfrac{\purple{W}}{\blue{Q_{1\rightarrow2}}} = \dfrac{\blue{Q_{1\rightarrow2}}+\red{Q_{3\rightarrow4}}}{\blue{Q_{1\rightarrow2}}} = 1 + \dfrac{\red{Q_{3\rightarrow4}}}{\blue{Q_{1\rightarrow2}}} = 1 - \dfrac{T_{\text{Low}}}{T_{\text{high}}}$$
+
+
+_Hinweis (isotherm): $Q = -W = n \cdot R \cdot T \cdot \ln\frac{V_\text{Ende}}{V_\text{Anfang}}$_
+
+
+</div>
+
+</section>
+
+## 13. 10. Wärmepumpe: Umkehrung der Wärmekraftmaschine
+
+<section class="flex-container">
+
+<div class="flex-child-1" style="min-width: 300px; margin-bottom: -10px">
+
+![Wärmepumpe1](https://diversewolken.ddns.net/nextcloud/s/5mGXTZyBbgGygNp/download)
+
+</div>
+
+<div class="flex-child-1" style="min-width: 300px; margin-bottom: -10px">
+
+
+>Jede @color(__Wärmekraftmaschine__, red) kann als @color(__Wärmepumpe__, blue) betrieben werden, wenn der Kolben angetrieben und der Kreisprozess in die entgegengesetze Richtung durchlaufen wird.
+
+Die Wärmeenergie $\blue{Q_{1\rightarrow2}}$ wird von der niedrigen Temperatur $T_{low}$ auf die höhere Temperatur $T_{high}$ gepumpt.
+
+<H4>Wirkungsgrad</H4>
+
+Der _technische Wirkungsgrad_ ist dann
+
+$$ \eta_{\text{WP}} = \dfrac{\red{Q_{3\rightarrow4}}}{\purple{W}} = \dfrac{\red{Q_{3\rightarrow4}}}{\red{Q_{3\rightarrow4}}+\blue{Q_{1\rightarrow2}}}=\dfrac{T_{\text{high}}}{T_{\text{high}}-T_{\text{low}}} $$
+
+$\eta_{WP}$ ist offensichtlich größer als 1. 
+
+</div>
+
+</section>
+
+<H4>Beispiel: Kühlschrank</H4>
+
+Ein Haushaltskühlschrank arbeitet bei einer typischen Umgebungstemperatur von etwa 25°C und einer Temperatur im Inneren von etwa 4°C. 
+
+1. Ermitteln Sie den maximal möglichen (idealen) technischen Wirkungsgrad dieser Wärmepumpe.
+
+<p style='margin-left:10%'>
+
+@rangeQuiz2($\eta_{\text{WP}}$, 13.95 , )
+
+</p>
+
+
+## 13. 11. Der zweite Hauptsatz der Thermodynamik
+
+> Ein Prozess heißt _irreversibel_ (_nicht umkehrbar_), wenn es nicht möglich ist, den Anfangszustand wieder herzustellen, ohne dass irgendeine andere Änderung der Natur entsteht.
+
+---
+
+
+__Beispiele:__ 
+
+<section class="flex-container">
+
+<div class="flex-child-1" style="min-width: 300px; margin-bottom: -10px">
+
+1. Beim Abkühlen eines Körpers, geht Wärmeenergie von selbst vom Körper höherer Temperatur zum Körper niedrigerer Temperatur über. Niemals wurde der umgekehrte Vorgang beobachtet.
+
+</div>
+
+<div class="flex-child-1" style="min-width: 300px; margin-bottom: -10px">
+
+![Wärmetransport](http://www.lernhelfer.de/sites/default/files/styles/lightbox/public/lexicon/image/BWS-PHY-0351-01.jpg?itok=jPbb87s1)
+
+</div>
+
+</section>
+
+---
+
+<section class="flex-container">
+
+<div class="flex-child-1" style="min-width: 300px; margin-bottom: -10px">
+
+2. Ein bei hohem Druck in einem Behälter eingeschlossenes Gas strömt aus, sobald das Ventil geöffnet wird. Zwei in einem Behälter zunächst getrennte Gase durchmischen sich und entmischen sich nicht von selbst wieder.
+
+</div>
+
+<div class="flex-child-1" style="min-width: 300px; margin-bottom: -10px">
+
+![VermischungVonGasen](https://diversewolken.ddns.net/nextcloud/s/GHSWknQW6f9enEB/download)
+
+</div>
+
+</section>
+
+---
+
+> __Zweiter Hauptsatz:__ Wärme kann durch eine periodisch arbeitende Maschine nicht vollständig in Arbeit umgewandelt werden. Dies wäre eine Realisierung eines __Perpetuum mobile zweiter Art__.
+
+---
+
+<p style="margin-left:5%">
+
+__Bemerkung zum Wirkungsgrad bei Wärmepumpen:__ Da $\eta$ für eine Wärmepumpe deutlich größer als Eins werden kann, wäre der zweite Hauptsatz der Thermodynamik verletzt. Ausweg ist hier, dass die zusätzliche Wärmeenergie @color(nicht erzeugt, red), sondern lediglich @color(aus dem kalten Reservoir entnommen wird, blue).
+
+<section class="flex-container">
+
+<div class="flex-child-1" style="min-width: 300px; margin-bottom: -10px">
+
+Man spricht daher statt vom Wirkungsgrad von einer Leistungszahl _COP_ (_coefficient of performance_):
+
+$$ COP_{max} = \dfrac{T_{\mathrm{high}}}{T_\mathrm{high}-T_\mathrm{low}}$$
+
+</div>
+
+<div class="flex-child-1" style="min-width: 300px; margin-bottom: -10px">
+
+Die tatsächliche Leistungszahl realer Wärmepumpen liegt häufig bei etwa:  $$COP_{real} = \dfrac{COP_{max}}{2}$$
+
+</div>
+
+</section>
+
+</p>
+
+### Aufgaben Thermodynamik
+
+<section class="flex-container">
+
+<div class="flex-child-1" style="min-width: 300px; margin-bottom: -10px">
+
+![Metzler_S167_1](https://diversewolken.ddns.net/nextcloud/s/sjDkYCqo4KWzyq6/download)
+
+</div>
+
+<div class="flex-child-1" style="min-width: 300px; margin-bottom: -10px">
+
+<p style='margin-left:10%'>
+
+- [[X]] Wärmpumpe
+- [[ ]] Wärmkraftmaschine
+
+@rangeQuiz2($Q_{zu}$,-30,$\mathrm{J}$)
+
+</p>
+
+</div>
+
+</section>
+
+<details style='color:blue;margin-left:10%'>
+
+<summary> Lösung 1. </summary>
+
+![Metzler_S167_Lsg1](https://diversewolken.ddns.net/nextcloud/s/YCyEM4CPTefB3Xo/download)
+
+</details>
+
+---
+
+<section class="flex-container">
+
+<div class="flex-child-1" style="min-width: 300px; margin-bottom: -10px">
+
+![Metzler_S_167_2](https://diversewolken.ddns.net/nextcloud/s/kZor4W6YWmbaCeX/download)
+
+</div>
+
+<div class="flex-child-1" style="min-width: 300px; margin-bottom: -10px">
+
+
+<p style='margin-left:10%'>
+
+- [[ ]] Wärmpumpe
+- [[X]] Wärmkraftmaschine
+
+@rangeQuiz2($Q_{CA}$,-5,$\mathrm{J}$)
+
+</p>
+
+</div>
+
+</section>
+
+<details style='color:blue;margin-left:10%'>
+
+<summary> Lösung 2. </summary>
+
+![Metzler_S167_Lsg2](https://diversewolken.ddns.net/nextcloud/s/2asfdXDQRizQGoJ/download)
+
+</details>
+
+
+
+### Übung - Kreisprozess am idealisierten Viertaktmotor
+
+<section class="flex-container">
+
+<div class="flex-child-1" style="min-width: 300px; margin-bottom: -10px">
+
+Im Gegensatz zu einem Sterling-Motor läuft bei einem Viertaktmotor (Otto- oder Diesel-) eine Innere Verbrennung ab (Verbrennung im Kolben) ab.
+
+Die nebenstehende Abbildung zeigt einen idealisierten Kreisprozess für den Viertaktmotor. Beachten Sie, dass der dargestellte Prozess A->D lediglich die Arbeitstakte _Verdichten_ und _Arbeiten_ abbildet. _Ansaugen_ und _Ausstoßen_ werden über den Buchstaben E abgebildet, hier aber nicht betrachtet.
+
+</div>
+
+<div class="flex-child-1" style="min-width: 300px; margin-bottom: -10px">
+
+![Viertaktmotor](https://diversewolken.ddns.net/nextcloud/s/diRgnsp4xkbDGEz/download)
+
+</div>
+
+</section>
+
+
+1. Lesen Sie die Erläuterungen __Der Kreisprozess des Viertaktmotors__ im LB Metzler S. 176. Vergleichen Sie die Angaben im Lehrbuch Duden S. 229.
+
+2. Zeichnen Sie sich ein schematisches Diagramm des Kreisprozesses auf und benennen Sie die dargestellten Zustandsänderungen.
+
+3. Notieren Sie sich die Berechnungsformel für den Wirkungsgrad des idealisierten Viertakt-Motors.
+
+4. Bestimmen Sie den Wirkungsgrad eines Viertaktmotor, wenn bei Superbenzin E10 das Kompressionsverhältnis von 1:7 durch die Verwendung von Super Plus Benzin auf 1:11 erhöht wurde. ($\kappa=1,4$). Vergleichen Sie die aktuellen Preise für Normal- und Superbenzin und schätzen Sie den Nutzen dieser Kraftstoffsorte ab.
+
+<details style='color:blue;margin-left:10%'>
+
+<summary> Lösungshinweise </summary>
+
+Recherchieren Sie den aktuellen Preis für Super E10 und Super Plus Benzin.
+
+Setzen Sie die zusätzlichen Kosten ins Verhältnis und vergleichen Sie dieses mit dem zusätzlichen Vorteil durch einen höheren Wirkungsgrad.
+
+_Hinweis: Die Formel für den Wirkungsgrad eines Benzinmotors muss für die LK nicht auswendig gelernt werden._
+
+</details>
+
+<details style='color:blue;margin-left:10%'>
+
+<summary> Lösungsvorschlag </summary>
+
+__Preise:__
+
+- Aktueller Preis für Super E10 durchschnittlich 2,10€ in Sachsen [Quelle: Super](https://www.clever-tanken.de/tankstelle_liste?lat=51.0923266387361&lon=13.8264348913262&ort=01099&spritsorte=5&r=5)
+
+- Aktueller Preis für Super Plus durchschnittlich 2,32€ in Sachsen [Quelle: SuperPlus](https://www.clever-tanken.de/tankstelle_liste?lat=51.0923266387361&lon=13.8264348913262&ort=01099&spritsorte=6&r=5)
+
+- Preissteigerung entspricht $\dfrac{2,32-2,10}{2,10}\approx 10,5\%$
+
+__Wirkungsgrade:__
+
+- Wirkungsgrad bei Verdichtung 1:7 -> $\eta_{SE10}=1-\frac{1}{7}^{(\kappa-1)}=0,54$
+
+- Wirkungsgrad bei Verdichtung 1:11 -> $\eta_{S+}=1-\frac{1}{11}^{(\kappa-1)}=0,62$
+
+- _Hinweis: Die hier ermittelten Wirkungsgrade sind in der Praxis nicht zu erreichen. Optimierte Otto-Motoren erreichen Wirkungsgrade von etwa 35 %._
+
+- prozentuale Änderung des Wirkungsgrades -> $\frac{\eta_{S+}-\eta_{E10}}{\eta_{E10}}\approx 14,1\,\%$
+
+__Fazit:__
+
+- für das beschriebene SuperPlus Benzin ergibt sich eine Preissteigerung von etwa 10,5 % gegenüber Super E10
+
+- der idealisierte Wirkungsgrad des Benzinmotors steigert sich durch die Nutzung von Super Plus gegenüber Super E10 um etwa 14,1 %
+
+- da es sich bei der Berechnung um einen idealisierten Benzinmotor handelt, könnte die Steigerung des Wirkungsgrades im Realfall etwas niedriger ausfallen
+
+- grundsätzlich lässt sich festhaten, dass sich Preis- und Effizienzsteigerung in einem ähnlichen Bereich bewegen, die Effizienzsteigerung ist sogar hier etwas höher (10,5 % vs. 14,1 %)
+
+</details>
+
+### Übung Wärmepumpe 
+
+Eine Wärmepumpe führt der Heizung eines Hauses eine Wärmeleistung von $20\ \text{kW}$ zu. Die Außentemperatur beträgt $-10^\circ\text{C}$, und die Temperatur des Heizkessels liegt bei $40^\circ\text{C}$.
+
+a) Ermitteln Sie die Leistungszahl (COP), wenn die Maschine bei denselben Temperaturen vollkommen reversibel, also mit dem Carnot‑Wirkungsgrad, arbeiten würde?
+
+<p style='margin-left:10%'>
+
+@rangeQuiz2($COP_{max}$,6.26, )
+
+</p>
+
+<details style='color:blue;margin-left:10%'>
+
+<summary> Lösungshinweis </summary>
+
+Ermitteln Sie zunächst die absoluten Temperaturen des Prozesses. Ermitteln Sie anschließend den $COP_{max}$ dieses Prozesses.
+
+</details>
+
+<details style='color:blue;margin-left:10%'>
+
+<summary> Lösung </summary>
+
+$T_{\mathrm{high}} = 313 K $
+
+$T_{\mathrm{low}} = 263 K $
+
+Die Leistungszahl $COP_{max}$ ergibt sich aus den Temperaturen:
+
+$ COP_{max} = \dfrac{T_{\mathrm{high}}}{T_\mathrm{high}-T_\mathrm{low}} \approx 6.3$
+
+</details>
+
+---
+
+b) Ermitteln Sie die elektrische Leistung, mit welcher die Wärmepumpe dabei mindestens betrieben werden muss?
+
+
+
+<p style='margin-left:10%'>
+
+@rangeQuiz2($P_{min}$, 3200, $\mathrm{W}$)
+
+</p>
+
+<details style='color:blue;margin-left:10%'>
+
+<summary> Lösung </summary>
+
+$P_{min-real}=\frac{20\,\mathrm{kW}}{0,6\cdot 6,26} \approx 5,3\,\mathrm{kW}$ 
+
+betragen.
+
+</details>
+
+---
+
+c) Reale Wärmepumpen erreichen typischer Weise etwa die Hälfte der theoretisch erreichbaren Leistungszahl. Angenommen, die Wärmepumpe erreicht $60\%$ der theoretischen Leistungszahl einer idealen Wärmepumpe. Mit welcher elektrischen Leistung muss sie dann mindestens betrieben werden?
+
+<p style='margin-left:10%'>
+
+@rangeQuiz2($P_{min}$, 5300, $\mathrm{W}$)
+
+</p>
+
+<details style='color:blue;margin-left:10%'>
+
+<summary> Lösungshinweis </summary>
+
+Überprüfen Sie zunächst die allgemeine Definition des Wirkungsgrades einer Wärmepumpe.
+
+Überprüfen Sie anschließend, welche bereits ermittelten Größen hier einzusetzen sind.
+
+Überprüfen Sie ebenfalls die allgemeine Definition der Leistung.
+
+</details>
+
+<details style='color:blue;margin-left:10%'>
+
+<summary> Lösungshinweis2 </summary>
+
+Die allgemeine Form des Wirkungsgrades bei einer Wärmepumpe lautet
+
+$\eta = \frac{|Q|}{W}$
+
+wobei $|Q|$ die transportierte Wärme und $W$ dafür benötigte Arbeit ist.
+
+Die aufzubringende Arbeit $W$ ist somit 
+
+$W = \frac{|Q|}{\eta}$
+
+Die allgemeine Form der Leistung ist 
+
+$P_{min}=\frac{W}{t}$
+
+Es ergibt sich also 
+
+$P_{min}=\dfrac{\frac{|Q|}{t}}{\eta}$
+
+Der Ausdruck $\frac{|Q|}{t}$ ergibt sich aus dem Aufgabentext.
+
+</details>
+
+<details style='color:blue;margin-left:10%'>
+
+<summary> Lösung </summary>
+
+Die Wärmeleistung beträgt $\frac{|Q|}{t}=20\,\mathrm{kW}$. Die minimale Leistung muss demnach
+
+$P=\frac{20\,\mathrm{kW}}{6,26} \approx 3,2\,\mathrm{kW}$ 
+
+betragen.
+
+</details>
+
+
+
+### Übung Berechnung von Zustandsänderungen
+
+Eine Wärmekraftmaschine enthält als Arbeitssubstand 1,00 mol eines idealen Gases. Zu Beginn hat dieses ein Volumen von $24,6\,\mathrm{ℓ}$ und eine Temperatur von $400\,\mathrm{K}$. Sie durchläuft folgenden vierschrittigen Kreisprozess: 
+
+- isotherme Expansion bei $400\,\mathrm{K}$ auf das doppelte Volumen
+
+- isochore Abkühlung auf $300\,\mathrm{K}$
+
+- isotherme Kompression auf das Anfangsvolumen
+
+- Erwärmung bei konstantem Volumen auf die Anfangstemperatur
+
+1. Skizzieren Sie das $p-V$-Diagramm.
+
+<p style='margin-left:10%'>
+
+@rangeQuiz2($p_1$,1.352,$\mathrm{bar}$)
+
+</p>
+
+<details style='color:blue;margin-left:10%'>
+
+<summary> Lösung </summary>
+
+![Lösung_p-v-Diagramm](https://diversewolken.ddns.net/nextcloud/s/tBckp385yPtfPHd/download)
+
+</details>
+
+---
+
+2. Berechnen Sie den Wirkungsgrad der Maschine.
+
+<p style='margin-left:10%'>
+
+@rangeQuiz2($\eta$,0.25, )
+
+</p>
+
+<details style='color:blue;margin-left:10%'>
+
+<summary> Lösungshinweis </summary>
+
+Entscheiden Sie, anhand des Kreisprozesses, welche Formel für den Wirkungsgrad angewendet werden kann.
+
+</details>
+
+<details style='color:blue;margin-left:10%'>
+
+<summary> Lösung </summary>
+
+Nutzen Sie den idealen Wirkungsgrad für den Sterling-Prozess.
+
+$\eta = 1 - \mathrm{\frac{T_\mathrm{low}}{T_\mathrm{T_{high}}}}$
+
+$\eta = 0.25$
+
+</details>

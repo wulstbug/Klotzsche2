@@ -3,7 +3,7 @@ icon:   https://diversewolken.ddns.net/klotzsche/logo.png
 
 author: Christian Golnik
 
-logo: https://logospng.org/wp-content/uploads/canva.png
+logo: https://diversewolken.ddns.net/nextcloud/index.php/s/yL6PWBAP7A5cZ3z/download
 
 language: de
 
@@ -11,21 +11,6 @@ language: de
 .lia-effect__circle {
     display: none !important;
 }
-.flex-container {
-    display: flex;
-    flex-wrap: wrap; /* Allows the items to wrap as needed */
-    align-items: stretch;
-    gap: 20px;
-}
-.flex-child,
-.flex-child-1 { flex: 1; }
-.flex-child-2 { flex: 2; }
-.flex-child-3 { flex: 3; }
-.flex-child-4 { flex: 4; }
-.flex-child-5 { flex: 5; }
-.flex-child-6 { flex: 6; }
-.flex-child-7 { flex: 7; }
-.flex-child-8 { flex: 8; }
 
 @media (min-width: 600px) {
     .newspaper {
@@ -40,20 +25,6 @@ language: de
     }
 }
 
-@media (max-width: 500px) {
-    .flex-child,
-    .flex-child-1,
-    .flex-child-2,
-    .flex-child-3,
-    .flex-child-4,
-    .flex-child-5,
-    .flex-child-6,
-    .flex-child-7,
-    .flex-child-8 {
-        flex: 100%; /* Makes the child divs take up the full width on slim devices */
-        margin-right: 0; /* Removes the right margin */
-    }
-}
 h1, h2, h3, h4, h5, h6 {
   column-span: all;
 }
@@ -125,16 +96,27 @@ mode: presentation
 
 -->
 
-### Canva Einladung
 
-> 1. Bitte folge klicke auf das Canva-Bild und erstelle ein Konto mit deiner Lernsax-E-Mail-Adresse. Du benötigst diese E-Mail-Adresse bei jedem Login.
+## Aufgaben LK1 - Nawi 8
 
-[![CanvaEinladung](https://upload.wikimedia.org/wikipedia/de/thumb/c/c1/Canva_Logo_2021.svg/250px-Canva_Logo_2021.svg.png)<!-- style="margin-left:10%"-->](https://www.canva.com/brand/join?token=7H1zFLcHM2QT8qDKhHIvrg&brandingVariant=edu&invitationDestinationType=group)
+@color(Löse die beiden folgenden Aufgaben. Nutze als Name deinen Vornamen und den Anfangsbuchstaben des Nachnamen., blue)
 
-> Du wirst der Klasse Nawi 8 Gr.1 25/26 zugeordnet.
+---
 
-> 2. Wechsle auf der linken Seite zu deiner Klasse. Dort findest du die heutige Aufgabe.
+1. [Aufgabe-1-Reflexion-Ebener-Spiegel](https://www.geogebra.org/classroom/fcghsuwb)
 
-![Canva_Klasse](https://diversewolken.ddns.net/nextcloud/index.php/s/QkTBQDabZeGn7kb/download)<!-- style="margin-left:10%"-->
+<p style="margin:5%">
 
-> 3. Bearbeite die Aufgabe.
+> [![Aufgabe-1-Reflexion-Ebener-Spiegel](https://diversewolken.ddns.net/nextcloud/index.php/s/n8m7YAd9rcxgBB9/download)](https://www.geogebra.org/classroom/fcghsuwb)
+
+</p>
+
+---
+
+2. [Aufgabe-2-Hubble-Hohlspiegel](https://www.geogebra.org/classroom/nkdkja9k)
+
+<p style="margin:5%">
+
+> [![Aufgabe-Konstruktion-2](https://diversewolken.ddns.net/nextcloud/index.php/s/n8m7YAd9rcxgBB9/download)](https://www.geogebra.org/classroom/nkdkja9k)
+
+</p>

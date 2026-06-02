@@ -32,7 +32,15 @@ h1, h2, h3, h4, h5, h6 {
 mode: textbook
 
 @onload
-window.LIA.settings.font_size = 3
+window.LIA.settings.font_size = 2
+
+
+const canvas = document.querySelector('.lia-canvas')
+if (canvas) {
+  canvas.classList.remove('lia-navigation--visible')
+  canvas.classList.add('lia-navigation--hidden')
+}
+
 @end
 
 @color

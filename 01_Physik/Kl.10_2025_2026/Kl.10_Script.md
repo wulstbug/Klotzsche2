@@ -67,8 +67,19 @@ h1, h2, h3, h4, h5, h6 {
 
 @end
 
-mode: presentation
+@onload
+window.LIA.settings.font_size = 2
 
+
+const canvas = document.querySelector('.lia-canvas')
+if (canvas) {
+  canvas.classList.remove('lia-navigation--visible')
+  canvas.classList.add('lia-navigation--hidden')
+}
+
+@end
+
+mode: presentation
 
 -->
 
@@ -3100,3 +3111,1381 @@ __Diagramm:__
 [7Tage unter ..](https://www.ardmediathek.de/video/7-tage/7-tage-taub/ndr/Y3JpZDovL25kci5kZS8xNDY5XzIwMjAtMTItMDItMjMtNTA)
 
 [Closeup_PloetzlicheWarIchTaub](https://www.ardmediathek.de/video/close-up/ploetzlich-war-ich-taub/hr/NjRlODBkOWUtMjQ4NC00MzBkLWI5NjEtYjVjZDUwNTMyNmYx)
+
+# LB III: Licht als elektromagnetische Welle
+
+### Experimentelle Übung
+
+<section class="flex-container">
+
+<div class="flex-child-1" style="min-width: 300px; margin-bottom: -10px">
+
+{0-1}{![Dispersion1](https://diversewolken.ddns.net/nextcloud/s/CPSeF9L5wyTKHcF/download)}
+
+{1}{![Dispersion1](https://diversewolken.ddns.net/nextcloud/s/qDL3EEyyrMgFyWC/download)}
+
+
+
+</div>
+
+<div class="flex-child-1" style="min-width: 300px; margin-bottom: -10px">
+
+{0-2}{![Dispersion1](https://diversewolken.ddns.net/nextcloud/s/pabkgcfsHMofDom/download)}
+
+{2-3}{![Dispersion1](https://diversewolken.ddns.net/nextcloud/s/HCDZZcWgMFByrw8/download)}
+
+{3}{![Dispersion1](https://diversewolken.ddns.net/nextcloud/s/mEbpxmK7eeNj8bL/download)}
+
+</div>
+
+</section>
+
+3. Bei der Spektralanalyse wurde für eine Linie die Wellenlänge $\lambda=589\,\mathrm{nm}$ ermittelt. Berechne die Frequenz des Lichts. Ermittle ebenso die Farbe.
+
+<section class="flex-container" style="margin-left:5%">
+
+<div class="flex-child-1" style="min-width: 300px; margin-bottom: -10px">
+
+__geg.:__
+
+<p style="margin-left:10%">
+
+{{4}}
+****************
+
+$\lambda = 589 \cdot 10^{-9}\,\mathrm{m}$
+
+$c = 3 \cdot 10^8 \,\mathrm{\dfrac{m}{s}}$
+
+****************
+
+</p>
+
+__ges.:__
+
+{{4}}
+****************
+<p style="margin-left:10%">
+
+$f$, Farbe
+
+</p>
+****************
+
+
+</div>
+
+<div class="flex-child-1" style="min-width: 300px; margin-bottom: -10px">
+
+__Lsg.:__
+
+{{5}}
+****************
+
+<p style="margin-left:10%">
+
+$ c = \lambda \cdot f$
+
+$ f = \dfrac{c}{\lambda} $
+
+{{6}}
+****************
+$ f = 5,09\cdot 10^{14}\,\mathrm{Hz}$
+****************
+
+
+{{6}}
+****************
+__Farbe:__ Orange/Gelb
+****************
+
+</p>
+
+****************
+
+</div>
+
+</section>
+
+
+
+
+### Aufgaben/Lösungen zum Thema Licht als Welle
+
+__1. Grundlagen der Wellen__
+
+Erkläre den Unterschied zwischen longitudinalen und transversalen Wellen. 
+    
+    Notiere die Art, zu welcher das Licht gehört das Licht und warum?
+
+    {1}{<span style="color:orange">Licht ist eine Transversalwelle. Hier schwingt das elektromagnetische und das elektrische Feld senkrecht zur Ausbreitungsrichtung.</span>}
+
+__2. Welleneigenschaften__
+
+Licht breitet sich in Form von Wellen aus. <br>
+   
+a) Nenne die grundlegenden Eigenschaften (physikalische Größen) von Wellen.
+
+{2}{<span style="color:orange">Amplitude, Wellenlänge $\lambda$, Frequenz $f$, Ausbreitungsgeschwindigkeit $c$ </span>}
+
+b) Notiere eine Gleichung welche den Zusammenhang zwischen diesen Größen darstellt.
+
+{3}{<span style="color:orange">$c = \lambda \cdot f$</span>}
+
+__3. Lichtgeschwindigkeit__
+
+Die Lichtgeschwindigkeit im Vakuum beträgt etwa $3 \cdot 10^8 \, \text{m/s}$. Berechne die Frequenz von grünem Licht mit einer Wellenlänge von 500 nm (1 nm = $10^{-9} \, \text{m}$).
+
+    {4}{<span style="color:orange">$f=\dfrac{c}{\lambda}=\dfrac{3\cdot10^8 \frac{m}{s}}{500\cdot10^-9\,m}=6\cdot10^{14} Hz$</span>}
+
+__4. Brechung und Brechungsindex__
+
+Erkläre das Phänomen der Lichtbrechung. Wie verändert sich die Richtung eines Lichtstrahls, wenn er von Luft in Wasser übergeht? Geh auf die Lichtgeschwindigkeit in beiden Medien ein. Nenne das Brechungsgesetz.
+
+    {5}{<span style="color:orange">Lichtbrechung: Der Lichtstrahl verändert beim Übergang von einem Medium in ein anderes Medium seine Ausbreitungsrichtung. Beim Übergang von Luft zu Wasser erhöht sich die optische Dichte. Im Wasser ist die Lichtgeschwindigkeit kleiner als in Luft ($c_{Luft}>c_{Wasser}$).</span>}
+
+    {6}{<span style="color:orange">$\dfrac{sin(\alpha)}{\sin(\beta)} = \dfrac{c_1}{c_2}$</span>}
+
+__5. Beugung__
+
+Beschreibe, was passiert, wenn Licht auf einen sehr kleinen Spalt trifft, dessen Breite vergleichbar mit der Wellenlänge des Lichtes ist. Was versteht man unter Beugung?
+
+    {7}{<span style="color:orange">Die Lichtwelle breitet sich hinter dem Spalt als Kugelwelle aus. Diesen Effekt bezeichnet man als Beugung.</span>}
+
+__6. Interferenz__
+
+Zwei punktförmige Quellen senden Kreiswellen der selben Wellenlänge aus. Skizziere das Interferenzmuster. Definiere die die Begriffe Interferenz __allgemein__, __konstruktive__ und __destruktive Interferenz__.
+
+{8}{<span style="color:orange">Interferenz beschreibt die ungestörte Überlagerung zweier Wellen.</span>}
+
+{9}{<span style="color:orange">Konstruktive Interferenz ist die gegenseitige Verstärkung zweier Lichtwellen. Hier trifft Wellenberg auf Wellenberg und Wellental auf Wellental. Bei der destruktiven Interferenz löschen sich Wellenberg und Wellental gegenseitig aus.</span>}
+
+## Simulation Wellen
+
+??[Waves2D](https://www.falstad.com/ripple/Ripple.html?rol=$+3+512+64+0+1+578+1.5625e-8%0AS+2+0+1+511+1+0+1.633331+0+10+100+1+0%0A203+0+-56+114+578+114+2+6+15%0A)
+
+## Das Doppelspaltexperiment
+
+Bei dem <span style="color:orange">Doppelspaltexperiment</span>  beobachten wir, dass ein Laserstrahl, der auf einen sehr kleinen Doppelspalt (Abstand 0,2mm) fällt, auf einem Schirm ein Beugungsmuster hinterlässt.
+
+<section class="flex-container">
+
+<div class="flex-child-1" style="min-width: 300px; margin-bottom: -10px">
+
+{1-2}{![DoubleSlit_1](https://diversewolken.ddns.net/nextcloud/s/C627BjmXdDGxSgK/download)}
+
+{2-3}{![DoubleSlit_2](https://diversewolken.ddns.net/nextcloud/s/fyRqjT4YfTte57s/download)}
+
+{3-4}{![DoubleSlit_3](https://diversewolken.ddns.net/nextcloud/s/TgGrEBWyHDjaGjf/download)}
+
+{4}{![DoubleSlit_4](https://diversewolken.ddns.net/nextcloud/s/KZymn3HGt3CcGH2/download)}
+
+{1-4}{<H3>@color(Was beobachtet man auf dem Schirm?, blue)</H3>}
+
+</div>
+
+<div class="flex-child-1" style="min-width: 300px; margin-bottom: -10px">
+
+{{5}}
+***************
+> Auf dem Schirm entsteht ein @color(__Interferenzmuster__,blue). Interferenzmuster sind Eigenschaften von Wellen.
+>
+> Licht ist eine Welle. Es benötigt zur Ausbreitung kein Medium.
+> 
+> Die Lichtgeschwindigkeit im Vakuum beträgt $$\boxed{c=3\cdot10^8\,\mathrm{\frac{m}{s}}}$$
+>
+> Es gilt die Wellenausbreitungsgleichung $$ \boxed{c = \lambda \cdot f }$$
+***************
+
+</div>
+
+</section>
+
+
+
+
+
+## Erklärung des Doppelspaltexperiments
+
+[LEIFI-Interferenz-4min_20](https://www.leifiphysik.de/mechanik/mechanische-wellen/grundwissen/interferenz)
+
+## Beugung und Interferenz am Doppelspalt
+
+<iframe src="https://www.geogebra.org/classic/aptkcsex?embed" width="800" height="600" allowfullscreen style="border: 1px solid #e4e4e4;border-radius: 4px;" frameborder="0"></iframe>
+
+## Gangunterschiede bei Interferenz
+
+<section class="flex-container">
+
+<div class="flex-child-1" style="min-width: 300px; margin-bottom: -10px">
+
+__Konstruktive Interferenz__
+
+Konstruktive Interferenz zweier __kohärenter__ Wellen tritt auf, wenn der @color(__Gangunterschied__ $\Delta s$, red) einem Vielfachen der Wellenlänge $\lambda$ entspricht.
+
+$$\Delta s = k\cdot \lambda$$
+
+</div>
+
+<div class="flex-child-1" style="min-width: 300px; margin-bottom: -10px">
+
+__Destruktive Interferenz__
+
+Destruktive Interferenz zweier __kohärenter__ Wellen tritt auf, wenn der @color(__Gangunterschied__ $\Delta s$, red) einer halben Wellenlänge $\lambda$ plus einem Vielfachen der Wellenlänge entspricht.
+
+$$ \Delta s = \frac{\lambda}{2} + k \cdot \lambda $$
+
+</div>
+
+</section>
+
+$$ k \in \{0;1;2;..\}$$
+
+## Beugung und Interferenz am Doppelspalt
+
+<section class="flex-container">
+
+<div class="flex-child-1" style="min-width: 200px; margin-bottom: -10px">
+
+__Skizze:__
+
+{0-1}{![Doppelspalt1](https://diversewolken.ddns.net/nextcloud/s/6tH9E6z3yAy6r5b/download)<!-- style="width:100%" -->}
+{1-2}{![Doppelspalt2](https://diversewolken.ddns.net/nextcloud/s/iW4sH5AyZPX5i42/download)<!-- style="width:100%" -->}
+{2-3}{![Doppelspalt3](https://diversewolken.ddns.net/nextcloud/s/MmQPDqCEBArLyY2/download)<!-- style="width:100%" -->}
+{3-4}{![Doppelspalt4](https://diversewolken.ddns.net/nextcloud/s/QTgQ3q7ejs6sBJe/download)<!-- style="width:100%" -->}
+{4}{![Doppelspalt5](https://diversewolken.ddns.net/nextcloud/s/K2kKxcZNBmYfrBe/download)<!-- style="width:100%" -->}
+
+
+</div>
+
+<div class="flex-child-1" style="min-width: 200px; margin-bottom: -10px">
+
+__Beschreibung:__
+
+{{1}}
+***************
+1. Auf dem Schirm entsteht ein @color(***Interferenzmuster***, green).
+***************
+
+{{2}}
+***************
+2. Die Spalte haben den Abstand $\blue{d}$, der Schirm hat vom Spalt den Abstand $\blue{e}.$
+***************
+
+{{3}}
+***************
+3. Im Punkt __A__ beobachten wir konstruktive Interferenz, wir nennen es @color(***Interferenz-Maximum***, green). Dieses Maximum ergibt sich aus der Überlagerung der Elementarwellen aus den Spalten $s_1$ und $s_2$.
+***************
+</div>
+
+
+<div class="flex-child-1" style="min-width: 200px; margin-bottom: -10px">
+
+__Berechnung:__
+
+{{4}}
+***************
+4. Für konstruktive Interferenz muss der Gangunterschied $\purple{\Delta s}$ einem Vielfachen der Wellenlänge entsprechen. <br> $$ \purple{\Delta s= k \cdot \lambda} \hspace{1cm}\mathrm{mit}\,\,k=1,\,2,..$$
+***************
+
+{{5}}
+***************
+5. Im rechtwinkligen Dreieck $\triangle S_1 S_2 P$ gilt:
+
+$$ \dfrac{\purple{\Delta s}}{\blue{d}} = \boxed{\dfrac{\purple{k\cdot\lambda}}{\blue{d}} = \sin(\alpha) }$$
+
+***************
+
+{{6}}
+***************
+6. Im rechtwinkligen Dreieck $\triangle M O A$ gilt:
+
+$$ \boxed{\tan(\alpha) = \blue{\dfrac{a}{e}}}$$
+
+***************
+
+</div>
+
+</section>
+
+{{7}}
+***************
+> Da wird die Größen $\blue{d,\,e}$ und $\blue{a}$ @color(__messen__, blue) können, lässt sich mit dem __Doppelspalt-Experiment__ die @color(Wellenlänge $\lambda$, purple) des Laserlichts bestimmen.
+
+---
+***************
+
+{{8}}
+***************
+<section class="flex-container">
+
+<div class="flex-child-2" style="min-width: 300px; margin-bottom: -10px">
+
+__Experimentelle Messwerte:__ 
+
+> $d$ = <input type="number" default="0" min="0" max="10" id="d" size="5"> m <br> <br> $a$ = <input type="number" default="0" min="0" max="10" id="a" size="5"> m <br> <br> $e$ = <input type="number" default="1" min="0" max="10" id="e" size="5">m
+
+@color(_Hinweis: Dezimalzahlen mit "."_, gray)
+
+</div>
+
+<div class="flex-child-3" style="min-width: 300px; margin-bottom: -10px">
+
+__Ermittlung der Wellenlänge:__
+
+{{9}}
+***************
+> $\tan{\alpha} = \dfrac{a}{e} \hspace{0.5cm}\Rightarrow\hspace{0.5cm}\alpha = \tan^{-1}\Big(\dfrac{a}{e}\Big) = $ <script input="button">
+    let d = document.getElementById("d").value;
+    let a = document.getElementById("a").value;
+    let e = document.getElementById("e").value;
+    Math.round(Math.atan(a/e)*180/Math.PI*1000)/1000
+</script> °
+***************
+
+{{10}}
+***************
+Für das erste Interferenz-Maximum ($k=1$) gilt:
+
+> $ \lambda = d \cdot \sin\alpha \approx $ <script input="button">
+    let d = document.getElementById("d").value;
+    let a = document.getElementById("a").value;
+    let e = document.getElementById("e").value;
+    Math.round(d*Math.sin(Math.atan(a/e))/1e-9)
+</script> nm $\hspace{1cm}\big[\mathrm{nm}=10^{-9}\mathrm{m}\big]$
+***************
+
+</div>
+
+</section>
+
+***************
+
+## Kurzprotokoll: Wellenlängenbestimmung am Beugungsgitter
+
+__Aufgabe:__ Bestimme die Wellenlänge $\lambda$ für zwei Laserfarben mit Hilfe eines Beugungsgitters. 
+
+__Material:__ Optische Schiene, Laser, Doppelspalt, Schirm
+
+<section class="newspaper">
+
+__Messwerte:__ Farbe: 
+
+- Abstand Gitter-Schirm $e$ = ...
+
+- Gitterkonstante $d$ = 0,0125 mm = 12,5µm
+
+- Abstand zweier Beugungsmaxima $a_1$ = ..
+
+__Berechnung__
+
+    - Wellenlänge $\lambda_1$ = ...
+
+__Messwerte:__ Farbe: 
+
+- Abstand Gitter-Schirm $e$ = ...
+
+- Gitterkonstante $d$ = 0,0125 mm = 12,5µm
+
+- Abstand zweier Beugungsmaxima $a_2$ = ..
+
+__Berechnung__
+
+- Wellenlänge $\lambda_2$ = ...
+
+</section>
+
+{{1}}
+*************
+__Mögliche Verbesserungen der Genauigkeit:__
+
+- Vergrößeren Abstand Gitter-Schirm
+
+- Mehr als ein Beugungsmaximum verwenden
+
+- feineres Gitter verwenden
+
+*************
+
+
+### Aufgaben zum Thema _Licht als Welle_
+
+1. Die Lichtgeschwindigkeit im Vakuum beträgt etwa $3 \cdot 10^8 \, \mathrm{\frac{m}{s}}$. Berechne die Frequenz von grünem Licht mit einer Wellenlänge von 500 nm.
+
+<p style='margin-left:10%'>
+
+@rangeQuiz2($f$,6e14,Hz)
+
+</p>
+
+---
+
+2. Zwei enge Spalte deren Abstand 1,5 mm beträgt werden mit Licht einer Natriumdampflampe (Wellenlänge 589 nm) beleuchtet. Auf einem Schirm in 3 Metern Entfernung werden Interferenzstreifen beobachtet. Berechnen Sie den Abstand der Streifen.
+
+<p style='margin-left:10%'>
+
+@rangeQuiz2($a$,1.18,mm)
+
+</p>
+
+<details style='margin-left:10%'>
+
+<summary> Lösungshinweis </summary>
+
+Achten Sie auf die Nutzung der Standardeinheit _Meter_ für alle Längenangaben.
+
+</details>
+
+---
+
+3. Auf ein optisches Gitter mit der Gitterkonstante $4,00\cdot10^{-6}\,\mathrm{m}$ (_wie Doppelspalt mit Abstand $d$ zu behandeln_) fällt Licht der Wellenlänge $694\,\mathrm{nm}$ senkrecht ein. Das Interferenzbild wird auf einem $2\,\mathrm{m}$ entfernten ebenen Schirm beobachtet, der parallel zum Gitter steht.
+
+3. 1. Berechnen Sie den Abstand $x$ der auf dem Schirm sichtbaren Maxima erster Ordnung.
+
+<p style='margin-left:10%'>
+
+@rangeQuiz2($x$,0.7,m)
+
+<details>
+
+<summary> Lösungshinweis </summary>
+
+Der Abstand der Maxima ist doppelt so groß, wie der Abstand des ersten Maximums vom mittleren Punkt (__O__).
+
+</details>
+
+</p>
+
+3. 2. Überprüfen Sie, bis zu welcher Ordnung Maxima überhaupt beobachtet werden können.
+
+<p style='margin-left:10%'>
+
+@rangeQuiz2($k$,5,.)
+
+</p>
+
+<details style='margin-left:10%'>
+
+<summary> Lösungshinweis1 </summary>
+
+Überlegen Sie, welcher Winkel $\alpha$ für die Beobachtung einer Interferenz hinter einem Beugungsgitter maximal sinnvoll ist.
+
+</details>
+
+<details style='margin-left:10%'>
+
+<summary> Lösungshinweis 2 </summary>
+
+Ein Winkel $\alpha$ von über 90° ist nicht beobachtbar. Überprüfen Sie, dem wievielten Maximum dieser Winkel entspricht.
+
+</details>
+
+
+# Reflexion an der Gitterstruktur einer CD-Rom
+
+<section class="newspaper">
+
+{0-1}{![CD-Struktur](https://wkdiscpress.de/assets/components/phpthumbof/cache/abb-5-data-disk-bg.a94fc4dc03f576410f46570ef2d67a18.jpg.webp)}
+{1-2}{![Doppelspalt1](https://diversewolken.ddns.net/nextcloud/index.php/s/k9B2BRzezjccY9b/download)}
+{2-3}{![Doppelspalt2](https://diversewolken.ddns.net/nextcloud/index.php/s/o3ETdEtdpLHAWrN/download)}
+{3-4}{![Doppelspalt3](https://diversewolken.ddns.net/nextcloud/index.php/s/Sy7HgjwPbEmNG3B/download)}
+{4-5}{![Doppelspalt3](https://diversewolken.ddns.net/nextcloud/index.php/s/6i39C3mY2YFaZX6/download)}
+{5}{![Doppelspalt3](https://diversewolken.ddns.net/nextcloud/index.php/s/cXQ3BBZRACmen8n/download)}
+
+__Beschreibung:__<br>
+Auf einer handelsüblichen CD-Rom sind die gespeicherten Daten in eine periodische Struktur (Spuren) gepresst. Diese Struktur ist einem Beugungsgitter sehr ähnlich, d.h. es es existiert eine __Gitterkonstante d (gennant Spurabstand)__. Richtet man einen Laserstrahl auf die CD, kann man in der Relfexion auf einem Schirm ein Beugungsmuster erkennen. 
+
+<span style="color:blue">__Aufgabenstellung:__<br> Bestimme mit Hilfe der Reflexion eines Laserstrahls an einer CD den Spurabstand d (d.h. die Gitterkonstante). Fertige dazu ein Protokoll an (ein Protokoll pro Gruppe [2 Personen])</span>
+
+
+{{6}}
+*************
+<span style="color:orange">__Achtung:__<br> Bei diesem Versuch muss die korrekte Trigonometrie betrachtet werden. D.h. </span>
+*************
+
+{{7}}
+*************
+<span style="color:orange"> 
+> $\tan(\alpha) = \dfrac{a}{e} \hspace{1cm}$ und $\hspace{1cm} \sin(\alpha) = \dfrac{\lambda}{d}$
+</span>
+*************
+
+
+</section>
+
+{{8}}
+***Hinweise: Der Laserstahl soll durch eine gelochte Pappschablone auf die CD gerichtet werden. Die Reflexion und damit das Beugungsmuster sind auf der Schablone zu erkennen. Durch Vermessen der Abstände der Beugungsmaxima und des Abstands zwischen CD und Schablone lässt sich mit Hilfe der Formeln der Spurabstand d bestimmen.***
+
+## Ablauf
+
+- Klassenfahrt Infos
+
+- 20min Selbstständiges bearbeiten der Aufgaben (Stillarbeit)
+
+- 15min Vergleichen der Lösungen (mit Partner), Probleme diskutieren
+
+- 20min Klassengespräch, Fragen, einzelne Aufgaben
+
+## Aufgaben zum Thema Licht als Welle
+
+__1. Grundlagen der Wellen__
+
+Erkläre den Unterschied zwischen longitudinalen und transversalen Wellen. 
+    
+    Notiere die Art, zu welcher das Licht gehört das Licht und warum?
+
+__2. Welleneigenschaften__
+
+Licht breitet sich in Form von Wellen aus. 
+
+- a) Nenne die grundlegenden Eigenschaften (physikalische Größen) von Wellen.
+
+- b) Notiere eine Gleichung welche den Zusammenhang zwischen diesen Größen darstellt.
+
+__3. Lichtgeschwindigkeit__
+
+Die Lichtgeschwindigkeit im Vakuum beträgt etwa $3 \cdot 10^8 \, \text{m/s}$. Berechne die Frequenz von grünem Licht mit einer Wellenlänge von 500 nm (1 nm = $10^{-9} \, \text{m}$).
+
+__4. Brechung und Brechungsindex__
+
+Erkläre das Phänomen der Lichtbrechung. Wie verändert sich die Richtung eines Lichtstrahls, wenn er von Luft in Wasser übergeht? Geh auf die Lichtgeschwindigkeit in beiden Medien ein. Nenne das Brechungsgesetz.
+
+__5. Beugung__
+
+Beschreibe, was passiert, wenn Licht auf einen sehr kleinen Spalt trifft, dessen Breite vergleichbar mit der Wellenlänge des Lichtes ist. Was versteht man unter Beugung?
+
+__6. Interferenz__
+
+Zwei kohärente Lichtquellen erzeugen auf einem Schirm ein Interferenzmuster. Zeichne ein mögliches Interferenzmuster. Erkläre die Begriffe konstruktive und destruktive Interferenz.
+
+
+__7. Doppelspaltexperiment__
+
+Beschreibe das Doppelspaltexperiment. Beschreibe, wie man mit diesem Experiment die Wellennatur des Lichts begründen kann?
+
+__8. Berechnungen des Spurabstands einer DVD__
+
+Auf einer DVD sind die Daten in sehr kleinen periodischen Strukturen gespeichert. Diese Gitter-Struktur der DVD wird mit einem blauen Laser der Wellenlänge $\lambda=450\,nm$ beleuchtet. Auf einem Schirm, welche $10\,cm$ von der DVD entfernt ist, wird das erste Beugungsmaximum im Abstand von $7,6\,cm$ der direkten Reflexion (Maximum 0.ter Ordnung) beobachtet. Berechne den Spurabstand (d.h. die Gitterkonstante) der DVD in der Einheit $\mu m$.
+
+- <details> <summary>Hinweis 1</summary> <p>![Doppelspalt3](https://diversewolken.ddns.net/nextcloud/index.php/s/cXQ3BBZRACmen8n/download)</p></details> 
+
+- <details> <summary>Hinweis 2</summary> <p>geg.: $\lambda = 450\,nm$, a = 7,6 cm, e = 10 cm</p></details> 
+
+## Lösungen zum Thema Licht als Welle
+
+### Lösungen
+
+__1. Grundlagen der Wellen__
+
+Erkläre den Unterschied zwischen longitudinalen und transversalen Wellen. 
+    
+    Notiere die Art, zu welcher das Licht gehört das Licht und warum?
+
+    {1}{<span style="color:orange">Licht ist eine Transversalwelle. Hier schwingt das elektromagnetische und das elektrische Feld senkrecht zur Ausbreitungsrichtung.</span>}
+
+__2. Welleneigenschaften__
+
+Licht breitet sich in Form von Wellen aus. 
+    
+    a) Nenne die grundlegenden Eigenschaften (physikalische Größen) von Wellen.
+
+    {2}{<span style="color:orange">Amplitude, Wellenlänge $\lambda$, Frequenz $f$, Ausbreitungsgeschwindigkeit $c$ </span>}
+
+    b) Notiere eine Gleichung welche den Zusammenhang zwischen diesen Größen darstellt.
+
+    {3}{<span style="color:orange">$c = \lambda \cdot f$</span>}
+
+__3. Lichtgeschwindigkeit__
+
+Die Lichtgeschwindigkeit im Vakuum beträgt etwa $3 \cdot 10^8 \, \text{m/s}$. Berechne die Frequenz von grünem Licht mit einer Wellenlänge von 500 nm (1 nm = $10^{-9} \, \text{m}$).
+
+    {4}{<span style="color:orange">$f=\dfrac{c}{\lambda}=\dfrac{3\cdot10^8 \frac{m}{s}}{500\cdot10^-9\,m}=6\cdot10^{14} Hz$</span>}
+
+__4. Brechung und Brechungsindex__
+
+Erkläre das Phänomen der Lichtbrechung. Wie verändert sich die Richtung eines Lichtstrahls, wenn er von Luft in Wasser übergeht? Geh auf die Lichtgeschwindigkeit in beiden Medien ein. Nenne das Brechungsgesetz.
+
+    {5}{<span style="color:orange">Lichtbrechung: Der Lichtstrahl verändert beim Übergang von einem Medium in ein anderes Medium seine Ausbreitungsrichtung. Beim Übergang von Luft zu Wasser erhöht sich die optische Dichte. Im Wasser ist die Lichtgeschwindigkeit kleiner als in Luft ($c_{Luft}>c_{Wasser}$).</span>}
+
+    {6}{<span style="color:orange">$\dfrac{sin(\alpha)}{\sin(\beta)} = \dfrac{c_1}{c_2}$</span>}
+
+__5. Beugung__
+
+Beschreibe, was passiert, wenn Licht auf einen sehr kleinen Spalt trifft, dessen Breite vergleichbar mit der Wellenlänge des Lichtes ist. Was versteht man unter Beugung?
+
+    {7}{<span style="color:orange">Die Lichtwelle breitet sich hinter dem Spalt als Kugelwelle aus. Diesen Effekt bezeichnet man als Beugung.</span>}
+
+__6. Interferenz__
+
+Zwei kohärente Lichtquellen erzeugen auf einem Schirm ein Interferenzmuster. Zeichne ein mögliches Interferenzmuster. Erkläre die Begriffe konstruktive und destruktive Interferenz.
+
+    {8}{<span style="color:orange">Interferenzmuster mit Maxima und Minima zeichnen. (siehe Hefter).</span>}
+
+    {9}{<span style="color:orange">Konstruktive Interferenz ist die gegenseitige Verstärkung zweier Lichtwellen. Dabei sind die Maxima jeweils übereinander. Bei der destruktiven Interferenz löschen sich Minima und Maxima der beiden Wellen gegenseitig aus.</span>}
+
+__7. Doppelspaltexperiment__
+
+Beschreibe das Doppelspaltexperiment. Beschreibe, wie man mit diesem Experiment die Wellennatur des Lichts begründen kann?
+
+    {10}{<span style="color:orange">Hinter einem Doppelspalt erkennt man ein Interferenzmuster auf einem Schirm mit Minima und Maxima. Dabei treten Maxima auch an Stellen auf, welche nach dem Lichtstrahl-Modell kein Licht erreichen kann. Das Interferenzmuster kann mit der Welleneigenschaft und den Effekten von __Beugung__ und __Interferenz__ erklärt werden.</span>}
+
+__8. Berechnungen an einer DVD__
+
+Auf einer DVD sind die Daten in sehr kleinen periodischen Strukturen gespeichert. Diese Gitter-Struktur der DVD wird mit einem blauen Laser der Wellenlänge $\lambda=450\,nm$ beleuchtet. Auf einem Schirm, welche $10\,cm$ von der DVD entfernt ist, wird das erste Beugungsmaximum im Abstand von $7,6\,cm$ der direkten Reflexion (Maximum 0.ter Ordnung) beobachtet. Berechne den Spurabstand (d.h. die Gitterkonstante) der DVD in der Einheit $\mu m$.
+
+- <details> <summary>Hinweis 1</summary> <p>![Doppelspalt3](https://diversewolken.ddns.net/nextcloud/index.php/s/cXQ3BBZRACmen8n/download)</p></details> 
+
+- <details> <summary>Hinweis 2</summary> <p>geg.: $\lambda = 450\,nm$, a = 7,6 cm, e = 10 cm</p></details> 
+
+{{11}}
+**********
+<span style="color:orange">
+Lsg.:
+
+-   $\tan(\alpha) = \dfrac{a}{e}$
+
+-   $\alpha = \tan^{-1}(\dfrac{a}{e}) = 37,23^\circ$
+
+- $\sin(\alpha) = \dfrac{\lambda}{d}$ -> $d = \dfrac{\lambda}{\sin(\alpha)}=7,43\cdot10^-7\,m=0,740\,\mu m$
+
+</span>
+*********
+
+# LB 4: Kosmos, Erde, Mensch
+
+!?[IntroAstro](https://diversewolken.ddns.net/nextcloud/s/rS5bgnHLztCEbAL/download)
+
+## Höraufgabe
+
+?[PodCast_SagMalDuAlsPhysiker](https://diversewolken.ddns.net/nextcloud/s/EwHPZzrFSMBPdJx/download)
+
+__Aufgaben:__
+
+1. Notiere dir in einer Skizze eine Übersicht über den Aufbau unseres Sonnensystems.
+
+2. Notiere die drei Kriterien, die einen Himmelskörper als Planet definieren.
+
+3. Begründe, warum Pluto letztendlich nicht mehr als Planet eingetragen war.
+
+4. Ergänze in deiner Skizze (1.) mindestens zwei weitere Zwergplaneten.
+
+5. Definiere den Begriff Astronomische Einheit (AE). <br> <br> <br>
+
+
+
+6. Erläutere, auf welche Weise Uranus, Neptun und Pluto gefunden wurden, obwohl sie von der Erde nur äußerst schwer zu entdecken sind.
+
+
+
+## Recherche-Aufgabe
+
+Nutze die Webseite www.solarsystemscope.com um folgende Informationen über die Planeten unseres Sonnensystems zu notieren.
+
+<section class="flex-container">
+
+<div class="flex-child-1" style="min-width: 500px; margin-bottom: -10px">
+
+<details style='color:blue'>
+
+<summary> Simulation SolarSystemScope.com </summary>
+
+<iframe src="https://www.solarsystemscope.com/iframe" width="100%" height="600" style="min-width:500px; min-height: 400px; border: 2px solid #0f5c6e;"></iframe>
+
+</details>
+
+</div>
+
+<div class="flex-child-1" style="min-width: 300px; margin-bottom: -10px">
+
+[qr-code](https://www.solarsystemscope.com/)
+
+</div>
+
+</section>
+
+---
+
+1. Erstelle eine Tabelle und recherchiere mit Hilfe der App Eigenschaften der Planeten.
+
+{{0-1}}
+***************
+| Name <br> Planet | Abstand zur Sonne <br> $R$ in AE | Umlauf- <br> zeit <br> $T$ in y | Mittlere Bahn- <br> geschwindigkeit <br> $v$ in $\mathrm{\frac{m}{s}}$ | Oberflächen- <br> temperatur <br> $\vartheta$ in °C | Planetenmasse <br> $m$ in kg | Äquatorradius <br> r in km | Dichte <br> $\rho$ in $\mathrm{\frac{kg}{m^3}}$ |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| | | | | | | | |
+***************
+
+{{1-2}}
+***************
+| Name <br> Planet | Abstand zur Sonne <br> $R$ in AE | Umlauf- <br> zeit <br> $T$ in y | Mittlere Bahn- <br> geschwindigkeit <br> $v$ in $\mathrm{\frac{m}{s}}$ | Oberflächen- <br> temperatur <br> $\vartheta$ in °C | Planetenmasse <br> $m$ in kg | Äquatorradius <br> r in km | Dichte <br> $\rho$ in $\mathrm{\frac{kg}{m^3}}$ |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| Merkur | $0,39$ | $0,24$ | <details> <summary> $ \approx 48\,400$ </summary> <br> $v=\dfrac{2 \pi\cdot R}{T}$ <br> <br> $\dfrac{2\pi\cdot 0,39\cdot149,6\cdot10^{9}\,\mathrm{m}}{0,24\cdot365\cdot24\cdot60\cdot60\,\mathrm{s}}$ </details> | $167$ | $3,3\cdot10^{23}$ | $2440$ | <details> <summary> $\approx 5400$ </summary> <br> $\rho = \dfrac{m}{V}$ <br> <br> $\dfrac{3,3\cdot10^{23}\,\mathrm{kg}}{\frac{4}{3}\pi\cdot(2440\cdot10^{3}\,\mathrm{m})^3}$ </details> |
+| Venus | $0,72$ | $0,62$ | <details> <summary> $ \approx 34\,900$ </summary> <br>  $\dfrac{2\pi\cdot 0,72\cdot149\cdot10^{9}\,\mathrm{m}}{0,62\cdot365\cdot24\cdot60\cdot60\,\mathrm{s}}$ </details>  | $462$ | $4,9\cdot10^{24}$ | $6062$ | <details> <summary> $\approx 5300$ </summary> <br> $\dfrac{4,9\cdot10^{24}\,\mathrm{kg}}{\frac{4}{3}\pi\cdot(6062\cdot10^{3}\,\mathrm{m})^3}$ </details> |
+| Erde | | | | | | | |
+| Mars | | | | | | | |
+| Jupiter | | | | | | | |
+| Saturn | | | | | | | |
+| Uranus | | | | | | | |
+| Neptun | | | | | | | |
+***************
+
+{{2-3}}
+***************
+| Name <br> Planet | Abstand zur Sonne <br> $R$ in AE | Umlauf- <br> zeit <br> $T$ in y | Mittlere Bahn- <br> geschwindigkeit <br> $v$ in $\mathrm{\frac{m}{s}}$ | Oberflächen- <br> temperatur <br> $\vartheta$ in °C | Planetenmasse <br> $m$ in kg | Äquatorradius <br> r in km | Dichte <br> $\rho$ in $\mathrm{\frac{kg}{m^3}}$ |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| Merkur | $0,39$ | $0,24$ | <details> <summary> $ \approx 48\,400$ </summary> <br> $v=\dfrac{2 \pi\cdot R}{T}$ <br> <br> $\dfrac{2\pi\cdot 0,39\cdot149,6\cdot10^{9}\,\mathrm{m}}{0,24\cdot365\cdot24\cdot60\cdot60\,\mathrm{s}}$ </details> | $167$ | $3,3\cdot10^{23}$ | $2\,440$ | <details> <summary> $\approx 5\,400$ </summary> <br> $\rho = \dfrac{m}{V}$ <br> <br> $\dfrac{3,3\cdot10^{23}\,\mathrm{kg}}{\frac{4}{3}\pi\cdot(2440\cdot10^{3}\,\mathrm{m})^3}$ </details> |
+| Venus | $0,72$ | $0,62$ | <details> <summary> $ \approx 34\,700$ </summary> <br>  $\dfrac{2\pi\cdot 0,72\cdot150\cdot10^{9}\,\mathrm{m}}{0,62\cdot365\cdot24\cdot60\cdot60\,\mathrm{s}}$ </details>  | $462$ | $4,9\cdot10^{24}$ | $6\,062$ | <details> <summary> $\approx 5\,300$ </summary> <br> $\dfrac{4,9\cdot10^{24}\,\mathrm{kg}}{\frac{4}{3}\pi\cdot(6062\cdot10^{3}\,\mathrm{m})^3}$ </details> |
+| Erde | $1$ | $1$ | $\approx29\,900$ | $15$ | $6\cdot10^{24}$ | $6\,378$ | $\approx 5\,520$ |
+| Mars | $1,52$ | $1,88$ | $\approx 24\,200$ | $-63$ | $6,4\cdot10^{23}$ | $3\,396$ | $\approx 3\,900$ |
+| Jupiter | $5,2$ | $11,9$ | $\approx 13\,000$ | $-120$ | $1,9\cdot10^{27}$ | $71\,492$ | $\approx1240$ |
+| Saturn | $9,58$ | $29$ | $\approx 9\,800$ | $-125$ | $5,7\cdot10^{26}$ | $60\,268$ | $\approx620$ |
+| Uranus | $19,2$ | $84$ | $\approx 6\,800$ | $-210$ | $8,7\cdot10^{25}$ | $25\,559$ | $\approx1\,240$ |
+| Neptun | $30,1$ | $165$ | $\approx 5\,400$ | $-210$ | $1,02\cdot10^{26}$ | $27\,476$ | $\approx 1\,170$ |
+***************
+
+<details style='color:blue'>
+
+<summary> __Erläuterungen zu den Berechnungen:__ </summary>
+
+??[Erklärung_Geschwindigkeit_Dichte](https://diversewolken.ddns.net/nextcloud/s/6x52EWGQo7dyGEJ)
+
+</details>
+
+<details style='color:blue'>
+
+<summary> __Berechnungen:__ </summary>
+
+<section class="flex-container">
+
+<div class="flex-child-1" style="min-width: 300px; margin-bottom: -10px">
+
+> Bahngeschwindigkeit: $v \approx \dfrac{s}{t} = \dfrac{2 \pi\cdot R}{T}$ in $\Big[ \mathrm{\dfrac{m}{s}} \Big]$ <br>
+
+</div>
+
+<div class="flex-child-1" style="min-width: 300px; margin-bottom: -10px">
+
+> Dichte: $\rho = \dfrac{m}{V}$ in $\Big[ \mathrm{\dfrac{kg}{m^3}} \Big]$
+>
+> Volumen (näherungsweise als Kugel) $ V = \frac{4}{3}\pi r^3$
+
+</div>
+
+</section>
+
+</details>
+
+## Eigenschaften des Sonnensystems zum selbstständigen Erarbeiten
+
+[Link_10a](https://liascript.github.io/nightly/?https://raw.githubusercontent.com/wulstbug/Klotzsche2/2025_2026/01_Physik/Kl.10_2025_2026/source/LB4_10a.md) | [Link_10b](https://liascript.github.io/nightly/?https://raw.githubusercontent.com/wulstbug/Klotzsche2/2025_2026/01_Physik/Kl.10_2025_2026/source/LB4_10b.md)
+
+1. Die acht Planeten des Sonnensystems kann man bezüglich ihrer Dichte in zwei Kathegorien einteilen. Definiere anhand deiner Tabelle zwei Gruppen und ordne die Planeten zu.
+
+<details style='color:blue;margin-left:10%'>
+
+<summary> Lösung </summary>
+
+> Merkur, Venus, Erde, Mars sind (erdähnliche) __Gesteinsplaneten__. Ihre Dichte ist deutlich höher (etwa 5x so groß), wie die der restlichen Planten. Diese werden als __Gasplaneten__ (jupiterähnlich) bezeichnet.
+
+</details>
+
+---
+
+2. Zeichne ein Diagramm der mittleren Bewegungsgeschwindigkeit in Abhängigkeit des Bahnradius. Weise nach, dass der Bahnradius $R$ indirekt proportional zur Bahngeschwindigkeit $v^2$ ist.
+
+<details style='color:blue;margin-left:10%'>
+
+<summary> Lösung </summary>
+
+<!--
+     data-show
+     data-title=""
+     data-type="line"
+     data-xlabel="Abstand zur Sonne in AE"
+     data-ylabel="Bahngeschwindigkeit in m/s"
+     data-xlim="0,35"
+-->
+| Abstand zur Sonne <br> $R$  | Mittlere <br> Bahngeschwindigkeit $v$ |
+| :---: | :---: |
+| 0.4 | 49800 |
+| 0.72 | 34700 |
+| 1 | 29900 |
+| 1.52 |24200 |
+| 5.2 | 13024 |
+| 9.58 | 9846 |
+| 19.2 | 6813 |
+| 30.1 | 5437 |
+
+> Die Bewegungsgeschwindigkeit der Planeten ist indirekt proportional zum mittleren Sonnenabstand.
+>
+> Nachweis: Das Produkt $R \cdot v^2$ ist näherungsweise konstant.
+>
+<!--
+     data-show=false
+-->
+| $R$ in AE | $v$ in $\mathrm{\frac{m}{s}}$ | $R \cdot v^2$ |
+| :---: | :---: | :---: |
+| 0.39| 49000 | $\approx 9,9\cdot 10^8$  |
+| 0.72 | 34700 | $\approx 8,7\cdot 10^8$ |
+| 1 | 29900 | $\approx 8,9\cdot 10^8$ |
+| 1.52 |24200 | $\approx 8,9\cdot 10^8$ |
+| 5.2 | 13024 | $\approx 8,8\cdot 10^8$ |
+| 9.58 | 9846 | $\approx 9,2\cdot 10^8$ |
+| 19.2 | 6813 | $\approx 8,9\cdot 10^8$ |
+| 30.1 | 5437 | $\approx 8,9\cdot 10^9$ |
+
+</details>
+
+---
+
+3. Jupiter ist hat ein deutlich größeres Volumen als die Erde. Ermittle den Faktor $f_{Jupiter}$, wie oft das Volumen der Erde in das Volumen des Jupiters passt.
+
+<p style='margin-left:10%'>
+
+@rangeQuiz2($f_{Jupiter}$,1404, )
+
+</p>
+
+<details style='color:blue;margin-left:10%'>
+
+<summary> Lösung </summary>
+
+Das Volumen des Jupiter ist in Näherung einer Kugel 
+
+$$ V_{Jupiter} = \frac{4}{3}\pi\cdot r_{Jupiter}^3$$
+$$ V_{Jupiter} = \frac{4}{3}\pi\cdot (71492\cdot 10^3 \mathrm{m})^3 $$
+$$ V_{Jupiter} = 1,53 \cdot 10^{24} \mathrm{m}^3$$
+
+Für die Erde gilt:
+
+$$ V_{Erde} = \frac{4}{3}\pi\cdot r_{Erde}^3$$
+$$ V_{Erde} = \frac{4}{3}\pi\cdot (6378 \cdot 10^3 \mathrm{m})^3$$
+$$ V_{Erde} = 1,09 \cdot 10^{21} \mathrm{m}^3$$
+
+Der Jupiter ist also ein um den Faktor
+
+$$ f_{Jupiter} = \frac{V_{Jupiter}}{V_{Erde}} \approx 1404 $$
+
+größeres Volumen als die Erde.
+
+</details>
+
+---
+
+4. Ein Flug zum Mars dauert etwa sechs Monate und ist nur dann sinnvoll, wenn Erde und Mars auf der gleichen Seite der Sonne in der Nähe voneinander positioniert sind. Ermittle mit [Hilfe der Simulation](https://solarsystemscope.com), nach wievielen Jahren sich ein Rückflug zur Erde wieder anbieten würde.
+
+<p style='margin-left:10%'>
+
+@rangeQuiz20($t_{Rückflug}$, 2.2, $\mathrm{y}$)
+
+</p>
+
+
+# Die Keppler'schen Gesetze
+
+> Die Keppler'schen Gesetze machen ausschließlich Aussagen über die Bewegungsbahn der Planeten, aber keiner Aussage über die Ursache (Gravitationskraft).
+
+<details style="margin-left:5%">
+
+<summary> __1. Keplersches Gesetz (Ellipsengesetz)__ </summary>
+
+<section class="flex-container">
+
+<div class="flex-child-1" style="min-width: 300px; margin-bottom: -10px">
+
+Die Planeten bewegen sich auf elliptischen Bahnen um die Sonne. In einem gemeinsamen Brennpunkt steht die Sonne.
+
+- **a** … große Halbachse
+- **b** … kleine Halbachse
+- **F₁, F₂** … Brennpunkte
+- **S** … Sonne (im Brennpunkt)
+
+</div>
+
+<div class="flex-child-1" style="min-width: 300px; margin-bottom: -10px">
+
+![Keppler_Skizze_1](https://diversewolken.ddns.net/nextcloud/s/PPYNYHKZBYikbnJ/download)
+
+</div>
+
+</section>
+
+</details>
+
+---
+
+<details style="margin-left:5%">
+
+<summary> __2. Keplersches Gesetz (Flächensatz)__ </summary>
+
+
+<section class="flex-container">
+
+<div class="flex-child-1" style="min-width: 300px; margin-bottom: -10px">
+
+Die Verbindungslinie Erde–Sonne überstreicht in gleichen Zeitintervallen $\Delta t$ die gleiche Fläche $A$.
+
+- $\Delta t$ … Zeitintervall
+- $S$ … Sonne
+
+</div>
+
+<div class="flex-child-1" style="min-width: 300px; margin-bottom: -10px">
+
+![Keppler_Skizze_2](https://diversewolken.ddns.net/nextcloud/s/aCzcdCBY59omwtn/download)
+
+</div>
+
+</section>
+
+</details>
+
+---
+
+<details style="margin-left:5%">
+
+<summary> __3. Keplersches Gesetz (Harmoniegesetz)__ </summary>
+
+<section class="flex-container">
+
+<div class="flex-child-1" style="min-width: 300px; margin-bottom: -10px">
+
+
+Die Quadrate der Umlaufzeiten verhalten sich wie die dritten Potenzen ihrer großen Halbachsen.
+
+$$
+\dfrac{\purple{T_1^{2}}}{\red{T_2^{2}}} = \dfrac{\purple{a_1^{3}}}{\red{a_2^{3}}}
+$$
+
+- $a_1, a_2$ … große Halbachsen von Planet 1 bzw. Planet 2
+- $T_1, T_2$ … Umlaufzeiten
+
+</div>
+
+<div class="flex-child-1" style="min-width: 300px; margin-bottom: -10px">
+
+![Keppler_Skizze_3](https://diversewolken.ddns.net/nextcloud/s/AF8np7L2am9JZ9L/download)
+
+</div>
+
+</section>
+
+</details>
+
+
+## Ellipsenbahnen der Planeten (nur zur Info)
+
+> Die Planetenbahnen sind beinahe __Kreisbahnen__. Das Verhältnis aus großer Halbachse/kleiner Halbachse ($a/b$) liegt für alle Planeten sehr nah an 1.
+
+<!-- data-show="false" -->
+| Planet | a/b |
+|---|---|
+| Merkur | 1,0218 |
+| Venus | 1,000023 |
+| Erde | 1,000139 |
+| Mars | 1,00439 |
+| Jupiter | 1,00117 |
+| Saturn | 1,00146 |
+| Uranus | 1,00112 |
+| Neptun | 1,000037 |
+
+
+# Das Gravitationsgesetz
+
+> Die Gravitationskraft $F_g$ (bisher Gewichtskraft) ist die Kraft, die ein Körper der Masse $M_1$ (z.B. Erde) auf einen Körper der Masse $M_2$ (z.B. Mond, Mensch) im Abstand $r$ ausübt:
+>
+> $$ \boxed{F_g = G \cdot \dfrac{M_1 \cdot M_2}{r^2} }$$
+>
+> mit der Gravitationskonstante $G$ (siehe Formelsammlung) $$ G = 6,67 \cdot 10^{-11} \mathrm{\dfrac{m^3}{kg\cdot s^2}}$$
+>
+> und der Einheit __Newton__ $[\mathrm{N}]$. 
+
+{{1}}
+***************
+> Sie wirkt:
+>
+> - __immer auf der Verbindungslinie__ der beiden Masseschwerpunkte
+>
+> - __immer anziehend__
+>
+> - __immer beidseitig__ ($M_1$ zieht $M_2$ mit $F_g$ an und umgekehrt)
+
+<details style='color:blue'>
+
+<summary> __Beispiel:__ </summary>
+
+??[Beispiel_Rechnung](https://diversewolken.ddns.net/nextcloud/s/Gm3bBXwkGKg2Lo3)
+
+</details>
+***************
+
+
+## Übung zu den Keppler'schen Gesetzen
+
+<p style='color:blue'>
+
+Im folgenden finden Sie einen Informationstext zum Himmelkörper Ceres. Anschließend sind Aufgaben zu lösen. 
+
+Wenn Sie mit der Bearbeitung Schwierigkeiten haben, können Sie die Hinweise zur Lösung nutzen. Die Keppler'schen Gesetze gelten auch für Zwergplaneten.
+
+</p>
+
+Informationstext (Auszüge aus Wikipedia)
+
+<section class="flex-container">
+
+<div class="flex-child-3" style="min-width: 400px; margin-bottom: -10px">
+
+Ceres (IPA: [ˈtseːrεs]) oder – in der Nomenklatur für Asteroiden – Ceres ist mit einem mittleren Äquatordurchmesser von $964\,\mathrm{km}$ und einer Masse von $9,394\cdot 10^{20}\,\mathrm{kg}$ das größte Objekt im Asteroidengürtel und der kleinste von der Internationalen Astronomischen Union als Zwergplanet klassifizierte Himmelskörper. Ceres umkreist die Sonne.
+
+Ceres ist nach der römischen Göttin des Ackerbaus benannt; ihr astronomisches Symbol ist daher eine stilisierte Sichel: ⚳. Sie wurde am 1. Januar 1801 von Giuseppe Piazzi an der Sternwarte Palermo als erster Kleinplanet entdeckt.
+
+Die Flugbahn von Ceres um die Sonne hat eine große Halbachse von $414\cdot 10^{6}\,\mathrm{km}$. Trotz der eigentlich elliptischen Form kann seine Flugbahn näherungsweise als Kreis betrachtet werden.
+
+</div>
+
+<div class="flex-child-1" style="min-width: 200px; margin-bottom: -10px">
+
+![Ceres](https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Ceres_-_RC3_-_Haulani_Crater_%2822381131691%29_%28cropped%29.jpg/330px-Ceres_-_RC3_-_Haulani_Crater_%2822381131691%29_%28cropped%29.jpg "Ceres, fotografiert am 4. Mai 2015 von der Raumsonde Dawn aus 13.600 km Entfernung") ![CeresOrbit](https://diversewolken.ddns.net/nextcloud/s/fwYGXDAzNKQcCrg/download "Flugbahn von Ceres um die Sonne (Quelle: [nasa.gov](ssd.jpl.nasa.gov/tools/sbdb_lookup.html#/?sstr=1&view=VOPDA))")
+
+</div>
+
+</section>
+
+---
+
+__Aufgaben__
+
+1. Ermitteln Sie den größten Abstand von Ceres zur Sonne in der Einheit $\mathrm{AE}$.
+
+<p style='margin-left:10%'>
+
+@rangeQuiz2($R_{Ceres}$,2.77,$\mathrm{AE}$)
+
+</p>
+
+<details style='color:blue;margin-left:10%'>
+
+<summary> Lösungshinweise </summary>
+
+Überprüfen Sie aus Ihren Unterlagen den Wert für 1 AE in der Einheit km. Teilen Sie anschließend die große Halbachse (in km) durch den Wert für 1 AE in km.
+
+</details>
+
+---
+
+2. Ceres ist deutlich kleiner als die Erde und hat eine geringere Masse. Ermitteln Sie den Faktor, um das wievielfache die Masse der Erde größer ist, als die von Ceres.
+
+<p style='margin-left:10%'>
+
+@rangeQuiz2($f_{m->Erde/Ceres}$ ,6390, )
+
+</p>
+
+
+<details style='color:blue;margin-left:10%'>
+
+<summary> Lösungshinweise </summary>
+
+Überprüfen Sie aus Ihren Unterlagen die Masse der Erde. Teilen Sie anschließend die Masse der Erde durch die Masse von Ceres.
+
+</details>
+
+---
+
+3. Ermitteln Sie die mittlere Dichte von Ceres. Nehmen Sie dazu an, dass Ceres nahezu eine Kugelform besitzt.
+
+<p style='margin-left:10%'>
+
+@rangeQuiz2($\rho_{Ceres}$,2000, $\mathrm{\frac{kg}{m^3}}$)
+
+</p>
+
+<details style='color:blue;margin-left:10%'>
+
+<summary> Lösungshinweise </summary>
+
+Ermitteln Sie aus dem Text über Ceres den Radius $r$ des Zwergplaneten. Nutzen Sie anschließend die Formel $\rho = \frac{m}{V}$ um die Dichte zu ermitteln.
+
+Nutzen Sie für $V$ die Formel für das Volumen einer Kugel mit dem Radius r.
+
+</details>
+
+---
+
+4. Ermitteln Sie die Umlaufzeit von Ceres um die Sonne.
+
+<p style='margin-left:10%'>
+
+@rangeQuiz2($T_{Ceres}$,4.61,$\mathrm{y}$)
+
+</p>
+
+<details style='color:blue;margin-left:10%'>
+
+<summary> Lösungshinweise </summary>
+
+Grundlange für die Ermittlung der Umlaufzeit $T$ ist das dritte Keppler'sche Gesetz. Nutzen Sie als Referenzplanet die Erde und ermitteln Sie Umlaufzeit $T$ sowie große Halbachse.
+
+</details>
+
+<details style='color:blue;margin-left:10%'>
+
+<summary> Lösungshinweise 2 </summary>
+
+Da die Erdumlaufbahn um die Sonne in guter Näherung eine Kreisform besitzt, kann der Radius der Umlaufbahn für die große Halbachse angesetzt werden.
+
+Hinweis: Verwenden Sie für die Umlaufzeiten $T_1$ und $T_2$ sowie für die großen Halbachsen $a_1$ bzw. $a_2$ jeweils die gleichen Einheiten.
+
+</details>
+
+---
+
+5. 1. Zwischen welchen Planeten (von der Sonne aus gesehen) bewegt sich Ceres?
+
+<p style='margin-left:10%'>
+
+Die Flugbahn von Ceres liegt zwischen [[ Mars ]] und [[ Jupiter ]]
+
+</p>
+
+---
+
+5. 2. Ermitteln Sie näherungsweise die mittlere Fluggeschwindigkeit von Ceres.
+
+<p style='margin-left:10%'>
+
+@rangeQuiz2($\bar{v}_{Ceres}$ ,17892 , $\mathrm{\frac{m}{s}}$)
+
+</p>
+
+<details style='color:blue;margin-left:10%'>
+
+<summary> Lösungshinweise </summary>
+
+Entnehmen Sie dem Material die Bahnform, welche für Ceres näherungsweise angewendet werden kann.
+
+Ermitteln Sie aus den Angaben im Material die Flugstrecke und entnehmen Sie aus Aufgabe 4. die dafür benötigte Flugzeit. 
+
+</details>
+
+
+
+---
+
+5. 3. Zeichnen Sie Ceres in das von Ihnen erstellte Diagramm (Fluggeschwindigkeit in Abhängigkeit vom Abstand zur Sonne in AE) ein.
+
+<details style='color:blue;margin-left:10%'>
+
+<summary> Lösung </summary>
+
+<!--
+     data-show=true
+     data-type=scatter
+-->
+| $R$ in AE | $v_{Planeten}$ in m/s | $v_{Ceres}$ in m/s |
+| :---: | :---: |  :---: |
+| 0.39| 49000 | |
+| 0.72 | 34700 | |
+| 1 | 29900 | |
+| 1.52 |24200 | |
+| 2.76 | | 17892  |
+| 5.2 | 13024 | |
+| 9.58 | 9846 | |
+| 19.2 | 6813 | |
+| 30.1 | 5437 | |
+
+</details>
+
+## Übung zur Gravitationskraft
+
+Auf der Erdoberfläche wirkt auf jeden Körper die Gewichtskraft, welche immer zum Mittelpunkt der Erde zeigt. Die wirkende Gewichtskraft kann mit Hilfe der Formel
+
+$$ F_g = m \cdot g$$ ermittelt werden, wobei für den Ortsfaktor $g=9,81\mathrm{\frac{m}{s}}$ gilt.
+
+Die allgemeine Form der Gravitationskraft lautet (wie bereits behandelt)
+
+$$ \boxed{F_g = G \cdot \dfrac{M_1 \cdot M_2}{r^2} }$$
+
+wobei sich die Schwerpunkt der beiden Massen $M_1$ und $M_2$ im Abstand $r$ von einander befinden.
+
+Im folgenden soll ein Mensch der Masse $m=80\,\mathrm{kg}$ auf der Oberfläche der Erde betrachtet werden. Gehen Sie zunächst davon aus, dass sich der Körper auf Meeresspiegelhöhe, d.h. näherungsweise im Abstand des Erdradius vom Mittelpunkt, befindet.
+
+1. Ermitteln Sie den Wert der Gravitationskraft $F_g$, mit welcher der Körper von der Erde angezogen wird. <br> _Hinweis: Achten Sie darauf, dass sie die Masse in der Einheit $\mathrm{kg}$ und den Abstand in der Einheit $\mathrm{m}$ verwenden._
+
+<p style='margin-left:10%'>
+
+@rangeQuiz2($F_g$,787,$\mathrm{N}$)
+
+</p>
+
+---
+
+2. Dieselbe Person steigt nun auf den Mount Everest (Höhe 8848 m ü. NN). Entscheiden und begründen Sie jeweils, ob die Masse und die Gewichtskraft des Menschen im Vergleich zum Meeresspiegel gleich bleibt, sinkt oder steigt.
+
+2. 1. Die Masse der Person [[ (bleibt gleich) | sinkt | steigt ]].
+
+<details style='color:blue;margin-left:10%'>
+
+<summary> Begründung </summary>
+
+Die Masse ist eine Eigenschaft des Körpers, die nicht von Ihrem Ort abhängig ist. Daher muss sie gleich bleiben.
+
+</details>
+
+---
+
+2. 2. Die Gewichtskraft der Person [[ bleibt gleich | (sinkt) | steigt ]].
+
+<details style='color:blue;margin-left:10%'>
+
+<summary> Begründung </summary>
+
+Die Gewichtskraft der Person sinkt, da sich der Abstand $r$ der beiden Massen größert und $F_g$ indirekt proportional zu $r^2$ ist.
+
+</details>
+
+---
+
+
+3. Ermitteln Sie, um wieviel Prozent sich die Gewichtskraft von Meeresspiegel zu Mount Everest verändert.
+
+<p style='margin-left:10%'>
+
+@rangeQuiz2($\frac{\Delta F_g}{F_g}$ ,0.254 , $\%$)
+
+</p>
+
+<details style='color:blue;margin-left:10%'>
+
+<summary> Lösungshinweis </summary>
+
+Nutzen Sie die Gewichtskraft auf Meeresspiegelhöhe $F_{g1}$ (siehe 1.) und berechnen Sie die Gewichtskraft auf dem Mount Everrest $F_{g2}$. Bilden sie anschließend die Differenz und teilen Sie dieses durch $F_{g1}$. Drücken Sie diesen Quotienten in $\%$ aus.
+
+</details>
+
+<details style='color:blue;margin-left:10%'>
+
+<summary> Teillösungen </summary>
+
+$$F_{g1} = 787\,\mathrm{N}$$ 
+
+$$F_{g2} = 785\,\mathrm{N}$$
+
+</details>
+
+
+
+## Video - Gravitation
+
+!?[GravitationUndMond](https://www.zdf.de/play/dokus/3sat-dokus-104/230330-sendung-im-bann-des-mondes-wido-100)
+
+# Die Sonne (Aufbau und Funktion)
+
+> Die Sonne ist die primäre Energiequelle und das massereichste Objekt unseres Sonnensystem. Durch Kernfusion wird die Energie bereitsgestellt. Dabei verschmelzen u.a. Wasserstoffkerne und Heliumkerne unter Freisetzung von Energie zu schwereren Elementen. 
+
+---
+
+<section class="flex-container">
+
+<div class="flex-child-1" style="min-width: 300px; margin-bottom: -10px">
+
+
+__Aufbau der Sonne__ 
+
+(@color(_Übernimm den Aufbau der Sonne in deinen Hefter_, blue))
+
+{{1-2}}
+***********
+!?[Aufbau_der_Sonne](www.youtube.com/watch?v=dF-Gzr4ioCY)
+***********
+
+{{2}}
+***********
+![AufbauDerSonne](https://sternfreunde.de/wp-content/uploads/2021/01/Sonne-Aufbau_NASA-Jenny-Mottar.jpg)
+***********
+
+
+</div>
+
+<div class="flex-child-1" style="min-width: 300px; margin-bottom: -10px">
+
+
+{{3}}
+***********
+
+__Kernfusionsprozess im Inneren der Sonne__
+
+@color(Notiere die grundlegende Aspekte der Kernfusion aus dem Inneren der Sonne, blue)
+
+{3-4}{!?[FusionInnerhalbDerSonne](https://youtu.be/RrtmeUU_piM?si=Kb4nlmow07exQR6h)}
+***********
+
+
+</div>
+
+</section>
+
+---
+
+{{4}}
+***********
+
+__Strahlungsleistung der Sonne__
+
+Die gesamte Strahlungsleistung der Sonne (Joule pro Sekunde) pro Sekunde beträgt
+
+$ L = 3,84 \cdot 10^{26}\,\mathrm{W} \hspace{1cm}$ _Hinweis:_ $\Big[1\,\mathrm{W} = 1\,\mathrm{\frac{J}{s}}\Big]$
+
+Auf der Erde kommen $S_0 = 1361\,\mathrm{\frac{W}{m^2}}$ an. Diesen Wert $S_0$ nennt man Solarkonstante.
+
+
+[Erläuterung zur Strahlungsleistung](www.leifiphysik.de/astronomie/sonne/grundwissen/solarkonstante-und-strahlungsleistung)
+
+Die Strahlungsleistung pro Quadratmeter $S$ an anderen Orten im Sonnensystem ist indirekt proportional zum Abstandsquadrat zur Sonne $R$, d.h.
+
+$ S \sim \frac{1}{R^2}$
+***********
+
+## Aufgaben zur Sonne
+
+1. Geben Sie an, welche Energiemenge die Sonne ungefähr an einem Tag freisetzt.
+
+<p style='margin-left:10%'>
+
+@rangeQuiz2($E_{Tag}$,3.318e31,$\mathrm{J}$)
+
+</p>
+
+---
+
+2. Ermitteln Sie die Strahlungsleistung $S_{Mars}$ der Sonne pro Quadratmeter auf dem Mars. 
+
+<p style='margin-left:10%'>
+
+@rangeQuiz2($S_{Mars}$,589,$\mathrm{\frac{W}{m^2}}$)
+
+</p>
+
+<details style='color:blue;margin-left:10%'>
+
+<summary> Lösungshinweis </summary>
+
+Nutzen Sie dazu die Strahlungsleistung auf der Erde sowie die Abhängikeit $S \sim \frac{1}{R^2}$.
+
+</details>
+
+<details style='color:blue;margin-left:10%'>
+
+<summary> Lösungshinweis2 </summary>
+
+Die Strahlungsleistung der Sonne auf der Erde beträgt $S_0 = 1361\,\mathrm{\frac{W}{m^2}}$.
+
+Die Abhängikeit $S \sim \frac{1}{R^2}$ bedeutet das
+
+$S \cdot R^2 = konst.$ für alle Entfernungen. Nutze man als Referenz $S_0$ und $R$ in der Einheit $\mathrm{AE}$ so lässt sich die Strahlungsleistung auf dem Mars bestimmen.
+
+</details>
+
+
+
+

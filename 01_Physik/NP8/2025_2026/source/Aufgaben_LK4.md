@@ -103,23 +103,25 @@ mode: presentation
 
 ---
 
-<H4> 1. Moodle-Test </H4>
+<H4> Konstruktion eines Mikroskops mit Geogebra </H4>
 
-Wechsle zu Moodle. Logge dich ein. Wähle den Test und warte auf das Testkennwort.
+In der folgenden Aufgabe soll die Abbildung eines Gegenstands an einem Mikroskop konstruiert werden. Ein Mikroskop besteht aus zwei Linsen 1. dem Objektiv(welches sich nahe des Gegenstandes befindet) und dem Okular(durch das man mit dem Auge blickt). 
 
-[![Moodle](https://upload.wikimedia.org/wikipedia/commons/c/c6/Moodle-logo.svg)<!-- style="margin-left:10%;max-width:300px"-->](https://diversewolken.ddns.net/moodle/mod/quiz/view.php?id=634)
+Nähere Informationen erhältst du dann in der Aufgabe selbst.
+
+[![Geogebra](https://www.geogebra.org/resource/kkhvrx3m/1nxh0E7gwHIbXc2C/material-kkhvrx3m-thumb.png)<!-- style="margin-left:10%;max-width:300px"-->](https://www.geogebra.org/classroom/hgkatgvg)
 
 ---
 
 <H4> 2. Erstellung eines astronomischen Bildes </H4>
 
-- erstelle ein mehrfarbiges astronomisches Bild aus einem Datensatz für Galaxien und Nebel (siehe unten)
+- erstelle ein mehrfarbiges (RGB) astronomisches Bild aus einem Datensatz für Galaxien und Nebel (siehe unten)
 
 [![Webseite-Bilderstellung](https://diversewolken.ddns.net/nextcloud/index.php/s/9btLqZpm9bpw6PH/download)<!-- style="margin-left:10%;max-width:300px"-->](https://ogy.de/gykl_fits)
 
      []()
 
-- lege dafür mehrere Farbschichten übereinander
+- lege dafür mehrere Farbschichten (RGB) übereinander
 
 - füge anschließend eine weitere Galaxie, einen Nebel, einen  Planeten oder einen Mond aus der Liste der Planeten/Monde hinzu
 

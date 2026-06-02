@@ -7,6 +7,18 @@ language: de
 
 logo: https://www.kepler-chemnitz.de/wp-content/uploads/2020/04/csm_Physik02_266ed04efc.jpg
 
+@onload
+window.LIA.settings.font_size = 2
+
+
+const canvas = document.querySelector('.lia-canvas')
+if (canvas) {
+  canvas.classList.remove('lia-navigation--visible')
+  canvas.classList.add('lia-navigation--hidden')
+}
+
+@end
+
 @style
 .lia-effect__circle {
     display: none !important;

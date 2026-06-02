@@ -65,6 +65,14 @@ h1, h2, h3, h4, h5, h6 {
 
 @onload
 window.LIA.settings.font_size = 2
+
+
+const canvas = document.querySelector('.lia-canvas')
+if (canvas) {
+  canvas.classList.remove('lia-navigation--visible')
+  canvas.classList.add('lia-navigation--hidden')
+}
+
 @end
 
 @color
@@ -208,12 +216,30 @@ Shift/Bias: 0,48
 
 __Eigenes Bild erstellen__
 
-Nutzen Sie eines der folgenden Archive, um ein eigenes Bild zu kreieren.
+
+1. Galaxie oder Nebel
 
 <p style="margin-left:10%">
+
+Nutzen Sie eines der folgenden Archive, um ein eigenes Bild zu kreieren.
 
 ![Protoplanetarer Nebel](https://diversewolken.ddns.net/nextcloud/index.php/s/PqgERr2xt8i7Med/download "[__Download: Protoplanetarer Nebel Roberts22__](https://diversewolken.ddns.net/nextcloud/index.php/s/z8aNGd9ZH5RReCA/download)") ![Messier17](https://diversewolken.ddns.net/nextcloud/index.php/s/qbFaWHTfAeWd6mT/download "[Download: __Messier17__](https://diversewolken.ddns.net/nextcloud/index.php/s/jEkJ3dx7ksBxFSG/download)")![Download __Andromeda__](https://diversewolken.ddns.net/nextcloud/index.php/s/6g6T2Hx7a6wbtZs/download "[Download __Andromeda__](https://diversewolken.ddns.net/nextcloud/index.php/s/6EAJGojPg2bbJx4/download)") ![Sternenhaufen](https://diversewolken.ddns.net/nextcloud/index.php/s/mc5HffHedeGa2H7/download "[Download __Sternenhaufen M35__](https://diversewolken.ddns.net/nextcloud/index.php/s/SNH69qqnJ97KYf8/download)") ![Sternengeburtsort](https://diversewolken.ddns.net/nextcloud/index.php/s/DgbMbws45onKZwq/download "[Download __Sternengeburtsnebel N11B__](https://diversewolken.ddns.net/nextcloud/index.php/s/GXWMXnSBMGE8yCE/download)") ![Antennengalaxie](https://diversewolken.ddns.net/nextcloud/index.php/s/9tp4AbWfw4TPitH/download "[Download __Antennengalaxy__](https://diversewolken.ddns.net/nextcloud/index.php/s/TR68AnTQMttWxpN/download)") ![BoxNebula_NGC6309](https://diversewolken.ddns.net/nextcloud/index.php/s/YpCrG9HRYtJL8pM/download "[Download __BoxNebula NGC6309__](https://diversewolken.ddns.net/nextcloud/index.php/s/ffmNCi5wgeRfkms/download)")![SäulenDerSchöpfung](https://diversewolken.ddns.net/nextcloud/index.php/s/9TNKpkfnG6GNZqN/download "[Download __Säulen der Schöpfung__](https://diversewolken.ddns.net/nextcloud/index.php/s/dSPGZjLAk4TbiRa/download)")![ZwergGalaxy](https://diversewolken.ddns.net/nextcloud/index.php/s/jSQqnEd3pyfMksG/download "[Download __Zwerggalaxie__](https://diversewolken.ddns.net/nextcloud/index.php/s/3NNmPRS7FyK2QGi/download)")![Käfernebel](https://diversewolken.ddns.net/nextcloud/index.php/s/zNgFznYprCJQSgX/download "[Download __Käfernebel__](https://diversewolken.ddns.net/nextcloud/index.php/s/AWcdYQYLAcywJiA/download)")
 
 _Hinweis:_ Für die Andromeda-Galaxy sollte das Tool _Zoom out_ zwei mal verwendet werden.
 
 </p>
+
+2. Planet oder Mond
+
+<p style="margin-left:10%">
+
+Fügen Sie einen Planeten oder Mond mit einer geeigneten Farbwahl hinzu.
+
+![Mars](https://diversewolken.ddns.net/nextcloud/index.php/s/xRPy7zWi55j7PDa/download "[__Download: Mars__](https://diversewolken.ddns.net/nextcloud/index.php/s/4z8w6TT8dQ4cgRg/download)") ![Jupiter](https://diversewolken.ddns.net/nextcloud/index.php/s/ojfyyjxKo92aHsQ/download "[__Download: Jupiter__](https://diversewolken.ddns.net/nextcloud/index.php/s/x9rFSDGNzYsXdEe/download)") ![Saturn](https://diversewolken.ddns.net/nextcloud/index.php/s/8BTDmYf5LX4Go4k/download "[__Download: Saturn__](https://diversewolken.ddns.net/nextcloud/index.php/s/F2maPSXLwQaGdpG/download)") ![Mond](https://diversewolken.ddns.net/nextcloud/index.php/s/Nb3MZDLPdwA7LAJ/download "[__Download: Mond__](https://diversewolken.ddns.net/nextcloud/index.php/s/zwAMeE72nLgr6pf/download)")
+
+</p>
+
+3. Speichern Sie ihr Bild (Image -> Save as PNG) auf ihrem PC ab und laden Sie es [hier hoch](https://diversewolken.ddns.net/nextcloud/s/WmRB7yT4BsAM4b2).
+
+
+
