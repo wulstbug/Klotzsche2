@@ -1130,7 +1130,7 @@ hier bedeutet
 
 > Sammle drei Begriffe, die dir im folgenden Video als wichtig erscheinen.
 
-!?[Motivationsvideo](https://diversewolken.ddns.net/nextcloud/index.php/f/719652/download)
+!?[Motivationsvideo](https://diversewolken.ddns.net/nextcloud/s/sHkCaggoJoadT6g/download)
 
 ## Begriffe aus dem Video
 
