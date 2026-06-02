@@ -68,7 +68,7 @@ h1, h2, h3, h4, h5, h6 {
 @end
 
 @onload
-window.LIA.settings.font_size = 2
+window.LIA.settings.font_size = 3
 
 
 const canvas = document.querySelector('.lia-canvas')
