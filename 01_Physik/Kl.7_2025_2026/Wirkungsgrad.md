@@ -422,3 +422,18 @@ Technische Geräte oder Vorgänge in der Natur wandeln @color(zugeführte Energi
 > $ \boxed{\eta = \dfrac{\orange{E_{nutz}}}{\blue{E_{zu}}}}$
 ***********
 
+{{2}}
+***********
+Man sagt: "Je __höher__ der Wirkungsgrad, desto __effizienter__ arbeitet ein Energiewandler."
+***********
+
+{{3}}
+***********
+__Aufgaben:__
+
+- AH. S.31  /A. 1, 3
+- LB. S.116 /A. 3, 4 (gemeinsam)
+- LB. S.122 /A. 1
+- AH. S.31  /A. 2, 4
+- LB. S.122 /A. 3, 4
+***********
