@@ -460,3 +460,7 @@ __Aufgaben:__
 ***********
 ??[Übungen](https://diversewolken.ddns.net/nextcloud/s/RPZ8odiegTmfi3G)
 ***********
+
+## Aufgabe Learningapps
+
+??[Wirkungsgrad](https://learningapps.org/watch?v=ptpemhsy526)
