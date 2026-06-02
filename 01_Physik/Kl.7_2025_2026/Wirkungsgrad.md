@@ -424,10 +424,15 @@ __Technische Geräte oder Vorgänge in der Natur wandeln__ @color(zugeführte En
 
 {{2}}
 ***********
-Man sagt: "Je __höher__ der Wirkungsgrad, desto __effizienter__ arbeitet ein Energiewandler."
+![bspGluehlampe](https://diversewolken.ddns.net/nextcloud/s/32rRY7ZN44tnwag/download)
 ***********
 
 {{3}}
+***********
+Man sagt: "Je __höher__ der Wirkungsgrad, desto __effizienter__ arbeitet ein Energiewandler."
+***********
+
+{{4}}
 ***********
 __Aufgaben:__
 
