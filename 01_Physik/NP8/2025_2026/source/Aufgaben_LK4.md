@@ -115,13 +115,13 @@ Nähere Informationen erhältst du dann in der Aufgabe selbst.
 
 <H4> 2. Erstellung eines astronomischen Bildes </H4>
 
-- erstelle ein mehrfarbiges astronomisches Bild aus einem Datensatz für Galaxien und Nebel (siehe unten)
+- erstelle ein mehrfarbiges (RGB) astronomisches Bild aus einem Datensatz für Galaxien und Nebel (siehe unten)
 
 [![Webseite-Bilderstellung](https://diversewolken.ddns.net/nextcloud/index.php/s/9btLqZpm9bpw6PH/download)<!-- style="margin-left:10%;max-width:300px"-->](https://ogy.de/gykl_fits)
 
      []()
 
-- lege dafür mehrere Farbschichten übereinander
+- lege dafür mehrere Farbschichten (RGB) übereinander
 
 - füge anschließend eine weitere Galaxie, einen Nebel, einen  Planeten oder einen Mond aus der Liste der Planeten/Monde hinzu
 
