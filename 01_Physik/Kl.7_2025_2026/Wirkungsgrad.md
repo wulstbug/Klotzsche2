@@ -410,3 +410,15 @@ mode: presentation
 
 
 ```
+
+# Die Effizienz von Energiewandlern
+
+Technische Geräte oder Vorgänge in der Natur wandeln @color(zugeführte Energie $E_{zu}$, orange) in eine oder mehrere Energieformen um. Dabei können wir oft nur eine umgewandelte @color(Energieform nutzen $E_{nutz}$, blue).
+
+{{1}}
+***********
+> Der Wirkungsgrad für gibt an, welchen Anteil (in %) wir von der @color(zugeführten Energie $E_{zu}$) überhaupt @color(nutzen, blue) können.
+>
+> $ \boxed{\eta = \dfrac{\orange{E_{nutz}}}{\blue{E_{zu}}}}$
+***********
+
