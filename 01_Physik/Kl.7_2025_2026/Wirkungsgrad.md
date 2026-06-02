@@ -397,7 +397,7 @@ mode: presentation
 
 
                  +----------------------+
-                 | Kernenergieenergie   |
+                 | Kernenergie   |
                  +----------------------+
                             |
                     +-------+-------+
@@ -417,7 +417,7 @@ __Technische Geräte oder Vorgänge in der Natur wandeln__ @color(zugeführte En
 
 {{1}}
 ***********
-> Der Wirkungsgrad für gibt an, welchen Anteil (in %) wir von der @color(zugeführten Energie $E_{zu}$) überhaupt @color(nutzen, blue) können.
+> Der Wirkungsgrad gibt an, welchen Anteil (in %) wir von der @color(zugeführten Energie $E_{zu}$) überhaupt @color(nutzen, blue) können.
 >
 > $$ \boxed{\eta = \dfrac{\orange{E_{nutz}}}{\blue{E_{zu}}}}$$
 ***********
