@@ -98,7 +98,7 @@ icon:   https://diversewolken.ddns.net/klotzsche/logo.jpg
 
 ## (optional) Definition eines periodischen Vorgangs
 
-!?[Motivationsvideo](https://diversewolken.ddns.net/nextcloud/index.php/f/719652/downlaod)
+!?[Motivationsvideo](https://diversewolken.ddns.net/nextcloud/index.php/f/719652/download)
 
 {{1}}
 ************
