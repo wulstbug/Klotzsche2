@@ -2360,6 +2360,14 @@ _Hinweis:_ Für die Andromeda-Galaxy sollte das Tool _Zoom out_ zwei mal verwend
 
 </p>
 
-# Dokumentation Mikroskope
+# Dokumentation Mikroskope Planet Wissen
 
 ??[Doku-Mikroskope-Planet-Wissen](https://www.youtube.com/watch?v=uMoV1vv9kJA)
+
+# Dokumentation Mikroskope - Carl Zeiss Jena
+
+??[MikroskopeDokuZeiss](https://www.youtube.com/watch?v=PN4w26eoEaw)
+
+## Feedback Nawi8
+
+[qr-code](https://diversewolken.ddns.net/nextcloud/apps/forms/s/gnsJC72eTw7KGtF3xwyFKnR7)
