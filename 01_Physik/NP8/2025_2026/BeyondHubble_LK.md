@@ -2359,3 +2359,7 @@ Nutzen Sie eines der folgenden Archive, um ein eigenes Bild zu kreieren.
 _Hinweis:_ Für die Andromeda-Galaxy sollte das Tool _Zoom out_ zwei mal verwendet werden.
 
 </p>
+
+# Dokumentation Mikroskope
+
+??[Doku-Mikroskope-Planet-Wissen](https://www.youtube.com/watch?v=uMoV1vv9kJA)
