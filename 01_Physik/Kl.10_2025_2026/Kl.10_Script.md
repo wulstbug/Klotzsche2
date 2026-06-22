@@ -4491,7 +4491,5 @@ $S \cdot R^2 = konst.$ für alle Entfernungen. Nutze man als Referenz $S_0$ und 
 Nutze die folgenden vier Lernapps für physikalische Inhalte. Gib anschließend ein Feedback dazu ab.
 
 | Schlaukopf App | Physics Quiz (new) | Physics Quiz (Game) | Simple Club |
-| | | |
 | [qr-code](https://diversewolken.ddns.net/nextcloud/apps/forms/s/Sab4znmLc8kffFTxLCcDMTGa) | [qr-code](https://diversewolken.ddns.net/nextcloud/apps/forms/s/fQQFpyJ24smCZc9C9pkXCmNQ) | [qr-code](https://diversewolken.ddns.net/nextcloud/apps/forms/s/3RysbeKfdsLpSRjbHyw2ra5e) | [qr-code](https://diversewolken.ddns.net/nextcloud/apps/forms/s/3RysbeKfdsLpSRjbHyw2ra5e) |
 
-</section>
