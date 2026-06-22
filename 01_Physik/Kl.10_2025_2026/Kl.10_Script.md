@@ -4486,13 +4486,13 @@ $S \cdot R^2 = konst.$ für alle Entfernungen. Nutze man als Referenz $S_0$ und 
 
 </details>
 
-# Apps and Rating
+# Physik-Lernapps Rating
 
-Nutze die folgenden vier Lernapps für physikalische Inhalte. Gib anschließend ein Feedback dazu ab.
+> Nutze die folgenden vier Lernapps für physikalische Inhalte. Gib anschließend ein Feedback dazu ab.
 
 | | |
-| Schlaukopf App | Physics Quiz (new) |
+| __Schlaukopf App__ | __Physics Quiz (new)__ |
 | [qr-code](https://diversewolken.ddns.net/nextcloud/apps/forms/s/Sab4znmLc8kffFTxLCcDMTGa) | [qr-code](https://diversewolken.ddns.net/nextcloud/apps/forms/s/fQQFpyJ24smCZc9C9pkXCmNQ) |
-|  Physics Quiz (Game) | Simple Club |
-| [qr-code](https://diversewolken.ddns.net/nextcloud/apps/forms/s/3RysbeKfdsLpSRjbHyw2ra5e) | [qr-code](https://diversewolken.ddns.net/nextcloud/apps/forms/s/3RysbeKfdsLpSRjbHyw2ra5e) |
+|  __Physics Quiz (Game)__ | __Simple Club__ |
+| [qr-code](https://diversewolken.ddns.net/nextcloud/apps/forms/s/3RysbeKfdsLpSRjbHyw2ra5e) | [qr-code](https://diversewolken.ddns.net/nextcloud/apps/forms/s/bZ592zzxC6aZJsATeYAbtsyg) |
 
