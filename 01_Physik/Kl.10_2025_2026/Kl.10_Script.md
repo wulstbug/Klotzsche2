@@ -4496,3 +4496,8 @@ $S \cdot R^2 = konst.$ für alle Entfernungen. Nutze man als Referenz $S_0$ und 
 |  __Physics Quiz (Game)__ | __Simple Club__ |
 | [qr-code](https://diversewolken.ddns.net/nextcloud/apps/forms/s/3RysbeKfdsLpSRjbHyw2ra5e) | [qr-code](https://diversewolken.ddns.net/nextcloud/apps/forms/s/bZ592zzxC6aZJsATeYAbtsyg) |
 
+# Physik Einschätzung
+
+[qr-code](https://diversewolken.ddns.net/nextcloud/apps/forms/s/o7KMnSKz5RtCfwYz9CFxFPr7)
+
+??[Einschätzung](https://diversewolken.ddns.net/nextcloud/apps/forms/s/o7KMnSKz5RtCfwYz9CFxFPr7)
