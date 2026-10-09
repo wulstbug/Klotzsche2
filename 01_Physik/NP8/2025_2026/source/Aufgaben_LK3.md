@@ -105,18 +105,7 @@ mode: presentation
 
 1. [Aufgabe-1-Reflexion-Ebener-Spiegel](https://www.geogebra.org/classroom/fcghsuwb)
 
-<p style="margin:5%">
-
-> [![Aufgabe-1-Reflexion-Ebener-Spiegel](https://diversewolken.ddns.net/nextcloud/index.php/s/n8m7YAd9rcxgBB9/download)](https://www.geogebra.org/classroom/fcghsuwb)
-
-</p>
-
 ---
 
 2. [Aufgabe-2-Hubble-Hohlspiegel](https://www.geogebra.org/classroom/nkdkja9k)
 
-<p style="margin:5%">
-
-> [![Aufgabe-Konstruktion-2](https://diversewolken.ddns.net/nextcloud/index.php/s/n8m7YAd9rcxgBB9/download)](https://www.geogebra.org/classroom/nkdkja9k)
-
-</p>
